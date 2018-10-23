@@ -1,3 +1,13 @@
+body {
+    background-color: #1a1927;
+    font-family: Arial, Tahoma;
+    font-size: 18px;
+}
+
+.bodyWrapper {
+    color: #fff;
+}
+
 #siteHeader {
     padding-bottom: 25px;
     background: url("/images/Stir-Trek-Space-Background-slice.jpg") no-repeat center;
@@ -61,6 +71,32 @@
     text-transform: uppercase;
     margin: 10px;
     font-weight: 500;
+}
+
+
+.blue-btn,
+.btn-blue {
+    background-color: #38666a;
+    border: none;
+    color: #f5f5f5;
+}
+
+.orange-btn,
+.btn-orange {
+    border: none;
+    background-color: #c03e24;
+    color: #f5f5f5;
+}
+
+.gold-btn,
+.btn-gold {
+    border: none;
+    background-color: #d7c875;
+    color: #f5f5f5;
+}
+
+.goldCalloutText {
+    color: #d7c875;
 }
 
 

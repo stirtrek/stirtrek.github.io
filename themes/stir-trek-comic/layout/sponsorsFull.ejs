@@ -51,4 +51,56 @@
             <% } %>
         </div>
     </section>
+    <section>
+        <div class="row">
+
+            <% for (var sponsor of site.data.sponsors.gold ) {%>
+
+                <div class="col-md-3 sponsor sponsor-<%= sponsor.level %>">
+                    <div class="comic-panel-body">
+                        <a href="sponsor.link">
+                            <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
+                        </a>
+                    </div>
+                    <div class="sponsorsAbout text-with-comic-panel">
+                        <div class="sponsorCompany">
+                            <%= sponsor.name %>
+                            <br>
+                            <a href="<%= sponsor.link %>"><%= sponsor.link %></a>
+                            <div class="description">
+                                <%= sponsor.description %>
+                            </div>                            
+                        </div>
+                    </div>
+                </div>
+                
+            <% } %>
+        </div>
+    </section>
+    <section>
+        <div class="row">
+
+            <% for (var sponsor of site.data.sponsors.silver ) {%>
+
+                <div class="col-md-3 sponsor sponsor-<%= sponsor.level %>">
+                    <div class="comic-panel-body">
+                        <a href="sponsor.link">
+                            <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
+                        </a>
+                    </div>
+                    <div class="sponsorsAbout text-with-comic-panel">
+                        <div class="sponsorCompany">
+                            <%= sponsor.name %>
+                            <br>
+                            <a href="<%= sponsor.link %>"><%= sponsor.link %></a>
+                            <div class="description">
+                                <%= sponsor.description %>
+                            </div>                            
+                        </div>
+                    </div>
+                </div>
+                
+            <% } %>
+        </div>
+    </section>        
 </div>

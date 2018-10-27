@@ -1,0 +1,88 @@
+{
+    "principal": [
+        {
+            "name": "IGS",
+            "level": "principal",
+            "link": "https://igs.com",
+            "description": "With nearly 30 years of experience in the energy industry, the IGS family of companies provides the following to over one million customers across the country: natural gas, electricity, and home warranty products; power generation solutions off the grid; clean, domestic alternative fueling options; and solar solutions. We focus on empowering consumers to make choices that best fit their energy needs. Our community investment program, IGS Impact, provides employees with opportunities to get involved with causes that are meaningful to both the company and to them personally.",
+            "logo": "https://thatconference.blob.core.windows.net/sponsorimages/IGS.png"
+    
+        },
+        {
+            "name": "OCLC",
+            "level": "principal",
+            "link": "https://www.oclc.org/en/home.html",
+            "description": "OCLC, a worldwide library services organization headquartered in Dublin, Ohio, is a leader in information technologies and innovative online services. With office locations around the globe, OCLC employees are dedicated to offering premier services and software to help libraries cut costs while keeping pace with the demands of our information-driven society.",
+            "logo": "https://thatconference.blob.core.windows.net/sponsorimages/oclc.png"
+    
+        },
+        {
+            "name": "Fast Switch",
+            "level": "principal",
+            "link": "https://fastswitch.com",
+            "description": "",
+            "logo": "https://thatconference.blob.core.windows.net/sponsorimages/fastswitch_350x200.jpg"
+    
+        }    
+    ],
+    "platinum": [
+        {
+            "name": "Leading EDJE",
+            "level": "platinum",
+            "link": "https://leadingedje.com",
+            "description": "Leading EDJE helps our partners solve their most complex business challenges by building them the highest quality custom software….and we do it better than anyone else! Since 2007, we have created a unique culture which promotes high positive energy with an entrepreneurial spirit. Our firm is made of exceptionally talented professionals who deliver exceptional results, and our clients are made from a wide array of industries but have a common goal of choosing a partner who provides distinct, creative solutions. We choose to work and live deliberately via our uncompromising core values, of Put Team First, Is Dedicated to Growth, Does the Right Thing…Not the Right Now Thing, Approaches Problem Solving Passionately, and Communicates Effectively.",
+            "logo": "https://thatconference.blob.core.windows.net/sponsorimages/leadingedje_350x200.jpg"
+    
+        },
+        {
+            "name": "Cardinal Solutions",
+            "level": "platinum",
+            "link": "http://cardinalsolutions.com/",
+            "description": "Cardinal Solutions is a national solution provider with seven locations throughout the Midwest and Southeast, and clients across the U.S. Over the course of 20+ years, we have continually evolved our solution offerings to adapt to the changes in technology and the needs of customers. We lead with our experience and expertise in digital solutions across mobile, web, analytics, and cloud, while collaborating with clients through an agile process that allows organizations to be more creative and flexible in responding to user and stakeholder feedback. Cardinal also provides strategic guidance, training, and mentoring for our clients.",
+            "logo": "https://thatconference.blob.core.windows.net/sponsorimages/cardinalsolutions_350x200.jpg"
+    
+        },        {
+            "name": "Sogeti",
+            "level": "platinum",
+            "link": "http://us.sogeti.com",
+            "description": "We are an IT services company delivering business value through industrialized solutions with sector expertise–one client at a time. With over 45 years of experience, Sogeti offers a comprehensive portfolio of services including Insights & Data, Digital Transformation, Digital Manufacturing, Applications & Cloud Technology, and Digital Assurance Testing. At the heart of our team is a passion for technology and people. Armed with our comprehensive, standard-defining portfolio of solutions, and hyper-focused, client-centric model, we leverage cutting-edge technology to deliver innovative results and best-in-class service to our clients.",
+            "logo": "https://thatconference.blob.core.windows.net/sponsorimages/sogeti_350x200.jpg"
+    
+        },        {
+            "name": "HMB",
+            "level": "platinum",
+            "link": "https://hmbnet.com",
+            "description": "HMB is a professional services firm that specializes in software & product development, and infrastructure solutions. We hire full-time, salaried consultants in Columbus, OH & Louisville, KY. If you want to develop your career and have fun, join us! :)",
+            "logo": "https://thatconference.blob.core.windows.net/sponsorimages/hmb-350x200.jpg"
+    
+        },        {
+            "name": "CapTech",
+            "level": "platinum",
+            "link": "https://www.captechconsulting.com/",
+            "description": "CapTech is a national IT management consulting firm that bridges the gap between business and technology. We partner with some of the world's most successful companies to design, develop, and manage technical and digital solutions that delight customers, drive insights, and meet strategic objectives.",
+            "logo": "https://thatconference.blob.core.windows.net/sponsorimages/captech.jpg"
+    
+        },        {
+            "name": "Nationwide",
+            "level": "platinum",
+            "link": "https://www.nationwide.com",
+            "description": "Nationwide, a Fortune 100 company based in Columbus, Ohio, is one of the largest and strongest diversified insurance and financial services organizations in the U.S. and is rated A+ by both A.M. Best and Standard & Poor’s. The company provides a full range of insurance and financial services, including auto, commercial, homeowners, farm and life insurance; public and private sector retirement plans, annuities and mutual funds; banking and mortgages; excess & surplus, specialty and surety; pet, motorcycle and boat insurance. For more information, visit www.nationwide.com.",
+            "logo": "https://thatconference.blob.core.windows.net/sponsorimages/nationwide_350x200.jpg"
+    
+        },        {
+            "name": "MPW",
+            "level": "platinum",
+            "link": "http://www.mpwservices.com/",
+            "description": "MPW offers a variety of industrial cleaning, water treatment, facility management, environmental management and container management services to thousands of clients throughout North America. Our diversified industrial services are applicable to a wide array of customer needs and enable clients to prosper in today’s competitive environment. MPW improves operating reliability and profitability by coupling the best trained professionals with the most innovative technologies. MPW’s in-house engineers and fabrication technicians customize proprietary tooling and mobile operating systems to accommodate specialized industry requirements and ever changing environmental demands.",
+            "logo": "https://thatconference.blob.core.windows.net/sponsorimages/MPW.png"
+    
+        },        {
+            "name": "DynamIT",
+            "level": "platinum",
+            "link": "https://www.dynamit.com",
+            "description": "At Dynamit, we create web and mobile applications. Together with our clients, we identify big opportunities and solve big problems. We serve our clients as strategists, creatives, and engineers. We shine in situations where simple, graceful web and mobile experiences can make a big difference in the way our clients do business. We believe that — done right — technology should simplify. It should make life easier for our clients and their customers. Clients include: Hilton Worldwide, NiSource, La Quinta Inns & Suites, M/I Homes, Panda Express, Donatos Pizza, BJ's Restaurants & Brewhouse, Mercy Health, Kindred Healthcare, Tire Discounters, White Castle and Thorntons.",
+            "logo": "https://thatconference.blob.core.windows.net/sponsorimages/DYNAMIT.png"
+    
+        }
+    ]
+}

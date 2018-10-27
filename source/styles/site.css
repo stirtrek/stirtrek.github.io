@@ -2,6 +2,8 @@ body {
     background-color: #1a1927;
     font-family: Arial, Tahoma;
     font-size: 18px;
+    line-height: 32px;
+    padding-top: 50px;
 }
 
 .bodyWrapper {
@@ -25,6 +27,7 @@ body {
     background: url("/images/thanos-header-1140x760.png") no-repeat top;
     padding-top: 500px;
     position: relative;
+    margin-top: -50px;
 }
 
 @media only screen and (max-width:960px) {
@@ -566,7 +569,7 @@ div.hr-schedule {
 }
 
 div.icon-hr:before {
-    content: url(/images/icons/stirtrek-default.png);
+    content: url(/icons/stirtrek-default.png);
     position: relative;
     display: block;
     margin-top: -30px;

@@ -1,0 +1,63 @@
+<!-- Sponsors -->
+<div class="row">
+    <div class="col-md-6">
+        <div class="comic-panel-header">2018 Sponsors</div>
+        <a href="https://stirtrek.com/Sponsors">
+            <div class="comic-panel-header  comic-panel-gold">View All</div>
+        </a>
+    </div>
+
+    <div class="col-md-12">
+        <div class="text-with-comic-panel">
+            Interested in sponsorship opportunities? Email us:
+            <a href="mailto:info@stirtrek.com?subject=[Stir%20Trek]%20Question%20ref:site">info@stirtrek.com</a>
+        </div>
+    </div>
+</div>
+
+
+<section>
+    <div class="row">
+        <% for (var sponsor of site.data.sponsors.principal ) {%>
+
+            <div class="col-md-6 sponsor sponsor-<%= sponsor.level %>">
+                <div class="comic-panel-body">
+                    <a href="sponsor.link">
+                        <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
+                    </a>
+                </div>
+                <div class="sponsorsAbout text-with-comic-panel">
+                    <div class="sponsorCompany">
+                        <%= sponsor.name %>
+                        <br>
+                        <a href="<%= sponsor.link %>"><%= sponsor.link %></a>
+                    </div>
+                </div>
+            </div>
+            
+        <% } %>
+    </div>
+</section>
+<section>
+    <div class="row">
+
+        <% for (var sponsor of site.data.sponsors.platinum ) {%>
+
+            <div class="col-md-4 sponsor sponsor-<%= sponsor.level %>">
+                <div class="comic-panel-body">
+                    <a href="sponsor.link">
+                        <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
+                    </a>
+                </div>
+                <div class="sponsorsAbout text-with-comic-panel">
+                    <div class="sponsorCompany">
+                        <%= sponsor.name %>
+                        <br>
+                        <a href="<%= sponsor.link %>"><%= sponsor.link %></a>
+                    </div>
+                </div>
+            </div>
+            
+        <% } %>
+    </div>
+</section>

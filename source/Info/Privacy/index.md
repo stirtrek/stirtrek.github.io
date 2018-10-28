@@ -1,3 +1,7 @@
+---
+title: Privacy Policy
+---
+
  # Our Privacy Policy
 <div class="icon-hr"></div>
 

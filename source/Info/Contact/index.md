@@ -1,3 +1,7 @@
+---
+title: Contact Us
+---
+
 # Contact Us
 <div class="icon-hr"></div>
 

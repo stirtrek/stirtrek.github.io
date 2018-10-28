@@ -1,3 +1,7 @@
+---
+title: Commitment to Diversity
+---
+
 # Our Commitment to Diversity
 <div class="icon-hr"></div>
 

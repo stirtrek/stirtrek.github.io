@@ -1,3 +1,7 @@
+---
+title: Travel Information
+---
+
 # Getting to Stir Trek
 <div class="icon-hr"></div>
 

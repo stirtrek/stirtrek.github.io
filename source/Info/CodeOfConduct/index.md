@@ -1,3 +1,7 @@
+---
+title: Code of Conduct
+---
+
 # Our Code of Conduct
 <div class="icon-hr"></div>
 

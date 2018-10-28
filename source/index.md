@@ -1,3 +1,8 @@
+---
+title: Tech & a Flick
+---
+
+
 {% raw %}
 <div class="row" id="stirTrekHeroContainer">
     <!-- <a href="https://www.eventbrite.com/e/stir-trek-2017-edition-tickets-30911428916" target="_blank" rel="noopener noreferrer">

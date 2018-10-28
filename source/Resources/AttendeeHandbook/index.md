@@ -1,3 +1,7 @@
+---
+title: Attendee Handbook
+---
+
 # Stir Trek Attendee Handbook
 <div class="icon-hr"></div>
 

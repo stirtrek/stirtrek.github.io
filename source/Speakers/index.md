@@ -1,3 +1,7 @@
+---
+title: Speakers
+---
+
 # 2019 Call for Speakers
 
 <div class="icon-hr"></div>

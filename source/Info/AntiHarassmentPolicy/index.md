@@ -1,3 +1,7 @@
+---
+title: Anti-Harassment Policy
+---
+
 # Our Anti-harassment Policy
 <div class="icon-hr"></div>
 

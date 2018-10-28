@@ -1,0 +1,31 @@
+<section>
+    <table id="scheduleTable" class="table table-striped table-condensed table-responsive">
+        <thead>                
+            <tr>
+                <th>Time</th>
+                <th>Session</th>
+                <th>Speaker</th>
+                <th>Category</th>
+                <th>Room</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody> 
+            <% for (var timeSlot of site.data.sessions.ScheduledSessions[0].TimeSlots ) { %>
+                <% for (var session of timeSlot.Sessions) { %>
+
+                    <tr>
+                        <td><%= timeSlot.Time %></td>
+                        <td><%= session.Title %></td>
+                        <td class="speaker-cell">
+                            <div><%= session.Speakers[0].FirstName + " " + session.Speakers[0].LastName %></div>
+                        </td>
+                        <td><%= session.PrimaryCategoryDisplayText %></td>
+                        <td class="room-cell"><%= session.ScheduledRoom %></td>
+                    </tr>
+
+                <% } %>
+            <% } %>
+        </tbody>
+    </table>
+</section>

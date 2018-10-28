@@ -1152,3 +1152,6 @@ article#sponsor_download_contacts div#download_contacts {
 }
 
 
+#scheduleTable.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #3a3c55;
+}

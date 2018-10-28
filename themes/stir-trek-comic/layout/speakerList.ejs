@@ -2,41 +2,38 @@
     <article class="row thinRow">
 
         <% for (var speaker of site.data.speakers ) {%>
-
-
-        <div class="col-md-3">
-            <div>
-                <a href="/speakers/speaker/AdamPasternack">
-                    <div>
-                        <img class="img-responsive" src="<%= speaker.HeadShot %>">
-                    </div>
-                </a>
-            </div>
-            <div class="bio">
-                <h3>
+            <div class="col-md-3">
+                <div>
                     <a href="/speakers/speaker/AdamPasternack">
-                        <%= speaker.FirstName + " " + speaker.LastName %>
+                        <div>
+                            <img class="img-responsive" src="<%= speaker.HeadShot %>">
+                        </div>
                     </a>
-                </h3>
-                <% 
-                    var title = speaker.Title;
-                    if(title.length > 50) {
-                        title = title.slice(0,50) + "...";
-                    }
-                %>
-                <strong><%= title %></strong>
-                <div class="text-muted">
-                    <%
-                        var bio = speaker.Biography;
-                        if(bio.length > 100) {
-                            bio = bio.slice(0,100) + "...";
+                </div>
+                <div class="bio">
+                    <h3>
+                        <a href="/speakers/speaker/AdamPasternack">
+                            <%= speaker.FirstName + " " + speaker.LastName %>
+                        </a>
+                    </h3>
+                    <% 
+                        var title = speaker.Title;
+                        if(title.length > 50) {
+                            title = title.slice(0,50) + "...";
                         }
-                     %>
-                     <%= bio %>
+                    %>
+                    <strong><%= title %></strong>
+                    <div class="text-muted">
+                        <%
+                            var bio = speaker.Biography;
+                            if(bio.length > 100) {
+                                bio = bio.slice(0,100) + "...";
+                            }
+                        %>
+                        <%= bio %>
+                    </div>
                 </div>
             </div>
-        </div>
-
         <% } %>
     </article>
 </div>

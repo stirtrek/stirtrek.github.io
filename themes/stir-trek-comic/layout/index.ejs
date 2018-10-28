@@ -3,11 +3,13 @@
     <%- page.content %>
 
     <% if (page.source == 'index.md') { %>
-    <%- partial('sponsorsBrief') %>
+        <%- partial('sponsorsBrief') %>
     <% } else if (page.source == 'Sponsors/index.md') { %>
-    <%- partial('sponsorsFull') %>
+        <%- partial('sponsorsFull') %>
     <% } else if (page.source == 'Speakers/index.md') { %>
-    <%- partial('speakerList') %>
+        <%- partial('speakerList') %>
+    <% } else if (page.source == 'Schedule/index.md') { %>
+        <%- partial('schedule') %>
     <% } %>
 
 

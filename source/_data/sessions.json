@@ -1,0 +1,2307 @@
+{
+    "UnscheduledSessions": [],
+    "ScheduledSessions": [
+        {
+            "TimeSlots": [
+                {
+                    "Sessions": [
+                        {
+                            "Id": 108,
+                            "Title": "Breakfast",
+                            "Description": "Come enjoy breakfast! We'll have coffee, doughnuts, and some healthier alternatives.",
+                            "PrimaryCategory": "Other",
+                            "PrimaryCategoryDisplayText": "-",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T07:30:00",
+                            "ScheduledRoom": "Concourse",
+                            "IsFamilyApproved": false,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Stir",
+                                    "LastName": "Trek",
+                                    "HeadShot": "/cloud/profilephotos/Stir-Trek-26fd18b0-6837-4693-8b56-4dd32e7de7ab-636240165201887323.png",
+                                    "UserName": "stadmin",
+                                    "Biography": "Stir Trek is the largest software developer conference in central Ohio.",
+                                    "WebSite": "http://stirtrek.com",
+                                    "Company": null,
+                                    "Title": null,
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2017-03-02T01:56:35.7866667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "meals"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T00:00:00",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        }
+                    ],
+                    "Time": "7:30 AM"
+                },
+                {
+                    "Sessions": [
+                        {
+                            "Id": 61,
+                            "Title": "Introduction to Convolutional Neural Networks",
+                            "Description": "Machine learning is beginning to have a major impact on software development for all platforms and industries. However a life of developing software in a traditional explicit manner is not the best training for developing machine learning algorithms. Software developers faced with problems like \"What is in this image\", \"Is image a face and is it smiling?\", or \"Is this a hot dog?\" would face much difficulty without a machine learning algorithm approach.\n\nThis session explains what a neural network is in simple terms. That definition is expanded to include Convolutional Neural Networks and why they are great for image recognition. A sample neural network implemented in Keras and trained with the MNIST dataset will be demostrated to recognize handwritten digits. This session will conclude with an sample iOS application using CoreML to run the neural network directly on a phone and recognize digits in real time.\n\nYou will leave this session with some ideas on how to begin to approach problems best solved with machine learning algorithms.",
+                            "PrimaryCategory": "Data / Storage / BI",
+                            "PrimaryCategoryDisplayText": "Data / Storage / BI",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T08:30:00",
+                            "ScheduledRoom": "Blue",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Tim",
+                                    "LastName": "LeMaster",
+                                    "HeadShot": "/cloud/profilephotos/--ea840e31-ef42-4b08-a50d-8fb91310f6bb-636553214382800680.jpg",
+                                    "UserName": "TimLeMaster",
+                                    "Biography": "Tim is a Senior Software Engineer at Doc Halo. He has 22 years of software development experience and has been developing for iOS since 2009. He studied Physics at Purdue University and is a veteran of the United States Air Force.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Doc Halo, Senior Software Engineer",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:58.28"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "Machine Learning"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:44.513",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 76,
+                            "Title": "Naming: The Art of Clarity",
+                            "Description": "As developers we spend much more time reading code than we do writing it. It’s important that our code conveys its meaning clearly, not just to the computer but also to other developers. When our code is full of names like doStuff and temp1 it can be hard to figure out what’s going on. This can cause confusion which leads to bugs and delays.\n\nIn this talk you’ll see concrete examples of how poor naming can cause big problems. We’ll then fix these issues while introducing tips for quick and effective naming. By the end you will have a clear understanding of what makes a good name, and how to improve your own code.",
+                            "PrimaryCategory": "Architecture / Patterns",
+                            "PrimaryCategoryDisplayText": "Architecture / Patterns",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T08:30:00",
+                            "ScheduledRoom": "Gauntlet",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Michael",
+                                    "LastName": "Dowden",
+                                    "HeadShot": "/cloud/profilephotos/--6da7880b-4b42-4c01-8ee3-db031cbdee1a-636553214335051668.png",
+                                    "UserName": "MichaelDowden",
+                                    "Biography": "Michael Dowden is the Co Founder of startup incubator Andromeda, Product Architect for FlexePark, and President of M2D2 Enterprises. Since 1992 he has provided a full range of full-stack technology and consulting services to more than 60 companies ranging from startups to the Fortune 100.\r\n\r\nAs a software developer and architect Michael focuses on the K.I.S.S. principle, keeping systems as simple as possible (but no simpler). Michael is passionate about lightweight frameworks in both both Java and JavaScript ecosystems, often pointing out that Java is to JavaScript as Car is to Carrot. As an MBA he focuses on solutions that provide true business value and always works to improve collaboration and communication between teams.\r\n\r\nSince 1997 Michael has been active in helping other developers grow in their career, as a teaching assistant, user group organizer, and instructor for both Eleven Fifty Academy and Propel Up. Michael is currently developing a Java cryptography course for Pluralsight. His book Programming Languages ABC++ has sold more than 20,000 copies and has made its way into elementary schools across Indiana. Michael also speaks at tech conferences including Code PaLOUsa, Indiana IT Symposium, Indy.Code(), KCDC, and Dev Up.\r\n",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Entrepreneur. Coder. Gamer. Geek.",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:53.5066667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "clean code"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:45.373",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 87,
+                            "Title": "Secure Applications, By Design",
+                            "Description": "There is a lot of good security advice in the world, but checklists like the OWASP Top 10 do not tell you how to design security into your application. Where should a developer even begin? How do you design security into applications based on next week's JavaScript framework, for which no \"best practices\" exist? The Information Security Practice Principles, developed by Indiana University’s Center for Applied Cybersecurity Research, provide both a foundation for application security independent of specific technology decisions as well as a means for establishing a common language between designers and defenders. You'll leave this session with a process for building security in depth into your application architecture, using a human-centered user experience design, threat modeling, partitioning, defense in depth, and static analysis in continuous integration. Not yet another checklist, you'll learn how to make security the foundation on which the rest of your application is built.",
+                            "PrimaryCategory": "Security",
+                            "PrimaryCategoryDisplayText": "Security",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T08:30:00",
+                            "ScheduledRoom": "Green",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Craig",
+                                    "LastName": "Stuntz",
+                                    "HeadShot": "/cloud/profilephotos/Craig-Stuntz-e19ff752-1102-4aa9-8921-63ee9d5dfd7b-636553214224432841.jpg",
+                                    "UserName": "craigstuntz",
+                                    "Biography": "Craig Stuntz is a software engineer and a lifelong student of computer science, with specific interests in programming languages, type theory, compilers, and math. He is Technical Director for Improving in Columbus, Ohio, and cofounded the Columbus branch of Papers We Love, a reading group for people interested in academic computer science research. In the past year he has presented talks at CodeMash, OWASP, Dog Food Conference, Stir Trek, and many user groups.\r\n\r\nWhen not at work or playing with his kids, he is usually studying math or playing Irish traditional music on the tin whistle and wooden flute.",
+                                    "WebSite": "http://www.craigstuntz.com/",
+                                    "Company": "Improving",
+                                    "Title": "Technical Director, Improving Columbus",
+                                    "Twitter": "@craigstuntz",
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": "https://github.com/CraigStuntz/",
+                                    "LastUpdated": "2018-02-27T09:43:42.4433333"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "security"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:46.03",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 92,
+                            "Title": "Rapid REST API Development with Node and Sails",
+                            "Description": "Creating  a RESTful  API should be the easiest part of your development.  You should not have to be a rocket scientist to successfully create a RESTful API.  With Sails, you can create a full featured RESTful API in just a few minutes without writing any code.  You get create, destroy, update, find, paginate, sort, and filtering out of the box.  If you need to add your business logic to any of the methods or create your own methods, you can do that by writing simple JavaScript functions.  Once you are ready to implement security, Sails provides policies that can be applied to any REST action to implement email/password, social login or Windows authentication.  For data storage,  Sails bundles the power ORM, Waterline, which provides a simple data access layer that just works, no matter which one of the more than 30 data storage providers you are using.   \n \nThis talk will be code heavy as we walk through getting started with Sails and demonstrate how to implement the features of Sails through the creation of an API.   As well, I will share the tips and tricks that I have learned using Sails at a Fortune 100 company.  You will walk away understanding how and why you should use Sails on your next project.  All code covered in the talk with be immediately available for download. \n ",
+                            "PrimaryCategory": "App Dev (Languages, Frameworks, etc.)",
+                            "PrimaryCategoryDisplayText": "App Dev (Languages, Frameworks, etc.)",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T08:30:00",
+                            "ScheduledRoom": "Orange",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Justin",
+                                    "LastName": "James",
+                                    "HeadShot": "/cloud/profilephotos/--7941ba5e-3f4a-40b1-a875-22c356492d4c-636553214288648593.jpg",
+                                    "UserName": "JustinJames",
+                                    "Biography": "Justin is a Microsoft MVP, DevOps Evangelist, Web developer and Professional Speaker who loves to code, teach, and share his knowledge with others to help them grow in their careers.  He specializes in making the complex simple and easy to understand.    \r\n  \r\nJustin has worked at Intel for over 20 years in various groups leading software development projects, being an Agile advocate  and most recently has taken on a role as a DevOps Evangelist.  Justin's new role as a DevOps Evangelist is the perfect marriage of his love of development and teaching.     \r\n  \r\nJustin frequently speaks at conferences, meetups, and community events.  He has been a guest on the .NET Rocks podcast, Angular Air videocast, and Developer on Fire podcast.   To hear his thoughts on software development and public speaking,  follow his website at http://digitaldrummerj.me, subscribe to his YouTube channel at https://www.youtube.com/channel/UCDMvOL1XSKclxwplUT0fzLA  or subscribe to his Twitch channel at https://www.twitch.tv/digitaldrummerj.     \r\n \r\nIf you see him in the hallway, come up and say hi! ",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Making the complex simple and easy to understand",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:48.8633333"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "node"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:46.293",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 69,
+                            "Title": "FSGD and the Art of Delivering Value",
+                            "Description": "When shipping software, there is a constant battle between going fast and doing it right. Add to the mix the fact that coordination across teams and departments comes at a high transaction cost. How can we minimize the friction?\n\nAt LeanKit, we strive to continuously improve our processes across the entire organization. Along the way, we developed FSGD, which we affectionately pronounce \"fizz good.\" FSGD is our thinking tool for shipping Frequent, Small, Good, and Decoupled value.\n\nIn this talk, I'll share with you the challenges we faced as we scaled, how we struggled, what we learned, and how we're evolving. The goal is for you to walk away with tools and practical processes that will impact you and your team's success.",
+                            "PrimaryCategory": "DevOps / ALM",
+                            "PrimaryCategoryDisplayText": "DevOps / ALM",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T08:30:00",
+                            "ScheduledRoom": "Purple",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "David",
+                                    "LastName": "Neal",
+                                    "HeadShot": "/cloud/profilephotos/--8f7734c3-f494-400c-ab8b-25be836c06df-636553214232868855.jpg",
+                                    "UserName": "DavidNeal",
+                                    "Biography": "David is a family man, musician, motorcyclist, and Microsoft MVP living in North Georgia, USA. He runs on a high-octane mixture of caffeine and bacon.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Fueled by Bacon",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:43.2866667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "agile"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:44.967",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 70,
+                            "Title": "I Can't See: Low Vision A11y & Users",
+                            "Description": "When you think of low vision, what comes to mind? A user that is near sighted? How about far sighted? Maybe partially blind? These are all qualifying cases of poor vision, but low vision is more complicated than the prescription of glasses or contacts.\n\nAccording to the World Health Organization, they categorize low vision based on specific levels of visual acuity and field of vision (W3.org, 2016). With that in mind, we as developers can look at different categories of low vision including color vision, visual acuity, contrast sensitivity, etc and make an effort to bake in things like zoom, non-conflicting colors, and re-wrapping of columns in to our code.\n\nMy talk will cover what vision accessibility is, different categories of low vision, what the needs of the users are, and what we as developers can do to achieve a great user experience for low vision users.",
+                            "PrimaryCategory": "Design (UI, UX, IA, etc.)",
+                            "PrimaryCategoryDisplayText": "Design (UI, UX, IA, etc.)",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T08:30:00",
+                            "ScheduledRoom": "Red",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Chris",
+                                    "LastName": "DeMars",
+                                    "HeadShot": "/cloud/profilephotos/--39f2a643-26a3-409c-8ebf-4bda096ffbee-636553214220069730.jpg",
+                                    "UserName": "ChrisDeMars",
+                                    "Biography": "Chris DeMars is a UI developer first, UX architect always, working out of Detroit, Michigan. Chris is also an instructor, teacher assistant, and volunteer for the Ann Arbor and Detroit chapters of Girl Develop It. Chris loves coming up with solutions for enterprise applications, which include modular CSS architectures, performance, and advocating for Web accessibility. When he is not working on making the Web great and inclusive you can find him writing blog posts, watching horror movies, drinking the finest of beers, or in the woods of northern Michigan.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Senior UI Developer",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:42.0066667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "accessibility"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:45.013",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 106,
+                            "Title": "Boom! From Combat Engineer to Software Engineer",
+                            "Description": "Come for the explosives training; stay for the leadership lessons!\n\nMilitary training and experience provide different perspectives on life and one's career in software. Many of these lessons can probably only really be learned through direct experience. However, in this session Iraq war veteran and former US Army Captain Steve Smith will relay some wisdom that audience members will be able to take with them. If nothing else, you can hope to leave entertained by a few actual war stories from one of your peers who had the privilege of serving for many years as a combat engineer platoon leader.",
+                            "PrimaryCategory": "Soft Skills",
+                            "PrimaryCategoryDisplayText": "Soft Skills",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T08:30:00",
+                            "ScheduledRoom": "Thanos",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Steve",
+                                    "LastName": "Smith",
+                                    "HeadShot": "/cloud/profilephotos/Steve-Smith-96c5bd17-06f6-4fd8-9194-dc65b7c32eaf-636553214370707062.jpg",
+                                    "UserName": "ardalis",
+                                    "Biography": "Steve Smith (@ardalis) is an entrepreneur and software developer with a passion for building quality software as effectively as possible. Steve has published several courses on Pluralsight, covering DDD, SOLID, design patterns, and software architecture. He's a Microsoft ASP.NET MVP and Insider, a frequent speaker at developer conferences, an author, and a trainer.\r\n\r\nSteve works with companies that want to avoid the trap of technical debt by helping their teams deliver quality software, quickly. Steve and his team have been described by clients as a \"force multiplier\", amplifying the value of existing development teams. Steve's client list includes Microsoft, Quicken Loans, Celina Insurance, and many other satisfied customers.",
+                                    "WebSite": "http://ardalis.com",
+                                    "Company": "DevIQ",
+                                    "Title": "I Help Teams Deliver Better Software",
+                                    "Twitter": "@ardalis",
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": "https://www.linkedin.com/in/stevenandrewsmith",
+                                    "GitHub": "https://github.com/ardalis",
+                                    "LastUpdated": "2018-02-27T09:43:57.07"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "soft skills"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:47.03",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 93,
+                            "Title": "DI Why? Getting a Grip on Dependency Injection",
+                            "Description": "Many of our modern frameworks have Dependency Injection (DI) built in. But how do you use that effectively? You need to look at what DI is and why we want to use it. You'll look at the problems caused by tight coupling. Then you'll use some DI patterns such as constructor injection and property injection to break that tight coupling. You'll see how loosely-coupled applications are easier to extend and test. With a better understanding of the basic patterns, you'll remove the magic behind DI containers so that we can use the tools appropriately in our code.",
+                            "PrimaryCategory": "Architecture / Patterns",
+                            "PrimaryCategoryDisplayText": "Architecture / Patterns",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T08:30:00",
+                            "ScheduledRoom": "Yellow",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Jeremy",
+                                    "LastName": "Clark",
+                                    "HeadShot": "/cloud/profilephotos/--f548d4d3-7adf-4a33-b303-70aa058131da-636553214273357698.jpg",
+                                    "UserName": "JeremyClark",
+                                    "Biography": "Jeremy Clark makes developers better. By drawing on over 15 years of experience in application development, he helps developers take a step up in their skillset with a focus on making complex topics approachable regardless of skill level. He is a Microsoft MVP for .NET, and he has authored seven courses for Pluralsight, including \"C# Interfaces\", a course aimed at giving developers a clear understanding of abstraction. He loves speaking and has delivered over 200 technical presentations in the last 7 years in the United States and Europe. Jeremy lives in northern Washington with 2 dogs, 2 cats and a banjo.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Developer Better",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:47.3366667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "clean code"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:46.357",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        }
+                    ],
+                    "Time": "8:30 AM"
+                },
+                {
+                    "Sessions": [
+                        {
+                            "Id": 88,
+                            "Title": "Programming Robots – Making Friends with Cozmo",
+                            "Description": "Have you met Cozmo? The little robot with a huge attitude? He is ready to be part of your life, if only you will play with him and give him some attention. Cozmo has a mind of his own and his personality will constantly keep you surprised.\n\nIn this talk you will learn about tracking obstacles in real time, planning paths, facial recognition and third party APIs by building a simple game in Python. Learn about the future of consumer robotics in a connected world, and how these devices can make a difference.\n\nThis talk will be a joint presentation with Cozmo on stage charming his way into your hearts (before he has a temper tantrum).",
+                            "PrimaryCategory": "Iot / Maker",
+                            "PrimaryCategoryDisplayText": "Iot / Maker",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T09:45:00",
+                            "ScheduledRoom": "Blue",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Lars",
+                                    "LastName": "Klint",
+                                    "HeadShot": "/cloud/profilephotos/Lars-Klint-8abcc194-5082-4d78-90b9-cc4aa48f3295-636553214309148198.jpg",
+                                    "UserName": "larsklint",
+                                    "Biography": "Lars is an author, trainer, Microsoft MVP, community leader, authority on all things Windows Platform and part time crocodile wrangler. He is heavily involved in the space of HoloLens and mixed reality, as well as a published Pluralsight author, freelance solution architect and writer for numerous publications. He has been a part of the software development community for the past 20 years and co-organises the DDD Melbourne community conference, organises developer events with Microsoft, and also runs a part time car restoration business. He has spoken at numerous technical events around the world and is an expert in Australian Outback Internet.",
+                                    "WebSite": "https://larsklint.com",
+                                    "Company": "larsklint.com",
+                                    "Title": "Programmer, Speaker, Chief Hologram Maker",
+                                    "Twitter": "larsklint",
+                                    "Facebook": "https://www.facebook.com/lklint",
+                                    "GooglePlus": null,
+                                    "LinkedIn": "https://www.linkedin.com/in/lklint/",
+                                    "GitHub": "https://github.com/lklint",
+                                    "LastUpdated": "2018-02-27T09:43:50.9133333"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "Python"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:46.09",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 95,
+                            "Title": "Hey, You Got Your TDD in my SQL DB!",
+                            "Description": "When should we test our data? From an application development perspective, a unit test against a database isn't a unit test at all. Which makes sense -- connected systems introduce overhead and dependency, both of which reduce stability and decrease productivity during test-driven development (TDD). But if we wait for integration testing, critical functionality can get missed. In this session, we will discuss strategies for filling the data testing gap, directly within a Microsoft SQL Server environment. If you do a lot of work in T-SQL but aren't familiar with TDD, you'll learn the why and how of test-first development. If you're accomplished with unit tests, but never tried them in your database, you'll learn how to apply familiar concepts like setup, mocking, and assertion. We'll spend most of our time walking through a solution based on a real-world project, specifically using the open source tSQLt database unit testing framework.",
+                            "PrimaryCategory": "Testing / Quality",
+                            "PrimaryCategoryDisplayText": "Testing / Quality",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T09:45:00",
+                            "ScheduledRoom": "Gauntlet",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Jeff",
+                                    "LastName": "McKenzie",
+                                    "HeadShot": "/cloud/profilephotos/--d8043d0b-f39c-4583-bfef-8412e258b45f-636553214269154704.jpg",
+                                    "UserName": "JeffMcKenzie",
+                                    "Biography": "Jeff McKenzie has worked in software development for nearly twenty years, in both freelance and full-time capacities, as a developer and team leader. He enjoys helping others solve problems through technology, whether it's the small business getting on the web for the first time, or a Fortune 500 company expanding its enterprise. Although he started his career using BASIC on an Atari 800, he took a big detour, getting Biology and English degrees before rediscovering programming, with a new thing called the World Wide Web. He is currently Principal Consultant at Cardinal Solutions Group in Columbus Ohio.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Principal Consultant, Cardinal Solutions",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:46.9166667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "sql"
+                                },
+                                {
+                                    "Name": "testing"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:46.433",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 71,
+                            "Title": "Always Be Delivering",
+                            "Description": "What do Facebook, Google, Netflix, LinkedIn, WordPress and Etsy all have in common? They are all well known IT organizations that practice continuous delivery and deployment (CDD). This helps them reduce the risk associated with releasing code, improve system resiliency, and reduce overall software development costs. At any point and often multiple times per day, they deploy the latest changes to their production environment with full confidence because their builds have been tested automatically. In this session you will learn how to continuously deliver with confidence. You will learn how to set up a development pipeline for a sample application. Step by step, individual tasks will be assembled and linked together to form a pipeline that takes a code change from source control all the way to a live production environment. But a pipeline is just the start. Along the way you will learn how you can use feature toggles, fast failures, small changes, and optimized tests to encourage a culture of CDD right now.​",
+                            "PrimaryCategory": "DevOps / ALM",
+                            "PrimaryCategoryDisplayText": "DevOps / ALM",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T09:45:00",
+                            "ScheduledRoom": "Green",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "James",
+                                    "LastName": "Balmert",
+                                    "HeadShot": "/cloud/profilephotos/--c971bac3-167a-4126-83dd-6e7ec188f73d-636553214260563584.jpeg",
+                                    "UserName": "JamesBalmert",
+                                    "Biography": "James Balmert is a consultant for Manifest Solutions out of Columbus, Ohio. With nearly 20 years of experience, he specializes in object oriented design and test driven development. He has worked for large companies in the financial, insurance, and health sectors, helping them to improve code quality and productivity. James is also an instructor in the Manifest Solutions bootcamp program. We help prepare the next generation of agilists for work in the industry. James has a bachelors of science degree in computer science engineering from the Ohio Status University. He is an avid reader, collects Rubik’s cubes, and has a soft spot for Metroidvania games",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Director of Craftsmanship (Codesaurus) at Manifest Solutions",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:46.0566667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "agile"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:45.06",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 73,
+                            "Title": "Climbing the (Elastic) Beanstalk",
+                            "Description": "One developer's journey from Amazon Web Services newbie to system admin of a brand hew, HITRUST-Certified application in the AWS cloud.  Whether you're launching a brand new application, or porting over an existing one, you'll learn tips & tricks along with pitfalls to avoid in your own journey to the cloud.",
+                            "PrimaryCategory": "Cloud / Infrastructure",
+                            "PrimaryCategoryDisplayText": "Cloud / Infrastructure",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T09:45:00",
+                            "ScheduledRoom": "Orange",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Kris",
+                                    "LastName": "Hatcher",
+                                    "HeadShot": "/cloud/profilephotos/--841e4666-2551-44e5-b6c2-e2c732d6b20d-636553214305070300.jpg",
+                                    "UserName": "KrisHatcher",
+                                    "Biography": "Kris Hatcher is a web developer and agile enthusiast working at Smart Data in Dayton, Ohio. He enjoys developing productive teams and has over 15 years of experience working with clients in a variety of fields. His passion is working collaboratively with clients to figure out the best solution for their long-term plans.  To better help clients transition to the AWS cloud, Kris recently became an AWS Certified Solutions Architect Associate. ",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Development Lead, Smart Data",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:50.5066667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "AWS"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:45.17",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 79,
+                            "Title": "Elixir From First Principles",
+                            "Description": "Starting with understanding the basic design intentions and goals of Erlang (of which Elixir is a superset), this is a quick dive into the Elixir ecosystem.\nWe begin with discussion and examination of what exactly functional programming is.\nFrom here, we dive into the standard library of Elixir, explore its functional nature, and dive into concurrency and the built-in tooling for building projects.\nOnce we have a grasp on the dead basics, we dive into Plug, the building block of most web applications in Elixir.\n\nParticipants can expect to leave with enough familiarity to begin using other resources to continue learning and build an Elixir project that is beyond a \"Hello, World.\". Though the window is brief, the language's concise standard library and simple tooling make an hour enough to get a stepping stone towards making real applications.",
+                            "PrimaryCategory": "App Dev (Languages, Frameworks, etc.)",
+                            "PrimaryCategoryDisplayText": "App Dev (Languages, Frameworks, etc.)",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T09:45:00",
+                            "ScheduledRoom": "Purple",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Bobby",
+                                    "LastName": "Grayson",
+                                    "HeadShot": "/cloud/profilephotos/--804d2391-3dbb-421e-8b70-7435ea9e0f2e-636553214201536524.png",
+                                    "UserName": "BobbyGrayson",
+                                    "Biography": "Bobby is a person, comic, and software developer based in New York City. He enjoys grilled cheese sandwiches. He also enjoys building things with Elixir, Ruby, Python, and JavaScript.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Software Developer/Cautionary Tale, Stella Service",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:40.1533333"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "elixir"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:45.59",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 67,
+                            "Title": "What's New In Web Application Security?",
+                            "Description": "The OWASP Top 10 isn't the be all and end all of application security guidance, but it is an awesome tool for bringing up the topic of application security for those that are new to it.  Usually published every three years, the Top 10 shows the aggregated ten most risky vulnerabilities discovered in vulnerability assessments since the last list.  It famously doesn't change much, but there are some new tweaks to the 2017 list, they are important, and you should know about them.  Join us to look at Insecure Deserialization, XML External Entities, Logging, Monitoring, and Access Control. We'll also bid a farewell to the dearly departed Cross Site Request Forgery, who is missed but not forgotten.\n",
+                            "PrimaryCategory": "Security",
+                            "PrimaryCategoryDisplayText": "Security",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T09:45:00",
+                            "ScheduledRoom": "Red",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Bill",
+                                    "LastName": "Sempf",
+                                    "HeadShot": "/cloud/profilephotos/--8d479f1d-a778-4c0e-a282-24b4f56098d7-636553214196663052.jpg",
+                                    "UserName": "BillSempf",
+                                    "Biography": "Bill Sempf is a software security architect. His breadth of experience includes business and technical analysis, software design, development, testing, server management and maintenance, and security. In his 20 years of professional experience he has participated in the creation of well over 200 applications for large and small companies, managed the software infrastructure of two Internet service providers, coded complex software happily in every environment imaginable, tested the security of all natures of applications and APs, and made mainframes talk to cell phones. He is the author of C# 5 All in One for Dummies and Windows 8 Programming with HTML5 For Dummies; a coauthor of Effective Visual Studio.NET and many other books, a frequent contributor to industry magazines; and has recently been an invited speaker for the ACM and IEEE, BlackHat, CodeMash, DerbyCon, BSides, DevEssentials, the International XML Web Services Expo and the Association of Information Technology Professionals. Bill also serves on the board of the Columbus branch of the Open Web Application Security Project, and is the Administrative Director of Locksport International.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Application Security Architect",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:39.6666667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "security"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:44.84",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 103,
+                            "Title": "Front End is the New Back End",
+                            "Description": "There's been a disturbance in the Force, as if a thousand server-side frameworks cried out and were suddenly silenced... The rise of modern web tooling has given way to powerful new frameworks and tools. Headless and serverless were just the beginning. We'll conduct a round-up of modern tooling and look at how it is all evolving. Meet your challengers:\n- See How Yarn is replacing (supplanting?) NPM\n- How zero-config Parcel.js is taking over WebPack\n- We'll even see how a 1KB footprint idea in Hyperapp can dethrone React for JS framework dominance.\nThis isn't a prediction of the future, just a look at where we've come and where we (might) be headed. As always, prizes and giveaways will be available for all attendees. ",
+                            "PrimaryCategory": "Web (HTML, JavaScript, CSS, etc.)",
+                            "PrimaryCategoryDisplayText": "Web (HTML, JavaScript, CSS, etc.)",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T09:45:00",
+                            "ScheduledRoom": "Thanos",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Benjamin",
+                                    "LastName": "Bykowski",
+                                    "HeadShot": "/cloud/profilephotos/--7aa3797d-ca47-4c76-9711-e75fe66d1400-636553214192274927.jpg",
+                                    "UserName": "BenjaminBykowski",
+                                    "Biography": "Hailing from a small island in Lake Erie, Ben spent his formative years accompanying his father to work at the local arcade, learning to roll quarters and play Pac-Man and pinball. So it was no surprise that he developed an affinity for technology early on that eventually culminated in a degree in computer science and engineering. A life-long fan of fantasy and science fiction, he parlayed his coding skills and penchant for storytelling into the applied application of user experience on the Web. Nowadays Ben can be found practicing appreciative inquiry and information architecture, taking the time to speak, coach, and teach on these subjects whenever possible. His wife keeps him grounded while indulging his fancy for gadgets, geek culture, and Game of Thrones and together they do their best to raise their three boys.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Manager and Tech Enthusiast at Hyland Software",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:39.2266667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "web"
+                                },
+                                {
+                                    "Name": "JavaScript"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:46.857",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 68,
+                            "Title": "Square peg, round hole - Plugging development teams into business culture",
+                            "Description": "Development teams speak a very different language then the rest of the business.  It's critical that development and the business are on the same page in order to deliver results to customers.  Learn the tricks of the trade to engage your business stakeholders to get buy-in and results.  Learn how to speak their language and what makes them tick.",
+                            "PrimaryCategory": "Soft Skills",
+                            "PrimaryCategoryDisplayText": "Soft Skills",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T09:45:00",
+                            "ScheduledRoom": "Yellow",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Kevin",
+                                    "LastName": "Holtz",
+                                    "HeadShot": "/cloud/profilephotos/--bfce3e85-c2c2-4b17-85e0-ea209556e633-636553214293026717.jpg",
+                                    "UserName": "KevinHoltz",
+                                    "Biography": "Nearly 20 years experience in everything software - from sales engineering to customer success management to my current role as a Product Manager in the healthcare industry.\r\n\r\n-Product strategy, goals, and objectives\r\n-Delivering solutions to users that solve problems\r\n-Software innovation, execution, and delivery\r\n-Learning through rapid testing\r\n-Team engagement and management\r\n-Constantly refining effective communication strategies",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Product Manager, OnShift, Inc.  Cleveland, OH",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:49.3033333"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "agile"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:44.887",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        }
+                    ],
+                    "Time": "9:45 AM"
+                },
+                {
+                    "Sessions": [
+                        {
+                            "Id": 105,
+                            "Title": "Kubernetes Test Drive",
+                            "Description": "Are you a Docker aficionado or are you new to the Docker ecosystem? Come see how Kubernetes (K8s) adds a mature solution for running containers in production and development. We'll start with containers, layer in pods, replica sets, deployments, and services. We'll dig into minikube and kubernetes in docker desktop. You'll leave with a solid understanding of the principles of K8s, and a practical set of skills for driving this container orchestrator throughout the software development lifecycle.",
+                            "PrimaryCategory": "DevOps / ALM",
+                            "PrimaryCategoryDisplayText": "DevOps / ALM",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T11:00:00",
+                            "ScheduledRoom": "Blue",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Rob",
+                                    "LastName": "Richardson",
+                                    "HeadShot": "/cloud/profilephotos/--c9c8ff7c-5cac-451b-8678-dd17ba1b47df-636553214344033057.jpg",
+                                    "UserName": "RobRichardson",
+                                    "Biography": "Rob Richardson is a software craftsman building web properties in ASP.NET and Node, Angular and React. He’s a Microsoft MVP, published author, frequent speaker at conferences, user groups, and community events, and a diligent teacher and student of high quality software development. You can find this and other talks on his blog at https://robrich.org/presentations and follow him on twitter at @rob_rich.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "@rob_rich",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:54.4033333"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "kubernetes"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:46.98",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 82,
+                            "Title": "Understanding SQL Server Execution Plans",
+                            "Description": "\"My SQL query is slow. Why?\" In this session, we'll take a look at the process of running queries against a SQL Server database. You'll see what a query execution plan looks like, how to read them, and what a query operator is. More importantly, we'll visit some problematic behavior, how to identify it via the query plan, and what you can do to speed up your code. Whether you run your SQL Servers in the cloud or are still grounded with local instances, this is a session you won't want to miss!",
+                            "PrimaryCategory": "Data / Storage / BI",
+                            "PrimaryCategoryDisplayText": "Data / Storage / BI",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T11:00:00",
+                            "ScheduledRoom": "Gauntlet",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Drew",
+                                    "LastName": "Furgiuele",
+                                    "HeadShot": "/cloud/profilephotos/Drew-Furgiuele-04bfa541-95cb-4e1f-9c0e-fb00b4589aa7-636553214242405653.jpg",
+                                    "UserName": "pittfurg",
+                                    "Biography": "Drew is a Senior Database Administrator at IGS, and has been working with the Microsoft Data Platform for over 15 years. When he's not accidentally dropping tables in production, he enjoys helping developers and analysts write faster and more efficient queries, using PowerShell to automate himself, and messing around creating IoT devices, including trying to send SQL Server to the edge of space for the High Altitude SQL Server Project (HASSP). \r\n\r\nDrew's presented on topics for Brent Ozar's online conference and training sessions, and he's even a major contributor to the awesome open source PowerShell toolkit for DBAs: dbatools (https://dbatools.io/). \r\n\r\nOutside of work, he enjoys blogging, traveling, speaking, CrossFit, and hearing people try to pronounce his last name. He loves his dog more than he loves anything or anyone else, and isn't ashamed of his Spotify playlist.",
+                                    "WebSite": "http://www.port1433.com",
+                                    "Company": "IGS",
+                                    "Title": "Senior DBA, IGS",
+                                    "Twitter": "@pittfurg",
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": "https://www.linkedin.com/in/pittfurg/",
+                                    "GitHub": "https://github.com/drewfurgiuele",
+                                    "LastUpdated": "2018-02-27T09:43:44.24"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "sql"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:45.717",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 83,
+                            "Title": "The Pi, Python, & Paintball? Innovating with Affordable Tech!",
+                            "Description": "What do you get when you mix a handful of RaspberryPi's, Python, Paintball, and a little innovation?  Come to this talk and find out!  We'll take a look at a RaspberryPi project that was created to aid a nonprofit as a case study of the amazing opportunities that exist for anyone with the passion to innovate. This project used affordable maker tech to build a distributed game management system with text to voice capabilities, synchronized countdown timers, remote picture taking, and much more. All in portable boxes that hang in trees.  We'll talk about the hardware, the software, and most of all the learning required and information available in this amazing age of innovation!  We'll cover topics like communicating across distributed IOT devices, event based programming, building a network in nature, scripting pi builds with ansible, and a developers intrepid journey into electronics.",
+                            "PrimaryCategory": "Iot / Maker",
+                            "PrimaryCategoryDisplayText": "Iot / Maker",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T11:00:00",
+                            "ScheduledRoom": "Green",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Barry",
+                                    "LastName": "Tarlton",
+                                    "HeadShot": "/cloud/profilephotos/--7d272674-a6fe-47a7-8072-576d09a31dde-636553214187866787.jpg",
+                                    "UserName": "BarryTarlton",
+                                    "Biography": " Barry is passionate about learning, problem solving, and teaching.  He believes that software developers are problem solvers at heart and the languages and platforms we work with are simply the tools in our utility belts.  Barry can often be found trying to inspire and educate others both inside and outside of work. Whether he's MacGyver'ing IOT solutions together or leading a hackathon team, he loves innovating and constantly trying new things.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "MacGyver like Problem Solver and Tech Teacher!",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:38.7866667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "Python"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:45.827",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 64,
+                            "Title": "Lean Communication",
+                            "Description": "Have you ever wondered why Twitter has 280 character limit per tweet? It's 2018 and secondary memory is not that expensive after all... Or thought about why emojis are so popular?\n\nIn today's day and age we are easily distracted by digital and social media. We have a constant need to stay connected. We are checking our emails more frequently than ever, daily we lookup viral videos on you tube, or read the most re-tweeted tweet, or are curious about how many \"likes\" our last Facebook post/picture has received. The side effect of all this is that we now have an attention span of a gnat.\n\nHow is this impacting our ability to effectively communicate at our workplace? Are we able to stay brief in our written and verbal communication and convey the message without losing our audience? This lack of effective communication is costing organizations millions of dollars due to reduced productivity, lack of clarity in direction and missed opportunities.\n\nThis talk will focus on the lost art of communicating in a lean manner. Attendees will walk away with tips and tricks that will make their written and verbal communication 'leaner' and 'crispier' helping them communicate effectively.",
+                            "PrimaryCategory": "Soft Skills",
+                            "PrimaryCategoryDisplayText": "Soft Skills",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T11:00:00",
+                            "ScheduledRoom": "Orange",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Mandar",
+                                    "LastName": "Malunjkar",
+                                    "HeadShot": "/cloud/profilephotos/--cafa6d16-c857-48e1-8696-6384ec38dbe2-636553214313296158.jpg",
+                                    "UserName": "MandarMalunjkar",
+                                    "Biography": "Mandar Malunjkar is an Agile Software Development leader with broad technical expertise and strong focus on software engineering practices. For over a decade, Mandar has ledculturally diverse teams across North America, Europe & Asia.\r\n\r\nAll along his career Mandar has worn several different hats, working as a Developer, Tech Lead, Scrum Master and People Leader. He played a key role in agile transformation at Alliance Data, starting out in a technical leadership role and simultaneously taking on Scrum Master responsibilities. Presently he is responsible for overseeing a team of a baker’s dozen developers, working on multiple cross functional teams.\r\n\r\nIn his spare time, Mandar enjoys reading books, going on long walks, travelling and listening to music.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "There is too much blood in my caffeine system.",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:51.33"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "agile"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:44.7",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 78,
+                            "Title": "Accessibility Cookbook: 10 easy recipes",
+                            "Description": "If you ever use the elevator, subtitles to watch that cat video during a boring meeting, or tabbed through a form, you have used an accessibility feature.\n\nAs a community we understand that accessibility is necessary but when it comes to implementation, we often fall short.\n\nIn this talk you will learn\n- Why accessibility is important\n- 10 common accessibility fails\n- How to test for them\n- Solutions anyone can implement",
+                            "PrimaryCategory": "Design (UI, UX, IA, etc.)",
+                            "PrimaryCategoryDisplayText": "Design (UI, UX, IA, etc.)",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T11:00:00",
+                            "ScheduledRoom": "Purple",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Martine",
+                                    "LastName": "Dowden",
+                                    "HeadShot": "/cloud/profilephotos/--fbf45ffb-76ff-4cd3-9b37-348a8be23f7f-636553214329352597.png",
+                                    "UserName": "MartineDowden",
+                                    "Biography": "Focusing on web interfaces that are beautiful, functional, and usable, Martine delivers products that adhere to WCAG 2.0 and Section 508 for accessibility and compliance. She approaches User Experience from both Art and Science, drawing from her degrees in Psychology and Visual Communications. Martine has worked as an artist, educator, and consultant since 2005.\r\n\r\nShe stays active in the industry, teaching new developers at Eleven Fifty Academy, attending and speaking at conferences and meetups, and publishing the occasional blog. In 2015 Martine's children's book \"Programming Languages ABC++\" was published by Inedo, and in 2016 the Workbook Edition sold over 20,000 copies.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "UX/UI Designer & Developer",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:52.9366667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "accessibility"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:45.543",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 77,
+                            "Title": "UI Tests Are Fun to Write (If You Write Them Right)",
+                            "Description": "Automated browser tests can be a nightmare to write and maintain. Unlike unit tests they’re tough to set up, slow to run, make permanent changes to data, and they’re incredibly brittle. Even a tiny CSS change can result in cascading failures!\n\nYou can’t ignore these issues, but you CAN design around them by adopting a few key patterns and techniques. Data creation helpers let you construct intricate data graphs in one line of code. Page Objects abstract away tedious browser automation code and make tests resilient to changes in HTML structure. Applied correctly, these patterns (and others) take away the pain and make UI tests a joy to create!\n",
+                            "PrimaryCategory": "Testing / Quality",
+                            "PrimaryCategoryDisplayText": "Testing / Quality",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T11:00:00",
+                            "ScheduledRoom": "Red",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Seth",
+                                    "LastName": "Petry-Johnson",
+                                    "HeadShot": "/cloud/profilephotos/seth-petry-johnson-86c44c0c-784c-45fd-b839-fade4501f66e-636553214357192437.jpg",
+                                    "UserName": "sethpetryjohnson",
+                                    "Biography": "Seth spent 21 years as a professional developer/architect before finally turning in his daily commit rights for a Microsoft Project product key. He now spends his days as a pointy-haired boss leading a small product development team in the search for simple solutions to complex problems. He is passionate about clean architecture, testable systems, and bringing order to chaos. Seth lives in Columbus, OH and is an active participant in the Midwest developer community. He'll write TPS reports when he has to, but still enjoys writing, reviewing, and talking about code.",
+                                    "WebSite": "http://www.petry-johnson.com",
+                                    "Company": "Heuristic Solutions, Inc",
+                                    "Title": "Pointy-haired boss by day, coder by night",
+                                    "Twitter": "@spetryjohnson",
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:55.72"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "testing"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:45.45",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 104,
+                            "Title": "Git Jungle Guided Tours",
+                            "Description": "Hop aboard for an adventurous tour deep in git's lush array of trees. Guests who have already travelled git's well-trodden paths (add/commit/push/pull) will explore unique vantage points, learn the lay of the land, and discover customs of the git masters.\n\nLearn to navigate the terrain so you never feel lost. Uncover the secrets to recover from annoying mistakes. Give yourself the confidence you deserve. Your expedition awaits.",
+                            "PrimaryCategory": "App Dev (Languages, Frameworks, etc.)",
+                            "PrimaryCategoryDisplayText": "App Dev (Languages, Frameworks, etc.)",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T11:00:00",
+                            "ScheduledRoom": "Thanos",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Marc",
+                                    "LastName": "Peabody",
+                                    "HeadShot": "/cloud/profilephotos/--1f30f6f0-2e9e-4211-98aa-995c78bbbf30-636553214317714302.png",
+                                    "UserName": "MarcPeabody",
+                                    "Biography": "Marc Peabody is Agent 0027, a remote consultant with Test Double who helps software teams reach their highest potential through writing better code and improving team rapport. He especially loves dabbling in JavaScript, Ruby, or any tech that can afford him quick feedback loops. When not coding, he can be found mucking about gaming, running, or amusing himself via any close-at-hand musical instrument.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Double Agent",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:51.77"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "git"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:46.92",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 75,
+                            "Title": "Be Better at Email by Perfecting Your Outbox",
+                            "Description": "Email is nearly extinct! Google Hangouts works for us! The future is Slack! Despite cries for a successor, email still has a stranglehold in the business world and it isn't going anywhere. It's just one of a myriad of options for communicating with coworkers and customers, yet very few people consider themselves to be proficient with email.\n\nWhat does it mean to be \"good\" at email? Knowing the context and purpose of your messages can change how they are interpreted, how quickly others respond, and how useful replies will be. This session won't take you to Inbox Zero, but it will teach you how to write the most effective emails for many common situations. We will examine what constitutes \"bad\" email, then review good practices and guidelines, including KISS, topic bulleting, actionable summaries, absolute scheduling, and many others.",
+                            "PrimaryCategory": "Misc *.*",
+                            "PrimaryCategoryDisplayText": "Misc *.*",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T11:00:00",
+                            "ScheduledRoom": "Yellow",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Brandon",
+                                    "LastName": "Bruno",
+                                    "HeadShot": "/cloud/profilephotos/--7474c984-faee-4181-98df-6db183e91ace-636553214207525790.jpeg",
+                                    "UserName": "BrandonBruno",
+                                    "Biography": "Brandon has been hacking away at code since a dusty Commodore 64 appeared from his parents' attic in the early 90's, but has spent the last ten years building client solutions in .NET, JavaScript, and Sitecore. He is currently a Senior Technical Consultant at Perficient and focuses on solution architecture, content management, app security, and dodging Atlanta traffic.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Senior Technical Consultant at Perficient Digital",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:40.7533333"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "soft skills"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:45.327",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        }
+                    ],
+                    "Time": "11:00 AM"
+                },
+                {
+                    "Sessions": [
+                        {
+                            "Id": 109,
+                            "Title": "Lunch!",
+                            "Description": "Lunch will be available in the concourse.",
+                            "PrimaryCategory": "Other",
+                            "PrimaryCategoryDisplayText": "-",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T12:00:00",
+                            "ScheduledRoom": "Concourse",
+                            "IsFamilyApproved": false,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Stir",
+                                    "LastName": "Trek",
+                                    "HeadShot": "/cloud/profilephotos/Stir-Trek-26fd18b0-6837-4693-8b56-4dd32e7de7ab-636240165201887323.png",
+                                    "UserName": "stadmin",
+                                    "Biography": "Stir Trek is the largest software developer conference in central Ohio.",
+                                    "WebSite": "http://stirtrek.com",
+                                    "Company": null,
+                                    "Title": null,
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2017-03-02T01:56:35.7866667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "meals"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T00:00:00",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        }
+                    ],
+                    "Time": "12:00 PM"
+                },
+                {
+                    "Sessions": [
+                        {
+                            "Id": 113,
+                            "Title": "The Force Awakens - Mastering Your Inner Developer",
+                            "Description": "It takes effort and discipline to be a great developer, but how do you know what to focus on, what to pursue, what to say no to? And how do you fit it all into an already packed life of family, friends, discovery and ambition?\r\n\r\nGetting a grasp on key professional skills, such as time management, learning to say no, building a network and, most importantly, keeping an open mind is no simple task. This talk will provide guidance and share personal experiences on how to build up the life of your creation, rather than the life you have settled for. From managing 3 businesses, being an author and speaker, organising conferences, giving as much back to the community as possible as well as being a father and partner, there are gold nuggets aplenty in this highly rated talk. Be inspired to think beyond yourself.",
+                            "PrimaryCategory": "Soft Skills",
+                            "PrimaryCategoryDisplayText": "Soft Skills",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T13:00:00",
+                            "ScheduledRoom": "Blue",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Lars",
+                                    "LastName": "Klint",
+                                    "HeadShot": "/cloud/profilephotos/Lars-Klint-8abcc194-5082-4d78-90b9-cc4aa48f3295-636553214309148198.jpg",
+                                    "UserName": "larsklint",
+                                    "Biography": "Lars is an author, trainer, Microsoft MVP, community leader, authority on all things Windows Platform and part time crocodile wrangler. He is heavily involved in the space of HoloLens and mixed reality, as well as a published Pluralsight author, freelance solution architect and writer for numerous publications. He has been a part of the software development community for the past 20 years and co-organises the DDD Melbourne community conference, organises developer events with Microsoft, and also runs a part time car restoration business. He has spoken at numerous technical events around the world and is an expert in Australian Outback Internet.",
+                                    "WebSite": "https://larsklint.com",
+                                    "Company": "larsklint.com",
+                                    "Title": "Programmer, Speaker, Chief Hologram Maker",
+                                    "Twitter": "larsklint",
+                                    "Facebook": "https://www.facebook.com/lklint",
+                                    "GooglePlus": null,
+                                    "LinkedIn": "https://www.linkedin.com/in/lklint/",
+                                    "GitHub": "https://github.com/lklint",
+                                    "LastUpdated": "2018-02-27T09:43:50.9133333"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "career"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": null,
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 86,
+                            "Title": "Refactoring with Typescript",
+                            "Description": "A type system like Typescript's really starts to shine when it comes to refactoring your existing code. We'll take a look at how to write typed code in a refactor-friendly way, how to make changes to a large codebase with confidence, and even a few cutting edge features of Typescript itself that enable the language to refactor for you.",
+                            "PrimaryCategory": "App Dev (Languages, Frameworks, etc.)",
+                            "PrimaryCategoryDisplayText": "App Dev (Languages, Frameworks, etc.)",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T13:00:00",
+                            "ScheduledRoom": "Gauntlet",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Dave",
+                                    "LastName": "Wasmer",
+                                    "HeadShot": "/cloud/profilephotos/--051af337-289b-4e25-ba22-dbd614de9a31-636553214228345626.jpg",
+                                    "UserName": "DaveWasmer",
+                                    "Biography": "Creator of @denali_js, Ember.js & Node developer, product craftsman, economist, sailor, husband, father, follower of Christ.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Developer & UX Craftsman @ Echobind",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:42.8333333"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "typescript"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:45.98",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 90,
+                            "Title": "Angular + Ngrx:  how the Redux pattern helps you build scalable, maintainable apps",
+                            "Description": "The redux pattern is a great fit for large Angular apps!  We will examine how it addresses common challenges that show up when building large applications with growing complexity. Then we will understand the essential pieces of unidirectional data flow architecture. We will explore the most popular implementation of this pattern with the Ngrx library.  Finally, to highlight the main pieces of an Ngrx architecture, we will examine a small demo of a complete data flow cycle for a simple feature.  Throughout I will share real life experiences forged in the crucible of working on two large enterprise Angular apps, one that did not use the Redux pattern and one that did.",
+                            "PrimaryCategory": "Architecture / Patterns",
+                            "PrimaryCategoryDisplayText": "Architecture / Patterns",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T13:00:00",
+                            "ScheduledRoom": "Green",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Adam",
+                                    "LastName": "Pasternack",
+                                    "HeadShot": "/cloud/profilephotos/--3af1c412-9801-44ed-8b1c-31360f23c731-636553214174552299.jpg",
+                                    "UserName": "AdamPasternack",
+                                    "Biography": "Adam Pasternack is a life-long adventurer who is insatiably curious.  He enjoys making ideas into reality, and sharing the things he has learned with others at user-groups and conferences.  Currently a consultant at Improving, he is well versed in application development.  Javascript and front end frameworks have been a special interest over the past couple years.  Currently Adam is deepening his interests in Machine Learning and Data Pipelining through a MS in CS in Machine Learning through Udacity and Georgia Tech.  Adam helps run the Central Ohio .Net Developers group and is the co-leader of the Columbus Angular meetup.  Outside of code, his passions include skiing, cooking, epic hikes, and philosophy.  Connect with him on twitter @AJPasternack.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Consultant - Improving",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:37.4566667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "Angular"
+                                },
+                                {
+                                    "Name": "JavaScript"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:46.2",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 101,
+                            "Title": "From Zero to Serverless",
+                            "Description": "So many times our customers need a simple routine that can be executed on a routine basis but the solution doesn’t need to be an elaborate solution without going the trouble of setting servers and other infrastructure.  Serverless computer is the abstraction of servers, infrastructure, and operating systems and make getting solutions to your customer’s needs much quicker and cheaper.  During this session we will look at how Azure Functions will enable you to run code on-demand without having to explicitly provision or manage infrastructure.",
+                            "PrimaryCategory": "Cloud / Infrastructure",
+                            "PrimaryCategoryDisplayText": "Cloud / Infrastructure",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T13:00:00",
+                            "ScheduledRoom": "Orange",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Chad",
+                                    "LastName": "Green",
+                                    "HeadShot": "/cloud/profilephotos/--d8d11629-81a4-4042-8405-30665ff67e49-636553214215791680.jpg",
+                                    "UserName": "ChadGreen",
+                                    "Biography": "Chad Green is a manager, software developer, architect, community leader, and most importantly a father and husband. Chad works as the Data & Solution Architect for ProgressiveHealth where he manages the application development team which is responsible for crafting software solutions for the various company affiliates located across the country, which provides health and wellness solutions in the healthcare and industrial service settings. Over the years, Chad has managed groups from 5 to 63 people and worked on projects in a wide range of markets including healthcare, military, government, workforce management, financial services, chemical research, and electronic commerce.\r\n\r\nOne of the ways Chad has kept up with technology and development practices is by attending user groups and software development events throughout the country. Being a big believer in giving back and wanting to ensure that there are cool events for other software development professionals, Chad founded and chairs the annual Code PaLOUsa conference, organizes the Louisville .NET Meetup user group and the Monthly Tech Leader Coffee and Discussion, and has helped with other groups like the Louisville Tech Ladies and events like Cincy Day of Agile. Chad also speaks at user groups and conferences about .NET development, VSTS, and leadership.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Data & Solution Architect at ProgressiveHealth",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:41.58"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "Azure"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:46.747",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 81,
+                            "Title": "I'd Hire more Women if they Would Apply!",
+                            "Description": "Maybe you’re the one that’s not really trying? Are you sending signals that say “Dudes Only”?\n\nAs a Chapter Leader of Girl Develop It (GDI) I have had numerous companies ask me why can’t they get women to apply to their openings. They want to diversify but have a “pipeline” problem. My experience as a woman in tech and helping women enter the tech field through GDI tells me otherwise.\n\nIn this discussion we’ll consider the some of the common reasons women might not apply to certain companies and or job postings, examine some of the “red flags” you might not realize you are waving and explore ways to make the hiring process more inclusive.",
+                            "PrimaryCategory": "Misc *.*",
+                            "PrimaryCategoryDisplayText": "Misc *.*",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T13:00:00",
+                            "ScheduledRoom": "Purple",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Ronda",
+                                    "LastName": "Bergman",
+                                    "HeadShot": "/cloud/profilephotos/--63dd512f-6392-429e-9ec1-d16a1ae9818e-636553214348806458.jpg",
+                                    "UserName": "RondaBergman",
+                                    "Biography": "Ronda has been working as a software developer for 18+ years, primarily in the .NET stack. She has worked for large multi-national organizations and small startups. She is the Founder and Lead Consultant of EllaVatec, a diversity and inclusion consultancy. The Co-founder and Chapter Leader of Girl Develop It Ann Arbor. A Software Artisan at Pillar Technologies, and the Vice President of Ann Arbor .NET Developers. As a female developer and the mother of 2 female developers Ronda is working hard to help level the playing field for everyone in the industry.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Founder / Lead Consultant",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:54.88"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "soft skills"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:45.67",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 62,
+                            "Title": "UX in an API",
+                            "Description": "Having an user-centered application should include  heuristic, best practices of design and experience, and development. However, most projects overlook user experience in development process and development deliverables. In this talk, we will discuss how to create a successful API that meets the demands of users and various outputs. The goal of this presentation is to help you write APIs and applications that will be performant for users. ",
+                            "PrimaryCategory": "Design (UI, UX, IA, etc.)",
+                            "PrimaryCategoryDisplayText": "Design (UI, UX, IA, etc.)",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T13:00:00",
+                            "ScheduledRoom": "Red",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Kevin",
+                                    "LastName": "Mack",
+                                    "HeadShot": "/cloud/profilephotos/Kevin-Mack-19a3357a-b573-4bbf-b438-d99334f688f9-636553214297199688.jpg",
+                                    "UserName": "kevinmack",
+                                    "Biography": "\r\nWith over 20 years of digital experience, Kevin Mack has worked along other industry leaders to make creative and innovative experiences that scale and meet customer demands, needs, and visions. His background includes designing and developing user experiences for large-scaling websites and applications. Kevin is the Chief Experience Officer (CXO) of BYBE where he focuses on the evolution of the BYBE brand and creating integrated experiences for retailers and consumers. Kevin has been running a holding company called Discreet AF. Discreet's primary company is Bosun, a digital marketing agency, which is a collection of nerds, creatives, consultants/advisors that wake up doing what they love to do each day. He is the co-founder and organizer of The Columbus Web Group http://columbuswebgroup.com where he actively participates in growing and educating the community around design, development, best practices and standards for the web. You can find him on Twitter (@nicetransition), YouTube https://goo.gl/jrHuQH, CodePen http://codepen.io/nicetransition, or GitHub https://github.com/kevinmack18. His passions are \"all things web\" and mentoring others. Plus, he parties.",
+                                    "WebSite": "http://columbuswebgroup.com",
+                                    "Company": "BYBE / DIscreet AF",
+                                    "Title": "I get excited and make things",
+                                    "Twitter": "nicetransition",
+                                    "Facebook": "https://facebook.com/kevinmack",
+                                    "GooglePlus": null,
+                                    "LinkedIn": "https://www.linkedin.com/in/kevindmack",
+                                    "GitHub": "https://github.com/kevinmack18",
+                                    "LastUpdated": "2018-02-27T09:43:49.72"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "ux"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:44.56",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 110,
+                            "Title": "DevOops: SRE and Distributed Computing at Scale",
+                            "Description": "As technical professionals, we throw all sorts of jargon\naround -- DevOps, WebOps, and Site Reliability Engineering among others. In\n many cases, definitions vary even among the professionals themselves. In\nthis presentation, we'll explore the evolution of technical practices\nused by Infrastructure and Operational professionals. Additionally,\nwe'll cover some of the practices that the best Site Reliability or\nOperations Engineers have used at leading technology companies around\nthe world.",
+                            "PrimaryCategory": "DevOps / ALM",
+                            "PrimaryCategoryDisplayText": "DevOps / ALM",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "Intermediate",
+                            "ScheduledDateTime": "2018-05-04T13:00:00",
+                            "ScheduledRoom": "Thanos",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Warner",
+                                    "LastName": "Moore",
+                                    "HeadShot": "/cloud/profilephotos/Warner-Moore-26ae439e-1941-4fde-a2bc-9e0da9ca0efb-636554920101828476.jpg",
+                                    "UserName": "WarnerMoore",
+                                    "Biography": "Warner Moore is a driven technology leader and architect with a background in web operations and information security. He has focused his career in working with high growth organizations where technology is their business and product. Within these organizations, Warner has an accomplished record of building successful security programs and high performing technology teams. ",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Technology and Information Security leader",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-03-01T09:06:50.1833333"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "devops"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-03-01T14:03:55.72",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 89,
+                            "Title": "How to Make a Dysfunctional Team Function without Resorting to Death and Dismemberment",
+                            "Description": "Everyone has been there at least once; part of a team or group that has become so dysfunctional there seems to be no way to move forward. This type of behavior often leads to deep frustration and despair, as people in these kinds of environments seem to only respond to negative and often dramatic communication. However, this type of dysfunction is not usually the fault of any one person or group of people on the team but is the result of the team's inability to recognize and deal with a needed change in a positive and healthy way. In this interactive discussion, you will use the latest in behavioral change modeling to learn how to identify the stages of change. You will come to understand and leverage the decisional balance shifts at each stage. You will discover ways to help people move forward in modifying unwanted behaviors in a healthy way. And, most importantly, you will find out how to support people in maintaining those behavior changes into the future. This session will give you the tools you need to help move a team from dysfunctional to functional without having to remove a single head. ",
+                            "PrimaryCategory": "Soft Skills",
+                            "PrimaryCategoryDisplayText": "Soft Skills",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T13:00:00",
+                            "ScheduledRoom": "Yellow",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Kim",
+                                    "LastName": "McGill",
+                                    "HeadShot": "/cloud/profilephotos/--4dcf686d-1275-4b34-bd60-2864ba30f22c-636553214300997392.jpg",
+                                    "UserName": "KimMcGill",
+                                    "Biography": "Kim McGill has supported a wide range of industries as a Scrum Master, Agile Transformation Coach, Business Analyst, Product Owner and Project and Program Manager over the last 15 years. With her dedication to building teams and organizations that understand real value delivery, she has built a reputation for creating successes in 'real life'. She combines a deep interest in behavioral science, human communication models, and complex system modeling with a deep and abiding belief that healthy functional teams are the cornerstone of all great things. In the last year she has spoken at the Cincinnati, OH chapter of the IIBA as well as at CodeMash 2018. She continues to be an active member of various technical user groups and communities of practice and advocates responsible Agile in every organization she comes into contact with.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Sr Consultant, Ingage Partners ",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:50.1"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "soft skills"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:46.153",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        }
+                    ],
+                    "Time": "1:00 PM"
+                },
+                {
+                    "Sessions": [
+                        {
+                            "Id": 102,
+                            "Title": "Design like Mythbusters",
+                            "Description": "Do you have an idea for a large system? Do you know how you will implement your system? Do you feel a bit overwhelmed by your system? Take a lesson from the Mythbusters television show and build a model first! In this session we’ll take a look at a batch processing system pulled from the world of industrial process automation and talk about what it would take to move to a stream-based solution. We’ll then model that solution using Node-Red, a flow-based programming environment. Along the way we’ll touch on some really fun topics like digital signal processing and data visualization using the Node-Red dashboard. ",
+                            "PrimaryCategory": "App Dev (Languages, Frameworks, etc.)",
+                            "PrimaryCategoryDisplayText": "App Dev (Languages, Frameworks, etc.)",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T14:15:00",
+                            "ScheduledRoom": "Blue",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Dennis",
+                                    "LastName": "Dunn",
+                                    "HeadShot": "/cloud/profilephotos/Dennis-Dunn-7dfe82dd-4c0e-4298-9ade-48c4c1531983-636553214236876709.png",
+                                    "UserName": "dennis.dunn",
+                                    "Biography": "On his third career as a dark-matter hacker, Dennis has written code for academia, state government, and the private sector. As a polyglot, he has coded in languages that have long since died out as well as more obscure tongues such as TCL. He finds parser combinators fascinating and when not engaging with the field of computer science you will find him sleeping. He enjoys science fiction, paragliding, and Catan.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Serial hobbyist",
+                                    "Twitter": "@ansofive",
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": "https://github.com/dennisdunn",
+                                    "LastUpdated": "2018-02-27T09:43:43.6866667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "design"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:46.8",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 94,
+                            "Title": "QA is slowing my project down! Let's talk Risk Based Testing",
+                            "Description": "Have you been impacted by the QA team affecting your timeline?  Despite the reason, it's common for QA to find themselves in a situation where the test coverage is larger than the time, resources, or budget they are presented with.  I'll talk about how I've faced these challenges as a fellow QA and QA Lead and how applying a Risk Based Approach helped to get the team back on track. ",
+                            "PrimaryCategory": "Testing / Quality",
+                            "PrimaryCategoryDisplayText": "Testing / Quality",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T14:15:00",
+                            "ScheduledRoom": "Gauntlet",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Anna",
+                                    "LastName": "Heiermann",
+                                    "HeadShot": "/cloud/profilephotos/--8c368373-bba1-436b-b25d-7eedce206569-636553214183073375.jpg",
+                                    "UserName": "AnnaHeiermann",
+                                    "Biography": "Anna Heiermann brings 10 years of experience in leading Test Teams in Higher Education, Nutrition, Insurance, Energy and Aviation industries. Outside of the QA world, Anna enjoys cooking, power lifting, and mini weekend roadtrips. She loves living the country life on a couple of acres with her husband and two crazy dogs, Chloe (Boston Terrier) and Lola (a boxer with a bad case of FOMO).",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Senior Consultant, HMB",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:38.3066667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "testing"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:46.403",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 63,
+                            "Title": "Raising the Value of Your Unit Tests",
+                            "Description": "For any non-trivial application created today, software engineers must not only deliver on application features but also include associated unit tests to improve efficiency, to reduce risk when making code changes, and to improve quality by identifying bugs as early as possible.  One may think having unit tests to increase code coverage is the goal but that is missing the mark.  Software engineers should be focused on delivering unit tests that have meaningful value to support current and future software development.  In this session, you will learn several unit test styles, how identify weaknesses in unit tests, and how increase the value of the unit tests you create.",
+                            "PrimaryCategory": "Testing / Quality",
+                            "PrimaryCategoryDisplayText": "Testing / Quality",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T14:15:00",
+                            "ScheduledRoom": "Green",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Richard",
+                                    "LastName": "Taylor",
+                                    "HeadShot": "/cloud/profilephotos/--406260a5-e2be-48ae-ad0f-7536c7e96c39-636553214339499824.jpg",
+                                    "UserName": "RichardTaylor",
+                                    "Biography": "Richard L. Taylor Jr. is a 25 year software development and technology professional living in Huntersville, NC. His experience includes the design and development of small to enterprise class applications.  He currently serves as Director of Engineering at SentryOne.\r\n\r\nRichard is a believer of using the right tools for the job and has leveraged ASP.NET (Web API, MVC), SQL Server/MongoDB, Angular, Bootstrap, JavaScript/NodeJS, KendoUI, and Xamarin (just to name a few) to deliver solutions.  He has a great deal of experience but likes to explore new technologies, tools, and techniques to help create better software.\r\n\r\nRichard has a passion for the software development community. He serves as one of the organizers of the Modern Devs Charlotte meetup group and is the founding organizer of the Charlotte Xamarin Developers meetup group.  Both groups try to create environments where developers of all skill levels can come together and learn about the latest technologies, tools, and techniques to create software. These groups also provide a venue to network with fellow developers in the community.  In addition to serving the local software development community via meetup groups, Richard also speaks at regional, national, and international technology users groups and conferences.  His speaking schedule can be found here: http://www.rightincode.com/page/speaking-schedule \r\n\r\nAs a result of his technical community work, Richard has received the Microsoft Most Valuable Professional (MVP) award in the Visual Studio and Development Technologies category.  MVPs make up a global community of over 4,000 technical experts and community leaders across 90 countries and are driven by their passion, community spirit, and quest for knowledge.   Richard has also received the Progress (Telerik) Developer Expert designation.  DE’s are highly skilled, visible, and elite industry leaders who write, speak, help, and code using Progress (Telerik) products.  There are 44 DE’s in 13 different countries who are ambassadors for Progress Products to the tech community.\r\n\r\nWhen not developing software, Richard is focused on spending time with his lovely wife Shondrecca (she gives the best hugs!!) and their five children (Richard III, Ayanna, David, Jonathan, and Stephen).",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Husband, father, Microsoft MVP, Progress/Telerik Dev Expert, and software dev with a passion for .Net, and doing software right. It's all about Right'in Code",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:53.95"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "testing"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:44.67",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 65,
+                            "Title": "Chrome Developer Tools: Raiding the Armory",
+                            "Description": "The Chrome Developer Tools are absolutely packed with features. Some are incredibly useful. Some are just plain surprising. For example: Turn the browser into an editor, fuzzy search source filenames, display data in the console in tabular format and much, much more. In this session, we will fix up the storefront for Wacky Wanda’s Wicked Weapons and learn some console wizardry in the process. In the course of our tribulations we will correct styling problems, enhance our debugging skills, and clean up server-side snafus.",
+                            "PrimaryCategory": "Web (HTML, JavaScript, CSS, etc.)",
+                            "PrimaryCategoryDisplayText": "Web (HTML, JavaScript, CSS, etc.)",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T14:15:00",
+                            "ScheduledRoom": "Orange",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Greg",
+                                    "LastName": "Malcolm",
+                                    "HeadShot": "/cloud/profilephotos/--da6f97f2-c51a-4a65-a4e6-7ecd3f42a4a7-636553214256145434.jpg",
+                                    "UserName": "GregMalcolm",
+                                    "Biography": "Greg is an Application Developer/Consultant working for ICC. He is a polyglot developer who loves experimenting with new languages and frameworks. In recent years he's been focusing more and more on JavaScript related frameworks. If you’re wondering about the accent, everyone speaks like this in the southern foothills of Columbus.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Tech Lead/Consultant - ICC",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:45.6133333"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "web"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:44.747",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 96,
+                            "Title": "React Native: lickety-split",
+                            "Description": "Mobile development on IOS and Android have had historically high barriers.  Many application and web developers would have to learn new languages, IDEs, ecosystems in a restricted hardware environment with long and expensive deployments.  But No More!  In this talk, we will show how to use React Native and Javascript to write an entire application.  We start from scratch and build a live app that is usable by the audience as it is developed and published before we end.  Learn how to develop an app and publish for free, lickety-split.  ",
+                            "PrimaryCategory": "Mobile / Client",
+                            "PrimaryCategoryDisplayText": "Mobile / Client",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T14:15:00",
+                            "ScheduledRoom": "Purple",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": true,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Stephen",
+                                    "LastName": "Shary",
+                                    "HeadShot": "/cloud/profilephotos/Stephen-Shary-68e0b021-8ce9-4b98-bd1a-262e21d46d25-636553214366649172.jpg",
+                                    "UserName": "stephenshary",
+                                    "Biography": "I am a full-stack developer and technical lead that focuses mainly on languages that run on the JVM. I am also well versed in Javascript in the browser and in Node. I enjoy functional programming, delivering production code as fast as possible and robust automated testing. I work with teams to overhaul their projects, improve code quality, speed delivery to production and improve culture.",
+                                    "WebSite": null,
+                                    "Company": "Kroger",
+                                    "Title": "Lead, Full-Stack Developer at Kroger",
+                                    "Twitter": "@StephenShary",
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": "https://www.linkedin.com/in/stephenshary/",
+                                    "GitHub": "https://github.com/STeveShary",
+                                    "LastUpdated": "2018-02-27T09:43:56.6633333"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "JavaScript"
+                                },
+                                {
+                                    "Name": "React"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:46.48",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 114,
+                            "Title": "How to Solve All Your Problems Without Really Knowing What You're Doing",
+                            "Description": "Problem solving skills are critical for software developers. Whether you're just starting out or you're a well-seasoned engineer, this talk will guide you towards success in your approach to solving problems (and you'll leave with a strategy or two to take home to your mentees/teammates). We'll discuss how to get started when you feel like you don't know what you're doing, how to _understand_ a problem, planning solutions, and checking your work. These tips and tricks are serious game-changers when it comes to streamlining your approach and getting things done efficiently and accurately.",
+                            "PrimaryCategory": "Soft Skills",
+                            "PrimaryCategoryDisplayText": "Soft Skills",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T14:15:00",
+                            "ScheduledRoom": "Purple",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Marlena",
+                                    "LastName": "Bowen",
+                                    "HeadShot": "/cloud/profilephotos/--3631b337-cb76-406d-bd58-b3f77433bc4d-636608513788495419.jpg",
+                                    "UserName": "MarlenaBowen",
+                                    "Biography": "Marlena Bowen is a software engineer at Root Car Insurance. She loves automating manual processes, squashing bugs, and doing things right the first time.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Software Engineer",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-05-02T09:49:38.85"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "soft skills"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": null,
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 91,
+                            "Title": "Startups! The white knights of healthcare",
+                            "Description": "You've got an amazing idea for a healthcare startup! \"It can't be that hard,\" you say. \"All they need are the right tools and it would solve everyone's problems!\"\n\nSo, there you are, ready to ride in on your trusty stead wearing your shining armor and save the day. Soon enough the cold, hard truth sets in. This industry is treacherous, and the path to success is littered with pitfalls, dragons and the remains of those who came before you.\n\nIn this talk we'll cover some of the challenges that you're bound to run into and how you can navigate those dragons and pitfalls to make an impact in an industry that truly affects us all.",
+                            "PrimaryCategory": "Startups / Entrepreneurship",
+                            "PrimaryCategoryDisplayText": "Startups / Entrepreneurship",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T14:15:00",
+                            "ScheduledRoom": "Red",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Shawn",
+                                    "LastName": "Price",
+                                    "HeadShot": "/cloud/profilephotos/--9501f0dc-18b3-4cd3-85d3-23e4a1570fba-636553214361255325.png",
+                                    "UserName": "ShawnPrice",
+                                    "Biography": "Shawn spent nearly a decade in the consulting world before stumbling into Healthcare. He's learned enough along the way that he thinks he might be able to help others. He likes playing music, crossfit, being a dad and lots of other things that make him insufferable to talk to at social gatherings.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Co-founder, CTO and upstanding citizen at Healthy Roster",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:56.1266667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "business"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:46.247",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 99,
+                            "Title": "Blockchain: Worth more than a Bitcoin?",
+                            "Description": "Is this Bitcoin craze for real? What even is Bitcoin? These are questions we in the tech industry may be fielding frequently as of late from friends and family. One question that isn’t as frequent, however, is what is blockchain? Is it just an algorithm for cryptocurrencies? It can answer a much bigger question; a fundamental computer science question around verifying data. This mysterious technology is already impacting a variety of industries and processes from finance to healthcare. Join me as we discover and explore what exactly blockchain is, where it is headed, and how and when you can start using it.",
+                            "PrimaryCategory": "Misc *.*",
+                            "PrimaryCategoryDisplayText": "Misc *.*",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T14:15:00",
+                            "ScheduledRoom": "Thanos",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Brett",
+                                    "LastName": "Koenig",
+                                    "HeadShot": "/cloud/profilephotos/--9d07be6f-9140-487c-895c-2ed51f4670d5-636553214211703778.jpg",
+                                    "UserName": "BrettKoenig",
+                                    "Biography": "Brett is a consultant with HMB and has been making websites for more than 5 years. In software his main interests lie on the front-end and how it can be used to bring ideas into reality and in emerging technologies and how they can be used to solve problems.\r\n\r\nOutside of the office, you can find him and his wife cheering on the Buckeyes in about any sport possible or pursuing their fledgling dreams of being world-traveling outdoorsmen.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Consultant @ HMB",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:41.17"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "blockchain"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:46.653",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 72,
+                            "Title": "Giving Clarity to LINQ Queries by Extending Expressions",
+                            "Description": "In this session we’ll learn about .Net Expression trees by discovering how they work and applying the knowledge to LINQ using the pipes and filters pattern. LINQ and Entity Framework are both commonly used in the .Net ecosystem, but even well-written applications can have LINQ queries that are difficult to understand. Because LINQ is so flexible, it can be written in ways that fail to communicate the developer’s intent. Well-written LINQ should be so clear as to be self-documenting. To write clear LINQ, it helps to understand the details of a few LINQ components that improve LINQ’s readability.\n\nWe’ll be learning how to use a pipe and filter pattern to make LINQ queries easier to comprehend. We will take a deep dive into expression trees to understand how they work, and how to manipulate them for maximum re-usability.",
+                            "PrimaryCategory": "Architecture / Patterns",
+                            "PrimaryCategoryDisplayText": "Architecture / Patterns",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "300",
+                            "ScheduledDateTime": "2018-05-04T14:15:00",
+                            "ScheduledRoom": "Yellow",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Ed",
+                                    "LastName": "Charbeneau",
+                                    "HeadShot": "/cloud/profilephotos/Ed-Charbeneau-c4c717ab-3bf7-4a2c-ab7f-8d0a4d29c518-636553214246453527.jpg",
+                                    "UserName": "edcharbeneau",
+                                    "Biography": "Ed is a Microsoft MVP and an international speaker, writer, online influencer, a Developer Advocate for Progress, and expert on all things web development. Ed enjoys geeking out to cool new tech, brainstorming about future technology, and admiring great design.\r\n\r\nEd has shared his insights, experiences, and advice around collaboration, knowledge management, social computing, and training at many industry events around the United States. Highly ethical and engaging with an uncanny business acumen, he is a creative community builder and outside the box thinker. Long term business relationships throughout the world within internal communications, employee engagement and marketing as well as IT. Focusing on Financial, Healthcare, Manufacturing, Agency and Professional Services. He has defined, architected, implemented line of business solutions with a touch of style and UX best practices.",
+                                    "WebSite": "http://edcharbeneau.com",
+                                    "Company": "Progress",
+                                    "Title": "Ed is a Microsoft MVP and an international speaker, writer, online influencer, a Developer Advocate for Progress.",
+                                    "Twitter": "@edcharbeneau",
+                                    "Facebook": "https://www.facebook.com/edcharbeneau",
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": "https://github.com/edcharbeneau",
+                                    "LastUpdated": "2018-02-27T09:43:44.6466667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "c#"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:45.09",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        }
+                    ],
+                    "Time": "2:15 PM"
+                },
+                {
+                    "Sessions": [
+                        {
+                            "Id": 74,
+                            "Title": "Deliver what the client wants instead of what they ask for and get them to ask for what they need!",
+                            "Description": "As software developers, our goal is to typically write software that meets the needs of our clients, whether they be internal or external clients. Often times, when we miss the mark, it is due to a communication breakdown between the developer team and the client team on what the actual requirements are.\n\nCommunication breakdowns generally occur between people with different communication styles. So how do we bridge that gap and get the information we need from people who communicate differently than we do?\n\nThis talk will be an exploration of communication styles and how we can recognize our own communication style as well as easily determine the communication style of others. With this information we can communicate with someone in the style in which they best receive information. When we communicate with others in their learning style, we break down barriers and are more able to accurately get to the pain points that they need a solution for. Once the communication barriers are down, it becomes easier to get the requirements that we are looking for.\n",
+                            "PrimaryCategory": "Soft Skills",
+                            "PrimaryCategoryDisplayText": "Soft Skills",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T15:30:00",
+                            "ScheduledRoom": "Blue",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Angel",
+                                    "LastName": "Thomas",
+                                    "HeadShot": "/cloud/profilephotos/--518b1a42-b205-439b-90e8-ae2e888b8828-636553214178600185.jpg",
+                                    "UserName": "AngelThomas",
+                                    "Biography": "Angel is a founder and chapter leader for the Toledo chapter of Girl Develop It. She works as a software developer for Center for Information Management in Ann Arbor, Michigan. When she is not busy with work and family, she enjoys helping others to develop a love for code.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Software Developer",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:37.86"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "agile"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:45.28",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 97,
+                            "Title": "Code up an 8-bit Hero",
+                            "Description": "Have you ever wanted to code up a bot to play your favorite NES game? The Nintaco emulator has an API that allows you to do just that. Writing a bot to play an NES game is a fun mix of programming challenge, retro computing, and classic video games. In this talk will look at what you need to know to get started writing your first bot.\n",
+                            "PrimaryCategory": "Misc *.*",
+                            "PrimaryCategoryDisplayText": "Misc *.*",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T15:30:00",
+                            "ScheduledRoom": "Gauntlet",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Eric",
+                                    "LastName": "Potter",
+                                    "HeadShot": "/cloud/profilephotos/--0898207e-9a43-46b5-98ea-36744a734d7b-636553214250831648.jpg",
+                                    "UserName": "EricPotter",
+                                    "Biography": "Eric is a Software Architect for Aptera Software and a Microsoft MVP for Visual Studio and Development Technologies. He works primarily in the .Net web platform but loves opportunities to try out other stacks. He has been developing high-quality custom software solutions since 2001. At Aptera, he has successfully delivered solutions for clients in a wide variety of industries. He loves to dabble in new and exciting technologies. In his spare time, he loves to tinker with Arduino projects. He fondly remembers what it was like to develop software for the Palm OS. He has an amazing wife and 5 wonderful children. He blogs at http://humbletoolsmith.com/ and you can follow him on twitter as @pottereric. \r\n",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Software Architect ",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:45.0833333"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "games"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:46.56",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 80,
+                            "Title": "Build your own Voice Assistant",
+                            "Description": "Speaking is such a natural interface that we use it to interact with people all the time without even thinking about it. Why can’t we do that with the systems we build every day?  Maybe it is because historically you needed a PhD to understand natural linguistics. But now a days Amazon, Azure, Google and IBM are making their voice recognition capabilities available as a service. Come to this session to learn how you can use these services to build your own voice assistant.",
+                            "PrimaryCategory": "Cloud / Infrastructure",
+                            "PrimaryCategoryDisplayText": "Cloud / Infrastructure",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T15:30:00",
+                            "ScheduledRoom": "Green",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Jarred",
+                                    "LastName": "Olson",
+                                    "HeadShot": "/cloud/profilephotos/--7fe4d4e8-6586-4bfe-9404-fbc3dbacf4a7-636553214264781588.jpg",
+                                    "UserName": "JarredOlson",
+                                    "Biography": "Jarred has been developing software professionally for over 10 years. He is passionate about scalability, continuous delivery, removing inefficiencies, and developing DRY clean code in Groovy, Java, Javascript, Scala, or whatever the best tool for the job is. Currently employed at Step It Up in Columbus OH where he slings code while keeping a light and fun team environment. Outside of software Jarred enjoys spending time with his wife and 2 kids, woodworking, and watching college football.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Problem Solver",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:46.4766667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "NLP"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:45.637",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 84,
+                            "Title": "Ditching The Office",
+                            "Description": "If you ask developers where they go when they want to get a lot of work done, few of them will say \"the office\".  Over the last few months, our team has transitioned from working in the office full time to becoming a remote working team.  I'll talk about why we decided to go remote, how we got there, and what we've learned along the way.  We are loving the freedom, flexibility, and productivity we've found, and you might just find that it can work for your team too.",
+                            "PrimaryCategory": "Misc *.*",
+                            "PrimaryCategoryDisplayText": "Misc *.*",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T15:30:00",
+                            "ScheduledRoom": "Orange",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Jon",
+                                    "LastName": "Kruger",
+                                    "HeadShot": "/cloud/profilephotos/Jon-Kruger-601e73c0-bdc1-4d01-a9e3-957a224a7bc5-636553214284755826.jpg",
+                                    "UserName": "jonkruger",
+                                    "Biography": "Hi, I'm Jon Kruger and I am a software developer and technical leader in Columbus, OH.  I specialize in software solutions, project leadership, and Agile coaching and training and I have experience in a wide range of industries and environments. I use my experience as a leader and software developer to find ways to create better quality software, improve the software development process, and maximize value for the business.  You can follow me on my blog (jonkruger.com) or on Twitter (@JonKruger).",
+                                    "WebSite": "http://jonkruger.com",
+                                    "Company": null,
+                                    "Title": "Improving people's lives through software",
+                                    "Twitter": "@JonKruger",
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": "https://www.linkedin.com/in/jonkruger",
+                                    "GitHub": "https://github.com/jonkruger",
+                                    "LastUpdated": "2018-02-27T09:43:48.4766667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "soft skills"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:45.873",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 98,
+                            "Title": "Machine Learning in R",
+                            "Description": "A whirlwind tour of supervised learning, unsupervised learning, data exploration and deep learning in R. The idea is to survey the landscape of what is possible, and suggest next steps for aspiring machine learners. ",
+                            "PrimaryCategory": "Data / Storage / BI",
+                            "PrimaryCategoryDisplayText": "Data / Storage / BI",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T15:30:00",
+                            "ScheduledRoom": "Purple",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Tim",
+                                    "LastName": "Hoolihan",
+                                    "HeadShot": "/cloud/profilephotos/--14a84057-4971-40a4-9c12-25004674cc4e-636553214378582673.jpg",
+                                    "UserName": "TimHoolihan",
+                                    "Biography": "Tim Hoolihan is the Senior Director of Data Science at DialogTech. He is the organizer for the Cleveland R User Group, and the author of three video courses on machine learning in R available via Packt Pub. Tim lives in Northeast Ohio.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Senior Director of Data Science at DialogTech",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:57.86"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "Machine Learning"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:46.607",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 85,
+                            "Title": "Microsoft Edge Test Automation: painful like Internet Explorer, but not in the same way",
+                            "Description": "Internet Explorer is widely considered to be the most difficult & temperamental browser to automate in the web automation space. The numerous built-in challenges has made controlling the browser difficult compared to the other popular web options. The release of Microsoft Edge with Windows 10 meant Internet Explorer would slowly decline in usage, but the new browser poses difficulties of its own. The initial limited support for the Edge DriverServer meant the capabilities of browser automation were lacking. Additionally, the userbase who converted over to Windows 10 took their favorite browser with them. In this talk, we’ll demonstrate the problems & solutions for test automation on Windows 10 with Edge, complete with a setup that allows automation developers to switch between Edge, Internet Explorer, and other popular browsers for the same test.\n\n",
+                            "PrimaryCategory": "Testing / Quality",
+                            "PrimaryCategoryDisplayText": "Testing / Quality",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T15:30:00",
+                            "ScheduledRoom": "Red",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Thomas",
+                                    "LastName": "Haver",
+                                    "HeadShot": "/cloud/profilephotos/--d35d991a-f39c-4e92-b7b1-07b190f2765e-636553214374389685.jpg",
+                                    "UserName": "ThomasHaver",
+                                    "Biography": "Thomas Haver is presently serving as the Senior Application Architect for Huntington National Bank. He is responsible for the conversion from manual testing to Ruby/Cucumber automation for the entire enterprise. Originally accountable for the development and maintenance of automation frameworks for Digital Channels, he now leads the automation effort for 63 applications across Huntington that encompass testing, metrics & reporting, data, and environment. Thomas is a scientist turned baker turned technology professional. He started as a research scientist in fluorescence microscopy & spectroscopy, and has worked at three different R1 research institutes. He has worked as a tester, a developer, a requirements analyst, and finally an application architect. On the weekends, he makes baked goods for a local bakery and hosts gaming events for his non-profit. His passion for reducing the cost of quality through automation and continuous improvement leads him to explore new areas of technology and business management.",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Huntington National Bank",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:57.44"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "testing"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:45.933",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 100,
+                            "Title": "BFFs, Angular & .NET Core",
+                            "Description": "Do you love ASP.Net Core but not a fan of Razor? Has your UX team complained how they can’t get your solution running on their Macs and can’t help you make your site pretty? \n\nIn this session, I will walk you through an architecture of an application that uses Angular as it’s front end and ASP .NET Core as it’s RESTful backend and it’s all hosted in Azure.  The entire site (front and back end) is under one Visual Studio solution file, and runs on Windows, and Macs allowing for cross platform & cross practice collaboration. ",
+                            "PrimaryCategory": "App Dev (Languages, Frameworks, etc.)",
+                            "PrimaryCategoryDisplayText": "App Dev (Languages, Frameworks, etc.)",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T15:30:00",
+                            "ScheduledRoom": "Thanos",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Wasim",
+                                    "LastName": "Hanna",
+                                    "HeadShot": "/cloud/profilephotos/--2a98768f-276f-4179-a898-e98e4df6e862-636553214387143771.jpg",
+                                    "UserName": "WasimHanna",
+                                    "Biography": "Wasim Hanna is a software developer and consultant for the past decade with focus on Microsoft technologies. He helps companies build enterprise level applications",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Senior Consultant at Cardinal Solutions Group",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:58.7133333"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "JavaScript"
+                                },
+                                {
+                                    "Name": ".net"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:46.683",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        },
+                        {
+                            "Id": 107,
+                            "Title": "Contain Yourself: Docker for the Entire SDLC",
+                            "Description": "You've probably heard of Docker. You might be using it to build your applications. But you could be using it for so much more!\n\nIn this talk, we'll walk through some out-of-the-box ways to apply Docker to your SDLC.\n\nFrom development to demo slides, debugging to deployment, do it all in with some Docker containers.",
+                            "PrimaryCategory": "DevOps / ALM",
+                            "PrimaryCategoryDisplayText": "DevOps / ALM",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "200",
+                            "ScheduledDateTime": "2018-05-04T15:30:00",
+                            "ScheduledRoom": "Yellow",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Johnson",
+                                    "LastName": "Denen",
+                                    "HeadShot": "/cloud/profilephotos/--68bca2c9-fc64-4a56-b1df-782045dc6e9a-636553214280357690.jpg",
+                                    "UserName": "JohnsonDenen",
+                                    "Biography": "Johnson is a Software Artisan with Pillar Technology. He currently leads a team developing a big data platform in AWS, and he's spent far too much of his time with Docker and Jenkins.\r\n\r\n\"If I can't do it in Emacs, it's probably not worth doing.\"",
+                                    "WebSite": null,
+                                    "Company": null,
+                                    "Title": "Artisan and Emacs Advocate at Pillar Technology",
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2018-02-27T09:43:48.0366667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "Docker"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": "2018-02-26T18:31:47.09",
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        }
+                    ],
+                    "Time": "3:30 PM"
+                },
+                {
+                    "Sessions": [
+                        {
+                            "Id": 116,
+                            "Title": "Movie Screening: Avengers Infinity War",
+                            "Description": "Watch Infinity War in the theater of your choice.",
+                            "PrimaryCategory": "Other",
+                            "PrimaryCategoryDisplayText": "-",
+                            "SecondaryCategory": null,
+                            "SecondaryCategoryDisplayText": null,
+                            "Level": "100",
+                            "ScheduledDateTime": "2018-05-04T17:30:00",
+                            "ScheduledRoom": "All Theaters",
+                            "IsFamilyApproved": true,
+                            "IsUserFavorite": null,
+                            "Accepted": true,
+                            "Canceled": false,
+                            "Speakers": [
+                                {
+                                    "FirstName": "Stir",
+                                    "LastName": "Trek",
+                                    "HeadShot": "/cloud/profilephotos/Stir-Trek-26fd18b0-6837-4693-8b56-4dd32e7de7ab-636240165201887323.png",
+                                    "UserName": "stadmin",
+                                    "Biography": "Stir Trek is the largest software developer conference in central Ohio.",
+                                    "WebSite": "http://stirtrek.com",
+                                    "Company": null,
+                                    "Title": null,
+                                    "Twitter": null,
+                                    "Facebook": null,
+                                    "GooglePlus": null,
+                                    "LinkedIn": null,
+                                    "GitHub": null,
+                                    "LastUpdated": "2017-03-02T01:56:35.7866667"
+                                }
+                            ],
+                            "Tags": [
+                                {
+                                    "Name": "marvel"
+                                }
+                            ],
+                            "SessionLinks": [],
+                            "LastUpdated": null,
+                            "Updated": false,
+                            "ShowMoreDetails": false
+                        }
+                    ],
+                    "Time": "5:30 PM"
+                }
+            ],
+            "Day": "Fri 5/4"
+        }
+    ],
+    "HasCancelledSessions": false
+}

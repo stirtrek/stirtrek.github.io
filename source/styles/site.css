@@ -1031,6 +1031,7 @@ span.showMoreIcon {
 
 .speakersContainer img {
     background-color: #fff;
+    width: 100%;
 }
 
 .form-group.required .control-label {

@@ -1,23 +1,23 @@
-<div class="speakersContainere">
+<div class="speakersContainer">
     <article class="row thinRow">
 
-        <% for (var speaker of site.data.speakers ) {%>
+        <% for (var speaker of site.data.sessions2018.speakers ) {%>
             <div class="col-md-3">
                 <div>
-                    <a href="/speakers/speaker/AdamPasternack">
+                    <a href="/speakers/speakers">
                         <div>
-                            <img class="img-responsive" src="<%= speaker.HeadShot %>">
+                            <img class="img-responsive" src="<%= speaker.profilePicture %>">
                         </div>
                     </a>
                 </div>
                 <div class="bio">
                     <h3>
-                        <a href="/speakers/speaker/AdamPasternack">
-                            <%= speaker.FirstName + " " + speaker.LastName %>
+                        <a href="/speakers/speakers">
+                            <%= speaker.firstName + " " + speaker.lastName %>
                         </a>
                     </h3>
                     <% 
-                        var title = speaker.Title;
+                        var title = speaker.tagLine;
                         if(title.length > 50) {
                             title = title.slice(0,50) + "...";
                         }
@@ -25,7 +25,7 @@
                     <strong><%= title %></strong>
                     <div class="text-muted">
                         <%
-                            var bio = speaker.Biography;
+                            var bio = speaker.bio;
                             if(bio.length > 100) {
                                 bio = bio.slice(0,100) + "...";
                             }

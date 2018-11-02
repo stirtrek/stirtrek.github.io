@@ -1,10 +1,16 @@
 <div class="speakersContainer">
     <article class="row thinRow">
 
-        <% for (var speaker of site.data.sessions2018.speakers ) {%>
+        <% for (var speaker of eval('site.data.sessions' + page.year + '.speakers') ) {
+            
+            // Clean special characters
+            var firstName = speaker.firstName.replace(/[^a-zA-Z0-9-_\.]/g, '');
+            var lastName = speaker.lastName.replace(/[^a-zA-Z0-9-_\.]/g, '');
+            
+        %>
             <div class="col-md-3">
                 <div>
-                    <a href="/speakers/speakers">
+                    <a href="/Speakers/<%= page.year %>/<%= firstName + '-' + lastName %>.html">
                         <div>
                             <img class="img-responsive" src="<%= speaker.profilePicture %>">
                         </div>
@@ -12,7 +18,7 @@
                 </div>
                 <div class="bio">
                     <h3>
-                        <a href="/speakers/speakers">
+                        <a href="/Speakers/<%= page.year %>/<%= firstName + '-' + lastName %>.html">
                             <%= speaker.firstName + " " + speaker.lastName %>
                         </a>
                     </h3>

@@ -1,8 +1,12 @@
+<% if (page.source == 'index.md') { %>
 <div id="home-page" class="body-content" role="main">
+<% } else { %>
+<div class="body-content" role="main">
+<% } %>
 
     <%- page.content %>
 
-    <% if (page.source == 'index.md') { %>
+    <% if (page.source == '/index.md') { %>
         <%- partial('sponsorsBrief') %>
     <% } else if (page.source == 'Sponsors/index.md') { %>
         <%- partial('sponsorsFull') %>

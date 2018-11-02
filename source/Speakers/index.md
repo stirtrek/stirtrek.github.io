@@ -1,5 +1,6 @@
 ---
 title: Speakers
+year: 2018
 ---
 
 # 2019 Call for Speakers

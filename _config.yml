@@ -10,6 +10,7 @@ keywords: Technical Conference, StirTrek, Stir Trek, web, mobile, cloud, confere
 author: Stir Trek Conference
 language: EN-US
 timezone:
+currentYear: 2018
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

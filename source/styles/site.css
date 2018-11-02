@@ -343,6 +343,7 @@ section {
 @media screen and (min-width:500px) {
     .comic-panel-header.offset {
         left: 40px;
+        margin-right: 80px;
     }
 }
 
@@ -579,7 +580,7 @@ div.icon-hr:before {
 }
 
 div.icon-speaker:before {
-    content: url(/images/Sponsors-Icon-StirTrek.png);
+    content: url(/icons/speaker-icon.png);
     position: relative;
     display: block;
     margin-top: -30px;
@@ -599,7 +600,7 @@ div.icon-security:before {
 }
 
 div.icon-account:before {
-    content: url(/images/Sponsors-Icon-StirTrek.png);
+    content: url(/icons/speaker-icon.png);
     position: relative;
     display: block;
     margin-top: -30px;

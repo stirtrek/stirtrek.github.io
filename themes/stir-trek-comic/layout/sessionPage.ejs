@@ -1,0 +1,54 @@
+<div class="body-content" role="main">
+        
+        <h2><%= page.title %></h2>
+        <div class="icon-hr"></div>
+        
+        <article id="sessionDetails">
+            <div class="row thinRow">
+                <div class="col-xs-12 col-sm-12 col-md-9">
+                    <div class="row thinRow">
+                        <div class="col-xs-12" id="sessionLogistics">
+                            <div>
+                                <% for (var speaker of page.speakers) { %>
+                                    <h3>
+                                        <em>
+                                            <a href="/Speakers/<%= page.year %>/<%= speaker.firstName + '-' + speaker.lastName %>.html">
+                                                <%= speaker.firstName + " " + speaker.lastName %>
+                                            </a>
+                                        </em>
+                                    </h3>
+                                <% } %>
+                            </div>
+        
+                            <!-- <div>
+                                <strong>Day:&nbsp;</strong><span>Fri, May 4</span>&nbsp;&nbsp;
+                                <strong>Time:&nbsp;</strong><span>3:30 PM</span>&nbsp;&nbsp;
+                                <strong>Location:&nbsp;</strong>Blue&nbsp;<small><em>
+                                <a href="/content/support/SchottMap.png" target="_blank">(map)</a></em></small>
+                            </div> -->
+    
+                            <!-- <div>
+                                <strong>Level:&nbsp;</strong><span>100</span>&nbsp;&nbsp;<strong>PrimaryCategory:&nbsp;</strong><span>Soft Skills</span>&nbsp;&nbsp;<strong>SecondaryCategory:&nbsp;</strong><span></span><br>
+                                <strong>Tags:&nbsp;</strong><span>agile</span>
+                            </div> -->
+
+                        </div>
+                        <div class="col-xs-12">
+                                <%= page.description %>
+                        </div>              
+                    </div>
+                </div>
+            </div>
+        
+            
+<!--             
+            <section id="sessionLinks">
+                <strong>Links</strong>
+                <ul>
+                </ul>
+            </section> -->
+            
+        </article>
+        
+        
+        </div>

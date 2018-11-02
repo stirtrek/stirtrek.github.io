@@ -1,0 +1,89 @@
+{
+  "sessions": [
+    {
+      "id": "21156",
+      "title": "Introduction to Convolutional Neural Networks",
+      "description": "Machine learning is beginning to have a major impact on software development for all platforms and industries. However a life of developing software in a traditional explicit manner is not the best training for developing machine learning algorithms. Software developers faced with problems like \"What is in this image\", \"Is image a face and is it smiling?\", or \"Is this a hot dog?\" would face much difficulty without a machine learning algorithm approach.\r\n\r\nThis session explains what a neural network is in simple terms. That definition is expanded to include Convolutional Neural Networks and why they are great for image recognition. A sample neural network implemented in Keras and trained with the MNIST dataset will be demostrated to recognize handwritten digits. This session will conclude with an sample iOS application using CoreML to run the neural network directly on a phone and recognize digits in real time.\r\n\r\nYou will leave this session with some ideas on how to begin to approach problems best solved with machine learning algorithms.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3ec45bcc-5de8-4495-a341-f2f94256189d"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "37769",
+      "title": "DevOops: SRE and Distributed Computing at Scale",
+      "description": "As technical professionals, we throw all sorts of jargon\r\naround -- DevOps, WebOps, and Site Reliability Engineering among others. In\r\nmany cases, definitions vary even among the professionals themselves. In\r\nthis presentation, we'll explore the evolution of technical practices\r\nused by Infrastructure and Operational professionals. Additionally,\r\nwe'll cover some of the practices that the best Site Reliability or\r\nOperations Engineers have used at leading technology companies around\r\nthe world.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e066d2fa-028b-4055-86bb-f482327f549b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": null
+    }
+  ],
+  "speakers": [
+     {
+      "id": "3ec45bcc-5de8-4495-a341-f2f94256189d",
+      "firstName": "Tim",
+      "lastName": "LeMaster",
+      "bio": "Tim is a Senior Software Engineer at Doc Halo. He has 22 years of software development experience and has been developing for iOS since 2009. He studied Physics at Purdue University and is a veteran of the United States Air Force.",
+      "tagLine": "Doc Halo, Senior Software Engineer",
+      "profilePicture": "https://sessionize.com/image?f=07111fcf4cc50f5ee51ae3f3b8f8e275,400,400,True,False,cc-5de8-4495-a341-f2f94256189d.0cec1fc4-92ad-4822-b52a-f5a4b32eca71.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://www.twitter.com/timle8n1",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/tim-lemaster-96598713",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        21156
+      ],
+      "fullName": "Tim LeMaster"
+    },
+    {
+      "id": "e066d2fa-028b-4055-86bb-f482327f549b",
+      "firstName": "Warner",
+      "lastName": "Moore",
+      "bio": "Warner Moore is a driven technology leader and architect with a background in web operations and information security. He has focused his career in working with high growth organizations where technology is their business and product. Within these organizations, Warner has an accomplished record of building successful security programs and high performing technology teams. ",
+      "tagLine": "Technology and Information Security leader",
+      "profilePicture": "https://sessionize.com/image?f=52c4172f74da5208a0d02cb8a39f8c25,400,400,True,False,61c6df45-35a2-4873-b5fb-1769dbf773f1.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/warnermoore",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/warnermoore/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        37769
+      ],
+      "fullName": "Warner Moore"
+    }
+  ],
+  "questions": [],
+  "categories": [],
+  "rooms": []
+}

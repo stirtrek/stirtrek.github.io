@@ -1,54 +1,83 @@
 <div class="body-content" role="main">
         
-        <h2><%= page.title %></h2>
-        <div class="icon-hr"></div>
-        
-        <article id="sessionDetails">
-            <div class="row thinRow">
-                <div class="col-xs-12 col-sm-12 col-md-9">
-                    <div class="row thinRow">
-                        <div class="col-xs-12" id="sessionLogistics">
-                            <div>
-                                <% for (var speaker of page.speakers) { %>
-                                    <h3>
-                                        <em>
-                                            <a href="/Speakers/<%= page.year %>/<%= speaker.firstName + '-' + speaker.lastName %>.html">
-                                                <%= speaker.firstName + " " + speaker.lastName %>
-                                            </a>
-                                        </em>
-                                    </h3>
-                                <% } %>
-                            </div>
-        
-                            <!-- <div>
-                                <strong>Day:&nbsp;</strong><span>Fri, May 4</span>&nbsp;&nbsp;
-                                <strong>Time:&nbsp;</strong><span>3:30 PM</span>&nbsp;&nbsp;
-                                <strong>Location:&nbsp;</strong>Blue&nbsp;<small><em>
-                                <a href="/content/support/SchottMap.png" target="_blank">(map)</a></em></small>
-                            </div> -->
-    
-                            <!-- <div>
-                                <strong>Level:&nbsp;</strong><span>100</span>&nbsp;&nbsp;<strong>PrimaryCategory:&nbsp;</strong><span>Soft Skills</span>&nbsp;&nbsp;<strong>SecondaryCategory:&nbsp;</strong><span></span><br>
-                                <strong>Tags:&nbsp;</strong><span>agile</span>
-                            </div> -->
+        <style>
+            .session-comic-grid {
+                display: grid;
+                width: 100%;
 
-                        </div>
-                        <div class="col-xs-12">
-                                <%= page.description %>
-                        </div>              
-                    </div>
-                </div>
+                grid-template-areas: 
+                    "p1 p1 p2 p2 p2"
+                    "p3 p3 p3 p4 p4"
+                    "p3 p3 p3 p5 p5"
+                    "p6 p6 p6 p5 p5";
+
+                column-gap: 1em;
+                row-gap: 1em;
+
+            }
+
+            .session-comic-grid div {
+                align-items: center;
+            }
+
+            .session-grid-logo {
+                grid-area: p1;
+                align-content: center;
+                display: grid;
+            }
+
+            .session-grid-title {
+                grid-area: p2;
+            }
+
+            .session-grid-description {
+                grid-area: p3;
+            }
+
+            .session-grid-avatar {
+                grid-area: p5;
+                align-content: center;
+                display: grid;
+            }
+
+            .session-grid-name {
+                grid-area: p4;
+            }
+
+            .session-grid-bio {
+                grid-area: p6;
+            }
+        </style>
+
+        <div class="session-comic-grid">
+            <div class="comic-panel-body session-grid-logo">
+                <img src="/images/stir-trek-comic-800x598.png" alt="Stir Trek logo" class="img-responsive">
+            </div>
+
+            <div class="comic-panel-body session-grid-title">
+                <h1><%= page.title %></h1>
             </div>
         
-            
-<!--             
-            <section id="sessionLinks">
-                <strong>Links</strong>
-                <ul>
-                </ul>
-            </section> -->
-            
-        </article>
-        
-        
+            <div class="comic-panel-body session-grid-description">
+                <%= page.description %>
+            </div>
+
+            <% firstSpeaker = page.speakers[0]; %>
+
+            <div class="comic-panel-body session-grid-avatar">
+                <img src="<%= firstSpeaker.profilePicture%>" class="img-responsive">
+            </div>
+
+            <div class="comic-panel-body session-grid-name">
+                <%= firstSpeaker.firstName + " " + firstSpeaker.lastName %>
+                <br>
+                <%= firstSpeaker.tagLine %>               
+            </div>
+
+            <div class="comic-panel-body session-grid-bio">
+                <%= firstSpeaker.bio %>
+            </div>
         </div>
+
+          
+</div>

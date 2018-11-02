@@ -17,7 +17,10 @@ hexo.extend.generator.register('session-page-creation', function(locals) {
                     return {
                         id: session.id,
                         firstName: speaker.firstName.replace(/[^a-zA-Z0-9-_\.]/g, ''),
-                        lastName: speaker.lastName.replace(/[^a-zA-Z0-9-_\.]/g, '')
+                        lastName: speaker.lastName.replace(/[^a-zA-Z0-9-_\.]/g, ''),
+                        tagLine: speaker.tagLine,
+                        bio: speaker.bio,
+                        profilePicture: speaker.profilePicture
                     }
                 });
 

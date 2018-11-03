@@ -7,7 +7,6 @@ hexo.extend.generator.register('speaker-page-creation', function(locals) {
     var speakerPages = [];
 
     years.forEach((year) => {
-        console.log(`Year - ${year}`);
         var thisYearsContent = eval('locals.data.sessions' + year);
 
         thisYearsContent.speakers.forEach((speaker) => {

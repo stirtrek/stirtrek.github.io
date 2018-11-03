@@ -16,7 +16,9 @@ hexo.extend.generator.register('create-service-worker', function(locals) {
         "/icons/favicon-114.png",
         "/icons/opengraph.jpg",
         "/icons/speaker-icon.png",
-        "/icons/stirtrek-default.png"
+        "/icons/stirtrek-default.png",
+        "/fonts/KOMIKAX_.ttf",
+        "/fonts/fontawesome-webfont.woff2?v=4.7.0"
     ];
 
     // Add all the normal pages and posts. This will also grab other files like CSS that Hexo touches.
@@ -24,9 +26,14 @@ hexo.extend.generator.register('create-service-worker', function(locals) {
     locals.pages.toArray().concat(locals.posts.toArray()).forEach(page => {
         if(page.path === "scripts/serviceworker.js") return;
 
+        // Every URL should have a leading /
         let fixedString = page.path;
         if(fixedString[0] !== '/')
             fixedString = "/" + fixedString;
+
+        // If it's an index.html, we need to load the associated / route as well. We also remove the last slash.
+        if(fixedString.endsWith("index.html"))
+            allPagesAndFiles.push(fixedString.substring(0, fixedString.length - 10));
 
         allPagesAndFiles.push(fixedString)
     });
@@ -64,34 +71,35 @@ self.addEventListener('install', function(evt) {
 // On fetch, use cache but update the entry with the latest contents
 // from the server.
 self.addEventListener('fetch', function(evt) {
-    console.log('The service worker is serving the asset.');
     // Try network and if it fails, go for the cached copy.
     evt.respondWith(fromNetwork(evt.request, 400).catch(function () {
-        return fromCache(evt.request);
+    return fromCache(evt.request);
     }));
 });
 
 // Open a cache and use 'addAll()' with an array of assets to add all of them
 // to the cache. Return a promise resolving when all the assets are added.
 function precache() {
-return caches.open(CACHE).then(function (cache) {
-    return cache.addAll(
-        [
+    return caches.open(CACHE).then(function (cache) {
+    return cache.addAll([
             ${allPagesAndFilesString}
         ]);
-});
-}
-
+    });
+  }
+  
 // Time limited network request. If the network fails or the response is not
 // served before timeout, the promise is rejected.
 function fromNetwork(request, timeout) {
     return new Promise(function (fulfill, reject) {
         // Reject in case of timeout.
         var timeoutId = setTimeout(reject, timeout);
+
         // Fulfill in case of success.
         fetch(request).then(function (response) {
             clearTimeout(timeoutId);
+
             fulfill(response);
+
         // Reject also if network fetch rejects.
         }, reject);
     });
@@ -103,11 +111,11 @@ function fromNetwork(request, timeout) {
 function fromCache(request) {
     return caches.open(CACHE).then(function (cache) {
         return cache.match(request).then(function (matching) {
-            return matching || Promise.reject('no-match');
+        return matching || Promise.reject('no-match');
         });
     });
-}
-    `
+};
+`
 
     return [{
         path: "/serviceworker.js",

@@ -1,51 +1,28 @@
 hexo.extend.generator.register('speaker-page-creation', function(locals) {
 
-    // TODO this should probably move to a config
+    // Used to map the speakers and sessions together
+    var speakerAndSessionParser = require('./speakerAndSessionParser.js');
+
+    // I wish I knew how to load these from the config
     const years = ['2018','2019'];
 
     // Stash the pages as they are created
     var speakerPages = [];
 
     years.forEach((year) => {
-        var thisYearsContent = eval('locals.data.sessions' + year);
+        var thisYearsFile = eval('locals.data.sessions' + year);
 
-        thisYearsContent.speakers.forEach((speaker) => {
-            // Clean up special characters
-            var firstName = speaker.firstName.replace(/[^a-zA-Z0-9-_\.]/g, '');
-            var lastName = speaker.lastName.replace(/[^a-zA-Z0-9-_\.]/g, '');
+        var mappedSpeakers = speakerAndSessionParser.getListOfSessions(thisYearsFile, year);
 
-            // Match talks
-            var sessions = thisYearsContent.sessions.filter((session) => {
-                // Some sessions (e.g. lunch) have no speakers
-                if(session.speakers.length === 0)                    
-                    return false;
-
-                return session.speakers.includes(speaker.id.toString());
-
-            }).map(function (session) {
-                return {
-                    id: session.id,
-                    title: session.title,
-                    description: session.description
-                }
-            });
-
+        // Create a page for each speaker with his or her sessions
+        mappedSpeakers.forEach(speaker => {
             speakerPages.push({
-                path: `/Speakers/${year}/${firstName}-${lastName}.html`,
-                data: {
-                    firstName: firstName,
-                    lastName: lastName,
-                    profilePicture: speaker.profilePicture,
-                    tagLine: speaker.tagLine,
-                    bio: speaker.bio,
-                    sessions: sessions,
-                    year: year,
-                    title: firstName + " " + lastName
-                },
+                path: `/Speakers/${year}/${speaker.firstName}-${speaker.lastName}.html`,
+                data: speaker,
                 layout: ['speakerPage']
-            });
+            })
 
-        });
+        })
     });
 
     // Returning the array of pages will cause Hexo to combine the content with the template and generate them during `hexo generate`

@@ -1,7 +1,7 @@
 hexo.extend.generator.register('speaker-page-creation', function(locals) {
 
     // TODO this should probably move to a config
-    const years = ['2018'];
+    const years = ['2018','2019'];
 
     // Stash the pages as they are created
     var speakerPages = [];
@@ -16,7 +16,13 @@ hexo.extend.generator.register('speaker-page-creation', function(locals) {
 
             // Match talks
             var sessions = thisYearsContent.sessions.
-                filter((session) => session.speakers.includes(speaker.id)).
+                filter((session) => {
+
+                    // Some sessions (e.g. lunch) have no speakers
+                    if(session.speakers.length === 0)
+                        return false;
+                    session.speakers.includes(speaker.id)
+                }).
                 map(function (session) {
                     return {
                         id: session.id,

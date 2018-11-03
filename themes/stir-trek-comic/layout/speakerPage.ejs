@@ -23,6 +23,7 @@
     <% for (var session of page.sessions) { %>
         <div class="row">
             <div class="comic-panel-header offset">
+                <a name="abstract"></a>
                 <%= session.title %>
             </div>
             <div class="col-md-12 comic-panel-body with-header">
@@ -30,42 +31,4 @@
             </div>     
         </div>
     <% } %>
-
-<!-- 
-    <h1>Speaker: <%= page.firstName + " " + page.lastName %></h1>
-    <div class="icon-account"></div>
-    <div class="clearfix"></div>
-
-    <article id="speaker">
-        <section class="speakerSection">
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="row speakerRow">
-                        
-                        <img src="<%= page.profilePicture %>" class="img-responsive">
-                    </div>
-                </div>
-
-                <div class="col-md-8">
-                    <h2><%= page.tagLine %></h2>
-
-                    <div class="multiline">
-                        <%= page.bio %>
-                    </div>
-
-                    <div class="speakerRow">
-                        <h2>Sessions:</h2>
-                        <ul>
-                                <% for (var session of page.sessions) { %>
-                                    <li>
-                                        <a href="/Sessions/<%= page.year%>/<%= session.id %>.html"><%= session.title %></a>
-                                    </li>
-                                <% } %>
-        
-                        </ul>
-                    </div>                    
-                </div>
-            </div>
-        </section>
-    </article> -->
 </div>

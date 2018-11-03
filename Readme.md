@@ -25,3 +25,14 @@ To deploy, assuming you have the Github token that's used (find it [here](https:
 ```javascript
 hexo deploy
 ```
+
+## How do we get data?
+An extract from Sessionize should be saved in _data with the name "sessionsYYYY.json". A new one should be saved each year. The scripts in /script will find those files if they are updated to include the correct years in their years array.
+
+## How do speaker/session pages get generated?
+Files in /scripts get run during a `hexo generate`, reading the data files, creating data for each individual html, and merging them with the appriorate templates. Also, magic.
+
+## Updating year to year
+A few things need to happen to roll the site to a new year:
+- _config.yml should be updated with the current year
+- scripts in /scripts should have the new year added to their arrays so they'll compile pages. Note: this is just because I don't know how to make scripts read the config file ;)

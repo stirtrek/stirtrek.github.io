@@ -7,6 +7,7 @@ hexo.extend.generator.register('speaker-page-creation', function(locals) {
     var speakerPages = [];
 
     years.forEach((year) => {
+        console.log(`Year - ${year}`);
         var thisYearsContent = eval('locals.data.sessions' + year);
 
         thisYearsContent.speakers.forEach((speaker) => {
@@ -15,21 +16,20 @@ hexo.extend.generator.register('speaker-page-creation', function(locals) {
             var lastName = speaker.lastName.replace(/[^a-zA-Z0-9-_\.]/g, '');
 
             // Match talks
-            var sessions = thisYearsContent.sessions.
-                filter((session) => {
+            var sessions = thisYearsContent.sessions.filter((session) => {
+                // Some sessions (e.g. lunch) have no speakers
+                if(session.speakers.length === 0)                    
+                    return false;
 
-                    // Some sessions (e.g. lunch) have no speakers
-                    if(session.speakers.length === 0)
-                        return false;
-                    session.speakers.includes(speaker.id)
-                }).
-                map(function (session) {
-                    return {
-                        id: session.id,
-                        title: session.title,
-                        description: session.description
-                    }
-                });
+                return session.speakers.includes(speaker.id.toString());
+
+            }).map(function (session) {
+                return {
+                    id: session.id,
+                    title: session.title,
+                    description: session.description
+                }
+            });
 
             speakerPages.push({
                 path: `/Speakers/${year}/${firstName}-${lastName}.html`,

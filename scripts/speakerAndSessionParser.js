@@ -1,5 +1,48 @@
+class SpeakerWithSessions {
+    constructor(firstName, lastName, speakerObj, sessionsObj, year) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+
+        if(speakerObj) {
+            if(speakerObj.profilePicture)
+                this.profilePicture = speakerObj.profilePicture;
+
+            if(speakerObj.tagLine)
+                this.tagLine = speakerObj.tagLine;
+    
+            if(speakerObj.bio)
+                this.bio = speakerObj.bio;
+        }
+
+        this.sessions = sessionsObj;
+        this.year = year;
+    }
+
+    getTitle() {
+        return this.firstName + " " + this.lastName;
+    }
+
+    getSpeakerPageUrl() {
+        return `/Speakers/${this.year}/${this.firstName}-${this.lastName}.html`
+    }
+
+    // Needed to let this object get handed to Hexo to render
+    getBaseObject(){
+        return {
+            firstName: this.firstName,
+            lastName: this.lastName,
+            profilePicture: this.profilePicture,
+            tagLine: this.tagLine,
+            bio: this.bio,
+            sessions: this.sessions,
+            year: this.year,
+            title: this.getTitle()
+        }
+    }
+}
+
 module.exports ={
-    getListOfSessions: function(sessionsDataFile, year) {
+    getSpeakersWithSessions: function(sessionsDataFile, year) {
         return sessionsDataFile.speakers.map((speaker) => {
             // Clean up special characters
             var firstName = speaker.firstName.replace(/[^a-zA-Z0-9-_\.]/g, '');
@@ -19,16 +62,10 @@ module.exports ={
                 };
             });
 
-            return {
-                firstName: firstName,
-                lastName: lastName,
-                profilePicture: speaker.profilePicture,
-                tagLine: speaker.tagLine,
-                bio: speaker.bio,
-                sessions: sessions,
-                year: year,
-                title: firstName + " " + lastName
-            }
+            return new this.SpeakerWithSessions(firstName, lastName, speaker, sessions, year);
+
+
         });
-    }
+    },
+    SpeakerWithSessions: SpeakerWithSessions
 }

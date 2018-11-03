@@ -39,4 +39,16 @@
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <link href="/styles/site.css" rel="stylesheet">
 
+    <script>
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/serviceworker.js').then(function(registration) {
+        // Registration was successful
+        console.log('ServiceWorker registration successful with scope: ', registration.scope);
+    }).catch(function(err) {
+        // registration failed :(
+            console.log('ServiceWorker registration failed: ', err);
+        });
+    }
+    </script>
+
 </head>

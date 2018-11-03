@@ -12,13 +12,13 @@ hexo.extend.generator.register('speaker-page-creation', function(locals) {
     years.forEach((year) => {
         var thisYearsFile = eval('locals.data.sessions' + year);
 
-        var mappedSpeakers = speakerAndSessionParser.getListOfSessions(thisYearsFile, year);
+        var mappedSpeakers = speakerAndSessionParser.getSpeakersWithSessions(thisYearsFile, year);
 
         // Create a page for each speaker with his or her sessions
         mappedSpeakers.forEach(speaker => {
             speakerPages.push({
-                path: `/Speakers/${year}/${speaker.firstName}-${speaker.lastName}.html`,
-                data: speaker,
+                path: speaker.getSpeakerPageUrl(),
+                data: speaker.getBaseObject(),
                 layout: ['speakerPage']
             })
 

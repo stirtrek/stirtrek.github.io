@@ -1,25 +1,13 @@
 hexo.extend.generator.register('create-service-worker', function(locals) {
 
     // Used to map the speakers and sessions together to figure out what pages will be cached
-    var speakerAndSessionParser = require('./speakerAndSessionParser.js');
+    let speakerAndSessionParser = require('./speakerAndSessionParser.js');
 
     // I wish I knew how to load these from the config
     const years = ['2018','2019'];
 
-    // Stash the pages here. We'll manually add in key images.
-    var allPagesAndFiles = [
-        "/",
-        "/images/BabyGroot.png",
-        "/images/thanos-header-1140x760.png",
-        "/images/header-logo.png",
-        "/icons/favicon-72.png",
-        "/icons/favicon-114.png",
-        "/icons/opengraph.jpg",
-        "/icons/speaker-icon.png",
-        "/icons/stirtrek-default.png",
-        "/fonts/KOMIKAX_.ttf",
-        "/fonts/fontawesome-webfont.woff2?v=4.7.0"
-    ];
+    // Stash the pages here.
+    let allPagesAndFiles = []
 
     // Add all the normal pages and posts. This will also grab other files like CSS that Hexo touches.
     // Note: it doesn't grab images
@@ -40,23 +28,44 @@ hexo.extend.generator.register('create-service-worker', function(locals) {
 
     // Find all the magically generated pages
     years.forEach((year) => {
-        var thisYearsFile = eval('locals.data.sessions' + year);
+        let thisYearsFile = eval('locals.data.sessions' + year);
 
-        var mappedSpeakers = speakerAndSessionParser.getSpeakersWithSessions(thisYearsFile,year);
+        let mappedSpeakers = speakerAndSessionParser.getSpeakersWithSessions(thisYearsFile,year);
 
         mappedSpeakers.forEach(speaker => {
             allPagesAndFiles.push(speaker.getSpeakerPageUrl());
         })
     })
 
+    // Manually add our images
+    allPagesAndFiles = allPagesAndFiles.concat([
+        "/images/BabyGroot.png",
+        "/images/thanos-header-1140x760.png",
+        "/images/header-logo.png",
+        "/icons/favicon-72.png",
+        "/icons/favicon-114.png",
+        "/icons/opengraph.jpg",
+        "/icons/speaker-icon.png",
+        "/icons/stirtrek-default.png",
+        "/fonts/KOMIKAX_.ttf",
+        "/fonts/fontawesome-webfont.woff2?v=4.7.0"
+    ]);
+
     // Take all of the files we've found and put them into a string
-    var allPagesAndFilesString = ""; // This will be put into the Service Worker template
-    allPagesAndFiles.forEach(page => {
-        allPagesAndFilesString += `"${page}",\r\n`; // format: "/some/path",
-    });
+    let allPagesAndFilesString = ""; // This will be put into the Service Worker template
+    for(var x = 0; x < allPagesAndFiles.length; x++) {
+        allPagesAndFilesString += `"${allPagesAndFiles[x]}"`; // format: "/some/path",
+
+        // Safari seems to choke on trailing commas, so we insert them for all but the last item
+        if(x < allPagesAndFiles.length - 1)
+            allPagesAndFilesString += ",\r\n";
+    }
+
+    // Annoyingly, Safari seems to break on trailing commas. We'll get rid of the last one. And the carriage return.
+    allPagesAndFilesString.substring(0, allPagesAndFilesString.length - 3);
 
     // Here's our lovely service worker template for us to insert the cache list in
-    var serviceWorkerHTML = `
+    let serviceWorkerHTML = `
 var CACHE = 'network-or-cache';
 
 // On install, cache some resource.

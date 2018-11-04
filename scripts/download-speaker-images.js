@@ -21,16 +21,23 @@ for(var currentYear of allYears) {
         fs.mkdirSync(`./source/images/speakers/${currentYear}/`);
     }
 
-    // For each speaker, download the avatar image
+    // For each speaker, download the avatar image if it doesn't already exist
     contents.speakers.forEach(speaker => {
         let imgUrl = speaker.profilePicture;
 
         let fileExtensionRegex = /(?:\.([^.]+))?$/;
         let fileExtension = fileExtensionRegex.exec(imgUrl)[1];
 
-        let outputFile = fs.createWriteStream(`./source/images/speakers/${currentYear}/${speaker.firstName}-${speaker.lastName}.${fileExtension}`);
+        let outputLocation = `./source/images/speakers/${currentYear}/${speaker.firstName}-${speaker.lastName}.${fileExtension}`;
+
+        // Skip if we already have the file
+        if(fs.existsSync(outputLocation))
+            return;
+
+        let outputFile = fs.createWriteStream(outputLocation);
         https.get(imgUrl, function(response) {
             response.pipe(outputFile);
+            console.log(`Downloading - ${imgUrl}`)
         });
     })
 }

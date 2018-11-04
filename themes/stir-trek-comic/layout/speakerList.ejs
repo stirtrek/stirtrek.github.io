@@ -12,7 +12,14 @@
                 <div>
                     <a href="/Speakers/<%= page.year %>/<%= firstName + '-' + lastName %>.html">
                         <div>
-                            <img class="img-responsive" src="<%= speaker.profilePicture %>">
+
+                            <%
+                                let fileExtensionRegex = /(?:\.([^.]+))?$/;
+                                let fileExtension = fileExtensionRegex.exec(speaker.profilePicture)[1];
+                                let profilePictureUrl = `/images/speakers/${page.year}/${firstName}-${lastName}.${fileExtension}`;
+                            %>
+
+                            <img class="img-responsive" src="<%= profilePictureUrl %>">
                         </div>
                     </a>
                 </div>

@@ -1,3 +1,7 @@
+///
+/// Script to automatically generate all of the individual speaker pages.
+/// This creates an object with speaker and session data and then pushes it into Hexo to generate the html
+///
 hexo.extend.generator.register('speaker-page-creation', function(locals) {
 
     // Used to map the speakers and sessions together

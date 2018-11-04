@@ -1,3 +1,7 @@
+///
+/// Because Service Workers need to specifically call out each asset to cache, we need to generate this dynamically.
+/// Most of this file is just determining what files Hexo will create, and then putting them into the final serviceworker.js
+///
 hexo.extend.generator.register('create-service-worker', function(locals) {
 
     // Used to map the speakers and sessions together to figure out what pages will be cached
@@ -10,7 +14,7 @@ hexo.extend.generator.register('create-service-worker', function(locals) {
     let allPagesAndFiles = []
 
     // Add all the normal pages and posts. This will also grab other files like CSS that Hexo touches.
-    // Note: it doesn't grab images
+    // Note: it doesn't grab images. We'll do that at the end
     locals.pages.toArray().concat(locals.posts.toArray()).forEach(page => {
         if(page.path === "scripts/serviceworker.js") return;
 
@@ -37,19 +41,22 @@ hexo.extend.generator.register('create-service-worker', function(locals) {
         })
     })
 
-    // Manually add our images
-    allPagesAndFiles = allPagesAndFiles.concat([
-        "/images/BabyGroot.png",
-        "/images/thanos-header-1140x760.png",
-        "/images/header-logo.png",
-        "/icons/favicon-72.png",
-        "/icons/favicon-114.png",
-        "/icons/opengraph.jpg",
-        "/icons/speaker-icon.png",
-        "/icons/stirtrek-default.png",
-        "/fonts/KOMIKAX_.ttf",
-        "/fonts/fontawesome-webfont.woff2?v=4.7.0"
-    ]);
+    // Add our images and fonts. I don't know how to do this with hexo, so I'm just using some node
+    const fs = require('fs');
+    const fs2 = require('fs');
+    let directories = ['/images/', '/icons/', '/fonts/', '/images/sponsors/'];
+    // Add all speaker images by year
+    years.forEach(year => directories.push(`/images/speakers/${year}/`));
+
+    directories.forEach(directory => {
+        fs.readdirSync(`./source/${directory}`).forEach(file => {
+            // If this isn't also a directory, add it
+             if(!fs2.statSync(`./source${directory}${file}`).isDirectory())
+                allPagesAndFiles.push(directory + file);
+
+        })
+    
+    })
 
     // Take all of the files we've found and put them into a string
     let allPagesAndFilesString = ""; // This will be put into the Service Worker template

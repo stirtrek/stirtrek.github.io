@@ -1,3 +1,7 @@
+///
+/// Script to automatically generate all of the individual session pages.
+/// This creates an object with speaker and session data and then pushes it into Hexo to generate the html
+///
 hexo.extend.generator.register('session-page-creation', function(locals) {
 
     // TODO this should probably move to a config

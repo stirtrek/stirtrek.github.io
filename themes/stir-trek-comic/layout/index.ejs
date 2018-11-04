@@ -6,13 +6,13 @@
 
     <%- page.content %>
 
-    <% if (page.source == '/index.md') { %>
+    <% if (page.source === 'index.md') { %>
         <%- partial('sponsorsBrief') %>
-    <% } else if (page.source == 'Sponsors/index.md') { %>
+    <% } else if (page.source === 'Sponsors/index.md') { %>
         <%- partial('sponsorsFull') %>
-    <% } else if (page.source == 'Speakers/index.md') { %>
+    <% } else if (page.source === 'Speakers/index.md') { %>
         <%- partial('speakerList') %>
-    <% } else if (page.source == 'Schedule/index.md') { %>
+    <% } else if (page.source === 'Schedule/index.md') { %>
         <%- partial('schedule') %>
     <% } %>
 

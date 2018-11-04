@@ -15,9 +15,11 @@
     "hexo-renderer-ejs": "^0.3.1",
     "hexo-renderer-marked": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.3",
-    "hexo-server": "^0.3.1"
+    "hexo-server": "^0.3.1",
+    "js-yaml": "^3.12.0"
   },
   "scripts": {
-    "build": "hexo clean && hexo generate && hexo deploy"
+    "build": "hexo clean && hexo generate && hexo deploy",
+    "buildTest": "node ./scripts/download-speaker-images.js && hexo clean && hexo generate"
   }
 }

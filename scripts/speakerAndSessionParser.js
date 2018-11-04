@@ -26,12 +26,20 @@ class SpeakerWithSessions {
         return `/Speakers/${this.year}/${this.firstName}-${this.lastName}.html`
     }
 
+    // Knows where we'd store the picture locally even though the data shows a Sessionize URL
+    getLocalProfilePicture() {
+        let fileExtensionRegex = /(?:\.([^.]+))?$/;
+        let fileExtension = fileExtensionRegex.exec(this.profilePicture)[1];
+
+        return `/images/speakers/${this.year}/${this.firstName}-${this.lastName}.${fileExtension}`;
+    }
+
     // Needed to let this object get handed to Hexo to render
     getBaseObject(){
         return {
             firstName: this.firstName,
             lastName: this.lastName,
-            profilePicture: this.profilePicture,
+            profilePicture: this.getLocalProfilePicture(),
             tagLine: this.tagLine,
             bio: this.bio,
             sessions: this.sessions,

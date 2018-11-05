@@ -9,6 +9,7 @@ hexo.extend.generator.register('speaker-page-creation', function(locals) {
 
     // Unsure how to get the config settings from Hexo, so just using some Node code
     let fs = require('fs');
+    let yaml = require('js-yaml');
     const years = yaml.safeLoad(fs.readFileSync('./_config.yml')).allYears;
 
     // Stash the pages as they are created

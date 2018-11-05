@@ -13,7 +13,7 @@
             <div class="col-md-8">
                 <h2><%= page.tagLine %></h2>
 
-                <div class="multiline">
+                <div>
                     <%= page.bio %>
                 </div>
             </div>
@@ -30,4 +30,134 @@
             </div>     
         </div>
     <% } %>
+
+    <style>
+        .speakerComicStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "header header header header header"
+                "leftGutter speaker middleGutterV abstract rightGutter"
+                "footer footer footer footer footer";
+
+            grid-template-columns: 40px 2fr 40px 3fr 40px;
+            grid-template-rows: 40px 1fr 40px;
+
+            background-image: 
+                linear-gradient(
+                rgba(0, 0, 0, 0.5),
+                rgba(0, 0, 0, 0.5)
+                ),url("/images/archive/GotG-Monster.png");
+            background-repeat: no-repeat;
+            background-position: center bottom;
+        }
+
+        @media only screen and (max-width:990px) {
+            .speakerComicStrip {
+                grid-template-areas:
+                    "header header header"
+                    "leftGutter speaker rightGutter"
+                    "leftGutter middleGutterH rightGutter"
+                    "leftGutter abstract rightGutter"
+                    "footer footer footer";
+
+                grid-template-columns: 40px 1fr 40px;
+                grid-template-rows: 40px 1fr 40px 1fr 40px;
+            }
+        }
+
+        .comicHeader {
+            background-color: white;
+            grid-area: header;
+        }
+        .comicFooter {
+            background-color: white;
+            grid-area: footer;
+        }
+        .comicLeftGutter {
+            background-color: white;
+            grid-area: leftGutter;            
+        }
+        .comicMiddleGutterH {
+            background-color: white;
+            grid-area: middleGutterH;            
+        }        
+        .comicMiddleGutterV {
+            background-color: white;
+            grid-area: middleGutterV;            
+        }                
+        .comicRightGutter {
+            background-color: white;
+            grid-area: rightGutter;            
+        }
+        .speakerPanel {
+            grid-area: speaker;
+        }
+
+        .abstractPanel {
+            grid-area: abstract;
+        }
+
+        .speakerComicStrip .comic-panel-body {
+            background: none;
+            color: white;
+        }
+
+        .speakerComicStrip .speakerImage {
+            border-radius: 50%;
+            width: 40%;
+            border: 6px solid #111c2e;
+            display: inline-block;
+            margin-right: 5%;
+            margin-top: 5%;
+        }
+
+        .speakerComicStrip .speakerTagline {
+            width: 40%;
+            display: inline-block;
+            vertical-align: middle;
+        }
+
+        .speakerComicStrip .speakerBio {
+            margin-top: 5%;
+        }
+    </style>
+
+    <div class="speakerComicStrip">
+        <div class="comicHeader"></div>
+        <div class="comicFooter"></div>
+        <div class="comicLeftGutter"></div>
+        <div class="comicMiddleGutterH"></div>
+        <div class="comicMiddleGutterV"></div>
+        <div class="comicRightGutter"></div>
+        <div class="speakerPanel">
+            <div class="comic-panel-body">
+
+                <div class="comic-panel-header comic-panel-highlighted">
+                    <%= page.firstName + " " + page.lastName %>
+                </div>
+        
+
+                <img src="<%= page.profilePicture %>" class="img-responsive speakerImage">
+
+                <div class="speakerTagline">
+                    <h3><%= page.tagLine %></h3>
+                </div>
+
+                <div class="speakerBio">
+                    <%= page.bio %>
+                </div>
+            </div>
+        </div>
+            
+        <div class="abstractPanel comic-panel-body">
+            <% for (var session of page.sessions) { %>
+                <h2><%= session.title %></h2>
+                <div>
+                    <%= session.description %>
+                </div>
+            <% } %>
+        </div>
+    </div>
 </div>

@@ -4,7 +4,13 @@
     <%- partial('head') %>
     
     <body>
+
+        <% if (page.source == 'index.md') { %>
+        <div class="bodyWrapper" id="home-page">
+        <% } else { %>
         <div class="bodyWrapper">
+        <% } %>
+
             <%- partial('menu') %>
 
             <div class="container">

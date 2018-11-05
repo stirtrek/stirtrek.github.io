@@ -18,6 +18,9 @@ h1, h2, h3 {
 
 .bodyWrapper {
     color: #fff;
+    background-image: url("/images/Stir-Trek-Space-Background-slice.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
 }
 
 #siteHeader {

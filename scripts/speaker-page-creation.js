@@ -7,8 +7,9 @@ hexo.extend.generator.register('speaker-page-creation', function(locals) {
     // Used to map the speakers and sessions together
     var speakerAndSessionParser = require('./speakerAndSessionParser.js');
 
-    // I wish I knew how to load these from the config
-    const years = ['2018','2019'];
+    // Unsure how to get the config settings from Hexo, so just using some Node code
+    let fs = require('fs');
+    const years = yaml.safeLoad(fs.readFileSync('./_config.yml')).allYears;
 
     // Stash the pages as they are created
     var speakerPages = [];

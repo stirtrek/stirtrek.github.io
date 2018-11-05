@@ -10,10 +10,11 @@ keywords: Technical Conference, StirTrek, Stir Trek, web, mobile, cloud, confere
 author: Stir Trek Conference
 language: EN-US
 timezone:
+
+# To support multiple years of archives, update the currentYear and add the old one to the allYears array
 currentYear: 2018
 allYears:
   - 2018
-  - 2019
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

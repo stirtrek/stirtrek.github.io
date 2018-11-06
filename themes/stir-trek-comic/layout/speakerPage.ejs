@@ -50,8 +50,8 @@
 
             background-image: 
                 linear-gradient(
-                rgba(0, 0, 0, 0.5),
-                rgba(0, 0, 0, 0.5)
+                rgba(0, 0, 0, 0.7),
+                rgba(0, 0, 0, 0.7)
                 ),url("/images/archive/GotG-Monster.png");
             background-repeat: no-repeat;
             background-position: center bottom;
@@ -59,7 +59,9 @@
 
         @media only screen and (max-width:990px) {
             .speakerComicStrip {
-                grid-template-areas:
+                display: block;
+
+                /* grid-template-areas:
                     "header header header"
                     "leftGutter avatar rightGutter"
                     "leftGutter middleGutterH rightGutter"
@@ -68,8 +70,8 @@
                     "leftGutter abstract rightGutter"
                     "footer footer footer";
 
-                grid-template-columns: 40px 1fr 40px;
-                grid-template-rows: 40px 1fr 40px 1.5fr 40px 1.5fr 40px;
+                grid-template-columns: 20px 1fr 20px;
+                grid-template-rows: 20px 1fr 20px 3fr 20px 3fr 20px; */
             }
         }
 
@@ -107,6 +109,10 @@
             background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%), radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%), radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), linear-gradient(40deg, #c48b2f 0, #f7c16a 30%, #dbab5b 50%, #dbab5b 70%, #c48b2f 100%);
             background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
             color: black;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
 
         .abstractPanel {
@@ -166,6 +172,36 @@
         .speakerComicStrip .speakerBio {
             margin-top: 5%;
         }
+
+
+        @media only screen and (max-width:990px) {
+            .speakerComicStrip .comic-panel-body {
+                border: 20px solid white;
+                padding: 20px;
+                margin-bottom: 20px;
+            }
+
+            .speakerComicStrip .comic-panel-header {
+                top: -55px;
+                left: -45px;
+            }
+
+            .speakerComicStrip .speakerImage {
+                display: block;
+                margin: 0px auto;
+                margin-top: 2em;
+            }
+
+            .speakerComicStrip .speakerTagline {
+                width: 100%;
+                display: block;
+                text-align: center;
+            }
+
+            .stirTrekPanel {
+                display: none;
+            }
+        }        
     </style>
 
     <div class="speakerComicStrip">

@@ -177,12 +177,15 @@
         @media only screen and (max-width:990px) {
             .speakerComicStrip .comic-panel-body {
                 border: 20px solid white;
-                padding: 20px;
-                margin-bottom: 20px;
+                padding: 30px 20px;
+                margin-bottom: -20px;
+            }
+
+            .speakerComicStrip .comic-panel-body:last-of-type {
             }
 
             .speakerComicStrip .comic-panel-header {
-                top: -55px;
+                top: -35px;
                 left: -45px;
             }
 
@@ -198,7 +201,7 @@
                 text-align: center;
             }
 
-            .stirTrekPanel {
+            .stirTrekPanel, .emptyPanel {
                 display: none;
             }
         }        

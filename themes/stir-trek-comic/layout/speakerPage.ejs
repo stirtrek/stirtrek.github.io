@@ -37,15 +37,15 @@
             width: 100%;
 
             grid-template-areas:
-                "header header header header header"
-                "leftGutter avatar middleGutterV abstract rightGutter"
-                "leftGutter middleGutterH middleGutterV abstract rightGutter"
-                "leftGutter bio middleGutterV abstract rightGutter"
-                "leftGutter bio middleGutterV middleGutterH2 rightGutter"
-                "leftGutter bio middleGutterV empty rightGutter"
-                "footer footer footer footer footer";
+                "header header header header header header header"
+                "leftGutter avatar middleGutterV abstract abstract abstract rightGutter"
+                "leftGutter middleGutterH middleGutterV abstract abstract abstract rightGutter"
+                "leftGutter bio middleGutterV abstract abstract abstract rightGutter"
+                "leftGutter bio middleGutterV middleGutterH2 middleGutterH2 middleGutterH2 rightGutter"
+                "leftGutter bio middleGutterV empty middleGutterV2 stirTrek rightGutter"
+                "footer footer footer footer footer footer footer";
 
-            grid-template-columns: 40px 2fr 40px 3fr 40px;
+            grid-template-columns: 40px 2fr 40px 1fr 40px 1fr 40px;
             grid-template-rows: 40px 1fr 40px 1fr 40px 1fr 40px;
 
             background-image: 
@@ -74,7 +74,7 @@
         }
 
         .comicHeader, .comicFooter, .comicLeftGutter, .comicMiddleGutterH, .comicMiddleGutterH2, 
-        .comicMiddleGutterV, .comicRightGutter {
+        .comicMiddleGutterV, .comicMiddleGutterV2, .comicRightGutter {
             background-color: white;
         }
 
@@ -96,6 +96,9 @@
         .comicMiddleGutterV {
             grid-area: middleGutterV;            
         }                
+        .comicMiddleGutterV2 {
+            grid-area: middleGutterV2;
+        }
         .comicRightGutter {
             grid-area: rightGutter;            
         }
@@ -115,9 +118,31 @@
             grid-area: empty;
         }
 
+        .speakerComicStrip .comic-panel-body.stirTrekPanel {
+            grid-area: stirTrek;
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%), radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%), radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), linear-gradient(40deg, #c48b2f 0, #f7c16a 30%, #dbab5b 50%, #dbab5b 70%, #c48b2f 100%);
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+        }
+
+        .stirTrekPanelImage {
+            background-image: url('/images/StirTrek-Emblem-Gold-400x588.png');
+            width: 100%;
+            height: 100%;
+            background-position: center;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+
         .speakerComicStrip .comic-panel-body {
             background: none;
             color: white;
+            position: relative;
+        }
+
+        .speakerComicStrip .comic-panel-header {
+            position: absolute;
+            top: -35px;
+            left: -25px;
         }
 
         .speakerComicStrip .speakerImage {
@@ -147,12 +172,12 @@
         <div class="comicMiddleGutterH"></div>
         <div class="comicMiddleGutterH2"></div>
         <div class="comicMiddleGutterV"></div>
+        <div class="comicMiddleGutterV2"></div>
         <div class="comicRightGutter"></div>
         <div class="avatarPanel comic-panel-body">
             <div class="comic-panel-header comic-panel-highlighted">
-                <%= page.firstName + " " + page.lastName %>
+                <%= page.firstName + " " + page.lastName %>!
             </div>
-    
 
             <img src="<%= page.profilePicture %>" class="img-responsive speakerImage">
 
@@ -161,12 +186,19 @@
             </div>
         </div>
         <div class="bioPanel comic-panel-body">
-                <%= page.bio %>
+            <div class="comic-panel-header comic-panel-highlighted">
+                Bio!
+            </div>
+
+            <%= page.bio %>
         </div>
 
         <div class="emptyPanel"></div>
             
         <div class="abstractPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                    Session!
+            </div>
             <% for (var session of page.sessions) { %>
                 <h2><%= session.title %></h2>
                 <br>
@@ -174,6 +206,11 @@
                     <%= session.description %>
                 </div>
             <% } %>
+        </div>
+
+        <div class="stirTrekPanel comic-panel-body">
+            <div class="stirTrekPanelImage"></div>
+            <img src="" class="img-responsive">
         </div>
     </div>
 </div>

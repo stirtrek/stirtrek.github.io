@@ -31,6 +31,9 @@
         </div>
     <% } %>
 
+    <br><br><br><br><br>
+
+
     <style>
         .speakerComicStrip {
             display: grid;
@@ -235,7 +238,167 @@
             <%= page.bio %>
         </div>
 
-        <div class="emptyPanel"></div>
+        <div class="emptyPanel">
+        </div>
+            
+        <div class="abstractPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                    Session!
+            </div>
+            <% for (var session of page.sessions) { %>
+                <h2><%= session.title %></h2>
+                <br>
+                <div>
+                    <%= session.description %>
+                </div>
+            <% } %>
+        </div>
+
+        <div class="stirTrekPanel comic-panel-body">
+            <div class="stirTrekPanelImage"></div>
+            <img src="" class="img-responsive">
+        </div>
+    </div>
+
+
+    <style>
+        .speakerComicStrip2 {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "avatar     bio         bio"
+                "abstract   abstract    stirTrek";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            column-gap: 40px;
+            grid-row-gap: 40px;
+        }
+
+        @media only screen and (max-width:990px) {
+            .speakerComicStrip2 {
+                display: block;
+            }
+        }
+
+        .speakerComicStrip2 .comic-panel-body.avatarPanel {
+            grid-area: avatar;
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%), radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%), radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), linear-gradient(40deg, #c48b2f 0, #f7c16a 30%, #dbab5b 50%, #dbab5b 70%, #c48b2f 100%);
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+            color: black;
+
+            text-align: center;
+        }
+
+        .speakerComicStrip2 .abstractPanel {
+            grid-area: abstract;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerComicStrip2 .bioPanel {
+            grid-area: bio;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerComicStrip2 .comic-panel-body.stirTrekPanel {
+            grid-area: stirTrek;
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%), radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%), radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), linear-gradient(40deg, #c48b2f 0, #f7c16a 30%, #dbab5b 50%, #dbab5b 70%, #c48b2f 100%);
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+        }
+
+        .stirTrekPanelImage {
+            background-image: url('/images/StirTrek-Emblem-Gold-400x588.png');
+            width: 100%;
+            height: 100%;
+            background-position: center;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+
+        .speakerComicStrip2 .comic-panel-body {
+            position: relative;
+        }
+
+        .speakerComicStrip2 .comic-panel-header {
+            position: absolute;
+            top: -35px;
+            left: -25px;
+        }
+
+        .speakerComicStrip2 .speakerImage {
+            width: 80%;
+            border-radius: 50%;
+            border: 6px solid #111c2e;
+            margin: 2em auto 0;
+        }
+
+        .speakerComicStrip2 .speakerTagline {
+            vertical-align: middle;
+        }
+
+        .speakerComicStrip2 .speakerBio {
+            margin-top: 5%;
+        }
+
+
+        @media only screen and (max-width:990px) {
+            .speakerComicStrip2 .comic-panel-body {
+                border: 20px solid white;
+                padding: 30px 20px;
+                margin-bottom: 40px;
+            }
+
+            .speakerComicStrip2 .comic-panel-header {
+                top: -35px;
+                left: -45px;
+            }
+
+            .speakerComicStrip2 .speakerImage {
+                display: block;
+                margin: 0px auto;
+                margin-top: 2em;
+            }
+
+            .speakerComicStrip2 .speakerTagline {
+                width: 100%;
+                display: block;
+                text-align: center;
+            }
+        }        
+    </style>
+
+    <br><br><br><br><br><br>
+
+    <div class="speakerComicStrip2">
+        <div class="avatarPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                <%= page.firstName + " " + page.lastName %>!
+            </div>
+
+            <div>
+                <img src="<%= page.profilePicture %>" class="img-responsive speakerImage">
+            </div>
+
+            <div class="speakerTagline">
+                <h3><%= page.tagLine %></h3>
+            </div>
+        </div>
+        <div class="bioPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Bio!
+            </div>
+
+            <%= page.bio %>
+        </div>
+
+        <div class="emptyPanel">
+        </div>
             
         <div class="abstractPanel comic-panel-body">
             <div class="comic-panel-header comic-panel-highlighted">

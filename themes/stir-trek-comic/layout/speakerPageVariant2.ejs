@@ -1,0 +1,227 @@
+<div class="body-content" role="main">
+
+    <style>
+        .speakerComicStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "header header header header header header header"
+                "leftGutter avatar middleGutterV abstract abstract abstract rightGutter"
+                "leftGutter middleGutterH middleGutterV abstract abstract abstract rightGutter"
+                "leftGutter bio middleGutterV abstract abstract abstract rightGutter"
+                "leftGutter bio middleGutterV middleGutterH2 middleGutterH2 middleGutterH2 rightGutter"
+                "leftGutter bio middleGutterV empty middleGutterV2 stirTrek rightGutter"
+                "footer footer footer footer footer footer footer";
+
+            grid-template-columns: 40px 2fr 40px 1fr 40px 1fr 40px;
+            grid-template-rows: 40px 1fr 40px 1fr 40px 1fr 40px;
+
+            background-image: 
+                linear-gradient(
+                rgba(0, 0, 0, 0.7),
+                rgba(0, 0, 0, 0.7)
+                ),url("/images/archive/GotG-Monster.png");
+            background-repeat: no-repeat;
+            background-position: center bottom;
+        }
+
+        @media only screen and (max-width:990px) {
+            .speakerComicStrip {
+                display: block;
+
+                /* grid-template-areas:
+                    "header header header"
+                    "leftGutter avatar rightGutter"
+                    "leftGutter middleGutterH rightGutter"
+                    "leftGutter bio rightGutter"
+                    "leftGutter middleGutterH2 rightGutter"
+                    "leftGutter abstract rightGutter"
+                    "footer footer footer";
+
+                grid-template-columns: 20px 1fr 20px;
+                grid-template-rows: 20px 1fr 20px 3fr 20px 3fr 20px; */
+            }
+        }
+
+        .comicHeader, .comicFooter, .comicLeftGutter, .comicMiddleGutterH, .comicMiddleGutterH2, 
+        .comicMiddleGutterV, .comicMiddleGutterV2, .comicRightGutter {
+            background-color: white;
+        }
+
+        .comicHeader {
+            grid-area: header;
+        }
+        .comicFooter {
+            grid-area: footer;
+        }
+        .comicLeftGutter {
+            grid-area: leftGutter;            
+        }
+        .comicMiddleGutterH {
+            grid-area: middleGutterH;            
+        }        
+        .comicMiddleGutterH2 {
+            grid-area: middleGutterH2;            
+        }  
+        .comicMiddleGutterV {
+            grid-area: middleGutterV;            
+        }                
+        .comicMiddleGutterV2 {
+            grid-area: middleGutterV2;
+        }
+        .comicRightGutter {
+            grid-area: rightGutter;            
+        }
+        .speakerComicStrip .comic-panel-body.avatarPanel {
+            grid-area: avatar;
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%), radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%), radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), linear-gradient(40deg, #c48b2f 0, #f7c16a 30%, #dbab5b 50%, #dbab5b 70%, #c48b2f 100%);
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+            color: black;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .abstractPanel {
+            grid-area: abstract;
+        }
+
+        .bioPanel {
+            grid-area: bio;
+        }
+
+        .emptyPanel {
+            grid-area: empty;
+        }
+
+        .speakerComicStrip .comic-panel-body.stirTrekPanel {
+            grid-area: stirTrek;
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%), radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%), radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), linear-gradient(40deg, #c48b2f 0, #f7c16a 30%, #dbab5b 50%, #dbab5b 70%, #c48b2f 100%);
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+        }
+
+        .stirTrekPanelImage {
+            background-image: url('/images/StirTrek-Emblem-Gold-400x588.png');
+            width: 100%;
+            height: 100%;
+            background-position: center;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+
+        .speakerComicStrip .comic-panel-body {
+            background: none;
+            color: white;
+            position: relative;
+        }
+
+        .speakerComicStrip .comic-panel-header {
+            position: absolute;
+            top: -35px;
+            left: -25px;
+        }
+
+        .speakerComicStrip .speakerImage {
+            border-radius: 50%;
+            width: 40%;
+            border: 6px solid #111c2e;
+            display: inline-block;
+            margin-right: 5%;
+            margin-top: 5%;
+        }
+
+        .speakerComicStrip .speakerTagline {
+            width: 40%;
+            display: inline-block;
+            vertical-align: middle;
+        }
+
+        .speakerComicStrip .speakerBio {
+            margin-top: 5%;
+        }
+
+
+        @media only screen and (max-width:990px) {
+            .speakerComicStrip .comic-panel-body {
+                border: 20px solid white;
+                padding: 30px 20px;
+                margin-bottom: -20px;
+            }
+
+            .speakerComicStrip .comic-panel-header {
+                top: -35px;
+                left: -45px;
+            }
+
+            .speakerComicStrip .speakerImage {
+                display: block;
+                margin: 0px auto;
+                margin-top: 2em;
+            }
+
+            .speakerComicStrip .speakerTagline {
+                width: 100%;
+                display: block;
+                text-align: center;
+            }
+
+            .stirTrekPanel, .emptyPanel {
+                display: none;
+            }
+        }        
+    </style>
+
+    <div class="speakerComicStrip">
+        <div class="comicHeader"></div>
+        <div class="comicFooter"></div>
+        <div class="comicLeftGutter"></div>
+        <div class="comicMiddleGutterH"></div>
+        <div class="comicMiddleGutterH2"></div>
+        <div class="comicMiddleGutterV"></div>
+        <div class="comicMiddleGutterV2"></div>
+        <div class="comicRightGutter"></div>
+        <div class="avatarPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                <%= page.firstName + " " + page.lastName %>!
+            </div>
+
+            <img src="<%= page.profilePicture %>" class="img-responsive speakerImage">
+
+            <div class="speakerTagline">
+                <h3><%= page.tagLine %></h3>
+            </div>
+        </div>
+        <div class="bioPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Bio!
+            </div>
+
+            <%= page.bio %>
+        </div>
+
+        <div class="emptyPanel">
+        </div>
+            
+        <div class="abstractPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                    Session!
+            </div>
+            <% for (var session of page.sessions) { %>
+                <h2><%= session.title %></h2>
+                <br>
+                <div>
+                    <%= session.description %>
+                </div>
+            <% } %>
+        </div>
+
+        <div class="stirTrekPanel comic-panel-body">
+            <div class="stirTrekPanelImage"></div>
+            <img src="" class="img-responsive">
+        </div>
+    </div>
+
+
+</div>

@@ -1,0 +1,31 @@
+<div class="body-content" role="main">
+    <div class="row">
+        <div class="comic-panel-header offset comic-panel-highlighted">
+            <%= page.firstName + " " + page.lastName %>
+        </div>
+        <div class="col-md-12 comic-panel-body with-header">
+            <div class="col-md-4">
+                <img src="<%= page.profilePicture %>" class="img-responsive">
+            </div>
+
+            <div class="col-md-8">
+                <h2><%= page.tagLine %></h2>
+
+                <div>
+                    <%= page.bio %>
+                </div>
+            </div>
+        </div>
+    </div>
+    <% for (var session of page.sessions) { %>
+        <div class="row">
+            <div class="comic-panel-header offset">
+                <a name="abstract"></a>
+                <%= session.title %>
+            </div>
+            <div class="col-md-12 comic-panel-body with-header">
+                <%= session.description %>
+            </div>     
+        </div>
+    <% } %>
+</div>

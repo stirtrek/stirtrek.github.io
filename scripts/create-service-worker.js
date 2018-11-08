@@ -33,8 +33,9 @@ hexo.extend.generator.register('create-service-worker', function(locals) {
     // Find all the magically generated pages
     years.forEach((year) => {
         let thisYearsFile = eval('locals.data.sessions' + year);
+        let thisYearsSchedule = eval('locals.data.schedule' + year);
 
-        let mappedSpeakers = speakerAndSessionParser.getSpeakersWithSessions(thisYearsFile,year);
+        let mappedSpeakers = speakerAndSessionParser.getSpeakersWithSessions(thisYearsFile, thisYearsSchedule, year);
 
         mappedSpeakers.forEach(speaker => {
             allPagesAndFiles.push(speaker.getSpeakerPageUrl());

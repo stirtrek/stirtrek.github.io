@@ -50,7 +50,7 @@ class SpeakerWithSessions {
 }
 
 module.exports ={
-    getSpeakersWithSessions: function(sessionsDataFile, year) {
+    getSpeakersWithSessions: function(sessionsDataFile, scheduleDataFile, year) {
         return sessionsDataFile.speakers.map((speaker) => {
             // Clean up special characters
             var firstName = speaker.firstName.replace(/[^a-zA-Z0-9-_\.]/g, '');
@@ -63,13 +63,29 @@ module.exports ={
                     return false;
                 return session.speakers.includes(speaker.id.toString());
             }).map(function (session) {
+                var sessionTime, sessionRoom;
+
+                // Find the time slot for this session
+                scheduleDataFile.scheduledSessions[0].timeSlots.forEach(timeSlot => {
+                    var matchedScheduleSession = timeSlot.sessions.find(scheduledSession => {
+                        return scheduledSession.id.toString() === session.id.toString()
+                    })
+
+                    
+                    if(matchedScheduleSession) {
+                        sessionTime = timeSlot.time;
+                        sessionRoom = matchedScheduleSession.scheduledRoom;
+                    }
+                })                    
+
                 return {
                     id: session.id,
                     title: session.title,
-                    description: session.description
+                    description: session.description,
+                    time: sessionTime,
+                    room: sessionRoom
                 };
             });
-
             return new this.SpeakerWithSessions(firstName, lastName, speaker, sessions, year);
 
 

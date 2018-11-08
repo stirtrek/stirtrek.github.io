@@ -17,8 +17,9 @@ hexo.extend.generator.register('speaker-page-creation', function(locals) {
 
     years.forEach((year) => {
         var thisYearsFile = eval('locals.data.sessions' + year);
+        let thisYearsSchedule = eval('locals.data.schedule' + year);
 
-        var mappedSpeakers = speakerAndSessionParser.getSpeakersWithSessions(thisYearsFile, year);
+        var mappedSpeakers = speakerAndSessionParser.getSpeakersWithSessions(thisYearsFile, thisYearsSchedule, year);
 
         // Create a page for each speaker with his or her sessions
         mappedSpeakers.forEach(speaker => {

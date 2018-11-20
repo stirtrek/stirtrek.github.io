@@ -18,7 +18,7 @@
 
 <section>
     <div class="row">
-        <% for (var sponsor of site.data.sponsors.principal ) {%>
+        <% for (var sponsor of eval(`site.data.sponsors.year${config.currentYear}`).principal ) {%>
 
             <div class="col-md-6 sponsor sponsor-<%= sponsor.level %>">
                 <div class="comic-panel-body">
@@ -41,7 +41,7 @@
 <section>
     <div class="row">
 
-        <% for (var sponsor of site.data.sponsors.platinum ) {%>
+        <% for (var sponsor of eval(`site.data.sponsors.year${config.currentYear}`).platinum ) {%>
 
             <div class="col-md-4 sponsor sponsor-<%= sponsor.level %>">
                 <div class="comic-panel-body">
@@ -64,7 +64,7 @@
 <section>
     <div class="row">
 
-        <% for (var sponsor of site.data.sponsors.gold ) {%>
+        <% for (var sponsor of eval(`site.data.sponsors.year${config.currentYear}`).gold ) {%>
 
             <div class="col-md-3 sponsor sponsor-<%= sponsor.level %>">
                 <div class="comic-panel-body">
@@ -87,7 +87,7 @@
 <section>
     <div class="row">
 
-        <% for (var sponsor of site.data.sponsors.silver ) {%>
+        <% for (var sponsor of eval(`site.data.sponsors.year${config.currentYear}`).silver ) {%>
 
             <div class="col-md-3 sponsor sponsor-<%= sponsor.level %>">
                 <div class="comic-panel-body">

@@ -1,106 +1,127 @@
-<!-- Sponsors -->
-<div id="allSponsorDetail">
-    <section>
-        <div class="row">
-            <% for (var sponsor of eval(`site.data.sponsors.year${config.currentYear}`).principal ) {%>
 
-                <div class="col-md-6 sponsor sponsor-<%= sponsor.level %>">
-                    <div class="comic-panel-body">
-                        <a href="sponsor.link">
-                            <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
-                        </a>
-                    </div>
-                    <div class="sponsorsAbout text-with-comic-panel">
-                        <div class="sponsorCompany">
-                            <%= sponsor.name %>
-                            <br>
-                            <a href="<%= sponsor.link %>"><%= sponsor.link %></a>
-                            <div class="description">
-                                <%= sponsor.description %>
+<% 
+
+// Only render if there is sponsor data for this year
+var thisYearsSponsors = eval(`site.data.sponsors.year${config.currentYear}`);
+if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  { 
+    
+%>
+
+
+    <!-- Sponsors -->
+    <div id="allSponsorDetail">
+
+        <% if(thisYearsSponsors.hasOwnProperty('principal')) { %>
+        <section>
+            <div class="row">
+                <% for (var sponsor of eval(`site.data.sponsors.year${config.currentYear}`).principal ) {%>
+
+                    <div class="col-md-6 sponsor sponsor-<%= sponsor.level %>">
+                        <div class="comic-panel-body">
+                            <a href="sponsor.link">
+                                <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
+                            </a>
+                        </div>
+                        <div class="sponsorsAbout text-with-comic-panel">
+                            <div class="sponsorCompany">
+                                <%= sponsor.name %>
+                                <br>
+                                <a href="<%= sponsor.link %>"><%= sponsor.link %></a>
+                                <div class="description">
+                                    <%= sponsor.description %>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                
-            <% } %>
-        </div>
-    </section>
-    <section>
-        <div class="row">
+                    
+                <% } %>
+            </div>
+        </section>
+        <% } %>
+        <% if(thisYearsSponsors.hasOwnProperty('platinum')) { %>
+        <section>
+            <div class="row">
 
-            <% for (var sponsor of eval(`site.data.sponsors.year${config.currentYear}`).platinum ) {%>
+                <% for (var sponsor of eval(`site.data.sponsors.year${config.currentYear}`).platinum ) {%>
 
-                <div class="col-md-4 sponsor sponsor-<%= sponsor.level %>">
-                    <div class="comic-panel-body">
-                        <a href="sponsor.link">
-                            <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
-                        </a>
-                    </div>
-                    <div class="sponsorsAbout text-with-comic-panel">
-                        <div class="sponsorCompany">
-                            <%= sponsor.name %>
-                            <br>
-                            <a href="<%= sponsor.link %>"><%= sponsor.link %></a>
-                            <div class="description">
-                                <%= sponsor.description %>
-                            </div>                            
+                    <div class="col-md-4 sponsor sponsor-<%= sponsor.level %>">
+                        <div class="comic-panel-body">
+                            <a href="sponsor.link">
+                                <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
+                            </a>
+                        </div>
+                        <div class="sponsorsAbout text-with-comic-panel">
+                            <div class="sponsorCompany">
+                                <%= sponsor.name %>
+                                <br>
+                                <a href="<%= sponsor.link %>"><%= sponsor.link %></a>
+                                <div class="description">
+                                    <%= sponsor.description %>
+                                </div>                            
+                            </div>
                         </div>
                     </div>
-                </div>
-                
-            <% } %>
-        </div>
-    </section>
-    <section>
-        <div class="row">
+                    
+                <% } %>
+            </div>
+        </section>
+        <% } %>
+        <% if(thisYearsSponsors.hasOwnProperty('gold')) { %>        
+        <section>
+            <div class="row">
 
-            <% for (var sponsor of eval(`site.data.sponsors.year${config.currentYear}`).gold ) {%>
+                <% for (var sponsor of eval(`site.data.sponsors.year${config.currentYear}`).gold ) {%>
 
-                <div class="col-md-3 sponsor sponsor-<%= sponsor.level %>">
-                    <div class="comic-panel-body">
-                        <a href="sponsor.link">
-                            <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
-                        </a>
-                    </div>
-                    <div class="sponsorsAbout text-with-comic-panel">
-                        <div class="sponsorCompany">
-                            <%= sponsor.name %>
-                            <br>
-                            <a href="<%= sponsor.link %>"><%= sponsor.link %></a>
-                            <div class="description">
-                                <%= sponsor.description %>
-                            </div>                            
+                    <div class="col-md-3 sponsor sponsor-<%= sponsor.level %>">
+                        <div class="comic-panel-body">
+                            <a href="sponsor.link">
+                                <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
+                            </a>
+                        </div>
+                        <div class="sponsorsAbout text-with-comic-panel">
+                            <div class="sponsorCompany">
+                                <%= sponsor.name %>
+                                <br>
+                                <a href="<%= sponsor.link %>"><%= sponsor.link %></a>
+                                <div class="description">
+                                    <%= sponsor.description %>
+                                </div>                            
+                            </div>
                         </div>
                     </div>
-                </div>
-                
-            <% } %>
-        </div>
-    </section>
-    <section>
-        <div class="row">
+                    
+                <% } %>
+            </div>
+        </section>
+        <% } %>
+        <% if(thisYearsSponsors.hasOwnProperty('silver')) { %>        
+        <section>
+            <div class="row">
 
-            <% for (var sponsor of eval(`site.data.sponsors.year${config.currentYear}`).silver ) {%>
+                <% for (var sponsor of eval(`site.data.sponsors.year${config.currentYear}`).silver ) {%>
 
-                <div class="col-md-3 sponsor sponsor-<%= sponsor.level %>">
-                    <div class="comic-panel-body">
-                        <a href="sponsor.link">
-                            <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
-                        </a>
-                    </div>
-                    <div class="sponsorsAbout text-with-comic-panel">
-                        <div class="sponsorCompany">
-                            <%= sponsor.name %>
-                            <br>
-                            <a href="<%= sponsor.link %>"><%= sponsor.link %></a>
-                            <div class="description">
-                                <%= sponsor.description %>
-                            </div>                            
+                    <div class="col-md-3 sponsor sponsor-<%= sponsor.level %>">
+                        <div class="comic-panel-body">
+                            <a href="sponsor.link">
+                                <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
+                            </a>
+                        </div>
+                        <div class="sponsorsAbout text-with-comic-panel">
+                            <div class="sponsorCompany">
+                                <%= sponsor.name %>
+                                <br>
+                                <a href="<%= sponsor.link %>"><%= sponsor.link %></a>
+                                <div class="description">
+                                    <%= sponsor.description %>
+                                </div>                            
+                            </div>
                         </div>
                     </div>
-                </div>
-                
-            <% } %>
-        </div>
-    </section>        
-</div>
+                    
+                <% } %>
+            </div>
+        </section> 
+        <% } %>       
+    </div>
+
+<% } %>

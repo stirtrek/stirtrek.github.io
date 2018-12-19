@@ -1,69 +1,74 @@
 <section>
-    <table id="scheduleTable" class="table table-striped table-condensed table-responsive">
-        <thead>                
-            <tr>
-                <th>Time</th>
-                <th>Session</th>
-                <th>Speaker</th>
-                <th>Category</th>
-                <th>Room</th>
-                <th></th>
-            </tr>
-        </thead>
-        <tbody> 
-            <% 
-            
-            // Get the evals() out of the way since they are gross
-            var scheduleData = eval("site.data.schedule" + config.currentYear + ".scheduledSessions[0]");
-            var sessionAndSpeakerData = eval("site.data.sessions" + config.currentYear);
 
-            // Categories are buried a layer
-            var allCategories = sessionAndSpeakerData.categories.find(c => c.title === "Track").items;
+    <% 
+        
+    // Get the evals() out of the way since they are gross
+    var scheduleData = eval("site.data.schedule" + config.currentYear + ".scheduledSessions[0]");
+    var sessionAndSpeakerData = eval("site.data.sessions" + config.currentYear);
 
-
-            for (var timeSlot of scheduleData.timeSlots ) { %>
-                <% for (var sessionSlot of timeSlot.sessions) { 
-                    
-                    // Search for the sessions id from the sessionize feed to match our session
-                    var sessionInfo = sessionAndSpeakerData.sessions.find(x => x.id === sessionSlot.id.toString() );
-                    
-                    // Find the speaker sessionInfo
-                    var speakersInfo = sessionAndSpeakerData.speakers.filter(x => sessionInfo.speakers.includes(x.id))
-                %>
-
+    if(sessionAndSpeakerData) { %>
+        <table id="scheduleTable" class="table table-striped table-condensed table-responsive">
+                <thead>                
                     <tr>
-                        <td><%= timeSlot.time %></td>
-
-                        <% // If there's a speaker, we can link to their session and get category info
-                        if(speakersInfo.length > 0) { %>
-                            <td>
-                                <a href="/Speakers/<%= config.currentYear %>/<%= speakersInfo[0].firstName + "-" + speakersInfo[0].lastName %>.html#abstract">
-                                    <%= sessionInfo.title %>
-                                </a>
-                            </td>
-                            <td class="speaker-cell">
-                                <div>
-                                    <a href="/Speakers/<%= config.currentYear %>/<%= speakersInfo[0].firstName + "-" + speakersInfo[0].lastName %>.html">
-                                        <%= speakersInfo[0].firstName + " " + speakersInfo[0].lastName %>
-                                    </a>
-                                </div>
-                            </td>
-
-                            <% var thisCategory = allCategories.find(c => c.id === sessionInfo.categoryItems[0]); %>
-
-                            <td><%= thisCategory.name %></td>
-                            <td class="room-cell"><%= sessionSlot.scheduledRoom %></td>
-                        <% } else { %>
-                            <td><%= sessionInfo.title %></td>
-                            <td class="speaker-cell">
-                            <td></td>
-                            <td class="room-cell"><%= sessionSlot.scheduledRoom %></td>
-                        <% } %>
-
+                        <th>Time</th>
+                        <th>Session</th>
+                        <th>Speaker</th>
+                        <th>Category</th>
+                        <th>Room</th>
+                        <th></th>
                     </tr>
+                </thead>
+                <tbody> 
 
+                <%
+                // Categories are buried a layer
+                var allCategories = sessionAndSpeakerData.categories.find(c => c.title === "Track").items;
+
+
+                for (var timeSlot of scheduleData.timeSlots ) { %>
+                    <% for (var sessionSlot of timeSlot.sessions) { 
+                        
+                        // Search for the sessions id from the sessionize feed to match our session
+                        var sessionInfo = sessionAndSpeakerData.sessions.find(x => x.id === sessionSlot.id.toString() );
+                        
+                        // Find the speaker sessionInfo
+                        var speakersInfo = sessionAndSpeakerData.speakers.filter(x => sessionInfo.speakers.includes(x.id))
+                    %>
+
+                        <tr>
+                            <td><%= timeSlot.time %></td>
+
+                            <% // If there's a speaker, we can link to their session and get category info
+                            if(speakersInfo.length > 0) { %>
+                                <td>
+                                    <a href="/Speakers/<%= config.currentYear %>/<%= speakersInfo[0].firstName + "-" + speakersInfo[0].lastName %>.html#abstract">
+                                        <%= sessionInfo.title %>
+                                    </a>
+                                </td>
+                                <td class="speaker-cell">
+                                    <div>
+                                        <a href="/Speakers/<%= config.currentYear %>/<%= speakersInfo[0].firstName + "-" + speakersInfo[0].lastName %>.html">
+                                            <%= speakersInfo[0].firstName + " " + speakersInfo[0].lastName %>
+                                        </a>
+                                    </div>
+                                </td>
+
+                                <% var thisCategory = allCategories.find(c => c.id === sessionInfo.categoryItems[0]); %>
+
+                                <td><%= thisCategory.name %></td>
+                                <td class="room-cell"><%= sessionSlot.scheduledRoom %></td>
+                            <% } else { %>
+                                <td><%= sessionInfo.title %></td>
+                                <td class="speaker-cell">
+                                <td></td>
+                                <td class="room-cell"><%= sessionSlot.scheduledRoom %></td>
+                            <% } %>
+
+                        </tr>
+
+                    <% } %>
                 <% } %>
-            <% } %>
-        </tbody>
-    </table>
+            </tbody>
+        </table>
+    <% } %>
 </section>

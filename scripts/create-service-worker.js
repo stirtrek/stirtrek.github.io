@@ -7,8 +7,10 @@ hexo.extend.generator.register('create-service-worker', function(locals) {
     // Used to map the speakers and sessions together to figure out what pages will be cached
     let speakerAndSessionParser = require('./speakerAndSessionParser.js');
 
-    // I wish I knew how to load these from the config
-    const years = ['2018','2019'];
+    // I wish I knew how to load these from the config more gracefully than node code
+    let fs = require('fs');
+    let yaml = require('js-yaml');
+    const years = yaml.safeLoad(fs.readFileSync('./_config.yml')).allYears;
 
     // Stash the pages here.
     let allPagesAndFiles = []
@@ -35,6 +37,8 @@ hexo.extend.generator.register('create-service-worker', function(locals) {
         let thisYearsFile = eval('locals.data.sessions' + year);
         let thisYearsSchedule = eval('locals.data.schedule' + year);
 
+        if(!thisYearsFile || !thisYearsSchedule) return;
+
         let mappedSpeakers = speakerAndSessionParser.getSpeakersWithSessions(thisYearsFile, thisYearsSchedule, year);
 
         mappedSpeakers.forEach(speaker => {
@@ -43,7 +47,6 @@ hexo.extend.generator.register('create-service-worker', function(locals) {
     })
 
     // Add our images and fonts. I don't know how to do this with hexo, so I'm just using some node
-    const fs = require('fs');
     const fs2 = require('fs');
     let directories = ['/images/', '/icons/', '/fonts/', '/images/sponsors/'];
     // Add all speaker images by year

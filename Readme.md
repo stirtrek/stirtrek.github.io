@@ -34,5 +34,15 @@ Files in /scripts get run during a `hexo generate`, reading the data files, crea
 
 ## Updating year to year
 A few things need to happen to roll the site to a new year:
-- _config.yml should be updated with the current year
-- scripts in /scripts should have the new year added to their arrays so they'll compile pages. Note: this is just because I don't know how to make scripts read the config file ;)
+- _config.yml should be updated with the new year set as currentYear, and added to the allYears array
+- _data needs the following to happen
+    - schedule20XX.json needs to be created
+    - sponsors.json needs a new "year20XX" added to it's array. This file is much smaller so I just keep it all in one place for now.
+        - This file is an object and not an array to make it easier to walk in code. JavaScript properties can't begin with numbers, so that's why it starts with the word "year".
+    - sessions20XX.json needs to be downloaded from Sessionize once we've selected sessions
+- Search for the year in the /source directory's .md files and change it where appropriate in content
+- While there is no schedule /source/Speakers/index.md has the year set as the previous year in the YAML at the top. When we get a new schedule, update this value.
+
+
+## To add a sponsor
+TBD

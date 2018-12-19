@@ -13,6 +13,10 @@ let config = yaml.safeLoad(fs.readFileSync('./_config.yml'));
 let allYears = config.allYears;
 
 for(var currentYear of allYears) {
+    // See if we have session data yet, otherwise skip this year
+    if(!fs.existsSync(`./source/_data/sessions${currentYear}.json`))
+        continue; 
+
     // Read the speaker data
     var contents = JSON.parse(fs.readFileSync(`./source/_data/sessions${currentYear}.json`, 'utf8'));
 

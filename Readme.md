@@ -45,4 +45,6 @@ A few things need to happen to roll the site to a new year:
 
 
 ## To add a sponsor
-TBD
+- Add a **(this is important)** 350x200 pixel jpg or png of the sponsor logo to /source/images/sponsors/ folder.
+- Copy a sponsor in /source/_data/sponsors.json and paste it in the appropriate year and sponsorship level.
+- Commit the change to the Source branch and it should deploy.

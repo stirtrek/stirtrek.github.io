@@ -12,13 +12,11 @@ title: Tech & a Flick
             <p class="cost">Only $99 bucks</p>
         </div>
     </a> -->
-    <a href="https://www.eventbrite.com/e/stir-trek-2018-edition-tickets-42302374541" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             <p class="date">Stir Trek - Columbus, OH</p>
-            <p class="date">4 May 2018</p>
-            <p class="registerNow">Join waitlist for tickets</p>
+            <p class="date">26 April 2019</p>
+            <p class="registerNow">Mark Your Calendar!</p>
         </div>
-    </a>
 </div>
 
 <div class="row">
@@ -29,10 +27,7 @@ title: Tech & a Flick
                     What Is Stir Trek?
                 </div>
                 <div class="comic-panel-body with-header">
-                    Stir Trek is a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest
-                    in technologies, techniques, and tools. The full day of content is always concluded
-                    with a screening of a blockbuster film on its
-                    <i>(originally scheduled)</i> opening day. Pretty sweet, huh?
+                    Stir Trek is a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a screening of a blockbuster film on its <i>originally scheduled)</i> opening day. Pretty sweet, huh?
                     <br>
                     <br>
                     <strong>
@@ -92,7 +87,7 @@ title: Tech & a Flick
                 </div>
                 <div class="comic-panel-body with-header">
                     <h3>Boardgames</h3>
-                    <br> We're planning on a board game night for Thursday, May 3rd (the night before the
+                    <br> We're planning on a board game night for Thursday, April 25th (the night before the
                     conference).
                 </div>
             </div>
@@ -103,14 +98,9 @@ title: Tech & a Flick
             <div class="col-md-10 col-md-offset-1">
                 <div class="comic-panel-header offset comic-panel-highlighted">Mega Food Drive</div>
                 <div class="comic-panel-body with-header">
-                    Be
-                    <strong>awesome</strong>. Help those in need. Bring non-perishable food. Donate it. Maybe
-                    win something.
+                    Be <strong>awesome</strong>. Help those in need. Bring non-perishable food. Donate it. Maybe win something.
                     <p class="small">
-                        Any non-perishable donations welcomed, emphasis on shampoo, conditioner, canned tomatoes, canned beans and cereal. Donations
-                        will go to the
-                        <a href="http://www.worthingtonresourcepantry.org/">Worthington Resource Pantry</a>. Donors receive 1 entry in a raffle for a $250
-                        gift card for every 3 items donated.
+                        Any non-perishable donations welcomed, emphasis on shampoo, conditioner, canned tomatoes, canned beans and cereal. Donations will go to charity, and we'll be raffling off an awesome prize.
                     </p>
                 </div>
             </div>

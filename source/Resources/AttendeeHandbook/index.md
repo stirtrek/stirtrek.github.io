@@ -16,7 +16,7 @@ If for some reason, this guide does not answer a question you may have, here are
 
 
 ## Purchasing Tickets
-Tickets for Stir Trek will go on sale March 14th at 1:59pm EST on [our tickets page](https://stirtrek2018.eventbrite.com/). The purchase of the ticket should be pretty self explanatory, but if you run into problems, hit us up on twitter or via email with questions.
+Tickets for Stir Trek will go on sale February 28th at 1:59pm EST on [our tickets page](https://stirtrek2019.eventbrite.com/). Note - That link will go live closer to the day of sale. The purchase of the ticket should be pretty self explanatory, but if you run into problems, hit us up on twitter or via email with questions.
 
 ## Our Commitment
 Our goal is to create the best technology events you’ve ever experienced. We are [committed to diversity](/Info/CommitmentToDiversity) and will not stand for [harassment](/Info/AntiHarassmentPolicy) of any kind, but we cannot do this alone. We need your help and support in our mission. Everyone is expected to abide by our [code of conduct](/Info/CodeOfConduct), and if you witness something please tell one of our staff members, so we have an opportunity to address it.

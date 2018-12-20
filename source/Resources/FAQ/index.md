@@ -23,5 +23,4 @@ Many of you have contacted us and asked questions and many of the questions have
 <hr>
 
 **Q: What is the dress code?**
-**A:** We would like all attendees to be comfortable during the sessions at Stir Trek.  The dress code is
-casual but please be mindful that this is a professional community conference and, while not the primary focus, there are some younger attendees so be mindful of them.
+**A:** We would like all attendees to be comfortable during the sessions at Stir Trek.  The dress code is casual but please be mindful that this is a professional community conference and, while not the primary focus, there are some younger attendees so be mindful of them.

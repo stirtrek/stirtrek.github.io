@@ -7,7 +7,7 @@ year: 2018
 
 <div class="icon-hr"></div>
 
-The 2019 Call for Speakers will open in January 2019, and sessions will be announced around March!
+<a href="https://sessionize.com/stir-trek-2019">The 2019 Stir Trek CFP is open now at Sessionize!</a> The CFP closes February 2nd at 11:59PM EST.
 
 <br><br>
 

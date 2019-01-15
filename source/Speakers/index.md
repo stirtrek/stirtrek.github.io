@@ -12,7 +12,7 @@ The 2019 Stir Trek CFP is open now at Sessionize! <a href="https://sessionize.co
 The CFP closes February 2nd at 11:59PM EST.
 
 ## Travel Expenses
-We are very pleased to announce that for the first time, we're able to offer *every* speaker up to $250 for reimbursable travel. We hope this makes it easier for potential speakers to come be a part of Stir Trek!
+We are very pleased to announce that for the first time, we're able to offer *every* speaker $250 for reimbursable travel. We hope this makes it easier for potential speakers to come be a part of Stir Trek!
 
 Allowed expenses include transit, hotel, and fuel. If you have a different expense you'd like to include, please email speakers@stirtrek.com. You'll need to book your own travel reservations and submit a receipt on or after the day of the event to get reimbursed.
 

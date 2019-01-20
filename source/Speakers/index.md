@@ -7,9 +7,12 @@ year: 2018
 
 <div class="icon-hr"></div>
 
-The 2019 Stir Trek CFP is open now at Sessionize! <a href="https://sessionize.com/stir-trek-2019">Click here to submit.</a>
+The 2019 Stir Trek CFP is open now at Sessionize! [Click here to submit.](https://sessionize.com/stir-trek-2019)
 
 The CFP closes February 2nd at 11:59PM EST.
+
+## Mailing List
+Want to receive updates about the CFP and other key information? [Sign up here](http://eepurl.com/deQ9An).
 
 ## Travel Expenses
 We are very pleased to announce that for the first time, we're able to offer *every* speaker $250 for reimbursable travel. We hope this makes it easier for potential speakers to come be a part of Stir Trek!

@@ -3,7 +3,7 @@
     "lang": "en",
     "name": "Stir Trek -Tech and a Flick",
     "scope": "/",
-    "display": "browser",
+    "display": "standalone",
     "start_url": "https://stirtrek.com/",
     "short_name": "Stir Trek",
     "theme_color": "#ffffff",
@@ -64,6 +64,10 @@
         {
             "src": "https://stirtrek.com/icons/favicon-16x16.png",
             "sizes": "16x16"
+        },
+        {
+            "src": "https://stirtrek.com/icons/favicon-512x512.png",
+            "sizes": "512x512"
         }
     ]
 }

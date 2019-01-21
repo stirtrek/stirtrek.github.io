@@ -34,7 +34,7 @@ title: Tech & a Flick
                     What Is Stir Trek?
                 </div>
                 <div class="comic-panel-body with-header">
-                    Stir Trek is a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a screening of a blockbuster film on its <i>originally scheduled)</i> opening day. Pretty sweet, huh?
+                    Stir Trek is a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a screening of a blockbuster film on its <i>(originally scheduled)</i> opening day. Pretty sweet, huh?
                     <br>
                     <br>
                     <strong>
@@ -53,10 +53,10 @@ title: Tech & a Flick
                     <ul>
                         <li>48 Sessions of critical content</li>
                         <li>Well-known regional &amp; national Speakers</li>
-                        <li>Screening of Marvel's Avengers Infinity War</li>
+                        <li>Screening of Marvel's <a href="https://www.marvel.com/movies/avengers-endgame">Avengers: Endgame</a></li>
                         <li>Breakfast and Lunch</li>
                         <li>Refreshments during the movie</li>
-                        <li>Good times</li>
+                        <li>Registration box with fun bonus swag</li>
                     </ul>
                     <div class="comic-panel-inset"></div>
                 </div>
@@ -64,7 +64,7 @@ title: Tech & a Flick
                     <ul>
                         <li>I am Groot.</li>
                         <li>I am Groot.</li>
-                        <li>I am Groot.</li>
+                        <li>I am <a href="https://www.marvel.com/movies/avengers-endgame">Groot</a>.</li>
                         <li>I am Groot.</li>
                         <li>I am Groot.</li>
                         <li>I am Groot.</li>

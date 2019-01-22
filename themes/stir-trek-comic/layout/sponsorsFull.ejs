@@ -16,7 +16,7 @@ if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  {
             <div class="row">
                 <% for (var sponsor of eval(`site.data.sponsors.year${config.currentYear}`).principal ) {%>
 
-                    <div class="col-md-6 sponsor sponsor-<%= sponsor.level %>">
+                    <div class="col-md-6 sponsor sponsor-principal">
                         <div class="comic-panel-body">
                             <a href="sponsor.link">
                                 <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
@@ -44,7 +44,7 @@ if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  {
 
                 <% for (var sponsor of eval(`site.data.sponsors.year${config.currentYear}`).platinum ) {%>
 
-                    <div class="col-md-4 sponsor sponsor-<%= sponsor.level %>">
+                    <div class="col-md-4 sponsor sponsor-platinum">
                         <div class="comic-panel-body">
                             <a href="sponsor.link">
                                 <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
@@ -72,7 +72,7 @@ if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  {
 
                 <% for (var sponsor of eval(`site.data.sponsors.year${config.currentYear}`).gold ) {%>
 
-                    <div class="col-md-3 sponsor sponsor-<%= sponsor.level %>">
+                    <div class="col-md-3 sponsor sponsor-gold">
                         <div class="comic-panel-body">
                             <a href="sponsor.link">
                                 <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
@@ -100,7 +100,7 @@ if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  {
 
                 <% for (var sponsor of eval(`site.data.sponsors.year${config.currentYear}`).silver ) {%>
 
-                    <div class="col-md-3 sponsor sponsor-<%= sponsor.level %>">
+                    <div class="col-md-3 sponsor sponsor-silver">
                         <div class="comic-panel-body">
                             <a href="sponsor.link">
                                 <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">

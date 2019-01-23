@@ -279,9 +279,9 @@
         },
         {
           "name": "Manifest",
-          "level": "silver",
+          "level": "platinum",
           "link": "http://manifestcorp.com/",
-          "description": "Enjoy Code. It’s more than a slogan. It’s our mission statement, our code of conduct, our mantra, our obsession, - our ethos. For over 20 years Manifest consultants have been making a difference in some of the most esteemed businesses in Columbus. Our commitment to training enables our consultants and clients to continuously adapt and grow with the advancement of new technologies. Our areas of expertise include: Java & .NET Development, Acceptance Test Driven Development, Test Automation, Project Management, Business Analysis and Agile Mentoring. Come see why Manifest was honored again in 2017 by Columbus CEO magazine as a Top Workplace in Central Ohio. We invite you to visit the Manifest booth and start a conversation about how we may help you on your path to career happiness. Enjoy.",
+          "description": "Individuals Making A Difference. It’s more than a slogan. It’s our mission statement, our code of conduct, our mantra, our obsession, - our ethos. Since 1994 Manifest consultants have been making a difference in some of the most esteemed businesses in Columbus. Our commitment to training enables our consultants and clients to continuously adapt and grow with the advancement of new technologies. Our areas of expertise include: Java & .NET Development, Acceptance Test Driven Development, Test Automation, Project Management, Business Analysis and Agile Mentoring. Come see why Manifest was honored for the 4th consecutive year by Columbus CEO magazine as a Top Workplace in Central Ohio. We invite you to visit the Manifest booth and start a conversation about how we may help you on your path to career happiness. Code Forever!",
           "logo": "/images/sponsors/ManifestSolutions.png"
 
         }
@@ -289,7 +289,7 @@
       "gold": [
         {
           "name": "ComResource",
-          "level": "silver",
+          "level": "gold",
           "link": "http://comresource.com/",
           "description": "ComResource is one of Central Ohio’s top IT consulting companies solving IT problems for growing businesses for over 25 years. ComResource is a unique player in the IT Consulting industry because of its expertise and experience in delivering a diversity of solutions, not only Professional Services Staffing (Project Management, Business & Data Analysis, AppDev, DevOps and QA), but also Information Security, Cloud & Virtual, Data Quality, B2B Integration, Systems & Network, Disaster Recovery & Business Continuity, VoIP, Wireless, and Storage. ComResource has built Centers of Excellence to fully engage and motivate over 220 employees and to ensure the highest level of innovation for more than 200 clients. On multiple occasions, ComResource has been recognized as a “Best Places To Work”, “Corporate Caring Award Finalist” and a “Fast Fifty 50” award winner. In 2017, ComResource was named the US SMB Rising Star Heartland Partner of the Year by Microsoft’s US Small and Mid-sized Business (SMB) Group.",
           "logo": "/images/sponsors/COMRESOURCE.png"
@@ -305,7 +305,7 @@
         },
         {
           "name": "Improving",
-          "level": "silver",
+          "level": "gold",
           "link": "http://www.improving.com/",
           "description": "Improving is a technology management and consulting services firm deeply rooted in our commitment to establishing trust — not only with each other but with our clients, partners, communities, and others. We aspire to do this through creating transparency, delivering results, continuously improving, clarifying expectations, and keeping our commitments.",
           "logo": "/images/sponsors/improvingenterprises.png"

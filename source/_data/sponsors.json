@@ -224,6 +224,13 @@
           "description": "With nearly 30 years of experience in the energy industry, the IGS family of companies provides the following to over one million customers across the country: natural gas, electricity, and home warranty products; power generation solutions off the grid; clean, domestic alternative fueling options; and solar solutions. We focus on empowering consumers to make choices that best fit their energy needs. Our community investment program, IGS Impact, provides employees with opportunities to get involved with causes that are meaningful to both the company and to them personally.",
           "logo": "/images/sponsors/IGS.png"
 
+        },
+        {
+          "name": "Insight",
+          "link": "https://www.insight.com/en_US/solve/digital-innovation.html",
+          "description": "Insight Digital Innovation, formerly Cardinal Solutions, is global technology company committed to helping clients innovate smarter so they can create digital experiences that drive differentiation, competitive advantage, and loyalty.",
+          "logo": "/images/sponsors/insight_350x200.png"
+
         }
       ],
       "platinum": [
@@ -276,6 +283,14 @@
           "description": "Individuals Making A Difference. It’s more than a slogan. It’s our mission statement, our code of conduct, our mantra, our obsession, - our ethos. Since 1994 Manifest consultants have been making a difference in some of the most esteemed businesses in Columbus. Our commitment to training enables our consultants and clients to continuously adapt and grow with the advancement of new technologies. Our areas of expertise include: Java & .NET Development, Acceptance Test Driven Development, Test Automation, Project Management, Business Analysis and Agile Mentoring. Come see why Manifest was honored for the 4th consecutive year by Columbus CEO magazine as a Top Workplace in Central Ohio. We invite you to visit the Manifest booth and start a conversation about how we may help you on your path to career happiness. Code Forever!",
           "logo": "/images/sponsors/manifest_350x200.png"
 
+        },
+        {
+          "name": "Root",
+          "level": "platinum",
+          "link": "https://root.engineering/",
+          "description": "Root is a car insurance carrier, like GEICO and Progressive. We use data science and technology to identify and insure good drivers, reducing insurance premiums for good drivers as a result. Car insurance is a compulsory product — it’s literally illegal to drive without it. Unfortunately, people are paying significantly more than they should be because their car insurance carrier only looks at their demographics and not how they drive. We’re fixing that. Root was started in 2015 with backing from Drive Capital. Although creating an insurance carrier from scratch was an audacious undertaking, we realized we needed to own everything end-to-end to build an exceptional insurance experience. With schlep blindness in full effect, we made it happen. Most insurance carriers were started a century ago and are running on an amalgamation of technology that is decades old. Root is the manifestation of “software is eating the world” in insurance. Our core expertise is responding to trends in technology by incorporating new sources of data into insurance pricing and building great products and user experiences on top of it. Root is where it is today due to the hard work, ingenuity, and exceptional performance of the people here. We’ve been fortunate to build an incredibly talented team that has brought this idea to life, and we're striving to grow that team by hiring more exceptional people.",
+          "logo": "/images/sponsors/root_350x200.png"
+
         }
       ],
       "gold": [
@@ -298,6 +313,14 @@
           "link": "http://www.improving.com/",
           "description": "Improving is a technology management and consulting services firm deeply rooted in our commitment to establishing trust — not only with each other but with our clients, partners, communities, and others. We aspire to do this through creating transparency, delivering results, continuously improving, clarifying expectations, and keeping our commitments.",
           "logo": "/images/sponsors/improvingenterprises.png"
+
+        },
+        {
+          "name": "Nationwide",
+          "level": "platinum",
+          "link": "https://www.nationwide.com",
+          "description": "Nationwide, a Fortune 100 company based in Columbus, Ohio, is one of the largest and strongest diversified insurance and financial services organizations in the U.S. and is rated A+ by both A.M. Best and Standard & Poor’s. The company provides a full range of insurance and financial services, including auto, commercial, homeowners, farm and life insurance; public and private sector retirement plans, annuities and mutual funds; banking and mortgages; excess & surplus, specialty and surety; pet, motorcycle and boat insurance. For more information, visit www.nationwide.com.",
+          "logo": "/images/sponsors/nationwide_350x200.jpg"
 
         }
       ],

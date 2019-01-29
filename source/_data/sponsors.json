@@ -226,11 +226,23 @@
 
         },
         {
+          "name": "Workstate",
+          "link": "https://www.workstate.com/",
+          "description": "",
+          "logo": "/images/sponsors/workstate_350x200.png"
+
+        },
+        {
           "name": "Insight",
           "link": "https://www.insight.com/en_US/solve/digital-innovation.html",
           "description": "Insight Digital Innovation, formerly Cardinal Solutions, is global technology company committed to helping clients innovate smarter so they can create digital experiences that drive differentiation, competitive advantage, and loyalty.",
           "logo": "/images/sponsors/insight_350x200.png"
-
+        },
+        {
+          "name": "New Relic",
+          "link": "https://newrelic.com/",
+          "description": "",
+          "logo": "/images/sponsors/newrelic_350x200.png"
         }
       ],
       "platinum": [
@@ -317,11 +329,34 @@
         },
         {
           "name": "Nationwide",
-          "level": "platinum",
           "link": "https://www.nationwide.com",
           "description": "Nationwide, a Fortune 100 company based in Columbus, Ohio, is one of the largest and strongest diversified insurance and financial services organizations in the U.S. and is rated A+ by both A.M. Best and Standard & Poor’s. The company provides a full range of insurance and financial services, including auto, commercial, homeowners, farm and life insurance; public and private sector retirement plans, annuities and mutual funds; banking and mortgages; excess & surplus, specialty and surety; pet, motorcycle and boat insurance. For more information, visit www.nationwide.com.",
           "logo": "/images/sponsors/nationwide_350x200.jpg"
 
+        },
+        {
+          "name": "Progress",
+          "link": "https://www.progress.com/",
+          "description": "",
+          "logo": "/images/sponsors/progress_350x200.jpg"
+        },
+        {
+          "name": "Smart Data",
+          "link": "https://smartdata.net/",
+          "description": "Smart Data is a team of problem solvers focused on improving your business. We partner with health care, retail, and manufacturers helping them increase productivity, modernize business processes, and deliver smarter experiences to their clients. We do this by helping them design and develop custom digital solutions, integrate systems, and provide data transformation services.",
+          "logo": "/images/sponsors/smartdata_350x200.jpg"
+        },
+        {
+          "name": "Halo Communications",
+          "link": "https://www.halocommunications.com/",
+          "description": "",
+          "logo": "/images/sponsors/halo_350x200.jpg"
+        },
+        {
+          "name": "Callibrity",
+          "link": "https://www.callibrity.com/",
+          "description": "",
+          "logo": "/images/sponsors/callibrity_350x200.jpg"
         }
       ],
         "silver": [

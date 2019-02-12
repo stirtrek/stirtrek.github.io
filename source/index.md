@@ -17,11 +17,11 @@ title: Tech & a Flick
         <p class="date">26 April 2019</p>
         <p class="registerNow">Mark Your Calendar!</p>
     </div> -->
-    <a href="https://sessionize.com/stir-trek-2019" target="_blank" rel="noopener noreferrer">
+    <a href="https://stirtrek2019.eventbrite.com" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             <p class="date">Stir Trek - Columbus, OH</p>
             <p class="date">26 April 2019</p>
-            <p class="registerNow">CFP Open Now!</p>
+            <p class="registerNow">Tickets go on sale 28 February @ 2:00PM</p>
         </div>
     </a>
 </div>

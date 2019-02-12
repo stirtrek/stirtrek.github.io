@@ -7,9 +7,8 @@ year: 2018
 
 <div class="icon-hr"></div>
 
-The 2019 Stir Trek CFP is open now at Sessionize! [Click here to submit.](https://sessionize.com/stir-trek-2019)
+The 2019 Stir Trek CFP is closed. We will be announcing speakers at (or around) February 24th. Watch Twitter for any updates.
 
-The CFP closes February 2nd at 11:59PM EST.
 
 ## Mailing List
 Want to receive updates about the CFP and other key information? [Sign up here](http://eepurl.com/deQ9An).

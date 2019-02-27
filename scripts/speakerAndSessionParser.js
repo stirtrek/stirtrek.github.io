@@ -1,7 +1,7 @@
 class SpeakerWithSessions {
     constructor(firstName, lastName, speakerObj, sessionsObj, year) {
-        this.firstName = firstName;
-        this.lastName = lastName;
+        this.firstName = firstName.replace(/[ \"]/g,"");
+        this.lastName = lastName.replace(/[ \"]/g,"");
 
         if(speakerObj) {
             if(speakerObj.profilePicture)

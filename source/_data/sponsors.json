@@ -343,7 +343,7 @@
         "name": "Progress",
         "link": "http://www.telerik.com/",
         "description": "Progress (NASDAQ: PRGS) offers the leading platform for developing and deploying mission-critical business applications. The creator of the award-winning Telerik .NET and Kendo UI JavaScript user interface components/controls, reporting solutions and productivity tools, Progress offers all the tools developers need to build high-performance modern apps with outstanding UI. Learn more about the Progress developer tools at: www.telerik.com or 1-781-280-4000.",
-        "logo": "/images/sponsors/Progress_350x200.jpg"
+        "logo": "/images/sponsors/Progress_350x200.png"
       },
       {
         "name": "Smart Data",
@@ -362,9 +362,36 @@
         "link": "https://www.callibrity.com/",
         "description": "Callibrity is a developer owned and managed custom software development firm that is dedicated to providing clients with quality software, improved coding practices, and modernized tech stacks. Having such a niche focus is not for everyone, but Callibrity believes that focus on software development fosters interesting work that keeps consultants engaged long-term and grows their technical knowledge exponentially.",
         "logo": "/images/sponsors/callibrity_350x200.png"
+      },
+      {
+        "name": "Fast Switch",
+        "link": "https://fastswitch.com",
+        "description": "",
+        "logo": "/images/sponsors/fastswitch_350x200.jpg"
+      },
+      {
+        "name": "ICC",
+        "level": "gold",
+        "link": "http://icctechnology.com/",
+        "description": "User First. Data Driven. Technology Development. ICC is changing the way companies solve their business challenges, and the above principles dictate our solutions. This approach inspires intelligent, precise technology that addresses the human need. Three practice areas give ICC the necessary latitude to overcome the complex challenges that businesses face.",
+        "logo": "/images/sponsors/ICC_350x200.png"
+      },
+      {
+        "name": "DynamIT",
+        "link": "https://www.dynamit.com",
+        "description": "At Dynamit, we create web and mobile applications. Together with our clients, we identify big opportunities and solve big problems. We serve our clients as strategists, creatives, and engineers. We shine in situations where simple, graceful web and mobile experiences can make a big difference in the way our clients do business. We believe that — done right — technology should simplify. It should make life easier for our clients and their customers. Clients include: Hilton Worldwide, NiSource, La Quinta Inns & Suites, M/I Homes, Panda Express, Donatos Pizza, BJ's Restaurants & Brewhouse, Mercy Health, Kindred Healthcare, Tire Discounters, White Castle and Thorntons.",
+        "logo": "/images/sponsors/dynamit_350x200.png"
+
       }
     ],
     "silver": [
+      //{
+      //  "name": "Fuse",
+      //  "link": "https://www.cardinalhealth.com/fuse",
+      //  "description": "Our purpose is to improve people's lives by merging innovation and technology with healthcare. We roll up our sleeves and collaborate with you to uncover problems, forge new ideas and experiment to learn what works and what doesn’t. We do this with deep expertise, proven methods and a bit of fun. Cardinal Health is our wings, and we are Cardinal Health’s innovation engine.",
+      //  "logo": "/images/sponsors/fuse_350x200.png"
+
+      //}
     ]
   }
 }

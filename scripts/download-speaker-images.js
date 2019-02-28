@@ -26,17 +26,23 @@ for(var currentYear of allYears) {
     }
 
     // For each speaker, download the avatar image if it doesn't already exist
+    var i = 0;
     contents.speakers.forEach(speaker => {
         let imgUrl = speaker.profilePicture;
 
         let fileExtensionRegex = /(?:\.([^.]+))?$/;
         let fileExtension = fileExtensionRegex.exec(imgUrl)[1];
 
+        // remove quotes and spaces
+        speaker.firstName = speaker.firstName.replace(/[^a-zA-Z0-9-_\.]/g, '');
+        speaker.lastName = speaker.lastName.replace(/[^a-zA-Z0-9-_\.]/g, '');
+
         let outputLocation = `./source/images/speakers/${currentYear}/${speaker.firstName}-${speaker.lastName}.${fileExtension}`;
 
         // Skip if we already have the file
-        if(fs.existsSync(outputLocation))
+        if(fs.existsSync(outputLocation)) {
             return;
+        }
 
         let outputFile = fs.createWriteStream(outputLocation);
         https.get(imgUrl, function(response) {

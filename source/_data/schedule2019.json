@@ -13,16 +13,112 @@
                 },
                 {
                     "sessions": [
+                        {
+                            "id": 85539,
+                            "scheduledRoom": "Blue"
+                        },
+                        {
+                            "id": 83205,
+                            "scheduledRoom": "Gauntlet"
+                        },
+                        {
+                            "id": 83639,
+                            "scheduledRoom": "Green"
+                        },
+                        {
+                            "id": 81760,
+                            "scheduledRoom": "Orange"
+                        },
+                        {
+                            "id": 82364,
+                            "scheduledRoom": "Purple"
+                        },
+                        {
+                            "id": 85936,
+                            "scheduledRoom": "Red"
+                        },
+                        {
+                            "id": 82824,
+                            "scheduledRoom": "Thanos"
+                        },
+                        {
+                            "id": 81813,
+                            "scheduledRoom": "Yellow"
+                        }                        
                     ],
                     "time": "8:30 AM"
                 },
                 {
                     "sessions": [
+                        {
+                            "id": 86026,
+                            "scheduledRoom": "Blue"
+                        },
+                        {
+                            "id": 83131,
+                            "scheduledRoom": "Gauntlet"
+                        },
+                        {
+                            "id": 81729,
+                            "scheduledRoom": "Green"
+                        },
+                        {
+                            "id": 81946,
+                            "scheduledRoom": "Orange"
+                        },
+                        {
+                            "id": 86078,
+                            "scheduledRoom": "Purple"
+                        },
+                        {
+                            "id": 81740,
+                            "scheduledRoom": "Red"
+                        },
+                        {
+                            "id": 84108,
+                            "scheduledRoom": "Thanos"
+                        },
+                        {
+                            "id": 83422,
+                            "scheduledRoom": "Yellow"
+                        }                               
                     ],
                     "time": "9:45 AM"
                 },
                 {
                     "sessions": [
+                        {
+                            "id": 84934,
+                            "scheduledRoom": "Blue"
+                        },
+                        {
+                            "id": 84467,
+                            "scheduledRoom": "Gauntlet"
+                        },
+                        {
+                            "id": 81898,
+                            "scheduledRoom": "Green"
+                        },
+                        {
+                            "id": 82863,
+                            "scheduledRoom": "Orange"
+                        },
+                        {
+                            "id": 81910,
+                            "scheduledRoom": "Purple"
+                        },
+                        {
+                            "id": 85558,
+                            "scheduledRoom": "Red"
+                        },
+                        {
+                            "id": 83559,
+                            "scheduledRoom": "Thanos"
+                        },
+                        {
+                            "id": 85963,
+                            "scheduledRoom": "Yellow"
+                        }                             
                     ],
                     "time": "11:00 AM"
                 },
@@ -37,16 +133,112 @@
                 },
                 {
                     "sessions": [
+                        {
+                            "id": 85493,
+                            "scheduledRoom": "Blue"
+                        },
+                        {
+                            "id": 83723,
+                            "scheduledRoom": "Gauntlet"
+                        },
+                        {
+                            "id": 86096,
+                            "scheduledRoom": "Green"
+                        },
+                        {
+                            "id": 83345,
+                            "scheduledRoom": "Orange"
+                        },
+                        {
+                            "id": 82423,
+                            "scheduledRoom": "Purple"
+                        },
+                        {
+                            "id": 85781,
+                            "scheduledRoom": "Red"
+                        },
+                        {
+                            "id": 81869,
+                            "scheduledRoom": "Thanos"
+                        },
+                        {
+                            "id": 82232,
+                            "scheduledRoom": "Yellow"
+                        }                          
                      ],
                     "time": "1:00 PM"
                 },
                 {
                     "sessions": [
+                        {
+                            "id": 85067,
+                            "scheduledRoom": "Blue"
+                        },
+                        {
+                            "id": 83723,
+                            "scheduledRoom": "Gauntlet"
+                        },
+                        {
+                            "id": 84824,
+                            "scheduledRoom": "Green"
+                        },
+                        {
+                            "id": 82667,
+                            "scheduledRoom": "Orange"
+                        },
+                        {
+                            "id": 82032,
+                            "scheduledRoom": "Purple"
+                        },
+                        {
+                            "id": 85979,
+                            "scheduledRoom": "Red"
+                        },
+                        {
+                            "id": 85989,
+                            "scheduledRoom": "Thanos"
+                        },
+                        {
+                            "id": 81856,
+                            "scheduledRoom": "Yellow"
+                        }    
                     ],
                     "time": "2:15 PM"
                 },
                 {
                     "sessions": [
+                        {
+                            "id": 85946,
+                            "scheduledRoom": "Blue"
+                        },
+                        {
+                            "id": 82239,
+                            "scheduledRoom": "Gauntlet"
+                        },
+                        {
+                            "id": 85909,
+                            "scheduledRoom": "Green"
+                        },
+                        {
+                            "id": 85296,
+                            "scheduledRoom": "Orange"
+                        },
+                        {
+                            "id": 81779,
+                            "scheduledRoom": "Purple"
+                        },
+                        {
+                            "id": 82110,
+                            "scheduledRoom": "Red"
+                        },
+                        {
+                            "id": 84990,
+                            "scheduledRoom": "Thanos"
+                        },
+                        {
+                            "id": 81731,
+                            "scheduledRoom": "Yellow"
+                        }  
                     ],
                     "time": "3:30 PM"
                 },

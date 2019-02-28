@@ -39,15 +39,19 @@
                             <td><%= timeSlot.time %></td>
 
                             <% // If there's a speaker, we can link to their session and get category info
-                            if(speakersInfo.length > 0) { %>
+                            if(speakersInfo.length > 0) { 
+                                var trimmedFirstName = speakersInfo[0].firstName.replace(/[^a-zA-Z0-9-_\.]/g, '');
+                                var trimmedLastName = speakersInfo[0].lastName.replace(/[^a-zA-Z0-9-_\.]/g, '');
+                                
+                                %>
                                 <td>
-                                    <a href="/Speakers/<%= config.currentYear %>/<%= speakersInfo[0].firstName + "-" + speakersInfo[0].lastName %>.html#abstract">
+                                    <a href="/Speakers/<%= config.currentYear %>/<%= trimmedFirstName + "-" + trimmedLastName %>.html#abstract">
                                         <%= sessionInfo.title %>
                                     </a>
                                 </td>
                                 <td class="speaker-cell">
                                     <div>
-                                        <a href="/Speakers/<%= config.currentYear %>/<%= speakersInfo[0].firstName + "-" + speakersInfo[0].lastName %>.html">
+                                        <a href="/Speakers/<%= config.currentYear %>/<%= trimmedFirstName + "-" + trimmedLastName %>.html">
                                             <%= speakersInfo[0].firstName + " " + speakersInfo[0].lastName %>
                                         </a>
                                     </div>

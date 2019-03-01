@@ -40,18 +40,16 @@
 
                             <% // If there's a speaker, we can link to their session and get category info
                             if(speakersInfo.length > 0) { 
-                                var trimmedFirstName = speakersInfo[0].firstName;
-                                var trimmedLastName = speakersInfo[0].lastName;
-                                
-                                %>
+                                var speakerPageUrl = `/Speakers/${config.currentYear}/${speakersInfo[0].firstName.replace(/[ \"]/g,"")}-${speakersInfo[0].lastName.replace(/[ \"]/g,"")}.html`;
+                            %>
                                 <td>
-                                    <a href="/Speakers/<%= config.currentYear %>/<%= trimmedFirstName + "-" + trimmedLastName %>.html#abstract">
+                                    <a href="<%= speakerPageUrl %>#abstract">
                                         <%= sessionInfo.title %>
                                     </a>
                                 </td>
                                 <td class="speaker-cell">
                                     <div>
-                                        <a href="/Speakers/<%= config.currentYear %>/<%= trimmedFirstName + "-" + trimmedLastName %>.html">
+                                        <a href="<%= speakerPageUrl %>">
                                             <%= speakersInfo[0].firstName + " " + speakersInfo[0].lastName %>
                                         </a>
                                     </div>

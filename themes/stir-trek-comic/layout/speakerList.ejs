@@ -8,11 +8,13 @@
 
             var firstNameTrimmed = firstName.replace(/[^a-zA-Z0-9-_\.]/g, '');
             var lastNameTrimmed = lastName.replace(/[^a-zA-Z0-9-_\.]/g, '');
+
+            var speakerPageUrl = `/Speakers/${page.year}/${firstName.replace(/[ \"]/g,"")}-${lastName.replace(/[ \"]/g,"")}.html`;
             
         %>
             <div class="col-md-3">
                 <div>
-                    <a href="/Speakers/<%= page.year %>/<%= firstName + '-' + lastName %>.html">
+                    <a href="<%= speakerPageUrl %>">
                         <div>
 
                             <%
@@ -27,7 +29,7 @@
                 </div>
                 <div class="bio">
                     <h3>
-                        <a href="/Speakers/<%= page.year %>/<%= firstName + '-' + lastName %>.html">
+                        <a href="<%= speakerPageUrl %>">
                             <%= speaker.firstName + " " + speaker.lastName %>
                         </a>
                     </h3>

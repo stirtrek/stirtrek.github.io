@@ -23,7 +23,7 @@ class SpeakerWithSessions {
     }
 
     getSpeakerPageUrl() {
-        return `/Speakers/${this.year}/${this.firstName}-${this.lastName}.html`
+        return `/Speakers/${this.year}/${this.firstName.replace(/[ \"]/g,"")}-${this.lastName.replace(/[ \"]/g,"")}.html`
     }
 
     // Knows where we'd store the picture locally even though the data shows a Sessionize URL

@@ -3,9 +3,11 @@
 
         <% for (var speaker of eval('site.data.sessions' + page.year + '.speakers') ) {
             
-            // Clean special characters
-            var firstName = speaker.firstName.replace(/[^a-zA-Z0-9-_\.]/g, '');
-            var lastName = speaker.lastName.replace(/[^a-zA-Z0-9-_\.]/g, '');
+            var firstName = speaker.firstName;
+            var lastName = speaker.lastName;
+
+            var firstNameTrimmed = firstName.replace(/[^a-zA-Z0-9-_\.]/g, '');
+            var lastNameTrimmed = lastName.replace(/[^a-zA-Z0-9-_\.]/g, '');
             
         %>
             <div class="col-md-3">
@@ -16,7 +18,7 @@
                             <%
                                 let fileExtensionRegex = /(?:\.([^.]+))?$/;
                                 let fileExtension = fileExtensionRegex.exec(speaker.profilePicture)[1];
-                                let profilePictureUrl = `/images/speakers/${page.year}/${firstName}-${lastName}.${fileExtension}`;
+                                let profilePictureUrl = `/images/speakers/${page.year}/${firstNameTrimmed}-${lastNameTrimmed}.${fileExtension}`;
                             %>
 
                             <img class="img-responsive" src="<%= profilePictureUrl %>">

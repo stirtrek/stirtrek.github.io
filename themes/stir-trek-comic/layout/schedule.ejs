@@ -40,8 +40,8 @@
 
                             <% // If there's a speaker, we can link to their session and get category info
                             if(speakersInfo.length > 0) { 
-                                var trimmedFirstName = speakersInfo[0].firstName.replace(/[^a-zA-Z0-9-_\.]/g, '');
-                                var trimmedLastName = speakersInfo[0].lastName.replace(/[^a-zA-Z0-9-_\.]/g, '');
+                                var trimmedFirstName = speakersInfo[0].firstName;
+                                var trimmedLastName = speakersInfo[0].lastName;
                                 
                                 %>
                                 <td>

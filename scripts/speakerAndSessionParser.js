@@ -3,9 +3,6 @@ class SpeakerWithSessions {
         this.firstName = firstName;
         this.lastName = lastName;
 
-        this.firstNameTrimmed = firstName.replace(/[ \"]/g,"").replace(/[^a-zA-Z0-9-_\.]/g, '');
-        this.lastNameTrimmed = lastName.replace(/[ \"]/g,"").replace(/[^a-zA-Z0-9-_\.]/g, '');
-
         if(speakerObj) {
             if(speakerObj.profilePicture)
                 this.profilePicture = speakerObj.profilePicture;
@@ -26,7 +23,7 @@ class SpeakerWithSessions {
     }
 
     getSpeakerPageUrl() {
-        return `/Speakers/${this.year}/${this.firstNameTrimmed}-${this.lastNameTrimmed}.html`
+        return `/Speakers/${this.year}/${this.firstName}-${this.lastName}.html`
     }
 
     // Knows where we'd store the picture locally even though the data shows a Sessionize URL
@@ -34,7 +31,7 @@ class SpeakerWithSessions {
         let fileExtensionRegex = /(?:\.([^.]+))?$/;
         let fileExtension = fileExtensionRegex.exec(this.profilePicture)[1];
 
-        return `/images/speakers/${this.year}/${this.firstNameTrimmed}-${this.lastNameTrimmed}.${fileExtension}`;
+        return `/images/speakers/${this.year}/${this.firstName.replace(/[^a-zA-Z0-9-_\.]/g, '')}-${this.lastName.replace(/[^a-zA-Z0-9-_\.]/g, '')}.${fileExtension}`;
     }
 
     // Needed to let this object get handed to Hexo to render
@@ -42,8 +39,6 @@ class SpeakerWithSessions {
         return {
             firstName: this.firstName,
             lastName: this.lastName,
-            firstNameTrimmed: this.firstNameTrimmed,
-            lastNameTrimmed: this.lastNameTrimmed,
             profilePicture: this.getLocalProfilePicture(),
             tagLine: this.tagLine,
             bio: this.bio,

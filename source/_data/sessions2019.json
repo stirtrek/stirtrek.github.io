@@ -1010,36 +1010,6 @@
       "fullName": "Chris Bohatka"
     },
     {
-      "id": "730a789f-e2a8-483d-91bc-6e794f1b44d5",
-      "firstName": "Chris",
-      "lastName": "DeMars",
-      "bio": "Chris DeMars is a UI developer first, UX architect always, Microsoft MVP and Google Developer Expert working out of Detroit, Michigan. Chris is also an instructor, teacher assistant, and volunteer for the Ann Arbor chapter of Girl Develop It and co-organizer for the Ann Arbor Accessibility Group and Vuetroit. Chris loves coming up with solutions for enterprise applications, which include modular CSS architectures, performance, and advocating for web accessibility. When he is not working on making the web great and inclusive you can find him writing blog posts, recording episodes of his podcast, Tales From The Script, watching horror movies, drinking the finest of beers, or in the woods of northern Michigan.",
-      "tagLine": "Google Developer Expert",
-      "profilePicture": "https://sessionize.com/image?f=ba80327d3287e02fffc8c68c7b427870,400,400,True,False,9f-e2a8-483d-91bc-6e794f1b44d5.e9aaf881-6e84-443a-ab3d-5339fc357455.jpeg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Twitter",
-          "url": "http://twitter.com/saltnburnem",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/chrisdemars/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "http://chrisdemars.com/",
-          "linkType": "Blog"
-        }
-      ],
-      "sessions": [
-        81740
-      ],
-      "fullName": "Chris DeMars"
-    },
-    {
       "id": "149f7477-e1e8-4db1-a752-e0eee3903306",
       "firstName": "Debbie",
       "lastName": "Levitt",

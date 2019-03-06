@@ -53,23 +53,6 @@
       "roomId": null
     },
     {
-      "id": "81740",
-      "title": "Electrify Your Web App",
-      "description": "Electrifying your Web app sounds out of this world doesn't it? Well, it is possible with a stable, subatomic framework called Electron. If you have ever built a Web app and thought to yourself, \"Self, this would be awesome if I could bring this experience to desktops around the world!\", now it is possible with Electron. Electron is a framework for creating native applications with front-end technologies that we all know and love. In this talk, I will introduce Electron, build a small application with front-end technologies including accessibility, and then deploy it to the desktop.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "730a789f-e2a8-483d-91bc-6e794f1b44d5"
-      ],
-      "categoryItems": [
-        17165
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
       "id": "81760",
       "title": "Azure Durable Functions for Serverless .NET Orchestration",
       "description": "Durable Functions is a new open-source extension to Azure Functions that enable long running orchestrations and stateful processes to execute as serverless functions.  Learn how to write durable functions, and patterns and best practices to write simple or complex stateful orchestrations.",
@@ -342,23 +325,6 @@
       "roomId": null
     },
     {
-      "id": "82863",
-      "title": "Building mostly serverless distributed cloud systems step by step",
-      "description": "Serverless is definitely here to stay, and there are also more and more frameworks meant to ease serverless containers and functions development (even across clouds) becoming stable every day.\r\nAlthough the idea behind serverless is not to worry about the infrastructure, you still need to worry about how long will it take to scale, and that's where things like cold starts, preheating, multiple deployments, and hybrid environments come into play.\r\nBasically, serverless is a great tool when used where needed, and that's the topic of this talk - learn how to build a serverless system, talk about some caveats, and discuss alternatives.\r\n\r\nAt the core of the system, we'll take a third-party system and pretend it's a legacy API, and then slowly build our distributed, scalable, geo-distributed and a tad cross-cloud system around it.\r\n\r\nContainers will be used for tasks that take time, and some places where we need an immediate response. Durable Functions will be orchestrating the whole logic. We shouldn't forget about Service Bus Queues/Topics, but we'll also need Event Grid to connect various parts of the system. In the end, there's \"nothing better\" than API Management to be at the front.\r\n",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "bfb38ebb-9307-4d7d-88fb-7fc3599a7c1c"
-      ],
-      "categoryItems": [
-        17154
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
       "id": "83131",
       "title": "Dude, Where's my Service!?!",
       "description": "Are you tired of maintaining connection information in boring config files?  Ever wonder if there's an easier way?  Well there is and it's called Service Discovery.  In this session we will explore what is Service Discovery, the benefits, the problems it solves,  and we'll demonstrate an introductory Service Discovery setup with AWS Cloud Map.",
@@ -405,23 +371,6 @@
       ],
       "categoryItems": [
         17159
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "83422",
-      "title": "DevOps ICU: Improving DevOps Results by (Correctly) Integrating UX",
-      "description": "UX is driving you crazy, a black throwing off timelines and killing ideas. UX doesn’t seem Lean or Agile. Can’t anybody make wireframes? Can’t we circumvent or exclude these people? \r\n\r\nDevOps is truly about so much more than how developers connect with IT, how infrastructure is managed, and how frameworks can be improved. It’s about recognizing how many teams are truly involved in the software development process and finding better ways to make sure everybody is at the table.\r\n\r\nThis session will explain how the UX process fits into Agile; saves companies money; augments DevOps goals; and increases customer satisfaction.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "149f7477-e1e8-4db1-a752-e0eee3903306"
-      ],
-      "categoryItems": [
-        17157
       ],
       "questionAnswers": [],
       "roomId": null
@@ -1010,46 +959,6 @@
       "fullName": "Chris Bohatka"
     },
     {
-      "id": "149f7477-e1e8-4db1-a752-e0eee3903306",
-      "firstName": "Debbie",
-      "lastName": "Levitt",
-      "bio": "Debbie Levitt, CEO of Ptype UX & Product Design Agency, has been a UX strategist, designer, and trainer since the 1990s. As a “serial contractor” who lived in the Bay Area for most of this decade, Debbie has influenced interfaces at Sony, Wells Fargo, Constant Contact, Macys.com, Oracle, and a variety of Silicon Valley startups. Clients have given her the nickname, “Mary Poppins,” because she flies in, improves everything she can, sings a few songs, and flies away to her next adventure. \r\n\r\nDebbie is a speaker and trainer who has presented at conferences including eBay’s Developer Conference, PayPal’s Developer Conference, UXPA, and WeAreDevelopers. She is an O’Reilly published author and one of few instructors on the planet recommended by Axure. Her newest training program is DevOps ICU, which teaches non-UX roles how to measurably improve DevOps results by correctly integrating UX practitioners and processes.\r\n\r\nOutside of UX work, and sometimes during UX work, Debbie enjoys singing symphonic prog goth metal, opera, and New Wave. She’s now a Digital Nomad splitting her time between the USA and rural Italy.",
-      "tagLine": "CEO of Ptype UX Agency",
-      "profilePicture": "https://sessionize.com/image?f=8113ff2db4ed3c86e3ea86ca57d12736,400,400,True,False,77-e1e8-4db1-a752-e0eee3903306.99312385-5878-4ab8-ab5b-37548716581a.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Twitter",
-          "url": "https://twitter.com/DevOpsiCU",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/debbielevitt/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://DevOps.ICU/blog",
-          "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://DevOps.ICU",
-          "linkType": "Company_Website"
-        },
-        {
-          "title": "Speaker Experience",
-          "url": "https://DebbieLevitt.com",
-          "linkType": "Other"
-        }
-      ],
-      "sessions": [
-        83422
-      ],
-      "fullName": "Debbie Levitt"
-    },
-    {
       "id": "b3b55b4f-3d74-4ca0-921a-e723705df3aa",
       "firstName": "Granville",
       "lastName": "Schmidt",
@@ -1178,41 +1087,6 @@
         81813
       ],
       "fullName": "Håkan Silfvernagel"
-    },
-    {
-      "id": "bfb38ebb-9307-4d7d-88fb-7fc3599a7c1c",
-      "firstName": "Ivan",
-      "lastName": "Čuljak",
-      "bio": "Ivan is a .NET freelance developer in love with Azure, Xamarin, and the idea of automating whatever. When he’s not developing something new, he’s salvaging something inherited, consulting with enthusiasm, and testing and breaking new technologies in a quest for something useful.",
-      "tagLine": "Cloud Solution Architect @ Celeste Maze",
-      "profilePicture": "https://sessionize.com/image?f=43978d08b4d00739525a55263fa18e0a,400,400,True,False,bb-9307-4d7d-88fb-7fc3599a7c1c.daad77f8-dd4b-4560-90d9-c70a6289e67d.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Twitter",
-          "url": "https://twitter.com/culjakivan",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/culjakivan/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://www.culjak.xyz",
-          "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://www.celestemaze.com",
-          "linkType": "Company_Website"
-        }
-      ],
-      "sessions": [
-        82863
-      ],
-      "fullName": "Ivan Čuljak"
     },
     {
       "id": "9f4ec925-ce10-412c-adb2-966f3efd7621",
@@ -2198,5 +2072,51 @@
       "sort": 2
     }
   ],
-  "rooms": []
+  "rooms": [
+    {
+      "id": 4579,
+      "name": "Concourse",
+      "sort": 0
+    },
+    {
+      "id": 4580,
+      "name": "Blue",
+      "sort": 1
+    },
+    {
+      "id": 4581,
+      "name": "Gauntlet",
+      "sort": 2
+    },
+    {
+      "id": 4582,
+      "name": "Green",
+      "sort": 3
+    },
+    {
+      "id": 4583,
+      "name": "Orange",
+      "sort": 4
+    },
+    {
+      "id": 4584,
+      "name": "Purple",
+      "sort": 5
+    },
+    {
+      "id": 4585,
+      "name": "Red",
+      "sort": 6
+    },
+    {
+      "id": 4586,
+      "name": "Thanos",
+      "sort": 7
+    },
+    {
+      "id": 4587,
+      "name": "Yellow",
+      "sort": 8
+    }
+  ]
 }

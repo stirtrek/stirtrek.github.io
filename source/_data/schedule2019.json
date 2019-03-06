@@ -73,11 +73,7 @@
                         {
                             "id": 84108,
                             "scheduledRoom": "Thanos"
-                        },
-                        {
-                            "id": 83422,
-                            "scheduledRoom": "Yellow"
-                        }                               
+                        }                              
                     ],
                     "time": "9:45 AM"
                 },
@@ -94,10 +90,6 @@
                         {
                             "id": 81898,
                             "scheduledRoom": "Green"
-                        },
-                        {
-                            "id": 82863,
-                            "scheduledRoom": "Orange"
                         },
                         {
                             "id": 81910,

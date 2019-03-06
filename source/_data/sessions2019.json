@@ -19,6 +19,23 @@
       "speakers": []
     },
     {
+      "id": "81714",
+      "title": "Comments are Useless and Other Controversial Opinions About Code",
+      "description": "Almost all of us have at one point learned a Bad Coding Habit™ that is so ingrained into our processes that we don't even realize what we're doing. In this interactive session, a member of the audience will drive the speaker's laptop as we examine a piece of Poorly Written Code and challenge the habits used to write the code. We will address perceptions on why developers like to rely on comments and give suggestions for how code can be refactored for comments to be removed. By end of the session we will have Well Designed Code that will challenge perceptions on how to write Good Code and help improve overall Code Quality and Working Habits. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3d29229e-bd3b-45d1-a097-db51abd12dfd"
+      ],
+      "categoryItems": [
+        17153
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
       "id": "81729",
       "title": "If Your Tests Could Talk",
       "description": "Test Driven Development (TDD) has failed!  Tests are hard to write, run slowly, break easily, are hard to understand, take a long time to write and are a pain to modify!  If any of this sounds familiar, your tests are trying to tell you something.  But what are they trying to say?  Sometimes it's as simple as telling you when to extract a new abstraction or to decompose a function.   Other times the message can be less obvious, like telling you your code is too tightly coupled or that responsibilities have been assigned incorrectly.  Sometimes they can tell you it's time to back up and rethink your design.  Come explore these and other sources of trouble with test driving code.  If you have been burnt by TDD in the past, this may be the perfect opportunity to try it again armed with a clear set of guidelines to interpret the feedback from your tests.  Your tests are already talking… find out what they have to say!",
@@ -782,6 +799,23 @@
       ],
       "questionAnswers": [],
       "roomId": null
+    },
+    {
+      "id": "101743",
+      "title": "Finding Patterns in the Clouds",
+      "description": "Cloud computing is quickly becoming the new normal for enterprise software developers. Whether it's more traditional Infrastructure-as-a-Service, container-based deployments, or fully serverless deployments, moving to the cloud offers something for almost every organization. But with it come new challenges for ensuring your applications are robust, scalable, fast, and don't overuse utilization-billed resources. Design patterns offer solutions to known challenges that can help you quickly recognize and address problems as you encounter them, saving you and your organization time and money. Come learn a few practical patterns that will help you avoid common problems with cloud-based systems.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
+      ],
+      "categoryItems": [
+        17155
+      ],
+      "questionAnswers": [],
+      "roomId": null
     }
   ],
   "speakers": [
@@ -1087,6 +1121,31 @@
         81813
       ],
       "fullName": "Håkan Silfvernagel"
+    },
+    {
+      "id": "3d29229e-bd3b-45d1-a097-db51abd12dfd",
+      "firstName": "Izzi",
+      "lastName": "Bikun",
+      "bio": "Izzi Bikun is a Senior Developer at Kroger and has worked there for 3 years. She has had a long career full of ups and downs, which has taught her a lot. She works primarily on back end microservices and is responsible enough to run Kroger's Microservices Guild. She has a vivacious, fun-loving spirit and enjoy organizing fun events/activities for her team. She is an athlete, devoting most of her summers to play Ultimate Frisbee at a highly competitive level. She is a chef and a baker, always bringing delicious treats to her friends and coworkers.  She loves doing various outdoor activities such as hiking, taking her dogs to the river, grilling out, and playing yard games. She loves to hang out with her friends and relax and engage in with ridiculously fun activities such as slip and slide hockey.",
+      "tagLine": "Senior Developer at Kroger",
+      "profilePicture": "https://sessionize.com/image?f=205562edbe9e68c839b53895d0e5b20a,400,400,True,False,9e-bd3b-45d1-a097-db51abd12dfd.b261b03e-3174-4527-9d26-2d0449dfecb3.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/izzib76",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/elizabethbikun/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        81714
+      ],
+      "fullName": "Izzi Bikun"
     },
     {
       "id": "9f4ec925-ce10-412c-adb2-966f3efd7621",
@@ -1852,6 +1911,41 @@
         81898
       ],
       "fullName": "Stacy Harrison"
+    },
+    {
+      "id": "a5d50f4e-f021-4983-97a9-73f9415b3d5b",
+      "firstName": "Steve",
+      "lastName": "Smith",
+      "bio": "Steve Smith (@ardalis) is an entrepreneur and software developer with a passion for building quality software as effectively as possible. Steve has published several courses on Pluralsight, covering DDD, SOLID, design patterns, and software architecture. He's a Microsoft ASP.NET MVP and Insider, a frequent speaker at developer conferences, an author, and a trainer.\r\n\r\nSteve works with companies that want to avoid the trap of technical debt by helping their teams deliver quality software, quickly. Steve and his team have been described by clients as a \"force multiplier\", amplifying the value of existing development teams. Steve's client list includes Microsoft, Quicken Loans, Celina Insurance, and many other satisfied customers.",
+      "tagLine": "I Help Teams Deliver Better Software",
+      "profilePicture": "https://sessionize.com/image?f=f430db7caff65c20c7731275a5cb10bd,400,400,True,False,4e-f021-4983-97a9-73f9415b3d5b.34dc742e-9a1e-4c87-98ad-c6bae9a07972.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/ardalis",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/pulse/activities/steve-smith+0_0QPGZK-8uzCcvG3lgaHzA7",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://ardalis.com/blog",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://ardalis.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        101743
+      ],
+      "fullName": "Steve Smith"
     },
     {
       "id": "993340a7-9ed4-4ea3-8f7b-5ee1601d0a97",

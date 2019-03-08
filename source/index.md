@@ -21,7 +21,7 @@ title: Tech & a Flick
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             <p class="date">Stir Trek - Columbus, OH</p>
             <p class="date">26 April 2019</p>
-            <p class="registerNow">Tickets go on sale 28 February @ 2:00PM - $150</p>
+            <p class="registerNow">Tickets SOLD OUT - Click for Wait List Info</p>
         </div>
     </a>
 </div>

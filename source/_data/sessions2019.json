@@ -816,6 +816,23 @@
       ],
       "questionAnswers": [],
       "roomId": null
+    },
+    {
+      "id": "102283",
+      "title": "Testing Without Examples (with Examples): A Look at Property-Based Testing",
+      "description": "Have you ever heard of an example-based test? Chances are, you've written one without even knowing it! Every time we write a test where the input of the test is known, it's an example-based test.\r\n\r\nLet's face it though, example-based tests can be hard to write. \"Did I think of every possible edge case?\" can be a tough question to answer. Sometimes we just don't know. Property-based tests are a great way to find those edge cases and can even help us fully understand how our code behaves under all conditions. Not just the ones we know about.\r\n\r\nIn this session, we'll learn all about the benefits (and drawbacks) of property-based testing through a series of examples using C# and FsCheck.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d2d9d3d4-e92e-4115-8ae4-6ca38d7fb20e"
+      ],
+      "categoryItems": [
+        17164
+      ],
+      "questionAnswers": [],
+      "roomId": null
     }
   ],
   "speakers": [
@@ -1488,6 +1505,41 @@
       "fullName": "John Merideth"
     },
     {
+      "id": "d2d9d3d4-e92e-4115-8ae4-6ca38d7fb20e",
+      "firstName": "John",
+      "lastName": "Reese",
+      "bio": "John Reese is a professional .NET developer and a Microsoft Certified Professional in C#. He is also an active open source contributor for Exercism, a learning platform used to teach test-driven development. In his free time, he enjoys playing hockey and video games, both of which he takes way too seriously.",
+      "tagLine": "om nom nom",
+      "profilePicture": "https://sessionize.com/image?f=49a11bc6477c5095e40608cf23af3e03,400,400,True,False,d4-e92e-4115-8ae4-6ca38d7fb20e.a0d36633-511a-49f0-ad65-07fe1527ca99.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/johnpreese/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://reese.dev",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/johnpreese",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.plex.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        102283
+      ],
+      "fullName": "John Reese"
+    },
+    {
       "id": "d108027a-7e26-46f5-b92d-9f6cb59eb283",
       "firstName": "Jonathan \"J.\"",
       "lastName": "Tower",
@@ -1530,7 +1582,13 @@
       "tagLine": "Senior Software Engineer and Team Lead at Insight",
       "profilePicture": "https://sessionize.com/image?f=9fbb09dc2cecdcbb643f59a5cc5a67ff,400,400,True,False,21-5dee-4abc-a461-b3a80d5ff1b8.496a6589-29d9-45f6-989e-2ea8fea41410.jpg",
       "isTopSpeaker": false,
-      "links": [],
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/andersonwood/",
+          "linkType": "LinkedIn"
+        }
+      ],
       "sessions": [
         83131
       ],

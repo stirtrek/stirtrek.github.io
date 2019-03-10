@@ -2237,42 +2237,42 @@
     },
     {
       "id": 4580,
-      "name": "Blue",
+      "name": "Captain America",
       "sort": 1
     },
     {
       "id": 4581,
-      "name": "Gauntlet",
+      "name": "Ant-Man",
       "sort": 2
     },
     {
       "id": 4582,
-      "name": "Green",
+      "name": "Bruce Banner",
       "sort": 3
     },
     {
       "id": 4583,
-      "name": "Orange",
+      "name": "Black Widow",
       "sort": 4
     },
     {
       "id": 4584,
-      "name": "Purple",
+      "name": "Rocket Raccoon",
       "sort": 5
     },
     {
       "id": 4585,
-      "name": "Red",
+      "name": "Iron Man",
       "sort": 6
     },
     {
       "id": 4586,
-      "name": "Thanos",
+      "name": "Thor",
       "sort": 7
     },
     {
       "id": 4587,
-      "name": "Yellow",
+      "name": "Captain Marvel",
       "sort": 8
     }
   ]

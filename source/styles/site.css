@@ -58,13 +58,13 @@ h1, h2, h3 {
 
 @media only screen and (max-width:960px) {
     #stirTrekHeroContainer {
-        margin-top: 150px
+        margin-top: 240px;
     }
     
     #stirTrekHeroContainer #dateAndCostContainer {
         position: static;
         width: auto !important;
-        margin-top: -100px;
+        margin-top: -200px;
     }
 }
 

@@ -104,23 +104,6 @@
       "roomId": null
     },
     {
-      "id": "81813",
-      "title": "Why you should consider Web Assembly in your next frontend project",
-      "description": "During the last decades a growing trend has been to put more and more functionality into the client by using the latest and greatest JavaScript framework. But what if we could be using native code in the browser in order to run computations faster and potentially reuse code from the backend in the frontend. \r\n\r\nEnter Web Assembly. Web assembly is a new web standard which enables you to run native code as part of your current JavaScript framework. This talk will give you a thorough understanding of what web assembly is and how you can use it in your project. \r\n\r\nWe will cover a practical example writing our web assembly using Rust. We will go through everything from writing your web assembly code to publish it as a npm package and finally use it in an existing web application.\r\n",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "cc4156db-2db1-47de-9578-6c9134ee6eee"
-      ],
-      "categoryItems": [
-        17165
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
       "id": "81856",
       "title": "The Automation Firehose: Be Strategic and Tactical",
       "description": "The widespread adoption of test automation has led to numerous challenges that range from development lifecycle integration to simple scripting strategy. Just because a scenario CAN be automated does not mean it SHOULD be automated. Teams that adopt automation often rush to automate everything they can -- the automation firehose. For those scenarios that should automated, every team must adopt an implementation plan to ensure value is derived from reliable automated test execution. In this session, the audience will learn how to automate both strategically and tactically to maximize the benefits of automation. Entry criteria will be demonstrated for automation in the development lifecycle along with a set of checks to determine automation feasibility & ROI. ",
@@ -833,6 +816,23 @@
       ],
       "questionAnswers": [],
       "roomId": null
+    },
+    {
+      "id": "102683",
+      "title": "WebAssembly: Into the WASM'verse",
+      "description": "Web development has always been synonymous with JavaScript development. That is, until now. WebAssembly (WASM) a new form of web development is starting to emerge that promises to open the door to entirely new ecosystems. In this session we'll explore the various WebAssembly universes including: Blazor/ mono-wasm, Rustwasm, and Emscripten. We'll also discuss where WASM and JavaScript intersect and combine powers.\r\nIn this session we'll explore the various WebAssembly universes including: Blazor/mono-wasm, Rustwasm, and Emscripten.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3fd9cade-10ef-43df-b124-944015042549"
+      ],
+      "categoryItems": [
+        17165
+      ],
+      "questionAnswers": [],
+      "roomId": null
     }
   ],
   "speakers": [
@@ -1008,6 +1008,41 @@
         82364
       ],
       "fullName": "Chris Bohatka"
+    },
+    {
+      "id": "3fd9cade-10ef-43df-b124-944015042549",
+      "firstName": "Ed",
+      "lastName": "Charbeneau",
+      "bio": "Ed is a Microsoft MVP and an international speaker, writer, online influencer, a Developer Advocate for Progress, and expert on all things web development. Ed enjoys geeking out to cool new tech, brainstorming about future technology, and admiring great design.\r\n\r\nEd has shared his insights, experiences, and advice around collaboration, knowledge management, social computing, and training at many industry events around the United States. Highly ethical and engaging with an uncanny business acumen, he is a creative community builder and outside the box thinker. Long term business relationships throughout the world within internal communications, employee engagement and marketing as well as IT. Focusing on Financial, Healthcare, Manufacturing, Agency and Professional Services. He has defined, architected, implemented line of business solutions with a touch of style and UX best practices.",
+      "tagLine": "Ed is a Microsoft MVP and an international speaker, writer, online influencer, a Developer Advocate for Progress.",
+      "profilePicture": "https://sessionize.com/image?f=620013644b881c44abfc4846b834cb39,400,400,True,False,de-10ef-43df-b124-944015042549.838cf823-0cb4-4141-acd9-709c4ce259f3.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://twitter.com/edcharbeneau",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "http://www.linkedin.com/in/edcharbeneau",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://edcharbeneau.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://telerik.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        102683
+      ],
+      "fullName": "Ed Charbeneau"
     },
     {
       "id": "b3b55b4f-3d74-4ca0-921a-e723705df3aa",
@@ -1480,7 +1515,7 @@
       "lastName": "Reese",
       "bio": "John Reese is a professional .NET developer and a Microsoft Certified Professional in C#. He is also an active open source contributor for Exercism, a learning platform used to teach test-driven development. In his free time, he enjoys playing hockey and video games, both of which he takes way too seriously.",
       "tagLine": "om nom nom",
-      "profilePicture": "https://sessionize.com/image?f=49a11bc6477c5095e40608cf23af3e03,400,400,True,False,d4-e92e-4115-8ae4-6ca38d7fb20e.a0d36633-511a-49f0-ad65-07fe1527ca99.jpg",
+      "profilePicture": "https://sessionize.com/image?f=27861a1582df8a9da9485fc4013358b7,400,400,True,False,d4-e92e-4115-8ae4-6ca38d7fb20e.a8c8a7f0-ee3f-4997-96bf-11b0b7ef1927.jpg",
       "isTopSpeaker": false,
       "links": [
         {

@@ -1110,36 +1110,6 @@
       "fullName": "Guy Royse"
     },
     {
-      "id": "cc4156db-2db1-47de-9578-6c9134ee6eee",
-      "firstName": "Håkan",
-      "lastName": "Silfvernagel",
-      "bio": "Håkan holds a Master of Science degree in Electrical Engineering and in addition, he holds a Master’s degree in Leadership and Organizational behavior. He has also taken courses on university level in psychology, interaction design and human-computer interaction. He has 19 years’ experience of software development in various positions such as developer, tester, architect, project manager, scrum master, practice manager and team lead. \r\n\r\nHåkan is also part of the local chapter of the Norwegian .NET User Group Oslo (NNUG).",
-      "tagLine": "Senior Consultant at Miles",
-      "profilePicture": "https://sessionize.com/image?f=bf613c94a0048b842a669cfa170a3690,400,400,True,False,db-2db1-47de-9578-6c9134ee6eee.3360fb91-9196-4570-afd1-1508a65c1ce6.png",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Twitter",
-          "url": "https://twitter.com/agrevlis",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/hakansilfvernagel/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://www.miles.no/",
-          "linkType": "Company_Website"
-        }
-      ],
-      "sessions": [
-        81813
-      ],
-      "fullName": "Håkan Silfvernagel"
-    },
-    {
       "id": "3d29229e-bd3b-45d1-a097-db51abd12dfd",
       "firstName": "Izzi",
       "lastName": "Bikun",

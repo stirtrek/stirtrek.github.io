@@ -17,6 +17,7 @@ title: Tech & a Flick
         <p class="date">26 April 2019</p>
         <p class="registerNow">Mark Your Calendar!</p>
     </div> -->
+
     <a href="https://stirtrek2019.eventbrite.com" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             <p class="date">Stir Trek - Columbus, OH</p>
@@ -24,6 +25,7 @@ title: Tech & a Flick
             <p class="registerNow">Tickets SOLD OUT - Click for Wait List Info</p>
         </div>
     </a>
+
 </div>
 
 <div class="row">

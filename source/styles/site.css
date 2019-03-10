@@ -40,31 +40,34 @@ h1, h2, h3 {
 }
 
 #stirTrekHeroContainer {
-    background: url("/images/thanos-header-1140x760.png") no-repeat top;
-    padding-top: 500px;
+    background: url("/images/Living-Heroes-Header-1140x744.png") no-repeat top;
     position: relative;
-    margin-top: -50px;
     font-family: 'Komika Axis', 'Comic Sans MS';
-}
-
-@media only screen and (max-width:960px) {
-    #stirTrekHeroContainer #dateAndCostContainer {
-        margin: 15px;
-        position: static;
-        width: auto !important;
-        top: 0 !important;
-    }
+    height: 744px;
+    margin-top: 100px;
 }
 
 #stirTrekHeroContainer #dateAndCostContainer {
     width: 300px;
-    position: relative;
-    top: -440px;
+    position: absolute;
+    top: -50px;
     text-transform: uppercase;
-    /* font-weight: bold; */
     padding: 20px;
     text-align: center;
 }
+
+@media only screen and (max-width:960px) {
+    #stirTrekHeroContainer {
+        margin-top: 150px
+    }
+    
+    #stirTrekHeroContainer #dateAndCostContainer {
+        position: static;
+        width: auto !important;
+        margin-top: -100px;
+    }
+}
+
 
 #stirTrekHeroContainer #dateAndCostContainer .date {
     font-size: 1.5em;

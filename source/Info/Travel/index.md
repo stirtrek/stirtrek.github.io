@@ -1,5 +1,7 @@
 ---
 title: Travel Information
+alias:
+- Resources/Travel/index.html
 ---
 
 # Getting to Stir Trek

@@ -42,7 +42,7 @@ The following are the dates you need to know for Stir Trek 2019:
 <hr>
 
 **Q: Is Stir Trek family-friendly?**
-**A:** Yes, we absolutely invite families to attend the conference.
+**A:** Yes, we absolutely invite families to attend the conference. The majority of content is for professional adults, but if you feel like a member of your family would benefit from attending you can buy that person a ticket. We also make a limited number of additional movie-only tickets available as we get closer to the event.
 
 <hr>
 

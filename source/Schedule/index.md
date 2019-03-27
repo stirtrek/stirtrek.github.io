@@ -28,4 +28,4 @@ title: Schedule
 # 2019 Schedule
 <div class="icon-hr"></div>
 Rooms and times are subject to change -- check back for changes.
-<div><div id="spotitQrImage"><a href="https://spotit.us/Facility?FacilityId=2944" target="_blank"><img src="/images/spotit-2019-qr.png" id="spotitqrcode2" class="img-thumbnail" alt="Spot It QR Code" title="Spot It QR Code"></a></div><div id="spotitQrText" style=""><strong>Intersted in an interactive session map of the venue?</strong><br>Scan the this QR code, or click it for a link to Spot It.</div><br>
+<div><div id="spotitQrImage"><a href="https://spotit.us/Facility?FacilityId=2944" target="_blank"><img src="/images/spotit-2019-qr.png" id="spotitqrcode2" class="img-thumbnail" alt="Spot It QR Code" title="Spot It QR Code"></a></div><div id="spotitQrText" style=""><strong>Interested in an interactive session map of the venue?</strong><br>Scan the this QR code, or click it for a link to Spot It.</div><br>

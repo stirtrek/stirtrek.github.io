@@ -385,6 +385,14 @@
       }
     ],
     "silver": [
+      {
+        "name": "Living Portrait Photography",
+        "level": "silver",
+        "link": "https://livingportraitphotography.com/",
+        "description": "The most beautiful things in life are often not something you can pose for. While i’m well versed in portraiture, my favorite shoots leave room for candid shots which really represent the love and magic in an authentic moment.",
+        "logo": "/images/sponsors/livingportrait.png"
+
+      }
 
     ]
   }

@@ -19,6 +19,40 @@
       "speakers": []
     },
     {
+      "id": "101743",
+      "title": "Finding Patterns in the Clouds",
+      "description": "Cloud computing is quickly becoming the new normal for enterprise software developers. Whether it's more traditional Infrastructure-as-a-Service, container-based deployments, or fully serverless deployments, moving to the cloud offers something for almost every organization. But with it come new challenges for ensuring your applications are robust, scalable, fast, and don't overuse utilization-billed resources. Design patterns offer solutions to known challenges that can help you quickly recognize and address problems as you encounter them, saving you and your organization time and money. Come learn a few practical patterns that will help you avoid common problems with cloud-based systems.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
+      ],
+      "categoryItems": [
+        6219
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "102683",
+      "title": "WebAssembly: Into the WASM'verse",
+      "description": "Web development has always been synonymous with JavaScript development. That is, until now. WebAssembly (WASM) is an emerging form of web development that promises to open the door to entirely new ecosystems. In this session we'll explore the various WebAssembly universes including: Blazor/ mono-wasm, Rustwasm, and Emscripten. We'll also discuss where WASM and JavaScript intersect and combine powers.\r\nIn this session we'll explore the various WebAssembly universes including: Blazor/mono-wasm, Rustwasm, and Emscripten.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3fd9cade-10ef-43df-b124-944015042549"
+      ],
+      "categoryItems": [
+        6227
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
       "id": "81714",
       "title": "Comments are Useless and Other Controversial Opinions About Code",
       "description": "Almost all of us have at one point learned a Bad Coding Habit™ that is so ingrained into our processes that we don't even realize what we're doing. In this interactive session, a member of the audience will drive the speaker's laptop as we examine a piece of Poorly Written Code and challenge the habits used to write the code. We will address perceptions on why developers like to rely on comments and give suggestions for how code can be refactored for comments to be removed. By end of the session we will have Well Designed Code that will challenge perceptions on how to write Good Code and help improve overall Code Quality and Working Habits. ",
@@ -30,7 +64,7 @@
         "3d29229e-bd3b-45d1-a097-db51abd12dfd"
       ],
       "categoryItems": [
-        17153
+        6217
       ],
       "questionAnswers": [],
       "roomId": null
@@ -47,7 +81,7 @@
         "402c1fb7-50cd-4784-bc1a-e713381a4e72"
       ],
       "categoryItems": [
-        17164
+        6226
       ],
       "questionAnswers": [],
       "roomId": null
@@ -64,7 +98,7 @@
         "3973e7f0-7d80-44cb-8831-b996f73f75f2"
       ],
       "categoryItems": [
-        17259
+        6309
       ],
       "questionAnswers": [],
       "roomId": null
@@ -81,7 +115,7 @@
         "76842364-2733-4aea-a940-7c81195e5120"
       ],
       "categoryItems": [
-        17155
+        6219
       ],
       "questionAnswers": [],
       "roomId": null
@@ -98,7 +132,7 @@
         "7fb46913-1a7b-43e2-9579-e620883815ea"
       ],
       "categoryItems": [
-        17156
+        6220
       ],
       "questionAnswers": [],
       "roomId": null
@@ -115,7 +149,7 @@
         "da1f3c6b-ce55-48df-824c-c6f681f77f8c"
       ],
       "categoryItems": [
-        17164
+        6226
       ],
       "questionAnswers": [],
       "roomId": null
@@ -132,7 +166,7 @@
         "d6efef12-0cc5-4fe1-b506-20bee22d0fff"
       ],
       "categoryItems": [
-        17156
+        6220
       ],
       "questionAnswers": [],
       "roomId": null
@@ -149,7 +183,7 @@
         "79ffb7a2-2c35-453b-8a95-405b1991a63c"
       ],
       "categoryItems": [
-        17165
+        6227
       ],
       "questionAnswers": [],
       "roomId": null
@@ -166,7 +200,7 @@
         "5a111e09-2922-4aff-a0eb-9b6691b6e8b2"
       ],
       "categoryItems": [
-        17161
+        6225
       ],
       "questionAnswers": [],
       "roomId": null
@@ -183,7 +217,7 @@
         "5f017dbb-6821-480b-a750-82a0f15fa1b2"
       ],
       "categoryItems": [
-        17166
+        6228
       ],
       "questionAnswers": [],
       "roomId": null
@@ -200,7 +234,7 @@
         "e97fad68-2b77-455b-a995-7f296abd4332"
       ],
       "categoryItems": [
-        17259
+        6309
       ],
       "questionAnswers": [],
       "roomId": null
@@ -217,7 +251,24 @@
         "993340a7-9ed4-4ea3-8f7b-5ee1601d0a97"
       ],
       "categoryItems": [
-        17160
+        6224
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "82183",
+      "title": "The Hidden Requirements: Exploring Emotions with Placebos",
+      "description": "The way we feel is important!\r\n \r\nAll that we think, do, or say is influenced, to some degree, by emotions. Many successful businesses and people recognize the importance of emotional considerations.\r\n \r\nThe way we feel is important and should be considered!\r\n \r\nAll software is intended to help solve some problem, and both problems and solutions evoke emotions. Software requirements are simply wants or needs, which often stem from core emotions. Research shows that emotions can affect the acceptance or rejection of software.\r\n \r\nThe way we feel about software is important and should be considered!\r\n \r\nA placebo is designed and used primarily to evoke emotions. Things like sugar pills, false elevator door close buttons, and fake office thermostats aim “to please”, rather than have any other physical effects. Placebo requirements focus on emotions. And so, considering software through the lens of a placebo can help emphasize emotional considerations, and provide a valuable perspective on bugs, ethical design, and much more.\r\n \r\nIn this session, I support the claims above, suggest some methods to elicit and test emotional requirements, and finally, use placebos as a lens to view software design and testing. Using presentations, demonstrations, and interactive discussions and exercises, we collaboratively explore why “The way we feel about software is important and should be considered!”.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "70c37ef4-ef7f-48be-b2a6-790c716b6d29"
+      ],
+      "categoryItems": [
+        6226
       ],
       "questionAnswers": [],
       "roomId": null
@@ -234,7 +285,7 @@
         "d2a1b94c-242d-4b85-a294-7e7148223998"
       ],
       "categoryItems": [
-        17155
+        6219
       ],
       "questionAnswers": [],
       "roomId": null
@@ -251,7 +302,7 @@
         "b3b55b4f-3d74-4ca0-921a-e723705df3aa"
       ],
       "categoryItems": [
-        17161
+        6225
       ],
       "questionAnswers": [],
       "roomId": null
@@ -268,7 +319,7 @@
         "e4602813-02ac-43c2-b90c-d6e9b00b9b35"
       ],
       "categoryItems": [
-        17153
+        6217
       ],
       "questionAnswers": [],
       "roomId": null
@@ -285,7 +336,7 @@
         "66178d4c-95e1-4a9b-b752-62c1ed63ca0c"
       ],
       "categoryItems": [
-        17165
+        6227
       ],
       "questionAnswers": [],
       "roomId": null
@@ -302,7 +353,7 @@
         "d108027a-7e26-46f5-b92d-9f6cb59eb283"
       ],
       "categoryItems": [
-        17153
+        6217
       ],
       "questionAnswers": [],
       "roomId": null
@@ -319,7 +370,7 @@
         "4b27e07a-b943-4364-9db8-9d9d564d60ab"
       ],
       "categoryItems": [
-        17154
+        6218
       ],
       "questionAnswers": [],
       "roomId": null
@@ -336,7 +387,7 @@
         "c06d9d21-5dee-4abc-a461-b3a80d5ff1b8"
       ],
       "categoryItems": [
-        17155
+        6219
       ],
       "questionAnswers": [],
       "roomId": null
@@ -353,7 +404,7 @@
         "97e1c796-8bf6-468b-b246-0efc6979b9e7"
       ],
       "categoryItems": [
-        17159
+        6223
       ],
       "questionAnswers": [],
       "roomId": null
@@ -370,7 +421,7 @@
         "db2cd162-6ad9-48d8-9cba-1a6799346abe"
       ],
       "categoryItems": [
-        17159
+        6223
       ],
       "questionAnswers": [],
       "roomId": null
@@ -387,7 +438,7 @@
         "887b6c2e-49a1-4fda-94cf-7ec421f61c3c"
       ],
       "categoryItems": [
-        17153
+        6217
       ],
       "questionAnswers": [],
       "roomId": null
@@ -404,7 +455,7 @@
         "94f89e09-9831-495d-8f94-ac5fbc91e998"
       ],
       "categoryItems": [
-        17157
+        6221
       ],
       "questionAnswers": [],
       "roomId": null
@@ -421,7 +472,7 @@
         "01b15b1c-44e4-4121-b057-ae7eb9c83934"
       ],
       "categoryItems": [
-        17158
+        6222
       ],
       "questionAnswers": [],
       "roomId": null
@@ -438,7 +489,7 @@
         "b3761cce-aaeb-4ca4-a5b3-40f162f6bcf8"
       ],
       "categoryItems": [
-        17259
+        6309
       ],
       "questionAnswers": [],
       "roomId": null
@@ -455,7 +506,7 @@
         "5b65f17e-cf5a-4746-84d6-217e6445931e"
       ],
       "categoryItems": [
-        17155
+        6219
       ],
       "questionAnswers": [],
       "roomId": null
@@ -472,7 +523,7 @@
         "520bf4ca-b2d3-47c3-8475-c25bb2b257f7"
       ],
       "categoryItems": [
-        17156
+        6220
       ],
       "questionAnswers": [],
       "roomId": null
@@ -489,7 +540,7 @@
         "45cd7b65-5c14-4dcc-8abb-5e6468e0be1e"
       ],
       "categoryItems": [
-        17156
+        6220
       ],
       "questionAnswers": [],
       "roomId": null
@@ -506,7 +557,7 @@
         "5698811a-4c31-4537-970d-e427009e0cca"
       ],
       "categoryItems": [
-        17158
+        6222
       ],
       "questionAnswers": [],
       "roomId": null
@@ -523,7 +574,7 @@
         "9f4ec925-ce10-412c-adb2-966f3efd7621"
       ],
       "categoryItems": [
-        17155
+        6219
       ],
       "questionAnswers": [],
       "roomId": null
@@ -540,7 +591,7 @@
         "3e903f94-c2bf-4543-aa77-9990467f4573"
       ],
       "categoryItems": [
-        17164
+        6226
       ],
       "questionAnswers": [],
       "roomId": null
@@ -557,7 +608,7 @@
         "46df2a45-b400-4d88-b6d9-dcd2f1f17e54"
       ],
       "categoryItems": [
-        17166
+        6228
       ],
       "questionAnswers": [],
       "roomId": null
@@ -574,7 +625,7 @@
         "73665d60-bb19-4cdd-919a-04bf4938d166"
       ],
       "categoryItems": [
-        17158
+        6222
       ],
       "questionAnswers": [],
       "roomId": null
@@ -591,7 +642,7 @@
         "2ab36140-1f0d-46b1-85f5-c8f0222a4c4c"
       ],
       "categoryItems": [
-        17259
+        6309
       ],
       "questionAnswers": [],
       "roomId": null
@@ -608,7 +659,7 @@
         "895a51db-5074-4a89-8fb6-e2d97be4f322"
       ],
       "categoryItems": [
-        17164
+        6226
       ],
       "questionAnswers": [],
       "roomId": null
@@ -625,7 +676,7 @@
         "2bcc628d-f41b-47d5-a36e-d926beb570fa"
       ],
       "categoryItems": [
-        17154
+        6218
       ],
       "questionAnswers": [],
       "roomId": null
@@ -642,7 +693,7 @@
         "0121492f-235c-4c2a-b558-8499bb907afe"
       ],
       "categoryItems": [
-        17259
+        6309
       ],
       "questionAnswers": [],
       "roomId": null
@@ -659,7 +710,7 @@
         "642466ae-f154-4d31-a367-277f82c665ba"
       ],
       "categoryItems": [
-        17157
+        6221
       ],
       "questionAnswers": [],
       "roomId": null
@@ -676,7 +727,7 @@
         "e5c5dcc8-0e4c-4ebf-a51c-195662d93362"
       ],
       "categoryItems": [
-        17158
+        6222
       ],
       "questionAnswers": [],
       "roomId": null
@@ -693,7 +744,7 @@
         "f48cd89b-cc9f-4478-bc40-ba541ed1c5c3"
       ],
       "categoryItems": [
-        17159
+        6223
       ],
       "questionAnswers": [],
       "roomId": null
@@ -710,7 +761,7 @@
         "7402ee51-4d35-497b-87bb-39e8f26553cf"
       ],
       "categoryItems": [
-        17165
+        6227
       ],
       "questionAnswers": [],
       "roomId": null
@@ -727,7 +778,7 @@
         "799b14db-fe81-4912-ba27-4fab3612181e"
       ],
       "categoryItems": [
-        17166
+        6228
       ],
       "questionAnswers": [],
       "roomId": null
@@ -744,7 +795,7 @@
         "0359504c-817a-470d-b72c-3e3eac9f2289"
       ],
       "categoryItems": [
-        17154
+        6218
       ],
       "questionAnswers": [],
       "roomId": null
@@ -761,7 +812,7 @@
         "9d0eeec3-1879-4aff-87d6-6bbea4786f6c"
       ],
       "categoryItems": [
-        17259
+        6309
       ],
       "questionAnswers": [],
       "roomId": null
@@ -778,58 +829,7 @@
         "d1f5518f-7c56-4c41-ad23-8e0565b3ba2f"
       ],
       "categoryItems": [
-        17259
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "101743",
-      "title": "Finding Patterns in the Clouds",
-      "description": "Cloud computing is quickly becoming the new normal for enterprise software developers. Whether it's more traditional Infrastructure-as-a-Service, container-based deployments, or fully serverless deployments, moving to the cloud offers something for almost every organization. But with it come new challenges for ensuring your applications are robust, scalable, fast, and don't overuse utilization-billed resources. Design patterns offer solutions to known challenges that can help you quickly recognize and address problems as you encounter them, saving you and your organization time and money. Come learn a few practical patterns that will help you avoid common problems with cloud-based systems.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
-      ],
-      "categoryItems": [
-        17155
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "102283",
-      "title": "Testing Without Examples (with Examples): A Look at Property-Based Testing",
-      "description": "Have you ever heard of an example-based test? Chances are, you've written one without even knowing it! Every time we write a test where the input of the test is known, it's an example-based test.\r\n\r\nLet's face it though, example-based tests can be hard to write. \"Did I think of every possible edge case?\" can be a tough question to answer. Sometimes we just don't know. Property-based tests are a great way to find those edge cases and can even help us fully understand how our code behaves under all conditions. Not just the ones we know about.\r\n\r\nIn this session, we'll learn all about the benefits (and drawbacks) of property-based testing through a series of examples using C# and FsCheck.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "d2d9d3d4-e92e-4115-8ae4-6ca38d7fb20e"
-      ],
-      "categoryItems": [
-        17164
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "102683",
-      "title": "WebAssembly: Into the WASM'verse",
-      "description": "Web development has always been synonymous with JavaScript development. That is, until now. WebAssembly (WASM) a new form of web development is starting to emerge that promises to open the door to entirely new ecosystems. In this session we'll explore the various WebAssembly universes including: Blazor/ mono-wasm, Rustwasm, and Emscripten. We'll also discuss where WASM and JavaScript intersect and combine powers.\r\nIn this session we'll explore the various WebAssembly universes including: Blazor/mono-wasm, Rustwasm, and Emscripten.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "3fd9cade-10ef-43df-b124-944015042549"
-      ],
-      "categoryItems": [
-        17165
+        6309
       ],
       "questionAnswers": [],
       "roomId": null
@@ -975,7 +975,7 @@
         },
         {
           "title": "Company Website",
-          "url": "http://www.phrehab.com",
+          "url": "http://www.scholarrx.com",
           "linkType": "Company_Website"
         }
       ],
@@ -1008,6 +1008,36 @@
         82364
       ],
       "fullName": "Chris Bohatka"
+    },
+    {
+      "id": "70c37ef4-ef7f-48be-b2a6-790c716b6d29",
+      "firstName": "Damian",
+      "lastName": "Synadinos",
+      "bio": "Damian Synadinos has been helping “build better software and build software better” for more than 24 years. Now, through his company Ineffable Solutions, Damian offers experienced-based and research-hardened talks, training, and consulting. Damian’s experience spans many roles and companies in diverse industries including airline, education, ecommerce, finance, insurance, and retail. He is an organizer of an annual, regional testing conference, and frequently mentors, coaches, and advises IT professionals around the world. Damian is also an international speaker and trainer, who supplements his vast and varied experience with deep research to present fundamental topics that are applicable to a wide range of contexts at numerous conferences and corporations.",
+      "tagLine": "building better software, and building software better",
+      "profilePicture": "https://sessionize.com/image?f=45ec3b1dff76b03f903752adc4e550c0,400,400,True,False,f4-ef7f-48be-b2a6-790c716b6d29.09cdea8f-31d8-45d9-ae3e-6c3849b27d6f.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/dsynadinos",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/damiansynadinos/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.ineffable-solutions.com/blog",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        82183
+      ],
+      "fullName": "damian synadinos"
     },
     {
       "id": "3fd9cade-10ef-43df-b124-944015042549",
@@ -1510,41 +1540,6 @@
       "fullName": "John Merideth"
     },
     {
-      "id": "d2d9d3d4-e92e-4115-8ae4-6ca38d7fb20e",
-      "firstName": "John",
-      "lastName": "Reese",
-      "bio": "John Reese is a professional .NET developer and a Microsoft Certified Professional in C#. He is also an active open source contributor for Exercism, a learning platform used to teach test-driven development. In his free time, he enjoys playing hockey and video games, both of which he takes way too seriously.",
-      "tagLine": "om nom nom",
-      "profilePicture": "https://sessionize.com/image?f=27861a1582df8a9da9485fc4013358b7,400,400,True,False,d4-e92e-4115-8ae4-6ca38d7fb20e.a8c8a7f0-ee3f-4997-96bf-11b0b7ef1927.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/johnpreese/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://reese.dev",
-          "linkType": "Blog"
-        },
-        {
-          "title": "Twitter",
-          "url": "https://twitter.com/johnpreese",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://www.plex.com",
-          "linkType": "Company_Website"
-        }
-      ],
-      "sessions": [
-        102283
-      ],
-      "fullName": "John Reese"
-    },
-    {
       "id": "d108027a-7e26-46f5-b92d-9f6cb59eb283",
       "firstName": "Jonathan \"J.\"",
       "lastName": "Tower",
@@ -1592,6 +1587,11 @@
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/andersonwood/",
           "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.insight.com/en_US/solve/digital-innovation.html",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [
@@ -1822,7 +1822,7 @@
       "lastName": "Skaggs",
       "bio": "Russell is a Creative Technologist within the Huntington Digital UX team. Prior to coming to Huntington, he spent the majority of his career architecting and implementing front-end solutions for digital agencies and their clients. Most recently, he has been focusing on working with Huntington IT to develop and maintain a scalable CSS architecture for our authenticated space. He is prone to spelling misteaks, and spends his free time hitting fellow nerds with foam swords.",
       "tagLine": "Creative Technologist @ Huntington",
-      "profilePicture": "https://sessionize.com/image?f=243f3387aa11e5600f98cec0dcf789db,400,400,True,False,51-4d35-497b-87bb-39e8f26553cf.ae16cef5-7f94-41c5-bc03-e2b58198a34b.png",
+      "profilePicture": "https://sessionize.com/image?f=c60840be7a38eca86ce3510eb0fd69e0,400,400,True,False,51-4d35-497b-87bb-39e8f26553cf.98cacf43-6aee-4315-8603-a9f687b9eb53.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -2016,12 +2016,12 @@
       "lastName": "Alexis",
       "bio": "Tae'lur Alexis is a Seattle, WA.-based Front-End Engineer and Founder of CodeEveryday, a platform to help those with non-traditional backgrounds get access to the resources needed to transform their life with code and get into tech. She also produces content on Egghead & hosts live study sessions on Twitch. ",
       "tagLine": "React Native Engineer, CEO of CodeEveryday, and advocate for Accessibility & Inclusion in Tech",
-      "profilePicture": "https://sessionize.com/image?f=8d475c5d19d3f8c6cf5c64d013511548,400,400,True,False,a7-9ed4-4ea3-8f7b-5ee1601d0a97.4f1fc0c6-5c55-4398-9d6b-44726a658396.jpg",
+      "profilePicture": "https://sessionize.com/image?f=4dba1fee2b2f0a84674c35c2b3501cd6,400,400,True,False,a7-9ed4-4ea3-8f7b-5ee1601d0a97.11f52439-db4e-4083-82cf-3e50de6232de.jpg",
       "isTopSpeaker": false,
       "links": [
         {
           "title": "Twitter",
-          "url": "https://twitter.com/cyberbarbie",
+          "url": "https://twitter.com/taeluralexis",
           "linkType": "Twitter"
         },
         {
@@ -2157,71 +2157,71 @@
   "questions": [],
   "categories": [
     {
-      "id": 3591,
+      "id": 1743,
       "title": "Track",
       "items": [
         {
-          "id": 17153,
+          "id": 6217,
           "name": "App Dev (Languages, Frameworks, etc.)",
           "sort": 1
         },
         {
-          "id": 17154,
+          "id": 6218,
           "name": "Architecture / Patterns",
           "sort": 2
         },
         {
-          "id": 17155,
+          "id": 6219,
           "name": "Cloud / Infrastructure",
           "sort": 3
         },
         {
-          "id": 17156,
+          "id": 6220,
           "name": "Data / Storage / BI",
           "sort": 4
         },
         {
-          "id": 17157,
+          "id": 6221,
           "name": "Design (UI, UX, IA, etc.)",
           "sort": 5
         },
         {
-          "id": 17158,
+          "id": 6222,
           "name": "DevOps / ALM",
           "sort": 6
         },
         {
-          "id": 17159,
+          "id": 6223,
           "name": "Iot / Maker",
           "sort": 7
         },
         {
-          "id": 17160,
+          "id": 6224,
           "name": "Mobile / Client",
           "sort": 8
         },
         {
-          "id": 17259,
+          "id": 6309,
           "name": "Professional Skills/Soft Skills",
           "sort": 9
         },
         {
-          "id": 17161,
+          "id": 6225,
           "name": "Security",
           "sort": 10
         },
         {
-          "id": 17164,
+          "id": 6226,
           "name": "Testing / Quality",
           "sort": 11
         },
         {
-          "id": 17165,
+          "id": 6227,
           "name": "Web (HTML, JavaScript, CSS, etc.)",
           "sort": 12
         },
         {
-          "id": 17166,
+          "id": 6228,
           "name": "Misc *.*",
           "sort": 13
         }
@@ -2229,51 +2229,5 @@
       "sort": 2
     }
   ],
-  "rooms": [
-    {
-      "id": 4579,
-      "name": "Concourse",
-      "sort": 0
-    },
-    {
-      "id": 4580,
-      "name": "Captain America",
-      "sort": 1
-    },
-    {
-      "id": 4581,
-      "name": "Ant-Man",
-      "sort": 2
-    },
-    {
-      "id": 4582,
-      "name": "Bruce Banner",
-      "sort": 3
-    },
-    {
-      "id": 4583,
-      "name": "Black Widow",
-      "sort": 4
-    },
-    {
-      "id": 4584,
-      "name": "Rocket Raccoon",
-      "sort": 5
-    },
-    {
-      "id": 4585,
-      "name": "Iron Man",
-      "sort": 6
-    },
-    {
-      "id": 4586,
-      "name": "Thor",
-      "sort": 7
-    },
-    {
-      "id": 4587,
-      "name": "Captain Marvel",
-      "sort": 8
-    }
-  ]
+  "rooms": []
 }

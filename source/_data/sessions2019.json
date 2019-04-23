@@ -597,6 +597,23 @@
       "roomId": null
     },
     {
+      "id": "85298",
+      "title": "Ultimate Presentation Formula for Nerds",
+      "description": "As a techie, we need to be able to talk to more than just 1s and 0s.  Talking to computers is great but we also need to be able to talk to humans and give an effective presentations if we want to be seen as the go to expert.  Join me in this interactive session to get the critical techniques I used to grow from 0 talks to giving 200+ talks at over 75 events around the world.    \r\n\r\nPublic speaking just like talking is a skill that can be learned with the right training and mentorship.  Being shy and introverted doesn't have to doom you to a life of only talking to computers even though it is really cool to talk to computers. \r\n\r\nYou will walk away inspired to share your knowledge and be seen as the go to expert.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3e903f94-c2bf-4543-aa77-9990467f4573"
+      ],
+      "categoryItems": [
+        6309
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },    
+    {
       "id": "85493",
       "title": "Waterfall Requirements in an Agile World: Don't Throw the Baby Out with the Bathwater",
       "description": "When the world went Agile, BAs everywhere were quick to abandon traditional requirements like \"the system must...\", \"the system shall...\", etc.  But there is still very much a place for waterfall requirements and the techniques used to elicit them in our modern world.  In this presentation, I'll talk through the value the BA brings to the table in any software development, with special emphasis on how waterfalls skills and techniques can benefit Agile.  At least three types of people can benefit:  those that used to be waterfall and wonder how to fit into an Agile world; those that wonder if their old waterfall experience can be leveraged at all; and those that don't know anything about waterfall and may want to learn some new techniques.",
@@ -983,31 +1000,6 @@
         81760
       ],
       "fullName": "Chad Green"
-    },
-    {
-      "id": "e4602813-02ac-43c2-b90c-d6e9b00b9b35",
-      "firstName": "Chris",
-      "lastName": "Bohatka",
-      "bio": "Chris Bohatka is a passionate leader in the software development community with experience cross-cutting the entire technology stack. Chris is constantly looking for ways to bridge the gap between development and design. He takes pride in delivering modern web experiences at scale, and places a strong emphasis on delivering innovation through software craftsmanship. Over the course of his career, he has assisted with transitioning several project teams to agile, assuming the role of scrum master & product owner alongside his other roles. Chris is currently an Applications Manager at CardinalCommerce, a Visa Company, in Mentor, OH and a co-organizer of the Cleveland Agile Group.",
-      "tagLine": "Applications Manager - CardinalCommerce, a Visa Company",
-      "profilePicture": "https://sessionize.com/image?f=5a4a6b8c776ae7880262d27cf96857cd,400,400,True,False,13-02ac-43c2-b90c-d6e9b00b9b35.a5c7d573-296a-4c23-9fd1-e5dbde59cfe7.JPG",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Twitter",
-          "url": "https://twitter.com/cjb5790",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "Blog",
-          "url": "http://chrisbohatka.com",
-          "linkType": "Blog"
-        }
-      ],
-      "sessions": [
-        82364
-      ],
-      "fullName": "Chris Bohatka"
     },
     {
       "id": "70c37ef4-ef7f-48be-b2a6-790c716b6d29",
@@ -1960,20 +1952,6 @@
         81869
       ],
       "fullName": "Sho Fola"
-    },
-    {
-      "id": "79ffb7a2-2c35-453b-8a95-405b1991a63c",
-      "firstName": "Stacy",
-      "lastName": "Harrison",
-      "bio": "Stacy Harrison is currently a software developer in Northeast Ohio, and formerly worked as an award-winning designer, marketing specialist, and copywriter for women entrepreneurs. Ask her about pinball, proper kerning, accessibility, importance of mentorship, or extravagant celebrity purchases.",
-      "tagLine": "Front-End Developer",
-      "profilePicture": "https://sessionize.com/image?f=d2d401d70c409df5c76f649fe9791a2f,400,400,True,False,a2-2c35-453b-8a95-405b1991a63c.b636c0c4-ab15-4f53-a903-180a653b50d5.jpeg",
-      "isTopSpeaker": false,
-      "links": [],
-      "sessions": [
-        81898
-      ],
-      "fullName": "Stacy Harrison"
     },
     {
       "id": "a5d50f4e-f021-4983-97a9-73f9415b3d5b",

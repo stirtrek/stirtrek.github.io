@@ -30,10 +30,6 @@
                             "scheduledRoom": "HMB"
                         },
                         {
-                            "id": 82364,
-                            "scheduledRoom": "Pillar"
-                        },
-                        {
                             "id": 85936,
                             "scheduledRoom": "Leading EDJE"
                         },
@@ -96,7 +92,7 @@
                             "scheduledRoom": "Manifest"
                         },
                         {
-                            "id": 81898,
+                            "id": 85298,
                             "scheduledRoom": "MPW"
                         },
                         {

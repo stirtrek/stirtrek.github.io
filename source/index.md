@@ -32,6 +32,16 @@ title: Tech & a Flick
     <div class="col-md-6">
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
+                <div class="comic-panel-header offset comic-panel-gold">
+                    Slack
+                </div>
+                <div class="comic-panel-body with-header">
+                    <a href="http://stirtrekslack.herokuapp.com/">Click here to join our <img class="" style="max-width: 100px;" src="images/Slack_RGB.svg"></a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-10 col-md-offset-1">
                 <div class="comic-panel-header offset comic-panel-highlighted">
                     What Is Stir Trek?
                 </div>

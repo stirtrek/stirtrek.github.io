@@ -104,6 +104,23 @@
       "roomId": null
     },
     {
+      "id": "121690",
+      "title": "What's New In C#",
+      "description": "Normally, sessions about language features only happen well before the release of the new language, leaving you with plenty of time for you to forget everything you've learned before you can even use the code! Not here! In this fast-paced session, Brendan will show you the recent, practical improvements added to C# that you can take back with you and immediately start using to clean up and improve your own code. After those, he'll show you what's on the horizon for C# that you'll get when C# 8 is finally release. This is definitely a session you won't want to miss!\r\n",
+      "startsAt": "2019-04-26T08:30:00",
+      "endsAt": "2019-04-26T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1dbfb6bc-c1f2-44af-9294-3614597b165e"
+      ],
+      "categoryItems": [
+        6217
+      ],
+      "questionAnswers": [],
+      "roomId": 4584
+    },
+    {
       "id": "81760",
       "title": "Azure Durable Functions for Serverless .NET Orchestration",
       "description": "Durable Functions is a new open-source extension to Azure Functions that enable long running orchestrations and stateful processes to execute as serverless functions.  Learn how to write durable functions, and patterns and best practices to write simple or complex stateful orchestrations.",
@@ -935,6 +952,41 @@
         86086
       ],
       "fullName": "Ben Burgett"
+    },
+    {
+      "id": "1dbfb6bc-c1f2-44af-9294-3614597b165e",
+      "firstName": "Brendan",
+      "lastName": "Enrick",
+      "bio": "I try to leave code better than I found it.",
+      "tagLine": "Clean Coder",
+      "profilePicture": "https://sessionize.com/image?f=3d3f63294a782d6944f1a9e3f24cc6f3,400,400,True,False,bc-c1f2-44af-9294-3614597b165e.4483d332-5a61-44e7-8405-57d97d62d39a.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/brendoneus",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "Blog",
+          "url": "http://brendan.enrick.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://app.deviq.com",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Twitch.tv/DevChatter",
+          "url": "https://www.twitch.tv/devchatter",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        121690
+      ],
+      "fullName": "Brendan Enrick"
     },
     {
       "id": "2ab36140-1f0d-46b1-85f5-c8f0222a4c4c",

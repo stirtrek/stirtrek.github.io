@@ -1,5 +1,8 @@
 ---
 title: Schedule
+alias:
+- schedule/index.html
+- SCHEDULE/index.html
 ---
 
 <style>

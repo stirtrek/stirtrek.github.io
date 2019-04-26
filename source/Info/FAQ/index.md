@@ -53,3 +53,8 @@ The following are the dates you need to know for Stir Trek 2019:
 
 **Q: What is the dress code?**
 **A:** We would like all attendees to be comfortable during the sessions at Stir Trek.  The dress code is casual but please be mindful that this is a professional community conference and, while not the primary focus, there are some younger attendees so be mindful of them.
+
+<hr>
+
+**Q: When does the movie start? The schedule says 5:30 but...**
+**A:** Popcorn will be available immediately after the last session. Trailers will start shortly after 5pm. The movie will begin by 5:30 (the **actual** movie - not trailers).

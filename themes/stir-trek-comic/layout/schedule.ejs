@@ -58,12 +58,12 @@
                                 <% var thisCategory = allCategories.find(c => c.id === sessionInfo.categoryItems[0]); %>
 
                                 <td><%= thisCategory.name %></td>
-                                <td class="room-cell"><%= sessionSlot.scheduledRoom %></td>
+                                <td class="room-cell"><%= sessionSlot.scheduledRoom %> Theater</td>
                             <% } else { %>
                                 <td><%= sessionInfo.title %></td>
                                 <td class="speaker-cell">
                                 <td></td>
-                                <td class="room-cell"><%= sessionSlot.scheduledRoom %></td>
+                                <td class="room-cell"><%= sessionSlot.scheduledRoom %> Theater</td>
                             <% } %>
 
                         </tr>

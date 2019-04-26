@@ -1,6 +1,11 @@
 ---
 title: Speakers
 year: 2019
+alias:
+- speakers/index.html
+- speakers
+- SPEAKERS/index.html
+- SPEAKERS/
 ---
 
 # 2019 Speakers

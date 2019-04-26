@@ -3,7 +3,7 @@ title: Speakers
 year: 2019
 alias:
 - speakers/index.html
-- speakers
+- speakers/
 - SPEAKERS/index.html
 - SPEAKERS/
 ---

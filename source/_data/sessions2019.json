@@ -155,6 +155,23 @@
       "roomId": null
     },
     {
+      "id": "82028",
+      "title": "One Codebase to Rule Them All - Using React Native Everywhere",
+      "description": "With React Native and tools like React Native Web, React Native Dom, and React XP it is possible to share nearly all of the same code between web, iOS, android, and windows apps. With the addition of Electron, that same codebase can be used to create Mac and Linux apps too! This talk will go through some of the leading approaches and provide real world examples of production apps using these technologies. ",
+      "startsAt": "2019-04-26T15:30:00",
+      "endsAt": "2019-04-26T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e97fad68-2b77-455b-a995-7f296abd4332"
+      ],
+      "categoryItems": [
+        6217
+      ],
+      "questionAnswers": [],
+      "roomId": 4585
+    },    
+    {
       "id": "81856",
       "title": "The Automation Firehose: Be Strategic and Tactical",
       "description": "The widespread adoption of test automation has led to numerous challenges that range from development lifecycle integration to simple scripting strategy. Just because a scenario CAN be automated does not mean it SHOULD be automated. Teams that adopt automation often rush to automate everything they can -- the automation firehose. For those scenarios that should automated, every team must adopt an implementation plan to ensure value is derived from reliable automated test execution. In this session, the audience will learn how to automate both strategically and tactically to maximize the benefits of automation. Entry criteria will be demonstrated for automation in the development lifecycle along with a set of checks to determine automation feasibility & ROI. ",
@@ -1424,7 +1441,8 @@
         }
       ],
       "sessions": [
-        82032
+        82032,
+        82028
       ],
       "fullName": "Jesse Weigel"
     },

@@ -172,7 +172,7 @@
             <div class="comic-panel-header comic-panel-highlighted">
                     Session!
             </div>
-            <% for (var session of page.sessions) { %>
+            <% for (let session of page.sessions) { %>
                 <h2><%= session.title %></h2>
                 <br>
                 <div>
@@ -186,12 +186,20 @@
                 Where/When?
             </div>
 
-            <% if(session.time && session.room) { %>
-            <h2>Time: <%= session.time %></h2>
-            <h2>Room: <%= session.room %></h2>
-            <% } else { %>
-            <h2>Schedule TBD</h2>
+            <% for (let session of page.sessions) { %>
+                <% if(session.time && session.room) { %>
+                    <h2>Time: <%= session.time %></h2>
+                    <h2>Room: <%= session.room %></h2>
+                <% } else { %>
+                    <h2>Schedule TBD</h2>
+                <% } %>
+
+                <% if(page.sessions.length > 1 && page.sessions.indexOf(session) != (page.sessions.length-1) ) {%>
+                    <br>
+                <% } %>
             <% } %>
+
+
         </div>
 
         <div class="stirTrekPanel comic-panel-body">

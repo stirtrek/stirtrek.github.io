@@ -2041,41 +2041,6 @@
       "fullName": "Steve Smith"
     },
     {
-      "id": "993340a7-9ed4-4ea3-8f7b-5ee1601d0a97",
-      "firstName": "Tae'lur",
-      "lastName": "Alexis",
-      "bio": "Tae'lur Alexis is a Seattle, WA.-based Front-End Engineer and Founder of CodeEveryday, a platform to help those with non-traditional backgrounds get access to the resources needed to transform their life with code and get into tech. She also produces content on Egghead & hosts live study sessions on Twitch. ",
-      "tagLine": "React Native Engineer, CEO of CodeEveryday, and advocate for Accessibility & Inclusion in Tech",
-      "profilePicture": "https://sessionize.com/image?f=4dba1fee2b2f0a84674c35c2b3501cd6,400,400,True,False,a7-9ed4-4ea3-8f7b-5ee1601d0a97.11f52439-db4e-4083-82cf-3e50de6232de.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Twitter",
-          "url": "https://twitter.com/taeluralexis",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/tae-lur-alexis-966a50104/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://taeluralexis.com",
-          "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://codeeveryday.io",
-          "linkType": "Company_Website"
-        }
-      ],
-      "sessions": [
-        82110
-      ],
-      "fullName": "Tae'lur Alexis"
-    },
-    {
       "id": "da1f3c6b-ce55-48df-824c-c6f681f77f8c",
       "firstName": "Thomas",
       "lastName": "Haver",

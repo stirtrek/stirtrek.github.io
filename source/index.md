@@ -18,11 +18,10 @@ title: Tech & a Flick
         <p class="registerNow">Mark Your Calendar!</p>
     </div> -->
 
-    <a href="https://stirtrek2019.eventbrite.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.youtube.com/stirtrek" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             <p class="date">Stir Trek - Columbus, OH</p>
-            <p class="date">26 April 2019</p>
-            <p class="registerNow">Tickets SOLD OUT - Click for Wait List Info</p>
+            <p class="registerNow">View the recorded sessions on YouTube</p>
         </div>
     </a>
 
@@ -30,16 +29,6 @@ title: Tech & a Flick
 
 <div class="row">
     <div class="col-md-6">
-        <div class="row">
-            <div class="col-md-10 col-md-offset-1">
-                <div class="comic-panel-header offset comic-panel-gold">
-                    Slack
-                </div>
-                <div class="comic-panel-body with-header">
-                    <a href="http://stirtrekslack.herokuapp.com/">Click here to join our <img class="" style="max-width: 100px;" src="images/Slack_RGB.svg"></a>
-                </div>
-            </div>
-        </div>
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
                 <div class="comic-panel-header offset comic-panel-highlighted">

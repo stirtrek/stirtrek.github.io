@@ -344,6 +344,10 @@ section {
     top: -40px;
 }
 
+.comic-panel-body a {
+    color: #34344c;
+}
+
 .comic-panel-inset {
     height: 50px;
     width: 50px;
@@ -367,6 +371,7 @@ section {
     position: relative;
     display: inline-block;
     z-index: 11;
+    background-color: #63ac91;
 }
 
 @media screen and (min-width:500px) {
@@ -538,6 +543,7 @@ input[type="checkbox"].input-validation-error {
 
 a {
     color: #d7c875;
+    font-weight: bold;
 }
 
 a:visited {

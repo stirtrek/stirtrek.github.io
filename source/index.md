@@ -31,17 +31,15 @@ title: Tech & a Flick
     <div class="col-md-6">
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
-                <div class="comic-panel-header offset comic-panel-highlighted">
+                <div class="comic-panel-header offset">
                     What Is Stir Trek?
                 </div>
                 <div class="comic-panel-body with-header">
                     Stir Trek is a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a screening of a blockbuster film on its <i>(originally scheduled)</i> opening day. Pretty sweet, huh?
                     <br>
                     <br>
-                    <strong>
-                        <span class="goldCalloutText">AMC Easton 30,</span>
-                    </strong>
-                    <span> Columbus, OH</span>
+                    <a href="https://goo.gl/maps/wVdUQNDfXd9Zxd2P8">AMC Easton 30</a>
+                    , Columbus, OH
                 </div>
             </div>
         </div>
@@ -104,7 +102,7 @@ title: Tech & a Flick
     <div class="col-md-6">
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
-                <div class="comic-panel-header offset comic-panel-highlighted">Mega Food Drive</div>
+                <div class="comic-panel-header offset">Mega Food Drive</div>
                 <div class="comic-panel-body with-header">
                     Be <strong>awesome</strong>. Help those in need. Bring non-perishable food. Donate it. Maybe win something.
                     <p class="small">

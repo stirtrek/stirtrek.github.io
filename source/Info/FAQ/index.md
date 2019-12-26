@@ -16,17 +16,18 @@ Hi, and welcome to the awesome that makes up Stir Trek.  This page should have t
 Our goal is to create the best technology events you’ve ever experienced. We are [committed to diversity](/Info/CommitmentToDiversity) and will not stand for [harassment](/Info/AntiHarassmentPolicy) of any kind, but we cannot do this alone. We need your help and support in our mission. Everyone must abide by our [code of conduct](/Info/CodeOfConduct), and if you witness something please tell one of our staff members, so we have an opportunity to address it.
 
 ## Important Dates
-The following are the dates you need to know for Stir Trek 2019:
+The following are the dates you need to know for Stir Trek 2020:
 
-* 12/1/2018 - Call for sponsors opens
-* 1/13/2019 - CFP opens
-* 2/2/2019  - CFP closes
-* 2/28/2019 - Tickets go on sale. They usually sell out in minutes. Be ready!
-* 3/26/2019 - Last day for refunds
-* 3/30/2019 - Last day to edit shipping information in Eventbrite
-* 4/16/2019 - Boxes begin shipping
-* 4/25/2019 - Pre-conference activities, like our annual board game night. Details to come.
-* 4/26/2019 - Stir Trek 2019!
+* 12/2/2019 - Call for sponsors opens
+* 1/12/2020 - CFP opens
+* 2/1/2020  - CFP closes
+* 2/28/2020* - Tickets go on sale. They sell out in minutes. Be ready!
+* 3/26/2020* - Last day for refunds
+* 3/30/2020* - Last day to edit shipping information in Eventbrite
+* 4/16/2020* - Boxes begin shipping
+* 5/1/2020 - Stir Trek 2020!
+
+\*Dates to be confirmed soon, but these should be close! 
 
 
 ## Questions

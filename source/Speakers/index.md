@@ -8,7 +8,7 @@ alias:
 - SPEAKERS/
 ---
 
-# 2019 Speakers
+# Last Year's (2019) Speakers
 
 <div class="icon-hr"></div>
 <br>

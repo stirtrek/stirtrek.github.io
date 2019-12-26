@@ -12,19 +12,17 @@ title: Tech & a Flick
             <p class="cost">Only $99 bucks</p>
         </div>
     </a> -->
-    <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+    <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
-        <p class="date">26 April 2019</p>
+        <p class="date">1 May 2020</p>
         <p class="registerNow">Mark Your Calendar!</p>
-    </div> -->
-
-    <a href="https://www.youtube.com/stirtrek" target="_blank" rel="noopener noreferrer">
+    </div>
+    <!-- <a href="https://www.youtube.com/stirtrek" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             <p class="date">Stir Trek - Columbus, OH</p>
             <p class="registerNow">View the recorded sessions on YouTube</p>
         </div>
-    </a>
-
+    </a> -->
 </div>
 
 <div class="row">

@@ -18,17 +18,14 @@ Our goal is to create the best technology events you’ve ever experienced. We a
 ## Important Dates
 The following are the dates you need to know for Stir Trek 2020:
 
-* 12/2/2019 - Call for sponsors opens
-* 1/12/2020 - CFP opens
-* 2/1/2020  - CFP closes
-* 2/28/2020* - Tickets go on sale. They sell out in minutes. Be ready!
-* 3/26/2020* - Last day for refunds
-* 3/30/2020* - Last day to edit shipping information in Eventbrite
-* 4/16/2020* - Boxes begin shipping
-* 5/1/2020 - Stir Trek 2020!
-
-\*Dates to be confirmed soon, but these should be close! 
-
+* **12/2/2019** - Call for sponsors opens
+* **1/12/2020** - CFP opens
+* **2/1/2020**  - CFP closes
+* **TBD** - Tickets go on sale. They sell out in minutes. Be ready!
+* **TBD** - Last day for refunds
+* **TBD** - Last day to edit shipping information in Eventbrite
+* **TBD** - Boxes begin shipping
+* **5/1/2020** - Stir Trek 2020!
 
 ## Questions
 

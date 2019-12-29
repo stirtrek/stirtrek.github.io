@@ -15,7 +15,6 @@ title: Tech & a Flick
     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">1 May 2020</p>
-        <p class="registerNow">Mark Your Calendar!</p>
     </div>
     <!-- <a href="https://www.youtube.com/stirtrek" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
@@ -87,12 +86,19 @@ title: Tech & a Flick
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
                 <div class="comic-panel-header offset">
-                    Side Quests
+                    Important Dates
                 </div>
-                <div class="comic-panel-body with-header">
-                    <h3>Boardgames</h3>
-                    <br> We're planning on a board game night for Thursday, April 25th (the night before the
-                    conference).
+                <div class="comic-panel-body with-header small">
+{% endraw %}
+* **12/2/2019** - Call for sponsors opens
+* **1/12/2020** - CFP opens
+* **2/1/2020**  - CFP closes
+* **TBD** - Tickets go on sale
+* **TBD** - Last day for refunds
+* **TBD** - Last day to edit shipping information
+* **TBD** - Boxes begin shipping
+* **5/1/2020** - Stir Trek 2020!
+{% raw %}
                 </div>
             </div>
         </div>

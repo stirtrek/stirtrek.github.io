@@ -49,8 +49,8 @@ title: Tech & a Flick
                     <ul>
                         <li>48 Sessions of critical content</li>
                         <li>Well-known regional &amp; national Speakers</li>
-                        <li>Screening of Marvel's <a href="https://www.marvel.com/movies/avengers-endgame">Avengers: Endgame</a></li>
-                        <li>Breakfast and Lunch</li>
+                        <li>Screening of Marvel's <a href="https://www.marvel.com/movies/black-widow">Black Widow</a></li>
+                        <li>Breakfast and Lunch</li>I'll 
                         <li>Refreshments during the movie</li>
                         <li>Registration box with fun bonus swag</li>
                     </ul>
@@ -60,7 +60,7 @@ title: Tech & a Flick
                     <ul>
                         <li>I am Groot.</li>
                         <li>I am Groot.</li>
-                        <li>I am <a href="https://www.marvel.com/movies/avengers-endgame">Groot</a>.</li>
+                        <li>I am <a href="https://www.marvel.com/movies/black-widow">Groot</a>.</li>
                         <li>I am Groot.</li>
                         <li>I am Groot.</li>
                         <li>I am Groot.</li>

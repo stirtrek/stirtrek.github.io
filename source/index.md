@@ -50,7 +50,7 @@ title: Tech & a Flick
                         <li>48 Sessions of critical content</li>
                         <li>Well-known regional &amp; national Speakers</li>
                         <li>Screening of Marvel's <a href="https://www.marvel.com/movies/black-widow">Black Widow</a></li>
-                        <li>Breakfast and Lunch</li>I'll 
+                        <li>Breakfast and Lunch</li>
                         <li>Refreshments during the movie</li>
                         <li>Registration box with fun bonus swag</li>
                     </ul>

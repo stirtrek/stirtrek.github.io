@@ -12,11 +12,12 @@ language: EN-US
 timezone:
 
 # To support multiple years of archives, update the currentYear and add the old one to the allYears array
-currentYear: 2019
+currentYear: 2020
 allYears:
   - 2018
   - 2019
-showSchedule: true
+  - 2020
+showSchedule: false
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

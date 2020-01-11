@@ -35,7 +35,7 @@ The following are the dates you need to know for Stir Trek 2020:
 <hr>
 
 **Q: When do tickets go on sale?**
-**A:** Tickets for Stir Trek went on sale February 28th at 1:59pm EST on [our tickets page](https://stirtrek2019.eventbrite.com/). Note - That link will go live closer to the day of sale. The purchase of the ticket should be pretty self explanatory, but if you run into problems, hit us up on twitter or via email with questions.
+**A:** The 2020 ticket sale date has not been announced just yet. In 2019, tickets went on sale on February 28th at 1:59pm EST, so somewhere around there will probably be about right. Stay tuned for more details.
 
 <hr>
 

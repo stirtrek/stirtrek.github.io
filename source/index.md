@@ -12,16 +12,22 @@ title: Tech & a Flick
             <p class="cost">Only $99 bucks</p>
         </div>
     </a> -->
-    <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+    <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">1 May 2020</p>
-    </div>
+    </div> -->
     <!-- <a href="https://www.youtube.com/stirtrek" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             <p class="date">Stir Trek - Columbus, OH</p>
             <p class="registerNow">View the recorded sessions on YouTube</p>
         </div>
     </a> -->
+    <a href="https://sessionize.com/stir-trek-2020/" target="_blank" rel="noopener noreferrer">
+        <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+            <p class="date">CFP opens 1/12/2020</p>
+            <p class="registerNow">Click here to submit your talks</p>
+        </div>
+    </a>
 </div>
 
 <div class="row">

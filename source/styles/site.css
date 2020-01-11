@@ -54,6 +54,8 @@ h1, h2, h3 {
     text-transform: uppercase;
     padding: 20px;
     text-align: center;
+    color: #fff;
+    letter-spacing: 2px;
 }
 
 @media only screen and (max-width:960px) {

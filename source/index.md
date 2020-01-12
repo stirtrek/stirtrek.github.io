@@ -24,7 +24,7 @@ title: Tech & a Flick
     </a> -->
     <a href="https://sessionize.com/stir-trek-2020/" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-            <p class="date">CFP opens 1/12/2020</p>
+            <p class="date">CFP is Open!</p>
             <p class="registerNow">Click here to submit your talks</p>
         </div>
     </a>

@@ -1,0 +1,60 @@
+{
+    "scheduledSessions": [
+        {
+            "timeSlots": [
+                {
+                    "sessions": [
+                        {
+                            "id": 108,
+                            "scheduledRoom": "Concourse"
+                        }
+                    ],
+                    "time": "7:30 AM"
+                },
+                {
+                    "sessions": [],
+                    "time": "8:30 AM"
+                },
+                {
+                    "sessions": [],
+                    "time": "9:45 AM"
+                },
+                {
+                    "sessions": [],
+                    "time": "11:00 AM"
+                },
+                {
+                    "sessions": [
+                        {
+                            "id": 109,
+                            "scheduledRoom": "Concourse"
+                        }
+                    ],
+                    "time": "12:00 PM"
+                },
+                {
+                    "sessions": [],
+                    "time": "1:00 PM"
+                },
+                {
+                    "sessions": [],
+                    "time": "2:15 PM"
+                },
+                {
+                    "sessions": [],
+                    "time": "3:30 PM"
+                },
+                {
+                    "sessions": [
+                        {
+                            "id": 116,
+                            "scheduledRoom": "All Theaters"
+                        }
+                    ],
+                    "time": "5:30 PM"
+                }
+            ],
+            "day": "Fri 5/1"
+        }
+    ]
+}

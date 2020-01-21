@@ -682,7 +682,7 @@ div.hr-schedule:before {
 }
 
 .sponsor.sponsor-principal .sponsorCompany .description {
-    height: 200px;
+    /* height: 200px; */
 }
 
 .sponsor.sponsor-platinum img {
@@ -690,7 +690,7 @@ div.hr-schedule:before {
 }
 
 .sponsor.sponsor-platinum .sponsorCompany .description {
-    height: 500px;
+    /* height: 500px; */
 }
 
 .sponsor.sponsor-gold img,
@@ -700,7 +700,7 @@ div.hr-schedule:before {
 
 .sponsor.sponsor-gold .sponsorCompany .description,
 .sponsor.sponsor-silver .sponsorCompany .description {
-    height: 500px;
+    /* height: 500px; */
 }
 
 .sponsorsAbout {

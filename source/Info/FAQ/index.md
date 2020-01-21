@@ -22,8 +22,8 @@ The following are the dates you need to know for Stir Trek 2020:
 * **1/12/2020** - CFP opens
 * **2/1/2020**  - CFP closes
 * **2/27/2020** - Tickets go on sale. They sell out in minutes. Be ready!
-* **TBD** - Last day for refunds
-* **4/6/2020** - Last day to edit shipping information in Eventbrite
+* **3/30/2020** - Last day to edit shipping information in Eventbrite
+* **4/1/2020** - Last day for refunds
 * **4/21/2020** - Boxes begin shipping
 * **5/1/2020** - Stir Trek 2020!
 

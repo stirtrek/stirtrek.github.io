@@ -99,7 +99,7 @@ title: Tech & a Flick
 * **12/2/2019** - Call for sponsors opens
 * **1/12/2020** - CFP opens
 * **2/1/2020**  - CFP closes
-* **2/27/2020** - Tickets go on sale
+* **2/27/2020** - Tickets go on sale ($150 each)
 * **3/30/2020** - Last day to edit shipping information
 * **4/1/2020** - Last day for refunds
 * **4/21/2020** - Boxes begin shipping

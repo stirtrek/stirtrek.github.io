@@ -21,7 +21,7 @@ The following are the dates you need to know for Stir Trek 2020:
 * **12/2/2019** - Call for sponsors opens
 * **1/12/2020** - CFP opens
 * **2/1/2020**  - CFP closes
-* **2/27/2020** - Tickets go on sale. They sell out in minutes. Be ready!
+* **2/27/2020** - Tickets go on sale ($150 each). They sell out in minutes. Be ready!
 * **3/30/2020** - Last day to edit shipping information in Eventbrite
 * **4/1/2020** - Last day for refunds
 * **4/21/2020** - Boxes begin shipping

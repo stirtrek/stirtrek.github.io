@@ -65,7 +65,6 @@
         "link": "https://www.captechconsulting.com/",
         "description": "CapTech is a national IT management consulting firm that bridges the gap between business and technology. We partner with some of the world's most successful companies to design, develop, and manage technical and digital solutions that delight customers, drive insights, and meet strategic objectives.",
         "logo": "/images/sponsors/captech.jpg"
-
       },
       {
         "name": "Nationwide",
@@ -73,7 +72,6 @@
         "link": "https://www.nationwide.com",
         "description": "Nationwide, a Fortune 100 company based in Columbus, Ohio, is one of the largest and strongest diversified insurance and financial services organizations in the U.S. and is rated A+ by both A.M. Best and Standard & Poor’s. The company provides a full range of insurance and financial services, including auto, commercial, homeowners, farm and life insurance; public and private sector retirement plans, annuities and mutual funds; banking and mortgages; excess & surplus, specialty and surety; pet, motorcycle and boat insurance. For more information, visit www.nationwide.com.",
         "logo": "/images/sponsors/nationwide_350x200.jpg"
-
       },
       {
         "name": "MPW",
@@ -220,7 +218,6 @@
         "link": "https://igs.com",
         "description": "With nearly 30 years of experience in the energy industry, the IGS family of companies provides the following to over one million customers across the country: natural gas, electricity, and home warranty products; power generation solutions off the grid; clean, domestic alternative fueling options; and solar solutions. We focus on empowering consumers to make choices that best fit their energy needs. Our community investment program, IGS Impact, provides employees with opportunities to get involved with causes that are meaningful to both the company and to them personally.",
         "logo": "/images/sponsors/IGS.png"
-
       },
       {
         "name": "Workstate",
@@ -406,7 +403,25 @@
         "link": "https://www.vaco.com/",
         "description": "Vaco provides expert business consulting, permanent placement, executive search and strategic staffing for companies around the world, in the areas of accounting, finance, technology, healthcare, operations, administration and more.",
         "logo": "/images/sponsors/vaco_350x200.png"
-      }            
+      },
+      {
+        "name": "CapTech",
+        "link": "https://www.captechconsulting.com/",
+        "description": "CapTech is a national IT management consulting firm that bridges the gap between business and technology. We partner with some of the world's most successful companies to design, develop, and manage technical and digital solutions that delight customers, drive insights, and meet strategic objectives.",
+        "logo": "/images/sponsors/captech_350x200.jpg"
+      },
+      {
+        "name": "Pillar",
+        "link": "https://www.accenture.com/us-en",
+        "description": "We're a technology consulting company with over 20 years of uncovering and executing industry-disrupting opportunities at lightning speed.",
+        "logo": "/images/sponsors/pillar_350x200.png"
+      },
+      {
+        "name": "IGS",
+        "link": "https://igs.com",
+        "description": "With nearly 30 years of experience in the energy industry, the IGS family of companies provides the following to over one million customers across the country: natural gas, electricity, and home warranty products; power generation solutions off the grid; clean, domestic alternative fueling options; and solar solutions. We focus on empowering consumers to make choices that best fit their energy needs. Our community investment program, IGS Impact, provides employees with opportunities to get involved with causes that are meaningful to both the company and to them personally.",
+        "logo": "/images/sponsors/IGS_350x200.png"
+      }
     ],
     "platinum": [
       {

@@ -10,7 +10,7 @@
         <%- partial('sponsorsBrief') %>
     <% } else if (page.source === 'Sponsors/index.md') { %>
         <%- partial('sponsorsFull') %>
-    <% } else if (page.source === 'Speakers/index.md') { %>
+    <% } else if (page.source === 'Speakers/index.md' || /^Speakers\/\d{4}\.md$/.test(page.source)) { %>
         <%- partial('speakerList') %>
     <% } else if (page.source === 'Schedule/index.md') { %>
         <%- partial('schedule') %>

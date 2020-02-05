@@ -29,6 +29,10 @@ hexo deploy
 ## How do we get data?
 An extract from Sessionize should be saved in _data with the name "sessionsYYYY.json". A new one should be saved each year. The scripts in /script will find those files if they are updated to include the correct years in their years array.
 
+In Sessionize, setup an API / Embed with the following settings:
+![Format Settings]("readme-sessionize-1.png")
+![Data Settings]("readme-sessionize-2.png")
+
 ## How do speaker/session pages get generated?
 Files in /scripts get run during a `hexo generate`, reading the data files, creating data for each individual html, and merging them with the appriorate templates. Also, magic.
 
@@ -51,6 +55,9 @@ A few things need to happen to roll the site to a new year:
     - sessions20XX.json needs to be downloaded from Sessionize once we've selected sessions
 - Search for the year in the /source directory's .md files and change it where appropriate in content
 - While there is no schedule /source/Speakers/index.md has the year set as the previous year in the YAML at the top. When we get a new schedule, update this value.
+
+## Creating a speaker archive page
+Previous speaker/talk pages get created at /Speakers/1234/Speaker-Name.html, but there is no automatic archive page. To create one, add a file to /Speakers like "2019.md" and update the configuration at the top as appropriate.
 
 
 ## To add a sponsor

@@ -35,7 +35,7 @@ The following are the dates you need to know for Stir Trek 2020:
 <hr>
 
 **Q: When do tickets go on sale?**
-**A:** The 2020 ticket sale date has not been announced just yet. In 2019, tickets went on sale on February 28th at 1:59pm EST, so somewhere around there will probably be about right. Stay tuned for more details.
+**A:** The 2020 ticket sale starts on February 27th on [Eventbrite](https://stirtrek2020.eventbrite.com/). In previous years we've sold out in minutes, so mark your calendars!
 
 <hr>
 
@@ -56,3 +56,8 @@ The following are the dates you need to know for Stir Trek 2020:
 
 **Q: When does the movie start? The schedule says 5:30 but...**
 **A:** Popcorn will be available immediately after the last session. Trailers will start shortly after 5pm. The movie will begin by 5:30 (the **actual** movie - not trailers).
+
+<hr>
+
+**Q: What will lunch include?**
+**A:** We want to make sure everyone has good lunch options. When you buy your ticket you will be asked about dietary preferences. Please see the [registration page](/Registration/#mealDetails) for more details.

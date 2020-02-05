@@ -1,10 +1,10 @@
 ---
 title: Speakers
-year: 2019
+year: 2020
 ---
 
-<div class="icon-hr"></div>
 # 2020 Call for Speakers
+<div class="icon-hr"></div>
 
 The 2020 Stir Trek CFP opens on 1/12/2020. [You can submit your talks here!](https://sessionize.com/stir-trek-2020/) We will be announcing speakers at (or around) February 23rd. Watch Twitter for any updates.
 
@@ -23,7 +23,8 @@ Additionally, for the 2nd year in a row we're committing to a minimum of $250 of
 
 Allowed expenses include transit, hotel, and fuel. If you have a different expense you'd like to include, please email speakers@stirtrek.com. You'll need to book your own travel reservations and submit a receipt on or after the day of the event to get reimbursed.
 
-# Last Year's (2019) Speakers
+<!--# Last Year's (2019) Speakers
 
 <div class="icon-hr"></div>
 <br>
+-->

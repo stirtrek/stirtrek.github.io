@@ -1,0 +1,81 @@
+{
+    "sessions": [],
+    "speakers": [],
+    "questions": [],
+    "categories": [
+      {
+        "id": 18721,
+        "title": "Track",
+        "items": [
+          {
+            "id": 38324,
+            "name": "App Dev",
+            "sort": 1
+          },
+          {
+            "id": 36374,
+            "name": "Architecture / Patterns",
+            "sort": 2
+          },
+          {
+            "id": 36375,
+            "name": "Cloud / Infrastructure",
+            "sort": 3
+          },
+          {
+            "id": 38325,
+            "name": "Data / AI",
+            "sort": 4
+          },
+          {
+            "id": 38326,
+            "name": "Design",
+            "sort": 5
+          },
+          {
+            "id": 38327,
+            "name": "DevOps",
+            "sort": 6
+          },
+          {
+            "id": 36379,
+            "name": "Iot / Maker",
+            "sort": 7
+          },
+          {
+            "id": 36380,
+            "name": "Mobile / Client",
+            "sort": 8
+          },
+          {
+            "id": 36381,
+            "name": "Professional Skills / Soft Skills",
+            "sort": 9
+          },
+          {
+            "id": 36382,
+            "name": "Security",
+            "sort": 10
+          },
+          {
+            "id": 36383,
+            "name": "Testing / Quality",
+            "sort": 11
+          },
+          {
+            "id": 38328,
+            "name": "Web",
+            "sort": 12
+          },
+          {
+            "id": 36385,
+            "name": "Misc *.*",
+            "sort": 13
+          }
+        ],
+        "sort": 2,
+        "type": "session"
+      }
+    ],
+    "rooms": []
+  }

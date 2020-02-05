@@ -11,7 +11,7 @@ alias:
 
 <div class="icon-hr"></div>
 
-Tickets for Stir Trek 2020 will go on sale Thursday, February 27th. Tickets will be $150 each. Watch this page and the homepage for a registration link in the future.
+Tickets for Stir Trek 2020 will go on sale Thursday, February 27th. Tickets will be $150 each. We use Eventbrite to sell our tickets, and you can find our [event page here](https://stirtrek2020.eventbrite.com/).
 
 <br/>
 
@@ -20,7 +20,7 @@ Tickets for Stir Trek 2020 will go on sale Thursday, February 27th. Tickets will
 
 In order to streamline the meal preparation process and reduce our environmental waste (both food and packaging), Stir Trek is working with our catering vendor to offer the following lunch meal options. When registering in Eventbrite the "lunch meal selection" question is a required field. Your answer will help us order the right number of each type of meal.
 
-When you sign up for your ticket, you'll be able to choose from the following:
+When you sign up for your ticket, you'll be able to choose from the following. <a href="#mealDetails">You can find specific details about each selection below.</a>
 * Meat Sandwich (variety)
 * Gluten Free Meat
 * Vegetarian
@@ -30,12 +30,11 @@ When you sign up for your ticket, you'll be able to choose from the following:
 * Keto
 * I choose to eat out or bring my own meal, I will not require a lunch
 
-You can find specific details about each selection below.
 
 Any changes to your order must be made in Eventbrite no later than **March 30th, 2020**. Thank you!
 
-<br/>
-## Meal Selection Details
+<a name="mealDetails"></a>
+### Meal Selection Details
 <div class="icon-hr"></div>
 
 **Meat Sandwich (variety)**

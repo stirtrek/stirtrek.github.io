@@ -5,13 +5,15 @@ title: Tech & a Flick
 
 {% raw %}
 <div class="row" id="stirTrekHeroContainer">
-    <!-- <a href="https://www.eventbrite.com/e/stir-trek-2017-edition-tickets-30911428916" target="_blank" rel="noopener noreferrer">
+    <a href="https://stirtrek2020.eventbrite.com/" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-            <p class="date">May 4th, 2018</p>
-            <p class="registerNow">Register Here</p>
-            <p class="cost">Only $99 bucks</p>
+            <p class="date">May 1st, 2020</p>
+            <br>
+            <p class="registerNow">Tickets go on sale February 27th</p>
+            <br>
+            <p class="cost">Only $150 bucks</p>
         </div>
-    </a> -->
+    </a>
     <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">1 May 2020</p>
@@ -22,12 +24,12 @@ title: Tech & a Flick
             <p class="registerNow">View the recorded sessions on YouTube</p>
         </div>
     </a> -->
-    <a href="https://sessionize.com/stir-trek-2020/" target="_blank" rel="noopener noreferrer">
+    <!-- <a href="https://sessionize.com/stir-trek-2020/" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             <p class="date">CFP is Open!</p>
             <p class="registerNow">Click here to submit your talks</p>
         </div>
-    </a>
+    </a> -->
 </div>
 
 <div class="row">
@@ -99,6 +101,7 @@ title: Tech & a Flick
 * **12/2/2019** - Call for sponsors opens
 * **1/12/2020** - CFP opens
 * **2/1/2020**  - CFP closes
+* **2/23/2020** - CFP notification goal date
 * **2/27/2020** - Tickets go on sale ($150 each)
 * **3/30/2020** - Last day to edit shipping information
 * **4/1/2020** - Last day for refunds

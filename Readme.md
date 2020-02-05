@@ -30,8 +30,8 @@ hexo deploy
 An extract from Sessionize should be saved in _data with the name "sessionsYYYY.json". A new one should be saved each year. The scripts in /script will find those files if they are updated to include the correct years in their years array.
 
 In Sessionize, setup an API / Embed with the following settings:
-![Format Settings]("readme-sessionize-1.png")
-![Data Settings]("readme-sessionize-2.png")
+![Format Settings](readme-sessionize-1.png)
+![Data Settings](readme-sessionize-2.png)
 
 ## How do speaker/session pages get generated?
 Files in /scripts get run during a `hexo generate`, reading the data files, creating data for each individual html, and merging them with the appriorate templates. Also, magic.

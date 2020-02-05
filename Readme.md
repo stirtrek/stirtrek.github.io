@@ -59,6 +59,7 @@ A few things need to happen to roll the site to a new year:
 ## Creating a speaker archive page
 Previous speaker/talk pages get created at /Speakers/1234/Speaker-Name.html, but there is no automatic archive page. To create one, add a file to /Speakers like "2019.md" and update the configuration at the top as appropriate.
 
+The magic behind the speakers pages is that the file in /source/themes/stir-trek-comic/layout/index.ejs magically applies specific themes based on path. And it has a handy regex to match 4 digit year files.
 
 ## To add a sponsor
 - Add a **(this is important)** 350x200 pixel jpg or png of the sponsor logo to /source/images/sponsors/ folder.

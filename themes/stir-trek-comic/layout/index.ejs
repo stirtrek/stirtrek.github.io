@@ -12,6 +12,8 @@
         <%- partial('sponsorsFull') %>
     <% } else if (page.source === 'Speakers/index.md' || /^Speakers\/\d{4}\.md$/.test(page.source)) { %>
         <%- partial('speakerList') %>
+    <% } else if (page.source === 'Sessions/index.md') { %>
+        <%- partial('sessions') %>        
     <% } else if (page.source === 'Schedule/index.md') { %>
         <%- partial('schedule') %>
     <% } %>

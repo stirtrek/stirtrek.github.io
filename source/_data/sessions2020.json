@@ -69,6 +69,24 @@
       "roomId": null
     },
     {
+      "id": "176670",
+      "title": "Alexa, how much is my electric bill?",
+      "description": "A Case Study of Generative User Experience Research for Voice Assistant Technology within the Utilities Space.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9d6cbfc2-c797-4299-8c81-23440be09186",
+        "8a3d6843-890e-46f9-8fd6-4dcc9625a5ee"
+      ],
+      "categoryItems": [
+        38326
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
       "id": "180166",
       "title": "ARIA: A Grande Method Of Accessible Markup.",
       "description": "ARIA, or accessible rich internet applications, are a very powerful set of attributes that define non-semantic content for your users with disabilities. In this session, we are going to break down web accessibility at its most granular level before exploring ARIA properties that will help create amazing user experiences, when semantic markup won't cut it. By the end of this talk, you will walk away with the knowledge of introductory ARIA concepts and when to put them into practice.",
@@ -223,7 +241,7 @@
     },
     {
       "id": "173796",
-      "title": "DO you know what happens to your data after you create it?",
+      "title": "Do you know what happens to your data after you create it?",
       "description": "Every piece of code you've written has a cost. The sooner we address that cost the less cost it for our organization and goals. \r\n\r\nThis talk is about making decisions early in the process to make our data more consumable down the chain. We'll discuss: \r\n* Approach to coding not much different than data retrieval\r\n* How to get more from our data\r\n* Best Practices",
       "startsAt": null,
       "endsAt": null,
@@ -265,6 +283,23 @@
       "isPlenumSession": false,
       "speakers": [
         "78066f12-f7ff-4768-85cb-37774860b0a3"
+      ],
+      "categoryItems": [
+        38324
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "174947",
+      "title": "Getting started with GraphQL",
+      "description": "GraphQL is an open-source data query and manipulation language for APIs that’s quickly being adopted throughout the industry. This session will dive into the core concepts about GraphQL by building a GraphQL service from the ground up.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fa2e8eb9-8e56-4bac-81bb-82bce2308f1c"
       ],
       "categoryItems": [
         38324
@@ -681,6 +716,23 @@
       "roomId": null
     },
     {
+      "id": "174028",
+      "title": "Why You Fail to Make Good Predictions and What You Can Do About it.",
+      "description": "What sets good predictors apart from others? Is good judgment innate or something you can nurture?\r\n\r\nAs a knowledge worker, your ability to make good decisions will set you apart from your peers. Whether you’re planning out a work project or playing fantasy football good predictions are essential to success. \r\n\r\nIn this talk, you’ll learn what gets in the way of making good decisions and predictions. You’ll also walk away with tips on how to improve your chances of succeeding and how you can 10X your positive outcomes in the midst of risk and uncertainty.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d6efef12-0cc5-4fe1-b506-20bee22d0fff"
+      ],
+      "categoryItems": [
+        36385
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
       "id": "175293",
       "title": "Xamarin.Forms Deep Dive",
       "description": "Shells! Visual! Navigation! Custom Renderers! Oh my! Come see the latest and greatest coming in Xamarin.Forms 4.0. We will take a closer look at the newest developments from the Xamarin team and how we can use them to quickly craft a fully featured, cross-platform, mobile application from scratch. Using Shell, we can build out our presentation layer with MVVM and built-in navigation and deep-linking. With Visual, we can quickly adopt an application-wide design language, like Material or Fluent, in a single line of code. Have your own design language? Leverage the Visual component with custom renderers to bedazzle your app. All presented with dangerously live demos!",
@@ -735,7 +787,7 @@
       "id": "f605627a-2dc6-4c8d-99b3-dc8a0f28cc66",
       "firstName": "Alex",
       "lastName": "Ford",
-      "bio": "I've worked fulltime and as a freelancer, as a full-stack web engineer and a designer. In 2019 I joined ScriptDrop as Director of Design. I work to enable engineering to teams to build better stuff with design, because engineering *is* design.",
+      "bio": "I’ve worked fulltime and as a freelancer, as a full-stack web engineer and a designer. In 2019 I joined ScriptDrop as Director of Design. I work to enable engineering teams to build better stuff with design, because engineering *is* design.",
       "tagLine": "Engineer turned Director of Design",
       "profilePicture": "https://sessionize.com/image?f=0c75fd1582dc909fe1661350b945b266,400,400,1,0,7a-2dc6-4c8d-99b3-dc8a0f28cc66.8c40f68d-075a-4229-8ff7-a04e2d0a9a1c.jpg",
       "isTopSpeaker": false,
@@ -1288,6 +1340,22 @@
       "questionAnswers": []
     },
     {
+      "id": "fa2e8eb9-8e56-4bac-81bb-82bce2308f1c",
+      "firstName": "Daniel",
+      "lastName": "Sims",
+      "bio": "Daniel is a Senior Software Engineer at Red Ventures in Detroit, MI. There, he helps build the APIs that power Bankrate.com. Daniel is passionate about leveraging open source technologies that power the APIs that are the backbone of modern applications.",
+      "tagLine": "Senior Software Engineer - Red Ventures",
+      "profilePicture": "https://sessionize.com/image?f=f37b63b9e1e979c805cc8eea88e6c2bc,400,400,1,0,50ebce18-fdfd-409c-8d52-894529df9a59.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        174947
+      ],
+      "fullName": "Daniel Sims",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "3fd9cade-10ef-43df-b124-944015042549",
       "firstName": "Ed",
       "lastName": "Charbeneau",
@@ -1330,7 +1398,7 @@
       "lastName": "Harmon Jr.",
       "bio": "I'm a Father, Husband, Cyclist, formerly SQL Developer and now \r\n a Ruby Developer at @CoverMyMeds.",
       "tagLine": "CoverMyMeds, SQL and Ruby Developer",
-      "profilePicture": "https://sessionize.com/image?f=296499c79ae8d5c2f2729c80fde35100,400,400,1,0,4dae8b86-a282-4f38-aa77-622762544408.jpg",
+      "profilePicture": "https://sessionize.com/image?f=b4f9e122b87af76af9e8aa4060aad5fa,400,400,1,0,c4-bf81-4899-ad43-f148b82b17df.b67d1d33-50d5-4f94-b8fb-b346fcf02391.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1370,6 +1438,28 @@
         174155
       ],
       "fullName": "Greg Greenlee",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8a3d6843-890e-46f9-8fd6-4dcc9625a5ee",
+      "firstName": "Haley",
+      "lastName": "Hendershot",
+      "bio": "Haley has been working in the user experience field for over 4 years. She earned a bachelor’s degree in Visual Communication Design from the Ohio State University. As a UX professional, she believes that effectively understanding user needs and fostering empathy for people is essential to the success of any new technology. Haley regularly presents research findings to executive leadership and has also facilitated workshops on design thinking.",
+      "tagLine": "Haley Hendershot is a User Experience Consultant at Insight specializing in research and design.",
+      "profilePicture": "https://sessionize.com/image?f=5410d43ca4974620f4ae24f0aad8feb2,400,400,1,0,5f72cece-fcda-4dcf-b72e-27495c7f8a4f.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/haleyhendershot/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        176670
+      ],
+      "fullName": "Haley Hendershot",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -1646,6 +1736,28 @@
       "questionAnswers": []
     },
     {
+      "id": "9d6cbfc2-c797-4299-8c81-23440be09186",
+      "firstName": "RACHEL",
+      "lastName": "BANKS",
+      "bio": "Rachel Banks has been working as a user experience professional for over 6 years. She holds a master’s degree from Indiana University in Human Computer Interaction. She believes that technological solutions will only be successful, long term, when research establishes a solid understanding of user behavior and their unique needs. In her free time, Rachel likes to pretend she's a warforged Ranger who has an affinity for wolves. \r\n\r\nHaley Hendershot has been working in the user experience field for over 3 years. She earned a bachelor’s in Visual Communication Design from the Ohio State University. As a UX professional, she believes that effectively understanding user needs and fostering empathy for people is essential to the success of any new technology. When she's not chucking shells on the rainbow road, Haley can be found adventuring in middle earth.",
+      "tagLine": "Rachel is a Principal User Experience Consultant at Insight specializing in research and strategy. Haley is a User Experience Consultant at Insight specializing in research and design. ",
+      "profilePicture": "https://sessionize.com/image?f=a28f4d9eb5076e8c1b415d5968e5e973,400,400,1,0,27c29c34-e2e6-4acf-9ee8-4db540bd5a6a.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/racheldbanks",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        176670
+      ],
+      "fullName": "RACHEL BANKS",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "34444989-6fb6-4714-8398-324e29081b49",
       "firstName": "Randy",
       "lastName": "Pagels",
@@ -1796,6 +1908,38 @@
         174082
       ],
       "fullName": "Seth Petry-Johnson",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "d6efef12-0cc5-4fe1-b506-20bee22d0fff",
+      "firstName": "Sho",
+      "lastName": "Fola",
+      "bio": "Synthesizing information and making connections is at the heart of most of what I do. I love connecting the dots across so many domains.\r\n\r\nFrom building apps that focus on connecting people and their data to writing articles or speaking at conferences, I use any medium at my disposal to achieve this aim.\r\n\r\nYou can catch me in my free time using SciKit Learn and PyTorch to tackle NLP challenges. The only thing that tops that is spending time being a husband and father of three amazing kids",
+      "tagLine": "Life Learner, Technologist, Speaker & Machine Learning Practitioner",
+      "profilePicture": "https://sessionize.com/image?f=81ce72904bfeb0777a35679dd23e07de,400,400,1,0,12-0cc5-4fe1-b506-20bee22d0fff.2d625839-cc31-4773-96f6-96f178bfd33d.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/ShoReason",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/shofola",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://www.shoreason.com",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        174028
+      ],
+      "fullName": "Sho Fola",
       "categoryItems": [],
       "questionAnswers": []
     },

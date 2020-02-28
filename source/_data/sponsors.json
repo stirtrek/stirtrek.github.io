@@ -296,7 +296,6 @@
         "link": "https://root.engineering/",
         "description": "Root Insurance is the nation’s first licensed insurance carrier powered entirely by mobile and founded on the principle that car insurance rates should be based on how you drive, not who you are. We use data science and technology to identify and insure good drivers, reducing insurance premiums for good drivers as a result. Car insurance is a compulsory product — it’s literally illegal to drive without it. Unfortunately, people are paying significantly more than they should be because their car insurance carrier only looks at their demographics and not how they drive. We’re fixing that. Root was started in 2015 with backing from Drive Capital. Although creating an insurance carrier from scratch was an audacious undertaking, we realized we needed to own everything end-to-end to build an exceptional insurance experience. With schlep blindness in full effect, we made it happen. Most insurance carriers were started a century ago and are running on an amalgamation of technology that is decades old. Root is the manifestation of “software is eating the world” in insurance. Our core expertise is responding to trends in technology by incorporating new sources of data into insurance pricing and building great products and user experiences on top of it. Root is where it is today due to the hard work, ingenuity, and exceptional performance of the people here. We’ve been fortunate to build an incredibly talented team that has brought this idea to life, and we're striving to grow that team by hiring more exceptional people.",
         "logo": "/images/sponsors/root_350x200.png"
-
       }
     ],
     "gold": [
@@ -428,7 +427,21 @@
         "link": "https://www.insight.com/en_US/solve/digital-innovation.html",
         "description": "Insight Digital Innovation, formerly Cardinal Solutions, is global technology company committed to helping clients innovate smarter so they can create digital experiences that drive differentiation, competitive advantage, and loyalty.",
         "logo": "/images/sponsors/insight_350x200.png"
-      }      
+      },
+      {
+        "name": "Root",
+        "level": "principal",
+        "link": "https://root.engineering/",
+        "description": "We’ve taken the archaic, $250-billion insurance industry and challenged everything about it. Using telematics, we’ve built one of the fastest growing tech companies. And we’re just getting started.",
+        "logo": "/images/sponsors/root_350x200.png"
+      },
+      {
+        "name": "TEKsystems",
+        "level": "principal",
+        "link": "https://www.teksystems.com/",
+        "description": "At TEKsystems, we’re obsessed with technology. Its power to change everything. Technology fuels our passion and commitment to helping organizations do what they set out to. When we engage, we bring fresh ideas that help you galvanize your performance. Refine your strategy. Spark new energy. The future—and how we get there—depends on those who build, connect, create and transform our world. The most successful and innovative businesses are already doing it, and we’re skilled experts at bringing in the teams and support needed to thrive.",
+        "logo": "/images/sponsors/teksystems_350x200.png"
+      }
     ],
     "platinum": [
       {
@@ -453,24 +466,17 @@
         "logo": "/images/sponsors/oclc_350x200.png"
       },
       {
-        "name": "TEKsystems",
-        "level": "platinum",
-        "link": "https://www.teksystems.com/",
-        "description": "At TEKsystems, we’re obsessed with technology. Its power to change everything. Technology fuels our passion and commitment to helping organizations do what they set out to. When we engage, we bring fresh ideas that help you galvanize your performance. Refine your strategy. Spark new energy. The future—and how we get there—depends on those who build, connect, create and transform our world. The most successful and innovative businesses are already doing it, and we’re skilled experts at bringing in the teams and support needed to thrive.",
-        "logo": "/images/sponsors/teksystems_350x200.png"
-      },
-      {
         "name": "Manifest",
         "level": "platinum",
         "link": "http://manifestcorp.com/",
-        "description": "Enjoy Code. It’s more than a slogan. It’s our mission statement, our code of conduct, our mantra, our obsession, - our ethos. For over 20 years Manifest consultants have been making a difference in some of the most esteemed businesses in Columbus. Our commitment to training enables our consultants and clients to continuously adapt and grow with the advancement of new technologies. Our areas of expertise include: Java & .NET Development, Acceptance Test Driven Development, Test Automation, Project Management, Business Analysis and Agile Mentoring. Come see why Manifest was honored again in 2017 by Columbus CEO magazine as a Top Workplace in Central Ohio. We invite you to visit the Manifest booth and start a conversation about how we may help you on your path to career happiness. Enjoy.",
+        "description": "Enjoy Code. It’s more than a slogan. It’s our mission statement, our code of conduct, our mantra, our obsession, - our ethos. For over 20 years Manifest consultants have been making a difference in some of the most esteemed businesses in Columbus. Our commitment to training enables our consultants and clients to continuously adapt and grow with the advancement of new technologies. Our areas of expertise include: Java & .NET Development, Acceptance Test Driven Development, Test Automation, Project Management, Business Analysis and Agile Mentoring.",
         "logo": "/images/sponsors/manifest_350x200.png"
       },
       {
         "name": "ComResource",
         "level": "platinum",
         "link": "http://comresource.com/",
-        "description": "ComResource is one of Central Ohio’s top IT consulting companies solving IT problems for growing businesses for over 25 years. ComResource is a unique player in the IT Consulting industry because of its expertise and experience in delivering a diversity of solutions, not only Professional Services Staffing (Project Management, Business & Data Analysis, AppDev, DevOps and QA), but also Information Security, Cloud & Virtual, Data Quality, B2B Integration, Systems & Network, Disaster Recovery & Business Continuity, VoIP, Wireless, and Storage. ComResource has built Centers of Excellence to fully engage and motivate over 220 employees and to ensure the highest level of innovation for more than 200 clients. On multiple occasions, ComResource has been recognized as a “Best Places To Work”, “Corporate Caring Award Finalist” and a “Fast Fifty 50” award winner. In 2017, ComResource was named the US SMB Rising Star Heartland Partner of the Year by Microsoft’s US Small and Mid-sized Business (SMB) Group.",
+        "description": "We are problem-solvers by nature. More than 200 of us…and growing. Customizing processes and technology are our specialties. The more complicated the IT challenge, the better. Having delivered strategic IT solutions for over 25 years, we’ve gotten pretty good at it too. At least that’s what our 200+ clients are telling us. And because we get to work on so many cool and different projects for cream-of-the-crop companies, we have attracted the best and brightest talent. We have an unmatched team spirit which really makes work fun. Probably the reason we are a “Best Places to Work” for multiple years in a row.",
         "logo": "/images/sponsors/COMRESOURCE.png"
       },
       {
@@ -479,7 +485,21 @@
         "link": "https://www.revelit.com/",
         "description": "Revel IT is a young and high energy company, we aim to help consultants and candidates land fulfilling jobs that offer real career growth. Our goal is to treat our consultants and clients the way we would like others to treat us — we are honest, stay true to our word, and work in the best interest of our clients, consultants, and candidates. Many say they work this way, but few actually do. We are a company that does. Our mission is to find and provide the best talent for clients and excellent career opportunities for consultants and candidates — whom we treat as part of our team.",
         "logo": "/images/sponsors/revelit_350x200.png"
-      }          
+      },
+      {
+        "name": "CAS",
+        "level": "platinum",
+        "link": "https://www.cas.org/",
+        "description": "CAS, a division of the American Chemical Society specializing in scientific information solutions, partners with R&D organizations globally to provide actionable insights that help them plan, innovate, protect their innovations, and predict how new markets and opportunities will evolve. Scientific researchers, patent professionals and business leaders around the world across commercial, academic and government sectors rely on our solutions and services to advise discovery and strategy. Leverage our unparalleled content, specialized technology, and unmatched human expertise to customize solutions that will give your organization an information advantage. With more than 110 years' experience, no one knows more about scientific information than CAS. Learn more at www.cas.org.",
+        "logo": "/images/sponsors/cas_350x200.jpg"
+      },
+      {
+        "name": "DMG",
+        "level": "platinum",
+        "link": "https://divisionsmg.com/",
+        "description": "We are a tech-based company, one the fastest growing private enterprises in the Tri-State. Divisions Maintenance Group is a Top Workplace, Inc. 5000 member, rising quickly on the Fast 55 and Top Privately Held Companies lists. We are a national leader in Facilities Maintenance, handling thousands of properties across the country from one, centralized location in Newport, KY. Our tech team participates in the design, development, and implementation of large complex technology solutions. We have great respect and interest in new technologies and applications.",
+        "logo": "/images/sponsors/dmg_350x200.jpg"
+      }
     ],
     "gold": [
       {

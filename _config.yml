@@ -31,6 +31,11 @@ permalink_defaults:
 twitterHandle: "@StirTrek"
 socialMediaImage: /icons/opengraph.jpg
 
+# Sessionize API
+## This needs updated each year as we have a separate Sessionize Instance. Directions for setting up the API are in the readme
+## Use the All Data API
+sessionizeApiUrl: "https://sessionize.com/api/v2/o13ert1w/view/All"
+
 # Directory
 source_dir: source
 public_dir: public

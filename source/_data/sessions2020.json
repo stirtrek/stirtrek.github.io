@@ -18,6 +18,23 @@
       "roomId": null
     },
     {
+      "id": "181017",
+      "title": "\"Oh no, Mom got Hacked Again!\" - How to Implement Good Security for the Non-Professional",
+      "description": "Everyone with a career in any branch of technology absolutely loves playing personal tech support to family and friends, right? Your brother’s wifi isn’t working, your best friend’s credit card information was stolen in a data breach, and your mother’s computer keeps getting infected with malware even though she swears she didn’t click the sketchy looking link this time. You have no problem helping them out, and want them to learn better security practices! However, you know very well trying to explain how to use a password manager to your grandmother that can hardly turn her iPad on will be a bit of a struggle.\r\n\r\nIt is possible to perform tasks that security professionals do on a regular basis, such as reconnaissance, threat modeling, and vulnerability remediation to quickly and easily identify and even assist your loved ones in creating a better security posture for themselves without sounding like a slightly rude security know-it-all and not truly creating a personalized solution for their situation.\r\n\r\nIn this talk, I will give a few examples of everyday, non-security experts, what information they need to keep secure, and what current bad practices they are currently using. I will discuss how to have a respectful conversation about pointing out what bad security practices may be taking place, and why it is important to fix them without inciting a panic, I’ll help you give accurate advice on how to do better without frustrating your relatives into believing that good security is obstructively difficult. The aim of this talk is to show how simple decent security can actually be when we as professionals take the time to truly listen to our loved ones (and in turn, our customers) struggles and offer solutions they can stand up on their own. Sometimes a given solution to a problem would be an absolute disaster to implement in a typical work environment, but if it means your aunt’s chocolate chip cookie recipe is just a little more secure, then that’s all that matters at the end of the day.\r\n",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f30fe3d6-2d9e-449a-8166-223a5bf52c6d"
+      ],
+      "categoryItems": [
+        36382
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
       "id": "174067",
       "title": "A Brighter Future: Lessons in Cloud-Native Applications",
       "description": "Terms such as \"Cloud native\", \"microservices\", and \"web scale\" have become commonplace in recent years. However, achieving real results is more difficult than simply wrapping a legacy application in a container. This talk will cover a series of best practices and lessons learned for migrating applications into containerized architectures. Through a live demo using an example application that connects to and controls a Philips Hue light bulb, we will explore the benefits and uses of containers and how an orchestration engine such as OpenShift can help.",
@@ -77,8 +94,8 @@
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "9d6cbfc2-c797-4299-8c81-23440be09186",
-        "8a3d6843-890e-46f9-8fd6-4dcc9625a5ee"
+        "8a3d6843-890e-46f9-8fd6-4dcc9625a5ee",
+        "9d6cbfc2-c797-4299-8c81-23440be09186"
       ],
       "categoryItems": [
         38326
@@ -123,7 +140,7 @@
     {
       "id": "173769",
       "title": "BlazeDown with Blazor",
-      "description": "Is it time to say goodbye to JavaScript and run C# in the browser?\r\nIn this overview we'll demo an extremely new and experimental framework being developed by Microsoft called Blazor. We'll explore what Blazor means for web development and learn about how this experiment at Microsoft is shaping up. Blazor runs in the browser on a real .NET runtime (Mono) implemented in WebAssembly that executes normal .NET assemblies.",
+      "description": "Is it time to say goodbye to JavaScript and run C# in the browser? The arrival of WebAssembly begins a new era for .NET web developers, allowing client-side applications written in C# to run directly in the browser. We'll explore what Blazor means for web development and learn what to expect from Microsoft this May. In this session we’ll go beyond the basic hello world to see how Blazor can easily create a Markdown Editor, convert office documents and build stunning web apps with little or no JavaScript.",
       "startsAt": null,
       "endsAt": null,
       "isServiceSession": false,
@@ -495,6 +512,23 @@
       "roomId": null
     },
     {
+      "id": "181113",
+      "title": "Life in the Fastlane: App Store Deployments That Won't Make You Lose Your Mind",
+      "description": "Imagine deploying your shiny new app to the Apple App Store- creating certs, uploading your app to Testflight, adding testers, taking screenshots on four different devices, filling in dozens of fields on the store description, clicking through EULA’s, and resubmitting five times because the reviewer didn’t like the drop shadow on your home screen icon. Now imagine doing that 70 times for each update because you’ve just inherited 70 white label apps. With examples from the real-life tribulations of a developer faced with this “automate-or-die” scenario, learn how to use Fastlane to build scripts that do all that annoying App Store Connect and Google Play Console stuff for you. Highly-recommended for mobile developers suffering from app store fatigue who have never used Fastlane, or who want to go beyond the one or two Fastlane scripts they copied from Stack Overflow- whether they support one app or a thousand.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e1bae403-09f5-4b55-b214-ad0fbba4c551"
+      ],
+      "categoryItems": [
+        36380
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
       "id": "173836",
       "title": "Measure and improve your software development environment",
       "description": "How much time do software engineers are your company waste waiting on builds, running tests locally, and rerunning flakey test? Do you know? Don’t you want to find out?\r\n\r\nCome to this session to learn how my team tackled long build times, slow local testing, and flakey tests using data to drive our efforts. Learn what we measured and how we used it to improve our developers productivity and happiness.",
@@ -807,6 +841,38 @@
         179060
       ],
       "fullName": "Alex Ford",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f30fe3d6-2d9e-449a-8166-223a5bf52c6d",
+      "firstName": "Alexis",
+      "lastName": "Lee",
+      "bio": "Alexis (Lexi) Lee is a Junior Penetration Tester at Hyland Software and is studying Information Systems along with web and network security at Cleveland State University (Go Vikes!) She started programming at 15 on her high school’s FIRST Robotics team and started her transition into security at 16. She has a variety of both technical and speaking experience; highlights include developing and teaching middle and high school security and development summer camps, organizing and presenting at a 600+ person state-wide Key Club conference, and presenting to school boards on the importance of Computer Science education.\r\n\r\n\r\nShe has given presentations for charity events dressed up as Snow White and owns over 150 rubber ducks.",
+      "tagLine": "Information Systems student at Cleveland State University & Jr. Penetration Tester at Hyland Software",
+      "profilePicture": "https://sessionize.com/image?f=5144fb6689fe3a0bd55c5d0337419999,400,400,1,0,f134c698-0243-438b-83a6-ac7209487e6d.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/1eea10u?lang=en",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/alexis-l-a8906213b",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://thecyberrobotpilot.com/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        181017
+      ],
+      "fullName": "Alexis Lee",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -1257,7 +1323,7 @@
       "id": "96ea86eb-7f1f-4c85-b2b8-98d462a40c94",
       "firstName": "Christopher",
       "lastName": "Judd",
-      "bio": "Christopher Judd is CTO and partner at Manifest Solutions (http://www.manifestcorp.com), an international speaker, Java Champion, an open source evangelist, and the Central Ohio Java Users Group (http://www.cojug.org) leader.  He is an accomplished writer having co-authored Beginning Groovy and Grails (Apress, 2008), Enterprise Java Development on a Budget (Apress, 2003) and Pro Eclipse JST (Apress, 2005) as well as the author of the children’s book “Bearable Moments”.  Based in Columbus Ohio, he has spent over 20 years architecting and developing software for organizations ranging from Fortune 500 to start-ups across various industries including insurance, health care, education, retail, government, manufacturing, service, and transportation.  Mr. Judd spends most of his time consulting while continuing to focus on mentoring and training in Java, mobile and related technologies.",
+      "bio": "Christopher Judd is CTO and partner at Manifest Solutions (http://www.manifestcorp.com), an international speaker, Java Champion, an open source evangelist, and the Central Ohio Java Users Group (http://www.cojug.org) leader.  He is an accomplished writer having co-authored Beginning Groovy and Grails (Apress, 2008), Enterprise Java Development on a Budget (Apress, 2003) and Pro Eclipse JST (Apress, 2005) as well as the author of the children’s book “Bearable Moments”.  Based in Columbus Ohio, he has spent over 20 years architecting and developing software for organizations ranging from Fortune 500 to start-ups across various industries including insurance, health care, education, retail, government, manufacturing, service, and transportation.  Mr. Judd spends most of his time consulting while continuing to focus on mentoring and training in Java, mobile and related technologies.",
       "tagLine": "Trusted Technical Adviser and Talent Developer",
       "profilePicture": "https://sessionize.com/image?f=c003f6b4ef5e160806767633b823bbc1,400,400,1,0,eb-7f1f-4c85-b2b8-98d462a40c94.4fe96cf6-94df-4929-acc4-64134415dd19.jpg",
       "isTopSpeaker": false,
@@ -1647,6 +1713,38 @@
         174817
       ],
       "fullName": "Jonathan Mills",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e1bae403-09f5-4b55-b214-ad0fbba4c551",
+      "firstName": "Keith",
+      "lastName": "Kurak",
+      "bio": "Keith is a mobile developer at Nudge Coach, specializing in building their next generation of wellness engagement apps using React Native. He can't remember not being interested in building mobile apps, from games on his TI-83 during study hall in high school, to ugly data entry tools for feature phones and Windows Mobile, to more-recent and fancier efforts using Swift and Cordova. When he's not slinging JavaScript, you might find Keith zipping through busy Cleveland streets on his bicycle, building a computer case out of Lego, or in the kitchen breaking new ground in the field of alternative omelette fillings.",
+      "tagLine": "Mobile Developer at Nudge Coach",
+      "profilePicture": "https://sessionize.com/image?f=bc774aba7e6f0524f5166ab4737f47ce,400,400,1,0,73ffc686-e07c-4a26-ad49-3a6446b7fa56.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/llamaluvr",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/keith-kurak-3102018/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/@keith.kurak",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        181113
+      ],
+      "fullName": "Keith Kurak",
       "categoryItems": [],
       "questionAnswers": []
     },

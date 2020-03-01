@@ -529,6 +529,23 @@
       "roomId": null
     },
     {
+      "id": "178040",
+      "title": "Marten: Postgresql backed Document Db and Event Store for .Net Development",
+      "description": "Tired of the impedance mismatch between the model your application code wants for behavior and logic and the potentially very different data model that your relational database wants for storage? Scared of NoSQL databases because you’ve always heard that they aren’t transactional, lose your data under load, and lack all the production support tools you need? Fortunately, there’s now the Marten library that allows .Net developers to work with the very robust Postgresql database as a fully ACID-compliant, document database and event store. In this talk, we’ll look at how Marten’s programming model allows developers to be more productive compared to using a more typical ORM tool against a relational database. We’ll also take a look at the integrated event store functionality and how Marten makes event sourcing easier and more manageable in many ways than previous tools.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "cf80d55a-62bf-4be2-a986-27d217129faf"
+      ],
+      "categoryItems": [
+        38325
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
       "id": "173836",
       "title": "Measure and improve your software development environment",
       "description": "How much time do software engineers are your company waste waiting on builds, running tests locally, and rerunning flakey test? Do you know? Don’t you want to find out?\r\n\r\nCome to this session to learn how my team tackled long build times, slow local testing, and flakey tests using data to drive our efforts. Learn what we measured and how we used it to improve our developers productivity and happiness.",
@@ -1323,7 +1340,7 @@
       "id": "96ea86eb-7f1f-4c85-b2b8-98d462a40c94",
       "firstName": "Christopher",
       "lastName": "Judd",
-      "bio": "Christopher Judd is CTO and partner at Manifest Solutions (http://www.manifestcorp.com), an international speaker, Java Champion, an open source evangelist, and the Central Ohio Java Users Group (http://www.cojug.org) leader.  He is an accomplished writer having co-authored Beginning Groovy and Grails (Apress, 2008), Enterprise Java Development on a Budget (Apress, 2003) and Pro Eclipse JST (Apress, 2005) as well as the author of the children’s book “Bearable Moments”.  Based in Columbus Ohio, he has spent over 20 years architecting and developing software for organizations ranging from Fortune 500 to start-ups across various industries including insurance, health care, education, retail, government, manufacturing, service, and transportation.  Mr. Judd spends most of his time consulting while continuing to focus on mentoring and training in Java, mobile and related technologies.",
+      "bio": "Christopher Judd is CTO and partner at Manifest Solutions (http://www.manifestcorp.com), an international speaker, Java Champion, an open source evangelist, and the Central Ohio Java Users Group (http://www.cojug.org) leader.  He is an accomplished writer having co-authored Beginning Groovy and Grails (Apress, 2008), Enterprise Java Development on a Budget (Apress, 2003) and Pro Eclipse JST (Apress, 2005) as well as the author of the children’s book “Bearable Moments”.  Based in Columbus Ohio, he has spent over 20 years architecting and developing software for organizations ranging from Fortune 500 to start-ups across various industries including insurance, health care, education, retail, government, manufacturing, service, and transportation.  Mr. Judd spends most of his time consulting while continuing to focus on mentoring and training in Java, mobile and related technologies.",
       "tagLine": "Trusted Technical Adviser and Talent Developer",
       "profilePicture": "https://sessionize.com/image?f=c003f6b4ef5e160806767633b823bbc1,400,400,1,0,eb-7f1f-4c85-b2b8-98d462a40c94.4fe96cf6-94df-4929-acc4-64134415dd19.jpg",
       "isTopSpeaker": false,
@@ -1654,6 +1671,38 @@
         177084
       ],
       "fullName": "Jenny Bramble",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "cf80d55a-62bf-4be2-a986-27d217129faf",
+      "firstName": "Jeremy",
+      "lastName": "Miller",
+      "bio": "Jeremy Miller is a Senior Software Architect at Calavista Software. Jeremy began his software career writing \"Shadow IT\" applications to automate his tedious engineering documentation, then wandered into software development because it looked like more fun. Jeremy is heavily involved in open source .NET development as the author of StructureMap, Storyteller, and as the lead developer of Marten. Jeremy occasionally manages to write about various software topics at http://jeremydmiller.com.",
+      "tagLine": "Senior Software Architect, Calavista Software",
+      "profilePicture": "https://sessionize.com/image?f=4ac51ec328bdd1bed91a4b7c2f763ecc,400,400,1,0,9cd51d36-0db9-4455-a451-0d59065843c0.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://twitter.com/jeremydmiller",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "Blog",
+          "url": "http://jeremydmiller.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.calavista.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        178040
+      ],
+      "fullName": "Jeremy Miller",
       "categoryItems": [],
       "questionAnswers": []
     },

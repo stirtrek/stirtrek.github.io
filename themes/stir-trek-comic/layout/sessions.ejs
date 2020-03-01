@@ -31,18 +31,27 @@
                         <tr>
                             <% // If there's a speaker, we can link to their session and get category info
                             if(speakersInfo.length > 0) { 
-                                var speakerPageUrl = `/Speakers/${config.currentYear}/${speakersInfo[0].firstName.replace(/[ \"]/g,"")}-${speakersInfo[0].lastName.replace(/[ \"]/g,"")}.html`;
+                                var firstSpeakerPageUrl = `/Speakers/${config.currentYear}/${speakersInfo[0].firstName.replace(/[ \"]/g,"")}-${speakersInfo[0].lastName.replace(/[ \"]/g,"")}.html`;
                             %>
                                 <td>
-                                    <a href="<%= speakerPageUrl %>#abstract">
+                                    <a href="<%= firstSpeakerPageUrl %>#abstract">
                                         <%= sessionInfo.title %>
                                     </a>
                                 </td>
                                 <td class="speaker-cell">
                                     <div>
-                                        <a href="<%= speakerPageUrl %>">
-                                            <%= speakersInfo[0].firstName + " " + speakersInfo[0].lastName %>
-                                        </a>
+                                        <%
+                                        for(var thisSpeaker of speakersInfo) {
+                                            var thisSpeakerPageUrl = `/Speakers/${config.currentYear}/${thisSpeaker.firstName.replace(/[ \"]/g,"")}-${thisSpeaker.lastName.replace(/[ \"]/g,"")}.html`;
+
+                                        %>
+                                            <a href="<%= thisSpeakerPageUrl %>">
+                                                <%= thisSpeaker.firstName.toLowerCase() + " " + thisSpeaker.lastName.toLowerCase() %>
+                                            </a>
+                                            <br/>
+                                        <%
+                                        }
+                                        %>
                                     </div>
                                 </td>
 

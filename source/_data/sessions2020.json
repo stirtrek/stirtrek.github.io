@@ -588,6 +588,7 @@
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
+        "4a610ea2-9433-4ebb-aea1-822da0fcebb0",
         "d06fd6a1-87cf-4d20-a5e0-2dd64c2039bb"
       ],
       "categoryItems": [
@@ -866,8 +867,8 @@
       "firstName": "Alexis",
       "lastName": "Lee",
       "bio": "Alexis (Lexi) Lee is a Junior Penetration Tester and is studying Information Systems with a focus on web and network security as well as Governance, Risk, and Compliance at Cleveland State University. She started programming at 15 on her high school’s FIRST Robotics team and started her transition into security at 16. She has a variety of both technical and speaking experience; highlights include developing and teaching middle and high school security and development summer camps, organizing and presenting at a 600+ person state-wide Key Club conference, and presenting to school boards and teachers on the importance of Computer Science education.\r\n\r\nShe has given presentations for charity events dressed up as Snow White and has a collection of over 150 rubber ducks. ",
-      "tagLine": "Information Systems student at Cleveland State University & Jr. Penetration Tester at Hyland Software",
-      "profilePicture": "https://sessionize.com/image?f=d71091f66ed926564c6d9002941f0d2f,400,400,1,0,c4-bf81-4899-ad43-f148b82b17df.ef8a1b35-deef-46ed-bd23-53cac6bcaf2b.jpg",
+      "tagLine": "Information Systems student at Cleveland State University",
+      "profilePicture": "https://sessionize.com/image?f=57271e81c4fc2242af0235bd4cf50c9f,400,400,1,0,c4-bf81-4899-ad43-f148b82b17df.7e4e7d82-1e75-421d-a233-32e576a6c2b6.JPG",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1975,6 +1976,33 @@
         175295
       ],
       "fullName": "Sam Nasr",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "4a610ea2-9433-4ebb-aea1-822da0fcebb0",
+      "firstName": "Samara",
+      "lastName": "Williams",
+      "bio": "Samara works for Cardinal Health, as a Cyber Threat Intelligence Engineer. As an engineer, Samara collects and assesses a wide range of threats to the healthcare industry. She specializes in MITRE ATT&CK, threat actor reporting, strategic program design/implementation, and fostering relationships within the organization. Samara is passionate about relationship building, giving back to the community, and encouraging kids, women and/or minorities in the technology and cybersecurity fields. This passion also lends itself to the various extra curriculars that she is involved in such as: Treasurer of the International Consortium of Minority Cybersecurity Professionals - Columbus Chapter (ICMCP-CBUS), Treasurer of EmpoWE-R Women of Infosec, Founding Member and Vice President of the Ohio Cyber Women (OCW) organization, and Volunteer Mentor for Franklin County Children Services.",
+      "tagLine": "Threat Intelligence Analyst and Cyber Enthusiast ",
+      "profilePicture": "https://sessionize.com/image?f=9076533fb673973581af6446682cfc68,400,400,1,0,1dcf2460-fea1-4042-b503-2e8a198c618d.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/samara-williams-9aa24247",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://m.youtube.com/watch?v=VUFqJJM4wcA",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        179529
+      ],
+      "fullName": "Samara Williams",
       "categoryItems": [],
       "questionAnswers": []
     },

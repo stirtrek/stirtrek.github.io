@@ -35,7 +35,7 @@ title: Tech & a Flick
 <div class="row">
     <div class="col-md-12">
         <div class="comic-panel-header comic-panel-gold offset">
-            Coronavirus
+            Update re: Coronavirus
         </div>
         <div class="comic-panel-body with-header">
             In light of the global health concerns due to the novel coronavirus (COVID-19), the organizing board of the Stir Trek conference is monitoring public health guidance in relation to our in-person events. At this time, global health authorities have not issued guidance to avoid travel to Columbus or Ohio. We are looking carefully at our contingency options in the event of more serious direction from authorities, but we are currently planning to hold Stir Trek on May 1, 2020, as planned.

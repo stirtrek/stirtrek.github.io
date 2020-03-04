@@ -80,7 +80,7 @@ hexo.extend.generator.register('create-service-worker', function(locals) {
 
 
     // Here's our lovely service worker template for us to insert the cache list in
-    let serviceWorkerHTML = swStringBuilder.buildSWString(allPagesAndFilesString);
+    let serviceWorkerHTML = swStringBuilder.buildSWString(allPagesAndFilesString, Date.now().toString());
 
     return [{
         path: "/serviceworker.js",

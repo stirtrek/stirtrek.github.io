@@ -1,7 +1,7 @@
-function buildSWString (stringOfAllFiles) {
+function buildSWString (stringOfAllFiles, utcNow) {
     // Here's our lovely service worker template for us to insert the cache list in
     let serviceWorkerHTML = `
-var CACHE = 'network-or-cache-2020-3';
+var CACHE = 'network-or-cache-${utcNow}';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {

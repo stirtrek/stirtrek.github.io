@@ -41,7 +41,7 @@ title: Tech & a Flick
             In light of the global health concerns due to the novel coronavirus (COVID-19), the organizing board of the Stir Trek conference is monitoring public health guidance in relation to our in-person events. At this time, global health authorities have not issued guidance to avoid travel to Columbus or Ohio. We are looking carefully at our contingency options in the event of more serious direction from authorities, but we are currently planning to hold Stir Trek on May 1, 2020, as planned.
             <br>
             <br>
-            We are not taking decisions lightly, but the health and well-being of our team, volunteers, speakers, sponsors and especially our attendees remain our ultimate priority. We will continue to monitor and make any necessary changes as the situation evolves.
+            <strong>We are not taking decisions lightly, but the health and well-being of our team, volunteers, speakers, sponsors and especially our attendees remain our ultimate priority. We will continue to monitor and make any necessary changes as the situation evolves.</strong>
             <br>
             <br>
             March 4, 2020

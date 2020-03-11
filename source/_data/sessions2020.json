@@ -1,45 +1,58 @@
 {
   "sessions": [
     {
-      "id": "181652",
-      "title": "\"Hey Mycroft\": Getting Started with the OSS Home Assistant",
-      "description": "Home virtual assistants, like Alexa, Google Now, Siri, and Cortana, are gaining a lot of popularity. They’re now incorporated into our phones, our laptops, and even available as separate devices in our homes. Some people haven’t adopted them out of privacy concerns. A new system called Mycroft has come onto the scene, and it’s built on open source hardware and software. You can install it on a Raspberry Pi, an old Linux box, or buy their own Mycroft device.\r\n\r\nIn this session, we’ll go over the basics of what Mycroft is, and how you can quickly build your own \"Picroft\" on a Raspberry Pi. From there, we’ll talk about how it works under the hood and see a short demo. Finally, we’ll see how to build new skills into it and contribute them back to the community. You’ll leave with your own virtual assistant and the knowledge on how make it do what you want but keep your privacy in check.",
-      "startsAt": null,
-      "endsAt": null,
+      "id": "7ab82744-7b0c-45dc-8ce5-351cc9b7b883",
+      "title": "Breakfast",
+      "description": null,
+      "startsAt": "2020-05-01T07:30:00",
+      "endsAt": "2020-05-01T08:30:00",
+      "isServiceSession": true,
+      "isPlenumSession": false,
+      "speakers": [],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 12195
+    },
+    {
+      "id": "178251",
+      "title": "Git Back to Basics",
+      "description": "Have you written code that worked, then broke it, only to not remember what the working code was? Git, a version control application could be the solution you are looking for. Git can help you to track changes in your projects, go back to when your code is working, or even find out where it broke. You can use it in collaboration with a team or as the only developer on a project. Learn the commands that are used every day as well as a few that can help you fix mistakes.",
+      "startsAt": "2020-05-01T08:30:00",
+      "endsAt": "2020-05-01T09:30:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "97e1c796-8bf6-468b-b246-0efc6979b9e7"
+        "3c774b73-d976-4916-ac8a-fac04a4bc9ca"
+      ],
+      "categoryItems": [
+        36381
+      ],
+      "questionAnswers": [],
+      "roomId": 13014
+    },
+    {
+      "id": "173686",
+      "title": "Deep Learning on the Edge",
+      "description": "Machine learning on microcontrollers? You bet! With the introduction of TensorFlow Lite, machine learning inferencing has moved to the edge... as in edge computing! Cloud-based servers or internet connections are no longer required. Machine learning can occur on the microcontroller, directly on the hardware, without network latency, or even any network connection. Let's explore how machine learning inferencing works on microcontrollers and look at some live examples.",
+      "startsAt": "2020-05-01T08:30:00",
+      "endsAt": "2020-05-01T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9ad0adf2-d1f5-4a12-b87b-3d70968fa112"
       ],
       "categoryItems": [
         36379
       ],
       "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "181017",
-      "title": "\"Oh no, Mom got Hacked Again!\" - How to Implement Good Security for the Non-Professional",
-      "description": "Everyone with a career in any branch of technology absolutely loves playing personal tech support to family and friends, right? Your brother’s wifi isn’t working, your best friend’s credit card information was stolen in a data breach, and your mother’s computer keeps getting infected with malware even though she swears she didn’t click the sketchy looking link this time. You have no problem helping them out, and want them to learn better security practices! However, you know very well trying to explain how to use a password manager to your grandmother that can hardly turn her iPad on will be a bit of a struggle.\r\n\r\nIt is possible to perform tasks that security professionals do on a regular basis, such as reconnaissance, threat modeling, and vulnerability remediation to quickly and easily identify and even assist your loved ones in creating a better security posture for themselves without sounding like a slightly rude security know-it-all and not truly creating a personalized solution for their situation.\r\n\r\nIn this talk, I will give a few examples of everyday, non-security experts, what information they need to keep secure, and what current bad practices they are currently using. I will discuss how to have a respectful conversation about pointing out what bad security practices may be taking place, and why it is important to fix them without inciting a panic, I’ll help you give accurate advice on how to do better without frustrating your relatives into believing that good security is obstructively difficult. The aim of this talk is to show how simple decent security can actually be when we as professionals take the time to truly listen to our loved ones (and in turn, our customers) struggles and offer solutions they can stand up on their own. Sometimes a given solution to a problem would be an absolute disaster to implement in a typical work environment, but if it means your aunt’s chocolate chip cookie recipe is just a little more secure, then that’s all that matters at the end of the day.\r\n",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "f30fe3d6-2d9e-449a-8166-223a5bf52c6d"
-      ],
-      "categoryItems": [
-        36382
-      ],
-      "questionAnswers": [],
-      "roomId": null
+      "roomId": 13015
     },
     {
       "id": "174067",
       "title": "A Brighter Future: Lessons in Cloud-Native Applications",
       "description": "Terms such as \"Cloud native\", \"microservices\", and \"web scale\" have become commonplace in recent years. However, achieving real results is more difficult than simply wrapping a legacy application in a container. This talk will cover a series of best practices and lessons learned for migrating applications into containerized architectures. Through a live demo using an example application that connects to and controls a Philips Hue light bulb, we will explore the benefits and uses of containers and how an orchestration engine such as OpenShift can help.",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2020-05-01T08:30:00",
+      "endsAt": "2020-05-01T09:30:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -49,14 +62,252 @@
         38327
       ],
       "questionAnswers": [],
-      "roomId": null
+      "roomId": 13016
+    },
+    {
+      "id": "180821",
+      "title": "Introducing Juvet: Building Bots in Elixir",
+      "description": "There is another massive shift happening with how we interact with companies through software. Users feel comfortable naturally talking with their applications through chat bots. Chat is the next generation of the user interface.\r\n\r\nCompanies like Slack, Facebook, WhatsApp, and WeChat have some of the most popular apps in the world and they are all betting on a messaging interface.\r\n\r\nElixir is the perfect language and ecosystem for building bots and for conversational interfaces. In this session, we will see how we can build scalable, realtime web applications (or “bots”) using a new library Juvet and the Slack API. We will see what a good bot architecture looks like and how we can integrate with existing artificial intelligence services to make our bots smarter.",
+      "startsAt": "2020-05-01T08:30:00",
+      "endsAt": "2020-05-01T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "50f41e93-b7de-49f8-b7aa-8fbdc42e801a"
+      ],
+      "categoryItems": [
+        38324
+      ],
+      "questionAnswers": [],
+      "roomId": 13017
+    },
+    {
+      "id": "180963",
+      "title": "Documentation: The Missing Pieces",
+      "description": "Document all the things, they say! But are we documenting for ALL the PEOPLE? It seems that most documentation is written for the intermediate and above devs, the devs who have been around, and the devs who are already comfortable with programming.\r\n\r\nBut what about the true beginners, the career-transitioners, or those crossing domains? Most documentation is certainly not written for them! \r\n\r\nIn this talk, I'd like to explore the ways we can make our documentation better by considering more kinds of people. We'll discover common oversights and assumptions most documentation has built-in by default and learn how to fix them. We'll also strengthen our technical writing skills to ensure, to the best of our ability, that every anticipated reader of our documentation never feels lost or frustrated. \r\n\r\nBy the end of this talk, you'll leave and never write your documentation in the same way again...and that's a good thing!",
+      "startsAt": "2020-05-01T08:30:00",
+      "endsAt": "2020-05-01T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a378b580-baef-4c58-a9b3-589139c88159"
+      ],
+      "categoryItems": [
+        36385
+      ],
+      "questionAnswers": [],
+      "roomId": 13018
+    },
+    {
+      "id": "176084",
+      "title": "Is This Your Card? Computer Vision for Playing Card Recognition",
+      "description": "\"Pick a card, any card,\" the magician prompts you fanning out a deck of cards. You select a card, note its value, and hand it back to the magician. They do some sleight of hand, make the card disappear into the deck, and then make it reappear. You confirm that it is, indeed, your original card. The magician moves on and you get to go back to enjoying your dinner.\r\n\r\nWhere is the real magic? Is it in the magician's ability to make a card reappear? Or, is it something that many of us take for granted each and every day? In the very instant you glance at a card, you're able to take in details without even thinking about it.\r\n\r\nComputer Vision aims to teach computers to interact with the visual world. It has applications in navigation, automated inspection, medical image process, and so much more.\r\n\r\nThis talk will do the following:\r\n\r\n- Introduce the field of Computer Vision.\r\n- Demonstrate how to manipulate a webcam video feed and pre-process the video to perform Canny Edge Detection.\r\n- Use these edges to isolate a playing card image and, eventually, identify which playing card is being shown.\r\n\r\nNo prior knowledge of Computer Vision or Machine Learning is necessary.",
+      "startsAt": "2020-05-01T08:30:00",
+      "endsAt": "2020-05-01T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8b3ec403-3543-4b9f-a6e5-37e79e4d1f15"
+      ],
+      "categoryItems": [
+        38325
+      ],
+      "questionAnswers": [],
+      "roomId": 13019
+    },
+    {
+      "id": "181095",
+      "title": "What On Earth Is Quantum Computing?!? (And will it break all my encryption?)",
+      "description": "You might have heard that quantum computers can break public key encryption. You might also have heard that you can buy a quantum computer today, or run programs on one via a cloud service. Yet TLS does not seem to be broken! What is going on? It’s hard to tell, because most “explanations” of quantum computing are either marketing brochures or written for an audience of physics postdocs. This talk will clearly explain what we know about quantum computing today, and how it is relevant to software professionals now and in the near future, no math required. We’ll focus on the security space in particular and discuss what quantum computers can do besides factor large integers. Come with questions, leave with a clear vision for how new computing technologies may change your work in the decades to come!",
+      "startsAt": "2020-05-01T08:30:00",
+      "endsAt": "2020-05-01T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "446a4b0e-58b2-4708-a446-34ab2e13a25b"
+      ],
+      "categoryItems": [
+        36382
+      ],
+      "questionAnswers": [],
+      "roomId": 13020
+    },
+    {
+      "id": "174087",
+      "title": "Using the Repository Pattern - The Right Way",
+      "description": "Like any design pattern, the repository pattern can be overused or misapplied. This pattern is very popular and has a long history, so others have probably already encountered pitfalls you've faced or will face. This session demonstrates the basic problem the pattern solves, shows how to implement the pattern, and then iterates on the basics by tearing each implementation apart with new requirements or criticisms. After this session, you'll have a good understanding of the pattern, whether to apply it, and how to apply it in a variety of scenarios.",
+      "startsAt": "2020-05-01T08:30:00",
+      "endsAt": "2020-05-01T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
+      ],
+      "categoryItems": [
+        36374
+      ],
+      "questionAnswers": [],
+      "roomId": 13021
+    },
+    {
+      "id": "175293",
+      "title": "Xamarin.Forms Deep Dive",
+      "description": "Shells! Visual! Navigation! Custom Renderers! Oh my! Come see the latest and greatest coming in Xamarin.Forms 4.0. We will take a closer look at the newest developments from the Xamarin team and how we can use them to quickly craft a fully featured, cross-platform, mobile application from scratch. Using Shell, we can build out our presentation layer with MVVM and built-in navigation and deep-linking. With Visual, we can quickly adopt an application-wide design language, like Material or Fluent, in a single line of code. Have your own design language? Leverage the Visual component with custom renderers to bedazzle your app. All presented with dangerously live demos!",
+      "startsAt": "2020-05-01T09:45:00",
+      "endsAt": "2020-05-01T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "db201afa-bd17-42d6-b17f-627f14e8de2b"
+      ],
+      "categoryItems": [
+        36380
+      ],
+      "questionAnswers": [],
+      "roomId": 13014
+    },
+    {
+      "id": "174957",
+      "title": "Microservices: Patterns, Practices, and Pragmatics",
+      "description": "Are you intrigued by micro-services but don't know how to get started, or even if you should get started? Come for practical tips and patterns to help you get started with micro-services. You'll learn when and why to break out a new service, how to build anti-fragile communication between your services, and how to ",
+      "startsAt": "2020-05-01T09:45:00",
+      "endsAt": "2020-05-01T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "91bee154-3ef8-4024-b491-83a719948c33"
+      ],
+      "categoryItems": [
+        36374
+      ],
+      "questionAnswers": [],
+      "roomId": 13015
+    },
+    {
+      "id": "173787",
+      "title": "Beware of dark clouds on the horizon",
+      "description": "There are many benefits to be gained in moving your infrastructure to the cloud, but many more ways in which it can go horribly wrong. \r\nWill yours be the next company to expose confidential information in a public S3 bucket? Will your carefully crafted infrastructure become unavailable due to a single point of failure?\r\nLearn some best practices for security, high availability and managing costs in cloud environments, and hopefully avoid your company from becoming the next cautionary tale.",
+      "startsAt": "2020-05-01T09:45:00",
+      "endsAt": "2020-05-01T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5b65f17e-cf5a-4746-84d6-217e6445931e"
+      ],
+      "categoryItems": [
+        36375
+      ],
+      "questionAnswers": [],
+      "roomId": 13016
+    },
+    {
+      "id": "173764",
+      "title": "Can Native Web Components Replace Our JavaScript Frameworks?",
+      "description": "Native web components haven't really gained a lot of traction since their inception, but there is a trend starting to arise to create framework-agnostic components. In this session, we will discuss what web components are and whether or not they are ready for production.",
+      "startsAt": "2020-05-01T09:45:00",
+      "endsAt": "2020-05-01T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b642eabd-7250-4ac5-b3b0-ce01951b88aa"
+      ],
+      "categoryItems": [
+        38328
+      ],
+      "questionAnswers": [],
+      "roomId": 13017
+    },
+    {
+      "id": "174175",
+      "title": "Threat Modeling on the Family Road Trip",
+      "description": "Gene Spafford said: “The only truly secure system is one that is powered off...”\r\n\r\nEveryone wants secure applications, but creating them is hard, and we don't all have security certifications. How do you know where to start when \"security\" is not your full-time job? And how do you get the rest of your team on board?\r\n\r\nTake a journey and learn about the progression of adopting a security mindset with a real-world example, played out on the family road trip.\r\n\r\nWe will discuss the challenges with adopting a security mindset on a product team, what steps we can take to empower our team members to own security of their own applications, and how we can leverage shift-left and modern CI principles to sustain it.\r\n\r\nLeave this session prepared to champion security on your own team and to grow a security mindset in others.",
+      "startsAt": "2020-05-01T09:45:00",
+      "endsAt": "2020-05-01T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9acbd491-796e-4248-8f7e-76c0aed5159c"
+      ],
+      "categoryItems": [
+        36382
+      ],
+      "questionAnswers": [],
+      "roomId": 13018
+    },
+    {
+      "id": "176164",
+      "title": "Searching for UFOs with Elasticsearch",
+      "description": "Elasticsearch is an exciting and powerful tool that enables you to quickly add search capabilities to your application to enable your users to find whatever it is they're looking for. In this session attendees will learn the nuts and bolts of Elasticsearch, including basic concepts such as ingestion, search, aggregation and more.\r\n\r\nWe’ll demonstrate how to use Elasticsearch by building a simple UFO search engine that Scully and Mulder would be jealous of by integrating it into the front and backend of your application. By the time we’re done you’ll want to believe too!\r\n\r\nThe truth is out there and now you can search for it yourself!\r\n",
+      "startsAt": "2020-05-01T09:45:00",
+      "endsAt": "2020-05-01T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "ce7aad29-0bde-40af-bb61-bb3fab75ee93"
+      ],
+      "categoryItems": [
+        38324
+      ],
+      "questionAnswers": [],
+      "roomId": 13019
+    },
+    {
+      "id": "180032",
+      "title": "Building Great Products",
+      "description": "Solve the right problems, the right way! An introductory look into \"Product Management\", demystifying the practice and introducing competencies that can enable anyone (not just those with the title) to benefit from a more product centered mindset. This talk looks at how we can bring a human centered approach to digital product development; from ideation to delivery.",
+      "startsAt": "2020-05-01T09:45:00",
+      "endsAt": "2020-05-01T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9d0eeec3-1879-4aff-87d6-6bbea4786f6c"
+      ],
+      "categoryItems": [
+        36381
+      ],
+      "questionAnswers": [],
+      "roomId": 13020
+    },
+    {
+      "id": "176262",
+      "title": "The Truth About Digital Eye Strain",
+      "description": "Digital devices provide us with endless entertainment, easy communication, and modern conveniences that were previously thought impossible. But as screens have become more integrated into our lives, there have been increasing theories, myths, and misinformation spread about what this may be doing to our eyes in the long term. Computer scientists, coders, and developers may be especially concerned, as they have chosen careers requiring hours of digital screen use every day. Are digital devices making us all go blind? What is the 20/20/20 rule? What is the deal with this mysterious blue light? This session will review some of the most common causes of digital eye strain from an optometrist who sees the effects of digital screens and provides effective treatments on a daily basis. ",
+      "startsAt": "2020-05-01T09:45:00",
+      "endsAt": "2020-05-01T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d7ea56b1-7b91-40b5-bfeb-cbd72cc6f83d"
+      ],
+      "categoryItems": [
+        36385
+      ],
+      "questionAnswers": [],
+      "roomId": 13021
+    },
+    {
+      "id": "178040",
+      "title": "Marten: Postgresql backed Document Db and Event Store for .Net Development",
+      "description": "Tired of the impedance mismatch between the model your application code wants for behavior and logic and the potentially very different data model that your relational database wants for storage? Scared of NoSQL databases because you’ve always heard that they aren’t transactional, lose your data under load, and lack all the production support tools you need? Fortunately, there’s now the Marten library that allows .Net developers to work with the very robust Postgresql database as a fully ACID-compliant, document database and event store. In this talk, we’ll look at how Marten’s programming model allows developers to be more productive compared to using a more typical ORM tool against a relational database. We’ll also take a look at the integrated event store functionality and how Marten makes event sourcing easier and more manageable in many ways than previous tools.",
+      "startsAt": "2020-05-01T11:00:00",
+      "endsAt": "2020-05-01T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "cf80d55a-62bf-4be2-a986-27d217129faf"
+      ],
+      "categoryItems": [
+        38325
+      ],
+      "questionAnswers": [],
+      "roomId": 13014
     },
     {
       "id": "177084",
       "title": "A Crash Course in Testing with Dax and Dante",
       "description": "Sometimes when a feature is handed over to test, it feels like it's being lead into a dark cave where somthing happens and bugs are returned.  What is that something?  What is it that testers do to find these bugs?\r\n\r\nDuring this session, Dax Dumpling the Developer Siamese and Dante the Tester Maine Coon will help guide you along a journey into the world of testing as Dante teaches Dax the ropes.  We'll see that there's a lot of different types of testing from boundary to regression to risk based to smoke to combinatorial.  We'll give them names and descriptions as well as talk about when a tester might employ these methods on your features.  You will come away with a deeper understanding of what testing is and how your team members do their jobs.\r\n\r\nTakeaways:\r\n* Types of testing and how you can apply them in development\r\n* How to talk to your testers about concerns \r\n* What your testers do on a daily basis\r\n* Adorable pictures of both Dax and Dante\r\n",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2020-05-01T11:00:00",
+      "endsAt": "2020-05-01T12:00:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -66,14 +317,197 @@
         36383
       ],
       "questionAnswers": [],
-      "roomId": null
+      "roomId": 13015
+    },
+    {
+      "id": "173847",
+      "title": "WebAssembly Live!",
+      "description": "First things first: we'll lay the groundwork with what WebAssembly is and just as importantly, what it isn't. Then we will write and execute some WebAssembly, live. If you're tired of hearing about WebAssembly and not actually seeing it, let's fix that. You'll see every step of the process and every line of code along the way.",
+      "startsAt": "2020-05-01T11:00:00",
+      "endsAt": "2020-05-01T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3740f3a7-86e3-4d66-8f48-16790a13fccb"
+      ],
+      "categoryItems": [
+        38328
+      ],
+      "questionAnswers": [],
+      "roomId": 13016
+    },
+    {
+      "id": "178056",
+      "title": "Snips and Snails and Puppy Dog Tails: Your software supply chain",
+      "description": "We are standing on the shoulders of giants.  Building beautiful things out of beautiful things is at the heart of software composition today.  But what happens when things aren't so beautiful? What if that dependency of a dependency of a dependency has a Bitcoin miner written into it? Is your code review catching that? It doesn't matter if you type npm-install or Install-Package or php composer.phar install or mvn install or cpanm or pip install.  Probably not.  Let's look at the realities of your supply chain, how it is getting corrupted, and what we can do about it. You'll see how to avoid becoming a victim of the next left-pad.",
+      "startsAt": "2020-05-01T11:00:00",
+      "endsAt": "2020-05-01T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "edf87fe3-df21-4e80-8834-c0d0365dbb59"
+      ],
+      "categoryItems": [
+        36382
+      ],
+      "questionAnswers": [],
+      "roomId": 13017
+    },
+    {
+      "id": "181113",
+      "title": "Life in the Fastlane: App Store Deployments That Won't Make You Lose Your Mind",
+      "description": "Imagine deploying your shiny new app to the Apple App Store- creating certs, uploading your app to Testflight, adding testers, taking screenshots on four different devices, filling in dozens of fields on the store description, clicking through EULA’s, and resubmitting five times because the reviewer didn’t like the drop shadow on your home screen icon. Now imagine doing that 70 times for each update because you’ve just inherited 70 white label apps. With examples from the real-life tribulations of a developer faced with this “automate-or-die” scenario, learn how to use Fastlane to build scripts that do all that annoying App Store Connect and Google Play Console stuff for you. Highly-recommended for mobile developers suffering from app store fatigue who have never used Fastlane, or who want to go beyond the one or two Fastlane scripts they copied from Stack Overflow- whether they support one app or a thousand.",
+      "startsAt": "2020-05-01T11:00:00",
+      "endsAt": "2020-05-01T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e1bae403-09f5-4b55-b214-ad0fbba4c551"
+      ],
+      "categoryItems": [
+        36380
+      ],
+      "questionAnswers": [],
+      "roomId": 13018
+    },
+    {
+      "id": "173606",
+      "title": "Technical Debt Must Die - Communicating Code to Business Stakeholders",
+      "description": "Our software sucks. We're up to our necks in bugs and technical debt, yet we often seem to hit roadblocks explaining things in ways that bring about meaningful change. \r\n\r\nIn this session you'll learn to gather, analyze, and interpret data in order to create effective presentations to communicate quality, technical debt, and other technical matters in ways that tell a compelling story. You’ll master how to communicate effectively with key stakeholders by taking a data-driven approach blended with storytelling techniques to bridge common gaps between development and business stakeholders. You’ll explore the 7 tools of software quality and how they can bring clarity and sanity to the decision-making process, justify paying down technical debt, and focusing on improving our software in the areas that need it most.",
+      "startsAt": "2020-05-01T11:00:00",
+      "endsAt": "2020-05-01T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "17c299ee-d9fd-4020-b499-2837b2b3a2bf"
+      ],
+      "categoryItems": [
+        36381
+      ],
+      "questionAnswers": [],
+      "roomId": 13019
+    },
+    {
+      "id": "181652",
+      "title": "\"Hey Mycroft\": Getting Started with the OSS Home Assistant",
+      "description": "Home virtual assistants, like Alexa, Google Now, Siri, and Cortana, are gaining a lot of popularity. They’re now incorporated into our phones, our laptops, and even available as separate devices in our homes. Some people haven’t adopted them out of privacy concerns. A new system called Mycroft has come onto the scene, and it’s built on open source hardware and software. You can install it on a Raspberry Pi, an old Linux box, or buy their own Mycroft device.\r\n\r\nIn this session, we’ll go over the basics of what Mycroft is, and how you can quickly build your own \"Picroft\" on a Raspberry Pi. From there, we’ll talk about how it works under the hood and see a short demo. Finally, we’ll see how to build new skills into it and contribute them back to the community. You’ll leave with your own virtual assistant and the knowledge on how make it do what you want but keep your privacy in check.",
+      "startsAt": "2020-05-01T11:00:00",
+      "endsAt": "2020-05-01T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "97e1c796-8bf6-468b-b246-0efc6979b9e7"
+      ],
+      "categoryItems": [
+        36379
+      ],
+      "questionAnswers": [],
+      "roomId": 13020
+    },
+    {
+      "id": "179748",
+      "title": "Estimating App Builds and Migrations in the Cloud",
+      "description": "In the age cloud migrations and digital transformations, developers are often asked to estimate work on technology stacks they haven't used before.  Estimations in general are difficult and adding the cloud component can add an extra level of complexity, or does it?\r\n\r\nLearn how to love the estimation process and leave with some tips and tactics when dealing with the cloud. We will do a brief discussion of  estimation best practices. Learn how to transfer the estimation knowledge from estimator to the rest of the team. \r\n",
+      "startsAt": "2020-05-01T11:00:00",
+      "endsAt": "2020-05-01T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "78066f12-f7ff-4768-85cb-37774860b0a3"
+      ],
+      "categoryItems": [
+        38324
+      ],
+      "questionAnswers": [],
+      "roomId": 13021
+    },
+    {
+      "id": "41fb20a5-cbdf-496b-a059-db76e52d9c92",
+      "title": "Lunch",
+      "description": null,
+      "startsAt": "2020-05-01T12:00:00",
+      "endsAt": "2020-05-01T13:00:00",
+      "isServiceSession": true,
+      "isPlenumSession": false,
+      "speakers": [],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 12195
+    },
+    {
+      "id": "179596",
+      "title": "Software Design Patterns: How to implement, maintain, and sell them",
+      "description": "Have you ever run into an issue that you just know someone has solved before? A situation where you stop yourself mid-function-declaration and say “What am I doing? Why reinvent the wheel here?” and then find that a Stack Overflow search quickly serves up the copy-pasta you ordered? In the world of software architecture, we call that copy-pasta a “design pattern”. Design patterns are architectural solutions to common problems. In this talk, I’ll make the case for software design patterns and explain how to get them adopted by your teams. This talk is based on my popular article “The Importance Of Design Patterns When Leading Large Teams\".\r\n\r\n## In this session, we’ll discuss:\r\n1. What design patterns are and why they exist.\r\n2. Their effect on projects of various sizes.\r\n3. An application I built with a team, the decisions we made along the way, and what patterns we considered for different scenarios vs what we ultimately went with.\r\n4.How you can take things too far with patterns through an example of a time when I did just that.\r\n5. How to maintain these patterns through facilitated recurring conversations.\r\n6. Selling the idea of software design patterns to your boss as well as your team.\r\n\r\n## This session is for you if:\r\nYou’re a junior developer just getting interested in the concept of how software is put together from a high-level view.\r\nYou’re an individual contributor on a team and want to be more informed when talking about software design patterns among your peers.\r\nYou’re an individual contributor and want to know how to affect change from a non-leadership perspective on your team.\r\nYou’re a technical leader and want to hear a more broad perspective of when to consider using software design patterns.\r\n",
+      "startsAt": "2020-05-01T13:00:00",
+      "endsAt": "2020-05-01T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5f22fa2a-c996-4a7e-9972-13af32ed0405"
+      ],
+      "categoryItems": [
+        36374
+      ],
+      "questionAnswers": [],
+      "roomId": 13014
+    },
+    {
+      "id": "173747",
+      "title": "How Microsoft builds software using Azure DevOps",
+      "description": "Ever wondered how Microsoft takes the combined work of tens of thousands of engineers to plan and build Windows? Minecraft? Office? Bing? Azure DevOps? During this session I will deep dive into how Microsoft uses its own tools such as Azure DevOps to power our internal engineering system \"1ES\" and work at massive scale. From agile planning to Git source control, to build and release, this will give you insight into our internal engineering process and tools.\r\n",
+      "startsAt": "2020-05-01T13:00:00",
+      "endsAt": "2020-05-01T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "34444989-6fb6-4714-8398-324e29081b49"
+      ],
+      "categoryItems": [
+        38327
+      ],
+      "questionAnswers": [],
+      "roomId": 13015
+    },
+    {
+      "id": "180166",
+      "title": "ARIA: A Grande Method Of Accessible Markup.",
+      "description": "ARIA, or accessible rich internet applications, are a very powerful set of attributes that define non-semantic content for your users with disabilities. In this session, we are going to break down web accessibility at its most granular level before exploring ARIA properties that will help create amazing user experiences, when semantic markup won't cut it. By the end of this talk, you will walk away with the knowledge of introductory ARIA concepts and when to put them into practice.",
+      "startsAt": "2020-05-01T13:00:00",
+      "endsAt": "2020-05-01T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "730a789f-e2a8-483d-91bc-6e794f1b44d5"
+      ],
+      "categoryItems": [
+        38328
+      ],
+      "questionAnswers": [],
+      "roomId": 13016
+    },
+    {
+      "id": "180478",
+      "title": "Improving the Hospice Experience with Virtual Reality (and Design Thinking)",
+      "description": "End of life is a difficult time for patients and those who care for them. Hospice patients often exhibit anxiety and sadness. Centric Consulting partnered with Microsoft to develop and Azure-based app that pairs with Virtual Reality headsets to improve end of life care.\r\n\r\nBy incorporating an empathy-based design approach, we were able to innovate both successfully and mindfully.\r\n\r\nIn this presentation, you will learn how to incorporate design thinking to help your organization imagine and implement in a user-centered way.\r\n",
+      "startsAt": "2020-05-01T13:00:00",
+      "endsAt": "2020-05-01T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e149e54a-9d13-4123-97ba-9b7667e3611e"
+      ],
+      "categoryItems": [
+        36381
+      ],
+      "questionAnswers": [],
+      "roomId": 13017
     },
     {
       "id": "174817",
       "title": "A Skeptic's Guide to Functional Style Javascript",
       "description": "With modern JavaScript, we have seen a rise in ‘functional style’ javascript popularity. This style introduces a whole slew of terms and patterns that have different connotations depending on who you are talking to. Phrases like purity, higher order functions, and currying are thrown around all over the place. What does ‘no side effects’ mean, and what about when you need to get something done? And what in the world is a ‘monad’? In this talk, Jon will walk through the world of the functional programmer and show how these phrases and patterns fit into modern JavaScript development. Jon will work through functions as first class objects in JS, and show how we can use that feature to write clean, maintainable, and reusable code. You will also walk away armed with the information you need to see through all they hype. You’ll have a firm grasp of where these patterns are useful, and as importantly, where they are not.",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2020-05-01T13:00:00",
+      "endsAt": "2020-05-01T14:00:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -83,14 +517,14 @@
         38324
       ],
       "questionAnswers": [],
-      "roomId": null
+      "roomId": 13018
     },
     {
       "id": "176670",
       "title": "Alexa, how much is my electric bill?",
       "description": "A Case Study of Generative User Experience Research for Voice Assistant Technology within the Utilities Space.",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2020-05-01T13:00:00",
+      "endsAt": "2020-05-01T14:00:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -101,490 +535,14 @@
         38326
       ],
       "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "180166",
-      "title": "ARIA: A Grande Method Of Accessible Markup.",
-      "description": "ARIA, or accessible rich internet applications, are a very powerful set of attributes that define non-semantic content for your users with disabilities. In this session, we are going to break down web accessibility at its most granular level before exploring ARIA properties that will help create amazing user experiences, when semantic markup won't cut it. By the end of this talk, you will walk away with the knowledge of introductory ARIA concepts and when to put them into practice.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "730a789f-e2a8-483d-91bc-6e794f1b44d5"
-      ],
-      "categoryItems": [
-        38328
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "173787",
-      "title": "Beware of dark clouds on the horizon",
-      "description": "There are many benefits to be gained in moving your infrastructure to the cloud, but many more ways in which it can go horribly wrong. \r\nWill yours be the next company to expose confidential information in a public S3 bucket? Will your carefully crafted infrastructure become unavailable due to a single point of failure?\r\nLearn some best practices for security, high availability and managing costs in cloud environments, and hopefully avoid your company from becoming the next cautionary tale.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "5b65f17e-cf5a-4746-84d6-217e6445931e"
-      ],
-      "categoryItems": [
-        36375
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "173769",
-      "title": "BlazeDown with Blazor",
-      "description": "Is it time to say goodbye to JavaScript and run C# in the browser? The arrival of WebAssembly begins a new era for .NET web developers, allowing client-side applications written in C# to run directly in the browser. We'll explore what Blazor means for web development and learn what to expect from Microsoft this May. In this session we’ll go beyond the basic hello world to see how Blazor can easily create a Markdown Editor, convert office documents and build stunning web apps with little or no JavaScript.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "3fd9cade-10ef-43df-b124-944015042549"
-      ],
-      "categoryItems": [
-        38328
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "175295",
-      "title": "Building Decision Intelligence into Applications",
-      "description": "Most web applications simply provide the content for the user along with a standard list of links and articles.  Wouldn't it be nice to be able to customize this list of links for each user, making it a better user experience?  The Azure Custom Decision Service provides contextual decision-making, allowing for a more robust user experience. It does so by converting content into features for Machine Learning.  This technology utilizes several other Microsoft Cognitive Services, such as Entity Linking, Text Analytics, Emotion, and Computer Vision for a more personalized and intelligent experience.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "4b7bb039-5122-421b-a7ef-d57b51e88c64"
-      ],
-      "categoryItems": [
-        38325
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "180032",
-      "title": "Building Great Products",
-      "description": "Solve the right problems, the right way! An introductory look into \"Product Management\", demystifying the practice and introducing competencies that can enable anyone (not just those with the title) to benefit from a more product centered mindset. This talk looks at how we can bring a human centered approach to digital product development; from ideation to delivery.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "9d0eeec3-1879-4aff-87d6-6bbea4786f6c"
-      ],
-      "categoryItems": [
-        36381
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "173764",
-      "title": "Can Native Web Components Replace Our JavaScript Frameworks?",
-      "description": "Native web components haven't really gained a lot of traction since their inception, but there is a trend starting to arise to create framework-agnostic components. In this session, we will discuss what web components are and whether or not they are ready for production.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "b642eabd-7250-4ac5-b3b0-ce01951b88aa"
-      ],
-      "categoryItems": [
-        38328
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "181069",
-      "title": "Continuous Security: Integrate security tools into your DevOps Pipeline",
-      "description": "OWASP, a nonprofit composed of security experts from around the world, provides a number of free and open source tools designed by security experts to help your secure your applications. Learn how to integrate these tools - from active penetration tests to project dependency checkers - into your DevOps pipeline and deliver on the promise of continuous security.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "451fd96d-6170-4173-8fb6-c2d7f918ad30"
-      ],
-      "categoryItems": [
-        36382
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "173686",
-      "title": "Deep Learning on the Edge",
-      "description": "Machine learning on microcontrollers? You bet! With the introduction of TensorFlow Lite, machine learning inferencing has moved to the edge... as in edge computing! Cloud-based servers or internet connections are no longer required. Machine learning can occur on the microcontroller, directly on the hardware, without network latency, or even any network connection. Let's explore how machine learning inferencing works on microcontrollers and look at some live examples.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "9ad0adf2-d1f5-4a12-b87b-3d70968fa112"
-      ],
-      "categoryItems": [
-        36379
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "180707",
-      "title": "Demystifying the .NET Runtime",
-      "description": "While most .NET developers know that .NET is an interpreted language, have you ever thought about what that really means? If the language is compiled to an intermediate language (literally called \"Microsoft Intermediate Language\" or MSIL) and run on a VM, how have they added more features to the language without updating the interpreter?\r\n\r\nThis talks answers all these questions and more. We'll take a deep dive into the differences between the .NET Compiler and .NET Runtime.  We'll see what's possible in the compiler, what the runtime can do, and how you can know what's happening where. You'll leave this session with a deeper appreciation of the .NET languages and a clearer sense of how your code really runs.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "94732aa0-c688-45c1-b92b-7ebad08ea8e0"
-      ],
-      "categoryItems": [
-        38324
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "173796",
-      "title": "Do you know what happens to your data after you create it?",
-      "description": "Every piece of code you've written has a cost. The sooner we address that cost the less cost it for our organization and goals. \r\n\r\nThis talk is about making decisions early in the process to make our data more consumable down the chain. We'll discuss: \r\n* Approach to coding not much different than data retrieval\r\n* How to get more from our data\r\n* Best Practices",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "aae8e930-83f8-45be-b1a9-d47075235565"
-      ],
-      "categoryItems": [
-        38325
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "180963",
-      "title": "Documentation: The Missing Pieces",
-      "description": "Document all the things, they say! But are we documenting for ALL the PEOPLE? It seems that most documentation is written for the intermediate and above devs, the devs who have been around, and the devs who are already comfortable with programming.\r\n\r\nBut what about the true beginners, the career-transitioners, or those crossing domains? Most documentation is certainly not written for them! \r\n\r\nIn this talk, I'd like to explore the ways we can make our documentation better by considering more kinds of people. We'll discover common oversights and assumptions most documentation has built-in by default and learn how to fix them. We'll also strengthen our technical writing skills to ensure, to the best of our ability, that every anticipated reader of our documentation never feels lost or frustrated. \r\n\r\nBy the end of this talk, you'll leave and never write your documentation in the same way again...and that's a good thing!",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "a378b580-baef-4c58-a9b3-589139c88159"
-      ],
-      "categoryItems": [
-        36385
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "179748",
-      "title": "Estimating App Builds and Migrations in the Cloud",
-      "description": "In the age cloud migrations and digital transformations, developers are often asked to estimate work on technology stacks they haven't used before.  Estimations in general are difficult and adding the cloud component can add an extra level of complexity, or does it?\r\n\r\nLearn how to love the estimation process and leave with some tips and tactics when dealing with the cloud. We will do a brief discussion of  estimation best practices. Learn how to transfer the estimation knowledge from estimator to the rest of the team. \r\n",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "78066f12-f7ff-4768-85cb-37774860b0a3"
-      ],
-      "categoryItems": [
-        38324
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "174947",
-      "title": "Getting started with GraphQL",
-      "description": "GraphQL is an open-source data query and manipulation language for APIs that’s quickly being adopted throughout the industry. This session will dive into the core concepts about GraphQL by building a GraphQL service from the ground up.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "fa2e8eb9-8e56-4bac-81bb-82bce2308f1c"
-      ],
-      "categoryItems": [
-        38324
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "178251",
-      "title": "Git Back to Basics",
-      "description": "Have you written code that worked, then broke it, only to not remember what the working code was? Git, a version control application could be the solution you are looking for. Git can help you to track changes in your projects, go back to when your code is working, or even find out where it broke. You can use it in collaboration with a team or as the only developer on a project. Learn the commands that are used every day as well as a few that can help you fix mistakes.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "3c774b73-d976-4916-ac8a-fac04a4bc9ca"
-      ],
-      "categoryItems": [
-        36381
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "174082",
-      "title": "Hiring and Inspiring an Exceptional Team",
-      "description": "Management gets a bad rap in technical circles, and for good reason: many managers are terrible, and it shows!\r\n\r\nRising above the pointy-haired-boss stereotypes is easier than you might think. By grounding your leadership style in management science, and adding a touch of emotional intelligence, you can help your team meet its individual and collective goals, improve morale and engagement, and reduce turnover.\r\n\r\nThis session will show early-career managers how to find team players aligned with their core values, how to \"design the alliance\" with new hires, how to get the most out of 1:1s, and how to use personality-typing tools like DISC to motivate and communicate effectively.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "b7235790-4c4a-491c-a8a1-1ed82a5d70b3"
-      ],
-      "categoryItems": [
-        36381
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "173747",
-      "title": "How Microsoft builds software using Azure DevOps",
-      "description": "Ever wondered how Microsoft takes the combined work of tens of thousands of engineers to plan and build Windows? Minecraft? Office? Bing? Azure DevOps? During this session I will deep dive into how Microsoft uses its own tools such as Azure DevOps to power our internal engineering system \"1ES\" and work at massive scale. From agile planning to Git source control, to build and release, this will give you insight into our internal engineering process and tools.\r\n",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "34444989-6fb6-4714-8398-324e29081b49"
-      ],
-      "categoryItems": [
-        38327
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "180604",
-      "title": "How The Heck Would I Integrate Serverless Into My Legacy Application?",
-      "description": "Exploring serverless computing can be discouraging. It sounds amazing and starts your brain spinning about all of the potential applications, but it's not always easy to see where your legacy application may be able to take advantage. In reality, both Azure Functions and AWS Lambda can easily be used to enhance applications and provide a brand new perspective.  In this session, we'll explore some easy applications of serverless that can be added to existing brownfield applications, like simple monitoring, IOT integration, and large file processing. In addition, attendees will learn about situations in which where serverless computing may not be a good fit and a more traditional approach may be warranted in an effort to avoid the growing pains of learning a new technology unecessarily.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "e357c7a0-a665-466a-9632-ce5842b5f45b"
-      ],
-      "categoryItems": [
-        36375
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "180478",
-      "title": "Improving the Hospice Experience with Virtual Reality (and Design Thinking)",
-      "description": "End of life is a difficult time for patients and those who care for them. Hospice patients often exhibit anxiety and sadness. Centric Consulting partnered with Microsoft to develop and Azure-based app that pairs with Virtual Reality headsets to improve end of life care.\r\n\r\nBy incorporating an empathy-based design approach, we were able to innovate both successfully and mindfully.\r\n\r\nIn this presentation, you will learn how to incorporate design thinking to help your organization imagine and implement in a user-centered way.\r\n",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "e149e54a-9d13-4123-97ba-9b7667e3611e"
-      ],
-      "categoryItems": [
-        36381
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "174155",
-      "title": "Infrastructure as Code w/ Terraform",
-      "description": "In this presentation I will introduce the practice of Infrastructure as Code. I will present to the audience what IaC is, why it’s needed and then proceed to showing how you can practice IaC using Hashicorp’s Terraform. I will walk the audience through the Terraform language (variables, data structures, iterations, conditionals) and how to use Terraform to begin building infrastructure in AWS. The presentation will end with a short demo of Terraform.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "1259b275-ff2e-4b52-b3dc-fb631f971d65"
-      ],
-      "categoryItems": [
-        38327
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "179060",
-      "title": "Intentional Design (Stop Designing by Accident)",
-      "description": "Design is bigger than you think. We'll talk about what it isn't (a phase), what it is (everything), who does it (everyone), and when it happens (always). You'll get actionable strategies for recognizing UX design accidents and replacing them with intentional decisions before it's too late—no matter your job title. Design is inevitable, so be intentional.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "f605627a-2dc6-4c8d-99b3-dc8a0f28cc66"
-      ],
-      "categoryItems": [
-        38326
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "180821",
-      "title": "Introducing Juvet: Building Bots in Elixir",
-      "description": "There is another massive shift happening with how we interact with companies through software. Users feel comfortable naturally talking with their applications through chat bots. Chat is the next generation of the user interface.\r\n\r\nCompanies like Slack, Facebook, WhatsApp, and WeChat have some of the most popular apps in the world and they are all betting on a messaging interface.\r\n\r\nElixir is the perfect language and ecosystem for building bots and for conversational interfaces. In this session, we will see how we can build scalable, realtime web applications (or “bots”) using a new library Juvet and the Slack API. We will see what a good bot architecture looks like and how we can integrate with existing artificial intelligence services to make our bots smarter.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "50f41e93-b7de-49f8-b7aa-8fbdc42e801a"
-      ],
-      "categoryItems": [
-        38324
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "176084",
-      "title": "Is This Your Card? Computer Vision for Playing Card Recognition",
-      "description": "\"Pick a card, any card,\" the magician prompts you fanning out a deck of cards. You select a card, note its value, and hand it back to the magician. They do some sleight of hand, make the card disappear into the deck, and then make it reappear. You confirm that it is, indeed, your original card. The magician moves on and you get to go back to enjoying your dinner.\r\n\r\nWhere is the real magic? Is it in the magician's ability to make a card reappear? Or, is it something that many of us take for granted each and every day? In the very instant you glance at a card, you're able to take in details without even thinking about it.\r\n\r\nComputer Vision aims to teach computers to interact with the visual world. It has applications in navigation, automated inspection, medical image process, and so much more.\r\n\r\nThis talk will do the following:\r\n\r\n- Introduce the field of Computer Vision.\r\n- Demonstrate how to manipulate a webcam video feed and pre-process the video to perform Canny Edge Detection.\r\n- Use these edges to isolate a playing card image and, eventually, identify which playing card is being shown.\r\n\r\nNo prior knowledge of Computer Vision or Machine Learning is necessary.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "8b3ec403-3543-4b9f-a6e5-37e79e4d1f15"
-      ],
-      "categoryItems": [
-        38325
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "180465",
-      "title": "Java 9, 10 & 11",
-      "description": "With the quick moving 6-month Java train releases, you like many Java developers and organizations may have remained on Java 8 waiting for the next Long-Term-Support (LTS) release. Well, Java 11 is here so it is time to begin the adoption and upgrading. Java 9 was a HUGE release with many impactful features like the module system, jLink, jShell and a hand full of new Project Coin language features. While Java 10 & 11 were small in comparison based on feature count their influence will be felt. The var keyword, Graal and container awareness features along with lambda, thread and garbage collection enhancements will improve development and operations. This session will provide the knowledge and experience you need to be prepared to migrate your applications from Java 8 to Java 11 successfully.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "96ea86eb-7f1f-4c85-b2b8-98d462a40c94"
-      ],
-      "categoryItems": [
-        38324
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "181032",
-      "title": "Leveraging  Kafka for the \"Agile integration\" Needs of your Enterprise.",
-      "description": "Present day Microservices based teams have different requirements for integration than traditional, waterfall development teams. They invariably operate in ecosystem that is composed of groups of applications and services which together work towards some higher level business goal. Apache Kafka is providing them great option by enabling asynchronous event driven integration ,augmenting the use of synchronous integration and APIs, further supporting Microservices and thus enabling Agile Integration where they can scale and evolve independently.\r\n In this talk we will start with building out Kafka topics as Producers and Consumers and then will take a deep dive into how Kafka Streams enable decoupled communication pattern between them.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "1d5b4156-c5dd-4995-982d-ecce66fe76eb"
-      ],
-      "categoryItems": [
-        38324
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "181113",
-      "title": "Life in the Fastlane: App Store Deployments That Won't Make You Lose Your Mind",
-      "description": "Imagine deploying your shiny new app to the Apple App Store- creating certs, uploading your app to Testflight, adding testers, taking screenshots on four different devices, filling in dozens of fields on the store description, clicking through EULA’s, and resubmitting five times because the reviewer didn’t like the drop shadow on your home screen icon. Now imagine doing that 70 times for each update because you’ve just inherited 70 white label apps. With examples from the real-life tribulations of a developer faced with this “automate-or-die” scenario, learn how to use Fastlane to build scripts that do all that annoying App Store Connect and Google Play Console stuff for you. Highly-recommended for mobile developers suffering from app store fatigue who have never used Fastlane, or who want to go beyond the one or two Fastlane scripts they copied from Stack Overflow- whether they support one app or a thousand.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "e1bae403-09f5-4b55-b214-ad0fbba4c551"
-      ],
-      "categoryItems": [
-        36380
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "178040",
-      "title": "Marten: Postgresql backed Document Db and Event Store for .Net Development",
-      "description": "Tired of the impedance mismatch between the model your application code wants for behavior and logic and the potentially very different data model that your relational database wants for storage? Scared of NoSQL databases because you’ve always heard that they aren’t transactional, lose your data under load, and lack all the production support tools you need? Fortunately, there’s now the Marten library that allows .Net developers to work with the very robust Postgresql database as a fully ACID-compliant, document database and event store. In this talk, we’ll look at how Marten’s programming model allows developers to be more productive compared to using a more typical ORM tool against a relational database. We’ll also take a look at the integrated event store functionality and how Marten makes event sourcing easier and more manageable in many ways than previous tools.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "cf80d55a-62bf-4be2-a986-27d217129faf"
-      ],
-      "categoryItems": [
-        38325
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "173836",
-      "title": "Measure and improve your software development environment",
-      "description": "How much time do software engineers are your company waste waiting on builds, running tests locally, and rerunning flakey test? Do you know? Don’t you want to find out?\r\n\r\nCome to this session to learn how my team tackled long build times, slow local testing, and flakey tests using data to drive our efforts. Learn what we measured and how we used it to improve our developers productivity and happiness.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "3ec45bcc-5de8-4495-a341-f2f94256189d"
-      ],
-      "categoryItems": [
-        38327
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "174957",
-      "title": "Microservices: Patterns, Practices, and Pragmatics",
-      "description": "Are you intrigued by micro-services but don't know how to get started, or even if you should get started? Come for practical tips and patterns to help you get started with micro-services. You'll learn when and why to break out a new service, how to build anti-fragile communication between your services, and how to ",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "91bee154-3ef8-4024-b491-83a719948c33"
-      ],
-      "categoryItems": [
-        36374
-      ],
-      "questionAnswers": [],
-      "roomId": null
+      "roomId": 13019
     },
     {
       "id": "179529",
       "title": "No, your InfoSec team isn’t needlessly paranoid",
       "description": "Hackers aren’t just targeting elections. Russia, China, Iran, and others are real threats to companies here in Columbus, Ohio.  Your InfoSec team sees and protects your apps from dozens of attacks a day, many of which you never hear about. \r\n\r\nWho are these malicious actors? What are they doing? What does the InfoSec team actually do all day besides give you more work to complete? And what can you do to keep your apps secure?\r\n\r\nIn this eye-opening session, we will give you insight into the field of threat intelligence and marry it with application security.  We will discuss the wide range of hackers who target US industries and companies and examine their motivations.  We’ll highlight some of the boogeymen who keep us up at night and profile their Tactics, Techniques, and Procedures (TTPs).  Finally, we’ll talk about major components of an effective application security program and why our partnership with development teams is critical to ensure the security of our companies.\r\n",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2020-05-01T13:00:00",
+      "endsAt": "2020-05-01T14:00:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -595,65 +553,116 @@
         36382
       ],
       "questionAnswers": [],
-      "roomId": null
+      "roomId": 13020
     },
     {
-      "id": "176164",
-      "title": "Searching for UFOs with Elasticsearch",
-      "description": "Elasticsearch is an exciting and powerful tool that enables you to quickly add search capabilities to your application to enable your users to find whatever it is they're looking for. In this session attendees will learn the nuts and bolts of Elasticsearch, including basic concepts such as ingestion, search, aggregation and more.\r\n\r\nWe’ll demonstrate how to use Elasticsearch by building a simple UFO search engine that Scully and Mulder would be jealous of by integrating it into the front and backend of your application. By the time we’re done you’ll want to believe too!\r\n\r\nThe truth is out there and now you can search for it yourself!\r\n",
-      "startsAt": null,
-      "endsAt": null,
+      "id": "181069",
+      "title": "Continuous Security: Integrate security tools into your DevOps Pipeline",
+      "description": "OWASP, a nonprofit composed of security experts from around the world, provides a number of free and open source tools designed by security experts to help your secure your applications. Learn how to integrate these tools - from active penetration tests to project dependency checkers - into your DevOps pipeline and deliver on the promise of continuous security.",
+      "startsAt": "2020-05-01T14:15:00",
+      "endsAt": "2020-05-01T15:15:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "ce7aad29-0bde-40af-bb61-bb3fab75ee93"
-      ],
-      "categoryItems": [
-        38324
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "178056",
-      "title": "Snips and Snails and Puppy Dog Tails: Your software supply chain",
-      "description": "We are standing on the shoulders of giants.  Building beautiful things out of beautiful things is at the heart of software composition today.  But what happens when things aren't so beautiful? What if that dependency of a dependency of a dependency has a Bitcoin miner written into it? Is your code review catching that? It doesn't matter if you type npm-install or Install-Package or php composer.phar install or mvn install or cpanm or pip install.  Probably not.  Let's look at the realities of your supply chain, how it is getting corrupted, and what we can do about it. You'll see how to avoid becoming a victim of the next left-pad.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "edf87fe3-df21-4e80-8834-c0d0365dbb59"
+        "451fd96d-6170-4173-8fb6-c2d7f918ad30"
       ],
       "categoryItems": [
         36382
       ],
       "questionAnswers": [],
-      "roomId": null
+      "roomId": 13014
     },
     {
-      "id": "179596",
-      "title": "Software Design Patterns: How to implement, maintain, and sell them",
-      "description": "Have you ever run into an issue that you just know someone has solved before? A situation where you stop yourself mid-function-declaration and say “What am I doing? Why reinvent the wheel here?” and then find that a Stack Overflow search quickly serves up the copy-pasta you ordered? In the world of software architecture, we call that copy-pasta a “design pattern”. Design patterns are architectural solutions to common problems. In this talk, I’ll make the case for software design patterns and explain how to get them adopted by your teams. This talk is based on my popular article “The Importance Of Design Patterns When Leading Large Teams\".\r\n\r\n## In this session, we’ll discuss:\r\n1. What design patterns are and why they exist.\r\n2. Their effect on projects of various sizes.\r\n3. An application I built with a team, the decisions we made along the way, and what patterns we considered for different scenarios vs what we ultimately went with.\r\n4.How you can take things too far with patterns through an example of a time when I did just that.\r\n5. How to maintain these patterns through facilitated recurring conversations.\r\n6. Selling the idea of software design patterns to your boss as well as your team.\r\n\r\n## This session is for you if:\r\nYou’re a junior developer just getting interested in the concept of how software is put together from a high-level view.\r\nYou’re an individual contributor on a team and want to be more informed when talking about software design patterns among your peers.\r\nYou’re an individual contributor and want to know how to affect change from a non-leadership perspective on your team.\r\nYou’re a technical leader and want to hear a more broad perspective of when to consider using software design patterns.\r\n",
-      "startsAt": null,
-      "endsAt": null,
+      "id": "175295",
+      "title": "Building Decision Intelligence into Applications",
+      "description": "Most web applications simply provide the content for the user along with a standard list of links and articles.  Wouldn't it be nice to be able to customize this list of links for each user, making it a better user experience?  The Azure Custom Decision Service provides contextual decision-making, allowing for a more robust user experience. It does so by converting content into features for Machine Learning.  This technology utilizes several other Microsoft Cognitive Services, such as Entity Linking, Text Analytics, Emotion, and Computer Vision for a more personalized and intelligent experience.",
+      "startsAt": "2020-05-01T14:15:00",
+      "endsAt": "2020-05-01T15:15:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "5f22fa2a-c996-4a7e-9972-13af32ed0405"
+        "4b7bb039-5122-421b-a7ef-d57b51e88c64"
       ],
       "categoryItems": [
-        36374
+        38325
       ],
       "questionAnswers": [],
-      "roomId": null
+      "roomId": 13015
+    },
+    {
+      "id": "179060",
+      "title": "Intentional Design (Stop Designing by Accident)",
+      "description": "Design is bigger than you think. We'll talk about what it isn't (a phase), what it is (everything), who does it (everyone), and when it happens (always). You'll get actionable strategies for recognizing UX design accidents and replacing them with intentional decisions before it's too late—no matter your job title. Design is inevitable, so be intentional.",
+      "startsAt": "2020-05-01T14:15:00",
+      "endsAt": "2020-05-01T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f605627a-2dc6-4c8d-99b3-dc8a0f28cc66"
+      ],
+      "categoryItems": [
+        38326
+      ],
+      "questionAnswers": [],
+      "roomId": 13016
+    },
+    {
+      "id": "174947",
+      "title": "Getting started with GraphQL",
+      "description": "GraphQL is an open-source data query and manipulation language for APIs that’s quickly being adopted throughout the industry. This session will dive into the core concepts about GraphQL by building a GraphQL service from the ground up.",
+      "startsAt": "2020-05-01T14:15:00",
+      "endsAt": "2020-05-01T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fa2e8eb9-8e56-4bac-81bb-82bce2308f1c"
+      ],
+      "categoryItems": [
+        38324
+      ],
+      "questionAnswers": [],
+      "roomId": 13017
+    },
+    {
+      "id": "173769",
+      "title": "BlazeDown with Blazor",
+      "description": "Is it time to say goodbye to JavaScript and run C# in the browser? The arrival of WebAssembly begins a new era for .NET web developers, allowing client-side applications written in C# to run directly in the browser. We'll explore what Blazor means for web development and learn what to expect from Microsoft this May. In this session we’ll go beyond the basic hello world to see how Blazor can easily create a Markdown Editor, convert office documents and build stunning web apps with little or no JavaScript.",
+      "startsAt": "2020-05-01T14:15:00",
+      "endsAt": "2020-05-01T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3fd9cade-10ef-43df-b124-944015042549"
+      ],
+      "categoryItems": [
+        38328
+      ],
+      "questionAnswers": [],
+      "roomId": 13018
+    },
+    {
+      "id": "174155",
+      "title": "Infrastructure as Code w/ Terraform",
+      "description": "In this presentation I will introduce the practice of Infrastructure as Code. I will present to the audience what IaC is, why it’s needed and then proceed to showing how you can practice IaC using Hashicorp’s Terraform. I will walk the audience through the Terraform language (variables, data structures, iterations, conditionals) and how to use Terraform to begin building infrastructure in AWS. The presentation will end with a short demo of Terraform.",
+      "startsAt": "2020-05-01T14:15:00",
+      "endsAt": "2020-05-01T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1259b275-ff2e-4b52-b3dc-fb631f971d65"
+      ],
+      "categoryItems": [
+        38327
+      ],
+      "questionAnswers": [],
+      "roomId": 13019
     },
     {
       "id": "180737",
       "title": "Software Developer Pep Talk",
       "description": "Imposter syndrome? Feel like your career is stalled? In this talk we will go over common developer insecurities and promote confidence to help you overcome obstacles and become more productive and interactive with your team and with the developer community at large.",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2020-05-01T14:15:00",
+      "endsAt": "2020-05-01T15:15:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -663,116 +672,116 @@
         36381
       ],
       "questionAnswers": [],
-      "roomId": null
+      "roomId": 13020
     },
     {
-      "id": "173606",
-      "title": "Technical Debt Must Die - Communicating Code to Business Stakeholders",
-      "description": "Our software sucks. We're up to our necks in bugs and technical debt, yet we often seem to hit roadblocks explaining things in ways that bring about meaningful change. \r\n\r\nIn this session you'll learn to gather, analyze, and interpret data in order to create effective presentations to communicate quality, technical debt, and other technical matters in ways that tell a compelling story. You’ll master how to communicate effectively with key stakeholders by taking a data-driven approach blended with storytelling techniques to bridge common gaps between development and business stakeholders. You’ll explore the 7 tools of software quality and how they can bring clarity and sanity to the decision-making process, justify paying down technical debt, and focusing on improving our software in the areas that need it most.",
-      "startsAt": null,
-      "endsAt": null,
+      "id": "181032",
+      "title": "Leveraging  Kafka for the \"Agile integration\" Needs of your Enterprise.",
+      "description": "Present day Microservices based teams have different requirements for integration than traditional, waterfall development teams. They invariably operate in ecosystem that is composed of groups of applications and services which together work towards some higher level business goal. Apache Kafka is providing them great option by enabling asynchronous event driven integration ,augmenting the use of synchronous integration and APIs, further supporting Microservices and thus enabling Agile Integration where they can scale and evolve independently.\r\n In this talk we will start with building out Kafka topics as Producers and Consumers and then will take a deep dive into how Kafka Streams enable decoupled communication pattern between them.",
+      "startsAt": "2020-05-01T14:15:00",
+      "endsAt": "2020-05-01T15:15:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "17c299ee-d9fd-4020-b499-2837b2b3a2bf"
+        "1d5b4156-c5dd-4995-982d-ecce66fe76eb"
+      ],
+      "categoryItems": [
+        38324
+      ],
+      "questionAnswers": [],
+      "roomId": 13021
+    },
+    {
+      "id": "173796",
+      "title": "Do you know what happens to your data after you create it?",
+      "description": "Every piece of code you've written has a cost. The sooner we address that cost the less cost it for our organization and goals. \r\n\r\nThis talk is about making decisions early in the process to make our data more consumable down the chain. We'll discuss: \r\n* Approach to coding not much different than data retrieval\r\n* How to get more from our data\r\n* Best Practices",
+      "startsAt": "2020-05-01T15:30:00",
+      "endsAt": "2020-05-01T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "aae8e930-83f8-45be-b1a9-d47075235565"
+      ],
+      "categoryItems": [
+        38325
+      ],
+      "questionAnswers": [],
+      "roomId": 13014
+    },
+    {
+      "id": "173836",
+      "title": "Measure and improve your software development environment",
+      "description": "How much time do software engineers are your company waste waiting on builds, running tests locally, and rerunning flakey test? Do you know? Don’t you want to find out?\r\n\r\nCome to this session to learn how my team tackled long build times, slow local testing, and flakey tests using data to drive our efforts. Learn what we measured and how we used it to improve our developers productivity and happiness.",
+      "startsAt": "2020-05-01T15:30:00",
+      "endsAt": "2020-05-01T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3ec45bcc-5de8-4495-a341-f2f94256189d"
+      ],
+      "categoryItems": [
+        38327
+      ],
+      "questionAnswers": [],
+      "roomId": 13015
+    },
+    {
+      "id": "180707",
+      "title": "Demystifying the .NET Runtime",
+      "description": "While most .NET developers know that .NET is an interpreted language, have you ever thought about what that really means? If the language is compiled to an intermediate language (literally called \"Microsoft Intermediate Language\" or MSIL) and run on a VM, how have they added more features to the language without updating the interpreter?\r\n\r\nThis talks answers all these questions and more. We'll take a deep dive into the differences between the .NET Compiler and .NET Runtime.  We'll see what's possible in the compiler, what the runtime can do, and how you can know what's happening where. You'll leave this session with a deeper appreciation of the .NET languages and a clearer sense of how your code really runs.",
+      "startsAt": "2020-05-01T15:30:00",
+      "endsAt": "2020-05-01T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "94732aa0-c688-45c1-b92b-7ebad08ea8e0"
+      ],
+      "categoryItems": [
+        38324
+      ],
+      "questionAnswers": [],
+      "roomId": 13016
+    },
+    {
+      "id": "180604",
+      "title": "How The Heck Would I Integrate Serverless Into My Legacy Application?",
+      "description": "Exploring serverless computing can be discouraging. It sounds amazing and starts your brain spinning about all of the potential applications, but it's not always easy to see where your legacy application may be able to take advantage. In reality, both Azure Functions and AWS Lambda can easily be used to enhance applications and provide a brand new perspective.  In this session, we'll explore some easy applications of serverless that can be added to existing brownfield applications, like simple monitoring, IOT integration, and large file processing. In addition, attendees will learn about situations in which where serverless computing may not be a good fit and a more traditional approach may be warranted in an effort to avoid the growing pains of learning a new technology unecessarily.",
+      "startsAt": "2020-05-01T15:30:00",
+      "endsAt": "2020-05-01T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e357c7a0-a665-466a-9632-ce5842b5f45b"
+      ],
+      "categoryItems": [
+        36375
+      ],
+      "questionAnswers": [],
+      "roomId": 13017
+    },
+    {
+      "id": "174082",
+      "title": "Hiring and Inspiring an Exceptional Team",
+      "description": "Management gets a bad rap in technical circles, and for good reason: many managers are terrible, and it shows!\r\n\r\nRising above the pointy-haired-boss stereotypes is easier than you might think. By grounding your leadership style in management science, and adding a touch of emotional intelligence, you can help your team meet its individual and collective goals, improve morale and engagement, and reduce turnover.\r\n\r\nThis session will show early-career managers how to find team players aligned with their core values, how to \"design the alliance\" with new hires, how to get the most out of 1:1s, and how to use personality-typing tools like DISC to motivate and communicate effectively.",
+      "startsAt": "2020-05-01T15:30:00",
+      "endsAt": "2020-05-01T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b7235790-4c4a-491c-a8a1-1ed82a5d70b3"
       ],
       "categoryItems": [
         36381
       ],
       "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "176262",
-      "title": "The Truth About Digital Eye Strain",
-      "description": "Digital devices provide us with endless entertainment, easy communication, and modern conveniences that were previously thought impossible. But as screens have become more integrated into our lives, there have been increasing theories, myths, and misinformation spread about what this may be doing to our eyes in the long term. Computer scientists, coders, and developers may be especially concerned, as they have chosen careers requiring hours of digital screen use every day. Are digital devices making us all go blind? What is the 20/20/20 rule? What is the deal with this mysterious blue light? This session will review some of the most common causes of digital eye strain from an optometrist who sees the effects of digital screens and provides effective treatments on a daily basis. ",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "d7ea56b1-7b91-40b5-bfeb-cbd72cc6f83d"
-      ],
-      "categoryItems": [
-        36385
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "174175",
-      "title": "Threat Modeling on the Family Road Trip",
-      "description": "Gene Spafford said: “The only truly secure system is one that is powered off...”\r\n\r\nEveryone wants secure applications, but creating them is hard, and we don't all have security certifications. How do you know where to start when \"security\" is not your full-time job? And how do you get the rest of your team on board?\r\n\r\nTake a journey and learn about the progression of adopting a security mindset with a real-world example, played out on the family road trip.\r\n\r\nWe will discuss the challenges with adopting a security mindset on a product team, what steps we can take to empower our team members to own security of their own applications, and how we can leverage shift-left and modern CI principles to sustain it.\r\n\r\nLeave this session prepared to champion security on your own team and to grow a security mindset in others.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "9acbd491-796e-4248-8f7e-76c0aed5159c"
-      ],
-      "categoryItems": [
-        36382
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "174087",
-      "title": "Using the Repository Pattern - The Right Way",
-      "description": "Like any design pattern, the repository pattern can be overused or misapplied. This pattern is very popular and has a long history, so others have probably already encountered pitfalls you've faced or will face. This session demonstrates the basic problem the pattern solves, shows how to implement the pattern, and then iterates on the basics by tearing each implementation apart with new requirements or criticisms. After this session, you'll have a good understanding of the pattern, whether to apply it, and how to apply it in a variety of scenarios.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
-      ],
-      "categoryItems": [
-        36374
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "173847",
-      "title": "WebAssembly Live!",
-      "description": "First things first: we'll lay the groundwork with what WebAssembly is and just as importantly, what it isn't. Then we will write and execute some WebAssembly, live. If you're tired of hearing about WebAssembly and not actually seeing it, let's fix that. You'll see every step of the process and every line of code along the way.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "3740f3a7-86e3-4d66-8f48-16790a13fccb"
-      ],
-      "categoryItems": [
-        38328
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "181095",
-      "title": "What On Earth Is Quantum Computing?!? (And will it break all my encryption?)",
-      "description": "You might have heard that quantum computers can break public key encryption. You might also have heard that you can buy a quantum computer today, or run programs on one via a cloud service. Yet TLS does not seem to be broken! What is going on? It’s hard to tell, because most “explanations” of quantum computing are either marketing brochures or written for an audience of physics postdocs. This talk will clearly explain what we know about quantum computing today, and how it is relevant to software professionals now and in the near future, no math required. We’ll focus on the security space in particular and discuss what quantum computers can do besides factor large integers. Come with questions, leave with a clear vision for how new computing technologies may change your work in the decades to come!",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "446a4b0e-58b2-4708-a446-34ab2e13a25b"
-      ],
-      "categoryItems": [
-        36382
-      ],
-      "questionAnswers": [],
-      "roomId": null
+      "roomId": 13018
     },
     {
       "id": "174028",
       "title": "Why You Fail to Make Good Predictions and What You Can Do About it.",
       "description": "What sets good predictors apart from others? Is good judgment innate or something you can nurture?\r\n\r\nAs a knowledge worker, your ability to make good decisions will set you apart from your peers. Whether you’re planning out a work project or playing fantasy football good predictions are essential to success. \r\n\r\nIn this talk, you’ll learn what gets in the way of making good decisions and predictions. You’ll also walk away with tips on how to improve your chances of succeeding and how you can 10X your positive outcomes in the midst of risk and uncertainty.",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2020-05-01T15:30:00",
+      "endsAt": "2020-05-01T16:30:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -782,24 +791,54 @@
         36385
       ],
       "questionAnswers": [],
-      "roomId": null
+      "roomId": 13019
     },
     {
-      "id": "175293",
-      "title": "Xamarin.Forms Deep Dive",
-      "description": "Shells! Visual! Navigation! Custom Renderers! Oh my! Come see the latest and greatest coming in Xamarin.Forms 4.0. We will take a closer look at the newest developments from the Xamarin team and how we can use them to quickly craft a fully featured, cross-platform, mobile application from scratch. Using Shell, we can build out our presentation layer with MVVM and built-in navigation and deep-linking. With Visual, we can quickly adopt an application-wide design language, like Material or Fluent, in a single line of code. Have your own design language? Leverage the Visual component with custom renderers to bedazzle your app. All presented with dangerously live demos!",
-      "startsAt": null,
-      "endsAt": null,
+      "id": "180465",
+      "title": "Java 9, 10 & 11",
+      "description": "With the quick moving 6-month Java train releases, you like many Java developers and organizations may have remained on Java 8 waiting for the next Long-Term-Support (LTS) release. Well, Java 11 is here so it is time to begin the adoption and upgrading. Java 9 was a HUGE release with many impactful features like the module system, jLink, jShell and a hand full of new Project Coin language features. While Java 10 & 11 were small in comparison based on feature count their influence will be felt. The var keyword, Graal and container awareness features along with lambda, thread and garbage collection enhancements will improve development and operations. This session will provide the knowledge and experience you need to be prepared to migrate your applications from Java 8 to Java 11 successfully.",
+      "startsAt": "2020-05-01T15:30:00",
+      "endsAt": "2020-05-01T16:30:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "db201afa-bd17-42d6-b17f-627f14e8de2b"
+        "96ea86eb-7f1f-4c85-b2b8-98d462a40c94"
       ],
       "categoryItems": [
-        36380
+        38324
       ],
       "questionAnswers": [],
-      "roomId": null
+      "roomId": 13020
+    },
+    {
+      "id": "181017",
+      "title": "\"Oh no, Mom got Hacked Again!\" - How to Implement Good Security for the Non-Professional",
+      "description": "Everyone with a career in any branch of technology absolutely loves playing personal tech support to family and friends, right? Your brother’s wifi isn’t working, your best friend’s credit card information was stolen in a data breach, and your mother’s computer keeps getting infected with malware even though she swears she didn’t click the sketchy looking link this time. You have no problem helping them out, and want them to learn better security practices! However, you know very well trying to explain how to use a password manager to your grandmother that can hardly turn her iPad on will be a bit of a struggle.\r\n\r\nIt is possible to perform tasks that security professionals do on a regular basis, such as reconnaissance, threat modeling, and vulnerability remediation to quickly and easily identify and even assist your loved ones in creating a better security posture for themselves without sounding like a slightly rude security know-it-all and not truly creating a personalized solution for their situation.\r\n\r\nIn this talk, I will give a few examples of everyday, non-security experts, what information they need to keep secure, and what current bad practices they are currently using. I will discuss how to have a respectful conversation about pointing out what bad security practices may be taking place, and why it is important to fix them without inciting a panic, I’ll help you give accurate advice on how to do better without frustrating your relatives into believing that good security is obstructively difficult. The aim of this talk is to show how simple decent security can actually be when we as professionals take the time to truly listen to our loved ones (and in turn, our customers) struggles and offer solutions they can stand up on their own. Sometimes a given solution to a problem would be an absolute disaster to implement in a typical work environment, but if it means your aunt’s chocolate chip cookie recipe is just a little more secure, then that’s all that matters at the end of the day.\r\n",
+      "startsAt": "2020-05-01T15:30:00",
+      "endsAt": "2020-05-01T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f30fe3d6-2d9e-449a-8166-223a5bf52c6d"
+      ],
+      "categoryItems": [
+        36382
+      ],
+      "questionAnswers": [],
+      "roomId": 13021
+    },
+    {
+      "id": "240e4dcc-ded0-4837-be97-6a5636859305",
+      "title": "Movie Screenings: Black Widow",
+      "description": "Various theaters starting at different times after the last session.",
+      "startsAt": "2020-05-01T16:30:00",
+      "endsAt": "2020-05-01T17:30:00",
+      "isServiceSession": true,
+      "isPlenumSession": false,
+      "speakers": [],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 12195
     }
   ],
   "speakers": [
@@ -1341,7 +1380,7 @@
       "id": "96ea86eb-7f1f-4c85-b2b8-98d462a40c94",
       "firstName": "Christopher",
       "lastName": "Judd",
-      "bio": "Christopher Judd is CTO and partner at Manifest Solutions (http://www.manifestcorp.com), an international speaker, Java Champion, an open source evangelist, and the Central Ohio Java Users Group (http://www.cojug.org) leader.  He is an accomplished writer having co-authored Beginning Groovy and Grails (Apress, 2008), Enterprise Java Development on a Budget (Apress, 2003) and Pro Eclipse JST (Apress, 2005) as well as the author of the children’s book “Bearable Moments”.  Based in Columbus Ohio, he has spent over 20 years architecting and developing software for organizations ranging from Fortune 500 to start-ups across various industries including insurance, health care, education, retail, government, manufacturing, service, and transportation.  Mr. Judd spends most of his time consulting while continuing to focus on mentoring and training in Java, mobile and related technologies.",
+      "bio": "Christopher Judd is CTO and partner at Manifest Solutions (http://www.manifestcorp.com), an international speaker, Java Champion, an open source evangelist, and the Central Ohio Java Users Group (http://www.cojug.org) leader.  He is an accomplished writer having co-authored Beginning Groovy and Grails (Apress, 2008), Enterprise Java Development on a Budget (Apress, 2003) and Pro Eclipse JST (Apress, 2005) as well as the author of the children’s book “Bearable Moments”.  Based in Columbus Ohio, he has spent over 20 years architecting and developing software for organizations ranging from Fortune 500 to start-ups across various industries including insurance, health care, education, retail, government, manufacturing, service, and transportation.  Mr. Judd spends most of his time consulting while continuing to focus on mentoring and training in Java, mobile and related technologies.",
       "tagLine": "Trusted Technical Adviser and Talent Developer",
       "profilePicture": "https://sessionize.com/image?f=c003f6b4ef5e160806767633b823bbc1,400,400,1,0,eb-7f1f-4c85-b2b8-98d462a40c94.4fe96cf6-94df-4929-acc4-64134415dd19.jpg",
       "isTopSpeaker": false,
@@ -1823,6 +1862,11 @@
           "linkType": "Blog"
         },
         {
+          "title": "Company Website",
+          "url": "https://www.TechElevator.com",
+          "linkType": "Company_Website"
+        },
+        {
           "title": "Stack Overflow",
           "url": "https://stackoverflow.com/story/matteland",
           "linkType": "Other"
@@ -1835,6 +1879,11 @@
         {
           "title": "Medium",
           "url": "https://medium.com/@matteland",
+          "linkType": "Other"
+        },
+        {
+          "title": "YouTube",
+          "url": "http://www.youtube.com/c/MattEland",
           "linkType": "Other"
         }
       ],
@@ -2345,5 +2394,51 @@
       "type": "session"
     }
   ],
-  "rooms": []
+  "rooms": [
+    {
+      "id": 12195,
+      "name": "Concourse",
+      "sort": 0
+    },
+    {
+      "id": 13014,
+      "name": "Revel IT",
+      "sort": 1
+    },
+    {
+      "id": 13015,
+      "name": "Upstart",
+      "sort": 2
+    },
+    {
+      "id": 13016,
+      "name": "OCLC",
+      "sort": 3
+    },
+    {
+      "id": 13017,
+      "name": "HMB",
+      "sort": 4
+    },
+    {
+      "id": 13018,
+      "name": "DMG",
+      "sort": 5
+    },
+    {
+      "id": 13019,
+      "name": "CAS",
+      "sort": 6
+    },
+    {
+      "id": 13020,
+      "name": "Manifest",
+      "sort": 7
+    },
+    {
+      "id": 13021,
+      "name": "ComResource",
+      "sort": 8
+    }
+  ]
 }

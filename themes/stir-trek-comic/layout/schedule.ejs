@@ -3,7 +3,7 @@
     <% 
         
     // Get the evals() out of the way since they are gross
-    var scheduleData = eval("site.data.schedule" + config.currentYear + ".scheduledSessions[0]");
+    var scheduleData = eval("site.data.schedule" + config.currentYear + ".scheduledSessions");
     var sessionAndSpeakerData = eval("site.data.sessions" + config.currentYear);
 
     if(sessionAndSpeakerData && config.showSchedule) { %>
@@ -39,6 +39,11 @@
                             <td><%= timeSlot.time %></td>
 
                             <% // If there's a speaker, we can link to their session and get category info
+                            var scheduledRoomName = sessionSlot.scheduledRoom;
+                            if(scheduledRoomName !== "Concourse") {
+                                scheduledRoomName += " Theater";
+                            }
+
                             if(speakersInfo.length > 0) { 
                                 var speakerPageUrl = `/Speakers/${config.currentYear}/${speakersInfo[0].firstName.replace(/[ \"]/g,"")}-${speakersInfo[0].lastName.replace(/[ \"]/g,"")}.html`;
                             %>
@@ -58,12 +63,12 @@
                                 <% var thisCategory = allCategories.find(c => c.id === sessionInfo.categoryItems[0]); %>
 
                                 <td><%= thisCategory.name %></td>
-                                <td class="room-cell"><%= sessionSlot.scheduledRoom %> Theater</td>
+                                <td class="room-cell"><%= scheduledRoomName %></td>
                             <% } else { %>
                                 <td><%= sessionInfo.title %></td>
                                 <td class="speaker-cell">
                                 <td></td>
-                                <td class="room-cell"><%= sessionSlot.scheduledRoom %> Theater</td>
+                                <td class="room-cell"><%= scheduledRoomName %></td>
                             <% } %>
 
                         </tr>

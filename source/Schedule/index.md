@@ -30,5 +30,5 @@ alias:
     }
 </style>
 
-# Last Year's (2019) Schedule
+# 2020 Schedule
 <div class="icon-hr"></div>

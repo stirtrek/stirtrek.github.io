@@ -66,7 +66,7 @@ module.exports ={
                 var sessionTime, sessionRoom;
 
                 // Find the time slot for this session
-                scheduleDataFile.scheduledSessions[0].timeSlots.forEach(timeSlot => {
+                scheduleDataFile.scheduledSessions.timeSlots.forEach(timeSlot => {
                     var matchedScheduleSession = timeSlot.sessions.find(scheduledSession => {
                         return scheduledSession.id.toString() === session.id.toString()
                     })

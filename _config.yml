@@ -9,7 +9,7 @@ description: Stir Trek is a one-day conference in Columbus, Ohio focused on teac
 keywords: Technical Conference, StirTrek, Stir Trek, web, mobile, cloud, conference, sofware, developer, designer, community
 author: Stir Trek Conference
 language: EN-US
-timezone:
+utcOffset: "-0400"
 
 # To support multiple years of archives, update the currentYear and add the old one to the allYears array
 currentYear: 2020
@@ -17,8 +17,21 @@ allYears:
   - 2018
   - 2019
   - 2020
-showSchedule: false
-showSessionList: true
+showSchedule: true
+showSessionList: false
+
+# Sets up the room order for the schedule
+# Order here matters and effects the schedule display
+theaterRoomNames:
+  - 'Upstart'
+  - 'HMB'
+  - 'OCLC'
+  - 'Revel IT'
+  - 'DMG'
+  - 'CAS'
+  - 'Manifest'
+  - 'ComResource'
+  - 'Concourse'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

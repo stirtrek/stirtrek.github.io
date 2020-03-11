@@ -33,8 +33,15 @@ In Sessionize, setup an API / Embed with the following settings:
 ![Format Settings](readme-sessionize-1.png)
 ![Data Settings](readme-sessionize-2.png)
 
+Then go to the Get Code page and copy the URL for this API and paste it in the _config.yml file under `sessionizeApiUrl`.
+
+There's a helpful node script that will download this for you. From the root directory, run `node scripts-manuallyexecuting/download-sessionize-details.js`.  It'll download whatever is at the `sessionizeApiUrl` and save it for you. Commit those changes to upload the speakers.
+
 ## How do speaker/session pages get generated?
 Files in /scripts get run during a `hexo generate`, reading the data files, creating data for each individual html, and merging them with the appriorate templates. Also, magic.
+
+## How does the schedule get generated
+Once you've downloaded the Sessionize data, you should run `node scripts-manuallyexecuting/build-schedule-from-sessions.js` and then commit the file it creates.
 
 ## How do I change static content?
 All of the static pages exist in /source/ as Markdown files. For example:

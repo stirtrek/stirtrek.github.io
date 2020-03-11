@@ -3,7 +3,7 @@
     <% 
         
     // Get the evals() out of the way since they are gross
-    var scheduleData = eval("site.data.schedule" + config.currentYear + ".scheduledSessions[0]");
+    var scheduleData = eval("site.data.schedule" + config.currentYear + ".scheduledSessions");
     var sessionAndSpeakerData = eval("site.data.sessions" + config.currentYear);
 
     if(sessionAndSpeakerData) { %>

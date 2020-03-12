@@ -135,7 +135,7 @@
     {
       "id": "174087",
       "title": "Using the Repository Pattern - The Right Way",
-      "description": "Like any design pattern, the repository pattern can be overused or misapplied. This pattern is very popular and has a long history, so others have probably already encountered pitfalls you've faced or will face. This session demonstrates the basic problem the pattern solves, shows how to implement the pattern, and then iterates on the basics by tearing each implementation apart with new requirements or criticisms. After this session, you'll have a good understanding of the pattern, whether to apply it, and how to apply it in a variety of scenarios.",
+      "description": "Like any design pattern, the Repository Pattern can be overused or misapplied. This pattern is very popular and has a long history, so others have probably already encountered pitfalls you've faced or will face. This session demonstrates the basic problem the pattern solves, shows how to implement the pattern, and then iterates on the basics by tearing each implementation apart with new requirements or criticisms. After this session, you'll have a good understanding of the pattern, whether to apply it, and how to apply it in a variety of scenarios.",
       "startsAt": "2020-05-01T08:30:00",
       "endsAt": "2020-05-01T09:30:00",
       "isServiceSession": false,

@@ -17,7 +17,7 @@ allYears:
   - 2018
   - 2019
   - 2020
-showSchedule: true
+showSchedule: false
 showSessionList: false
 
 # Sets up the room order for the schedule

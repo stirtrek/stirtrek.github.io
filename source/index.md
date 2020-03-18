@@ -5,13 +5,12 @@ title: Tech & a Flick
 
 {% raw %}
 <div class="row" id="stirTrekHeroContainer">
-    <!--<a href="https://stirtrek2020.eventbrite.com/" target="_blank" rel="noopener noreferrer">-->
+    <a href="/Store/" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-            <p class="date">May 1st, 2020</p>
+            2020 is Cancelled<br>
+            <p style="font-size: .7em">but you can support us by visiting</p>
+            <p class="registerNow" style="font-size: 1.7em">STORE TREK</p>
             <br>
-            <p class="registerNow">2020 Event Cancelled</p>
-            <br>
-            <p class="cost"></p>
         </div>
     <!--</a>-->
     <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
@@ -78,7 +77,7 @@ title: Tech & a Flick
             We are not taking decisions lightly, but the health and well-being of our team, volunteers, speakers, sponsors and especially our attendees remain our ultimate priority. We will continue to monitor and make any necessary changes as the situation evolves.
             <br>
             <br>
-            March 4, 2020-->
+            March 4, 2020
         </div>
     </div>
 </div>

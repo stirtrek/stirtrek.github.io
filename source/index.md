@@ -5,7 +5,7 @@ title: Tech & a Flick
 
 {% raw %}
 <div class="row" id="stirTrekHeroContainer">
-    <a href="/Store/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.marktapparel.com/store/c55/Stir_Trek.html" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             2020 is Cancelled<br>
             <p style="font-size: .7em">but you can support us by visiting</p>

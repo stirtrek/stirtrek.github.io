@@ -60,6 +60,7 @@ A few things need to happen to roll the site to a new year:
     - sponsors.json needs a new "year20XX" added to it's array. This file is much smaller so I just keep it all in one place for now.
         - This file is an object and not an array to make it easier to walk in code. JavaScript properties can't begin with numbers, so that's why it starts with the word "year".
     - sessions20XX.json needs to be downloaded from Sessionize once we've selected sessions
+- Add a folder new folder for speaker photos like /source/images/speakers/YYYY
 - Search for the year in the /source directory's .md files and change it where appropriate in content
 - While there is no schedule /source/Speakers/index.md has the year set as the previous year in the YAML at the top. When we get a new schedule, update this value.
 

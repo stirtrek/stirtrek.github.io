@@ -5,24 +5,25 @@ title: Tech & a Flick
 
 {% raw %}
 <div class="row" id="stirTrekHeroContainer">
-    <a href="https://www.marktapparel.com/store/c55/Stir_Trek.html" target="_blank" rel="noopener noreferrer">
+    <!-- <a href="https://www.marktapparel.com/store/c55/Stir_Trek.html" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             2020 is Cancelled<br>
             <p style="font-size: .7em">but you can support us by visiting</p>
             <p class="registerNow" style="font-size: 1.7em">STORE TREK</p>
             <br>
-        </div>
+        </div> -->
     <!--</a>-->
     <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">1 May 2020</p>
     </div> -->
-    <!-- <a href="https://www.youtube.com/stirtrek" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.youtube.com/stirtrek" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-            <p class="date">Stir Trek - Columbus, OH</p>
-            <p class="registerNow">View the recorded sessions on YouTube</p>
+            <p class="date">Stir Trek 2021 Is Virtual<br>7 May 2021</p>
+            <br>
+            <p class="registerNow">Register Now</p>
         </div>
-    </a> -->
+    </a>
     <!-- <a href="https://sessionize.com/stir-trek-2020/" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             <p class="date">CFP is Open!</p>
@@ -34,50 +35,11 @@ title: Tech & a Flick
 <div class="row">
     <div class="col-md-12">
         <div class="comic-panel-header comic-panel-gold offset">
-            Update re: Coronavirus
+            Update: 2021 Virtual Event
         </div>
         <div class="comic-panel-body with-header">
+            Maxey's content
             
-            Hello Everyone,
-            <br/>
-            <br/>
-            It is with an incredible amount of sadness that we share this news.  You are certainly well aware of the pandemic that is disrupting events across the globe.  Unfortunately, Stir Trek is not immune from this disruption.  We have made the decision to cancel this year's event.  
-            <br/>
-            <br/>
-            Your continued support is an incredible asset to us.  Without your attendance, this event could not have happened for the past 11 years.  We want to express our most sincere apologies that we cannot hold this year's event, but we have to favor the safety and health of our attendees, sponsors, and volunteers over the fun and opportunities that Stir Trek prides itself on.  
-            <br/>
-            <br/>
-            What's next... 
-            <br/>
-            <br/>
-            Our planning board of volunteers plans to make this right for each of our attendees.  We have two options for you to consider:
-            <br/>
-            <br/>
-            <strong>Option 1: Full refund effective immediately</strong>.  If you would like a full refund we will honor that.  You can only request a refund through Eventbrite directly. Due to the nature of issuing refunds through Eventbrite we need to work through logistics of transferring money in order to refund 2,000+ tickets.  We ask that you please hold off on initiating refund requests until the week of March 23rd.  If you have already requested a refund we will decline it, because Eventbrite will auto-process them after 7 days.  Rest assured that we will still honor refund requests past the original April 1st deadline.
-            <br/>
-            <br/>
-            <strong>Option 2: Secure your attendance spot for next year.</strong>  You don't need to take any action for this option. We will guarantee your ticket to Stir Trek 2021, which is planned to feature <a href="https://www.marvel.com/movies/doctor-strange-in-the-multiverse-of-madness">Doctor Strange in the Multiverse of Madness</a>.  As a non-profit, volunteer-run conference, this pandemic has devastated our organization financially.  Cash flow will be necessary to secure our venue and operational vendors for next year and your trust and support would make this possible! You will be issued a unique 100% discount code when next year's tickets go on sale.  In addition, you will receive an exclusive item in your Stir Trek 2021 box.  If next year's event is on an inconvenient date for you, your ticket will be refundable after that date is set.  We anticipate this to be May 7, 2021, but with everything in flux, we're not prepared to make that announcement yet.
-            <br/>
-            <br/>
-            We did not make this decision lightly, and we are thankful for your understanding in these unique times.
-            <br/>
-            <br/>
-            Thank you,
-            <br/><br/>
-            <a href="http://twitter.com/briantjackett">Brian T. Jackett</a>, <a href="http://twitter.com/rkierner">Rick Kierner, <a href="http://twitter.com/mattcasto">Matt Casto</a>, <a href="http://twitter.com/jaredthenerd">Jared Faris</a>, <a href="http://twitter.com/careypayette">Carey Payette</a>,<br/>
-            <a href="http://twitter.com/bsherwin">Brian Sherwin</a>, <a href="http://twitter.com/andrewmaxey">Andrew Maxey</a>, <a href="http://twitter.com/ardalis">Steve Smith</a>, <a href="http://twitter.com/jeffblankenburg">Jeff Blankenburg</a><br/><br/>
-            Stir Trek Volunteer Board
-            <br/><br/>
-            March 12, 2020
-            
-            
-            <!--In light of the global health concerns due to the novel coronavirus (COVID-19), the organizing board of the Stir Trek conference is monitoring public health guidance in relation to our in-person events. At this time, global health authorities have not issued guidance to avoid travel to Columbus or Ohio. <strong>We are looking carefully at our contingency options in the event of more serious direction from authorities, but we are currently planning to hold Stir Trek on May 1, 2020, as planned.</strong>
-            <br>
-            <br>
-            We are not taking decisions lightly, but the health and well-being of our team, volunteers, speakers, sponsors and especially our attendees remain our ultimate priority. We will continue to monitor and make any necessary changes as the situation evolves.
-            <br>
-            <br>
-            March 4, 2020
         </div>
     </div>
 </div>
@@ -88,23 +50,29 @@ title: Tech & a Flick
             What Is Stir Trek?
         </div>
         <div class="comic-panel-body with-header">
-            Stir Trek is a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a screening of a blockbuster film on its <i>(originally scheduled)</i> opening day. Pretty sweet, huh?
+            Stir Trek is <em>normally</em> a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a screening of a blockbuster film on its <i>(originally scheduled)</i> opening day. Pretty sweet, huh?
             <br>
             <br>
-            <a href="https://goo.gl/maps/wVdUQNDfXd9Zxd2P8">AMC Easton 30</a>
-            , Columbus, OH
+            <!--<a href="https://goo.gl/maps/wVdUQNDfXd9Zxd2P8">AMC Easton 30</a>, Columbus, OH-->
+            But this year we can't do that, and we miss you. So we're going virtual! Details are still to come, but we can't wait to hang out with you again.
         </div>
     </div>
     <div class="col-md-6">
         <div class="comic-panel-header offset" id="whatigetheader">What Do Ya get?</div>
         <div class="comic-panel-body with-header" id="whatiget">
-            <ul>
+            <!--<ul>
                 <li>48 Sessions of critical content</li>
                 <li>Well-known regional &amp; national Speakers</li>
                 <li>Screening of Marvel's <a href="https://www.marvel.com/movies/black-widow">Black Widow</a></li>
                 <li>Breakfast and Lunch</li>
                 <li>Refreshments during the movie</li>
                 <li>Registration box with fun bonus swag</li>
+            </ul>-->
+            <ul>
+                <li>12 sessions of critical content</li>
+                <li>Well-known regional &amp; national speakers</li>
+                <li>The opportunity to make a snack anytime you want</li>
+                <li>Optional ways you can get some cool swag and support this virtual event</li>
             </ul>
             <div class="comic-panel-inset"></div>
         </div>
@@ -131,7 +99,7 @@ title: Tech & a Flick
     </div>
 </div>
 
-<div class="row">
+<!--<div class="row">
     <div class="col-md-6">
         <div class="comic-panel-header offset">
             Important Dates
@@ -159,6 +127,6 @@ title: Tech & a Flick
             </p>
         </div>
     </div>
-</div>
+</div>-->
 {% endraw %}
 

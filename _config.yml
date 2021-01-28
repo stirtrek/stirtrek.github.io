@@ -12,11 +12,12 @@ language: EN-US
 utcOffset: "-0400"
 
 # To support multiple years of archives, update the currentYear and add the old one to the allYears array
-currentYear: 2020
+currentYear: 2021
 allYears:
   - 2018
   - 2019
   - 2020
+  - 2021
 showSchedule: false
 showSessionList: false
 

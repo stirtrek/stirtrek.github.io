@@ -1,9 +1,9 @@
 ---
 title: Frequently Asked Questions
 alias:
-- Resources/AttendeeHandbook/index.html
-- Resources/ImportantDates/index.html
-- Resources/FAQ/index.html
+- resources/attendeehandbook/index.html
+- resources/importantdates/index.html
+- resources/faq/index.html
 ---
 
 

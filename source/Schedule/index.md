@@ -3,8 +3,6 @@ title: Schedule
 alias:
 - schedule/index.html
 - schedule/
-- SCHEDULE/index.html
-- SCHEDULE/
 ---
 
 <style>

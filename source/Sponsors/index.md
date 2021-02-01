@@ -1,5 +1,8 @@
 ---
 title: Sponsors
+alias:
+- sponsors/index.html
+- sponsors/
 ---
 
 # Sponsorship Info

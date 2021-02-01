@@ -3,8 +3,6 @@ title: Registration
 alias:
 - registration/index.html
 - registration/
-- REGISTRATION/index.html
-- REGISTRATION/
 ---
 
 # Registration Info

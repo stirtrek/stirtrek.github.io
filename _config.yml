@@ -109,7 +109,8 @@ theme: stir-trek-comic
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+## repo: https://__GITHUB_TOKEN__@github.com/stirtrek/stirtrek.github.io
 deploy:
   type: git
-  repo: https://__GITHUB_TOKEN__@github.com/stirtrek/stirtrek.github.io
+  repo: https://github.com/stirtrek/stirtrek.github.io.git
   branch: master

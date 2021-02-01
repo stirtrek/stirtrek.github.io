@@ -3,8 +3,6 @@ title: Store Trek
 alias:
 - store/index.html
 - store/
-- STORE/index.html
-- STORE/
 ---
 
 # Store Trek

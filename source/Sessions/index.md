@@ -3,8 +3,6 @@ title: Sessions
 alias:
 - sessions/index.html
 - sessions/
-- SESSIONS/index.html
-- SESSIONS/
 ---
 
 <style>

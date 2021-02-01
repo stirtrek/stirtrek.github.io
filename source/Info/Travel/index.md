@@ -1,7 +1,7 @@
 ---
 title: Travel Information
 alias:
-- Resources/Travel/index.html
+- resources/travel/index.html
 ---
 
 # Getting to Stir Trek

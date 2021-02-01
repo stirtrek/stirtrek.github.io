@@ -57,7 +57,7 @@ title: Tech & a Flick
             <p>We're hoping to get together as soon as this fall, but don't hold us to that just yet since there's still a lot of factors that we don't control. Believe us, we are looking at a number of options and thinking out of the box as to how we can successfully get us all together again.</p>
             <p class="question">Will there be a swag box?</p>
             <p>It depends. For the free ticket, you will only get the ability to view the event. But as we said above, we are working with our vendors to see what making some swag will cost, how much we can order, and if we can get it reasonably quickly. Assuming all works out, we will post the list of swag and the add-on price if you want it in addition to the free ticket. That being said, our expectation is that IF we can get some swag, it will most likely be a very limited number of items.</p>
-            <p class="question">Will there be a swag box?</p>What happens to my ticket that I purchased in 2020 and opted to keep for the next live event?</p>
+            <p class="question">What happens to my ticket that I purchased in 2020 and opted to keep for the next live event?</p>
             <p>This event is a totally separate one-off. If you chose to keep your tickets from the canceled 2020 event, those aren't going anywhere and you will still be good to go for our next in-person event. As an extra thanks, we will also be sending you a way to get in the front of the line for a ticket to this event.</p>
         </div>
     </div>

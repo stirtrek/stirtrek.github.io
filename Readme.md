@@ -46,7 +46,7 @@ Once you've downloaded the Sessionize data, you should run `node scripts-manuall
 ## How do I change static content?
 All of the static pages exist in /source/ as Markdown files. For example:
 * If you want to change the homepage, change /source/index.md. 
-* The Code of Conduct is /source/Info/CodeOfConduct/index.md.
+* The Code of Conduct is /source/info/codeofconduct/index.md.
 
 The look and feel for these pages is driven from JavaScript and HTML stored in /themes/. Don't mess with those if you're not sure what you're doing ;)
 

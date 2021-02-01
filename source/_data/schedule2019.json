@@ -1,0 +1,257 @@
+{
+    "scheduledSessions": 
+        {
+            "timeSlots": [
+                {
+                    "sessions": [
+                        {
+                            "id": "108",
+                            "scheduledRoom": "Concourse"
+                        }
+                    ],
+                    "time": "7:30 AM"
+                },
+                {
+                    "sessions": [
+                        {
+                            "id": "85539",
+                            "scheduledRoom": "Sogeti"
+                        },
+                        {
+                            "id": "83205",
+                            "scheduledRoom": "Manifest"
+                        },
+                        {
+                            "id": "83639",
+                            "scheduledRoom": "MPW"
+                        },
+                        {
+                            "id": "81760",
+                            "scheduledRoom": "HMB"
+                        },
+                        {
+                            "id": "121690",
+                            "scheduledRoom": "Pillar"
+                        },
+                        {
+                            "id": "85936",
+                            "scheduledRoom": "Leading EDJE"
+                        },
+                        {
+                            "id": "82824",
+                            "scheduledRoom": "Root"
+                        },
+                        {
+                            "id": "102683",
+                            "scheduledRoom": "OCLC"
+                        }                        
+                    ],
+                    "time": "8:30 AM"
+                },
+                {
+                    "sessions": [
+                        {
+                            "id": "86026",
+                            "scheduledRoom": "Sogeti"
+                        },
+                        {
+                            "id": "83131",
+                            "scheduledRoom": "Manifest"
+                        },
+                        {
+                            "id": "81729",
+                            "scheduledRoom": "MPW"
+                        },
+                        {
+                            "id": "81946",
+                            "scheduledRoom": "HMB"
+                        },
+                        {
+                            "id": "86078",
+                            "scheduledRoom": "Pillar"
+                        },
+                        {
+                            "id": "101743",
+                            "scheduledRoom": "Leading EDJE"
+                        },
+                        {
+                            "id": "84108",
+                            "scheduledRoom": "Root"
+                        },
+                        {
+                            "id": "81714",
+                            "scheduledRoom": "OCLC"
+                        }
+                    ],
+                    "time": "9:45 AM"
+                },
+                {
+                    "sessions": [
+                        {
+                            "id": "84934",
+                            "scheduledRoom": "Sogeti"
+                        },
+                        {
+                            "id": "84467",
+                            "scheduledRoom": "Manifest"
+                        },
+                        {
+                            "id": "85298",
+                            "scheduledRoom": "MPW"
+                        },
+                        {
+                            "id": "82183",
+                            "scheduledRoom": "HMB"
+                        },
+                        {
+                            "id": "81910",
+                            "scheduledRoom": "Pillar"
+                        },
+                        {
+                            "id": "85558",
+                            "scheduledRoom": "Leading EDJE"
+                        },
+                        {
+                            "id": "83559",
+                            "scheduledRoom": "Root"
+                        },
+                        {
+                            "id": "85963",
+                            "scheduledRoom": "OCLC"
+                        }                             
+                    ],
+                    "time": "11:00 AM"
+                },
+                {
+                    "sessions": [
+                        {
+                            "id": "109",
+                            "scheduledRoom": "Concourse"
+                        }
+                    ],
+                    "time": "12:00 PM"
+                },
+                {
+                    "sessions": [
+                        {
+                            "id": "85493",
+                            "scheduledRoom": "Sogeti"
+                        },
+                        {
+                            "id": "83723",
+                            "scheduledRoom": "Manifest"
+                        },
+                        {
+                            "id": "86096",
+                            "scheduledRoom": "MPW"
+                        },
+                        {
+                            "id": "83345",
+                            "scheduledRoom": "HMB"
+                        },
+                        {
+                            "id": "82423",
+                            "scheduledRoom": "Pillar"
+                        },
+                        {
+                            "id": "85781",
+                            "scheduledRoom": "Leading EDJE"
+                        },
+                        {
+                            "id": "81869",
+                            "scheduledRoom": "Root"
+                        },
+                        {
+                            "id": "82232",
+                            "scheduledRoom": "OCLC"
+                        }                          
+                     ],
+                    "time": "1:00 PM"
+                },
+                {
+                    "sessions": [
+                        {
+                            "id": "85067",
+                            "scheduledRoom": "Sogeti"
+                        },
+                        {
+                            "id": "86086",
+                            "scheduledRoom": "Manifest"
+                        },
+                        {
+                            "id": "84824",
+                            "scheduledRoom": "MPW"
+                        },
+                        {
+                            "id": "82667",
+                            "scheduledRoom": "HMB"
+                        },
+                        {
+                            "id": "82032",
+                            "scheduledRoom": "Pillar"
+                        },
+                        {
+                            "id": "85979",
+                            "scheduledRoom": "Leading EDJE"
+                        },
+                        {
+                            "id": "85989",
+                            "scheduledRoom": "Root"
+                        },
+                        {
+                            "id": "81856",
+                            "scheduledRoom": "OCLC"
+                        }    
+                    ],
+                    "time": "2:15 PM"
+                },
+                {
+                    "sessions": [
+                        {
+                            "id": "85946",
+                            "scheduledRoom": "Sogeti"
+                        },
+                        {
+                            "id": "82239",
+                            "scheduledRoom": "Manifest"
+                        },
+                        {
+                            "id": "85909",
+                            "scheduledRoom": "MPW"
+                        },
+                        {
+                            "id": "85296",
+                            "scheduledRoom": "HMB"
+                        },
+                        {
+                            "id": "81779",
+                            "scheduledRoom": "Pillar"
+                        },
+                        {
+                            "id": "82028",
+                            "scheduledRoom": "Leading EDJE"
+                        },
+                        {
+                            "id": "84990",
+                            "scheduledRoom": "Root"
+                        },
+                        {
+                            "id": "81731",
+                            "scheduledRoom": "OCLC"
+                        }  
+                    ],
+                    "time": "3:30 PM"
+                },
+                {
+                    "sessions": [
+                        {
+                            "id": "116",
+                            "scheduledRoom": "All Theaters"
+                        }
+                    ],
+                    "time": "5:30 PM"
+                }
+            ],
+            "day": "Fri 5/3"
+        }
+}

@@ -72,6 +72,15 @@ title: Tech & a Flick
             <p>Same as an attendee - this event is a totally separate one-off. If you chose to keep your sponsorship from the canceled 2020 event, those aren't going anywhere and you will still be good to go for our next in-person event. As an extra thanks, we will also be sending you a way to get in the front of the line for the same number of tickets to this event as you would normally get for your 2020 sponsorship level.</p>
         </div>
     </div>
+    <div class="col-md-6">
+        <div class="comic-panel-header offset">
+            FAQ - Speakers
+        </div>
+        <div class="comic-panel-body with-header">
+            <p class="question">Is there a public CFP?</p>
+            <p>For this virtual event, there is not. Please visit <a href="/speakers/">the Speakers page</a> for more details.</p>
+        </div>
+    </div>
 </div>
 <div class="row">
     <div class="col-md-6">

@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    
+
+    <title>Ed Charbeneau - Stir Trek</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" value="summary">
+    <meta name="twitter:site" value="@StirTrek">
+    <meta name="twitter:title" value="Ed Charbeneau - Stir Trek">
+    <meta name="twitter:description" value="Stir Trek is a one-day conference in Columbus, Ohio focused on teaching software developers the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a private screening of a blockbuster film on its opening day.">
+    <meta name="twitter:image" value="/icons/opengraph.jpg">
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="Ed Charbeneau - Stir Trek" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://stirtrek.com" />
+    <meta property="og:image" content="/icons/opengraph.jpg" />
+    <meta property="og:description" content="Stir Trek is a one-day conference in Columbus, Ohio focused on teaching software developers the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a private screening of a blockbuster film on its opening day." />
+
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/icons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/icons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/icons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/icons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/icons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/icons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/icons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/icons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/icons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/icons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="manifest" href="/manifest.json">
+
+
+    <link href="/styles/bootstrap.min.css" rel="stylesheet">
+    <link href="/styles/bootstrap-button-social.min.css" rel="stylesheet">
+    <link href="/styles/fontawesome-4.min.css" rel="stylesheet">
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="  crossorigin="anonymous"></script>
+    <!-- <script src="/scripts/bootstrap.js"></script> -->
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <link href="/styles/site.css" rel="stylesheet">
+
+    <script>
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/serviceworker.js').then(function(registration) {
+        // Registration was successful
+        console.log('ServiceWorker registration successful with scope: ', registration.scope);
+    }).catch(function(err) {
+        // registration failed :(
+            console.log('ServiceWorker registration failed: ', err);
+        });
+    }
+    </script>
+
+<meta name="generator" content="Hexo 5.4.0"></head>
+    
+    <body>
+
+        
+        <div class="bodyWrapper">
+        
+
+            <div class="mainNav">
+        <div class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="/">
+
+                        <img id="navHeaderImage" src="/images/header-logo.png">
+                    </a>
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">
+                            Toggle navigation
+                        </span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right" id="navBarLinkContainer">
+
+                        
+
+                        
+
+                        <li>
+                            <a href="/store/">Store Trek</a>
+                        </li>
+
+
+                        <!-- <li>
+                            <a href="/registration/">Registration</a>
+                        </li> -->
+
+                        <!-- <li>
+                            <a href="/speakers/">Speakers</a>
+                        </li> -->
+
+                        <li class="dropdown">
+                            <a href="/sponsors/">
+                                Sponsors
+                            </a>
+                        </li>
+
+
+                        <li class="dropdown">
+                            <a href="/info/faq/" class="dropdown-toggle" data-toggle="dropdown">
+                                Info
+                                <b class="caret"></b>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <!-- <li>
+                                    <a href="/info/faq/">Frequently Asked Questions</a>
+                                </li>         -->
+                                <!-- <li>
+                                    <a href="/info/travel/">Travel Information</a>
+                                </li>                         -->
+                                <li>
+                                    <a href="/info/contact/">Contact Us</a>
+                                </li>
+                                <li>
+                                    <a href="/info/codeofconduct/">Code of Conduct</a>
+                                </li>
+                                <li>
+                                    <a href="/info/commitmenttodiversity/">Commitment to Diversity</a>
+                                </li>
+                                <li>
+                                    <a href="/info/antiharassmentpolicy/">Anti-Harassment Policy</a>
+                                </li>
+                                <li>
+                                    <a href="/info/privacy/">Privacy Policy</a>
+                                </li>
+
+                            </ul>
+                        </li>
+
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+            <div class="container">
+
+                <div class="body-content" role="main">
+
+    <style>
+        .speakerAvatarBioStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "avatar     bio         bio";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            column-gap: 40px;
+
+            margin-bottom: 40px;            
+        }
+
+        .speakerSessionStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "abstract   abstract    time"
+                "abstract   abstract    stirTrek";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            column-gap: 40px;
+            grid-row-gap: 40px;
+        }
+
+        @media only screen and (max-width:990px) {
+            .speakerAvatarBioStrip, .speakerSessionStrip {
+                display: block;
+            }
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel {
+            grid-area: avatar;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+            color: black;
+
+            text-align: center;
+        }
+
+        .speakerSessionStrip .abstractPanel {
+            grid-area: abstract;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerAvatarBioStrip .bioPanel {
+            grid-area: bio;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            grid-area: stirTrek;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+        }
+
+        .speakerSessionStrip .timeAndRoomPanel {
+            grid-area: time;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;    
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel,
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%), 
+                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
+                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
+                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%), 
+                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
+                linear-gradient(40deg, #c48b2fb3 0, #f7c16ab3 30%, #dbab5bb3 50%, #dbab5bb3 70%, #c48b2fb3 100%);
+        }
+
+        .stirTrekPanelImage {
+            background-image: url('/images/StirTrek-Emblem-Gold-400x588.png');
+            width: 100%;
+            height: 100%;
+            background-position: center;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body, .speakerSessionStrip .comic-panel-body {
+            position: relative;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-header, .speakerSessionStrip .comic-panel-header {
+            position: absolute;
+            top: -35px;
+            left: -25px;
+        }
+
+        .speakerAvatarBioStrip .speakerImage {
+            width: 80%;
+            border-radius: 50%;
+            border: 6px solid #111c2e;
+            margin: 2em auto 0;
+        }
+
+        .speakerAvatarBioStrip .speakerTagline {
+            vertical-align: middle;
+        }
+
+        .speakerAvatarBioStrip .speakerBio {
+            margin-top: 5%;
+        }
+
+
+        @media only screen and (max-width:990px) {
+            .speakerAvatarBioStrip .comic-panel-body, .speakerSessionStrip .comic-panel-body {
+                border: 20px solid white;
+                padding: 30px 20px;
+                margin-bottom: 40px;
+            }
+
+            .speakerAvatarBioStrip .comic-panel-header, .speakerSessionStrip .comic-panel-header {
+                top: -35px;
+                left: -45px;
+            }
+
+            .speakerAvatarBioStrip .speakerImage {
+                display: block;
+                margin: 0px auto;
+                margin-top: 2em;
+            }
+
+            .speakerAvatarBioStrip .speakerTagline {
+                width: 100%;
+                display: block;
+                text-align: center;
+            }
+
+            .speakerSessionStrip .stirTrekPanel {
+                display: none;
+            }
+        }        
+    </style>
+
+    <div class="speakerAvatarBioStrip">
+        <div class="avatarPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Ed Charbeneau!
+            </div>
+
+            <div>
+                <img src="/images/speakers/2019/Ed-Charbeneau.jpg" class="img-responsive speakerImage">
+            </div>
+
+            <div class="speakerTagline">
+                <h3>Ed is a Microsoft MVP and an international speaker, writer, online influencer, a Developer Advocate for Progress.</h3>
+            </div>
+        </div>
+        <div class="bioPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Bio!
+            </div>
+
+            Ed is a Microsoft MVP and an international speaker, writer, online influencer, a Developer Advocate for Progress, and expert on all things web development. Ed enjoys geeking out to cool new tech, brainstorming about future technology, and admiring great design.
+
+Ed has shared his insights, experiences, and advice around collaboration, knowledge management, social computing, and training at many industry events around the United States. Highly ethical and engaging with an uncanny business acumen, he is a creative community builder and outside the box thinker. Long term business relationships throughout the world within internal communications, employee engagement and marketing as well as IT. Focusing on Financial, Healthcare, Manufacturing, Agency and Professional Services. He has defined, architected, implemented line of business solutions with a touch of style and UX best practices.
+        </div>
+
+    </div>
+    <div class="speakerSessionStrip">
+        <div class="abstractPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                    Session!
+            </div>
+            
+                <h2>WebAssembly: Into the WASM&#39;verse</h2>
+                <br>
+                <div>
+                    Web development has always been synonymous with JavaScript development. That is, until now. WebAssembly (WASM) is an emerging form of web development that promises to open the door to entirely new ecosystems. In this session we&#39;ll explore the various WebAssembly universes including: Blazor/ mono-wasm, Rustwasm, and Emscripten. We&#39;ll also discuss where WASM and JavaScript intersect and combine powers.
+In this session we&#39;ll explore the various WebAssembly universes including: Blazor/mono-wasm, Rustwasm, and Emscripten.
+                </div>
+            
+        </div>
+
+        <div class="timeAndRoomPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Where/When?
+            </div>
+
+            
+                
+                    <h2>Time: 8:30 AM</h2>
+                    <h2>Room: OCLC</h2>
+                
+
+                
+            
+
+
+        </div>
+
+        <div class="stirTrekPanel comic-panel-body">
+            <div class="stirTrekPanelImage"></div>
+        </div>
+    </div>
+</div>
+            </div>
+
+            <footer class="hidden-print" id="siteFooter">
+
+        <div id="footerNavContainer" class="container">
+
+            <div class="footer-main-content row">
+                <div class="col-md-3 footer-logo-container">
+                    <img class="footer-logo img-responsive" src="/images/header-logo.png">
+                </div>
+                <div class="col-xs-9 col-md-9">
+                    <article class="no-margin-bottom">
+                        <div class="footer-links-container">
+                            <p>
+                                <strong>
+                                    <em>LET'S GET CONNECTED.</em>
+                                </strong>
+                                <br> email us:
+                                <a href="mailto:info@stirtrek.com?subject=[Stir%20Trek]%20Question%20ref:site">info@stirtrek.com</a>
+                            </p>
+
+                            <p id="footerSocialMediaIcons">
+                                social us: &nbsp;&nbsp;
+                                <a href="http://www.facebook.com/StirTrek" target="_blank" class="btn btn-social-icon btn-facebook">
+                                    <i class="fa fa-facebook"></i>
+                                </a>
+                                <a href="http://www.twitter.com/StirTrek" target="_blank" class="btn btn-social-icon btn-twitter">
+                                    <i class="fa fa-twitter"></i>
+                                </a>
+                            </p>
+
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </div>
+        <div id="footerCredits">
+            <div class="container clearfix text-muted small">
+                <div class="pull-left">
+                    <span>
+                        All Rights Reserved. Copyright 2021 Stir Trek Conference.
+                    </span>
+                </div>
+
+            </div>
+        </div>
+    </footer>
+    <script type="text/javascript">
+
+    // GOOGLE analytics
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-21832077-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    
+</script>
+
+        </div>
+    </body>
+</html>

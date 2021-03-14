@@ -38,7 +38,7 @@ title: Tech & a Flick
             Update: 2021 Virtual Event
         </div>
         <div class="comic-panel-body with-header">
-            Stir Trek 2021 is going to be on Friday, May 7th, 2021.  This year will be virtual, but we're planning to bring the same kind of great technical content you've come to expect from Stir Trek.  The best part of a virtual conference?  It's also free, thanks to some incredibly supportive sponsors.  <a href="https://stirtrek2021virtual.eventbrite.com/">Click here to get a ticket</a>
+            Stir Trek 2021 is going to be on Friday, May 7th, 2021.  This year will be virtual and livestreamed, but we're planning to bring the same kind of great technical content you've come to expect from Stir Trek.  The best part of a virtual conference?  It's also free, thanks to some incredibly supportive sponsors.  <a href="https://stirtrek2021virtual.eventbrite.com/">Click here to get a ticket</a>
             <br><br>
             Now, before you get all disappointed that we're going to be virtual (like every other conference and meeting in the last year), we're trying to make this as engaging and entertaining as we can. Also, did we mention that it's going to be free? Think of it like a complimentary side quest as a thanks for being part of our awesome community.
         </div>

@@ -19,7 +19,7 @@ allYears:
   - 2020
   - 2021
 showSchedule: false
-showSessionList: false
+showSessionList: true
 
 # Sets up the room order for the schedule
 # Order here matters and effects the schedule display

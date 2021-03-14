@@ -17,11 +17,13 @@ title: Tech & a Flick
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">1 May 2020</p>
     </div> -->
+    <a href="https://stirtrek2021virtual.eventbrite.com/" target="_blank" rel="noopener noreferrer">
     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek 2021 Is Virtual<br>7 May 2021</p>
-        <!-- <br>
-        <p class="registerNow">Register Now</p> -->
+        <br>
+        <p class="registerNow">Register Now!</p>
     </div>
+    </a>
     <!-- <a href="https://sessionize.com/stir-trek-2020/" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             <p class="date">CFP is Open!</p>
@@ -36,29 +38,27 @@ title: Tech & a Flick
             Update: 2021 Virtual Event
         </div>
         <div class="comic-panel-body with-header">
-            <p>Ok, we can't take it anymore... We miss all of you and we're tired of waiting.</p>
-            <p>And since it's not looking like our live event will happen in May as we had hoped when we canceled last year's event - we have decided to host the first ever:</p>
-            <h2 style="text-align: center">STIR TREK: VIRTUAL EDITION on May 7th, 2021!</h2>
-            <p>Now, before you get all disappointed that we're going to be virtual (like every other conference and meeting in the last year), we're trying to make this as engaging and entertaining as we can. Also, did we mention that it's going to be free? Think of it like a complimentary side quest as a thanks for being part of our awesome community.</p>
-            <p>Tickets will be available starting on 3.14.</p>
-            <p>While the exact details, speakers, etc. are still being ironed out, we wanted to make sure we got the word out that this event is in the works and that our (currently limited) supply of free tickets will be available on a first-come, first-served basis. There will also possibly be an even more limited supply of an add-on that will be sold specifically for this event that will have some swag associated. We're still working with our suppliers to see what's possible, how much we can get, etc - so details about this add-on and pricing will be forthcoming.</p>
-            <p>So, all that to say, we're REALLY looking forward to seeing you all! (even if only virtually, for now).</p>
-            <p>--The Stir Trek Board</p>
+            Stir Trek 2021 is going to be on Friday, May 7th, 2021.  This year will be virtual, but we're planning to bring the same kind of great technical content you've come to expect from Stir Trek.  The best part of a virtual conference?  It's also free, thanks to some incredibly supportive sponsors.  <a href="https://stirtrek2021virtual.eventbrite.com/">Click here to get a ticket</a>
+            <br><br>
+            Now, before you get all disappointed that we're going to be virtual (like every other conference and meeting in the last year), we're trying to make this as engaging and entertaining as we can. Also, did we mention that it's going to be free? Think of it like a complimentary side quest as a thanks for being part of our awesome community.
         </div>
     </div>
 </div>
 <div class="row">
     <div class="col-md-6">
         <div class="comic-panel-header offset">
-            FAQ - Attendees
+            What Do I Get
         </div>
         <div class="comic-panel-body with-header">
-            <p class="question">When is the next in-person Stir Trek?</p>
-            <p>We're hoping to get together as soon as this fall, but don't hold us to that just yet since there's still a lot of factors that we don't control. Believe us, we are looking at a number of options and thinking out of the box as to how we can successfully get us all together again.</p>
-            <p class="question">Will there be a swag box?</p>
-            <p>It depends. For the free ticket, you will only get the ability to view the event. But as we said above, we are working with our vendors to see what making some swag will cost, how much we can order, and if we can get it reasonably quickly. Assuming all works out, we will post the list of swag and the add-on price if you want it in addition to the free ticket. That being said, our expectation is that IF we can get some swag, it will most likely be a very limited number of items.</p>
-            <p class="question">What happens to my ticket that I purchased in 2020 and opted to keep for the next live event?</p>
-            <p>This event is a totally separate one-off. If you chose to keep your tickets from the canceled 2020 event, those aren't going anywhere and you will still be good to go for our next in-person event. As an extra thanks, we will also be sending you a way to get in the front of the line for a ticket to this event.</p>
+            <p>We will be sharing 12 different technical sessions from experts around the software development industry.  It will be one single track, so you also won't have to choose between sessions.  In addition to the content, you will also be able to get exactly the snacks and drinks you want, any the time you want, by walking over to your kitchen during the event.  Make sure to stock up!  There won't be any lines, crowded hallways, or packed theaters to contend with, and all of your favorite things will be there.</p>
+        </div>
+    </div>
+        <div class="col-md-6">
+        <div class="comic-panel-header offset">
+            Collaborative Viewing
+        </div>
+        <div class="comic-panel-body with-header">
+            <p>Even though we can't be together in person during the event, we want you to be able to participate in those hallway conversations that are the best part of every conference.  Our Slack community will be an important part of those conversations.  If you're not already a member, head over to <a href="http://stirtrekslack.herokuapp.com">stirtrekslack.herokuapp.com</a> and sign up.  There will be hundreds of us there chatting about what's happening on stage, what's happening in our lives, and what we are all working on.  We can't wait to connect with all of you again.</p>
         </div>
     </div>
     <div class="col-md-6">
@@ -72,17 +72,8 @@ title: Tech & a Flick
             <p>Same as an attendee - this event is a totally separate one-off. If you chose to keep your sponsorship from the canceled 2020 event, those aren't going anywhere and you will still be good to go for our next in-person event. As an extra thanks, we will also be sending you a way to get in the front of the line for the same number of tickets to this event as you would normally get for your 2020 sponsorship level.</p>
         </div>
     </div>
-    <div class="col-md-6">
-        <div class="comic-panel-header offset">
-            FAQ - Speakers
-        </div>
-        <div class="comic-panel-body with-header">
-            <p class="question">Is there a public CFP?</p>
-            <p>For this virtual event, there is not. Please visit <a href="/speakers/">the Speakers page</a> for more details.</p>
-        </div>
-    </div>
 </div>
-<div class="row">
+<!-- <div class="row">
     <div class="col-md-6">
         <div class="comic-panel-header offset">
             What Is Stir Trek?
@@ -91,26 +82,20 @@ title: Tech & a Flick
             Stir Trek is <em>normally</em> a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a screening of a blockbuster film on its <i>(originally scheduled)</i> opening day. Pretty sweet, huh?
             <br>
             <br>
-            <!--<a href="https://goo.gl/maps/wVdUQNDfXd9Zxd2P8">AMC Easton 30</a>, Columbus, OH-->
+            <a href="https://goo.gl/maps/wVdUQNDfXd9Zxd2P8">AMC Easton 30</a>, Columbus, OH
             But this year we can't do that, and we miss you. So we're going virtual! Details are still to come, but we can't wait to hang out with you again.
         </div>
     </div>
     <div class="col-md-6">
         <div class="comic-panel-header offset" id="whatigetheader">What Do Ya get?</div>
         <div class="comic-panel-body with-header" id="whatiget">
-            <!--<ul>
+            <ul>
                 <li>48 Sessions of critical content</li>
                 <li>Well-known regional &amp; national Speakers</li>
                 <li>Screening of Marvel's <a href="https://www.marvel.com/movies/black-widow">Black Widow</a></li>
                 <li>Breakfast and Lunch</li>
                 <li>Refreshments during the movie</li>
                 <li>Registration box with fun bonus swag</li>
-            </ul>-->
-            <ul>
-                <li>12 sessions of critical content</li>
-                <li>Well-known regional &amp; national speakers</li>
-                <li>The opportunity to make a snack anytime you want</li>
-                <li>Optional ways you can get some cool swag and support this virtual event</li>
             </ul>
             <div class="comic-panel-inset"></div>
         </div>
@@ -135,7 +120,7 @@ title: Tech & a Flick
             });
         </script>
     </div>
-</div>
+</div>-->
 
 <!--<div class="row">
     <div class="col-md-6">

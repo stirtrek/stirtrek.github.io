@@ -117,4 +117,3 @@ deploy:
     github:
       url: https://github.com/stirtrek/stirtrek.github.io.git
       branch: master
-      token: $GITHUB_TOKEN

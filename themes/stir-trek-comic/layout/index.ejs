@@ -8,13 +8,13 @@
 
     <% if (page.source === 'index.md') { %>
         <%- //partial('sponsorsBrief') %>
-    <% } else if (page.source === 'Sponsors/index.md') { %>
+    <% } else if (page.source === 'sponsors/index.md') { %>
         <%- partial('sponsorsFull') %>
-    <% } else if (page.source === 'Speakers/index.md' || /^Speakers\/\d{4}\.md$/.test(page.source)) { %>
+    <% } else if (page.source === 'speakers/index.md' || /^speakers\/\d{4}\.md$/.test(page.source)) { %>
         <%- partial('speakerList') %>
-    <% } else if (page.source === 'Sessions/index.md') { %>
+    <% } else if (page.source === 'sessions/index.md') { %>
         <%- partial('sessions') %>        
-    <% } else if (page.source === 'Schedule/index.md') { %>
+    <% } else if (page.source === 'schedule/index.md') { %>
         <%- partial('schedule') %>
     <% } %>
 

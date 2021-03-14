@@ -1,0 +1,681 @@
+{
+  "sessions": [
+    {
+      "id": "245964",
+      "title": "A Primer on Functional Programming",
+      "description": "Functional programming languages are gaining in popularity. If you’ve worked in object-oriented languages, you might be baffled at how they work. Maybe hearing the word “recursion” makes you want to scream. Or maybe you’ve just heard the hype and want to know what the hype is about.\r\n\r\nIn this talk, we will briefly explain what functional languages are, and go into some examples of tasks that these languages are suited for. We will look at the major languages in use today and see how they work. We'll see some of the things they have in common, and the many things that make them distinctive. Finally, we’ll offer some suggestions on how to dive into learning these and using them on your own projects.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "97e1c796-8bf6-468b-b246-0efc6979b9e7"
+      ],
+      "categoryItems": [
+        73754
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "246315",
+      "title": "Building Better Teams Through Play",
+      "description": "Teams work incredibly hard to drive software and processes forward. Sometimes we neglect the emotional side of our hard work, leaving teams brittle and less able to adapt and bend. How do we release tension and form the strong bonds that a good team needs to be successful as well as honing some of our hard won skills?\r\n\r\nAs children, we form strong bonds during recess or at play dates. As adults, we lose this sense of companionship and playfulness. Bring it back to your team with targeted fun activities that create a sense of mindfulness, improve skills, and are just downright enjoyable. Team building is the most difficult aspect of leadership–peer or otherwise. One of the best ways to facilitate team building is play!\r\n\r\nJenny Bramble will present a method for skills and team building outside of the norm in play time. She will show how events can be arranged, when to do them, and what the benefits are for play time–including stronger teams that work better together due to their powerful relationships between team members.\r\n\r\nWe will also discuss different games such as TestSphere Arena, TestSphere Bingo, “Murder” Mystery, Quality Jenga, The Planning Game, Telephone, and more! She will tie each of these games back to an element of your job.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "97b29c15-84f0-4899-97b8-57ed6d8e390b"
+      ],
+      "categoryItems": [
+        73761
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "241579",
+      "title": "Burritos at Scale: A SaaS Story",
+      "description": "Software development is fun, but building software that scales to serve a large number of users takes some serious effort.\r\n\r\nIn this short talk we'll follow a fictitious Software as a Service (SaaS) organization through the launch of their groundbreaking new \"Bureddit\" social media platform (think Reddit, but only for burrito-related content) and explore how applications must grow and evolve over time as their usage takes off.\r\n\r\nWe'll cover the different parts of modern web applications, vertical and horizontal scaling of the database and application server, and tease some more advanced concepts for folks wanting to learn more. \r\n\r\nBy the end of this talk you should have a high-level understanding of modern architectural concepts and how the pieces fit together, what they have to do with cloud computing, and ideas of some things to look into if you wanted to learn more.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "17c299ee-d9fd-4020-b499-2837b2b3a2bf"
+      ],
+      "categoryItems": [
+        73755
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "242343",
+      "title": "Enterprise Observability with OpenTelemetry",
+      "description": "Enterprise applications are complex. A transaction starting in the browser will go through proxies, api gateways, security appliances, application performance monitoring tools, logs, microservices and more microservices. Historically there has been no standard way to get observability and traceability between all the enterprise components. Each product and framework has it's own proprietary way of identifying a transaction making it difficult if not impossible to stitch together a complete picture of a transaction. This is changing with the introduction of the W3C Trace Context standard and the open source initiative of OpenTelemetry.\r\n\r\nIn this session, you will learn how using Trace Context, OpenTelemetry and other open source and commercial products can improve your observability to help you better triage production issues, improve performance, be proactive and make your users happier.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "96ea86eb-7f1f-4c85-b2b8-98d462a40c94"
+      ],
+      "categoryItems": [
+        73755
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "246518",
+      "title": "How The Heck Would I Integrate Serverless Into My Legacy Application?",
+      "description": "Exploring serverless computing can be discouraging. It sounds amazing and starts your brain spinning about all of the potential applications, but it's not always easy to see where your legacy application may be able to take advantage. In reality, both Azure Functions and AWS Lambda can easily be used to enhance applications and provide a brand new perspective.  In this session, we'll explore some easy applications of serverless that can be added to existing brownfield applications, like simple monitoring, IOT integration, and large file processing. In addition, attendees will learn about situations in which where serverless computing may not be a good fit and a more traditional approach may be warranted in an effort to avoid the growing pains of learning a new technology unecessarily.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e357c7a0-a665-466a-9632-ce5842b5f45b"
+      ],
+      "categoryItems": [
+        73755
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "244644",
+      "title": "How to be Right, A Lot",
+      "description": "Is good judgment innate or something you can nurture?  Making decisions personally and professionally has consequences when you are wrong. In the work place, the stakes can be high when customer impact or employee impact has negative repercussions. \r\n\r\nAs a knowledge worker or leader, your ability to make good decisions will set you apart from your peers.\r\n\r\nIn this talk, you’ll learn what gets in the way of making good decisions and predictions. You’ll also walk away with tips on how to improve your judgement and instincts in the midst of uncertainty.\r\n",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d6efef12-0cc5-4fe1-b506-20bee22d0fff"
+      ],
+      "categoryItems": [
+        73761
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "245276",
+      "title": "Introducing Domain-Driven Design",
+      "description": "Domain-Driven Design (DDD) provides a set of patterns and practices for tackling complex business problems with software models. Learn the basics of DDD in this session, including several principles and patterns you can start using immediately even if your project hasn't otherwise embraced DDD. Examples will primarily use C#/.NET. Attendees will leave with a basic understanding of DDD's approach, principles, and some key design patterns.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
+      ],
+      "categoryItems": [
+        73754
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "241568",
+      "title": "Multi-Cloud Magic: Leveraging Multi-Cloud Clusters in Real-World Scenarios",
+      "description": "Public, Private, Hybrid...Multi-Cloud?\r\n\r\nAs the cloud development options and architectures continue to evolve, we've finally found ourselves at the next new thing: Multi-Cloud. What is it? Do we really need it? How would you take advantage of a multi-cloud solution? \r\n\r\nIn this talk, I'd like to describe a few real-world use cases where a multi-cloud solution is currently in production, specifically when it comes to data. A demo on how to setup a multi-cloud cluster will also be shown.\r\n\r\nThe audience will leave with a more confident understanding of real-world, multi-cloud use cases and see how to create their own!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a378b580-baef-4c58-a9b3-589139c88159"
+      ],
+      "categoryItems": [
+        73755
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "241689",
+      "title": "Past me was an Idiot",
+      "description": "\"I am old, Gandalf. I don't look it, but I am beginning to feel it in my heart of hearts. I feel all thin, sort of stretched: like butter that has been scraped over too much bread.\"\r\n\r\nA bit dramatic? Perhaps. But being in the software industry for 20 years feels like an eternity. I look back at my bright-eyed, energetic post-graduation self and simultaneously celebrate my successes and lament the sheer amount of energy I wasted on pointless worrying.\r\n\r\nThis talk is made up of 5 lessons that I learned during my time in DevOps and wish I could go back and tell myself at the start of my career, including topics such as burn out, self-branding, and and team cultures. You'll laugh, I'll probably cry, and together we can share stories and advice in Discord along the way.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f4730f07-30ea-4ffc-9de0-e22e3a0787f5"
+      ],
+      "categoryItems": [
+        73761
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "241789",
+      "title": "Snips and Snails and Puppy Dog Tails: Your software supply chain",
+      "description": "We are standing on the shoulders of giants.  Building beautiful things out of beautiful things is at the heart of software composition today.  But what happens when things aren't so beautiful? What if that dependency of a dependency of a dependency has a Bitcoin miner written into it? Is your code review catching that? It doesn't matter if you type npm-install or Install-Package or php composer.phar install or mvn install or cpan or pip install.  Probably not.  Let's look at the realities of your supply chain, how it is getting corrupted, and what we can do about it. You'll see how to avoid becoming a victim of the next left-pad.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "edf87fe3-df21-4e80-8834-c0d0365dbb59"
+      ],
+      "categoryItems": [
+        73762
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "243947",
+      "title": "The Power of 'No'",
+      "description": "Have you ever attended a meeting that you wish you hadn’t? Have you ever been happy that plans were canceled because you never really wanted to go in the first place? \r\n\r\nSaying no is hard and can be truly challenging when faced with the prospect of feeling like maybe you’ll let someone down. Another reason saying no is hard is the feeling or FOMO, or the Fear Of Missing Out. But are those reason really worth our peace of mind?\r\n\r\nThis talk is about how knowing when to say no and how to do so. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "aae8e930-83f8-45be-b1a9-d47075235565"
+      ],
+      "categoryItems": [
+        73761
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "246481",
+      "title": "What On Earth Is Quantum Computing?!? (And will it break all my encryption?)",
+      "description": "You might have heard that quantum computers can break public key encryption. You might also have heard that you can buy a quantum computer today, or run programs on one via a cloud service. Yet TLS does not seem to be broken! What is going on? It’s hard to tell, because most “explanations” of quantum computing are either marketing brochures or written for an audience of physics postdocs. This talk will clearly explain what we know about quantum computing today, and how it is relevant to software professionals now and in the near future. We’ll focus on the security space in particular and discuss what quantum computers can do besides factor large integers. Come with questions, leave with a clear vision for how new computing technologies may change your work in the decades to come!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "446a4b0e-58b2-4708-a446-34ab2e13a25b"
+      ],
+      "categoryItems": [
+        73762
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    }
+  ],
+  "speakers": [
+    {
+      "id": "a378b580-baef-4c58-a9b3-589139c88159",
+      "firstName": "Adrienne",
+      "lastName": "Tacke",
+      "bio": "Currently a Senior Developer Advocate for MongoDB, Adrienne Tacke is also a Filipina software engineer, speaker, published author of the book Coding for Kids: Python, and a LinkedIn Learning instructor who specializes in Cloud Development courses. Perhaps most important, however, is that she spends way too much money on desserts and ungodly amounts of time playing Cyberpunk 2077.",
+      "tagLine": "Senior Developer Advocate at MongoDB",
+      "profilePicture": "https://sessionize.com/image/8e22-400o400o2-80-baef-4c58-a9b3-589139c88159.70a38ce0-d334-45ba-a3c3-1dd6673af07c.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/AdrienneTacke",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/adriennetacke/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://blog.adrienne.io/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://developer.mongodb.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        241568
+      ],
+      "fullName": "Adrienne Tacke",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "edf87fe3-df21-4e80-8834-c0d0365dbb59",
+      "firstName": "Bill",
+      "lastName": "Sempf",
+      "bio": "Bill Sempf is a software security architect. His breadth of experience includes business and technical analysis, software design, development, testing, server management and maintenance, and security. In his 20 years of professional experience he has participated in the creation of well over 200 applications for large and small companies, managed the software infrastructure of two Internet service providers, coded complex software happily in every environment imaginable, tested the security of all natures of applications and APs, and made mainframes talk to cell phones. He is the author of C# 5 All in One for Dummies and Windows 8 Programming with HTML5 For Dummies; a coauthor of Effective Visual Studio.NET and many other books, a frequent contributor to industry magazines; and has recently been an invited speaker for the ACM and IEEE, BlackHat, CodeMash, DerbyCon, BSides, DevEssentials, the International XML Web Services Expo and the Association of Information Technology Professionals. Bill also serves on the board of the Columbus branch of the Open Web Application Security Project, and is the Administrative Director of Locksport International.",
+      "tagLine": "Application Security Architect",
+      "profilePicture": "https://sessionize.com/image/7d3e-400o400o2-7d38621c-2319-4d6a-b8fa-72be8a0a9859.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/sempf",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/billsempf/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://sempf.net/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        241789
+      ],
+      "fullName": "Bill Sempf",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e357c7a0-a665-466a-9632-ce5842b5f45b",
+      "firstName": "Brett",
+      "lastName": "Berliner",
+      "bio": "A 2006 graduate of The Ohio State University, Brett was lucky enough to discover his passion for software development in high school, when a computer science course time allowed him to take a longer lunch. After graduating, he's been fortunate enough to work on some very cool projects in the .NET space in the marketing, insurance and consulting realms. At Insight Digital Innovation (formerly Cardinal Solutions), Brett focuses heavily on large scale application development using Microsoft Azure. He's passionate about testing strategies and building code that is reusable and maintainable. Brett lives in Columbus, OH with his wife and dog, and when he's not writing or learning about software, he finds time to play beer league hockey and listen to (mostly) good music. ",
+      "tagLine": "Architect, Insight Digital Innovation",
+      "profilePicture": "https://sessionize.com/image/25a3-400o400o2-f472a0b5-522f-4aae-b8de-6216de7041c8.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/brettberliner",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/brett-berliner-46a2316/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.insight.com/en_US/solve/digital-innovation.html",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        246518
+      ],
+      "fullName": "Brett Berliner",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "96ea86eb-7f1f-4c85-b2b8-98d462a40c94",
+      "firstName": "Christopher",
+      "lastName": "Judd",
+      "bio": "Christopher Judd is CTO and partner at Manifest Solutions (http://www.manifestcorp.com), an international speaker, Java Champion, an open source evangelist, and the Central Ohio Java Users Group (http://www.cojug.org) leader.  He is an accomplished writer having co-authored Beginning Groovy and Grails (Apress, 2008), Enterprise Java Development on a Budget (Apress, 2003) and Pro Eclipse JST (Apress, 2005) as well as the author of the children’s book “Bearable Moments”.  Based in Columbus Ohio, he has spent over 20 years architecting and developing software for organizations ranging from Fortune 500 to start-ups across various industries including insurance, health care, education, retail, government, manufacturing, service, and transportation.  Mr. Judd spends most of his time consulting while continuing to focus on mentoring and training in Java, mobile and related technologies.",
+      "tagLine": "Trusted Technical Adviser and Talent Developer",
+      "profilePicture": "https://sessionize.com/image/c003-400o400o2-eb-7f1f-4c85-b2b8-98d462a40c94.4fe96cf6-94df-4929-acc4-64134415dd19.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/javajudd",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/christophermjudd/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://javajudd.net",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://manifestcorp.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        242343
+      ],
+      "fullName": "Christopher Judd",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "446a4b0e-58b2-4708-a446-34ab2e13a25b",
+      "firstName": "Craig",
+      "lastName": "Stuntz",
+      "bio": "Craig Stuntz is a software engineer and a lifelong student of computer science, with specific interests in programming languages, type theory, compilers, and math. He is Director of Consulting for Improving in Columbus, Ohio, and cofounded the Columbus branch of Papers We Love, a reading group for people interested in academic computer science research. He has presented talks at CodeMash, Central Ohio ISSA, Stir Trek, and many user groups.\r\n\r\nWhen not at work or playing with his kids, he is usually studying math or playing Irish traditional music on the tin whistle, wooden flute, and bouzouki.",
+      "tagLine": "Director of Consulting, Improving Columbus",
+      "profilePicture": "https://sessionize.com/image/cc66-400o400o2-0e-58b2-4708-a446-34ab2e13a25b.7984e372-18b8-447d-b3b5-ba2732be1880.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/craigstuntz",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "Blog",
+          "url": "http://www.craigstuntz.com",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        246481
+      ],
+      "fullName": "Craig Stuntz",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "aae8e930-83f8-45be-b1a9-d47075235565",
+      "firstName": "Glenn",
+      "lastName": "Harmon Jr.",
+      "bio": "I'm a Father, Husband, Cyclist, formerly SQL Developer and now \r\n a Ruby Developer at @ScriptHero and @DecisionDeskHQ.\r\n\r\nOccasional blogger at glennjamin.dev",
+      "tagLine": "CoverMyMeds, SQL and Ruby Developer",
+      "profilePicture": "https://sessionize.com/image/e02b-400o400o2-hmCKMSutvKc2EdoWY1uVd6.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/GlennHarmonJr",
+          "linkType": "Twitter"
+        }
+      ],
+      "sessions": [
+        243947
+      ],
+      "fullName": "Glenn Harmon Jr.",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f4730f07-30ea-4ffc-9de0-e22e3a0787f5",
+      "firstName": "Jason",
+      "lastName": "Dobies",
+      "bio": "Jason is a Developer Advocate at Red Hat. For close to 20 years, Jason has worked in the software industry developing in a variety of languages, including Python, Java, and Go. In addition to his career as an engineer, he is also an Adjunct Professor at Villanova University, currently teaching Software Engineering and Senior Projects. When not sitting at a computer, Jason enjoys spending time with his wife and two children, playing video games, and working out.",
+      "tagLine": "Developer Advocate at Red Hat",
+      "profilePicture": "https://sessionize.com/image/9e62-400o400o2-07-30ea-4ffc-9de0-e22e3a0787f5.2c53795a-5a15-4c3e-82b4-12f75378e871.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://twitter.com/jdob",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "http://www.linkedin.com/in/jasondobies",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        241689
+      ],
+      "fullName": "Jason Dobies",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "97b29c15-84f0-4899-97b8-57ed6d8e390b",
+      "firstName": "Jenny",
+      "lastName": "Bramble",
+      "bio": "Jenny ended up in a quality assurance career after coming up through support and devops, cutting her teeth on that interesting role that acts as the 'translator' between customer requests from support and the development team.  Her love of support and the human side of problems lets her find a sweet spot between empathy for the user and empathy for my team.  She's done testing, support, or human interfacing for most of her career.  She finds herself happiest when she's making an impact on other people--whether it's helping find issues in applications, leading scrum, speaking at events, or just grabbing coffee and chatting.  \r\n\r\nTwitter: @jennydoesthings",
+      "tagLine": "Quality Advocate and Local Badass",
+      "profilePicture": "https://sessionize.com/image/2d7e-400o400o2-15-84f0-4899-97b8-57ed6d8e390b.e85515ac-20f9-4a6b-9300-618d148919ac.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://twitter.com/jennydoesthings",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jennybramble",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://jennydoesthings.com",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        246315
+      ],
+      "fullName": "Jenny Bramble",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "17c299ee-d9fd-4020-b499-2837b2b3a2bf",
+      "firstName": "Matt",
+      "lastName": "Eland",
+      "bio": "Matt is committed to helping people (and their code) achieve greater things. After nearly two decades of working as a professional software engineer, Matt put away his mechanical keyboard and made teaching others his primary job in a continuing quest to invest in the community and up-and-coming developers. Matt focuses on building quality software applications using C#, F#, TypeScript, Angular, Vue.js, and plain-old JavaScript.\r\n\r\nWhen he's not teaching or coding, Matt writes on software engineering at KillAllDefects.com, maintains Side.Dev, builds highly unusual side projects, goes on refactoring frenzies, and enjoys learning new things to share with the community at large.",
+      "tagLine": "Instructor at Tech Elevator",
+      "profilePicture": "https://sessionize.com/image/755c-400o400o2-ee-d9fd-4020-b499-2837b2b3a2bf.33184480-3aab-43b4-8f7e-a31734d57046.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/IntegerMan",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/matteland/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.KillAllDefects.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.TechElevator.com",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "books",
+          "url": "https://NewDevsGuide.com",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        241579
+      ],
+      "fullName": "Matt Eland",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "97e1c796-8bf6-468b-b246-0efc6979b9e7",
+      "firstName": "Sarah",
+      "lastName": "Withee",
+      "bio": "Sarah Withee is a polyglot software engineer, international public speaker, teacher and mentor, and hardware and robot tinkerer located in Pittsburgh, PA. She has a passion for technology, and has ever since she wrote her first computer programs in elementary school. She captivates audiences with both popular and powerful technical and anecdotal talks. She gives workshops to teach programming and hardware building to women in tech, as well as to students of all ages. She's mentored middle and high school robotics teams to world championships. She's even helped organize six conferences, been on a Google Year in Search video, and started the viral hashtag #SpeakerConfessions.\r\n\r\nShe passionately tries to connect with people and communities, both online and offline, and encourage and support new people going in tech. She even started a podcast to try to help boost underrepresented groups in tech.",
+      "tagLine": "Polyglot software engineer",
+      "profilePicture": "https://sessionize.com/image/7d99-400o400o2-6828b9e0-52cc-416a-8d42-da78d5b43c68.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/geekygirlsarah",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/sarahwithee",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://geekygirlsarah.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://geekygirlsarah.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        245964
+      ],
+      "fullName": "Sarah Withee",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "d6efef12-0cc5-4fe1-b506-20bee22d0fff",
+      "firstName": "Sho",
+      "lastName": "Fola",
+      "bio": "Synthesizing information and making connections is at the heart of most of what I do. I love connecting the dots across so many domains.\r\n\r\nFrom building apps that focus on connecting people and their data to writing articles or speaking at conferences, I use any medium at my disposal to achieve this aim.\r\n\r\nYou can catch me in my free time using SciKit Learn and PyTorch to tackle NLP challenges. The only thing that tops that is spending time being a husband and father of three amazing kids",
+      "tagLine": "Life Learner, Technologist, Speaker & Machine Learning Practitioner",
+      "profilePicture": "https://sessionize.com/image/81ce-400o400o2-12-0cc5-4fe1-b506-20bee22d0fff.2d625839-cc31-4773-96f6-96f178bfd33d.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/ShoReason",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/shofola",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://www.shoreason.com",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        244644
+      ],
+      "fullName": "Sho Fola",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a5d50f4e-f021-4983-97a9-73f9415b3d5b",
+      "firstName": "Steve",
+      "lastName": "Smith",
+      "bio": "Steve Smith (@ardalis) is an entrepreneur and software developer with a passion for building quality software as effectively as possible. Steve has published several courses on Pluralsight, covering DDD, SOLID, design patterns, and software architecture. He's a Microsoft ASP.NET MVP and Insider, a frequent speaker at developer conferences, an author, and a trainer.\r\n\r\nSteve works with companies that want to avoid the trap of technical debt by helping their teams deliver quality software, quickly. Steve and his team have been described by clients as a \"force multiplier\", amplifying the value of existing development teams. Steve's client list includes Microsoft, Quicken Loans, Celina Insurance, and many other satisfied customers.",
+      "tagLine": "I Help Teams Deliver Better Software",
+      "profilePicture": "https://sessionize.com/image/f430-400o400o2-4e-f021-4983-97a9-73f9415b3d5b.34dc742e-9a1e-4c87-98ad-c6bae9a07972.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/ardalis",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/stevenandrewsmith",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://ardalis.com/blog",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://ardalis.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        245276
+      ],
+      "fullName": "Steve Smith",
+      "categoryItems": [],
+      "questionAnswers": []
+    }
+  ],
+  "questions": [],
+  "categories": [
+    {
+      "id": 27677,
+      "title": "Track",
+      "items": [
+        {
+          "id": 73753,
+          "name": "App Dev",
+          "sort": 1
+        },
+        {
+          "id": 73754,
+          "name": "Architecture / Patterns",
+          "sort": 2
+        },
+        {
+          "id": 73755,
+          "name": "Cloud / Infrastructure",
+          "sort": 3
+        },
+        {
+          "id": 73756,
+          "name": "Data / AI",
+          "sort": 4
+        },
+        {
+          "id": 73757,
+          "name": "Design",
+          "sort": 5
+        },
+        {
+          "id": 73758,
+          "name": "DevOps",
+          "sort": 6
+        },
+        {
+          "id": 73759,
+          "name": "IoT / Maker",
+          "sort": 7
+        },
+        {
+          "id": 73760,
+          "name": "Mobile / Client",
+          "sort": 8
+        },
+        {
+          "id": 73761,
+          "name": "Professional Skills / Soft Skills",
+          "sort": 9
+        },
+        {
+          "id": 73762,
+          "name": "Security",
+          "sort": 10
+        },
+        {
+          "id": 73763,
+          "name": "Testing / Quality",
+          "sort": 11
+        },
+        {
+          "id": 73764,
+          "name": "Web",
+          "sort": 12
+        },
+        {
+          "id": 73765,
+          "name": "Misc *.*",
+          "sort": 13
+        }
+      ],
+      "sort": 1,
+      "type": "session"
+    }
+  ],
+  "rooms": []
+}

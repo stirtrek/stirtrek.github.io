@@ -9,7 +9,7 @@
             var firstNameTrimmed = firstName.replace(/[^a-zA-Z0-9-_\.]/g, '');
             var lastNameTrimmed = lastName.replace(/[^a-zA-Z0-9-_\.]/g, '');
 
-            var speakerPageUrl = `/Speakers/${page.year}/${firstName.replace(/[ \"]/g,"")}-${lastName.replace(/[ \"]/g,"")}.html`;
+            var speakerPageUrl = `/speakers/${page.year}/${firstName.replace(/[ \"]/g,"")}-${lastName.replace(/[ \"]/g,"")}.html`;
             
         %>
             <div class="col-md-3">

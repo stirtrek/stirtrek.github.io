@@ -63,10 +63,10 @@ A few things need to happen to roll the site to a new year:
     - sessions20XX.json needs to be downloaded from Sessionize once we've selected sessions
 - Add a folder new folder for speaker photos like /source/images/speakers/YYYY
 - Search for the year in the /source directory's .md files and change it where appropriate in content
-- While there is no schedule /source/Speakers/index.md has the year set as the previous year in the YAML at the top. When we get a new schedule, update this value.
+- While there is no schedule /source/speakers/index.md has the year set as the previous year in the YAML at the top. When we get a new schedule, update this value.
 
 ## Creating a speaker archive page
-Previous speaker/talk pages get created at /Speakers/1234/Speaker-Name.html, but there is no automatic archive page. To create one, add a file to /Speakers like "2019.md" and update the configuration at the top as appropriate.
+Previous speaker/talk pages get created at /speakers/1234/speaker-Name.html, but there is no automatic archive page. To create one, add a file to /speakers like "2019.md" and update the configuration at the top as appropriate.
 
 The magic behind the speakers pages is that the file in /source/themes/stir-trek-comic/layout/index.ejs magically applies specific themes based on path. And it has a handy regex to match 4 digit year files.
 

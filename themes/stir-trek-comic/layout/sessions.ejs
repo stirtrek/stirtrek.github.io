@@ -31,7 +31,7 @@
                         <tr>
                             <% // If there's a speaker, we can link to their session and get category info
                             if(speakersInfo.length > 0) { 
-                                var firstSpeakerPageUrl = `/Speakers/${config.currentYear}/${speakersInfo[0].firstName.replace(/[ \"]/g,"")}-${speakersInfo[0].lastName.replace(/[ \"]/g,"")}.html`;
+                                var firstSpeakerPageUrl = `/speakers/${config.currentYear}/${speakersInfo[0].firstName.replace(/[ \"]/g,"")}-${speakersInfo[0].lastName.replace(/[ \"]/g,"")}.html`;
                             %>
                                 <td>
                                     <a href="<%= firstSpeakerPageUrl %>#abstract">
@@ -42,7 +42,7 @@
                                     <div>
                                         <%
                                         for(var thisSpeaker of speakersInfo) {
-                                            var thisSpeakerPageUrl = `/Speakers/${config.currentYear}/${thisSpeaker.firstName.replace(/[ \"]/g,"")}-${thisSpeaker.lastName.replace(/[ \"]/g,"")}.html`;
+                                            var thisSpeakerPageUrl = `/speakers/${config.currentYear}/${thisSpeaker.firstName.replace(/[ \"]/g,"")}-${thisSpeaker.lastName.replace(/[ \"]/g,"")}.html`;
 
                                         %>
                                             <a href="<%= thisSpeakerPageUrl %>">

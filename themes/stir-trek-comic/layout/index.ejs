@@ -7,7 +7,7 @@
     <%- page.content %>
 
     <% if (page.source === 'index.md') { %>
-        <%- //partial('sponsorsBrief') %>
+        <%- partial('sponsorsBrief') %>
     <% } else if (page.source === 'sponsors/index.md') { %>
         <%- partial('sponsorsFull') %>
     <% } else if (page.source === 'speakers/index.md' || /^speakers\/\d{4}\.md$/.test(page.source)) { %>

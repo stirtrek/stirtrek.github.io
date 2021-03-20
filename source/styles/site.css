@@ -690,7 +690,7 @@ div.hr-schedule:before {
 }
 
 .sponsor.sponsor-platinum .sponsorCompany .description {
-    /* height: 500px; */
+    height: 500px;
 }
 
 .sponsor.sponsor-gold img,

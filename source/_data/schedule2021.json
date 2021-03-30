@@ -2,247 +2,128 @@
   "scheduledSessions": {
     "timeSlots": [
       {
-        "time": "7:30 AM",
+        "time": "10:00 AM",
         "sessions": [
           {
-            "id": "7ab82744-7b0c-45dc-8ce5-351cc9b7b883",
-            "scheduledRoom": "Concourse"
+            "id": "806d2e2e-ac4d-4224-8489-47b8456f1bea",
+            "scheduledRoom": "Live Stream"
           }
         ]
       },
       {
-        "time": "8:30 AM",
+        "time": "10:10 AM",
         "sessions": [
           {
-            "id": "173686",
-            "scheduledRoom": "Upstart"
-          },
-          {
-            "id": "180821",
-            "scheduledRoom": "HMB"
-          },
-          {
-            "id": "174067",
-            "scheduledRoom": "OCLC"
-          },
-          {
-            "id": "178251",
-            "scheduledRoom": "Revel IT"
-          },
-          {
-            "id": "180963",
-            "scheduledRoom": "DMG"
-          },
-          {
-            "id": "176084",
-            "scheduledRoom": "CAS"
-          },
-          {
-            "id": "181095",
-            "scheduledRoom": "Manifest"
-          },
-          {
-            "id": "174087",
-            "scheduledRoom": "ComResource"
+            "id": "246481",
+            "scheduledRoom": "Live Stream"
           }
         ]
       },
       {
-        "time": "9:45 AM",
+        "time": "10:40 AM",
         "sessions": [
           {
-            "id": "174957",
-            "scheduledRoom": "Upstart"
-          },
-          {
-            "id": "173764",
-            "scheduledRoom": "HMB"
-          },
-          {
-            "id": "173787",
-            "scheduledRoom": "OCLC"
-          },
-          {
-            "id": "175293",
-            "scheduledRoom": "Revel IT"
-          },
-          {
-            "id": "174175",
-            "scheduledRoom": "DMG"
-          },
-          {
-            "id": "176164",
-            "scheduledRoom": "CAS"
-          },
-          {
-            "id": "180032",
-            "scheduledRoom": "Manifest"
-          },
-          {
-            "id": "176262",
-            "scheduledRoom": "ComResource"
+            "id": "243947",
+            "scheduledRoom": "Live Stream"
           }
         ]
       },
       {
-        "time": "11:00 AM",
+        "time": "11:10 AM",
         "sessions": [
           {
-            "id": "177084",
-            "scheduledRoom": "Upstart"
-          },
-          {
-            "id": "178056",
-            "scheduledRoom": "HMB"
-          },
-          {
-            "id": "173847",
-            "scheduledRoom": "OCLC"
-          },
-          {
-            "id": "178040",
-            "scheduledRoom": "Revel IT"
-          },
-          {
-            "id": "181113",
-            "scheduledRoom": "DMG"
-          },
-          {
-            "id": "173606",
-            "scheduledRoom": "CAS"
-          },
-          {
-            "id": "181652",
-            "scheduledRoom": "Manifest"
-          },
-          {
-            "id": "179748",
-            "scheduledRoom": "ComResource"
+            "id": "241579",
+            "scheduledRoom": "Live Stream"
           }
         ]
       },
       {
-        "time": "12:00 PM",
+        "time": "11:40 AM",
         "sessions": [
           {
-            "id": "41fb20a5-cbdf-496b-a059-db76e52d9c92",
-            "scheduledRoom": "Concourse"
+            "id": "245276",
+            "scheduledRoom": "Live Stream"
           }
         ]
       },
       {
-        "time": "1:00 PM",
+        "time": "12:10 PM",
         "sessions": [
           {
-            "id": "173747",
-            "scheduledRoom": "Upstart"
-          },
-          {
-            "id": "180478",
-            "scheduledRoom": "HMB"
-          },
-          {
-            "id": "180166",
-            "scheduledRoom": "OCLC"
-          },
-          {
-            "id": "179596",
-            "scheduledRoom": "Revel IT"
-          },
-          {
-            "id": "174817",
-            "scheduledRoom": "DMG"
-          },
-          {
-            "id": "176670",
-            "scheduledRoom": "CAS"
-          },
-          {
-            "id": "179529",
-            "scheduledRoom": "Manifest"
+            "id": "245964",
+            "scheduledRoom": "Live Stream"
           }
         ]
       },
       {
-        "time": "2:15 PM",
+        "time": "12:40 PM",
         "sessions": [
           {
-            "id": "175295",
-            "scheduledRoom": "Upstart"
-          },
-          {
-            "id": "174947",
-            "scheduledRoom": "HMB"
-          },
-          {
-            "id": "179060",
-            "scheduledRoom": "OCLC"
-          },
-          {
-            "id": "181069",
-            "scheduledRoom": "Revel IT"
-          },
-          {
-            "id": "173769",
-            "scheduledRoom": "DMG"
-          },
-          {
-            "id": "174155",
-            "scheduledRoom": "CAS"
-          },
-          {
-            "id": "180737",
-            "scheduledRoom": "Manifest"
-          },
-          {
-            "id": "181032",
-            "scheduledRoom": "ComResource"
+            "id": "246518",
+            "scheduledRoom": "Live Stream"
           }
         ]
       },
       {
-        "time": "3:30 PM",
+        "time": "1:10 PM",
         "sessions": [
           {
-            "id": "173836",
-            "scheduledRoom": "Upstart"
-          },
-          {
-            "id": "180604",
-            "scheduledRoom": "HMB"
-          },
-          {
-            "id": "180707",
-            "scheduledRoom": "OCLC"
-          },
-          {
-            "id": "173796",
-            "scheduledRoom": "Revel IT"
-          },
-          {
-            "id": "174082",
-            "scheduledRoom": "DMG"
-          },
-          {
-            "id": "174028",
-            "scheduledRoom": "CAS"
-          },
-          {
-            "id": "180465",
-            "scheduledRoom": "Manifest"
-          },
-          {
-            "id": "181017",
-            "scheduledRoom": "ComResource"
+            "id": "244644",
+            "scheduledRoom": "Live Stream"
           }
         ]
       },
       {
-        "time": "4:30 PM",
+        "time": "1:40 PM",
         "sessions": [
           {
-            "id": "240e4dcc-ded0-4837-be97-6a5636859305",
-            "scheduledRoom": "Concourse"
+            "id": "241568",
+            "scheduledRoom": "Live Stream"
+          }
+        ]
+      },
+      {
+        "time": "2:10 PM",
+        "sessions": [
+          {
+            "id": "241689",
+            "scheduledRoom": "Live Stream"
+          }
+        ]
+      },
+      {
+        "time": "2:40 PM",
+        "sessions": [
+          {
+            "id": "241789",
+            "scheduledRoom": "Live Stream"
+          }
+        ]
+      },
+      {
+        "time": "3:10 PM",
+        "sessions": [
+          {
+            "id": "246315",
+            "scheduledRoom": "Live Stream"
+          }
+        ]
+      },
+      {
+        "time": "3:40 PM",
+        "sessions": [
+          {
+            "id": "242343",
+            "scheduledRoom": "Live Stream"
+          }
+        ]
+      },
+      {
+        "time": "4:05 PM",
+        "sessions": [
+          {
+            "id": "53cef1f3-c848-4bb0-9a0e-f3aefb9f02f6",
+            "scheduledRoom": "Live Stream"
           }
         ]
       }

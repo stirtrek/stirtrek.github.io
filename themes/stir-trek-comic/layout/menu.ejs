@@ -18,16 +18,16 @@
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-right" id="navBarLinkContainer">
 
-                        <% if(config.showSchedule) { %>
-                        <li class="dropdown">
-                            <a href="/schedule/">Schedule</a>
-                        </li>
-                        <% } %>
-
                         <li>
                             <a href="/store/">Store Trek</a>
                         </li>
 
+                        <% if(config.showSchedule) { %>
+                            <li class="dropdown">
+                                <a href="/schedule/">Schedule</a>
+                            </li>
+                        <% } %>
+    
                         <% if(config.showSessionList) { %>
                         <li class="dropdown">
                             <a href="/sessions/">Sessions</a>

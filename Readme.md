@@ -44,6 +44,8 @@ Files in /scripts get run during a `hexo generate`, reading the data files, crea
 ## How does the schedule get generated
 Once you've downloaded the Sessionize data, you should run `node scripts-manuallyexecuting/build-schedule-from-sessions.js` and then commit the file it creates.
 
+Be sure the publish the schedule on the right side of the Accepted Sessions page.
+
 ## How do I change static content?
 All of the static pages exist in /source/ as Markdown files. For example:
 * If you want to change the homepage, change /source/index.md. 

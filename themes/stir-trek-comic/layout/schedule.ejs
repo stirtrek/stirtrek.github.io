@@ -14,8 +14,7 @@
                         <th>Session</th>
                         <th>Speaker</th>
                         <th>Category</th>
-                        <th>Room</th>
-                        <th></th>
+                        <!-- <th>Room</th> -->
                     </tr>
                 </thead>
                 <tbody> 
@@ -63,12 +62,12 @@
                                 <% var thisCategory = allCategories.find(c => c.id === sessionInfo.categoryItems[0]); %>
 
                                 <td><%= thisCategory.name %></td>
-                                <td class="room-cell"><%= scheduledRoomName %></td>
+                                <!-- <td class="room-cell"><%= scheduledRoomName %></td> -->
                             <% } else { %>
                                 <td><%= sessionInfo.title %></td>
                                 <td class="speaker-cell">
                                 <td></td>
-                                <td class="room-cell"><%= scheduledRoomName %></td>
+                                <!-- <td class="room-cell"><%= scheduledRoomName %></td> -->
                             <% } %>
 
                         </tr>

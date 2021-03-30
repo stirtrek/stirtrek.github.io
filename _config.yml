@@ -18,21 +18,21 @@ allYears:
   - 2019
   - 2020
   - 2021
-showSchedule: false
-showSessionList: true
+showSchedule: true
+showSessionList: false
 
 # Sets up the room order for the schedule
 # Order here matters and effects the schedule display
 theaterRoomNames:
-  - 'Upstart'
-  - 'HMB'
-  - 'OCLC'
-  - 'Revel IT'
-  - 'DMG'
-  - 'CAS'
-  - 'Manifest'
-  - 'ComResource'
-  - 'Concourse'
+  - 'Live Stream'
+  # - 'HMB'
+  # - 'OCLC'
+  # - 'Revel IT'
+  # - 'DMG'
+  # - 'CAS'
+  # - 'Manifest'
+  # - 'ComResource'
+  # - 'Concourse'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

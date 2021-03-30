@@ -1,198 +1,24 @@
 {
   "sessions": [
     {
-      "id": "245964",
-      "title": "A Primer on Functional Programming",
-      "description": "Functional programming languages are gaining in popularity. If you’ve worked in object-oriented languages, you might be baffled at how they work. Maybe hearing the word “recursion” makes you want to scream. Or maybe you’ve just heard the hype and want to know what the hype is about.\r\n\r\nIn this talk, we will briefly explain what functional languages are, and go into some examples of tasks that these languages are suited for. We will look at the major languages in use today and see how they work. We'll see some of the things they have in common, and the many things that make them distinctive. Finally, we’ll offer some suggestions on how to dive into learning these and using them on your own projects.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
+      "id": "806d2e2e-ac4d-4224-8489-47b8456f1bea",
+      "title": "Intro",
+      "description": null,
+      "startsAt": "2021-05-07T10:00:00",
+      "endsAt": "2021-05-07T10:10:00",
+      "isServiceSession": true,
       "isPlenumSession": false,
-      "speakers": [
-        "97e1c796-8bf6-468b-b246-0efc6979b9e7"
-      ],
-      "categoryItems": [
-        73754
-      ],
+      "speakers": [],
+      "categoryItems": [],
       "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "246315",
-      "title": "Building Better Teams Through Play",
-      "description": "Teams work incredibly hard to drive software and processes forward. Sometimes we neglect the emotional side of our hard work, leaving teams brittle and less able to adapt and bend. How do we release tension and form the strong bonds that a good team needs to be successful as well as honing some of our hard won skills?\r\n\r\nAs children, we form strong bonds during recess or at play dates. As adults, we lose this sense of companionship and playfulness. Bring it back to your team with targeted fun activities that create a sense of mindfulness, improve skills, and are just downright enjoyable. Team building is the most difficult aspect of leadership–peer or otherwise. One of the best ways to facilitate team building is play!\r\n\r\nJenny Bramble will present a method for skills and team building outside of the norm in play time. She will show how events can be arranged, when to do them, and what the benefits are for play time–including stronger teams that work better together due to their powerful relationships between team members.\r\n\r\nWe will also discuss different games such as TestSphere Arena, TestSphere Bingo, “Murder” Mystery, Quality Jenga, The Planning Game, Telephone, and more! She will tie each of these games back to an element of your job.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "97b29c15-84f0-4899-97b8-57ed6d8e390b"
-      ],
-      "categoryItems": [
-        73761
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "241579",
-      "title": "Burritos at Scale: A SaaS Story",
-      "description": "Software development is fun, but building software that scales to serve a large number of users takes some serious effort.\r\n\r\nIn this short talk we'll follow a fictitious Software as a Service (SaaS) organization through the launch of their groundbreaking new \"Bureddit\" social media platform (think Reddit, but only for burrito-related content) and explore how applications must grow and evolve over time as their usage takes off.\r\n\r\nWe'll cover the different parts of modern web applications, vertical and horizontal scaling of the database and application server, and tease some more advanced concepts for folks wanting to learn more. \r\n\r\nBy the end of this talk you should have a high-level understanding of modern architectural concepts and how the pieces fit together, what they have to do with cloud computing, and ideas of some things to look into if you wanted to learn more.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "17c299ee-d9fd-4020-b499-2837b2b3a2bf"
-      ],
-      "categoryItems": [
-        73755
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "242343",
-      "title": "Enterprise Observability with OpenTelemetry",
-      "description": "Enterprise applications are complex. A transaction starting in the browser will go through proxies, api gateways, security appliances, application performance monitoring tools, logs, microservices and more microservices. Historically there has been no standard way to get observability and traceability between all the enterprise components. Each product and framework has it's own proprietary way of identifying a transaction making it difficult if not impossible to stitch together a complete picture of a transaction. This is changing with the introduction of the W3C Trace Context standard and the open source initiative of OpenTelemetry.\r\n\r\nIn this session, you will learn how using Trace Context, OpenTelemetry and other open source and commercial products can improve your observability to help you better triage production issues, improve performance, be proactive and make your users happier.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "96ea86eb-7f1f-4c85-b2b8-98d462a40c94"
-      ],
-      "categoryItems": [
-        73755
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "246518",
-      "title": "How The Heck Would I Integrate Serverless Into My Legacy Application?",
-      "description": "Exploring serverless computing can be discouraging. It sounds amazing and starts your brain spinning about all of the potential applications, but it's not always easy to see where your legacy application may be able to take advantage. In reality, both Azure Functions and AWS Lambda can easily be used to enhance applications and provide a brand new perspective.  In this session, we'll explore some easy applications of serverless that can be added to existing brownfield applications, like simple monitoring, IOT integration, and large file processing. In addition, attendees will learn about situations in which where serverless computing may not be a good fit and a more traditional approach may be warranted in an effort to avoid the growing pains of learning a new technology unecessarily.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "e357c7a0-a665-466a-9632-ce5842b5f45b"
-      ],
-      "categoryItems": [
-        73755
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "244644",
-      "title": "How to be Right, A Lot",
-      "description": "Is good judgment innate or something you can nurture?  Making decisions personally and professionally has consequences when you are wrong. In the work place, the stakes can be high when customer impact or employee impact has negative repercussions. \r\n\r\nAs a knowledge worker or leader, your ability to make good decisions will set you apart from your peers.\r\n\r\nIn this talk, you’ll learn what gets in the way of making good decisions and predictions. You’ll also walk away with tips on how to improve your judgement and instincts in the midst of uncertainty.\r\n",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "d6efef12-0cc5-4fe1-b506-20bee22d0fff"
-      ],
-      "categoryItems": [
-        73761
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "245276",
-      "title": "Introducing Domain-Driven Design",
-      "description": "Domain-Driven Design (DDD) provides a set of patterns and practices for tackling complex business problems with software models. Learn the basics of DDD in this session, including several principles and patterns you can start using immediately even if your project hasn't otherwise embraced DDD. Examples will primarily use C#/.NET. Attendees will leave with a basic understanding of DDD's approach, principles, and some key design patterns.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
-      ],
-      "categoryItems": [
-        73754
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "241568",
-      "title": "Multi-Cloud Magic: Leveraging Multi-Cloud Clusters in Real-World Scenarios",
-      "description": "Public, Private, Hybrid...Multi-Cloud?\r\n\r\nAs the cloud development options and architectures continue to evolve, we've finally found ourselves at the next new thing: Multi-Cloud. What is it? Do we really need it? How would you take advantage of a multi-cloud solution? \r\n\r\nIn this talk, I'd like to describe a few real-world use cases where a multi-cloud solution is currently in production, specifically when it comes to data. A demo on how to setup a multi-cloud cluster will also be shown.\r\n\r\nThe audience will leave with a more confident understanding of real-world, multi-cloud use cases and see how to create their own!",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "a378b580-baef-4c58-a9b3-589139c88159"
-      ],
-      "categoryItems": [
-        73755
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "241689",
-      "title": "Past me was an Idiot",
-      "description": "\"I am old, Gandalf. I don't look it, but I am beginning to feel it in my heart of hearts. I feel all thin, sort of stretched: like butter that has been scraped over too much bread.\"\r\n\r\nA bit dramatic? Perhaps. But being in the software industry for 20 years feels like an eternity. I look back at my bright-eyed, energetic post-graduation self and simultaneously celebrate my successes and lament the sheer amount of energy I wasted on pointless worrying.\r\n\r\nThis talk is made up of 5 lessons that I learned during my time in DevOps and wish I could go back and tell myself at the start of my career, including topics such as burn out, self-branding, and and team cultures. You'll laugh, I'll probably cry, and together we can share stories and advice in Discord along the way.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "f4730f07-30ea-4ffc-9de0-e22e3a0787f5"
-      ],
-      "categoryItems": [
-        73761
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "241789",
-      "title": "Snips and Snails and Puppy Dog Tails: Your software supply chain",
-      "description": "We are standing on the shoulders of giants.  Building beautiful things out of beautiful things is at the heart of software composition today.  But what happens when things aren't so beautiful? What if that dependency of a dependency of a dependency has a Bitcoin miner written into it? Is your code review catching that? It doesn't matter if you type npm-install or Install-Package or php composer.phar install or mvn install or cpan or pip install.  Probably not.  Let's look at the realities of your supply chain, how it is getting corrupted, and what we can do about it. You'll see how to avoid becoming a victim of the next left-pad.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "edf87fe3-df21-4e80-8834-c0d0365dbb59"
-      ],
-      "categoryItems": [
-        73762
-      ],
-      "questionAnswers": [],
-      "roomId": null
-    },
-    {
-      "id": "243947",
-      "title": "The Power of 'No'",
-      "description": "Have you ever attended a meeting that you wish you hadn’t? Have you ever been happy that plans were canceled because you never really wanted to go in the first place? \r\n\r\nSaying no is hard and can be truly challenging when faced with the prospect of feeling like maybe you’ll let someone down. Another reason saying no is hard is the feeling or FOMO, or the Fear Of Missing Out. But are those reason really worth our peace of mind?\r\n\r\nThis talk is about how knowing when to say no and how to do so. ",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "aae8e930-83f8-45be-b1a9-d47075235565"
-      ],
-      "categoryItems": [
-        73761
-      ],
-      "questionAnswers": [],
-      "roomId": null
+      "roomId": 18432
     },
     {
       "id": "246481",
       "title": "What On Earth Is Quantum Computing?!? (And will it break all my encryption?)",
       "description": "You might have heard that quantum computers can break public key encryption. You might also have heard that you can buy a quantum computer today, or run programs on one via a cloud service. Yet TLS does not seem to be broken! What is going on? It’s hard to tell, because most “explanations” of quantum computing are either marketing brochures or written for an audience of physics postdocs. This talk will clearly explain what we know about quantum computing today, and how it is relevant to software professionals now and in the near future. We’ll focus on the security space in particular and discuss what quantum computers can do besides factor large integers. Come with questions, leave with a clear vision for how new computing technologies may change your work in the decades to come!",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2021-05-07T10:10:00",
+      "endsAt": "2021-05-07T10:35:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -202,7 +28,207 @@
         73762
       ],
       "questionAnswers": [],
-      "roomId": null
+      "roomId": 18432
+    },
+    {
+      "id": "243947",
+      "title": "The Power of 'No'",
+      "description": "Have you ever attended a meeting that you wish you hadn’t? Have you ever been happy that plans were canceled because you never really wanted to go in the first place? \r\n\r\nSaying no is hard and can be truly challenging when faced with the prospect of feeling like maybe you’ll let someone down. Another reason saying no is hard is the feeling or FOMO, or the Fear Of Missing Out. But are those reason really worth our peace of mind?\r\n\r\nThis talk is about how knowing when to say no and how to do so. ",
+      "startsAt": "2021-05-07T10:40:00",
+      "endsAt": "2021-05-07T11:05:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "aae8e930-83f8-45be-b1a9-d47075235565"
+      ],
+      "categoryItems": [
+        73761
+      ],
+      "questionAnswers": [],
+      "roomId": 18432
+    },
+    {
+      "id": "241579",
+      "title": "Burritos at Scale: A SaaS Story",
+      "description": "Software development is fun, but building software that scales to serve a large number of users takes some serious effort.\r\n\r\nIn this short talk we'll follow a fictitious Software as a Service (SaaS) organization through the launch of their groundbreaking new \"Bureddit\" social media platform (think Reddit, but only for burrito-related content) and explore how applications must grow and evolve over time as their usage takes off.\r\n\r\nWe'll cover the different parts of modern web applications, vertical and horizontal scaling of the database and application server, and tease some more advanced concepts for folks wanting to learn more. \r\n\r\nBy the end of this talk you should have a high-level understanding of modern architectural concepts and how the pieces fit together, what they have to do with cloud computing, and ideas of some things to look into if you wanted to learn more.",
+      "startsAt": "2021-05-07T11:10:00",
+      "endsAt": "2021-05-07T11:35:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "17c299ee-d9fd-4020-b499-2837b2b3a2bf"
+      ],
+      "categoryItems": [
+        73755
+      ],
+      "questionAnswers": [],
+      "roomId": 18432
+    },
+    {
+      "id": "245276",
+      "title": "Introducing Domain-Driven Design",
+      "description": "Domain-Driven Design (DDD) provides a set of patterns and practices for tackling complex business problems with software models. Learn the basics of DDD in this session, including several principles and patterns you can start using immediately even if your project hasn't otherwise embraced DDD. Examples will primarily use C#/.NET. Attendees will leave with a basic understanding of DDD's approach, principles, and some key design patterns.",
+      "startsAt": "2021-05-07T11:40:00",
+      "endsAt": "2021-05-07T12:05:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
+      ],
+      "categoryItems": [
+        73754
+      ],
+      "questionAnswers": [],
+      "roomId": 18432
+    },
+    {
+      "id": "245964",
+      "title": "A Primer on Functional Programming",
+      "description": "Functional programming languages are gaining in popularity. If you’ve worked in object-oriented languages, you might be baffled at how they work. Maybe hearing the word “recursion” makes you want to scream. Or maybe you’ve just heard the hype and want to know what the hype is about.\r\n\r\nIn this talk, we will briefly explain what functional languages are, and go into some examples of tasks that these languages are suited for. We will look at the major languages in use today and see how they work. We'll see some of the things they have in common, and the many things that make them distinctive. Finally, we’ll offer some suggestions on how to dive into learning these and using them on your own projects.",
+      "startsAt": "2021-05-07T12:10:00",
+      "endsAt": "2021-05-07T12:35:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "97e1c796-8bf6-468b-b246-0efc6979b9e7"
+      ],
+      "categoryItems": [
+        73754
+      ],
+      "questionAnswers": [],
+      "roomId": 18432
+    },
+    {
+      "id": "246518",
+      "title": "How The Heck Would I Integrate Serverless Into My Legacy Application?",
+      "description": "Exploring serverless computing can be discouraging. It sounds amazing and starts your brain spinning about all of the potential applications, but it's not always easy to see where your legacy application may be able to take advantage. In reality, both Azure Functions and AWS Lambda can easily be used to enhance applications and provide a brand new perspective.  In this session, we'll explore some easy applications of serverless that can be added to existing brownfield applications, like simple monitoring, IOT integration, and large file processing. In addition, attendees will learn about situations in which where serverless computing may not be a good fit and a more traditional approach may be warranted in an effort to avoid the growing pains of learning a new technology unecessarily.",
+      "startsAt": "2021-05-07T12:40:00",
+      "endsAt": "2021-05-07T13:05:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e357c7a0-a665-466a-9632-ce5842b5f45b"
+      ],
+      "categoryItems": [
+        73755
+      ],
+      "questionAnswers": [],
+      "roomId": 18432
+    },
+    {
+      "id": "244644",
+      "title": "How to be Right, A Lot",
+      "description": "Is good judgment innate or something you can nurture?  Making decisions personally and professionally has consequences when you are wrong. In the work place, the stakes can be high when customer impact or employee impact has negative repercussions. \r\n\r\nAs a knowledge worker or leader, your ability to make good decisions will set you apart from your peers.\r\n\r\nIn this talk, you’ll learn what gets in the way of making good decisions and predictions. You’ll also walk away with tips on how to improve your judgement and instincts in the midst of uncertainty.\r\n",
+      "startsAt": "2021-05-07T13:10:00",
+      "endsAt": "2021-05-07T13:35:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d6efef12-0cc5-4fe1-b506-20bee22d0fff"
+      ],
+      "categoryItems": [
+        73761
+      ],
+      "questionAnswers": [],
+      "roomId": 18432
+    },
+    {
+      "id": "241568",
+      "title": "Multi-Cloud Magic: Leveraging Multi-Cloud Clusters in Real-World Scenarios",
+      "description": "Public, Private, Hybrid...Multi-Cloud?\r\n\r\nAs the cloud development options and architectures continue to evolve, we've finally found ourselves at the next new thing: Multi-Cloud. What is it? Do we really need it? How would you take advantage of a multi-cloud solution? \r\n\r\nIn this talk, I'd like to describe a few real-world use cases where a multi-cloud solution is currently in production, specifically when it comes to data. A demo on how to setup a multi-cloud cluster will also be shown.\r\n\r\nThe audience will leave with a more confident understanding of real-world, multi-cloud use cases and see how to create their own!",
+      "startsAt": "2021-05-07T13:40:00",
+      "endsAt": "2021-05-07T14:05:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a378b580-baef-4c58-a9b3-589139c88159"
+      ],
+      "categoryItems": [
+        73755
+      ],
+      "questionAnswers": [],
+      "roomId": 18432
+    },
+    {
+      "id": "241689",
+      "title": "Past me was an Idiot",
+      "description": "\"I am old, Gandalf. I don't look it, but I am beginning to feel it in my heart of hearts. I feel all thin, sort of stretched: like butter that has been scraped over too much bread.\"\r\n\r\nA bit dramatic? Perhaps. But being in the software industry for 20 years feels like an eternity. I look back at my bright-eyed, energetic post-graduation self and simultaneously celebrate my successes and lament the sheer amount of energy I wasted on pointless worrying.\r\n\r\nThis talk is made up of 5 lessons that I learned during my time in DevOps and wish I could go back and tell myself at the start of my career, including topics such as burn out, self-branding, and and team cultures. You'll laugh, I'll probably cry, and together we can share stories and advice in Discord along the way.",
+      "startsAt": "2021-05-07T14:10:00",
+      "endsAt": "2021-05-07T14:35:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f4730f07-30ea-4ffc-9de0-e22e3a0787f5"
+      ],
+      "categoryItems": [
+        73761
+      ],
+      "questionAnswers": [],
+      "roomId": 18432
+    },
+    {
+      "id": "241789",
+      "title": "Snips and Snails and Puppy Dog Tails: Your software supply chain",
+      "description": "We are standing on the shoulders of giants.  Building beautiful things out of beautiful things is at the heart of software composition today.  But what happens when things aren't so beautiful? What if that dependency of a dependency of a dependency has a Bitcoin miner written into it? Is your code review catching that? It doesn't matter if you type npm-install or Install-Package or php composer.phar install or mvn install or cpan or pip install.  Probably not.  Let's look at the realities of your supply chain, how it is getting corrupted, and what we can do about it. You'll see how to avoid becoming a victim of the next left-pad.",
+      "startsAt": "2021-05-07T14:40:00",
+      "endsAt": "2021-05-07T15:05:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "edf87fe3-df21-4e80-8834-c0d0365dbb59"
+      ],
+      "categoryItems": [
+        73762
+      ],
+      "questionAnswers": [],
+      "roomId": 18432
+    },
+    {
+      "id": "246315",
+      "title": "Building Better Teams Through Play",
+      "description": "Teams work incredibly hard to drive software and processes forward. Sometimes we neglect the emotional side of our hard work, leaving teams brittle and less able to adapt and bend. How do we release tension and form the strong bonds that a good team needs to be successful as well as honing some of our hard won skills?\r\n\r\nAs children, we form strong bonds during recess or at play dates. As adults, we lose this sense of companionship and playfulness. Bring it back to your team with targeted fun activities that create a sense of mindfulness, improve skills, and are just downright enjoyable. Team building is the most difficult aspect of leadership–peer or otherwise. One of the best ways to facilitate team building is play!\r\n\r\nJenny Bramble will present a method for skills and team building outside of the norm in play time. She will show how events can be arranged, when to do them, and what the benefits are for play time–including stronger teams that work better together due to their powerful relationships between team members.\r\n\r\nWe will also discuss different games such as TestSphere Arena, TestSphere Bingo, “Murder” Mystery, Quality Jenga, The Planning Game, Telephone, and more! She will tie each of these games back to an element of your job.",
+      "startsAt": "2021-05-07T15:10:00",
+      "endsAt": "2021-05-07T15:35:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "97b29c15-84f0-4899-97b8-57ed6d8e390b"
+      ],
+      "categoryItems": [
+        73761
+      ],
+      "questionAnswers": [],
+      "roomId": 18432
+    },
+    {
+      "id": "242343",
+      "title": "Enterprise Observability with OpenTelemetry",
+      "description": "Enterprise applications are complex. A transaction starting in the browser will go through proxies, api gateways, security appliances, application performance monitoring tools, logs, microservices and more microservices. Historically there has been no standard way to get observability and traceability between all the enterprise components. Each product and framework has it's own proprietary way of identifying a transaction making it difficult if not impossible to stitch together a complete picture of a transaction. This is changing with the introduction of the W3C Trace Context standard and the open source initiative of OpenTelemetry.\r\n\r\nIn this session, you will learn how using Trace Context, OpenTelemetry and other open source and commercial products can improve your observability to help you better triage production issues, improve performance, be proactive and make your users happier.",
+      "startsAt": "2021-05-07T15:40:00",
+      "endsAt": "2021-05-07T16:05:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "96ea86eb-7f1f-4c85-b2b8-98d462a40c94"
+      ],
+      "categoryItems": [
+        73755
+      ],
+      "questionAnswers": [],
+      "roomId": 18432
+    },
+    {
+      "id": "53cef1f3-c848-4bb0-9a0e-f3aefb9f02f6",
+      "title": "Closing Remarks",
+      "description": null,
+      "startsAt": "2021-05-07T16:05:00",
+      "endsAt": "2021-05-07T16:15:00",
+      "isServiceSession": true,
+      "isPlenumSession": false,
+      "speakers": [],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 18432
     }
   ],
   "speakers": [
@@ -677,5 +703,11 @@
       "type": "session"
     }
   ],
-  "rooms": []
+  "rooms": [
+    {
+      "id": 18432,
+      "name": "Live Stream",
+      "sort": 0
+    }
+  ]
 }

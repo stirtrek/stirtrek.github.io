@@ -555,6 +555,20 @@
         "link": "https://www.daugherty.com/",
         "description": "At Daugherty Business Solutions, we believe in providing exceptional value to our clients, an incredible work environment for our employees, and unwavering support to the communities in which we live. Those guiding principles and the great people making up Team Daugherty are the reason we’re still going strong after 35 years.",
         "logo": "/images/sponsors/daugherty_350x200.jpg"
+      },
+      {
+        "name": "Manifest",
+        "level": "platinum",
+        "link": "http://manifestcorp.com/",
+        "description": "Enjoy Code. It’s more than a slogan. It’s our mission statement, our code of conduct, our mantra, our obsession, - our ethos. For over 20 years Manifest consultants have been making a difference in some of the most esteemed businesses in Columbus. Our commitment to training enables our consultants and clients to continuously adapt and grow with the advancement of new technologies. Our areas of expertise include: Java & .NET Development, Acceptance Test Driven Development, Test Automation, Project Management, Business Analysis and Agile Mentoring.",
+        "logo": "/images/sponsors/manifest_350x200.png"
+      },
+      {
+        "name": "Progress",
+        "level": "platinum",
+        "link": "http://www.telerik.com/",
+        "description": "Progress (NASDAQ: PRGS) offers the leading platform for developing and deploying mission-critical business applications. The creator of the award-winning Telerik .NET and Kendo UI JavaScript user interface components/controls, reporting solutions and productivity tools, Progress offers all the tools developers need to build high-performance modern apps with outstanding UI. Learn more about the Progress developer tools at: www.telerik.com or 1-781-280-4000.",
+        "logo": "/images/sponsors/Progress_350x200.png"
       }
     ]    
   }

@@ -44,7 +44,7 @@
                             }
 
                             if(speakersInfo.length > 0) { 
-                                var speakerPageUrl = `/Speakers/${config.currentYear}/${speakersInfo[0].firstName.replace(/[ \"]/g,"")}-${speakersInfo[0].lastName.replace(/[ \"]/g,"")}.html`;
+                                var speakerPageUrl = `/speakers/${config.currentYear}/${speakersInfo[0].firstName.replace(/[ \"]/g,"")}-${speakersInfo[0].lastName.replace(/[ \"]/g,"")}.html`;
                             %>
                                 <td>
                                     <a href="<%= speakerPageUrl %>#abstract">

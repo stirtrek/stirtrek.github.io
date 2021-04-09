@@ -569,6 +569,13 @@
         "link": "http://www.telerik.com/",
         "description": "Progress (NASDAQ: PRGS) offers the leading platform for developing and deploying mission-critical business applications. The creator of the award-winning Telerik .NET and Kendo UI JavaScript user interface components/controls, reporting solutions and productivity tools, Progress offers all the tools developers need to build high-performance modern apps with outstanding UI. Learn more about the Progress developer tools at: www.telerik.com or 1-781-280-4000.",
         "logo": "/images/sponsors/Progress_350x200.png"
+      },
+      {
+        "name": "Insight",
+        "level": "principal",
+        "link": "https://www.insight.com/en_US/solve/digital-innovation.html",
+        "description": "Insight Digital Innovation, formerly Cardinal Solutions, is global technology company committed to helping clients innovate smarter so they can create digital experiences that drive differentiation, competitive advantage, and loyalty.",
+        "logo": "/images/sponsors/insight_350x200.png"
       }
     ]    
   }

@@ -576,6 +576,13 @@
         "link": "https://www.insight.com/en_US/solve/digital-innovation.html",
         "description": "Insight Digital Innovation, formerly Cardinal Solutions, is global technology company committed to helping clients innovate smarter so they can create digital experiences that drive differentiation, competitive advantage, and loyalty.",
         "logo": "/images/sponsors/insight_350x200.png"
+      },
+      {
+        "name": "Veeva",
+        "level": "principal",
+        "link": "https://www.veeva.com/",
+        "description": "Find your perfect job at Veeva. We build enterprise cloud software and provide services that enable the global life sciences industry to bring new therapies to.",
+        "logo": "/images/sponsors/veeva_350x200.jpg"
       }
     ]    
   }

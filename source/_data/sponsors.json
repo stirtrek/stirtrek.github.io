@@ -583,6 +583,13 @@
         "link": "https://www.veeva.com/",
         "description": "Find your perfect job at Veeva. We build enterprise cloud software and provide services that enable the global life sciences industry to bring new therapies to.",
         "logo": "/images/sponsors/veeva_350x200.jpg"
+      },
+      {
+        "name": "CGI",
+        "level": "principal",
+        "link": "https://www.cgi.com/",
+        "description": "Founded in 1976, CGI is among the largest IT and business consulting services firms in the world. We are insights-driven and outcomes-based to help accelerate returns on your investments. Across hundreds of locations worldwide, we provide comprehensive, scalable and sustainable IT and business consulting services that are informed globally and delivered locally. In all we do, our goal is to build trusted relationships through client proximity, providing industry and technology expertise to help you meet the needs of your customers and citizens.",
+        "logo": "/images/sponsors/cgi_350x200.jpg"
       }
     ]    
   }

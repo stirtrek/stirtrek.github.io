@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1620175634440';
+var CACHE = 'network-or-cache-1620227517384';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -314,7 +314,6 @@ function precache() {
 "/images/sponsors/callibrity_350x200.png",
 "/images/sponsors/captech_350x200.jpg",
 "/images/sponsors/cardinalsolutions_350x200.jpg",
-"/images/sponsors/cas_350x200.jpg",
 "/images/sponsors/cas_350x200.png",
 "/images/sponsors/cgi_350x200.jpg",
 "/images/sponsors/cmm_350x200.jpg",

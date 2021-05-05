@@ -15,7 +15,7 @@ Cancelling Stir Trek 2020 was expensive! We've already spent at least **$25,000*
 You can help the Stir Trek community keep going and get *awesome* swag at the same time. How is that? 
 [By buying swag through our new online store!](https://www.marktapparel.com/store/c55/Stir_Trek.html)
 
-We've currated a selection of brand new items and previous Stir Trek shirts that we can reprint, in both men's and women's cuts where possible.
+We've curated a selection of brand new items and previous Stir Trek shirts that we can reprint, in both men's and women's cuts where possible.
 
 Note: These shirts don't have the year, edition, or sponsors printed on them.
 

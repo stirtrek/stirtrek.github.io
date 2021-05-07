@@ -15,6 +15,9 @@
                         <th>Speaker</th>
                         <th>Category</th>
                         <!-- <th>Room</th> -->
+                        <% if(config.showSurveyOnSchedule) { %>
+                            <th>Survey Link</th>
+                        <% } %>
                     </tr>
                 </thead>
                 <tbody> 
@@ -63,13 +66,23 @@
 
                                 <td><%= thisCategory.name %></td>
                                 <!-- <td class="room-cell"><%= scheduledRoomName %></td> -->
+
+                                <% if(config.showSurveyOnSchedule) { 
+                                    if( speakersInfo[0].questionAnswers[0] ) { %>
+                                        <td><a href="<%= config.surveyUrl + speakersInfo[0].questionAnswers[0].answerValue %>">Click Here</a></td>
+                                    <% } else { %>
+                                        <td></td>
+                                    <% } %>
+                                <% } %>
                             <% } else { %>
                                 <td><%= sessionInfo.title %></td>
                                 <td class="speaker-cell">
                                 <td></td>
                                 <!-- <td class="room-cell"><%= scheduledRoomName %></td> -->
+                                <% if(config.showSurveyOnSchedule) { %>
+                                <td></td>
+                                <% } %>
                             <% } %>
-
                         </tr>
 
                     <% } %>

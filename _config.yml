@@ -19,6 +19,12 @@ allYears:
   - 2020
   - 2021
 showSchedule: true
+# The Survey URL inserts a token at the end
+# This Id references the Sessionize token
+showSurveyOnSchedule: true
+surveyUrl: https://docs.google.com/forms/d/e/1FAIpQLSdB_bb2bX1qDfCDvIX_Fgm431l1a-CFqqRZyO-Ja6F0RX6Rxg/viewform?usp=pp_url&entry.847701887=
+surveyUrlQuestionId: 30083 
+
 showSessionList: false
 
 # Sets up the room order for the schedule

@@ -66,31 +66,14 @@
     },
     {
       "id": "245276",
-      "title": "Introducing Domain-Driven Design",
+      "title": "Introducing Domain-Driven Design - 55 minute session",
       "description": "Domain-Driven Design (DDD) provides a set of patterns and practices for tackling complex business problems with software models. Learn the basics of DDD in this session, including several principles and patterns you can start using immediately even if your project hasn't otherwise embraced DDD. Examples will primarily use C#/.NET. Attendees will leave with a basic understanding of DDD's approach, principles, and some key design patterns.",
       "startsAt": "2021-05-07T11:40:00",
-      "endsAt": "2021-05-07T12:05:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
-      ],
-      "categoryItems": [
-        73754
-      ],
-      "questionAnswers": [],
-      "roomId": 18432
-    },
-    {
-      "id": "245964",
-      "title": "A Primer on Functional Programming",
-      "description": "Functional programming languages are gaining in popularity. If you’ve worked in object-oriented languages, you might be baffled at how they work. Maybe hearing the word “recursion” makes you want to scream. Or maybe you’ve just heard the hype and want to know what the hype is about.\r\n\r\nIn this talk, we will briefly explain what functional languages are, and go into some examples of tasks that these languages are suited for. We will look at the major languages in use today and see how they work. We'll see some of the things they have in common, and the many things that make them distinctive. Finally, we’ll offer some suggestions on how to dive into learning these and using them on your own projects.",
-      "startsAt": "2021-05-07T12:10:00",
       "endsAt": "2021-05-07T12:35:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "97e1c796-8bf6-468b-b246-0efc6979b9e7"
+        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
       ],
       "categoryItems": [
         73754
@@ -250,16 +233,6 @@
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/adriennetacke/",
           "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://blog.adrienne.io/",
-          "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://developer.mongodb.com/",
-          "linkType": "Company_Website"
         }
       ],
       "sessions": [
@@ -517,43 +490,6 @@
         241579
       ],
       "fullName": "Matt Eland",
-      "categoryItems": [],
-      "questionAnswers": []
-    },
-    {
-      "id": "97e1c796-8bf6-468b-b246-0efc6979b9e7",
-      "firstName": "Sarah",
-      "lastName": "Withee",
-      "bio": "Sarah Withee is a polyglot software engineer, international public speaker, teacher and mentor, and hardware and robot tinkerer located in Pittsburgh, PA. She has a passion for technology, and has ever since she wrote her first computer programs in elementary school. She captivates audiences with both popular and powerful technical and anecdotal talks. She gives workshops to teach programming and hardware building to women in tech, as well as to students of all ages. She's mentored middle and high school robotics teams to world championships. She's even helped organize six conferences, been on a Google Year in Search video, and started the viral hashtag #SpeakerConfessions.\r\n\r\nShe passionately tries to connect with people and communities, both online and offline, and encourage and support new people going in tech. She even started a podcast to try to help boost underrepresented groups in tech.",
-      "tagLine": "Polyglot software engineer",
-      "profilePicture": "https://sessionize.com/image/7d99-400o400o2-6828b9e0-52cc-416a-8d42-da78d5b43c68.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Twitter",
-          "url": "https://twitter.com/geekygirlsarah",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://linkedin.com/in/sarahwithee",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://geekygirlsarah.com",
-          "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://geekygirlsarah.com",
-          "linkType": "Company_Website"
-        }
-      ],
-      "sessions": [
-        245964
-      ],
-      "fullName": "Sarah Withee",
       "categoryItems": [],
       "questionAnswers": []
     },

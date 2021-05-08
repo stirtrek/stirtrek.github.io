@@ -26,6 +26,10 @@
                 // Categories are buried a layer
                 var allCategories = sessionAndSpeakerData.categories.find(c => c.title === "Track").items;
 
+                // If speaker surveys are turned on, get the ID of the Sessionize token to look for
+                if(config.showSurveyOnSchedule) {
+                    var surveyTokenSessionizeQuestionId = sessionAndSpeakerData.questions.find(x => x.question === config.surveyQuestionName).id;
+                }
 
                 for (var timeSlot of scheduleData.timeSlots ) { %>
                     <% for (var sessionSlot of timeSlot.sessions) { 
@@ -35,6 +39,18 @@
                         
                         // Find the speaker sessionInfo
                         var speakersInfo = sessionAndSpeakerData.speakers.filter(x => sessionInfo.speakers.includes(x.id))
+
+                        // If surveys are turned on, generate this speaker's survey surveyUrl
+                        var speakerSurveyUrl = "";
+                        if(config.showSurveyOnSchedule && speakersInfo && 
+                            speakersInfo[0] && 
+                            speakersInfo[0].questionAnswers && 
+                            speakersInfo[0].questionAnswers[0]) {
+                                let speakerSurveyToken = speakersInfo[0].questionAnswers.find(x => x.questionId === surveyTokenSessionizeQuestionId).answerValue;
+
+                                if(speakerSurveyToken) speakerSurveyUrl = config.surveyUrl + speakerSurveyToken;
+                        }
+
                     %>
 
                         <tr>
@@ -68,8 +84,8 @@
                                 <!-- <td class="room-cell"><%= scheduledRoomName %></td> -->
 
                                 <% if(config.showSurveyOnSchedule) { 
-                                    if( speakersInfo[0].questionAnswers[0] ) { %>
-                                        <td><a href="<%= config.surveyUrl + speakersInfo[0].questionAnswers[0].answerValue %>">Click Here</a></td>
+                                    if( speakerSurveyUrl.length) { %>
+                                        <td><a href="<%= speakerSurveyUrl %>">Click Here</a></td>
                                     <% } else { %>
                                         <td></td>
                                     <% } %>

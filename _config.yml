@@ -19,13 +19,13 @@ allYears:
   - 2020
   - 2021
 showSchedule: true
-# The Survey URL inserts a token at the end
-# This Id references the Sessionize token
+showSessionList: false
+# If you'd like to show the speaker survey link in the schedule, you need to turn this on and configure it
+# Add a custom speaker question and put hte name in "surveyQuestionName"
 showSurveyOnSchedule: true
 surveyUrl: https://docs.google.com/forms/d/e/1FAIpQLSdB_bb2bX1qDfCDvIX_Fgm431l1a-CFqqRZyO-Ja6F0RX6Rxg/viewform?usp=pp_url&entry.847701887=
-surveyUrlQuestionId: 30083 
+surveyQuestionName: SurveyFeedbackToken 
 
-showSessionList: false
 
 # Sets up the room order for the schedule
 # Order here matters and effects the schedule display

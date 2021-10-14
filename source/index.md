@@ -13,17 +13,17 @@ title: Tech & a Flick
             <br>
         </div> -->
     <!--</a>-->
-    <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+    <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
-        <p class="date">1 May 2020</p>
-    </div> -->
-    <a href="https://stirtrek2021virtual.eventbrite.com/" target="_blank" rel="noopener noreferrer">
+        <p class="date">6 May 2022</p>
+    </div>
+    <!-- <a href="https://stirtrek2021virtual.eventbrite.com/" target="_blank" rel="noopener noreferrer">
     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek 2021 Is Virtual<br>7 May 2021</p>
         <br>
         <p class="registerNow">Register Now!</p>
     </div>
-    </a>
+    </a> -->
     <!-- <a href="https://sessionize.com/stir-trek-2020/" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             <p class="date">CFP is Open!</p>
@@ -32,7 +32,7 @@ title: Tech & a Flick
     </a> -->
 </div>
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-md-12">
         <div class="comic-panel-header comic-panel-gold offset">
             Stir Trek is Friday May 7th!
@@ -49,7 +49,7 @@ title: Tech & a Flick
             <p>Since we aren't doing registration boxes this year, how do you get your swag / shirt and help the Stir Trek community keep going?  Check out our online store with a curated selection of brand new items and previous Stir Trek shirts: <a href="https://store.stirtrek.com">https://store.stirtrek.com</a></p>
         </div>
     </div>
-</div>
+</div> -->
 <!--<div class="row">
     <div class="col-md-6">
         <div class="comic-panel-header offset">
@@ -79,7 +79,7 @@ title: Tech & a Flick
         </div>
     </div>
 </div>-->
-<!-- <div class="row">
+<div class="row">
     <div class="col-md-6">
         <div class="comic-panel-header offset">
             What Is Stir Trek?
@@ -89,7 +89,7 @@ title: Tech & a Flick
             <br>
             <br>
             <a href="https://goo.gl/maps/wVdUQNDfXd9Zxd2P8">AMC Easton 30</a>, Columbus, OH
-            But this year we can't do that, and we miss you. So we're going virtual! Details are still to come, but we can't wait to hang out with you again.
+            But this year we're also going to be a hybrid virtual event too! Details are still to come, but we can't wait to hang out with you again.
         </div>
     </div>
     <div class="col-md-6">
@@ -98,7 +98,7 @@ title: Tech & a Flick
             <ul>
                 <li>48 Sessions of critical content</li>
                 <li>Well-known regional &amp; national Speakers</li>
-                <li>Screening of Marvel's <a href="https://www.marvel.com/movies/black-widow">Black Widow</a></li>
+                <li>Screening of Marvel's <a href="https://www.marvel.com/movies/thor-love-and-thunder">Thor: Love and Thunder</a></li>
                 <li>Breakfast and Lunch</li>
                 <li>Refreshments during the movie</li>
                 <li>Registration box with fun bonus swag</li>
@@ -109,7 +109,7 @@ title: Tech & a Flick
             <ul>
                 <li>I am Groot.</li>
                 <li>I am Groot.</li>
-                <li>I am <a href="https://www.marvel.com/movies/black-widow">Groot</a>.</li>
+                <li>I am <a href="https://www.marvel.com/movies/thor-love-and-thunder">Groot</a>.</li>
                 <li>I am Groot.</li>
                 <li>I am Groot.</li>
                 <li>I am Groot.</li>
@@ -126,27 +126,27 @@ title: Tech & a Flick
             });
         </script>
     </div>
-</div>-->
+</div>
 
-<!--<div class="row">
+<div class="row">
     <div class="col-md-6">
         <div class="comic-panel-header offset">
             Important Dates
         </div>
         <div class="comic-panel-body with-header small">
 {% endraw %}
-* **12/2/2019** - Call for sponsors opens
-* **1/12/2020** - CFP opens
-* **2/1/2020**  - CFP closes
-* **2/23/2020** - CFP notification goal date
-* **2/27/2020** - Tickets go on sale ($150 each)
-* **3/30/2020** - Last day to edit shipping information
-* **4/1/2020** - Last day for refunds
-* **4/21/2020** - Boxes begin shipping
-* **5/1/2020** - Stir Trek 2020!
+* **TBD** - Call for sponsors opens
+* **1/16/2022** - CFP opens
+* **2/5/2022**  - CFP closes
+* **2/26/2022** - CFP notification goal date
+* **TBD** - Tickets go on sale <!--($150 each)-->
+* **TBD** - Last day to edit shipping information
+* **TBD** - Last day for refunds
+* **TBD** - Boxes begin shipping
+* **5/6/2022** - Stir Trek 2020!
 {% raw %}
         </div>
-    </div>
+    </div>  
 <div class="col-md-6">
         <div class="comic-panel-header offset">Mega Food Drive</div>
         <div class="comic-panel-body with-header">
@@ -156,7 +156,7 @@ title: Tech & a Flick
             </p>
         </div>
     </div>
-</div>-->
+</div>
 {% endraw %}
 
 [//]: # (Looking for the sponsors footer? It's in /themes/layout/index.ejs)

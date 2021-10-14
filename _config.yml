@@ -12,17 +12,19 @@ language: EN-US
 utcOffset: "-0400"
 
 # To support multiple years of archives, update the currentYear and add the old one to the allYears array
-currentYear: 2021
+currentYear: 2022
 allYears:
   - 2018
   - 2019
   - 2020
   - 2021
-showSchedule: true
+  - 2022
+showSchedule: false
 showSessionList: false
+showSpeakers: false
 # If you'd like to show the speaker survey link in the schedule, you need to turn this on and configure it
 # Add a custom speaker question and put hte name in "surveyQuestionName"
-showSurveyOnSchedule: true
+showSurveyOnSchedule: false
 surveyUrl: https://docs.google.com/forms/d/e/1FAIpQLSdB_bb2bX1qDfCDvIX_Fgm431l1a-CFqqRZyO-Ja6F0RX6Rxg/viewform?usp=pp_url&entry.847701887=
 surveyQuestionName: SurveyFeedbackToken 
 

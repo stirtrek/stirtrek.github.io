@@ -81,7 +81,7 @@ title: Tech & a Flick
 </div>-->
 <div class="row">
     <div class="col-md-6">
-        <div class="comic-panel-header offset">
+        <div class="comic-panel-header offset comic-panel-gold">
             What Is Stir Trek?
         </div>
         <div class="comic-panel-body with-header">
@@ -135,16 +135,17 @@ title: Tech & a Flick
         </div>
         <div class="comic-panel-body with-header small">
 {% endraw %}
-* **TBD** - Call for sponsors opens
+* **11/29/2021** - Call for sponsors opens
 * **1/16/2022** - CFP opens
 * **2/5/2022**  - CFP closes
 * **2/26/2022** - CFP notification goal date
-* **TBD** - Tickets go on sale <!--($150 each)-->
-* **TBD** - Last day to edit shipping information
-* **TBD** - Last day for refunds
-* **TBD** - Boxes begin shipping
+* **TBD** - Tickets go on sale - stay tuned
 * **5/6/2022** - Stir Trek 2020!
 {% raw %}
+<!-- 
+* **TBD** - Last day to edit shipping information
+* **TBD** - Last day for refunds
+* **TBD** - Boxes begin shipping -->
         </div>
     </div>  
 <div class="col-md-6">

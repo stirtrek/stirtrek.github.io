@@ -122,7 +122,6 @@
         "link": "http://www.improving.com/",
         "description": "Improving is a technology management and consulting services firm deeply rooted in our commitment to establishing trust — not only with each other but with our clients, partners, communities, and others. We aspire to do this through creating transparency, delivering results, continuously improving, clarifying expectations, and keeping our commitments.",
         "logo": "/images/sponsors/improvingenterprises.png"
-
       },
       {
         "name": "ComResource",
@@ -595,10 +594,94 @@
   },
   "year2022": {
     "principal": [
+      {
+        "name": "Insight",
+        "level": "principal",
+        "link": "https://www.insight.com/en_US/solve/digital-innovation.html",
+        "description": "Insight Digital Innovation, formerly Cardinal Solutions, is global technology company committed to helping clients innovate smarter so they can create digital experiences that drive differentiation, competitive advantage, and loyalty.",
+        "logo": "/images/sponsors/insight_350x200.png"
+      },
+      {
+        "name": "IGS",
+        "level": "principal",
+        "link": "https://igs.com",
+        "description": "With nearly 30 years of experience in the energy industry, the IGS family of companies provides the following to over one million customers across the country: natural gas, electricity, and home warranty products; power generation solutions off the grid; clean, domestic alternative fueling options; and solar solutions. We focus on empowering consumers to make choices that best fit their energy needs. Our community investment program, IGS Impact, provides employees with opportunities to get involved with causes that are meaningful to both the company and to them personally.",
+        "logo": "/images/sponsors/IGS_350x200.png"
+      },
+      {
+        "name": "CapTech",
+        "level": "principal",
+        "link": "https://www.captechconsulting.com/",
+        "description": "CapTech is a national IT management consulting firm that bridges the gap between business and technology. We partner with some of the world's most successful companies to design, develop, and manage technical and digital solutions that delight customers, drive insights, and meet strategic objectives.",
+        "logo": "/images/sponsors/captech_350x200.png"
+      },
+      {
+        "name": "TEKsystems",
+        "level": "principal",
+        "link": "https://www.teksystems.com/",
+        "description": "At TEKsystems, we’re obsessed with technology. Its power to change everything. Technology fuels our passion and commitment to helping organizations do what they set out to. When we engage, we bring fresh ideas that help you galvanize your performance. Refine your strategy. Spark new energy. The future—and how we get there—depends on those who build, connect, create and transform our world. The most successful and innovative businesses are already doing it, and we’re skilled experts at bringing in the teams and support needed to thrive.",
+        "logo": "/images/sponsors/teksystems_350x200.png"
+      }
     ],
     "platinum": [
+      {
+        "name": "CGI",
+        "level": "platinum",
+        "link": "https://www.cgi.com/",
+        "description": "Founded in 1976, CGI is among the largest IT and business consulting services firms in the world. We are insights-driven and outcomes-based to help accelerate returns on your investments. Across hundreds of locations worldwide, we provide comprehensive, scalable and sustainable IT and business consulting services that are informed globally and delivered locally. In all we do, our goal is to build trusted relationships through client proximity, providing industry and technology expertise to help you meet the needs of your customers and citizens.",
+        "logo": "/images/sponsors/cgi_350x200.jpg"
+      },
+      {
+        "name": "OCLC",
+        "level": "platinum",
+        "link": "https://www.oclc.org/en/home.html",
+        "description": "OCLC, a worldwide library services organization headquartered in Dublin, Ohio, is a leader in information technologies and innovative online services. With office locations around the globe, OCLC employees are dedicated to offering premier services and software to help libraries cut costs while keeping pace with the demands of our information-driven society.",
+        "logo": "/images/sponsors/oclc_350x200.png"
+      },
+      {
+        "name": "Revel IT",
+        "level": "platinum",
+        "link": "https://www.revelit.com/",
+        "description": "Revel IT is a young and high energy company, we aim to help consultants and candidates land fulfilling jobs that offer real career growth. Our goal is to treat our consultants and clients the way we would like others to treat us — we are honest, stay true to our word, and work in the best interest of our clients, consultants, and candidates. Many say they work this way, but few actually do. We are a company that does. Our mission is to find and provide the best talent for clients and excellent career opportunities for consultants and candidates — whom we treat as part of our team.",
+        "logo": "/images/sponsors/revelit_350x200.png"
+      },
+      {
+        "name": "Upstart",
+        "level": "platinum",
+        "link": "https://www.upstart.com/",
+        "description": "Upstart is the leading AI lending platform designed to expand access to affordable credit. With $5.7B in loans originated, Upstart’s loss rates are less than half those of industry peers for borrowers with similar FICO scores. Our product consistently ranks at the top of leading review sites like CreditKarma and Trustpilot.",
+        "logo": "/images/sponsors/upstart_350x200.png"
+      },
+      {
+        "name": "CAS",
+        "level": "platinum",
+        "link": "https://www.cas.org/",
+        "description": "CAS, a division of the American Chemical Society specializing in scientific information solutions, partners with R&D organizations globally to provide actionable insights that help them plan, innovate, protect their innovations, and predict how new markets and opportunities will evolve. Scientific researchers, patent professionals and business leaders around the world across commercial, academic and government sectors rely on our solutions and services to advise discovery and strategy. Leverage our unparalleled content, specialized technology, and unmatched human expertise to customize solutions that will give your organization an information advantage. With more than 110 years' experience, no one knows more about scientific information than CAS. Learn more at www.cas.org.",
+        "logo": "/images/sponsors/cas_350x200.png"
+      },
+      {
+        "name": "DMG",
+        "level": "platinum",
+        "link": "https://divisionsmg.com/",
+        "description": "We are a tech-based company, one the fastest growing private enterprises in the Tri-State. Divisions Maintenance Group is a Top Workplace, Inc. 5000 member, rising quickly on the Fast 55 and Top Privately Held Companies lists. We are a national leader in Facilities Maintenance, handling thousands of properties across the country from one, centralized location in Newport, KY. Our tech team participates in the design, development, and implementation of large complex technology solutions. We have great respect and interest in new technologies and applications.",
+        "logo": "/images/sponsors/dmg_350x200.jpg"
+      }
     ],
     "gold": [
+      {
+        "name": "Improving",
+        "level": "gold",
+        "link": "http://www.improving.com/",
+        "description": "Improving is a technology management and consulting services firm deeply rooted in our commitment to establishing trust — not only with each other but with our clients, partners, communities, and others. We aspire to do this through creating transparency, delivering results, continuously improving, clarifying expectations, and keeping our commitments.",
+        "logo": "/images/sponsors/improvingenterprises.png"
+      },
+      {
+        "name": "Nationwide",
+        "level": "gold",
+        "link": "https://www.nationwide.com",
+        "description": "Nationwide, a Fortune 100 company based in Columbus, Ohio, is one of the largest and strongest diversified insurance and financial services organizations in the U.S. and is rated A+ by both A.M. Best and Standard & Poor’s. The company provides a full range of insurance and financial services, including auto, commercial, homeowners, farm and life insurance; public and private sector retirement plans, annuities and mutual funds; banking and mortgages; excess & surplus, specialty and surety; pet, motorcycle and boat insurance. For more information, visit www.nationwide.com.",
+        "logo": "/images/sponsors/nationwide_350x200.jpg"
+      }
     ],
     "silver": [
     ]     

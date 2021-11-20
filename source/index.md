@@ -140,7 +140,7 @@ title: Tech & a Flick
 * **2/5/2022**  - CFP closes
 * **2/26/2022** - CFP notification goal date
 * **TBD** - Tickets go on sale - stay tuned
-* **5/6/2022** - Stir Trek 2020!
+* **5/6/2022** - Stir Trek 2022!
 {% raw %}
 <!-- 
 * **TBD** - Last day to edit shipping information

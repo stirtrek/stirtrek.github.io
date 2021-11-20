@@ -9,7 +9,7 @@ alias:
 
 <div class="icon-hr"></div>
 
-Tickets for Stir Trek 2020 will go on sale Thursday, February 27th. Tickets will be $150 each. We use Eventbrite to sell our tickets, and you can find our [event page here](https://stirtrek2020.eventbrite.com/).
+Tickets for Stir Trek 2022 will go on sale... TBD.
 
 <br/>
 

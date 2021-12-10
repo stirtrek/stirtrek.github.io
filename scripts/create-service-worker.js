@@ -51,14 +51,15 @@ hexo.extend.generator.register('create-service-worker', function(locals) {
 
     // Add our images and fonts. I don't know how to do this with hexo, so I'm just using some node
     const fs2 = require('fs');
-    let directories = ['/images/', '/icons/', '/fonts/', '/images/sponsors/'];
+    let directories = ['images/', 'icons/', 'fonts/', 'images/sponsors/'];
     // Add all speaker images by year
-    years.forEach(year => directories.push(`/images/speakers/${year}/`));
+    years.forEach(year => directories.push(`images/speakers/${year}/`));
 
     directories.forEach(directory => {
+        console.log(`./source/${directory}`)
         fs.readdirSync(`./source/${directory}`).forEach(file => {
             // If this isn't also a directory, add it
-             if(!fs2.statSync(`./source${directory}${file}`).isDirectory())
+             if(!fs2.statSync(`./source/${directory}${file}`).isDirectory())
                 allPagesAndFiles.push(directory + file);
 
         })

@@ -589,7 +589,14 @@
         "link": "https://www.cgi.com/",
         "description": "Founded in 1976, CGI is among the largest IT and business consulting services firms in the world. We are insights-driven and outcomes-based to help accelerate returns on your investments. Across hundreds of locations worldwide, we provide comprehensive, scalable and sustainable IT and business consulting services that are informed globally and delivered locally. In all we do, our goal is to build trusted relationships through client proximity, providing industry and technology expertise to help you meet the needs of your customers and citizens.",
         "logo": "/images/sponsors/cgi_350x200.jpg"
-      }
+      },
+      {
+        "name": "Progress",
+        "level": "principal",
+        "link": "http://www.telerik.com/",
+        "description": "Progress (NASDAQ: PRGS) offers the leading platform for developing and deploying mission-critical business applications. The creator of the award-winning Telerik .NET and Kendo UI JavaScript user interface components/controls, reporting solutions and productivity tools, Progress offers all the tools developers need to build high-performance modern apps with outstanding UI. Learn more about the Progress developer tools at: www.telerik.com or 1-781-280-4000.",
+        "logo": "/images/sponsors/Progress_350x200.png"
+      }  
     ]    
   },
   "year2022": {
@@ -608,6 +615,13 @@
         "description": "With nearly 30 years of experience in the energy industry, the IGS family of companies provides the following to over one million customers across the country: natural gas, electricity, and home warranty products; power generation solutions off the grid; clean, domestic alternative fueling options; and solar solutions. We focus on empowering consumers to make choices that best fit their energy needs. Our community investment program, IGS Impact, provides employees with opportunities to get involved with causes that are meaningful to both the company and to them personally.",
         "logo": "/images/sponsors/IGS_350x200v2.png"
       },
+      {
+        "name": "OCLC",
+        "level": "principal",
+        "link": "https://www.oclc.org/en/home.html",
+        "description": "OCLC, a worldwide library services organization headquartered in Dublin, Ohio, is a leader in information technologies and innovative online services. With office locations around the globe, OCLC employees are dedicated to offering premier services and software to help libraries cut costs while keeping pace with the demands of our information-driven society.",
+        "logo": "/images/sponsors/oclc_350x200.jpg"
+      },      
       {
         "name": "CapTech",
         "level": "principal",
@@ -630,13 +644,6 @@
         "link": "https://www.cgi.com/",
         "description": "Founded in 1976, CGI is among the largest IT and business consulting services firms in the world. We are insights-driven and outcomes-based to help accelerate returns on your investments. Across hundreds of locations worldwide, we provide comprehensive, scalable and sustainable IT and business consulting services that are informed globally and delivered locally. In all we do, our goal is to build trusted relationships through client proximity, providing industry and technology expertise to help you meet the needs of your customers and citizens.",
         "logo": "/images/sponsors/cgi_350x200v2.jpg"
-      },
-      {
-        "name": "OCLC",
-        "level": "platinum",
-        "link": "https://www.oclc.org/en/home.html",
-        "description": "OCLC, a worldwide library services organization headquartered in Dublin, Ohio, is a leader in information technologies and innovative online services. With office locations around the globe, OCLC employees are dedicated to offering premier services and software to help libraries cut costs while keeping pace with the demands of our information-driven society.",
-        "logo": "/images/sponsors/oclc_350x200.png"
       },
       {
         "name": "Revel IT",

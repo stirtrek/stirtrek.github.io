@@ -21,6 +21,14 @@ jobs:
           key: ${{ runner.OS }}-npm-cache
           restore-keys: |
             ${{ runner.OS }}-npm-cache
+      - name: Git creds
+        uses: oleksiyrudenko/gha-git-credentials@v2.1
+        with:
+          global: true
+          name: 'Steve'
+          email: 'steve@stirtrek.com'
+          actor: 'ardalis'
+          token: '${{ secrets.GITHUB_TOKEN }}'
       - name: Install Dependencies
         run: npm install
       - name: Build

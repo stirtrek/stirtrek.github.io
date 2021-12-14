@@ -123,5 +123,5 @@ deploy:
   type: git
   repo: 
     github:
-      url: https://github.com/stirtrek/stirtrek.github.io.git
+      url: https://github.com/stirtrek/stirtrek.github.io.git/public
       branch: master

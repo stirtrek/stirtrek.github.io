@@ -642,7 +642,14 @@
         "link": "http://www.telerik.com/",
         "description": "Progress (NASDAQ: PRGS) offers the leading platform for developing and deploying mission-critical business applications. The creator of the award-winning Telerik .NET and Kendo UI JavaScript user interface components/controls, reporting solutions and productivity tools, Progress offers all the tools developers need to build high-performance modern apps with outstanding UI. Learn more about the Progress developer tools at: www.telerik.com or 1-781-280-4000.",
         "logo": "/images/sponsors/Progress_350x200.png"
-      }     
+      },
+      {
+        "name": "Workstate",
+        "level": "principal",
+        "link": "https://www.workstate.com/",
+        "description": "Workstate is a global IT consulting company. Our mission depends on long-term, meaningful and straightforward relationships with our clients – what we call “no BS consulting.” The fire in our bellies is inextricably tied to partnering actively with our clients, instead of the more-typical in-and-out vendor relationship. The best vendors can build precisely what they're told. But the best partners roll up their sleeves, dig in and actively work to elevate their clients' business outcomes. When we began over 20 years ago, we were determined to challenge the status quo by championing our clients’ vision, building mutual trust and respect, and harnessing technology for growth and change. That goal has withstood the test of time. In short: Good things come to those who Workstate.",
+        "logo": "/images/sponsors/workstate_350x200v2.png"
+      }
     ],
     "platinum": [
       {

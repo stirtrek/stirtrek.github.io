@@ -1,0 +1,83 @@
+{
+    "sponsors": {
+        "platinum": [
+            {
+                "name": "Revel IT",
+                "level": "platinum",
+                "link": "https://www.revelit.com/",
+                "description": "Revel IT is a young and high energy company, we aim to help consultants and candidates land fulfilling jobs that offer real career growth. Our goal is to treat our consultants and clients the way we would like others to treat us — we are honest, stay true to our word, and work in the best interest of our clients, consultants, and candidates. Many say they work this way, but few actually do. We are a company that does. Our mission is to find and provide the best talent for clients and excellent career opportunities for consultants and candidates — whom we treat as part of our team.",
+                "logo": "/images/sponsors/revelit_350x200.png"
+            },
+            {
+                "name": "Workstate",
+                "level": "platinum",
+                "link": "https://www.workstate.com/",
+                "description": "Workstate is a digital transformation powerhouse with over 20 years of experience and a reputation for internalizing our clients' mission-critical initiatives, and creating solutions to meet their goals. We go the extra mile by partnering with our clients to surpass their own expectations, year after year. In other words, our clients' success is our success. We do this by taking our cues from our employees. From our newest junior consultant, to our most senior architect, our employees impact our business with their best ideas, and their collaboration across teams and across clients. We wouldn’t have it any other way.  Workstate specializes in Digital Transformation, CMS and Digital Experience Platforms, CX strategy, Enterprise and Legacy applications, and custom software development teams.",
+                "logo": "/images/sponsors/workstate_350x200.png"
+            },
+            {
+                "name": "OCLC",
+                "level": "platinum",
+                "link": "https://www.oclc.org/en/home.html",
+                "description": "OCLC, a worldwide library services organization headquartered in Dublin, Ohio, is a leader in information technologies and innovative online services. With office locations around the globe, OCLC employees are dedicated to offering premier services and software to help libraries cut costs while keeping pace with the demands of our information-driven society.",
+                "logo": "/images/sponsors/oclc_350x200.png"
+            },
+            {
+                "name": "CAS",
+                "level": "platinum",
+                "link": "https://www.cas.org/",
+                "description": "CAS, a division of the American Chemical Society specializing in scientific information solutions, partners with R&D organizations globally to provide actionable insights that help them plan, innovate, protect their innovations, and predict how new markets and opportunities will evolve. Scientific researchers, patent professionals and business leaders around the world across commercial, academic and government sectors rely on our solutions and services to advise discovery and strategy. Leverage our unparalleled content, specialized technology, and unmatched human expertise to customize solutions that will give your organization an information advantage. With more than 110 years' experience, no one knows more about scientific information than CAS. Learn more at www.cas.org.",
+                "logo": "/images/sponsors/cas_350x200.png"
+            },
+            {
+                "name": "Daugherty Business Solutions",
+                "level": "platinum",
+                "link": "https://www.daugherty.com/",
+                "description": "At Daugherty Business Solutions, we believe in providing exceptional value to our clients, an incredible work environment for our employees, and unwavering support to the communities in which we live. Those guiding principles and the great people making up Team Daugherty are the reason we’re still going strong after 35 years.",
+                "logo": "/images/sponsors/daugherty_350x200.jpg"
+            },
+            {
+                "name": "Manifest",
+                "level": "platinum",
+                "link": "http://manifestcorp.com/",
+                "description": "Enjoy Code. It’s more than a slogan. It’s our mission statement, our code of conduct, our mantra, our obsession, - our ethos. For over 20 years Manifest consultants have been making a difference in some of the most esteemed businesses in Columbus. Our commitment to training enables our consultants and clients to continuously adapt and grow with the advancement of new technologies. Our areas of expertise include: Java & .NET Development, Acceptance Test Driven Development, Test Automation, Project Management, Business Analysis and Agile Mentoring.",
+                "logo": "/images/sponsors/manifest_350x200.png"
+            },
+            {
+                "name": "Progress",
+                "level": "platinum",
+                "link": "http://www.telerik.com/",
+                "description": "Progress (NASDAQ: PRGS) offers the leading platform for developing and deploying mission-critical business applications. The creator of the award-winning Telerik .NET and Kendo UI JavaScript user interface components/controls, reporting solutions and productivity tools, Progress offers all the tools developers need to build high-performance modern apps with outstanding UI. Learn more about the Progress developer tools at: www.telerik.com or 1-781-280-4000.",
+                "logo": "/images/sponsors/Progress_350x200.png"
+            },
+            {
+                "name": "Insight",
+                "level": "principal",
+                "link": "https://www.insight.com/en_US/solve/digital-innovation.html",
+                "description": "Insight Digital Innovation, formerly Cardinal Solutions, is global technology company committed to helping clients innovate smarter so they can create digital experiences that drive differentiation, competitive advantage, and loyalty.",
+                "logo": "/images/sponsors/insight_350x200.png"
+            },
+            {
+                "name": "Veeva",
+                "level": "principal",
+                "link": "https://www.veeva.com/",
+                "description": "Find your perfect job at Veeva. We build enterprise cloud software and provide services that enable the global life sciences industry to bring new therapies to.",
+                "logo": "/images/sponsors/veeva_350x200.jpg"
+            },
+            {
+                "name": "CGI",
+                "level": "principal",
+                "link": "https://www.cgi.com/",
+                "description": "Founded in 1976, CGI is among the largest IT and business consulting services firms in the world. We are insights-driven and outcomes-based to help accelerate returns on your investments. Across hundreds of locations worldwide, we provide comprehensive, scalable and sustainable IT and business consulting services that are informed globally and delivered locally. In all we do, our goal is to build trusted relationships through client proximity, providing industry and technology expertise to help you meet the needs of your customers and citizens.",
+                "logo": "/images/sponsors/cgi_350x200.jpg"
+            },
+            {
+                "name": "Progress",
+                "level": "principal",
+                "link": "http://www.telerik.com/",
+                "description": "Progress (NASDAQ: PRGS) offers the leading platform for developing and deploying mission-critical business applications. The creator of the award-winning Telerik .NET and Kendo UI JavaScript user interface components/controls, reporting solutions and productivity tools, Progress offers all the tools developers need to build high-performance modern apps with outstanding UI. Learn more about the Progress developer tools at: www.telerik.com or 1-781-280-4000.",
+                "logo": "/images/sponsors/Progress_350x200.png"
+            }
+        ]
+    }
+}

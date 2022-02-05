@@ -1,0 +1,137 @@
+{
+    "sponsors": {
+        "principal": [
+            {
+                "name": "Workstate",
+                "level": "principal",
+                "link": "https://www.workstate.com/",
+                "description": "Workstate is a digital transformation powerhouse with over 20 years of experience and a reputation for internalizing our clients' mission-critical initiatives, and creating solutions to meet their goals. We go the extra mile by partnering with our clients to surpass their own expectations, year after year. In other words, our clients' success is our success. We do this by taking our cues from our employees. From our newest junior consultant, to our most senior architect, our employees impact our business with their best ideas, and their collaboration across teams and across clients. We wouldn’t have it any other way.  Workstate specializes in Digital Transformation, CMS and Digital Experience Platforms, CX strategy, Enterprise and Legacy applications, and custom software development teams.",
+                "logo": "/images/sponsors/workstate_350x200.png"
+            },
+            {
+                "name": "Vaco",
+                "level": "principal",
+                "link": "https://www.vaco.com/",
+                "description": "Vaco provides expert business consulting, permanent placement, executive search and strategic staffing for companies around the world, in the areas of accounting, finance, technology, healthcare, operations, administration and more.",
+                "logo": "/images/sponsors/vaco_350x200.png"
+            },
+            {
+                "name": "CapTech",
+                "level": "principal",
+                "link": "https://www.captechconsulting.com/",
+                "description": "CapTech is a national IT management consulting firm that bridges the gap between business and technology. We partner with some of the world's most successful companies to design, develop, and manage technical and digital solutions that delight customers, drive insights, and meet strategic objectives.",
+                "logo": "/images/sponsors/captech_350x200.jpg"
+            },
+            {
+                "name": "Accenture",
+                "level": "principal",
+                "link": "https://www.accenture.com/us-en",
+                "description": "We're a technology consulting company with over 20 years of uncovering and executing industry-disrupting opportunities at lightning speed.",
+                "logo": "/images/sponsors/accenture_350x200.jpg"
+            },
+            {
+                "name": "IGS",
+                "level": "principal",
+                "link": "https://igs.com",
+                "description": "With nearly 30 years of experience in the energy industry, the IGS family of companies provides the following to over one million customers across the country: natural gas, electricity, and home warranty products; power generation solutions off the grid; clean, domestic alternative fueling options; and solar solutions. We focus on empowering consumers to make choices that best fit their energy needs. Our community investment program, IGS Impact, provides employees with opportunities to get involved with causes that are meaningful to both the company and to them personally.",
+                "logo": "/images/sponsors/IGS_350x200.png"
+            },
+            {
+                "name": "Insight",
+                "level": "principal",
+                "link": "https://www.insight.com/en_US/solve/digital-innovation.html",
+                "description": "Insight Digital Innovation, formerly Cardinal Solutions, is global technology company committed to helping clients innovate smarter so they can create digital experiences that drive differentiation, competitive advantage, and loyalty.",
+                "logo": "/images/sponsors/insight_350x200.png"
+            },
+            {
+                "name": "Root",
+                "level": "principal",
+                "link": "https://root.engineering/",
+                "description": "We’ve taken the archaic, $250-billion insurance industry and challenged everything about it. Using telematics, we’ve built one of the fastest growing tech companies. And we’re just getting started.",
+                "logo": "/images/sponsors/root_350x200b.png"
+            },
+            {
+                "name": "TEKsystems",
+                "level": "principal",
+                "link": "https://www.teksystems.com/",
+                "description": "At TEKsystems, we’re obsessed with technology. Its power to change everything. Technology fuels our passion and commitment to helping organizations do what they set out to. When we engage, we bring fresh ideas that help you galvanize your performance. Refine your strategy. Spark new energy. The future—and how we get there—depends on those who build, connect, create and transform our world. The most successful and innovative businesses are already doing it, and we’re skilled experts at bringing in the teams and support needed to thrive.",
+                "logo": "/images/sponsors/teksystems_350x200.png"
+            }
+        ],
+        "platinum": [
+            {
+                "name": "Upstart",
+                "level": "platinum",
+                "link": "https://www.upstart.com/",
+                "description": "Upstart is the leading AI lending platform designed to expand access to affordable credit. With $5.7B in loans originated, Upstart’s loss rates are less than half those of industry peers for borrowers with similar FICO scores. Our product consistently ranks at the top of leading review sites like CreditKarma and Trustpilot.",
+                "logo": "/images/sponsors/upstart_350x200.png"
+            },
+            {
+                "name": "HMB",
+                "level": "platinum",
+                "link": "https://hmbnet.com",
+                "description": "HMB is a professional services firm that specializes in software & product development, and infrastructure solutions. We hire full-time, salaried consultants in Columbus, OH & Louisville, KY. If you want to develop your career and have fun, join us! :)",
+                "logo": "/images/sponsors/hmb-350x200.jpg"
+            },
+            {
+                "name": "OCLC",
+                "level": "platinum",
+                "link": "https://www.oclc.org/en/home.html",
+                "description": "OCLC, a worldwide library services organization headquartered in Dublin, Ohio, is a leader in information technologies and innovative online services. With office locations around the globe, OCLC employees are dedicated to offering premier services and software to help libraries cut costs while keeping pace with the demands of our information-driven society.",
+                "logo": "/images/sponsors/oclc_350x200.png"
+            },
+            {
+                "name": "Manifest",
+                "level": "platinum",
+                "link": "http://manifestcorp.com/",
+                "description": "Enjoy Code. It’s more than a slogan. It’s our mission statement, our code of conduct, our mantra, our obsession, - our ethos. For over 20 years Manifest consultants have been making a difference in some of the most esteemed businesses in Columbus. Our commitment to training enables our consultants and clients to continuously adapt and grow with the advancement of new technologies. Our areas of expertise include: Java & .NET Development, Acceptance Test Driven Development, Test Automation, Project Management, Business Analysis and Agile Mentoring.",
+                "logo": "/images/sponsors/manifest_350x200.png"
+            },
+            {
+                "name": "ComResource",
+                "level": "platinum",
+                "link": "http://comresource.com/",
+                "description": "We are problem-solvers by nature. More than 200 of us…and growing. Customizing processes and technology are our specialties. The more complicated the IT challenge, the better. Having delivered strategic IT solutions for over 25 years, we’ve gotten pretty good at it too. At least that’s what our 200+ clients are telling us. And because we get to work on so many cool and different projects for cream-of-the-crop companies, we have attracted the best and brightest talent. We have an unmatched team spirit which really makes work fun. Probably the reason we are a “Best Places to Work” for multiple years in a row.",
+                "logo": "/images/sponsors/COMRESOURCE.png"
+            },
+            {
+                "name": "Revel IT",
+                "level": "platinum",
+                "link": "https://www.revelit.com/",
+                "description": "Revel IT is a young and high energy company, we aim to help consultants and candidates land fulfilling jobs that offer real career growth. Our goal is to treat our consultants and clients the way we would like others to treat us — we are honest, stay true to our word, and work in the best interest of our clients, consultants, and candidates. Many say they work this way, but few actually do. We are a company that does. Our mission is to find and provide the best talent for clients and excellent career opportunities for consultants and candidates — whom we treat as part of our team.",
+                "logo": "/images/sponsors/revelit_350x200.png"
+            },
+            {
+                "name": "CAS",
+                "level": "platinum",
+                "link": "https://www.cas.org/",
+                "description": "CAS, a division of the American Chemical Society specializing in scientific information solutions, partners with R&D organizations globally to provide actionable insights that help them plan, innovate, protect their innovations, and predict how new markets and opportunities will evolve. Scientific researchers, patent professionals and business leaders around the world across commercial, academic and government sectors rely on our solutions and services to advise discovery and strategy. Leverage our unparalleled content, specialized technology, and unmatched human expertise to customize solutions that will give your organization an information advantage. With more than 110 years' experience, no one knows more about scientific information than CAS. Learn more at www.cas.org.",
+                "logo": "/images/sponsors/cas_350x200.jpg"
+            },
+            {
+                "name": "DMG",
+                "level": "platinum",
+                "link": "https://divisionsmg.com/",
+                "description": "We are a tech-based company, one the fastest growing private enterprises in the Tri-State. Divisions Maintenance Group is a Top Workplace, Inc. 5000 member, rising quickly on the Fast 55 and Top Privately Held Companies lists. We are a national leader in Facilities Maintenance, handling thousands of properties across the country from one, centralized location in Newport, KY. Our tech team participates in the design, development, and implementation of large complex technology solutions. We have great respect and interest in new technologies and applications.",
+                "logo": "/images/sponsors/dmg_350x200.jpg"
+            }
+        ],
+        "gold": [
+            {
+                "name": "G20",
+                "level": "gold",
+                "link": "https://www.g2o.com/",
+                "description": "When it comes to engaging customers, good enough just isn’t good enough. So how do you reach the standard you need? We think the best place to start is to work with someone who gets it. When our clients come to us with tough customer engagement challenges, we bring integrated design, technology, and data solutions that break down silos, dig into what customers really care about, and deliver meaning with every new interaction.",
+                "logo": "/images/sponsors/g2o_350x200.png"
+            },
+            {
+                "name": "Leading EDJE",
+                "level": "gold",
+                "link": "http://leadingedje.com",
+                "description": "Leading EDJE helps our partners solve their most complex business challenges by building the highest quality custom solutions….and we do it better than anyone else! Since 2007, we have created a unique culture which promotes high positive energy with an entrepreneurial spirit. Our firm is made of exceptionally talented professionals who deliver exceptional results, and our clients are made from a wide array of industries but have a common goal of choosing a partner who provides distinct, creative solutions. We choose to work and live deliberately via our uncompromising core values, of Put Team First, Is Dedicated to Growth, Does the Right Thing…Not the Right Now Thing, Is Authentic and Clear and Approaches Problem Solving Passionately.",
+                "logo": "/images/sponsors/leadingedje_350x200.png"
+            }
+        ],
+        "silver": []
+    }
+}

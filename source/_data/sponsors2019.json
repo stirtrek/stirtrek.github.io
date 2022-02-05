@@ -1,0 +1,172 @@
+{
+    "sponsors": {
+        "principal": [
+            {
+                "name": "AWH",
+                "link": "http://www.awh.net/",
+                "description": "AWH is a 24-year old digital product consulting, user experience, and software development firm located in Dublin, OH. AWH’s mission is to collaborate with clients to fully understand business needs, collectively define the project, and generate an approach that consistently improves results and delivers an exceptional experience. From startups to enterprises, AWH turns ideas into reality through our awesome team members and their expertise in user experience (UX), application and data architecture, APIs, data and analytics, Internet of Things (IoT), and artificial intelligence and machine learning.",
+                "logo": "/images/sponsors/awh_350x200.png"
+            },
+            {
+                "name": "IGS",
+                "link": "https://igs.com",
+                "description": "With nearly 30 years of experience in the energy industry, the IGS family of companies provides the following to over one million customers across the country: natural gas, electricity, and home warranty products; power generation solutions off the grid; clean, domestic alternative fueling options; and solar solutions. We focus on empowering consumers to make choices that best fit their energy needs. Our community investment program, IGS Impact, provides employees with opportunities to get involved with causes that are meaningful to both the company and to them personally.",
+                "logo": "/images/sponsors/IGS.png"
+            },
+            {
+                "name": "Workstate",
+                "link": "https://www.workstate.com/",
+                "description": "Workstate is a digital transformation powerhouse with over 20 years of experience and a reputation for internalizing our clients' mission-critical initiatives, and creating solutions to meet their goals. We go the extra mile by partnering with our clients to surpass their own expectations, year after year. In other words, our clients' success is our success. We do this by taking our cues from our employees. From our newest junior consultant, to our most senior architect, our employees impact our business with their best ideas, and their collaboration across teams and across clients. We wouldn’t have it any other way.  Workstate specializes in Digital Transformation, CMS and Digital Experience Platforms, CX strategy, Enterprise and Legacy applications, and custom software development teams.",
+                "logo": "/images/sponsors/workstate_350x200.png"
+            },
+            {
+                "name": "Insight",
+                "link": "https://www.insight.com/en_US/solve/digital-innovation.html",
+                "description": "Insight Digital Innovation, formerly Cardinal Solutions, is global technology company committed to helping clients innovate smarter so they can create digital experiences that drive differentiation, competitive advantage, and loyalty.",
+                "logo": "/images/sponsors/insight_350x200.png"
+            },
+            {
+                "name": "New Relic",
+                "link": "https://www.newrelic.com/",
+                "description": "New Relic provides the real-time insights that software-driven businesses need to innovate faster. New Relic’s cloud platform makes every aspect of modern software and infrastructure observable, so companies can find and fix problems faster, build high-performing DevOps teams, and speed up transformation projects. Learn why more than 50% of the Fortune 100 trust New Relic at newrelic.com.",
+                "logo": "/images/sponsors/NewRelic_350x200.png"
+            },
+            {
+                "name": "Bold Penguin",
+                "link": "https://www.boldpenguin.com/",
+                "description": "Bold Penguin is the highly efficient commercial insurance Exchange that connects businesses, agents, and carriers to match the right quote in record time.",
+                "logo": "/images/sponsors/boldpenguin_350x200.png"
+            }
+        ],
+        "platinum": [
+            {
+                "name": "Leading EDJE",
+                "link": "http://leadingedje.com",
+                "description": "Leading EDJE helps our partners solve their most complex business challenges by building the highest quality custom solutions….and we do it better than anyone else! Since 2007, we have created a unique culture which promotes high positive energy with an entrepreneurial spirit. Our firm is made of exceptionally talented professionals who deliver exceptional results, and our clients are made from a wide array of industries but have a common goal of choosing a partner who provides distinct, creative solutions. We choose to work and live deliberately via our uncompromising core values, of Put Team First, Is Dedicated to Growth, Does the Right Thing…Not the Right Now Thing, Is Authentic and Clear and Approaches Problem Solving Passionately.",
+                "logo": "/images/sponsors/leadingedje_350x200.png"
+            },
+            {
+                "name": "HMB",
+                "link": "https://hmbnet.com",
+                "description": "HMB is a professional services firm that specializes in software & product development, and infrastructure solutions. We hire full-time, salaried consultants in Columbus, OH & Louisville, KY. If you want to develop your career and have fun, join us! :)",
+                "logo": "/images/sponsors/hmb-350x200.png"
+            },
+            {
+                "name": "OCLC",
+                "link": "https://www.oclc.org/en/home.html",
+                "description": "OCLC, a worldwide library services organization headquartered in Dublin, Ohio, is a leader in information technologies and innovative online services. With office locations around the globe, OCLC employees are dedicated to offering premier services and software to help libraries cut costs while keeping pace with the demands of our information-driven society.",
+                "logo": "/images/sponsors/oclc.png"
+            },
+            {
+                "name": "MPW",
+                "link": "http://www.mpwservices.com/",
+                "description": "MPW offers a variety of industrial cleaning, water treatment, facility management, environmental management and container management services to thousands of clients throughout North America. Our diversified industrial services are applicable to a wide array of customer needs and enable clients to prosper in today’s competitive environment. MPW improves operating reliability and profitability by coupling the best trained professionals with the most innovative technologies. MPW’s in-house engineers and fabrication technicians customize proprietary tooling and mobile operating systems to accommodate specialized industry requirements and ever changing environmental demands.",
+                "logo": "/images/sponsors/MPW.png"
+            },
+            {
+                "name": "Sogeti",
+                "link": "https://www.us.sogeti.com/",
+                "description": "We are a leading provider of technology and engineering services, partnering with our clients to make cutting-edge solutions thanks to our valuable world-class expertise in existing and emerging technologies. With over 50 years of experience, Sogeti offers a comprehensive portfolio of services including Insights & Data, Digital Transformation, Digital Manufacturing, Applications & Cloud Technology, and Digital Assurance & Testing. At the heart of our team is a passion for technology and people. Armed with our comprehensive, standard-defining portfolio of solutions, and hyper-focused, client-centric model, we leverage cutting-edge technology to deliver innovative results and best-in-class service to our clients.",
+                "logo": "/images/sponsors/sogeti_350x200.png"
+            },
+            {
+                "name": "Pillar",
+                "link": "http://www.pillartechnology.com/",
+                "description": "Pillar Technology has been uncovering and executing industry-disrupting opportunities for over 20 years, and now we’ve joined forces with Accenture Industry X.0 to revolutionize the world of connected physical products and services. We’ve cracked the code on smart connected by bringing all the necessary capabilities under one roof—strategy, product design, software and hardware engineering—creating a seamless, End2End process.",
+                "logo": "/images/sponsors/pillar-350x200.png"
+            },
+            {
+                "name": "Manifest",
+                "level": "platinum",
+                "link": "http://manifestcorp.com/",
+                "description": "Individuals Making A Difference. It’s more than a slogan. It’s our mission statement, our code of conduct, our mantra, our obsession, - our ethos. Since 1994 Manifest consultants have been making a difference in some of the most esteemed businesses in Columbus. Our commitment to training enables our consultants and clients to continuously adapt and grow with the advancement of new technologies. Our areas of expertise include: Java & .NET Development, Acceptance Test Driven Development, Test Automation, Project Management, Business Analysis and Agile Mentoring. Come see why Manifest was honored for the 4th consecutive year by Columbus CEO magazine as a Top Workplace in Central Ohio. We invite you to visit the Manifest booth and start a conversation about how we may help you on your path to career happiness. Code Forever!",
+                "logo": "/images/sponsors/manifest_350x200.png"
+            },
+            {
+                "name": "Root",
+                "level": "platinum",
+                "link": "https://root.engineering/",
+                "description": "Root Insurance is the nation’s first licensed insurance carrier powered entirely by mobile and founded on the principle that car insurance rates should be based on how you drive, not who you are. We use data science and technology to identify and insure good drivers, reducing insurance premiums for good drivers as a result. Car insurance is a compulsory product — it’s literally illegal to drive without it. Unfortunately, people are paying significantly more than they should be because their car insurance carrier only looks at their demographics and not how they drive. We’re fixing that. Root was started in 2015 with backing from Drive Capital. Although creating an insurance carrier from scratch was an audacious undertaking, we realized we needed to own everything end-to-end to build an exceptional insurance experience. With schlep blindness in full effect, we made it happen. Most insurance carriers were started a century ago and are running on an amalgamation of technology that is decades old. Root is the manifestation of “software is eating the world” in insurance. Our core expertise is responding to trends in technology by incorporating new sources of data into insurance pricing and building great products and user experiences on top of it. Root is where it is today due to the hard work, ingenuity, and exceptional performance of the people here. We’ve been fortunate to build an incredibly talented team that has brought this idea to life, and we're striving to grow that team by hiring more exceptional people.",
+                "logo": "/images/sponsors/root_350x200.png"
+            }
+        ],
+        "gold": [
+            {
+                "name": "ComResource",
+                "link": "http://comresource.com/",
+                "description": "ComResource is one of Central Ohio’s top IT consulting companies solving IT problems for growing businesses for over 25 years. ComResource is a unique player in the IT Consulting industry because of its expertise and experience in delivering a diversity of solutions, not only Professional Services Staffing (Project Management, Business & Data Analysis, AppDev, DevOps and QA), but also Information Security, Cloud & Virtual, Data Quality, B2B Integration, Systems & Network, Disaster Recovery & Business Continuity, VoIP, Wireless, and Storage. ComResource has built Centers of Excellence to fully engage and motivate over 220 employees and to ensure the highest level of innovation for more than 200 clients. On multiple occasions, ComResource has been recognized as a “Best Places To Work”, “Corporate Caring Award Finalist” and a “Fast Fifty 50” award winner. In 2017, ComResource was named the US SMB Rising Star Heartland Partner of the Year by Microsoft’s US Small and Mid-sized Business (SMB) Group.",
+                "logo": "/images/sponsors/COMRESOURCE.png"
+            },
+            {
+                "name": "Cover My Meds",
+                "link": "https://www.covermymeds.com/main/careers/",
+                "description": "CoverMyMeds is one of the fastest growing healthcare technology companies in the US. We help prescribers and pharmacies submit Prior Authorization requests for any drug and nearly all health plans - 100% free - to get millions of patients on their medications every single year. Our team of highly-productive healthcare enthusiasts with a passion for helping others is the best thing about working here. On-site chef, flexible hours and paid benefits? Yeah, we have those too. But don’t take our word for it. We’ve been named to Glassdoor's top 50 places to work in the nation, Inc. 500’s list three times, were awarded one of the top places to work by Modern Healthcare and three times won best places to work in Columbus, Ohio.",
+                "logo": "/images/sponsors/cmm_350x200.png"
+            },
+            {
+                "name": "Improving",
+                "link": "http://www.improving.com/",
+                "description": "Improving is a technology management and consulting services firm deeply rooted in our commitment to establishing trust — not only with each other but with our clients, partners, communities, and others. We aspire to do this through creating transparency, delivering results, continuously improving, clarifying expectations, and keeping our commitments.",
+                "logo": "/images/sponsors/improvingenterprises.png"
+            },
+            {
+                "name": "Nationwide",
+                "link": "https://www.nationwide.com",
+                "description": "Nationwide, a Fortune 100 company based in Columbus, Ohio, is one of the largest and strongest diversified insurance and financial services organizations in the U.S. and is rated A+ by both A.M. Best and Standard & Poor’s. The company provides a full range of insurance and financial services, including auto, commercial, homeowners, farm and life insurance; public and private sector retirement plans, annuities and mutual funds; banking and mortgages; excess & surplus, specialty and surety; pet, motorcycle and boat insurance. For more information, visit www.nationwide.com.",
+                "logo": "/images/sponsors/nationwide_350x200.jpg"
+            },
+            {
+                "name": "Progress",
+                "link": "http://www.telerik.com/",
+                "description": "Progress (NASDAQ: PRGS) offers the leading platform for developing and deploying mission-critical business applications. The creator of the award-winning Telerik .NET and Kendo UI JavaScript user interface components/controls, reporting solutions and productivity tools, Progress offers all the tools developers need to build high-performance modern apps with outstanding UI. Learn more about the Progress developer tools at: www.telerik.com or 1-781-280-4000.",
+                "logo": "/images/sponsors/Progress_350x200.png"
+            },
+            {
+                "name": "Smart Data",
+                "link": "https://smartdata.net/",
+                "description": "Smart Data is a team of problem solvers focused on improving your business. We partner with health care, retail, and manufacturers helping them increase productivity, modernize business processes, and deliver smarter experiences to their clients. We do this by helping them design and develop custom digital solutions, integrate systems, and provide data transformation services.",
+                "logo": "/images/sponsors/smartdata_350x200.png"
+            },
+            {
+                "name": "Halo Communications",
+                "link": "https://www.halocommunications.com/",
+                "description": "Halo’s mission is to streamline communication, so clinicians can focus on care. The Halo Clinical Communication Platform™ enables mobile collaboration for healthcare by consolidating secure messaging, on-call scheduling, VoIP and mobilization of critical alerts, all powered by the Halo Clinical Workflow Engine™. This enterprise-wide platform helps protect clinicians from alert fatigue and burnout, and patients from delays in care. Our team is transforming healthcare! From our collaborative office space to open-minded environment, you'll quickly find that we encourage fresh ideas, lifelong learning, and teamwork. Ready to join?",
+                "logo": "/images/sponsors/halo_350x200.png"
+            },
+            {
+                "name": "Callibrity",
+                "link": "https://www.callibrity.com/",
+                "description": "Callibrity is a developer owned and managed custom software development firm that is dedicated to providing clients with quality software, improved coding practices, and modernized tech stacks. Having such a niche focus is not for everyone, but Callibrity believes that focus on software development fosters interesting work that keeps consultants engaged long-term and grows their technical knowledge exponentially.",
+                "logo": "/images/sponsors/callibrity_350x200.png"
+            },
+            {
+                "name": "Fast Switch",
+                "link": "https://fastswitch.com",
+                "description": "",
+                "logo": "/images/sponsors/fastswitch_350x200.jpg"
+            },
+            {
+                "name": "ICC",
+                "level": "gold",
+                "link": "http://icctechnology.com/",
+                "description": "User First. Data Driven. Technology Development. ICC is changing the way companies solve their business challenges, and the above principles dictate our solutions. This approach inspires intelligent, precise technology that addresses the human need. Three practice areas give ICC the necessary latitude to overcome the complex challenges that businesses face.",
+                "logo": "/images/sponsors/ICC_350x200.png"
+            },
+            {
+                "name": "DynamIT",
+                "link": "https://www.dynamit.com",
+                "description": "At Dynamit, we create web and mobile applications. Together with our clients, we identify big opportunities and solve big problems. We serve our clients as strategists, creatives, and engineers. We shine in situations where simple, graceful web and mobile experiences can make a big difference in the way our clients do business. We believe that — done right — technology should simplify. It should make life easier for our clients and their customers. Clients include: Hilton Worldwide, NiSource, La Quinta Inns & Suites, M/I Homes, Panda Express, Donatos Pizza, BJ's Restaurants & Brewhouse, Mercy Health, Kindred Healthcare, Tire Discounters, White Castle and Thorntons.",
+                "logo": "/images/sponsors/dynamit_350x200.png"
+            }
+        ],
+        "silver": [
+            {
+                "name": "Living Portrait Photography",
+                "level": "silver",
+                "link": "https://livingportraitphotography.com/",
+                "description": "The most beautiful things in life are often not something you can pose for. While i’m well versed in portraiture, my favorite shoots leave room for candid shots which really represent the love and magic in an authentic moment.",
+                "logo": "/images/sponsors/livingportrait_350x200.png"
+            }
+        ]
+    }
+}

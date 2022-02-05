@@ -1,7 +1,7 @@
 <% 
 
 // Only render if there is sponsor data for this year
-var thisYearsSponsors = eval(`site.data.sponsors.year${config.currentYear}`);
+var thisYearsSponsors = eval(`site.data.sponsors${config.currentYear}.sponsors`);
 if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  { 
     
 %>

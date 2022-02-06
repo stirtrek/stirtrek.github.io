@@ -58,10 +58,11 @@ If you're new to Markdown, you can find a [simple overview here](https://www.mar
 ## Updating year to year
 A few things need to happen to roll the site to a new year:
 - _config.yml should be updated with the new year set as currentYear, and added to the allYears array
-- _data needs the following to happen
+- _data needs the following to happen:
     - schedule20XX.json needs to be created
     - sponsors20XX.json needs to be created
-    - sessions20XX.json needs to be downloaded from Sessionize once we've selected sessions
+    - sessions20XX.json needs to be created and then updated from Sessionize once we've selected sessions
+    - You can run `node scripts-manuallyexecuting/add-a-new-year 9999` replacing 9999 with the appropriate year to create these files
 - Add a folder new folder for speaker photos like /source/images/speakers/YYYY
 - Search for the year in the /source directory's .md files and change it where appropriate in content
 - While there is no schedule /source/speakers/index.md has the year set as the previous year in the YAML at the top. When we get a new schedule, update this value.

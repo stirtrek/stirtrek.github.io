@@ -40,7 +40,8 @@ h1, h2, h3 {
 }
 
 #stirTrekHeroContainer {
-    background: url("/images/StirTrek-Logo-Banner-453x350.png") no-repeat top;
+    /* background: url("/images/StirTrek-Logo-Banner-453x350.png") no-repeat top; */
+    background: url("/images/StirTrek-StrangeLogo-New.png") no-repeat top;
     position: relative;
     font-family: 'Komika Axis', 'Comic Sans MS';
     height: 400px;

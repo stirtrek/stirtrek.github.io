@@ -13,23 +13,23 @@ title: Tech & a Flick
             <br>
         </div> -->
     <!--</a>-->
-    <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">6 May 2022</p>
-    </div> -->
+    </div>
     <!-- <a href="https://stirtrek2021virtual.eventbrite.com/" target="_blank" rel="noopener noreferrer">
     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek 2021 Is Virtual<br>7 May 2021</p>
         <br>
         <p class="registerNow">Register Now!</p>
     </div>
-    </a> -->
+    </a>
     <a href="https://sessionize.com/stir-trek-2022/" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             <p class="date">CFP is Open!</p>
             <p class="registerNow">Click here to submit your talks</p>
         </div>
-    </a>
+    </a>-->
 </div>
 
 <!-- <div class="row">
@@ -137,7 +137,7 @@ title: Tech & a Flick
 {% endraw %}
 * **11/29/2021** - Call for sponsors opens
 * **1/16/2022** - CFP opens - [Submit your talks here](https://sessionize.com/stir-trek-2022/)
-* **2/5/2022**  - CFP closes
+* **2/5/2022**  - CFP **closed**
 * **2/26/2022** - CFP notification goal date
 * **TBD** - Tickets go on sale - stay tuned
 * **5/6/2022** - Stir Trek 2022!

@@ -93,7 +93,14 @@
         "link": "https://www.daugherty.com/",
         "description": "For over 35 years, Daugherty has been committed to driving innovation, growth and customer satisfaction across the nation while making a positive difference in the community. With software engineering, data analytics, business advisory services, and technology and delivery leadership, Daugherty delivers significant business results quickly and effectively. Leveraging proprietary tools, techniques, and virtual and regional development centers, Daugherty is a preferred strategic advisor and partner for the Fortune 500, helping customers achieve better and more predictable outcomes for mission-critical initiatives.",
         "logo": "/images/sponsors/daugherty_350x200.jpg"
-      }
+      },
+      {
+        "name": "impact.com",
+        "level": "platinum",
+        "link": "https://impact.com/",
+        "description": "impact.com, the world’s leading partnership management platform, is transforming the way businesses manage and optimize all types of partnerships—including traditional rewards affiliates, influencers, commerce content publishers, B2B, and more. The company’s powerful, purpose-built platform makes it easy for businesses to create, manage, and scale an ecosystem of partnerships with the brands and communities that customers trust to make purchases, get information, and entertain themselves at home, at work, or on the go. To learn more about how impact.com’s technology platform and partnerships marketplace is driving revenue growth for global enterprise brands such as Walmart, Uber, Shopify, Lenovo, L’Oreal, Fanatics and Levi’s, visit www.impact.com.",
+        "logo": "/images/sponsors/impact-350x200.jpg"
+      }      
     ],
     "gold": [
       {

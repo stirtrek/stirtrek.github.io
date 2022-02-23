@@ -116,6 +116,13 @@
         "link": "https://www.nationwide.com",
         "description": "Nationwide, a Fortune 100 company based in Columbus, Ohio, is one of the largest and strongest diversified insurance and financial services organizations in the U.S. and is rated A+ by both A.M. Best and Standard & Poor’s. The company provides a full range of insurance and financial services, including auto, commercial, homeowners, farm and life insurance; public and private sector retirement plans, annuities and mutual funds; banking and mortgages; excess & surplus, specialty and surety; pet, motorcycle and boat insurance. For more information, visit www.nationwide.com.",
         "logo": "/images/sponsors/nationwide_350x200.jpg"
+      },
+      {
+        "name": "Beam",
+        "level": "gold",
+        "link": "https://beam.dental",
+        "description": "Beam Dental was founded in 2012 by three engineers who saw the opportunity to modernize the dental insurance industry using technology. The first product was the Beam Brush, which was one of the earliest examples of the Internet of Things in healthcare. Today, Beam Dental is the fastest growing provider of dental benefits in the country and is available in over 40 states around the US. Beam’s product focuses on ease of use, tailored pricing, and a unique commitment to preventative care by incorporating dental hygiene behavior into policy pricing.",
+        "logo": "/images/sponsors/beam_350x200.jpg"
       }
     ],
     "silver": []

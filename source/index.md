@@ -139,7 +139,7 @@ title: Tech & a Flick
 * **1/16/2022** - CFP opens - [Submit your talks here](https://sessionize.com/stir-trek-2022/)
 * **2/5/2022**  - CFP **closed**
 * **2/26/2022** - CFP notification goal date
-* **TBD** - Tickets go on sale - stay tuned
+* **3/8/2022** - Tickets go on sale - stay tuned
 * **5/6/2022** - Stir Trek 2022!
 {% raw %}
 <!-- 

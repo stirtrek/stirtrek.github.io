@@ -1,6 +1,7 @@
 <div class="speakersContainer">
     <article class="row thinRow">
 
+        <% if(!eval('site.data.sessions' + page.year) || !eval('site.data.sessions' + page.year + '.speakers')) return; %>
         <% for (var speaker of eval('site.data.sessions' + page.year + '.speakers') ) {
             
             var firstName = speaker.firstName;

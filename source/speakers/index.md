@@ -1,6 +1,6 @@
 ---
 title: Speakers
-year: 2021
+year: 2022
 ---
 
 # This Year's Speakers

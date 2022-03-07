@@ -34,6 +34,16 @@ In Sessionize, setup an API / Embed with the following settings:
 ![Format Settings](readme-sessionize-1.png)
 ![Data Settings](readme-sessionize-2.png)
 
+**Under Advanced Options, choose Include Unscheduled Sessions... when initially publishing if the schedule is not finished**
+
+In _config.yml set the following to put the speakers on the site without a schedule
+
+```javascript
+showSchedule: false
+showSessionList: true
+showSpeakers: true
+```
+
 Then go to the Get Code page and copy the URL for this API and paste it in the _config.yml file under `sessionizeApiUrl`.
 
 There's a helpful node script that will download this for you. From the root directory, run `node scripts-manuallyexecuting/download-sessionize-details.js`.  It'll download whatever is at the `sessionizeApiUrl` and save it for you. Commit those changes to upload the speakers.

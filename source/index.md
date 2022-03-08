@@ -5,26 +5,18 @@ title: Tech & a Flick
 
 {% raw %}
 <div class="row" id="stirTrekHeroContainer">
-    <!-- <a href="https://www.marktapparel.com/store/c55/Stir_Trek.html" target="_blank" rel="noopener noreferrer">
-        <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-            2020 is Cancelled<br>
-            <p style="font-size: .7em">but you can support us by visiting</p>
-            <p class="registerNow" style="font-size: 1.7em">STORE TREK</p>
-            <br>
-        </div> -->
-    <!--</a>-->
-     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+     <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">6 May 2022</p>
-    </div>
-    <!-- <a href="https://stirtrek2021virtual.eventbrite.com/" target="_blank" rel="noopener noreferrer">
+    </div> -->
+    <a href="https://stirtrek2022.eventbrite.com/" target="_blank" rel="noopener noreferrer">
     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-        <p class="date">Stir Trek 2021 Is Virtual<br>7 May 2021</p>
+        <p class="date">Stir Trek - Columbus, OH<br>6 May 2022</p>
         <br>
         <p class="registerNow">Register Now!</p>
     </div>
     </a>
-    <a href="https://sessionize.com/stir-trek-2022/" target="_blank" rel="noopener noreferrer">
+    <!--<a href="https://sessionize.com/stir-trek-2022/" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             <p class="date">CFP is Open!</p>
             <p class="registerNow">Click here to submit your talks</p>

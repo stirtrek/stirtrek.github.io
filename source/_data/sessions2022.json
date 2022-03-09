@@ -123,7 +123,8 @@
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "5109fd45-b211-4bbf-b100-76829c6f29db"
+        "5109fd45-b211-4bbf-b100-76829c6f29db",
+        "2507cd1a-b5f9-4bfa-ac40-978b2b6f86fb"
       ],
       "categoryItems": [
         105560
@@ -374,6 +375,25 @@
       ],
       "categoryItems": [
         105562
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "316964",
+      "title": "Jason On JSON",
+      "description": "JSON is all around us in the systems we use every day. Many systems use it for configuration, data interchange and logging. SQL server 2016 introduced native support for JSON, but when should we use this new capability? and how can we ensure optimal performance? Join Microsoft Master of SQL Server Jason Horner as we look at the basics of JSON and how to query, transform, and store it. Whether you are working with a data warehouse or transactional processing system working with sql server on premises or in the cloud. This session will get you up to speed.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8cfab663-b768-4828-9ff5-89f8ecf47a09"
+      ],
+      "categoryItems": [
+        105569
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -1195,6 +1215,28 @@
       "questionAnswers": []
     },
     {
+      "id": "8cfab663-b768-4828-9ff5-89f8ecf47a09",
+      "firstName": "Jason",
+      "lastName": "Horner",
+      "bio": "Hi, my name is Jason I'm a Independent consultant and trainer focused on the Azure Data Platform. I spend most of my day helping clients solve business problems mostly in the Data and Advanced Analytics spaces. Sometimes this involves various and sundry cloud technologies including Azure Data Factory, Azure Synapse Analytics, Azure Data Lake Store, Azure Databricks, HDInsight and Azure SQL Database. I'm fluent in several languages including: SQL, C#, Python, and PowerShell.\r\n\r\nI'm a Microsoft Certified Master of SQL Server (MCM) and have been recognized for my technical excellence and evangelism efforts by Microsoft by being previously awarded the Most Valuable Professional (MVP) for the 6 years.\r\n\r\nI'd love to speak at your upcoming event or user group don't hesitate to email me or reach out on linkedIn or twitter.\r\n\r\nIn my off hours I like to snowboard, karaoke, ride roller coasters and play arcade games",
+      "tagLine": "Global Thought Leader and International Man of Leisure",
+      "profilePicture": "https://sessionize.com/image/fb84-400o400o2-BXbfubpwaLSxJ4nRGmVUAK.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://twitter.com/jasonhorner",
+          "linkType": "Twitter"
+        }
+      ],
+      "sessions": [
+        316964
+      ],
+      "fullName": "Jason Horner",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "5914ecb0-71a2-4556-ad99-767a46636df4",
       "firstName": "Jimmy",
       "lastName": "Byrd",
@@ -1730,6 +1772,33 @@
         313378
       ],
       "fullName": "Rob Richardson",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "2507cd1a-b5f9-4bfa-ac40-978b2b6f86fb",
+      "firstName": "Ryan",
+      "lastName": "Turinsky",
+      "bio": "Ryan Turinsky is a lead software engineer at OCLC. When he isn’t developing, he is usually found spending time with his wife and two daughters, watching Marvel movies, or watching the Dallas Cowboys try to play football.",
+      "tagLine": "Lead Software Engineer at OCLC",
+      "profilePicture": "https://sessionize.com/image/9223-400o400o2-2f57fcc1-787b-44d7-8e7d-d1a1b707a295.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/StylesTrip",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/ryan-turinsky-29b62063/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        318022
+      ],
+      "fullName": "Ryan Turinsky",
       "categoryItems": [],
       "questionAnswers": []
     },

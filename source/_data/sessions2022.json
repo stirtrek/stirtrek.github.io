@@ -192,6 +192,25 @@
       "recordingUrl": null
     },
     {
+      "id": "317925",
+      "title": "Defensive Coding Bootcamp",
+      "description": "Do you build things that can be hacked? Want to lower those odds? Join us to learn the basics of security vulnerabilities and evasive coding maneuvers that can make your software more secure, every time. Geared for developers of all skill levels, this code-centric talk will be present code samples and essential fundamentals that apply to every language. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "da1a1990-71d2-45dd-a213-c04430b64d87"
+      ],
+      "categoryItems": [
+        105568
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "318464",
       "title": "Dependable Realtime Payments Management with Kafka",
       "description": "With people around the world sheltering at home due to the global pandemic, last 2 year have accelerated the transition of banking and financial services to provide real time data from multiple sources onto a single digital channel in near realtime.The traditional integrated banking model is under tremendous stress and rapidly evolving.\r\nIn this session we will explore the use case in which Kafka will be used to enable a software talk to another software in a bank to give customer a smooth journey and access to the latest customer information across channels. We will be deep diving into banking ecosystem which has its backend built using Kafka-centric pipeline and is exposed to end-users through a REST API layer. All incoming requests from banking app users are written to a single inbound Kafka topic.which has data going into ksqlDB for filtering. Data from these topics is then consumed and processed by various (micro)services via Kafka consumer Topics to b e send out to costumers.",
@@ -337,6 +356,25 @@
       ],
       "categoryItems": [
         105572
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "313157",
+      "title": "Hacking Your Vacation: Using Data for Fun",
+      "description": "Data can be powerful, meaningful, AND fun. Making data-driven decisions can level up your family vacation from awful to awesome. In this session, attendees will walk through a specific example showing how to analyze various data sources to avoid crowds, save money, and piece together a Disney World vacation that's more enjoyable for everyone. By walking through this example, attendees will learn a repeatable framework for strategically attacking real-life problem sets: set goals, identify appropriate data sets, and then use the results to get curious and ask more questions!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "96b450ce-42d0-48e2-8fa2-4fb9758ea38d"
+      ],
+      "categoryItems": [
+        105569
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -894,6 +932,33 @@
       "questionAnswers": []
     },
     {
+      "id": "96b450ce-42d0-48e2-8fa2-4fb9758ea38d",
+      "firstName": "Becky",
+      "lastName": "Gandillon",
+      "bio": "Becky Gandillon is the Practice Lead for Data & Analytics for Centric Consulting in St. Louis, and she specializes in data storytelling, data strategy and visualization. She is a big Disney nerd that spends some of her free time analyzing and predicting crowd patterns at Disney World. She and her husband love travelling with their two daughters, and are looking forward to being able to go on adventures again soon.",
+      "tagLine": "Data strategist, storyteller, and mom",
+      "profilePicture": "https://sessionize.com/image/86ab-400o400o2-MxmtXwsRwqmbu23EAadnCH.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/becky-gandillon/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://touringplans.com/blog/author/bgandillon/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        313157
+      ],
+      "fullName": "Becky Gandillon",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "56c61683-ff6d-4bad-bd80-59dee59b5b87",
       "firstName": "Bekah",
       "lastName": "Hawrot Weigel",
@@ -1007,11 +1072,6 @@
           "title": "Twitter",
           "url": "https://twitter.com/cassandrafaris",
           "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/cassandrafaris",
-          "linkType": "LinkedIn"
         }
       ],
       "sessions": [
@@ -1202,7 +1262,7 @@
       "id": "5109fd45-b211-4bbf-b100-76829c6f29db",
       "firstName": "Hakeem",
       "lastName": "Shittu",
-      "bio": "Ryan Turinsky is a lead software engineer at OCLC. When he isn’t developing, he is usually found spending time with his wife and two daughters, watching Marvel movies, or watching the Dallas Cowboys try to play football.\r\n\r\nHakeem Shittu designs and builds software systems for OCLC. He splits his spare time between traveling and a serious wood-working hobby.",
+      "bio": "Hakeem Shittu designs and builds software systems for OCLC. He splits his spare time between traveling and a serious wood-working hobby.",
       "tagLine": "OCLC Lead Developer",
       "profilePicture": "https://sessionize.com/image/563c-400o400o2-RW8DJaBobeEszcopywETww.jpg",
       "isTopSpeaker": false,
@@ -1211,6 +1271,28 @@
         318022
       ],
       "fullName": "Hakeem Shittu",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "da1a1990-71d2-45dd-a213-c04430b64d87",
+      "firstName": "Heather",
+      "lastName": "Downing",
+      "bio": "Climbing the technology mountain and halfway up the side. Experience in .Net, mobile applications and more recently voice interface development. Dabbles in iOT & AR/VR. Focusing on coding for humans and choosing the right tool for the job.\r\n\r\nHeather is a passionate coder and entrepreneur. She has experience working with Fortune 500 companies building enterprise level mobile and .Net applications. She spends her spare time at tech conferences supporting the growth of new developers of all genders, ages and backgrounds. When not coding, Heather spends her time as a competitive equestrian and learning the art of mounted archery.",
+      "tagLine": "Principal Developer Advocate at Okta",
+      "profilePicture": "https://sessionize.com/image/5d1f-400o400o2-90-71d2-45dd-a213-c04430b64d87.ddd6d757-1d9a-4b68-a07a-57d6928a14a3.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://twitter.com/quorralyne",
+          "linkType": "Twitter"
+        }
+      ],
+      "sessions": [
+        317925
+      ],
+      "fullName": "Heather Downing",
       "categoryItems": [],
       "questionAnswers": []
     },

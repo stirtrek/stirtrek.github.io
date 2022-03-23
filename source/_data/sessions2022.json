@@ -96,25 +96,6 @@
       "recordingUrl": null
     },
     {
-      "id": "317644",
-      "title": "Becoming a Product Focussed Engineer (Alternate Title: Web Development & Product Strategy)",
-      "description": "As Web Developers, we sit closest in the tech stack to the users of our products and with experience, develop some perspective around User behavior, UX, Design, features they might find interesting and so on. This positions us really well to develop ourselves as ‘Product Persons’ or Product Focussed Engineers that influence a lot of product direction contributing to which features could be impactful. \r\n\r\nUnder this topic, I can share my experience of how I grew myself to be a Product-Focussed Engineer as a Web Developer. Specifically, I can share insights around – \r\n\r\n- Helping define north star vision and goals for your product\r\n- Working with User Research & Design to better understand user behavior\r\n- Come up with ideas and prototype them and running experiments \r\n- Working with Data Scientists in running web-based experiments, defining success criteria and set up things in your app that help you validate your hypotheses \r\n- How to lead a team of engineers and inspire them to engage in bettering the product through these practices\r\n",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "13ef9500-a5c9-470b-8580-841c6d4915d2"
-      ],
-      "categoryItems": [
-        105567
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
       "id": "318022",
       "title": "Building a Graph Based Infrastructure",
       "description": "Knowledge graphs are one of the tech buzz words that have come to dominate the industry in recent years. But what is the value of a knowledge graph and more importantly how does one build a knowledge graph with existing data? This presentation will describe the steps OCLC took to architect and design a graph based infrastructure, develop a new data model (ontology), and process existing data to produce a knowledge graph that will help power future applications and services.",
@@ -166,6 +147,25 @@
       ],
       "categoryItems": [
         105570
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "318087",
+      "title": "Clean Architecture with ASP.NET Core 6",
+      "description": "Clean Architecture (aka Onion, Hexagonal, Ports-and-Adapters) organizes your code in a way that limits its dependencies on infrastructure concerns. Learn how to apply it to your ASP.NET Core apps!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
+      ],
+      "categoryItems": [
+        105572
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -337,25 +337,6 @@
       ],
       "categoryItems": [
         105568
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "315698",
-      "title": "GraphQL and Component-based JavaScript: Patterns and Best Practices",
-      "description": "While GraphQL has gotten more and more popular as a data retrieval mechanism for modern front-end applications, structuring this data with your front-end components is not straight forward.\r\n\r\nThis session will talk about ways to organize your data schema, queries, mutations, and component data to best manage your GraphQL data in your front-end application, increase reuse, and encapsulate your data for future changes. You'll also learn how your data is managed by the GraphQL server so you can avoid common data management mistakes. We will be using Vue.js and Apollo in the session, but the lessons will apply to any combination of front-end and GraphQL frameworks.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "b973ac5c-e221-45b4-9634-ad9302322418"
-      ],
-      "categoryItems": [
-        105572
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -622,6 +603,25 @@
       ],
       "categoryItems": [
         105563
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "311318",
+      "title": "Stand Back; I'm going to try Data Science!",
+      "description": "Curious about data science and its relation to software engineering? Want to know how to dabble in artificial intelligence or machine learning side projects before taking the plunge? Come learn more about this exciting aspect of computing.\r\n\r\nIn this session I'll highlight my own journey in layering data science skills on top of a software engineering background. I'll teach you the terms, roles, languages, libraries, and technologies you'll commonly encounter and help you understand what aspects of math and programming are helpful in setting down this journey. \r\n\r\nYou'll discover easy ways to get started and get connected to the data science community. I'll show you how to discover public datasets to help inspire your own journey. By the time the session is finished, you'll know how to find out if data science is a good fit for you and how to take it to the next level if you discover you like it.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "17c299ee-d9fd-4020-b499-2837b2b3a2bf"
+      ],
+      "categoryItems": [
+        105569
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -1368,38 +1368,6 @@
       "questionAnswers": []
     },
     {
-      "id": "b973ac5c-e221-45b4-9634-ad9302322418",
-      "firstName": "Joe",
-      "lastName": "Erickson",
-      "bio": "Joe Erickson is a web programmer that has been building internet applications for Fortune 100 and small businesses alike for over 20 years. He has built production ready applications in Java, PHP, Perl, C++, Ruby, and JavaScript. Joe is a Senior Software Engineer at Recurrent.",
-      "tagLine": "Senior Software Engineer at Recurrent",
-      "profilePicture": "https://sessionize.com/image/7c00-400o400o2-f3UnSbn1PKwQycEcEAFXMj.jpeg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Twitter",
-          "url": "https://twitter.com/firstclown",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/josepherickson/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://jerickson.net",
-          "linkType": "Blog"
-        }
-      ],
-      "sessions": [
-        315698
-      ],
-      "fullName": "Joe Erickson",
-      "categoryItems": [],
-      "questionAnswers": []
-    },
-    {
       "id": "5a111e09-2922-4aff-a0eb-9b6691b6e8b2",
       "firstName": "Joel",
       "lastName": "Lord",
@@ -1412,6 +1380,21 @@
           "title": "Twitter",
           "url": "https://twitter.com/joel__lord",
           "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/joel-lord/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://javascripteverything.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://mongodb.com",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [
@@ -1548,6 +1531,43 @@
         318036
       ],
       "fullName": "Matt Bowlin",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "17c299ee-d9fd-4020-b499-2837b2b3a2bf",
+      "firstName": "Matt",
+      "lastName": "Eland",
+      "bio": "Matt is a software engineering instructor at Tech Elevator's Columbus Ohio campus where he gets to raise up future developers and unleash them upon the world to do awesome things. Prior to this Matt enjoyed a .NET and JavaScript-heavy career in the startup and Software as a Service world where he helped companies grow to maturity and then scale up.\r\n\r\nIn his spare time, Matt is pursuing a master's degree studying data science and artificial intelligence and continues to build nerdy things on the side while looking for ways to share new things with the community.",
+      "tagLine": "Instructor at Tech Elevator",
+      "profilePicture": "https://sessionize.com/image/ccdb-400o400o2-hs4Dd8qwq88tNxReUN2gY9.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/IntegerMan",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/matteland/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://AccessibleAI.dev",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://matteland.dev",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        311318
+      ],
+      "fullName": "Matt Eland",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -1730,6 +1750,11 @@
           "title": "Blog",
           "url": "https://blog.frankel.ch/",
           "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://apisix.apache.org/",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [
@@ -1755,7 +1780,7 @@
         },
         {
           "title": "Blog",
-          "url": "https://dev.to/devpato/my-community-contributions-21ef",
+          "url": "https://dev.to/devpato/",
           "linkType": "Blog"
         }
       ],
@@ -1848,6 +1873,16 @@
           "title": "Twitter",
           "url": "https://twitter.com/rob_rich",
           "linkType": "Twitter"
+        },
+        {
+          "title": "Blog",
+          "url": "https://robrich.org/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "GitHub",
+          "url": "https://github.com/robrich/",
+          "linkType": "Other"
         }
       ],
       "sessions": [
@@ -1966,33 +2001,6 @@
       "questionAnswers": []
     },
     {
-      "id": "13ef9500-a5c9-470b-8580-841c6d4915d2",
-      "firstName": "Shalabh",
-      "lastName": "Vyas",
-      "bio": "Tech Lead on the Text Editor Team that is focussed on building Content Creation and Engagement capabilities for Facebook employees and Facebook's external products for content creators and enterprises. Developed domain expertise in the field of Word Processing and Rich Text Editing working in this space. \r\n\r\nPart of the Experts Panel at Smashing Magazine (https://www.smashingmagazine.com/) reviewing articles that go on there. Have written articles around Rich Text Editing as well (https://www.smashingmagazine.com/author/shalabh-vyas/)",
-      "tagLine": "Senior Software Engineer - Meta",
-      "profilePicture": "https://sessionize.com/image/4db6-400o400o2-MZZCzE2vtThHdWTfy6nRiR.jpeg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/shalabhvyas/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://about.facebook.com/meta",
-          "linkType": "Company_Website"
-        }
-      ],
-      "sessions": [
-        317644
-      ],
-      "fullName": "Shalabh Vyas",
-      "categoryItems": [],
-      "questionAnswers": []
-    },
-    {
       "id": "8500ffde-a07d-40ad-8c9f-e35b97359bee",
       "firstName": "Sierra",
       "lastName": "OBryan",
@@ -2021,6 +2029,38 @@
         311688
       ],
       "fullName": "Sierra OBryan",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a5d50f4e-f021-4983-97a9-73f9415b3d5b",
+      "firstName": "Steve",
+      "lastName": "Smith",
+      "bio": "Steve Smith (@ardalis) is an entrepreneur and software developer with a passion for building quality software as effectively as possible. Steve has published several courses on Pluralsight, covering DDD, SOLID, design patterns, and software architecture. He's a Microsoft ASP.NET MVP and Insider, a frequent speaker at developer conferences, an author, and a trainer.\r\n\r\nSteve works with companies that want to avoid the trap of technical debt by helping their teams deliver quality software, quickly. Steve and his team have been described by clients as a \"force multiplier\", amplifying the value of existing development teams. Steve's client list includes Microsoft, Quicken Loans, Celina Insurance, and many other satisfied customers.",
+      "tagLine": "I Help Teams Deliver Better Software",
+      "profilePicture": "https://sessionize.com/image/f430-400o400o2-4e-f021-4983-97a9-73f9415b3d5b.34dc742e-9a1e-4c87-98ad-c6bae9a07972.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/ardalis",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/stevenandrewsmith",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://ardalis.com/blog",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        318087
+      ],
+      "fullName": "Steve Smith",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -2113,6 +2153,11 @@
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/thomas-haver/",
           "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://red-green-refactor.com/",
+          "linkType": "Blog"
         }
       ],
       "sessions": [

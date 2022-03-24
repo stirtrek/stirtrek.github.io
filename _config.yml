@@ -19,8 +19,8 @@ allYears:
   - 2020
   - 2021
   - 2022
-showSchedule: false
-showSessionList: true
+showSchedule: true
+showSessionList: false
 showSpeakers: true
 # If you'd like to show the speaker survey link in the schedule, you need to turn this on and configure it
 # Add a custom speaker question and put hte name in "surveyQuestionName"
@@ -28,19 +28,6 @@ showSurveyOnSchedule: false
 surveyUrl: https://docs.google.com/forms/d/e/1FAIpQLSdB_bb2bX1qDfCDvIX_Fgm431l1a-CFqqRZyO-Ja6F0RX6Rxg/viewform?usp=pp_url&entry.847701887=
 surveyQuestionName: SurveyFeedbackToken 
 
-
-# Sets up the room order for the schedule
-# Order here matters and effects the schedule display
-theaterRoomNames:
-  - 'Live Stream'
-  # - 'HMB'
-  # - 'OCLC'
-  # - 'Revel IT'
-  # - 'DMG'
-  # - 'CAS'
-  # - 'Manifest'
-  # - 'ComResource'
-  # - 'Concourse'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

@@ -1,5 +1,246 @@
 {
   "scheduledSessions": {
-    "timeSlots": []
+    "timeSlots": [
+      {
+        "time": "7:30 AM",
+        "sessions": [
+          {
+            "id": "243199c4-5336-44b6-bed1-ee6c06a4d3cb",
+            "scheduledRoom": "Concourse"
+          }
+        ]
+      },
+      {
+        "time": "8:30 AM",
+        "sessions": [
+          {
+            "id": "313157",
+            "scheduledRoom": "A"
+          },
+          {
+            "id": "318036",
+            "scheduledRoom": "B"
+          },
+          {
+            "id": "314461",
+            "scheduledRoom": "C"
+          },
+          {
+            "id": "317397",
+            "scheduledRoom": "D"
+          },
+          {
+            "id": "318346",
+            "scheduledRoom": "E"
+          },
+          {
+            "id": "312642",
+            "scheduledRoom": "F"
+          },
+          {
+            "id": "318231",
+            "scheduledRoom": "G"
+          },
+          {
+            "id": "318087",
+            "scheduledRoom": "H"
+          }
+        ]
+      },
+      {
+        "time": "9:45 AM",
+        "sessions": [
+          {
+            "id": "315626",
+            "scheduledRoom": "A"
+          },
+          {
+            "id": "318022",
+            "scheduledRoom": "B"
+          },
+          {
+            "id": "312323",
+            "scheduledRoom": "C"
+          },
+          {
+            "id": "316882",
+            "scheduledRoom": "D"
+          },
+          {
+            "id": "317084",
+            "scheduledRoom": "E"
+          },
+          {
+            "id": "317917",
+            "scheduledRoom": "F"
+          },
+          {
+            "id": "314365",
+            "scheduledRoom": "G"
+          },
+          {
+            "id": "311601",
+            "scheduledRoom": "H"
+          }
+        ]
+      },
+      {
+        "time": "11:00 AM",
+        "sessions": [
+          {
+            "id": "314546",
+            "scheduledRoom": "A"
+          },
+          {
+            "id": "317934",
+            "scheduledRoom": "B"
+          },
+          {
+            "id": "317455",
+            "scheduledRoom": "C"
+          },
+          {
+            "id": "315461",
+            "scheduledRoom": "D"
+          },
+          {
+            "id": "312507",
+            "scheduledRoom": "E"
+          },
+          {
+            "id": "312346",
+            "scheduledRoom": "F"
+          },
+          {
+            "id": "316014",
+            "scheduledRoom": "G"
+          },
+          {
+            "id": "312631",
+            "scheduledRoom": "H"
+          }
+        ]
+      },
+      {
+        "time": "12:00 PM",
+        "sessions": [
+          {
+            "id": "6c62c958-71c5-40f3-bbfa-475e978029a9",
+            "scheduledRoom": "Concourse"
+          }
+        ]
+      },
+      {
+        "time": "1:00 PM",
+        "sessions": [
+          {
+            "id": "312871",
+            "scheduledRoom": "A"
+          },
+          {
+            "id": "317569",
+            "scheduledRoom": "B"
+          },
+          {
+            "id": "313868",
+            "scheduledRoom": "C"
+          },
+          {
+            "id": "316511",
+            "scheduledRoom": "D"
+          },
+          {
+            "id": "317925",
+            "scheduledRoom": "E"
+          },
+          {
+            "id": "317998",
+            "scheduledRoom": "F"
+          },
+          {
+            "id": "313943",
+            "scheduledRoom": "G"
+          },
+          {
+            "id": "311318",
+            "scheduledRoom": "H"
+          }
+        ]
+      },
+      {
+        "time": "2:15 PM",
+        "sessions": [
+          {
+            "id": "317402",
+            "scheduledRoom": "A"
+          },
+          {
+            "id": "318464",
+            "scheduledRoom": "B"
+          },
+          {
+            "id": "311505",
+            "scheduledRoom": "C"
+          },
+          {
+            "id": "315410",
+            "scheduledRoom": "D"
+          },
+          {
+            "id": "317393",
+            "scheduledRoom": "E"
+          },
+          {
+            "id": "311688",
+            "scheduledRoom": "F"
+          },
+          {
+            "id": "312475",
+            "scheduledRoom": "G"
+          },
+          {
+            "id": "313378",
+            "scheduledRoom": "H"
+          }
+        ]
+      },
+      {
+        "time": "3:30 PM",
+        "sessions": [
+          {
+            "id": "311864",
+            "scheduledRoom": "A"
+          },
+          {
+            "id": "316964",
+            "scheduledRoom": "B"
+          },
+          {
+            "id": "314164",
+            "scheduledRoom": "C"
+          },
+          {
+            "id": "311609",
+            "scheduledRoom": "D"
+          },
+          {
+            "id": "314118",
+            "scheduledRoom": "E"
+          },
+          {
+            "id": "317303",
+            "scheduledRoom": "F"
+          },
+          {
+            "id": "314876",
+            "scheduledRoom": "G"
+          },
+          {
+            "id": "317654",
+            "scheduledRoom": "H"
+          }
+        ]
+      }
+    ]
   }
 }

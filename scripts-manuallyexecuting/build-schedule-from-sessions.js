@@ -22,15 +22,22 @@ const sessionData = JSON.parse(rawSessionData);
 const scheduleOutputLocation = `./source/_data/schedule${currentYear}.json`;
 
 // Take the room names and figure out the Sessionize IDs for them
-const theaterRoomNames = config.theaterRoomNames;
+// const theaterRoomNames = config.theaterRoomNames;
 let theaterRoomNamesAndIds = [];
-for(roomName of theaterRoomNames) {
-    theaterRoomNamesAndIds.push(
-        {
-            id: sessionData.rooms.find(room => room.name === roomName).id,
-            name: roomName
-        })
-}
+sessionData.rooms.forEach(room => {
+    theaterRoomNamesAndIds.push({
+        id: room.id,
+        name: room.name
+    })
+});
+theaterRoomNamesAndIds.sort(room => {room.name});
+// for(roomName of theaterRoomNames) {
+//     theaterRoomNamesAndIds.push(
+//         {
+//             id: sessionData.rooms.find(room => room.name === roomName).id,
+//             name: roomName
+//         })
+// }
 
 // Figure out our session start times
 let startTimes = sessionData.sessions.map(session => session.startsAt);

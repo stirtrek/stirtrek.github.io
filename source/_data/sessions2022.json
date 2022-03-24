@@ -1,97 +1,188 @@
 {
   "sessions": [
     {
-      "id": "317402",
-      "title": "6 (or so) new features of .NET 6",
-      "description": ".NET 6 takes us one step closer to the unified .NET platform where dogs and cats get along, Windows and Macs play nice together, and you can use .NET to develop for the Cloud, Mobile, Gaming, IoT, Desktop, AI, and the web.\r\n\r\nSo, what's included in this step?  There's a lot.  Don't worry. I'm here to guide you on this step.  \r\n\r\nWe'll look at the following:\r\n1) C# 10 language features\r\n2) ASP.NET Changes\r\n3) Maui, no, not the beach\r\n4) Performance improvements\r\n5) New APIs\r\n6) Other enhancements\r\n\r\nWe'll wrap up the talk by looking at where we are on the journey to the unification of .NET.  \r\n\r\nWhen the talk is over, if not during, you'll want to download .NET and start using .NET to make your life as a developer easier. ",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
+      "id": "243199c4-5336-44b6-bed1-ee6c06a4d3cb",
+      "title": "Arrival & Breakfast",
+      "description": null,
+      "startsAt": "2022-05-06T07:30:00",
+      "endsAt": "2022-05-06T08:30:00",
+      "isServiceSession": true,
       "isPlenumSession": false,
-      "speakers": [
-        "137fb55c-d120-4a6b-9e15-98123df17302"
-      ],
-      "categoryItems": [
-        105568
-      ],
+      "speakers": [],
+      "categoryItems": [],
       "questionAnswers": [],
-      "roomId": null,
+      "roomId": 24653,
       "liveUrl": null,
       "recordingUrl": null
     },
     {
-      "id": "317303",
-      "title": "Advanced Kubernetes Troubleshooting with Open Source Tools",
-      "description": "As engineers, operators, and administrators, we grapple with vexing and expensive problems. Support bottlenecks caused by technical language barriers, differing time zones, incomplete information, and other typically minor issues can extend the time between identifying an issue and resolving it by hours or even days. Fortunately, a fully open source toolset available called Troubleshoot can drastically reduce the time between diagnosis and solution.\r\n\r\nThis lightweight, fully customizable Kubernetes plugin consists of two parts - preflight and support-bundle. Troubleshoot is capable of collecting, analyzing, and packaging the data needed to get and keep your cluster operating at peak functionality. If it sounds too good to be true, just wait - it gets even better. \r\n\r\nJoin our live lab to see tiny-yet-mighty troubleshoot.sh in action in a live demo, plus the opportunity to learn how to customize troubleshoot components to fit your needs.",
-      "startsAt": null,
-      "endsAt": null,
+      "id": "313157",
+      "title": "Hacking Your Vacation: Using Data for Fun",
+      "description": "Data can be powerful, meaningful, AND fun. Making data-driven decisions can level up your family vacation from awful to awesome. In this session, attendees will walk through a specific example showing how to analyze various data sources to avoid crowds, save money, and piece together a Disney World vacation that's more enjoyable for everyone. By walking through this example, attendees will learn a repeatable framework for strategically attacking real-life problem sets: set goals, identify appropriate data sets, and then use the results to get curious and ask more questions!",
+      "startsAt": "2022-05-06T08:30:00",
+      "endsAt": "2022-05-06T09:30:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "584cd7ed-bf36-4838-a841-5cc81be3fc78"
-      ],
-      "categoryItems": [
-        105571
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "313378",
-      "title": "At The Helm of Kubernetes: Repeatable Infrastructure Creation for Mere Mortals",
-      "description": "As we get deeper into Kubernetes yaml files, we see a lot of duplication. Can we move to a higher level that eliminates this duplication? Let's look at Helm, a tool both for templating k8s yaml files and for installing complex infrastructure dependencies as one package. With Helm 3, we now have deeper integration and more security when working with Kubernetes. Join us on this path to a simpler, more repeatable, and more discoverable yaml experience.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "e2187bee-02a6-492b-9706-452f5748f473"
-      ],
-      "categoryItems": [
-        105561
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "312631",
-      "title": "Automating your smarthome without the cloud",
-      "description": "Modern \"smart\" homes are dumb; your doorbell shouldn't stop working because your Internet is down, and your guests shouldn't need to borrow your phone to turn on the lights.\r\n\r\nA smarter home doesn't depend on cloud services or a disparate array of apps to function, and it's easier than you might think to achieve total local control. A Raspberry Pi, a bit of DIY elbow grease, and this session are all you need to get started. No soldering required!\r\n\r\nIn this session you'll learn how to choose and install a local hub (Home Assistant vs Hubitat vs HomeKit), which devices work best (Zigbee vs Z-Wave vs Wifi), and how to integrate cameras, lights, and sensors without the cloud. You'll also learn how to get insights into your home's data using InfluxDB and Grafana.\r\n\r\nCome take a tour through the land of smart, local home automation and stop being dependent on someone else's computers!",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "b7235790-4c4a-491c-a8a1-1ed82a5d70b3"
-      ],
-      "categoryItems": [
-        105562
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "316882",
-      "title": "Azure Synapse Analytics Pipelines: a 360-degree view",
-      "description": "Learn how to leverage Azure Synapse Analytics pipelines in enterprise-scale data workloads. We will discuss components associated with running a pipeline, such as linked services, datasets, triggers, and integration runtime. We will review activities and control structures commonly used in data orchestrations. We will also discuss leveraging data flows for code-free data transformations and the flexibility to drop down to code should the need arise. We will cover monitoring and debugging techniques, how to plan for a non-happy path scenario - as well as touch on performance optimizations for your data workloads.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "1dcd0ca7-4052-4f43-998e-4f895ebd6614"
+        "96b450ce-42d0-48e2-8fa2-4fb9758ea38d"
       ],
       "categoryItems": [
         105569
       ],
       "questionAnswers": [],
-      "roomId": null,
+      "roomId": 22922,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "318036",
+      "title": "Stop deploying at 6 am, and get a good night sleep",
+      "description": "Your customers are expecting to always be able to access your application so why are you stopping them by taking your application down to release new code? Learn how to deploy your code with zero downtime. In this session for developers, we will talk about blue-green, and canary deploys, and versioning your API. Utilizing these techniques, you can speed up the rate at which you deploy features to customers, reduced failed builds, and get a good night’s sleep.",
+      "startsAt": "2022-05-06T08:30:00",
+      "endsAt": "2022-05-06T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "4a393844-5430-4900-b9ab-64e76e330d88"
+      ],
+      "categoryItems": [
+        105571
+      ],
+      "questionAnswers": [],
+      "roomId": 22923,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "314461",
+      "title": "The Spy of Testadel: a unit-testing medieval tale",
+      "description": "When people get started with unit testing, they often get stumped when it comes to testing functions that have side effects. This talk is a gentle introduction to some of the concepts involved in testing side effects. \r\n\r\nThe year is 1452. An uneasy truce between the kingdom of Testadel and the fiefdom of its neighbour, Sir SideEffects, is on the verge of collapse. Follow along as our hero, a court jester aptly named Jest, infiltrates the enemy's camp to gather information, and uncover Sir SideEffects' treachery.\r\n\r\nThrough the clever - I think - use of an allegory, this talk will answer:\r\n- What is the difference between a pure function and a function with side-effects. \r\n- Why testing functions with side-effects is usually harder. \r\n- What strategies can be employed to test functions with side-effects, and their tradeoffs. \r\n- What are spies and how to use them.\r\n- What libraries can help with testing side-effects.",
+      "startsAt": "2022-05-06T08:30:00",
+      "endsAt": "2022-05-06T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "36ded5fa-6f6d-478f-90f1-8aff51c1e38c"
+      ],
+      "categoryItems": [
+        105566
+      ],
+      "questionAnswers": [],
+      "roomId": 22924,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "317397",
+      "title": "Remix: Is it worth the hype?",
+      "description": "Remix is a hot new web framework from the team that created React Router. It's gotten a lot of attention lately in association with some bold claims like shipping less JavaScript to the client and embracing the foundational principles of the web. Does Remix actually help us build real, useful apps more easily or is it just another web framework flash in the pan?",
+      "startsAt": "2022-05-06T08:30:00",
+      "endsAt": "2022-05-06T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0763d191-56a5-4a96-b8b5-b7e4a32cd132"
+      ],
+      "categoryItems": [
+        105572
+      ],
+      "questionAnswers": [],
+      "roomId": 24633,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "318346",
+      "title": "The Value of a Small PR (Pull Request)",
+      "description": "Sometimes we try to ship work in the size that it was given to us. If you’ve ever had to ship a sprint’s worth of work in a single PR and had problems getting through the review process this talk is for you. ",
+      "startsAt": "2022-05-06T08:30:00",
+      "endsAt": "2022-05-06T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "aae8e930-83f8-45be-b1a9-d47075235565"
+      ],
+      "categoryItems": [
+        105560
+      ],
+      "questionAnswers": [],
+      "roomId": 24635,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "312642",
+      "title": "Looking ahead using Wardley Maps",
+      "description": "In a company, department, or team, we will often talk about “strategy”.  This term is rarely well defined, or at least not defined in a way that is useful.  It usually means that we need to see into the future to outmaneuver our competition, or at least to navigate a changing market and competitive landscape.  Traditional tools are limited in their ability to help us which lead Simon Wardley to create maps that have helped him (and now others) to understand the current landscape as well as see common patterns that can allow you to “predict the future”.\r\n\r\nIn this session, Mike introduces Wardley Maps, the different ways they can be used for understanding the strategic landscape, and aid in strategic decision making.\r\n",
+      "startsAt": "2022-05-06T08:30:00",
+      "endsAt": "2022-05-06T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "895a51db-5074-4a89-8fb6-e2d97be4f322"
+      ],
+      "categoryItems": [
+        105564
+      ],
+      "questionAnswers": [],
+      "roomId": 24634,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "318231",
+      "title": "Caring for New Users: Adoption, Onboarding, Empty States, Feedback Herding, Friction, Hooks & More!",
+      "description": "What does it take to craft a great experience for new users of our product? Once we're ready to move past MVP-stage, having learned what we needed to learn, there's still more to think about than merely what capability to give our earliest adopters and how that translates into functionality for the team to build and scale. Even if you're late to the game, there are always new users to care for with established products too.\r\n\r\nEnter the concept of \"New UX\". It's a quintessential component of product design. This session explores the idea of transforming new users into power users. It'd be nice if we could all hone our intuition skills and create absolutely 100% intuitive products 100% of the time, but that's more fantasy than reality. So we must leverage techniques that help us make our new users feel awesome!\r\n\r\nYou'll learn: \r\n* How to overcome the struggle to drive adoption\r\n* Considerations for short attention spans, limited scratch memory, temporary disabilities, and avoiding subjecting new users to cognitive load & burnout.\r\n* The many types of onboarding, and which method is optimal for our users' in learning how to use our app.\r\n* Permission priming, permission pouncing and other concerns for user privacy when our apps need access beyond various device limitations.\r\n* What empty states are, and how you need to think about them in the context of your product and your users' goals in order to make them useful as well as delightful.\r\n* Sources of friction in the experience and in growing our user base.\r\n* How we can keep new users coming back, through consideration of habit formation tactics",
+      "startsAt": "2022-05-06T08:30:00",
+      "endsAt": "2022-05-06T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "88770e94-e146-41db-b936-1989b265ed8d"
+      ],
+      "categoryItems": [
+        105570
+      ],
+      "questionAnswers": [],
+      "roomId": 24636,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "318087",
+      "title": "Clean Architecture with ASP.NET Core 6",
+      "description": "Clean Architecture (aka Onion, Hexagonal, Ports-and-Adapters) organizes your code in a way that limits its dependencies on infrastructure concerns. Learn how to apply it to your ASP.NET Core apps!",
+      "startsAt": "2022-05-06T08:30:00",
+      "endsAt": "2022-05-06T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
+      ],
+      "categoryItems": [
+        105572
+      ],
+      "questionAnswers": [],
+      "roomId": 24637,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "315626",
+      "title": "Overcoming Losing Your Job",
+      "description": "Hi, my name is Mike, and I've been laid off. Chances are, you or someone you know will suffer job loss at some point during your career. Whether it's being fired or laid off, I have some tips and strategies to help you get through it and back on your feet -- as well as what everyone should be doing when times are good.",
+      "startsAt": "2022-05-06T09:45:00",
+      "endsAt": "2022-05-06T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3740f3a7-86e3-4d66-8f48-16790a13fccb"
+      ],
+      "categoryItems": [
+        105564
+      ],
+      "questionAnswers": [],
+      "roomId": 22922,
       "liveUrl": null,
       "recordingUrl": null
     },
@@ -99,8 +190,8 @@
       "id": "318022",
       "title": "Building a Graph Based Infrastructure",
       "description": "Knowledge graphs are one of the tech buzz words that have come to dominate the industry in recent years. But what is the value of a knowledge graph and more importantly how does one build a knowledge graph with existing data? This presentation will describe the steps OCLC took to architect and design a graph based infrastructure, develop a new data model (ontology), and process existing data to produce a knowledge graph that will help power future applications and services.",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2022-05-06T09:45:00",
+      "endsAt": "2022-05-06T10:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -111,558 +202,7 @@
         105560
       ],
       "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "317998",
-      "title": "Building Microservice REST APIs Using Azure Functions",
-      "description": "The microservice pattern serves as an excellent practice in building modern applications to be more resilient and reduce dependencies across the multiple parts of a product.  But generally, these involve complex web frameworks and containerization to get those benefits.  But using Azure Functions, we can develop more concise services even quicker and get many of the benefits of serverless technology without lots of operational management.  In this session, we’ll explore Azure Functions and see how they can be used to build out a microservice-based solution.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "76842364-2733-4aea-a940-7c81195e5120"
-      ],
-      "categoryItems": [
-        105561
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "318231",
-      "title": "Caring for New Users: Adoption, Onboarding, Empty States, Feedback Herding, Friction, Hooks & More!",
-      "description": "What does it take to craft a great experience for new users of our product? Once we're ready to move past MVP-stage, having learned what we needed to learn, there's still more to think about than merely what capability to give our earliest adopters and how that translates into functionality for the team to build and scale. Even if you're late to the game, there are always new users to care for with established products too.\r\n\r\nEnter the concept of \"New UX\". It's a quintessential component of product design. This session explores the idea of transforming new users into power users. It'd be nice if we could all hone our intuition skills and create absolutely 100% intuitive products 100% of the time, but that's more fantasy than reality. So we must leverage techniques that help us make our new users feel awesome!\r\n\r\nYou'll learn: \r\n* How to overcome the struggle to drive adoption\r\n* Considerations for short attention spans, limited scratch memory, temporary disabilities, and avoiding subjecting new users to cognitive load & burnout.\r\n* The many types of onboarding, and which method is optimal for our users' in learning how to use our app.\r\n* Permission priming, permission pouncing and other concerns for user privacy when our apps need access beyond various device limitations.\r\n* What empty states are, and how you need to think about them in the context of your product and your users' goals in order to make them useful as well as delightful.\r\n* Sources of friction in the experience and in growing our user base.\r\n* How we can keep new users coming back, through consideration of habit formation tactics",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "88770e94-e146-41db-b936-1989b265ed8d"
-      ],
-      "categoryItems": [
-        105570
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "318087",
-      "title": "Clean Architecture with ASP.NET Core 6",
-      "description": "Clean Architecture (aka Onion, Hexagonal, Ports-and-Adapters) organizes your code in a way that limits its dependencies on infrastructure concerns. Learn how to apply it to your ASP.NET Core apps!",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
-      ],
-      "categoryItems": [
-        105572
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "317917",
-      "title": "Create the Spark of Brand Engagement with SparkAR",
-      "description": "Learn how to use SparkAR to build awareness and engagement with your brand or cause.  SparkAR is the platform used by Facebook, Instagram, and Oculus to build AR and VR experiences.  In this session, we'll review three different ways that you can use SparkAR to build your brand and reach your target audience.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "b502acc8-1863-4d4b-ba6e-9a2a4cf240ba"
-      ],
-      "categoryItems": [
-        105567
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "317925",
-      "title": "Defensive Coding Bootcamp",
-      "description": "Do you build things that can be hacked? Want to lower those odds? Join us to learn the basics of security vulnerabilities and evasive coding maneuvers that can make your software more secure, every time. Geared for developers of all skill levels, this code-centric talk will be present code samples and essential fundamentals that apply to every language. ",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "da1a1990-71d2-45dd-a213-c04430b64d87"
-      ],
-      "categoryItems": [
-        105568
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "318464",
-      "title": "Dependable Realtime Payments Management with Kafka",
-      "description": "With people around the world sheltering at home due to the global pandemic, last 2 year have accelerated the transition of banking and financial services to provide real time data from multiple sources onto a single digital channel in near realtime.The traditional integrated banking model is under tremendous stress and rapidly evolving.\r\nIn this session we will explore the use case in which Kafka will be used to enable a software talk to another software in a bank to give customer a smooth journey and access to the latest customer information across channels. We will be deep diving into banking ecosystem which has its backend built using Kafka-centric pipeline and is exposed to end-users through a REST API layer. All incoming requests from banking app users are written to a single inbound Kafka topic.which has data going into ksqlDB for filtering. Data from these topics is then consumed and processed by various (micro)services via Kafka consumer Topics to b e send out to costumers.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "1d5b4156-c5dd-4995-982d-ecce66fe76eb"
-      ],
-      "categoryItems": [
-        105560
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "312871",
-      "title": "DevOps at Netflix",
-      "description": "Netflix is a global leader in video streaming and has always been known in the valley for its culture document, a seminal work in setting the context about culture.\r\nIn this session, I will shed light on how Netflix thinks about DevOps, how our culture permeates our thought on Agile practices, DevOps, and development.\r\nIt would be a great way to get a glimpse of how loosely coupled and highly aligned Netflix is, and participants can apply some parts of our culture to their organizations.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "0e577c69-f95e-4044-a53c-d626732f2bb6"
-      ],
-      "categoryItems": [
-        105571
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "314365",
-      "title": "Do you really need a community?",
-      "description": "Community is becoming a buzzword for companies,  but despite some buy-in, there's an accumulation of quiet slacks, discords, and other \"community\" spaces. The excitement to join the latest trend jumps right past the question of whether or not we even need another community in tech. Before starting a new community, there should be a deliberate process of community discovery, mission-building, and company buy-in. This talk will go through that process before making the decision to start a community.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "56c61683-ff6d-4bad-bd80-59dee59b5b87"
-      ],
-      "categoryItems": [
-        105567
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "316511",
-      "title": "Don’t Build a Distributed Monolith: How to Avoid Doing Microservices Completely Wrong",
-      "description": "As a consultant, I get to see many systems built by many different developers. Recently, I’ve seen an uptick in the number of systems built with a microservice architecture in mind, but those systems often include a lot of the same mistakes that keep them from working well. \r\n\r\nIn this session you’ll learn from my experiences and get pointers on what to avoid in your microservices implementations so that you don’t accidentally build something which has all the worst aspects of a monolithic application and the worst aspects of microservices These monsters are what I call “distributed monoliths”, and I can help you avoid building one accidentally. ",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "d108027a-7e26-46f5-b92d-9f6cb59eb283"
-      ],
-      "categoryItems": [
-        105560
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "317455",
-      "title": "Evolving your APIs, a step-by-step approach",
-      "description": "When you publish your first HTTP API, you’re more focused on short-term issues than planning for the future. However, chances are you’ll be successful, and you’ll “hit the wall”. How do you evolve your API without breaking the contract with your existing users?\r\n\r\nIn this talk, I’ll first show you some tips and tricks to achieve that: moving your endpoints, deprecating them, monitoring who’s using them, and letting users know about the new endpoints. The talk is demo-based, and I’ll use the Apache APISIX project for it.\r\n",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "9c904945-768e-4597-b942-6be90cf4d731"
-      ],
-      "categoryItems": [
-        105560
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "315410",
-      "title": "Failing Successfully",
-      "description": "Failure is normal. It’s so normal that many software development teams encourage people to fail and fail fast. Failure is also scary. It makes us feel vulnerable. We may even worry that our jobs, relationships, or goals are on the line. Yet we hear countless stories of people turning failure into success in seemingly magical ways. This session will teach you what’s behind that magic. You’ll discover how to help yourself and others fail successfully. You’ll learn how to reflect on failures and apply those reflections in the future. Because success is hard to see in the midst of failure, we’ll also discuss techniques for surviving the challenging times. With this knowledge, you can use your failures as the building blocks of your own seemingly magical successes. ",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "2ab36140-1f0d-46b1-85f5-c8f0222a4c4c"
-      ],
-      "categoryItems": [
-        105564
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "311609",
-      "title": "Gain visibility into your apps with Azure Application Insights",
-      "description": "In the world of constantly evolving apps and continuous deployments, knowing what is happening with your app and users can make or break your customer experience. You want to proactively detect issues as they occur and fix them, before they start affecting your users. Application Insights, an intelligent Application Performance Monitoring service, provides instant analytics over your application logs and telemetry. It includes fast, easy, and non-intrusive analytics tools to interactively diagnose problems and answer challenging questions. It also integrates seamlessly with your existing DevOps workflows. For instance, you can surface performance data in Visual Studio, link to releases and work items in Visual Studio Team Services, and access telemetry in Azure Monitor. Join me to experience the latest capabilities through a live demo and learn about our strategy and roadmap.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "1891b260-8833-46ec-b5bc-907c0105f730"
-      ],
-      "categoryItems": [
-        105568
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "313157",
-      "title": "Hacking Your Vacation: Using Data for Fun",
-      "description": "Data can be powerful, meaningful, AND fun. Making data-driven decisions can level up your family vacation from awful to awesome. In this session, attendees will walk through a specific example showing how to analyze various data sources to avoid crowds, save money, and piece together a Disney World vacation that's more enjoyable for everyone. By walking through this example, attendees will learn a repeatable framework for strategically attacking real-life problem sets: set goals, identify appropriate data sets, and then use the results to get curious and ask more questions!",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "96b450ce-42d0-48e2-8fa2-4fb9758ea38d"
-      ],
-      "categoryItems": [
-        105569
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "312475",
-      "title": "How Product-Focused Companies Optimize For Developer Autonomy",
-      "description": "Modern technology-fueled product companies are revolutionizing the way that software gets built.  Heavy handed process, bureaucracy, and control are eschewed in favor of cross-functional autonomous teams of problem solvers that are empowered to move quickly and solve big problems - all while growing and scaling exponentially.  This talk is about how our imperfect group at Upstart is following this path to achieve autonomy and iterative problem solving at scale.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "939a2aa4-5262-4aea-8908-d19d306687d3"
-      ],
-      "categoryItems": [
-        105567
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "312346",
-      "title": "Intro to Machine Learning for Application Developers",
-      "description": "In this session we will be diving into multiple code-along examples to get started with popular AI/ML tools and frameworks. The goal is to create enough understanding for application developers to immediately leverage simple ML models in their day to day development.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "ec39cf2a-698f-42d4-aa32-0ed7648c243d"
-      ],
-      "categoryItems": [
-        105568
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "314876",
-      "title": "IoT, JavaScript and Beer Brewing: Cheers to that!",
-      "description": "Beer brewing can be fun, but combining brewing with IoT device hacking is even more fun. It is possible to connect and collect data about almost anything, including the fermentation process inside a closed fermenter using open source technologies. In this presentation, the speaker will introduce basic concepts of IoT devices, how to collect the data efficiently and how to use various tools to store, extract and manipulate that data. And if you’re new to beer brewing, don’t worry; you will also learn a thing or two about that as well!",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "5a111e09-2922-4aff-a0eb-9b6691b6e8b2"
-      ],
-      "categoryItems": [
-        105562
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "316964",
-      "title": "Jason On JSON",
-      "description": "JSON is all around us in the systems we use every day. Many systems use it for configuration, data interchange and logging. SQL server 2016 introduced native support for JSON, but when should we use this new capability? and how can we ensure optimal performance? Join Microsoft Master of SQL Server Jason Horner as we look at the basics of JSON and how to query, transform, and store it. Whether you are working with a data warehouse or transactional processing system working with sql server on premises or in the cloud. This session will get you up to speed.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "8cfab663-b768-4828-9ff5-89f8ecf47a09"
-      ],
-      "categoryItems": [
-        105569
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "312642",
-      "title": "Looking ahead using Wardley Maps",
-      "description": "In a company, department, or team, we will often talk about “strategy”.  This term is rarely well defined, or at least not defined in a way that is useful.  It usually means that we need to see into the future to outmaneuver our competition, or at least to navigate a changing market and competitive landscape.  Traditional tools are limited in their ability to help us which lead Simon Wardley to create maps that have helped him (and now others) to understand the current landscape as well as see common patterns that can allow you to “predict the future”.\r\n\r\nIn this session, Mike introduces Wardley Maps, the different ways they can be used for understanding the strategic landscape, and aid in strategic decision making.\r\n",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "895a51db-5074-4a89-8fb6-e2d97be4f322"
-      ],
-      "categoryItems": [
-        105564
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "311864",
-      "title": "Mental Health in Tech - Improving Mental Wellness",
-      "description": "Professionals in Technology often push themselves to a breaking point with the pace at which we work. Given the stress of the workplace in all times, but especially in the current state, it's crucial to maintain a healthy mind as it's our most important resource.  \r\nLet's discuss ways we can begin to engage and talk more about mental wellness, learn strategies as leaders, and identify resources both for ourselves and our teams.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "cf5463ec-f27e-40ef-9f56-92c3c5f072aa"
-      ],
-      "categoryItems": [
-        105564
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "317654",
-      "title": "Mobile & Desktop Apps with Blazor!",
-      "description": "With Blazor, developers get to build modern web apps with C#/.NET, running on server or fully client-side through WebAssembly. But Blazor’s flexibility can also be leveraged to target mobile & desktop form factors.\r\n\r\nBlazor is very suitable for writing Progressive Web Apps (PWAs) that are excellent web citizens on mobile devices. Blazor can also be used to build truly native or hybrid cross-platform apps, thus inviting .NET web developers into mobile land and sharing code better. Powered by .NET MAUI under the covers, developers get to benefit from native UI & performance, while writing Blazor syntax for the UI abstraction. For desktop, Blazor apps can be wrapped inside Electron-like shells, but modern runtimes demand more lightweight WebViews – .NET MAUI provides the perfect bootstrapping and Blazor Hybrid is here to power desktop apps on MacOS & Windows.\r\n\r\nThe familiarity of Blazor component model, Razor rendering engine, CSS styling & extensibility can now be applied towards building mobile & desktop apps, all the while sharing code with web. You game?\r\n",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "fc1d0cd3-9675-4188-aa98-e0088069f1a4"
-      ],
-      "categoryItems": [
-        105563
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "315626",
-      "title": "Overcoming Losing Your Job",
-      "description": "Hi, my name is Mike, and I've been laid off. Chances are, you or someone you know will suffer job loss at some point during your career. Whether it's being fired or laid off, I have some tips and strategies to help you get through it and back on your feet -- as well as what everyone should be doing when times are good.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "3740f3a7-86e3-4d66-8f48-16790a13fccb"
-      ],
-      "categoryItems": [
-        105564
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "317084",
-      "title": "OWASP Top 10: 2021 Edition",
-      "description": "The OWASP Top 10 is a data-driven collection of the ten most critical web application security concerns, with the goal of bringing more general awareness to developers and organizations. Although it is not meant as a security standard, it provides the minimum first-step for identifying and remediating web applications risks.\r\n\r\nThis is the first update to the OWASP Top 10 since 2017 and only the 7th update since it’s inception in 2003. So what’s changed in those years? Review the top 10 security risks for web applications and the new additions for 2021, how to begin adopting them for your team or organization as part of your secure coding standard, and what you can do as a developer to design and build web applications that mitigate them.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "fb604c95-4153-4540-8d13-0aab25c3a61f"
-      ],
-      "categoryItems": [
-        105565
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "314164",
-      "title": "Project Zero or Removing barriers for creating OSS libraries",
-      "description": "You have a brilliant idea for an open source library. You start this new repository thinking of how bright the future is with your code being use by others. Then reality then sets in. You realize to make all this possible you have to do a lot of non-feature work. You need a project structure, a test framework, a build system, dependency management, continuous integration, deployment, and other tooling. All this is getting in the way of writing a great library you know will change the world!  What if I said you can do all this and more?  This talk will cover MiniScaffold, a dotnet template for getting your project up and running with little effort so you can create the libraries of your dreams.  ",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "5914ecb0-71a2-4556-ad99-767a46636df4"
-      ],
-      "categoryItems": [
-        105560
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "314118",
-      "title": "Putting the FUN back in Fundamentals: Data Structures, Algorithms, and More!",
-      "description": "In this session, we will bring FUN back to Fundamentals as we:\r\n\r\n* Look at favorite data structures and algorithms from the 70s, 80s, and 90s: where are they today? You won't believe #7!\r\n\r\n* Discover why hashes aren't just for breakfast.\r\n\r\n* Discover the Lolrus' favorite data structure (hint: it's got a bukkit).\r\n\r\n* Discover why some searches gallop and others proceed at a snail's pace.\r\n\r\n* Face hard truths: sometimes brute force is the best method.\r\n\r\n* Face harder truths: someone has to maintain the code you write today... and they know where you live.\r\n\r\n* Face the hardest truth: CPU, Memory, Storage, and I/O are not infinite.\r\n\r\nAnd... most importantly... discover the BEST algorithm and the BEST data structure.\r\n",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "bb52359f-7de5-4ab4-be0c-e0fdf39b7134"
-      ],
-      "categoryItems": [
-        105567
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "311601",
-      "title": "Remaking Deprecated HTML Tags with Web Components",
-      "description": "As an ode to myspace and GeoCities, I wanted to be able to make bad looking websites for fun once more. However, I also wanted modern comforts of web development. We'll go through reimplementing several classic HTML elements that have been deprecated, talk through how they are implemented, and how to add extra accessibility so everyone can experience the ease and terribleness of the early internet.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "5c386803-b673-4259-a6ce-d85e1fd0a016"
-      ],
-      "categoryItems": [
-        105572
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "317397",
-      "title": "Remix: Is it worth the hype?",
-      "description": "Remix is a hot new web framework from the team that created React Router. It's gotten a lot of attention lately in association with some bold claims like shipping less JavaScript to the client and embracing the foundational principles of the web. Does Remix actually help us build real, useful apps more easily or is it just another web framework flash in the pan?",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "0763d191-56a5-4a96-b8b5-b7e4a32cd132"
-      ],
-      "categoryItems": [
-        105572
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "311688",
-      "title": "Seeding the Model: Getting started with ML Kit",
-      "description": "ML Kit brings Google’s machine learning expertise to mobile developers (both Android and iOS). The powerful library includes both Vision APIs for image labeling and detection and Natural Language APIs to identify and translate between languages to help developers build engaging and personalized apps. \r\n\r\nIn this talk, we’ll start from the basics and build a native Android app to identify plants using ML Kit. We’ll walk through integrating and using the default Image Labeling Vision API in our app, then dive in and train our own custom model, and finally process real time camera input. ",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "8500ffde-a07d-40ad-8c9f-e35b97359bee"
-      ],
-      "categoryItems": [
-        105563
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "311318",
-      "title": "Stand Back; I'm going to try Data Science!",
-      "description": "Curious about data science and its relation to software engineering? Want to know how to dabble in artificial intelligence or machine learning side projects before taking the plunge? Come learn more about this exciting aspect of computing.\r\n\r\nIn this session I'll highlight my own journey in layering data science skills on top of a software engineering background. I'll teach you the terms, roles, languages, libraries, and technologies you'll commonly encounter and help you understand what aspects of math and programming are helpful in setting down this journey. \r\n\r\nYou'll discover easy ways to get started and get connected to the data science community. I'll show you how to discover public datasets to help inspire your own journey. By the time the session is finished, you'll know how to find out if data science is a good fit for you and how to take it to the next level if you discover you like it.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "17c299ee-d9fd-4020-b499-2837b2b3a2bf"
-      ],
-      "categoryItems": [
-        105569
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "318036",
-      "title": "Stop deploying at 6 am, and get a good night sleep",
-      "description": "Your customers are expecting to always be able to access your application so why are you stopping them by taking your application down to release new code? Learn how to deploy your code with zero downtime. In this session for developers, we will talk about blue-green, and canary deploys, and versioning your API. Utilizing these techniques, you can speed up the rate at which you deploy features to customers, reduced failed builds, and get a good night’s sleep.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "4a393844-5430-4900-b9ab-64e76e330d88"
-      ],
-      "categoryItems": [
-        105571
-      ],
-      "questionAnswers": [],
-      "roomId": null,
+      "roomId": 22923,
       "liveUrl": null,
       "recordingUrl": null
     },
@@ -670,8 +210,8 @@
       "id": "312323",
       "title": "Stop Wasting Your Time on Code Reviews!",
       "description": "Code reviews are often a complete waste of time, which is unfortunate because they can be the most powerful tool in software development. Misconceptions about what code reviews are for and how they should be done keep teams from experiencing the benefits. So let's clear up these misconceptions and talk about a simple and accessible approach to code reviews that engages everyone on your team in a meaningful way and starts generating results from day 1.",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2022-05-06T09:45:00",
+      "endsAt": "2022-05-06T10:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -681,26 +221,102 @@
         105568
       ],
       "questionAnswers": [],
-      "roomId": null,
+      "roomId": 22924,
       "liveUrl": null,
       "recordingUrl": null
     },
     {
-      "id": "315461",
-      "title": "Sustainable Accessibility: Integrating accessibility checks into your CI/CD pipeline",
-      "description": "Accessibility is important, not only for your users but also to meet legal requirements for certain levels of compliance. Unfortunately, most companies lack developers and quality assurance analysts who are trained to produce and test accessible user interfaces to industry-standard levels. Furthermore, dev and qa testing for ADA compliance takes time, and can often be forgotten or de-prioritized by companies that have limited resources. In this talk I will discuss: \r\n    1. Why accessibility is important \r\n    2. The accessibility standards put forth by the ADA in WCAG 2.1 \r\n    3. How we have leveraged automated accessibility testing tools into our CI/CD pipeline \r\n    4. The impact this integration has had on our ability to maintain website accessibility across multiple projects, even when developers have little to no accessibility training going in. ",
-      "startsAt": null,
-      "endsAt": null,
+      "id": "316882",
+      "title": "Azure Synapse Analytics Pipelines: a 360-degree view",
+      "description": "Learn how to leverage Azure Synapse Analytics pipelines in enterprise-scale data workloads. We will discuss components associated with running a pipeline, such as linked services, datasets, triggers, and integration runtime. We will review activities and control structures commonly used in data orchestrations. We will also discuss leveraging data flows for code-free data transformations and the flexibility to drop down to code should the need arise. We will cover monitoring and debugging techniques, how to plan for a non-happy path scenario - as well as touch on performance optimizations for your data workloads.",
+      "startsAt": "2022-05-06T09:45:00",
+      "endsAt": "2022-05-06T10:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "c41c2a92-675d-4ca5-a2ee-794d0954dd8b"
+        "1dcd0ca7-4052-4f43-998e-4f895ebd6614"
       ],
       "categoryItems": [
-        105570
+        105569
       ],
       "questionAnswers": [],
-      "roomId": null,
+      "roomId": 24633,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "317084",
+      "title": "OWASP Top 10: 2021 Edition",
+      "description": "The OWASP Top 10 is a data-driven collection of the ten most critical web application security concerns, with the goal of bringing more general awareness to developers and organizations. Although it is not meant as a security standard, it provides the minimum first-step for identifying and remediating web applications risks.\r\n\r\nThis is the first update to the OWASP Top 10 since 2017 and only the 7th update since it’s inception in 2003. So what’s changed in those years? Review the top 10 security risks for web applications and the new additions for 2021, how to begin adopting them for your team or organization as part of your secure coding standard, and what you can do as a developer to design and build web applications that mitigate them.",
+      "startsAt": "2022-05-06T09:45:00",
+      "endsAt": "2022-05-06T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fb604c95-4153-4540-8d13-0aab25c3a61f"
+      ],
+      "categoryItems": [
+        105565
+      ],
+      "questionAnswers": [],
+      "roomId": 24635,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "317917",
+      "title": "Create the Spark of Brand Engagement with SparkAR",
+      "description": "Learn how to use SparkAR to build awareness and engagement with your brand or cause.  SparkAR is the platform used by Facebook, Instagram, and Oculus to build AR and VR experiences.  In this session, we'll review three different ways that you can use SparkAR to build your brand and reach your target audience.",
+      "startsAt": "2022-05-06T09:45:00",
+      "endsAt": "2022-05-06T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b502acc8-1863-4d4b-ba6e-9a2a4cf240ba"
+      ],
+      "categoryItems": [
+        105567
+      ],
+      "questionAnswers": [],
+      "roomId": 24634,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "314365",
+      "title": "Do you really need a community?",
+      "description": "Community is becoming a buzzword for companies,  but despite some buy-in, there's an accumulation of quiet slacks, discords, and other \"community\" spaces. The excitement to join the latest trend jumps right past the question of whether or not we even need another community in tech. Before starting a new community, there should be a deliberate process of community discovery, mission-building, and company buy-in. This talk will go through that process before making the decision to start a community.",
+      "startsAt": "2022-05-06T09:45:00",
+      "endsAt": "2022-05-06T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "56c61683-ff6d-4bad-bd80-59dee59b5b87"
+      ],
+      "categoryItems": [
+        105567
+      ],
+      "questionAnswers": [],
+      "roomId": 24636,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "311601",
+      "title": "Remaking Deprecated HTML Tags with Web Components",
+      "description": "As an ode to myspace and GeoCities, I wanted to be able to make bad looking websites for fun once more. However, I also wanted modern comforts of web development. We'll go through reimplementing several classic HTML elements that have been deprecated, talk through how they are implemented, and how to add extra accessibility so everyone can experience the ease and terribleness of the early internet.",
+      "startsAt": "2022-05-06T09:45:00",
+      "endsAt": "2022-05-06T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5c386803-b673-4259-a6ce-d85e1fd0a016"
+      ],
+      "categoryItems": [
+        105572
+      ],
+      "questionAnswers": [],
+      "roomId": 24637,
       "liveUrl": null,
       "recordingUrl": null
     },
@@ -708,8 +324,8 @@
       "id": "314546",
       "title": "The Art of Authentication for Web Apps",
       "description": "Authentication and authorization are daunting topics for many developers. Open standards for auth are well defined, but challenging to understand. Terminology and specifications (OAuth, OIDC, JWT, IETF)? How does cookie-based authentication work? How does token-based authentication work, and when do we use different authentication flows? How does application architecture influence the choices we should make when implementing standards-based auth? Let's demystify specs and concepts step-by-step, giving you the knowledge you need to tackle authentication and authorization in your JS apps. We'll dig into the essentials that will enable you to be successful while Getting The Job Done efficiently!",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2022-05-06T11:00:00",
+      "endsAt": "2022-05-06T12:00:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -719,140 +335,7 @@
         105572
       ],
       "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "316014",
-      "title": "The Future of Cross Platform Blazor",
-      "description": "With .NET 6 Blazor can target multiple platforms. In this session we'll explore the various Blazor targets and how to choose between them. Learn the tradeoffs and advantages of: Blazor Hybrid, Blazor Progressive Web Apps (PWAs), and Blazor Electron.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "3fd9cade-10ef-43df-b124-944015042549"
-      ],
-      "categoryItems": [
-        105560
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "311505",
-      "title": "The Rise and Benefits of Robotic Process Automation",
-      "description": "Robotic Process Automation (RPA) is a term given to technology that allows developers to programmatically emulate the actions of a human to execute a business process. RPA often operates on the user interface (UI) layer to capture data or interact with an application or across multiple applications to perform tasks that are considered repetitive or time-consuming. Originally focused on business processes, many RPA solutions now integrate with SDLC tools. While the promises of easy adoption and scaling are made by almost every vendor, the reality is long-term commitment to an RPA program is the same as any new application. In this presentation, the audience will learn about the benefits of RPA, multiple RPA use cases, and how RPA can be assimilated into a enterprise.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "da1f3c6b-ce55-48df-824c-c6f681f77f8c"
-      ],
-      "categoryItems": [
-        105566
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "317569",
-      "title": "The Secret to Fast Performance",
-      "description": "Today's users expect web apps to not only be fast and performant, but to also have amazing designs and features that start fast and stay fast. As the web needs to compete with native apps, performance is a must if we want something that feels as great as a native app. This can be difficult for web developers who are not sure where to begin or how to even approach the problem. \r\n\r\nWe'll look at how we can implement features from a native app that can take your app from stale and boring, to highly interactive and fun — all while keeping the performance and user experience in mind.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "daccf3ad-4033-467e-a0f9-e6404e73d5a3"
-      ],
-      "categoryItems": [
-        105572
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "314461",
-      "title": "The Spy of Testadel: a unit-testing medieval tale",
-      "description": "When people get started with unit testing, they often get stumped when it comes to testing functions that have side effects. This talk is a gentle introduction to some of the concepts involved in testing side effects. \r\n\r\nThe year is 1452. An uneasy truce between the kingdom of Testadel and the fiefdom of its neighbour, Sir SideEffects, is on the verge of collapse. Follow along as our hero, a court jester aptly named Jest, infiltrates the enemy's camp to gather information, and uncover Sir SideEffects' treachery.\r\n\r\nThrough the clever - I think - use of an allegory, this talk will answer:\r\n- What is the difference between a pure function and a function with side-effects. \r\n- Why testing functions with side-effects is usually harder. \r\n- What strategies can be employed to test functions with side-effects, and their tradeoffs. \r\n- What are spies and how to use them.\r\n- What libraries can help with testing side-effects.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "36ded5fa-6f6d-478f-90f1-8aff51c1e38c"
-      ],
-      "categoryItems": [
-        105566
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "318346",
-      "title": "The Value of a Small PR (Pull Request)",
-      "description": "Sometimes we try to ship work in the size that it was given to us. If you’ve ever had to ship a sprint’s worth of work in a single PR and had problems getting through the review process this talk is for you. ",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "aae8e930-83f8-45be-b1a9-d47075235565"
-      ],
-      "categoryItems": [
-        105560
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "313943",
-      "title": "Web for all. The power of progressive web apps",
-      "description": "As web performance and user experience across both mobile and desktop devices continue to increase in importance, so do progressive web apps (PWAs). PWAs are becoming more popular because they have lots of enhancements that help your application perform better and they make apps accessible even to users with limited internet connection. In this talk, you are going to learn the advantages of using PWAs and how to turn your web application into a PWA.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "087ab9e6-1237-48e8-8bd5-b3ac85261d78"
-      ],
-      "categoryItems": [
-        105560
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "312507",
-      "title": "What to Avoid When Writing Unit Tests",
-      "description": "“These tests should never have been written. They provide no or little value.” -ME\r\n\r\nTesting code as been described as an \"art form.\" It is, but it should not be. There are many good patterns that should be followed when writing tests. There is even a lifecycle of tests that should be paid some attention. There are also many BAD patterns that developers should be aware of so that they can be avoided (or cleaned up).\r\n\r\nThis session will provide a series of examples of bad front-end tests and how to write them correctly.\r\n\r\n* Tests Should Not Be \"Well-Factored\"\r\n* Keep The Reader In The Test\r\n* Violate The DRY Principle\r\n* Testing Too Much\r\n* Duplication Of Code Logic\r\n* Bad Test Double\r\n* Testing The Mock\r\n* False Positives\r\n* Testing Private Functionality Directly\r\n* Excessive Setup",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "ed4af73a-6781-4882-a8c3-12ee0c68c1a5"
-      ],
-      "categoryItems": [
-        105566
-      ],
-      "questionAnswers": [],
-      "roomId": null,
+      "roomId": 22922,
       "liveUrl": null,
       "recordingUrl": null
     },
@@ -860,8 +343,8 @@
       "id": "317934",
       "title": "Where has Jane Gone?",
       "description": "Have you ever been told “if you were like that male developer over there, you’d get somewhere”? Have you removed your first name from your Resume to get more interviews? Have you been excluded from a meeting because someone was afraid that they will offend you? Have you ever been called bossy? Have you ever had others undermine your accomplishments? Have you ever refrained from a job opportunity because you felt like you didn’t meet all the requirements? If you answered yes to most of the questions, you’ve experienced some of the problems women face in the workplace.\r\n\r\nWith so much focus on getting women into tech, why haven’t the numbers changed? A recent study concluded that the gender gap for women in technology as a whole is worse today than it was in 1984.\r\n\r\nThe study, led by Accenture and Girls who Code, showed that 50% of women abandon technology careers by the age of 35 and leave tech roles at a 45% higher rate than men. Only 21% of women in the study said they believed the technology industry was a place they could thrive.\r\n\r\nSo, we cannot convince them to enter the tech industry, with only 15% of the graduates being women in Computer Science. Then we chase them out by the age of 35.\r\n\r\nI am not the norm. I survived, and I will talk about my experience as a forty-something woman in tech. I know I can not solve the problem; only the dominant culture can do that. But I explain the pitfalls that women are facing. How you are making women feel unwanted and unneeded. Also, if the industry does not want to change, that is OK too. Just do not make it harder for the ones that stay.",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2022-05-06T11:00:00",
+      "endsAt": "2022-05-06T12:00:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -871,7 +354,174 @@
         105564
       ],
       "questionAnswers": [],
-      "roomId": null,
+      "roomId": 22923,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "317455",
+      "title": "Evolving your APIs, a step-by-step approach",
+      "description": "When you publish your first HTTP API, you’re more focused on short-term issues than planning for the future. However, chances are you’ll be successful, and you’ll “hit the wall”. How do you evolve your API without breaking the contract with your existing users?\r\n\r\nIn this talk, I’ll first show you some tips and tricks to achieve that: moving your endpoints, deprecating them, monitoring who’s using them, and letting users know about the new endpoints. The talk is demo-based, and I’ll use the Apache APISIX project for it.\r\n",
+      "startsAt": "2022-05-06T11:00:00",
+      "endsAt": "2022-05-06T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9c904945-768e-4597-b942-6be90cf4d731"
+      ],
+      "categoryItems": [
+        105560
+      ],
+      "questionAnswers": [],
+      "roomId": 22924,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "315461",
+      "title": "Sustainable Accessibility: Integrating accessibility checks into your CI/CD pipeline",
+      "description": "Accessibility is important, not only for your users but also to meet legal requirements for certain levels of compliance. Unfortunately, most companies lack developers and quality assurance analysts who are trained to produce and test accessible user interfaces to industry-standard levels. Furthermore, dev and qa testing for ADA compliance takes time, and can often be forgotten or de-prioritized by companies that have limited resources. In this talk I will discuss: \r\n    1. Why accessibility is important \r\n    2. The accessibility standards put forth by the ADA in WCAG 2.1 \r\n    3. How we have leveraged automated accessibility testing tools into our CI/CD pipeline \r\n    4. The impact this integration has had on our ability to maintain website accessibility across multiple projects, even when developers have little to no accessibility training going in. ",
+      "startsAt": "2022-05-06T11:00:00",
+      "endsAt": "2022-05-06T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c41c2a92-675d-4ca5-a2ee-794d0954dd8b"
+      ],
+      "categoryItems": [
+        105570
+      ],
+      "questionAnswers": [],
+      "roomId": 24633,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "312507",
+      "title": "What to Avoid When Writing Unit Tests",
+      "description": "“These tests should never have been written. They provide no or little value.” -ME\r\n\r\nTesting code as been described as an \"art form.\" It is, but it should not be. There are many good patterns that should be followed when writing tests. There is even a lifecycle of tests that should be paid some attention. There are also many BAD patterns that developers should be aware of so that they can be avoided (or cleaned up).\r\n\r\nThis session will provide a series of examples of bad front-end tests and how to write them correctly.\r\n\r\n* Tests Should Not Be \"Well-Factored\"\r\n* Keep The Reader In The Test\r\n* Violate The DRY Principle\r\n* Testing Too Much\r\n* Duplication Of Code Logic\r\n* Bad Test Double\r\n* Testing The Mock\r\n* False Positives\r\n* Testing Private Functionality Directly\r\n* Excessive Setup",
+      "startsAt": "2022-05-06T11:00:00",
+      "endsAt": "2022-05-06T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "ed4af73a-6781-4882-a8c3-12ee0c68c1a5"
+      ],
+      "categoryItems": [
+        105566
+      ],
+      "questionAnswers": [],
+      "roomId": 24635,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "312346",
+      "title": "Intro to Machine Learning for Application Developers",
+      "description": "In this session we will be diving into multiple code-along examples to get started with popular AI/ML tools and frameworks. The goal is to create enough understanding for application developers to immediately leverage simple ML models in their day to day development.",
+      "startsAt": "2022-05-06T11:00:00",
+      "endsAt": "2022-05-06T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "ec39cf2a-698f-42d4-aa32-0ed7648c243d"
+      ],
+      "categoryItems": [
+        105568
+      ],
+      "questionAnswers": [],
+      "roomId": 24634,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "316014",
+      "title": "The Future of Cross Platform Blazor",
+      "description": "With .NET 6 Blazor can target multiple platforms. In this session we'll explore the various Blazor targets and how to choose between them. Learn the tradeoffs and advantages of: Blazor Hybrid, Blazor Progressive Web Apps (PWAs), and Blazor Electron.",
+      "startsAt": "2022-05-06T11:00:00",
+      "endsAt": "2022-05-06T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3fd9cade-10ef-43df-b124-944015042549"
+      ],
+      "categoryItems": [
+        105560
+      ],
+      "questionAnswers": [],
+      "roomId": 24636,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "312631",
+      "title": "Automating your smarthome without the cloud",
+      "description": "Modern \"smart\" homes are dumb; your doorbell shouldn't stop working because your Internet is down, and your guests shouldn't need to borrow your phone to turn on the lights.\r\n\r\nA smarter home doesn't depend on cloud services or a disparate array of apps to function, and it's easier than you might think to achieve total local control. A Raspberry Pi, a bit of DIY elbow grease, and this session are all you need to get started. No soldering required!\r\n\r\nIn this session you'll learn how to choose and install a local hub (Home Assistant vs Hubitat vs HomeKit), which devices work best (Zigbee vs Z-Wave vs Wifi), and how to integrate cameras, lights, and sensors without the cloud. You'll also learn how to get insights into your home's data using InfluxDB and Grafana.\r\n\r\nCome take a tour through the land of smart, local home automation and stop being dependent on someone else's computers!",
+      "startsAt": "2022-05-06T11:00:00",
+      "endsAt": "2022-05-06T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b7235790-4c4a-491c-a8a1-1ed82a5d70b3"
+      ],
+      "categoryItems": [
+        105562
+      ],
+      "questionAnswers": [],
+      "roomId": 24637,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "6c62c958-71c5-40f3-bbfa-475e978029a9",
+      "title": "Lunch",
+      "description": null,
+      "startsAt": "2022-05-06T12:00:00",
+      "endsAt": "2022-05-06T13:00:00",
+      "isServiceSession": true,
+      "isPlenumSession": false,
+      "speakers": [],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 24653,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "312871",
+      "title": "DevOps at Netflix",
+      "description": "Netflix is a global leader in video streaming and has always been known in the valley for its culture document, a seminal work in setting the context about culture.\r\nIn this session, I will shed light on how Netflix thinks about DevOps, how our culture permeates our thought on Agile practices, DevOps, and development.\r\nIt would be a great way to get a glimpse of how loosely coupled and highly aligned Netflix is, and participants can apply some parts of our culture to their organizations.",
+      "startsAt": "2022-05-06T13:00:00",
+      "endsAt": "2022-05-06T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0e577c69-f95e-4044-a53c-d626732f2bb6"
+      ],
+      "categoryItems": [
+        105571
+      ],
+      "questionAnswers": [],
+      "roomId": 22922,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "317569",
+      "title": "The Secret to Fast Performance",
+      "description": "Today's users expect web apps to not only be fast and performant, but to also have amazing designs and features that start fast and stay fast. As the web needs to compete with native apps, performance is a must if we want something that feels as great as a native app. This can be difficult for web developers who are not sure where to begin or how to even approach the problem. \r\n\r\nWe'll look at how we can implement features from a native app that can take your app from stale and boring, to highly interactive and fun — all while keeping the performance and user experience in mind.",
+      "startsAt": "2022-05-06T13:00:00",
+      "endsAt": "2022-05-06T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "daccf3ad-4033-467e-a0f9-e6404e73d5a3"
+      ],
+      "categoryItems": [
+        105572
+      ],
+      "questionAnswers": [],
+      "roomId": 22923,
       "liveUrl": null,
       "recordingUrl": null
     },
@@ -879,8 +529,8 @@
       "id": "313868",
       "title": "Why Communication Has a 93% Risk Of Failure",
       "description": "Communication has a 93% Risk of Failure. Yes 93%! No wonder communication is the top reason given in retrospectives and post mortem sessions.\r\n\r\nLack of trust, conflicting information, unclear dialog, misinformation, and communication overload are the biggest culprits. Learn how to mitigate these 5 points of failure.\r\n\r\nCommunication is a difficult process. When you know the 5 Modes of Communication and the Effective Communication Process, you become a master communicator.",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2022-05-06T13:00:00",
+      "endsAt": "2022-05-06T14:00:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -890,7 +540,406 @@
         105564
       ],
       "questionAnswers": [],
-      "roomId": null,
+      "roomId": 22924,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "316511",
+      "title": "Don’t Build a Distributed Monolith: How to Avoid Doing Microservices Completely Wrong",
+      "description": "As a consultant, I get to see many systems built by many different developers. Recently, I’ve seen an uptick in the number of systems built with a microservice architecture in mind, but those systems often include a lot of the same mistakes that keep them from working well. \r\n\r\nIn this session you’ll learn from my experiences and get pointers on what to avoid in your microservices implementations so that you don’t accidentally build something which has all the worst aspects of a monolithic application and the worst aspects of microservices These monsters are what I call “distributed monoliths”, and I can help you avoid building one accidentally. ",
+      "startsAt": "2022-05-06T13:00:00",
+      "endsAt": "2022-05-06T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d108027a-7e26-46f5-b92d-9f6cb59eb283"
+      ],
+      "categoryItems": [
+        105560
+      ],
+      "questionAnswers": [],
+      "roomId": 24633,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "317925",
+      "title": "Defensive Coding Bootcamp",
+      "description": "Do you build things that can be hacked? Want to lower those odds? Join us to learn the basics of security vulnerabilities and evasive coding maneuvers that can make your software more secure, every time. Geared for developers of all skill levels, this code-centric talk will be present code samples and essential fundamentals that apply to every language. ",
+      "startsAt": "2022-05-06T13:00:00",
+      "endsAt": "2022-05-06T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "da1a1990-71d2-45dd-a213-c04430b64d87"
+      ],
+      "categoryItems": [
+        105568
+      ],
+      "questionAnswers": [],
+      "roomId": 24635,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "317998",
+      "title": "Building Microservice REST APIs Using Azure Functions",
+      "description": "The microservice pattern serves as an excellent practice in building modern applications to be more resilient and reduce dependencies across the multiple parts of a product.  But generally, these involve complex web frameworks and containerization to get those benefits.  But using Azure Functions, we can develop more concise services even quicker and get many of the benefits of serverless technology without lots of operational management.  In this session, we’ll explore Azure Functions and see how they can be used to build out a microservice-based solution.",
+      "startsAt": "2022-05-06T13:00:00",
+      "endsAt": "2022-05-06T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "76842364-2733-4aea-a940-7c81195e5120"
+      ],
+      "categoryItems": [
+        105561
+      ],
+      "questionAnswers": [],
+      "roomId": 24634,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "313943",
+      "title": "Web for all. The power of progressive web apps",
+      "description": "As web performance and user experience across both mobile and desktop devices continue to increase in importance, so do progressive web apps (PWAs). PWAs are becoming more popular because they have lots of enhancements that help your application perform better and they make apps accessible even to users with limited internet connection. In this talk, you are going to learn the advantages of using PWAs and how to turn your web application into a PWA.",
+      "startsAt": "2022-05-06T13:00:00",
+      "endsAt": "2022-05-06T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "087ab9e6-1237-48e8-8bd5-b3ac85261d78"
+      ],
+      "categoryItems": [
+        105560
+      ],
+      "questionAnswers": [],
+      "roomId": 24636,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "311318",
+      "title": "Stand Back; I'm going to try Data Science!",
+      "description": "Curious about data science and its relation to software engineering? Want to know how to dabble in artificial intelligence or machine learning side projects before taking the plunge? Come learn more about this exciting aspect of computing.\r\n\r\nIn this session I'll highlight my own journey in layering data science skills on top of a software engineering background. I'll teach you the terms, roles, languages, libraries, and technologies you'll commonly encounter and help you understand what aspects of math and programming are helpful in setting down this journey. \r\n\r\nYou'll discover easy ways to get started and get connected to the data science community. I'll show you how to discover public datasets to help inspire your own journey. By the time the session is finished, you'll know how to find out if data science is a good fit for you and how to take it to the next level if you discover you like it.",
+      "startsAt": "2022-05-06T13:00:00",
+      "endsAt": "2022-05-06T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "17c299ee-d9fd-4020-b499-2837b2b3a2bf"
+      ],
+      "categoryItems": [
+        105569
+      ],
+      "questionAnswers": [],
+      "roomId": 24637,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "317402",
+      "title": "6 (or so) new features of .NET 6",
+      "description": ".NET 6 takes us one step closer to the unified .NET platform where dogs and cats get along, Windows and Macs play nice together, and you can use .NET to develop for the Cloud, Mobile, Gaming, IoT, Desktop, AI, and the web.\r\n\r\nSo, what's included in this step?  There's a lot.  Don't worry. I'm here to guide you on this step.  \r\n\r\nWe'll look at the following:\r\n1) C# 10 language features\r\n2) ASP.NET Changes\r\n3) Maui, no, not the beach\r\n4) Performance improvements\r\n5) New APIs\r\n6) Other enhancements\r\n\r\nWe'll wrap up the talk by looking at where we are on the journey to the unification of .NET.  \r\n\r\nWhen the talk is over, if not during, you'll want to download .NET and start using .NET to make your life as a developer easier. ",
+      "startsAt": "2022-05-06T14:15:00",
+      "endsAt": "2022-05-06T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "137fb55c-d120-4a6b-9e15-98123df17302"
+      ],
+      "categoryItems": [
+        105568
+      ],
+      "questionAnswers": [],
+      "roomId": 22922,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "318464",
+      "title": "Dependable Realtime Payments Management with Kafka",
+      "description": "With people around the world sheltering at home due to the global pandemic, last 2 year have accelerated the transition of banking and financial services to provide real time data from multiple sources onto a single digital channel in near realtime.The traditional integrated banking model is under tremendous stress and rapidly evolving.\r\nIn this session we will explore the use case in which Kafka will be used to enable a software talk to another software in a bank to give customer a smooth journey and access to the latest customer information across channels. We will be deep diving into banking ecosystem which has its backend built using Kafka-centric pipeline and is exposed to end-users through a REST API layer. All incoming requests from banking app users are written to a single inbound Kafka topic.which has data going into ksqlDB for filtering. Data from these topics is then consumed and processed by various (micro)services via Kafka consumer Topics to b e send out to costumers.",
+      "startsAt": "2022-05-06T14:15:00",
+      "endsAt": "2022-05-06T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1d5b4156-c5dd-4995-982d-ecce66fe76eb"
+      ],
+      "categoryItems": [
+        105560
+      ],
+      "questionAnswers": [],
+      "roomId": 22923,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "311505",
+      "title": "The Rise and Benefits of Robotic Process Automation",
+      "description": "Robotic Process Automation (RPA) is a term given to technology that allows developers to programmatically emulate the actions of a human to execute a business process. RPA often operates on the user interface (UI) layer to capture data or interact with an application or across multiple applications to perform tasks that are considered repetitive or time-consuming. Originally focused on business processes, many RPA solutions now integrate with SDLC tools. While the promises of easy adoption and scaling are made by almost every vendor, the reality is long-term commitment to an RPA program is the same as any new application. In this presentation, the audience will learn about the benefits of RPA, multiple RPA use cases, and how RPA can be assimilated into a enterprise.",
+      "startsAt": "2022-05-06T14:15:00",
+      "endsAt": "2022-05-06T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "da1f3c6b-ce55-48df-824c-c6f681f77f8c"
+      ],
+      "categoryItems": [
+        105566
+      ],
+      "questionAnswers": [],
+      "roomId": 22924,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "315410",
+      "title": "Failing Successfully",
+      "description": "Failure is normal. It’s so normal that many software development teams encourage people to fail and fail fast. Failure is also scary. It makes us feel vulnerable. We may even worry that our jobs, relationships, or goals are on the line. Yet we hear countless stories of people turning failure into success in seemingly magical ways. This session will teach you what’s behind that magic. You’ll discover how to help yourself and others fail successfully. You’ll learn how to reflect on failures and apply those reflections in the future. Because success is hard to see in the midst of failure, we’ll also discuss techniques for surviving the challenging times. With this knowledge, you can use your failures as the building blocks of your own seemingly magical successes. ",
+      "startsAt": "2022-05-06T14:15:00",
+      "endsAt": "2022-05-06T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "2ab36140-1f0d-46b1-85f5-c8f0222a4c4c"
+      ],
+      "categoryItems": [
+        105564
+      ],
+      "questionAnswers": [],
+      "roomId": 24633,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "317393",
+      "title": "Reactivity in The Web With Svelte",
+      "description": "Modern front-end frameworks claim to be reactive when state changes occur which updates the views at runtime. The technologies these frameworks depend on to do so aren't the most optimal such as using the Virtual DOM, DOM diffing, and more. Svelte is a compiler that runs at build time instead to optimize what state changes are possible in your app so that it can be more light-weight and respond faster as state changes occur. In this talk, we'll explore the basics of Svelte and what makes it different from frameworks like React and Vue.js that dominate the market.",
+      "startsAt": "2022-05-06T14:15:00",
+      "endsAt": "2022-05-06T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e47815ff-d329-4034-b8d1-01cbe0a48afc"
+      ],
+      "categoryItems": [
+        105572
+      ],
+      "questionAnswers": [],
+      "roomId": 24635,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "311688",
+      "title": "Seeding the Model: Getting started with ML Kit",
+      "description": "ML Kit brings Google’s machine learning expertise to mobile developers (both Android and iOS). The powerful library includes both Vision APIs for image labeling and detection and Natural Language APIs to identify and translate between languages to help developers build engaging and personalized apps. \r\n\r\nIn this talk, we’ll start from the basics and build a native Android app to identify plants using ML Kit. We’ll walk through integrating and using the default Image Labeling Vision API in our app, then dive in and train our own custom model, and finally process real time camera input. ",
+      "startsAt": "2022-05-06T14:15:00",
+      "endsAt": "2022-05-06T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8500ffde-a07d-40ad-8c9f-e35b97359bee"
+      ],
+      "categoryItems": [
+        105563
+      ],
+      "questionAnswers": [],
+      "roomId": 24634,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "312475",
+      "title": "How Product-Focused Companies Optimize For Developer Autonomy",
+      "description": "Modern technology-fueled product companies are revolutionizing the way that software gets built.  Heavy handed process, bureaucracy, and control are eschewed in favor of cross-functional autonomous teams of problem solvers that are empowered to move quickly and solve big problems - all while growing and scaling exponentially.  This talk is about how our imperfect group at Upstart is following this path to achieve autonomy and iterative problem solving at scale.",
+      "startsAt": "2022-05-06T14:15:00",
+      "endsAt": "2022-05-06T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "939a2aa4-5262-4aea-8908-d19d306687d3"
+      ],
+      "categoryItems": [
+        105567
+      ],
+      "questionAnswers": [],
+      "roomId": 24636,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "313378",
+      "title": "At The Helm of Kubernetes: Repeatable Infrastructure Creation for Mere Mortals",
+      "description": "As we get deeper into Kubernetes yaml files, we see a lot of duplication. Can we move to a higher level that eliminates this duplication? Let's look at Helm, a tool both for templating k8s yaml files and for installing complex infrastructure dependencies as one package. With Helm 3, we now have deeper integration and more security when working with Kubernetes. Join us on this path to a simpler, more repeatable, and more discoverable yaml experience.",
+      "startsAt": "2022-05-06T14:15:00",
+      "endsAt": "2022-05-06T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e2187bee-02a6-492b-9706-452f5748f473"
+      ],
+      "categoryItems": [
+        105561
+      ],
+      "questionAnswers": [],
+      "roomId": 24637,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "311864",
+      "title": "Mental Health in Tech - Improving Mental Wellness",
+      "description": "Professionals in Technology often push themselves to a breaking point with the pace at which we work. Given the stress of the workplace in all times, but especially in the current state, it's crucial to maintain a healthy mind as it's our most important resource.  \r\nLet's discuss ways we can begin to engage and talk more about mental wellness, learn strategies as leaders, and identify resources both for ourselves and our teams.",
+      "startsAt": "2022-05-06T15:30:00",
+      "endsAt": "2022-05-06T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "cf5463ec-f27e-40ef-9f56-92c3c5f072aa"
+      ],
+      "categoryItems": [
+        105564
+      ],
+      "questionAnswers": [],
+      "roomId": 22922,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "316964",
+      "title": "Jason On JSON",
+      "description": "JSON is all around us in the systems we use every day. Many systems use it for configuration, data interchange and logging. SQL server 2016 introduced native support for JSON, but when should we use this new capability? and how can we ensure optimal performance? Join Microsoft Master of SQL Server Jason Horner as we look at the basics of JSON and how to query, transform, and store it. Whether you are working with a data warehouse or transactional processing system working with sql server on premises or in the cloud. This session will get you up to speed.",
+      "startsAt": "2022-05-06T15:30:00",
+      "endsAt": "2022-05-06T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8cfab663-b768-4828-9ff5-89f8ecf47a09"
+      ],
+      "categoryItems": [
+        105569
+      ],
+      "questionAnswers": [],
+      "roomId": 22923,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "314164",
+      "title": "Project Zero or Removing barriers for creating OSS libraries",
+      "description": "You have a brilliant idea for an open source library. You start this new repository thinking of how bright the future is with your code being use by others. Then reality then sets in. You realize to make all this possible you have to do a lot of non-feature work. You need a project structure, a test framework, a build system, dependency management, continuous integration, deployment, and other tooling. All this is getting in the way of writing a great library you know will change the world!  What if I said you can do all this and more?  This talk will cover MiniScaffold, a dotnet template for getting your project up and running with little effort so you can create the libraries of your dreams.  ",
+      "startsAt": "2022-05-06T15:30:00",
+      "endsAt": "2022-05-06T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5914ecb0-71a2-4556-ad99-767a46636df4"
+      ],
+      "categoryItems": [
+        105560
+      ],
+      "questionAnswers": [],
+      "roomId": 22924,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "311609",
+      "title": "Gain visibility into your apps with Azure Application Insights",
+      "description": "In the world of constantly evolving apps and continuous deployments, knowing what is happening with your app and users can make or break your customer experience. You want to proactively detect issues as they occur and fix them, before they start affecting your users. Application Insights, an intelligent Application Performance Monitoring service, provides instant analytics over your application logs and telemetry. It includes fast, easy, and non-intrusive analytics tools to interactively diagnose problems and answer challenging questions. It also integrates seamlessly with your existing DevOps workflows. For instance, you can surface performance data in Visual Studio, link to releases and work items in Visual Studio Team Services, and access telemetry in Azure Monitor. Join me to experience the latest capabilities through a live demo and learn about our strategy and roadmap.",
+      "startsAt": "2022-05-06T15:30:00",
+      "endsAt": "2022-05-06T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1891b260-8833-46ec-b5bc-907c0105f730"
+      ],
+      "categoryItems": [
+        105568
+      ],
+      "questionAnswers": [],
+      "roomId": 24633,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "314118",
+      "title": "Putting the FUN back in Fundamentals: Data Structures, Algorithms, and More!",
+      "description": "In this session, we will bring FUN back to Fundamentals as we:\r\n\r\n* Look at favorite data structures and algorithms from the 70s, 80s, and 90s: where are they today? You won't believe #7!\r\n\r\n* Discover why hashes aren't just for breakfast.\r\n\r\n* Discover the Lolrus' favorite data structure (hint: it's got a bukkit).\r\n\r\n* Discover why some searches gallop and others proceed at a snail's pace.\r\n\r\n* Face hard truths: sometimes brute force is the best method.\r\n\r\n* Face harder truths: someone has to maintain the code you write today... and they know where you live.\r\n\r\n* Face the hardest truth: CPU, Memory, Storage, and I/O are not infinite.\r\n\r\nAnd... most importantly... discover the BEST algorithm and the BEST data structure.\r\n",
+      "startsAt": "2022-05-06T15:30:00",
+      "endsAt": "2022-05-06T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "bb52359f-7de5-4ab4-be0c-e0fdf39b7134"
+      ],
+      "categoryItems": [
+        105567
+      ],
+      "questionAnswers": [],
+      "roomId": 24635,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "317303",
+      "title": "Advanced Kubernetes Troubleshooting with Open Source Tools",
+      "description": "As engineers, operators, and administrators, we grapple with vexing and expensive problems. Support bottlenecks caused by technical language barriers, differing time zones, incomplete information, and other typically minor issues can extend the time between identifying an issue and resolving it by hours or even days. Fortunately, a fully open source toolset available called Troubleshoot can drastically reduce the time between diagnosis and solution.\r\n\r\nThis lightweight, fully customizable Kubernetes plugin consists of two parts - preflight and support-bundle. Troubleshoot is capable of collecting, analyzing, and packaging the data needed to get and keep your cluster operating at peak functionality. If it sounds too good to be true, just wait - it gets even better. \r\n\r\nJoin our live lab to see tiny-yet-mighty troubleshoot.sh in action in a live demo, plus the opportunity to learn how to customize troubleshoot components to fit your needs.",
+      "startsAt": "2022-05-06T15:30:00",
+      "endsAt": "2022-05-06T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "584cd7ed-bf36-4838-a841-5cc81be3fc78"
+      ],
+      "categoryItems": [
+        105571
+      ],
+      "questionAnswers": [],
+      "roomId": 24634,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "314876",
+      "title": "IoT, JavaScript and Beer Brewing: Cheers to that!",
+      "description": "Beer brewing can be fun, but combining brewing with IoT device hacking is even more fun. It is possible to connect and collect data about almost anything, including the fermentation process inside a closed fermenter using open source technologies. In this presentation, the speaker will introduce basic concepts of IoT devices, how to collect the data efficiently and how to use various tools to store, extract and manipulate that data. And if you’re new to beer brewing, don’t worry; you will also learn a thing or two about that as well!",
+      "startsAt": "2022-05-06T15:30:00",
+      "endsAt": "2022-05-06T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5a111e09-2922-4aff-a0eb-9b6691b6e8b2"
+      ],
+      "categoryItems": [
+        105562
+      ],
+      "questionAnswers": [],
+      "roomId": 24636,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "317654",
+      "title": "Mobile & Desktop Apps with Blazor!",
+      "description": "With Blazor, developers get to build modern web apps with C#/.NET, running on server or fully client-side through WebAssembly. But Blazor’s flexibility can also be leveraged to target mobile & desktop form factors.\r\n\r\nBlazor is very suitable for writing Progressive Web Apps (PWAs) that are excellent web citizens on mobile devices. Blazor can also be used to build truly native or hybrid cross-platform apps, thus inviting .NET web developers into mobile land and sharing code better. Powered by .NET MAUI under the covers, developers get to benefit from native UI & performance, while writing Blazor syntax for the UI abstraction. For desktop, Blazor apps can be wrapped inside Electron-like shells, but modern runtimes demand more lightweight WebViews – .NET MAUI provides the perfect bootstrapping and Blazor Hybrid is here to power desktop apps on MacOS & Windows.\r\n\r\nThe familiarity of Blazor component model, Razor rendering engine, CSS styling & extensibility can now be applied towards building mobile & desktop apps, all the while sharing code with web. You game?\r\n",
+      "startsAt": "2022-05-06T15:30:00",
+      "endsAt": "2022-05-06T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fc1d0cd3-9675-4188-aa98-e0088069f1a4"
+      ],
+      "categoryItems": [
+        105563
+      ],
+      "questionAnswers": [],
+      "roomId": 24637,
       "liveUrl": null,
       "recordingUrl": null
     }
@@ -1043,6 +1092,28 @@
         312507
       ],
       "fullName": "Bob Fornal",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e47815ff-d329-4034-b8d1-01cbe0a48afc",
+      "firstName": "Brendan",
+      "lastName": "Todahl",
+      "bio": "Brendan is an experienced software developer and consultant at CGI having worked with small local companies and some of the biggest tech companies in central Ohio. He is well versed in the full stack of development with certifications such as the MCSA: Web App Certification and AZ-204 Microsoft Certified: Azure Developer Associate and has a passion for modern front-end frameworks such as Vue.js and Svelte.",
+      "tagLine": "Senior Software Consultant at CGI",
+      "profilePicture": "https://sessionize.com/image/b7e5-400o400o2-BvyNrbzMU9gHZ12vdcjuNd.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/brendan-todahl-91200b63/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        317393
+      ],
+      "fullName": "Brendan Todahl",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -1919,16 +1990,6 @@
           "title": "Twitter",
           "url": "https://twitter.com/rob_rich",
           "linkType": "Twitter"
-        },
-        {
-          "title": "Blog",
-          "url": "https://robrich.org/",
-          "linkType": "Blog"
-        },
-        {
-          "title": "GitHub",
-          "url": "https://github.com/robrich/",
-          "linkType": "Other"
         }
       ],
       "sessions": [
@@ -2324,19 +2385,49 @@
   ],
   "rooms": [
     {
-      "id": 22922,
-      "name": "Room 1",
+      "id": 24653,
+      "name": "Concourse",
       "sort": 0
     },
     {
-      "id": 22923,
-      "name": "Room 2",
+      "id": 22922,
+      "name": "A",
       "sort": 1
     },
     {
-      "id": 22924,
-      "name": "Room 3",
+      "id": 22923,
+      "name": "B",
       "sort": 2
+    },
+    {
+      "id": 22924,
+      "name": "C",
+      "sort": 3
+    },
+    {
+      "id": 24633,
+      "name": "D",
+      "sort": 4
+    },
+    {
+      "id": 24635,
+      "name": "E",
+      "sort": 5
+    },
+    {
+      "id": 24634,
+      "name": "F",
+      "sort": 6
+    },
+    {
+      "id": 24636,
+      "name": "G",
+      "sort": 7
+    },
+    {
+      "id": 24637,
+      "name": "H",
+      "sort": 8
     }
   ]
 }

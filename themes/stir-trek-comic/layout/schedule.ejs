@@ -14,7 +14,7 @@
                         <th>Session</th>
                         <th>Speaker</th>
                         <th>Category</th>
-                        <!-- <th>Room</th> -->
+                        <th>Room</th>
                         <% if(config.showSurveyOnSchedule) { %>
                             <th>Survey Link</th>
                         <% } %>
@@ -38,15 +38,15 @@
                         var sessionInfo = sessionAndSpeakerData.sessions.find(x => x.id === sessionSlot.id.toString() );
                         
                         // Find the speaker sessionInfo
-                        var speakersInfo = sessionAndSpeakerData.speakers.filter(x => sessionInfo.speakers.includes(x.id))
+                        var allSpeakersInfo = sessionAndSpeakerData.speakers.filter(x => sessionInfo.speakers.includes(x.id))
 
                         // If surveys are turned on, generate this speaker's survey surveyUrl
                         var speakerSurveyUrl = "";
-                        if(config.showSurveyOnSchedule && speakersInfo && 
-                            speakersInfo[0] && 
-                            speakersInfo[0].questionAnswers && 
-                            speakersInfo[0].questionAnswers[0]) {
-                                let speakerSurveyToken = speakersInfo[0].questionAnswers.find(x => x.questionId === surveyTokenSessionizeQuestionId).answerValue;
+                        if(config.showSurveyOnSchedule && allSpeakersInfo && 
+                            allSpeakersInfo[0] && 
+                            allSpeakersInfo[0].questionAnswers && 
+                            allSpeakersInfo[0].questionAnswers[0]) {
+                                let speakerSurveyToken = allSpeakersInfo[0].questionAnswers.find(x => x.questionId === surveyTokenSessionizeQuestionId).answerValue;
 
                                 if(speakerSurveyToken) speakerSurveyUrl = config.surveyUrl + speakerSurveyToken;
                         }
@@ -62,26 +62,44 @@
                                 scheduledRoomName += " Theater";
                             }
 
-                            if(speakersInfo.length > 0) { 
-                                var speakerPageUrl = `/speakers/${config.currentYear}/${speakersInfo[0].firstName.replace(/[ \"]/g,"")}-${speakersInfo[0].lastName.replace(/[ \"]/g,"")}.html`;
+                            if(allSpeakersInfo.length > 0) { 
+                                let createSpeakerUrl = (firstName, lastName) => {
+                                    return `/speakers/${config.currentYear}/${firstName.replace(/[ \"]/g,"")}-${lastName.replace(/[ \"]/g,"")}.html`
+                                }
+
+                                // Store additional speakers if any
+                                let allSpeakers = [];
+                                allSpeakersInfo.forEach(speaker => {
+                                    allSpeakers.push({
+                                        firstName: speaker.firstName,
+                                        lastName: speaker.lastName,
+                                        speakerPageUrl: createSpeakerUrl(speaker.firstName, speaker.lastName)
+                                    });
+                                })
                             %>
                                 <td>
-                                    <a href="<%= speakerPageUrl %>#abstract">
+                                    <a href="<%= allSpeakers[0].speakerPageUrl %>#abstract">
                                         <%= sessionInfo.title %>
                                     </a>
                                 </td>
                                 <td class="speaker-cell">
                                     <div>
-                                        <a href="<%= speakerPageUrl %>">
-                                            <%= speakersInfo[0].firstName + " " + speakersInfo[0].lastName %>
-                                        </a>
+                                        <% 
+                                            allSpeakers.forEach(thisSpeaker => {
+                                        %>
+                                            <a href="<%= thisSpeaker.speakerPageUrl %>">
+                                                <%= thisSpeaker.firstName + " " + thisSpeaker.lastName %>
+                                            </a><br>
+                                        <%
+                                            })
+                                        %>
                                     </div>
                                 </td>
 
                                 <% var thisCategory = allCategories.find(c => c.id === sessionInfo.categoryItems[0]); %>
 
                                 <td><%= thisCategory.name %></td>
-                                <!-- <td class="room-cell"><%= scheduledRoomName %></td> -->
+                                <td class="room-cell"><%= scheduledRoomName %></td>
 
                                 <% if(config.showSurveyOnSchedule) { 
                                     if( speakerSurveyUrl.length) { %>
@@ -94,7 +112,7 @@
                                 <td><%= sessionInfo.title %></td>
                                 <td class="speaker-cell">
                                 <td></td>
-                                <!-- <td class="room-cell"><%= scheduledRoomName %></td> -->
+                                <td class="room-cell"><%= scheduledRoomName %></td>
                                 <% if(config.showSurveyOnSchedule) { %>
                                 <td></td>
                                 <% } %>

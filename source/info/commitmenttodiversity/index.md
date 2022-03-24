@@ -16,6 +16,6 @@ This is an ongoing process. We are talking to our program chairs, program commit
 * Suggest to potential speakers that they submit a proposal during our Call for Participation conference phase
 * Organize community-based public speaking trainings and practice events [Ignite](http://ignite.oreilly.com/) is one popular format)
 * Suggest ways that the onsite conference experience can be more welcoming and supportive, free from intimidation and marginalization (some great resources exist on [Ashe Dryden's blog](http://ashedryden.com/blog/increasing-diversity-at-your-conference))
-* Share your ideas and best practices for how we can realize our vision (send an email to [info@stirtrek.com](mailto:info@stirtrek.com">info@stirtrek.com</a>))
+* Share your ideas and best practices for how we can realize our vision (send an email to [info@stirtrek.com](mailto:info@stirtrek.com)
 
 We value diversity in the communities we bring together, and we welcome your contributions to bringing balanced representation of the richness of our collective human experience.

@@ -8,7 +8,7 @@ alias:
 # COVID-19 Policy
 <div class="icon-hr"></div>
 
-As Stir Trek continues to monitor the local, national and worldwide incidence of the coronavirus and the illness it causes, COVID-19, we want to make sure that we have updated guidance related to our event. It is likely this information will change as the situation evolves, and this page will contain the most up-to-date information we have. Questions may be directed to [info@stirtrek.com](mailto:info@stirtrek.com?subject=[Stir Trek] COVID Policy).
+As Stir Trek continues to monitor the local, national and worldwide incidence of the coronavirus and the illness it causes, COVID-19, we want to make sure that we have updated guidance related to our event. It is likely this information will change as the situation evolves, and this page will contain the most up-to-date information we have. Questions may be directed to [info@stirtrek.com](mailto:info@stirtrek.com).
 
 
 Stir Trek’s priorities in setting these policies are to minimize the transmission of contagious disease.

@@ -976,8 +976,8 @@
       "id": "c41c2a92-675d-4ca5-a2ee-794d0954dd8b",
       "firstName": "Ashley",
       "lastName": "Stove",
-      "bio": "Ashley Stove is a web and software developer and team lead for Aptera, a Core BTS Company, in Fort Wayne, Indiana. She has worked as a full stack developer for over 7 years for both in-house and client driven projects, always as part of dynamic teams who have come up with robust and creative solutions. She is also active in the community outreach initiatives within her company.",
-      "tagLine": "Software Team Lead at Aptera, a Core BTS Company",
+      "bio": "Ashley Stove is a Director of Services for Core BTS working out of Fort Wayne, Indiana. She worked as a full stack developer for over 10 years before transitioning to her current role. Now she gets to spend her days making sure that her coworkers are happy and fulfilled in their jobs, and have the support they need to grow their careers. She is also active in the diversity and community outreach initiatives within her company.",
+      "tagLine": "Director of Services at Core BTS",
       "profilePicture": "https://sessionize.com/image/441d-400o400o2-YwLotLrQ1docXwa8ovDTAo.png",
       "isTopSpeaker": false,
       "links": [
@@ -1867,11 +1867,6 @@
           "title": "Blog",
           "url": "https://blog.frankel.ch/",
           "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://apisix.apache.org/",
-          "linkType": "Company_Website"
         }
       ],
       "sessions": [

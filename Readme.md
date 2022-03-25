@@ -27,6 +27,13 @@ To deploy, assuming you have the Github token that's used (find it [here](https:
 hexo deploy
 ```
 
+## Folders you should care about
+`./scripts` - The scripts that hexo runs as part of a build
+`./scripts-manuallyexecuting` - This can't be called `./scripts` or Hexo will run it all the time. These are useful helpers for you
+`./source` - This is where all of our markdown, styles, and images live
+`./source/_data` - Where the data we sync from sessionize (speakers and sessions) or maintain ourselves (sponsors) goes
+`./layout` - This is where the Hexo template lives
+
 ## How do we get data?
 An extract from Sessionize should be saved in _data with the name "sessionsYYYY.json". A new one should be saved each year. The scripts in /script will find those files if they are updated to include the correct years in their years array.
 
@@ -86,3 +93,12 @@ The magic behind the speakers pages is that the file in /source/themes/stir-trek
 - Add a **(this is important)** 350x200 pixel jpg or png of the sponsor logo to /source/images/sponsors/ folder.
 - Copy a sponsor in /source/_data/sponsors.json and paste it in the appropriate year and sponsorship level.
 - Commit the change to the Source branch and it should deploy.
+
+## A speaker wants to update their profile, what do I do?
+Once a session is submitted on Sessionize, it does not appear that the speaker profile gets any further updates. You will have to edit their profile and then click the "<- Copy" button on the right to update to their global profile.
+
+Don't forget to click "Save Changes"!
+
+Profiles are now pulled from Sessionize via `node scripts-manuallyexecuting/download-sessionize-details.js`. 
+
+Run that script and then use `hexo serve` locally to see the changes. Check in to GitHub and Actions will run `hexo generate` and deploy the site.

@@ -1153,9 +1153,9 @@
       "id": "2ab36140-1f0d-46b1-85f5-c8f0222a4c4c",
       "firstName": "Cassandra",
       "lastName": "Faris",
-      "bio": "Cassandra Faris is passionate about the human side of technology. She is a Tech Community Manager whose career has focused on supporting tech professionals through training, community outreach, open source initiatives, marketing, hiring, mentoring, and employee engagement. She is an international speaker who specializes in teaching people how to communicate, be more effective team members, and advance their careers.  She is President of the Stir Scholarship for women pursuing technology degrees and President Emeritus of the DogFoodCon tech conference. She has an MBA in Organizational Leadership. When she's not busy with the tech community, she is an avid tabletop gamer, corgi lover, and soccer fan who travels as much as possible. ",
-      "tagLine": "Tech Community Manager",
-      "profilePicture": "https://sessionize.com/image/d673-400o400o2-pvr33XiSrSGSZ7nmiq4UeD.JPG",
+      "bio": "Cassandra Faris is passionate about the human side of technology. She is a Community Coordinator for the Microsoft MVP Award program who began her tech career as a recruiter. Her work has focused on supporting tech professionals through training, community outreach, open source initiatives, marketing, hiring, mentoring, and employee engagement. She is an international speaker who specializes in teaching people how to communicate, be more effective team members, advance their careers, and take care of their mental health.  She is President of the Stir Scholarship for women pursuing technology degrees and President Emeritus of the DogFoodCon tech conference. She has an MBA in Organizational Leadership. When she's not busy with the tech community, she is an avid tabletop gamer, corgi mom, and soccer fan who travels as much as possible.",
+      "tagLine": "Community Coordinator, Microsoft MVP Award Program",
+      "profilePicture": "https://sessionize.com/image/d5e9-400o400o2-WLmiY4PukbtDxy3DBQhY77.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1184,11 +1184,6 @@
           "title": "Twitter",
           "url": "https://www.twitter.com/chadgreen",
           "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/chadwickgreen/",
-          "linkType": "LinkedIn"
         },
         {
           "title": "Blog",
@@ -1985,6 +1980,16 @@
           "title": "Twitter",
           "url": "https://twitter.com/rob_rich",
           "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/erobrich/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Slides and Code",
+          "url": "https://robrich.org/",
+          "linkType": "Other"
         }
       ],
       "sessions": [
@@ -2223,11 +2228,6 @@
           "title": "Twitter",
           "url": "https://www.twitter.com/chopra_tejas",
           "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/chopratejas",
-          "linkType": "LinkedIn"
         }
       ],
       "sessions": [

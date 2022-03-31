@@ -14,36 +14,36 @@
         "time": "8:30 AM",
         "sessions": [
           {
-            "id": "313157",
-            "scheduledRoom": "A"
-          },
-          {
             "id": "318036",
-            "scheduledRoom": "B"
-          },
-          {
-            "id": "314461",
-            "scheduledRoom": "C"
+            "scheduledRoom": "CGI"
           },
           {
             "id": "317397",
-            "scheduledRoom": "D"
+            "scheduledRoom": "Upstart"
+          },
+          {
+            "id": "314461",
+            "scheduledRoom": "Revel IT"
+          },
+          {
+            "id": "313157",
+            "scheduledRoom": "CAS"
           },
           {
             "id": "318346",
-            "scheduledRoom": "E"
+            "scheduledRoom": "DMG"
           },
           {
             "id": "312642",
-            "scheduledRoom": "F"
+            "scheduledRoom": "Daugherty"
           },
           {
             "id": "318231",
-            "scheduledRoom": "G"
+            "scheduledRoom": "Impact"
           },
           {
             "id": "311601",
-            "scheduledRoom": "H"
+            "scheduledRoom": "Aware"
           }
         ]
       },
@@ -51,36 +51,36 @@
         "time": "9:45 AM",
         "sessions": [
           {
-            "id": "315626",
-            "scheduledRoom": "A"
-          },
-          {
             "id": "318022",
-            "scheduledRoom": "B"
-          },
-          {
-            "id": "312323",
-            "scheduledRoom": "C"
+            "scheduledRoom": "CGI"
           },
           {
             "id": "316882",
-            "scheduledRoom": "D"
+            "scheduledRoom": "Upstart"
+          },
+          {
+            "id": "312323",
+            "scheduledRoom": "Revel IT"
+          },
+          {
+            "id": "315626",
+            "scheduledRoom": "CAS"
           },
           {
             "id": "317084",
-            "scheduledRoom": "E"
+            "scheduledRoom": "DMG"
           },
           {
             "id": "317917",
-            "scheduledRoom": "F"
+            "scheduledRoom": "Daugherty"
           },
           {
             "id": "314365",
-            "scheduledRoom": "G"
+            "scheduledRoom": "Impact"
           },
           {
             "id": "318087",
-            "scheduledRoom": "H"
+            "scheduledRoom": "Aware"
           }
         ]
       },
@@ -88,36 +88,36 @@
         "time": "11:00 AM",
         "sessions": [
           {
-            "id": "314546",
-            "scheduledRoom": "A"
-          },
-          {
             "id": "317934",
-            "scheduledRoom": "B"
-          },
-          {
-            "id": "317455",
-            "scheduledRoom": "C"
+            "scheduledRoom": "CGI"
           },
           {
             "id": "315461",
-            "scheduledRoom": "D"
+            "scheduledRoom": "Upstart"
+          },
+          {
+            "id": "317455",
+            "scheduledRoom": "Revel IT"
+          },
+          {
+            "id": "314546",
+            "scheduledRoom": "CAS"
           },
           {
             "id": "312507",
-            "scheduledRoom": "E"
+            "scheduledRoom": "DMG"
           },
           {
             "id": "312346",
-            "scheduledRoom": "F"
+            "scheduledRoom": "Daugherty"
           },
           {
             "id": "316014",
-            "scheduledRoom": "G"
+            "scheduledRoom": "Impact"
           },
           {
             "id": "312631",
-            "scheduledRoom": "H"
+            "scheduledRoom": "Aware"
           }
         ]
       },
@@ -134,36 +134,36 @@
         "time": "1:00 PM",
         "sessions": [
           {
-            "id": "312871",
-            "scheduledRoom": "A"
-          },
-          {
             "id": "317569",
-            "scheduledRoom": "B"
-          },
-          {
-            "id": "313868",
-            "scheduledRoom": "C"
+            "scheduledRoom": "CGI"
           },
           {
             "id": "316511",
-            "scheduledRoom": "D"
+            "scheduledRoom": "Upstart"
+          },
+          {
+            "id": "313868",
+            "scheduledRoom": "Revel IT"
+          },
+          {
+            "id": "312871",
+            "scheduledRoom": "CAS"
           },
           {
             "id": "317925",
-            "scheduledRoom": "E"
+            "scheduledRoom": "DMG"
           },
           {
             "id": "317998",
-            "scheduledRoom": "F"
+            "scheduledRoom": "Daugherty"
           },
           {
             "id": "313943",
-            "scheduledRoom": "G"
+            "scheduledRoom": "Impact"
           },
           {
             "id": "311318",
-            "scheduledRoom": "H"
+            "scheduledRoom": "Aware"
           }
         ]
       },
@@ -171,36 +171,36 @@
         "time": "2:15 PM",
         "sessions": [
           {
-            "id": "317402",
-            "scheduledRoom": "A"
-          },
-          {
             "id": "318464",
-            "scheduledRoom": "B"
-          },
-          {
-            "id": "311505",
-            "scheduledRoom": "C"
+            "scheduledRoom": "CGI"
           },
           {
             "id": "315410",
-            "scheduledRoom": "D"
+            "scheduledRoom": "Upstart"
+          },
+          {
+            "id": "311505",
+            "scheduledRoom": "Revel IT"
+          },
+          {
+            "id": "317402",
+            "scheduledRoom": "CAS"
           },
           {
             "id": "317393",
-            "scheduledRoom": "E"
+            "scheduledRoom": "DMG"
           },
           {
             "id": "311688",
-            "scheduledRoom": "F"
+            "scheduledRoom": "Daugherty"
           },
           {
             "id": "312475",
-            "scheduledRoom": "G"
+            "scheduledRoom": "Impact"
           },
           {
             "id": "313378",
-            "scheduledRoom": "H"
+            "scheduledRoom": "Aware"
           }
         ]
       },
@@ -208,36 +208,36 @@
         "time": "3:30 PM",
         "sessions": [
           {
-            "id": "311864",
-            "scheduledRoom": "A"
-          },
-          {
             "id": "316964",
-            "scheduledRoom": "B"
-          },
-          {
-            "id": "314164",
-            "scheduledRoom": "C"
+            "scheduledRoom": "CGI"
           },
           {
             "id": "311609",
-            "scheduledRoom": "D"
+            "scheduledRoom": "Upstart"
+          },
+          {
+            "id": "314164",
+            "scheduledRoom": "Revel IT"
+          },
+          {
+            "id": "311864",
+            "scheduledRoom": "CAS"
           },
           {
             "id": "314118",
-            "scheduledRoom": "E"
+            "scheduledRoom": "DMG"
           },
           {
             "id": "317303",
-            "scheduledRoom": "F"
+            "scheduledRoom": "Daugherty"
           },
           {
             "id": "314876",
-            "scheduledRoom": "G"
+            "scheduledRoom": "Impact"
           },
           {
             "id": "317654",
-            "scheduledRoom": "H"
+            "scheduledRoom": "Aware"
           }
         ]
       }

@@ -1206,3 +1206,10 @@ article#sponsor_download_contacts div#download_contacts {
 #scheduleTable .speaker-cell {
     text-transform: capitalize;
 }
+
+#scheduleTable tr.scheduleTimeRow td {
+    background-color: #d7c875;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}

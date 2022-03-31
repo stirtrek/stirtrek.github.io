@@ -149,15 +149,15 @@
       "recordingUrl": null
     },
     {
-      "id": "318087",
-      "title": "Clean Architecture with ASP.NET Core 6",
-      "description": "Clean Architecture (aka Onion, Hexagonal, Ports-and-Adapters) organizes your code in a way that limits its dependencies on infrastructure concerns. Learn how to apply it to your ASP.NET Core apps!",
+      "id": "311601",
+      "title": "Remaking Deprecated HTML Tags with Web Components",
+      "description": "As an ode to myspace and GeoCities, I wanted to be able to make bad looking websites for fun once more. However, I also wanted modern comforts of web development. We'll go through reimplementing several classic HTML elements that have been deprecated, talk through how they are implemented, and how to add extra accessibility so everyone can experience the ease and terribleness of the early internet.",
       "startsAt": "2022-05-06T08:30:00",
       "endsAt": "2022-05-06T09:30:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
+        "5c386803-b673-4259-a6ce-d85e1fd0a016"
       ],
       "categoryItems": [
         105572
@@ -302,15 +302,15 @@
       "recordingUrl": null
     },
     {
-      "id": "311601",
-      "title": "Remaking Deprecated HTML Tags with Web Components",
-      "description": "As an ode to myspace and GeoCities, I wanted to be able to make bad looking websites for fun once more. However, I also wanted modern comforts of web development. We'll go through reimplementing several classic HTML elements that have been deprecated, talk through how they are implemented, and how to add extra accessibility so everyone can experience the ease and terribleness of the early internet.",
+      "id": "318087",
+      "title": "Clean Architecture with ASP.NET Core 6",
+      "description": "Clean Architecture (aka Onion, Hexagonal, Ports-and-Adapters) organizes your code in a way that limits its dependencies on infrastructure concerns. Learn how to apply it to your ASP.NET Core apps!",
       "startsAt": "2022-05-06T09:45:00",
       "endsAt": "2022-05-06T10:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "5c386803-b673-4259-a6ce-d85e1fd0a016"
+        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
       ],
       "categoryItems": [
         105572
@@ -2260,6 +2260,11 @@
           "title": "Blog",
           "url": "https://red-green-refactor.com/",
           "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://red-green-refactor.com/",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [

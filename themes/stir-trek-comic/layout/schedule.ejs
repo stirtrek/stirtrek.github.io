@@ -32,6 +32,13 @@
                 }
 
                 for (var timeSlot of scheduleData.timeSlots ) { %>
+
+                    <tr class="scheduleTimeRow">
+                        <td colspan="5">
+                            <%= timeSlot.time %>
+                        </td>
+                    </tr>
+
                     <% for (var sessionSlot of timeSlot.sessions) { 
                         
                         // Search for the sessions id from the sessionize feed to match our session

@@ -40,10 +40,9 @@ h1, h2, h3 {
 }
 
 #stirTrekHeroContainer {
-    /* background: url("/images/StirTrek-Logo-Banner-453x350.png") no-repeat top; */
-    /* background: url("/images/StirTrek-StrangeLogo-New.png") no-repeat top; */
-    background: url("/images/Portal-1702x1000.png") no-repeat top;
-    background-size: 851px 500px;
+    /* background: url("/images/Portal-1702x1000.png") no-repeat top; */
+    background: url("/images/StirTrek-DayOfVolunteers-1000x1000.png") no-repeat top;
+    background-size: 500px 500px;
     position: relative;
     font-family: 'Komika Axis', 'Comic Sans MS';
     /* height: 400px; */
@@ -181,7 +180,7 @@ h1, h2, h3 {
 }
 
 .footer-links-container {
-    margin: 50px;
+    margin: 30px;
 }
 
 #footerSocialMediaIcons a {
@@ -413,6 +412,10 @@ section {
 
 .comic-panel-gold {
     background-color: #d7c875;
+}
+
+.comic-panel-red {
+    background-color: #d1171f;
 }
 
 .text-with-comic-panel {

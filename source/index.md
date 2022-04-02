@@ -26,19 +26,6 @@ title: Tech & a Flick
     </a>-->
 </div>
 
-
-<div class="row">
-    <div class="col-md-12">
-        <div class="comic-panel-header offset comic-panel-red">
-            What Is This?
-        </div>
-        <div class="comic-panel-body with-header">
-            Stir Trek's awesome art is drawn by Nate Lovett. You should totally <a href="https://nate-lovett.com/">check out his work here</a>.
-            <br><br>
-            Still confused? What day is it?
-        </div>
-    </div>
-</div>
 <div class="row">
     <div class="col-md-6">
         <div class="comic-panel-header offset comic-panel-gold">
@@ -58,7 +45,7 @@ title: Tech & a Flick
             <ul>
                 <li>48 Sessions of critical content</li>
                 <li>Well-known regional &amp; national Speakers</li>
-                <li>Screening of Marvel's <a href="https://www.marvel.com/movies/doctor-strange-in-the-multiverse-of-madness">Paw Patrol in the Multiverse of Madness</a></li>
+                <li>Screening of Marvel's <a href="https://www.marvel.com/movies/doctor-strange-in-the-multiverse-of-madness">Doctor Strange in the Multiverse of Madness</a></li>
                 <li>Breakfast and Lunch</li>
                 <li>Refreshments during the movie</li>
                 <li>Registration box with fun bonus swag</li>
@@ -67,12 +54,11 @@ title: Tech & a Flick
         </div>
         <div class="comic-panel-body with-header hidden" id="whatigetGroot">
             <ul>
-                <li>No job is too big, no pup is too small!</li>
-                <li>PAW Patrol, to the Lookout!</li>
-                <li>PAW Patrol is on a roll!</li>
-                <li>PAW Patrol, to the PAW Patroller!</li>
-                <li>PAW Patrol, to the Air Patroller!</li>
-                <li>PAW Patrol, it's time for an Ultimate Rescue!</li>
+                <li>I am Groot.</li>
+                <li>I am Groot.</li>
+                <li>I am Groot.</li>
+                <li>I am Groot.</li>
+                <li>I am Groot.</li>
             </ul>
             <div class="comic-panel-inset"></div>
         </div>

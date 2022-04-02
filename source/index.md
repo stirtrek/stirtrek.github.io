@@ -10,12 +10,13 @@ title: Tech & a Flick
         <p class="date">6 May 2022</p>
     </div> -->
     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-        <a href="https://stirtrek2022.eventbrite.com/" target="_blank" rel="noopener noreferrer">
-            <p class="date">Stir Trek - Columbus, OH<br>6 May 2022</p>
+        <a href="https://stirtrek2022.eventbrite.com/" class="date" target="_blank" rel="noopener noreferrer">
+            Stir Trek - Columbus, OH<br>6 May 2022
         </a>
         <br>
-        <a href="https://stirtrek2022.eventbrite.com/" target="_blank" rel="noopener noreferrer">
-            <p class="registerNow">Register Now!</p>
+        <br>
+        <a href="https://stirtrek2022.eventbrite.com/" class="registerNow" target="_blank" rel="noopener noreferrer">
+            Register Now!
         </a>
     </div>
     <!--<a href="https://sessionize.com/stir-trek-2022/" target="_blank" rel="noopener noreferrer">
@@ -86,6 +87,7 @@ title: Tech & a Flick
 * **2/5/2022**  - CFP **closed**
 * **2/26/2022** - CFP notification goal date
 * **3/8/2022** - Tickets go on sale - [Buy them here](https://stirtrek2022.eventbrite.com/)
+    * Additional movie-only tickets [can be bought here](https://stirtrek2022extramoviepass.eventbrite.com/)
 * **5/6/2022** - Stir Trek 2022!
 {% raw %}
 <!-- 

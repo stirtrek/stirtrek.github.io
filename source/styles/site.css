@@ -62,6 +62,11 @@ h1, h2, h3 {
 
 #stirTrekHeroContainer #dateAndCostContainer a {
     color: #fff;
+    text-decoration: none;
+}
+#stirTrekHeroContainer #dateAndCostContainer a:hover {
+    color: #63ac91;
+    text-decoration: underline;
 }
 
 @media only screen and (max-width:960px) {
@@ -352,8 +357,12 @@ section {
     top: -40px;
 }
 
-.comic-panel-body a {
+.comic-panel-body a, .comic-panel-body a:visited {
     color: #34344c;
+    text-decoration: underline;
+}
+.comic-panel-body a:hover {
+    color: #d7c875;
 }
 
 .comic-panel-inset {
@@ -374,7 +383,6 @@ section {
     text-transform: uppercase;
     font-family: 'Komika Axis', 'Comic Sans MS';
     font-size: 1.5em;
-    /* font-weight: bold; */
     font-style: italic;
     position: relative;
     display: inline-block;
@@ -395,7 +403,6 @@ section {
     font-weight: bold;
     font-style: italic;
     position: relative;
-    display: inline-block;
     z-index: 12;
     top: -40px;
     float: right;
@@ -706,11 +713,6 @@ div.hr-schedule:before {
 .sponsor.sponsor-gold img,
 .sponsor.sponsor-silver img {
     max-height: 88px;
-}
-
-.sponsor.sponsor-gold .sponsorCompany .description,
-.sponsor.sponsor-silver .sponsorCompany .description {
-    /* height: 500px; */
 }
 
 .sponsorsAbout {

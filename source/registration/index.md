@@ -18,6 +18,7 @@ alias:
 * **2/26/2022** - CFP notification goal date
 * **3/8/2022** - Tickets go on sale - [Buy them here](https://stirtrek2022.eventbrite.com/)
     * Additional movie-only tickets [can be bought here](https://stirtrek2022extramoviepass.eventbrite.com/)
+* **4/15/2022** - Last day to update your food order on Eventbrite
 * **5/6/2022** - Stir Trek 2022!
 
 ## Meal Selection
@@ -33,6 +34,8 @@ When you sign up for your ticket, you'll be able to choose from the following. <
 * Vegan
 * Gluten Free Vegan
 * Keto
+
+The last day to update Eventbrite if you want to change your food order is Friday, April 15th, 2022.
 
 <a name="mealDetails"></a>
 ### Meal Selection Details

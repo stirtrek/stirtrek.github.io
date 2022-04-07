@@ -151,6 +151,13 @@
         "link": "https://callibrity.com/",
         "description": "Callibrity is a software consultancy specializing in software engineering, digital transformation, cloud strategy, and data-driven insights. Our national reach serves clients on their digital journey to solve complex problems and create innovative solutions for ever-changing business models. Our technology experience covers a diverse set of industries with a focus on middle-market and enterprise companies.",
         "logo": "/images/sponsors/callibrity_350x200.jpg"
+      },
+      {
+        "name": "Empora Title",
+        "level": "gold",
+        "link": "https://www.emporatitle.com/",
+        "description": "Empora is bringing equity, speed, and a modern experience to real estate. Today the real estate closing process is confusing, complex, and filled with unfair costs to the consumer. Consumers are left without an advocate and don’t feel like they know enough about the process to advocate for themselves. At Empora, we’re a team of technologists and real estate experts passionately delivering transparency, ease, and equity to this $36 billion industry.",
+        "logo": "/images/sponsors/empora_350x200.png"
       }      
     ],
     "silver": []

@@ -158,7 +158,14 @@
         "link": "https://www.emporatitle.com/",
         "description": "Empora is bringing equity, speed, and a modern experience to real estate. Today the real estate closing process is confusing, complex, and filled with unfair costs to the consumer. Consumers are left without an advocate and don’t feel like they know enough about the process to advocate for themselves. At Empora, we’re a team of technologists and real estate experts passionately delivering transparency, ease, and equity to this $36 billion industry.",
         "logo": "/images/sponsors/empora_350x200.png"
-      }      
+      },
+      {
+        "name": "Lower",
+        "level": "gold",
+        "link": "https://lower.com/",
+        "description": "Here at Lower, we believe homeownership is the greatest wealth creator in America today. We also know the path to get there can be daunting; but it doesn't need to be. As a mission-driven fintech, everything we do revolves around simplifying the homebuying process. Through our growing family of companies and products, our team meets customers where they want to do business at every step of the journey. We innovate through technology, but our people are what sets us apart.",
+        "logo": "/images/sponsors/lower_350x200.png"
+      }
     ],
     "silver": []
   }

@@ -713,7 +713,7 @@
       "questionAnswers": [],
       "roomId": 22922,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": "https://www.youtube-nocookie.com/embed/OsULvjLTyXw"
     },
     {
       "id": "317393",
@@ -789,7 +789,7 @@
       "questionAnswers": [],
       "roomId": 24637,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": "https://www.youtube-nocookie.com/embed/8Qn4fTQdErQ"
     },
     {
       "id": "316964",
@@ -903,7 +903,7 @@
       "questionAnswers": [],
       "roomId": 24634,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": "https://www.youtube-nocookie.com/embed/5GWQv6TIGug"
     },
     {
       "id": "314876",
@@ -1017,6 +1017,11 @@
           "title": "Blog",
           "url": "https://touringplans.com/blog/author/bgandillon/",
           "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://centricconsulting.com/",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [
@@ -1162,6 +1167,11 @@
           "title": "Twitter",
           "url": "https://twitter.com/cassandrafaris",
           "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/cassandrafaris",
+          "linkType": "LinkedIn"
         }
       ],
       "sessions": [
@@ -1184,6 +1194,11 @@
           "title": "Twitter",
           "url": "https://www.twitter.com/chadgreen",
           "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/chadwickgreen/",
+          "linkType": "LinkedIn"
         },
         {
           "title": "Blog",
@@ -1529,16 +1544,6 @@
           "title": "Twitter",
           "url": "https://twitter.com/jtowermi",
           "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/jtower/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://trailheadtechnology.com/blog",
-          "linkType": "Blog"
         }
       ],
       "sessions": [
@@ -1755,11 +1760,6 @@
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/accidentaldeveloper/",
           "linkType": "LinkedIn"
-        },
-        {
-          "title": "Momentum Developer Conference",
-          "url": "https://momentumdevcon.com/",
-          "linkType": "Other"
         }
       ],
       "sessions": [
@@ -1987,9 +1987,14 @@
           "linkType": "LinkedIn"
         },
         {
-          "title": "Slides and Code",
+          "title": "Blog",
           "url": "https://robrich.org/",
-          "linkType": "Other"
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://jetpack.io/",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [
@@ -2039,6 +2044,11 @@
           "title": "Twitter",
           "url": "https://twitter.com/samidip",
           "linkType": "Twitter"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.telerik.com/",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [
@@ -2228,6 +2238,16 @@
           "title": "Twitter",
           "url": "https://www.twitter.com/chopra_tejas",
           "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/chopratejas",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.netflix.com",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [
@@ -2260,11 +2280,6 @@
           "title": "Blog",
           "url": "https://red-green-refactor.com/",
           "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://red-green-refactor.com/",
-          "linkType": "Company_Website"
         }
       ],
       "sessions": [

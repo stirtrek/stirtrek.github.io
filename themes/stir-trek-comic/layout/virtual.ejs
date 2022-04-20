@@ -1,89 +1,40 @@
 <section>
-
+    <style>
+        iframe {
+            margin-right: 30px;
+            margin-bottom: 35px;
+        }
+        .virtualSessionRow {
+            font-size: 0px;
+        }
+        .virtualSessionRow p {
+            font-size: 12px;
+        }
+    </style>
     <% 
         
     // Get the evals() out of the way since they are gross
     var scheduleData = eval("site.data.schedule" + config.currentYear + ".scheduledSessions");
     var sessionAndSpeakerData = eval("site.data.sessions" + config.currentYear);
 
-    if(sessionAndSpeakerData && config.showSchedule) { %>
-                <%
-                // Categories are buried a layer
-                var allCategories = sessionAndSpeakerData.categories.find(c => c.title === "Track").items;
+    if(sessionAndSpeakerData && config.showSchedule) {
+        // Categories are buried a layer
+        var allCategories = sessionAndSpeakerData.categories.find(c => c.title === "Track").items;
 
-                // If speaker surveys are turned on, get the ID of the Sessionize token to look for
-                if(config.showSurveyOnSchedule) {
-                    var surveyTokenSessionizeQuestionId = sessionAndSpeakerData.questions.find(x => x.question === config.surveyQuestionName).id;
-                }
-
-                for (var timeSlot of scheduleData.timeSlots ) { %>
-
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="comic-panel-header offset comic-panel-gold">
-                                <%= timeSlot.time %>
-                            </div>
-                            <div class="comic-panel-body with-header" style="font-size: 0;">
-                                <style>
-                                    iframe {
-                                        margin-right: 30px;
-                                        margin-bottom: 35px;
-                                    }
-                                </style>
-                                <iframe width="224" height="126" 
-                                        src="https://www.youtube-nocookie.com/embed/OsULvjLTyXw" 
-                                        srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/OsULvjLTyXw?autoplay=1><img src=https://img.youtube.com/vi/OsULvjLTyXw/hqdefault.jpg><span>▶</span></a>"
-                                        title="YouTube video player" frameborder="0" 
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <iframe width="224" height="126" 
-                                        src="https://www.youtube-nocookie.com/embed/OsULvjLTyXw" 
-                                        srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/OsULvjLTyXw?autoplay=1><img src=https://img.youtube.com/vi/OsULvjLTyXw/hqdefault.jpg><span>▶</span></a>"
-                                        title="YouTube video player" frameborder="0" 
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <iframe width="224" height="126" 
-                                        src="https://www.youtube-nocookie.com/embed/OsULvjLTyXw" 
-                                        srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/OsULvjLTyXw?autoplay=1><img src=https://img.youtube.com/vi/OsULvjLTyXw/hqdefault.jpg><span>▶</span></a>"
-                                        title="YouTube video player" frameborder="0" 
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <iframe width="224" height="126" 
-                                        src="https://www.youtube-nocookie.com/embed/OsULvjLTyXw" 
-                                        srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/OsULvjLTyXw?autoplay=1><img src=https://img.youtube.com/vi/OsULvjLTyXw/hqdefault.jpg><span>▶</span></a>"
-                                        title="YouTube video player" frameborder="0" 
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <iframe width="224" height="126" 
-                                        src="https://www.youtube-nocookie.com/embed/OsULvjLTyXw" 
-                                        srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/OsULvjLTyXw?autoplay=1><img src=https://img.youtube.com/vi/OsULvjLTyXw/hqdefault.jpg><span>▶</span></a>"
-                                        title="YouTube video player" frameborder="0" 
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                            </div>
-                        </div>
-
-                    <% for (var sessionSlot of timeSlot.sessions) { 
-                        
-                        // Search for the sessions id from the sessionize feed to match our session
-                        var sessionInfo = sessionAndSpeakerData.sessions.find(x => x.id === sessionSlot.id.toString() );
-                        
-                        // Find the speaker sessionInfo
-                        var allSpeakersInfo = sessionAndSpeakerData.speakers.filter(x => sessionInfo.speakers.includes(x.id))
-
-                        // If surveys are turned on, generate this speaker's survey surveyUrl
-                        var speakerSurveyUrl = "";
-                        if(config.showSurveyOnSchedule && allSpeakersInfo && 
-                            allSpeakersInfo[0] && 
-                            allSpeakersInfo[0].questionAnswers && 
-                            allSpeakersInfo[0].questionAnswers[0]) {
-                                let speakerSurveyToken = allSpeakersInfo[0].questionAnswers.find(x => x.questionId === surveyTokenSessionizeQuestionId).answerValue;
-
-                                if(speakerSurveyToken) speakerSurveyUrl = config.surveyUrl + speakerSurveyToken;
-                        }
-
-                    %>
-
-                            <% // If there's a speaker, we can link to their session and get category info
-                            var scheduledRoomName = sessionSlot.scheduledRoom;
-                            if(scheduledRoomName !== "Concourse") {
-                                scheduledRoomName += " Theater";
-                            }
+        for (var timeSlot of scheduleData.timeSlots ) { %>
+            <div class="row virtualSessionRow">
+                <div class="col-md-12">
+                    <div class="comic-panel-header offset comic-panel-gold">
+                        <%= timeSlot.time %>
+                    </div>
+                    <div class="comic-panel-body with-header" style="font-size: 0;">                
+                        <% for (var sessionSlot of timeSlot.sessions) { 
+                            
+                            // Search for the sessions id from the sessionize feed to match our session
+                            var sessionInfo = sessionAndSpeakerData.sessions.find(x => x.id === sessionSlot.id.toString() );
+                            
+                            // Find the speaker sessionInfo
+                            var allSpeakersInfo = sessionAndSpeakerData.speakers.filter(x => sessionInfo.speakers.includes(x.id))
 
                             if(allSpeakersInfo.length > 0) { 
                                 let createSpeakerUrl = (firstName, lastName) => {
@@ -99,50 +50,34 @@
                                         speakerPageUrl: createSpeakerUrl(speaker.firstName, speaker.lastName)
                                     });
                                 })
-                            %>
-                                <td>
-                                    <a href="<%= allSpeakers[0].speakerPageUrl %>#abstract">
-                                        <%= sessionInfo.title %>
-                                    </a>
-                                </td>
-                                <td class="speaker-cell">
-                                    <div>
+                        %>
+                                <div style="display: inline-block; vertical-align: top;">
+                                    <iframe width="224" height="126" 
+                                        src="https://www.youtube-nocookie.com/embed/OsULvjLTyXw" 
+                                        srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/OsULvjLTyXw?autoplay=1><img src=https://img.youtube.com/vi/OsULvjLTyXw/hqdefault.jpg><span>▶</span></a>"
+                                        title="YouTube video player" frameborder="0" 
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <br>
+                                    <p>                                        
+                                        <a href="<%= allSpeakers[0].speakerPageUrl %>#abstract">
+                                            <%= sessionInfo.title %>
+                                        </a>
                                         <% 
                                             allSpeakers.forEach(thisSpeaker => {
                                         %>
                                             <a href="<%= thisSpeaker.speakerPageUrl %>">
                                                 <%= thisSpeaker.firstName + " " + thisSpeaker.lastName %>
                                             </a><br>
-                                        <%
-                                            })
-                                        %>
-                                    </div>
-                                </td>
-
-                                <% var thisCategory = allCategories.find(c => c.id === sessionInfo.categoryItems[0]); %>
-
-                                <td><%= thisCategory.name %></td>
-                                <td class="room-cell"><%= scheduledRoomName %></td>
-
-                                <% if(config.showSurveyOnSchedule) { 
-                                    if( speakerSurveyUrl.length) { %>
-                                        <td><a href="<%= speakerSurveyUrl %>">Click Here</a></td>
-                                    <% } else { %>
-                                        <td></td>
-                                    <% } %>
-                                <% } %>
-                            <% } else { %>
-                                <td><%= sessionInfo.title %></td>
-                                <td class="speaker-cell">
-                                <td></td>
-                                <td class="room-cell"><%= scheduledRoomName %></td>
-                                <% if(config.showSurveyOnSchedule) { %>
-                                <td></td>
-                                <% } %>
+                                        <% var thisCategory = allCategories.find(c => c.id === sessionInfo.categoryItems[0]); %>
+                                        <%= thisCategory.name %>
+                                        <% }); %>
+                                    </p>
+                                </div>
                             <% } %>
-
-                    <% } %>
-                <% } %>
+                        <% } %>
                     </div>
+                </div>
+            </div>
+        <% } %>
     <% } %>
 </section>

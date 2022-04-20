@@ -1,15 +1,59 @@
 <section>
     <style>
         iframe {
-            margin-right: 30px;
-            margin-bottom: 35px;
         }
-        .virtualSessionRow {
+        .virtualSessionRow .virtualSession{
             font-size: 0px;
+            text-align: center;
+            margin-bottom: 20px;
+
         }
-        .virtualSessionRow p {
-            font-size: 12px;
+        .virtualSessionRow .virtualSession p {
+            font-size: 18px;
+            margin-top: 0px;
         }
+
+        .virtualSessionRow p.sessionTitle {
+            font-size: 18px;
+        }
+
+        .virtualSessionRow p.sessionSpeakers {
+            font-size: 14px;
+        }
+
+        .flex-container {
+            display: -ms-flexbox;
+            display: -webkit-flex;
+            display: flex;
+            -webkit-flex-direction: row;
+            -ms-flex-direction: row;
+            flex-direction: row;
+            -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+            -webkit-justify-content: center;
+            -ms-flex-pack: center;
+            justify-content: center;
+            -webkit-align-content: stretch;
+            -ms-flex-line-pack: stretch;
+            align-content: stretch;
+            -webkit-align-items: flex-start;
+            -ms-flex-align: start;
+            align-items: flex-start;
+        }
+
+    .flex-item {
+        -webkit-order: 0;
+        -ms-flex-order: 0;
+        order: 0;
+        -webkit-flex: 0 1 auto;
+        -ms-flex: 0 1 auto;
+        flex: 0 1 auto;
+        -webkit-align-self: auto;
+        -ms-flex-item-align: auto;
+        align-self: auto;
+        width: 33%;
+    }
     </style>
     <% 
         
@@ -21,13 +65,16 @@
         // Categories are buried a layer
         var allCategories = sessionAndSpeakerData.categories.find(c => c.title === "Track").items;
 
-        for (var timeSlot of scheduleData.timeSlots ) { %>
+        for (var timeSlot of scheduleData.timeSlots ) { 
+            if(timeSlot.time === "7:30 AM" || timeSlot.time === "12:00 PM") continue;
+
+            %>
             <div class="row virtualSessionRow">
                 <div class="col-md-12">
                     <div class="comic-panel-header offset comic-panel-gold">
                         <%= timeSlot.time %>
                     </div>
-                    <div class="comic-panel-body with-header" style="font-size: 0;">                
+                    <div class="comic-panel-body with-header flex-container">                
                         <% for (var sessionSlot of timeSlot.sessions) { 
                             
                             // Search for the sessions id from the sessionize feed to match our session
@@ -50,31 +97,51 @@
                                         speakerPageUrl: createSpeakerUrl(speaker.firstName, speaker.lastName)
                                     });
                                 })
-                        %>
-                                <div style="display: inline-block; vertical-align: top;">
+
+                                // Parse the YouTube UID so we can use it in our embeds
+                                var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
+                                let youTubeUniqueId;
+                                if(sessionInfo.recordingUrl) {
+                                    var match = sessionInfo.recordingUrl.match(regExp);
+                                    youTubeUniqueId = (match&&match[7].length==11)? match[7] : false;
+                                    console.log(youTubeUniqueId);
+                                } else {
+                                    const exampleIds = ["OsULvjLTyXw", "8Qn4fTQdErQ", "5GWQv6TIGug"];
+
+                                    const randomId = Math.floor(Math.random() * exampleIds.length);
+                                    youTubeUniqueId = exampleIds[randomId] // Temp hack to make this work for layout
+                                }
+
+                                if(youTubeUniqueId) {
+                                %>
+                                <div class="virtualSession flex-item" style="display: inline-block; vertical-align: top;">
                                     <iframe width="224" height="126" 
-                                        src="https://www.youtube-nocookie.com/embed/OsULvjLTyXw" 
-                                        srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/OsULvjLTyXw?autoplay=1><img src=https://img.youtube.com/vi/OsULvjLTyXw/hqdefault.jpg><span>▶</span></a>"
+                                        src="https://www.youtube-nocookie.com/embed/<%= youTubeUniqueId %>" 
+                                        srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/<%= youTubeUniqueId %>?autoplay=1><img src=https://img.youtube.com/vi/<%= youTubeUniqueId %>/hqdefault.jpg><span>▶</span></a>"
                                         title="YouTube video player" frameborder="0" 
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <br>
-                                    <p>                                        
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+                                    <p class="sessionTitle">                                        
                                         <a href="<%= allSpeakers[0].speakerPageUrl %>#abstract">
                                             <%= sessionInfo.title %>
                                         </a>
+                                    </p>
+                                    <p class="sessionSpeakers">
                                         <% 
                                             allSpeakers.forEach(thisSpeaker => {
                                         %>
                                             <a href="<%= thisSpeaker.speakerPageUrl %>">
                                                 <%= thisSpeaker.firstName + " " + thisSpeaker.lastName %>
                                             </a><br>
+                                        <% }); %>
+
                                         <% var thisCategory = allCategories.find(c => c.id === sessionInfo.categoryItems[0]); %>
                                         <%= thisCategory.name %>
-                                        <% }); %>
                                     </p>
                                 </div>
+                                <% } %>
                             <% } %>
                         <% } %>
+                        <div style="clear: both;"></div>
                     </div>
                 </div>
             </div>

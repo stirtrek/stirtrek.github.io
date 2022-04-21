@@ -1,7 +1,5 @@
 <section>
     <style>
-        iframe {
-        }
         .virtualSessionRow .virtualSession{
             font-size: 0px;
             text-align: center;
@@ -54,6 +52,16 @@
         align-self: auto;
         width: 33%;
     }
+    @media screen and (max-width: 991px) {
+        .flex-item {
+            width: 50%;
+        }
+    }
+    @media screen and (max-width: 650px) {
+        .flex-item {
+            width: 100%;
+        }
+    }
     </style>
     <% 
         
@@ -65,7 +73,8 @@
         // Categories are buried a layer
         var allCategories = sessionAndSpeakerData.categories.find(c => c.title === "Track").items;
 
-        for (var timeSlot of scheduleData.timeSlots ) { 
+        // Hack to filter out breakfast and lunch
+        for (var timeSlot of scheduleData.timeSlots.reverse() ) { 
             if(timeSlot.time === "7:30 AM" || timeSlot.time === "12:00 PM") continue;
 
             %>

@@ -198,10 +198,10 @@
         
         let userAuthenticationAttempt = prompt("Please enter your Eventbrite order / ticket number to login.");
 
-        let sophisticatedSecurityAlgorithm = /^[a-zA-Z0-9]{9}$/;
+        let sophisticatedSecurityAlgorithm = /^[a-zA-Z0-9]{10}$/;
 
         if(userAuthenticationAttempt.match(sophisticatedSecurityAlgorithm)){
-            if(userAuthenticationAttempt === "123456789") {
+            if(userAuthenticationAttempt === "1234567890") {
                 alert("Hey, quit trying to be funny!");
                 return;
             }

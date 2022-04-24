@@ -78,7 +78,7 @@
             if(timeSlot.time === "7:30 AM" || timeSlot.time === "12:00 PM") continue;
 
             %>
-            <div class="row virtualSessionRow">
+            <div class="row virtualSessionRow hidden" data-edttime="<%= timeSlot.time %>">
                 <div class="col-md-12">
                     <div class="comic-panel-header offset comic-panel-gold">
                         <%= timeSlot.time %>
@@ -216,22 +216,41 @@
     function setupRevealTimer() {
 
         let stirTrekYear = 2022;
-        let stirTrekMonth = 5
-        let stirTrekDay = 6
+        let stirTrekMonth = 4;
+        let stirTrekDay = 24;
 
-        const eventTimes = [
-            DateTime.fromObject({year: stirTrekYear, month: stirTrekMonth, day: stirTrekDay, hour: 8, minute: 30 }, { zone: 'America/New_York'}),
-            DateTime.fromObject({year: stirTrekYear, month: stirTrekMonth, day: stirTrekDay, hour: 9, minute: 45 }, { zone: 'America/New_York'}),
-            DateTime.fromObject({year: stirTrekYear, month: stirTrekMonth, day: stirTrekDay, hour: 11, minute: 00 }, { zone: 'America/New_York'}),
-            DateTime.fromObject({year: stirTrekYear, month: stirTrekMonth, day: stirTrekDay, hour: 1, minute: 0 }, { zone: 'America/New_York'}),
-            DateTime.fromObject({year: stirTrekYear, month: stirTrekMonth, day: stirTrekDay, hour: 2, minute: 15 }, { zone: 'America/New_York'}),
-            DateTime.fromObject({year: stirTrekYear, month: stirTrekMonth, day: stirTrekDay, hour: 3, minute: 30 }, { zone: 'America/New_York'}),
-        ]
+        // Get all the rows from the document and parse their time slots
+        let sessionTimeSlots = Array.from(document.querySelectorAll("[data-edttime]")).map(x => x.dataset["edttime"])
+        let sessionDateTimes = []
+        sessionTimeSlots.forEach(ts => {
+            sessionDateTimes.push(DateTime.fromFormat(`${stirTrekMonth}/${stirTrekDay}/${stirTrekYear} ${ts}`, 'M/d/yyyy t'));
+        })
+        sessionDateTimes.sort();
 
+        // const eventTimes = [
+        //     DateTime.fromObject({year: stirTrekYear, month: stirTrekMonth, day: stirTrekDay, hour: 8, minute: 30 }, { zone: 'America/New_York'}),
+        //     DateTime.fromObject({year: stirTrekYear, month: stirTrekMonth, day: stirTrekDay, hour: 9, minute: 45 }, { zone: 'America/New_York'}),
+        //     DateTime.fromObject({year: stirTrekYear, month: stirTrekMonth, day: stirTrekDay, hour: 11, minute: 00 }, { zone: 'America/New_York'}),
+        //     DateTime.fromObject({year: stirTrekYear, month: stirTrekMonth, day: stirTrekDay, hour: 1, minute: 0 }, { zone: 'America/New_York'}),
+        //     DateTime.fromObject({year: stirTrekYear, month: stirTrekMonth, day: stirTrekDay, hour: 2, minute: 15 }, { zone: 'America/New_York'}),
+        //     DateTime.fromObject({year: stirTrekYear, month: stirTrekMonth, day: stirTrekDay, hour: 3, minute: 30 }, { zone: 'America/New_York'})
+        // ]
+
+        let currentTime = DateTime.now();
+        let passedSessionDateTimes = sessionDateTimes.filter(x => currentTime >= x);
         // If the current time is before the first event time, show the event not started prompt
-
+        if(passedSessionDateTimes.length === 0)
+        {
+            console.log("Event hasn't started yet")
+        } else {
         // If the current time is after any event times, show them all
-
+            console.log("Some sessions have happened");
+            passedSessionDateTimes.forEach(x => {
+                let timeStamp = x.setLocale().toLocaleString(DateTime.TIME_SIMPLE, {zone: "America/New_York"})
+                document.querySelectorAll(`[data-edttime="${timeStamp}"]`).forEach(x => x.classList.remove("hidden"));
+                console.log(timeStamp);
+            })
+        }
         // If there are future event times, set a timer to put something on screen when the user should refresh the page
     }
 

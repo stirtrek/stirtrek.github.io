@@ -56,7 +56,6 @@ hexo.extend.generator.register('create-service-worker', function(locals) {
     years.forEach(year => directories.push(`images/speakers/${year}/`));
 
     directories.forEach(directory => {
-        console.log(`./source/${directory}`)
         fs.readdirSync(`./source/${directory}`).forEach(file => {
             // If this isn't also a directory, add it
              if(!fs2.statSync(`./source/${directory}${file}`).isDirectory())

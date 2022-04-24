@@ -113,7 +113,6 @@
                                 if(sessionInfo.recordingUrl) {
                                     var match = sessionInfo.recordingUrl.match(regExp);
                                     youTubeUniqueId = (match&&match[7].length==11)? match[7] : false;
-                                    console.log(youTubeUniqueId);
                                 } else {
                                     const exampleIds = ["OsULvjLTyXw", "8Qn4fTQdErQ", "5GWQv6TIGug"];
 
@@ -157,3 +156,95 @@
         <% } %>
     <% } %>
 </section>
+
+<script src="/scripts/luxon.min.js"></script>
+<script>
+    var DateTime = luxon.DateTime;
+    
+    // Hey! You! Yeah you!
+    // If you're reading this then you're an 31337 h4x0r. Please don't share this. 
+    // We're trying to make a virtual event available due to COVID without spending a thousand hours building something we'll hopefully never use again.
+    // It's our little secret. Ssshhhh :)
+    const secretAuthorizationCookie = "UltraSecureVirtualLogin";
+
+    function setCookie(name, value) {
+    document.cookie = name +'='+ value +'; path=/virtual; expires=Tue, 19 Jan 2038 04:14:07 GMT';
+    }
+    function deleteCookie(name) {
+    document.cookie = name +'=; path=/virtual; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+    }
+
+    function isUserLoggedIn() {
+        // We don't even care what the cookie says. We don't believe in 0-trust systems. 98-trust all the way!
+        if (!document.cookie.split('; ').find(row => row.startsWith(secretAuthorizationCookie))) {
+            return false;
+        } else {
+            return true;
+        }
+    }
+
+    function logout() {
+        deleteCookie(secretAuthorizationCookie);
+    }
+
+    function promptUserForPassword(numberOfTries) {
+        if(!numberOfTries) numberOfTries = 0; // handle the default state
+        console.log(numberOfTries);
+
+        if(numberOfTries === 3) {
+            alert("Please check your Eventbrite order / ticket number and try again!");
+            return;
+        }
+        
+        let userAuthenticationAttempt = prompt("Please enter your Eventbrite order / ticket number to login.");
+
+        let sophisticatedSecurityAlgorithm = /^[a-zA-Z0-9]{9}$/;
+
+        if(userAuthenticationAttempt.match(sophisticatedSecurityAlgorithm)){
+            if(userAuthenticationAttempt === "123456789") {
+                alert("Hey, quit trying to be funny!");
+                return;
+            }
+
+            setCookie(secretAuthorizationCookie, "authorized");
+        } else {
+            promptUserForPassword(numberOfTries + 1);
+        }
+
+    }
+
+    function setupRevealTimer() {
+
+        let stirTrekYear = 2022;
+        let stirTrekMonth = 5
+        let stirTrekDay = 6
+
+        const eventTimes = [
+            DateTime.fromObject({year: stirTrekYear, month: stirTrekMonth, day: stirTrekDay, hour: 8, minute: 30 }, { zone: 'America/New_York'}),
+            DateTime.fromObject({year: stirTrekYear, month: stirTrekMonth, day: stirTrekDay, hour: 9, minute: 45 }, { zone: 'America/New_York'}),
+            DateTime.fromObject({year: stirTrekYear, month: stirTrekMonth, day: stirTrekDay, hour: 11, minute: 00 }, { zone: 'America/New_York'}),
+            DateTime.fromObject({year: stirTrekYear, month: stirTrekMonth, day: stirTrekDay, hour: 1, minute: 0 }, { zone: 'America/New_York'}),
+            DateTime.fromObject({year: stirTrekYear, month: stirTrekMonth, day: stirTrekDay, hour: 2, minute: 15 }, { zone: 'America/New_York'}),
+            DateTime.fromObject({year: stirTrekYear, month: stirTrekMonth, day: stirTrekDay, hour: 3, minute: 30 }, { zone: 'America/New_York'}),
+        ]
+
+        // If the current time is before the first event time, show the event not started prompt
+
+        // If the current time is after any event times, show them all
+
+        // If there are future event times, set a timer to put something on screen when the user should refresh the page
+    }
+
+    // Test for whether the user is previously logged in. If they aren't, try to log in them in.
+    // Note - this happens synchronously (yay old JavaScript features) so we can just try again after what should be a successful login :)
+    if(!isUserLoggedIn()) {
+        promptUserForPassword(0);
+    }
+    // They should be all set now. If not, they'll have to reload the page. Because modern UX.
+    if(isUserLoggedIn()) {
+    // User is logged in. Kick off the super secret timing.
+        setupRevealTimer();
+    }
+
+
+</script>

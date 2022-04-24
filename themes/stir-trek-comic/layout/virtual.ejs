@@ -235,28 +235,32 @@ if(sessionAndSpeakerData && config.showSchedule) {
 
     }
 
-    function getPastTimeSlots(allSessionTimes, currentTime) {
-        return allSessionTimes.filter(x => currentTime >= x);
-    }
-
-    // sessions should only show up the instant they would start with an in person event
-    function setupRevealTimer() {
-
+    function getAllTimeSlotsFromPage() {
         let stirTrekYear = 2022;
         let stirTrekMonth = 4;
         let stirTrekDay = 25;
 
-        // Get all the rows from the document and parse their time slots
         let sessionTimeSlots = Array.from(document.querySelectorAll("[data-edttime]")).map(x => x.dataset["edttime"])
         let sessionDateTimes = []
         sessionTimeSlots.forEach(ts => {
             sessionDateTimes.push(DateTime.fromFormat(`${stirTrekMonth}/${stirTrekDay}/${stirTrekYear} ${ts}`, 'M/d/yyyy t'));
         })
         sessionDateTimes.sort();
+        
+        return sessionDateTimes;
+    }
+
+    function getPastTimeSlots(allSessionTimes, currentTime) {
+        return allSessionTimes.filter(x => currentTime >= x);
+    }
+
+    // sessions should only show up the instant they would start with an in person event
+    function setupRevealTimer() {
+        let allSessionDateTimes = getAllTimeSlotsFromPage();
 
         // Find out if any sessions have already started in the past
         let currentTime = DateTime.now();
-        let passedSessionDateTimes = getPastTimeSlots(sessionDateTimes, currentTime);
+        let passedSessionDateTimes = getPastTimeSlots(allSessionDateTimes, currentTime);
 
         // If the current time means the event has started, hide the "not yet started" section and show the appropriate rows
         if(passedSessionDateTimes.length !== 0) {
@@ -267,10 +271,30 @@ if(sessionAndSpeakerData && config.showSchedule) {
             passedSessionDateTimes.forEach(x => {
                 let timeStamp = x.setLocale().toLocaleString(DateTime.TIME_SIMPLE, {zone: "America/New_York"})
                 document.querySelectorAll(`[data-edttime="${timeStamp}"]`).forEach(x => x.classList.remove("hidden"));
-                console.log(timeStamp);
             })
         }
-        // If there are future event times, set a timer to put something on screen when the user should refresh the page
+
+        // Create a timer that checks for a difference between the number of showing sessions and the number that should be
+        // If the user is behind, prompt them to reload
+        setInterval(function() {
+            // How many time slots should be showing?
+            let currentTime = DateTime.now();
+            let passedSessionDateTimes = getPastTimeSlots(allSessionDateTimes, currentTime);
+
+            // How many are showing?
+            let sessionTimeSlotsShowing = 0;
+            document.querySelectorAll(`[data-edttime="${timeStamp}"]`).forEach(x =>  {
+                if(x.classList.contains("hidden")) {
+                    sessionTimeSlotsShowing++;
+                }
+            });
+
+            // If fewer are showing, prompt the user
+            if(passedSessionDateTimes.length > sessionTimeSlotsShowing) {
+                document.getElementById("newSessionsAvailable").classList.remove("hidden");
+            }
+
+        },5000)
     }
 
     // Test for whether the user is previously logged in. If they aren't, try to log in them in.

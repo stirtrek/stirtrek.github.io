@@ -166,7 +166,7 @@ if(sessionAndSpeakerData && config.showSchedule) {
     <% } %>
 <% } %>
 
-<div class="row" id ="eventNotStartedRow">
+<div class="row hidden" id ="eventNotStartedRow">
     <div class="col-md-12">
         <div class="comic-panel-header offset comic-panel-gold">
             Stir Trek Hasn't Started
@@ -175,6 +175,20 @@ if(sessionAndSpeakerData && config.showSchedule) {
             Stir Trek 2022 starts at 8:30 AM eastern on Friday, May 6th.
             <br><br>
             Please reload this page then to start the virtual event.
+        </div>
+    </div>
+</div>
+
+<div class="row" id ="notAuthenticated">
+    <br>
+    <div class="col-md-12">
+        <div class="comic-panel-header offset comic-panel-gold">
+            Hey! You need to login!
+        </div>
+        <div class="comic-panel-body with-header flex-container">
+            Stir Trek 2022's virtual event is available to Stir Trek ticket holders.
+            <br><br>
+            Please reload this page and enter your Eventbrite ticket ID.
         </div>
     </div>
 </div>
@@ -263,7 +277,11 @@ if(sessionAndSpeakerData && config.showSchedule) {
         let passedSessionDateTimes = getPastTimeSlots(allSessionDateTimes, currentTime);
 
         // If the current time means the event has started, hide the "not yet started" section and show the appropriate rows
-        if(passedSessionDateTimes.length !== 0) {
+        if(passedSessionDateTimes.length === 0) {
+            // Show the "not yet started" section
+            document.getElementById("eventNotStartedRow").classList.remove("hidden");
+            
+        } else {
             // Hide the "not yet started" section
             document.getElementById("eventNotStartedRow").classList.add("hidden");
 
@@ -304,7 +322,10 @@ if(sessionAndSpeakerData && config.showSchedule) {
     }
     // They should be all set now. If not, they'll have to reload the page. Because modern UX.
     if(isUserLoggedIn()) {
-    // User is logged in. Kick off the super secret timing.
+        // Hide the login message
+        document.getElementById("notAuthenticated").classList.add("hidden");
+
+        // User is logged in. Kick off the super secret timing.
         setupRevealTimer();
     }
 

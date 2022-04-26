@@ -69,7 +69,7 @@
             New Sessions Now Available
         </div>
         <div class="comic-panel-body with-header flex-container">
-             <a href="javascript: window.location.reload()">Click here to reload the page.</a>
+             <h3><a href="javascript: window.location.reload()">Click here to reload the page.</a></h3>
         </div>
     </div>
 </div>
@@ -252,7 +252,7 @@ if(sessionAndSpeakerData && config.showSchedule) {
     function getAllTimeSlotsFromPage() {
         let stirTrekYear = 2022;
         let stirTrekMonth = 4;
-        let stirTrekDay = 25;
+        let stirTrekDay = 26;
 
         let sessionTimeSlots = Array.from(document.querySelectorAll("[data-edttime]")).map(x => x.dataset["edttime"])
         let sessionDateTimes = []
@@ -301,8 +301,8 @@ if(sessionAndSpeakerData && config.showSchedule) {
 
             // How many are showing?
             let sessionTimeSlotsShowing = 0;
-            document.querySelectorAll(`[data-edttime="${timeStamp}"]`).forEach(x =>  {
-                if(x.classList.contains("hidden")) {
+            document.querySelectorAll(`[data-edttime]`).forEach(x =>  {
+                if(!x.classList.contains("hidden")) {
                     sessionTimeSlotsShowing++;
                 }
             });

@@ -171,10 +171,6 @@
         "time": "2:15 PM",
         "sessions": [
           {
-            "id": "318464",
-            "scheduledRoom": "CGI"
-          },
-          {
             "id": "315410",
             "scheduledRoom": "Upstart"
           },

@@ -640,25 +640,6 @@
       "recordingUrl": null
     },
     {
-      "id": "318464",
-      "title": "Dependable Realtime Payments Management with Kafka",
-      "description": "With people around the world sheltering at home due to the global pandemic, last 2 year have accelerated the transition of banking and financial services to provide real time data from multiple sources onto a single digital channel in near realtime.The traditional integrated banking model is under tremendous stress and rapidly evolving.\r\nIn this session we will explore the use case in which Kafka will be used to enable a software talk to another software in a bank to give customer a smooth journey and access to the latest customer information across channels. We will be deep diving into banking ecosystem which has its backend built using Kafka-centric pipeline and is exposed to end-users through a REST API layer. All incoming requests from banking app users are written to a single inbound Kafka topic.which has data going into ksqlDB for filtering. Data from these topics is then consumed and processed by various (micro)services via Kafka consumer Topics to b e send out to costumers.",
-      "startsAt": "2022-05-06T14:15:00",
-      "endsAt": "2022-05-06T15:15:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "1d5b4156-c5dd-4995-982d-ecce66fe76eb"
-      ],
-      "categoryItems": [
-        105560
-      ],
-      "questionAnswers": [],
-      "roomId": 22923,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
       "id": "315410",
       "title": "Failing Successfully",
       "description": "Failure is normal. It’s so normal that many software development teams encourage people to fail and fail fast. Failure is also scary. It makes us feel vulnerable. We may even worry that our jobs, relationships, or goals are on the line. Yet we hear countless stories of people turning failure into success in seemingly magical ways. This session will teach you what’s behind that magic. You’ll discover how to help yourself and others fail successfully. You’ll learn how to reflect on failures and apply those reflections in the future. Because success is hard to see in the midst of failure, we’ll also discuss techniques for surviving the challenging times. With this knowledge, you can use your failures as the building blocks of your own seemingly magical successes. ",
@@ -1674,11 +1655,6 @@
           "title": "Blog",
           "url": "https://AccessibleAI.dev",
           "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://matteland.dev",
-          "linkType": "Company_Website"
         }
       ],
       "sessions": [
@@ -1755,11 +1731,6 @@
           "title": "Twitter",
           "url": "https://twitter.com/anaccidentaldev",
           "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/accidentaldeveloper/",
-          "linkType": "LinkedIn"
         }
       ],
       "sessions": [
@@ -1884,11 +1855,6 @@
           "title": "Twitter",
           "url": "https://twitter.com/devpato",
           "linkType": "Twitter"
-        },
-        {
-          "title": "Blog",
-          "url": "https://dev.to/devpato/",
-          "linkType": "Blog"
         }
       ],
       "sessions": [
@@ -2178,28 +2144,6 @@
         318087
       ],
       "fullName": "Steve Smith",
-      "categoryItems": [],
-      "questionAnswers": []
-    },
-    {
-      "id": "1d5b4156-c5dd-4995-982d-ecce66fe76eb",
-      "firstName": "Taranjeet",
-      "lastName": "Kaur",
-      "bio": "I am Technology leader/ Architect , Software developer and active member of Tech Community. In my current role as a Head of Cloud Architecture my work is to transform the way applications at our bank have been designed and migrated to Cloud. I am part of Organizing committee as a track owner for DogFoodCon (https://dogfoodcon.com/) and StirTrek.\r\n If I am not running after my two kids, or lifting weights or reading about latest technology news , I am probably bored and sleeping.\r\n",
-      "tagLine": "Software Architect  ",
-      "profilePicture": "https://sessionize.com/image/2c73-400o400o2-4ntxihRNz7eUGLiLqTjXfR.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "LinkedIn",
-          "url": "http://linkedin.com/in/taranjeet-kaur-a8786215",
-          "linkType": "LinkedIn"
-        }
-      ],
-      "sessions": [
-        318464
-      ],
-      "fullName": "Taranjeet Kaur",
       "categoryItems": [],
       "questionAnswers": []
     },

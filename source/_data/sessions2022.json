@@ -545,25 +545,6 @@
       "recordingUrl": null
     },
     {
-      "id": "312871",
-      "title": "DevOps at Netflix",
-      "description": "Netflix is a global leader in video streaming and has always been known in the valley for its culture document, a seminal work in setting the context about culture.\r\nIn this session, I will shed light on how Netflix thinks about DevOps, how our culture permeates our thought on Agile practices, DevOps, and development.\r\nIt would be a great way to get a glimpse of how loosely coupled and highly aligned Netflix is, and participants can apply some parts of our culture to their organizations.",
-      "startsAt": "2022-05-06T13:00:00",
-      "endsAt": "2022-05-06T14:00:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "0e577c69-f95e-4044-a53c-d626732f2bb6"
-      ],
-      "categoryItems": [
-        105571
-      ],
-      "questionAnswers": [],
-      "roomId": 22922,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
       "id": "317925",
       "title": "Defensive Coding Bootcamp",
       "description": "Do you build things that can be hacked? Want to lower those odds? Join us to learn the basics of security vulnerabilities and evasive coding maneuvers that can make your software more secure, every time. Geared for developers of all skill levels, this code-centric talk will be present code samples and essential fundamentals that apply to every language. ",
@@ -636,6 +617,25 @@
       ],
       "questionAnswers": [],
       "roomId": 24637,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "312871",
+      "title": "DevOps at Netflix",
+      "description": "Netflix is a global leader in video streaming and has always been known in the valley for its culture document, a seminal work in setting the context about culture.\r\nIn this session, I will shed light on how Netflix thinks about DevOps, how our culture permeates our thought on Agile practices, DevOps, and development.\r\nIt would be a great way to get a glimpse of how loosely coupled and highly aligned Netflix is, and participants can apply some parts of our culture to their organizations.",
+      "startsAt": "2022-05-06T13:00:00",
+      "endsAt": "2022-05-06T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0e577c69-f95e-4044-a53c-d626732f2bb6"
+      ],
+      "categoryItems": [
+        105571
+      ],
+      "questionAnswers": [],
+      "roomId": 25610,
       "liveUrl": null,
       "recordingUrl": null
     },
@@ -2387,6 +2387,11 @@
       "id": 24637,
       "name": "Aware",
       "sort": 8
+    },
+    {
+      "id": 25610,
+      "name": "Virtual Only",
+      "sort": 10
     }
   ]
 }

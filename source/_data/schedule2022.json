@@ -146,10 +146,6 @@
             "scheduledRoom": "Revel IT"
           },
           {
-            "id": "312871",
-            "scheduledRoom": "CAS"
-          },
-          {
             "id": "317925",
             "scheduledRoom": "DMG"
           },
@@ -164,6 +160,10 @@
           {
             "id": "311318",
             "scheduledRoom": "Aware"
+          },
+          {
+            "id": "312871",
+            "scheduledRoom": "Virtual Only"
           }
         ]
       },

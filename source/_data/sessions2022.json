@@ -545,6 +545,25 @@
       "recordingUrl": null
     },
     {
+      "id": "311329",
+      "title": "The Event Driven Kafka Light Show",
+      "description": "The ability to properly design and implement highly resilient event driven systems is critical in our data centric world.  But getting one’s mind around the complex choreography of this data driven architecture can be absurdly difficult. By using a Raspberry Pi Kafka Cluster, light bars, and arcade buttons, we will bring event driven architectures into the physical world to help visually understand all the things. Send messages with our portable Raspberry Pi producers and see them flow through our message brokers and to the consumers.  With your own eyes, see how tweaking your messaging system impacts your distributed architecture.  Do your messages need delivered in order? Or maybe architecting for throughput is more important.  Whether it’s streaming real-time data or decoupling microservices through event notifications, this presentation will bring to light the important concepts you need to consider.  Come join our interactive session as we trip the light fantastic in this colorful eye-opening journey into the event streaming dream.",
+      "startsAt": "2022-05-06T13:00:00",
+      "endsAt": "2022-05-06T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8df97796-8644-4bb5-82e3-103a3c34138c"
+      ],
+      "categoryItems": [
+        105560
+      ],
+      "questionAnswers": [],
+      "roomId": 22922,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "317925",
       "title": "Defensive Coding Bootcamp",
       "description": "Do you build things that can be hacked? Want to lower those odds? Join us to learn the basics of security vulnerabilities and evasive coding maneuvers that can make your software more secure, every time. Geared for developers of all skill levels, this code-centric talk will be present code samples and essential fundamentals that apply to every language. ",
@@ -977,6 +996,38 @@
         315461
       ],
       "fullName": "Ashley Stove",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8df97796-8644-4bb5-82e3-103a3c34138c",
+      "firstName": "Barry",
+      "lastName": "Tarlton",
+      "bio": " Barry is passionate about learning, problem solving, and teaching.  He believes that software developers are problem solvers at heart and the languages and platforms we work with are simply the tools in our utility belts.  Barry can often be found trying to inspire and educate others both inside and outside of work. Whether he's MacGyver'ing IOT solutions together or leading a hackathon team, he loves innovating and constantly trying new things.",
+      "tagLine": "MacGyver like Problem Solver and Tech Teacher!",
+      "profilePicture": "https://sessionize.com/image/28e4-400o400o2-9vm8f9GGvp1hmja848Z73j.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/btarlton",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/barry-tarlton-5816345/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://btarlton.blogspot.com/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        311329
+      ],
+      "fullName": "Barry Tarlton",
       "categoryItems": [],
       "questionAnswers": []
     },

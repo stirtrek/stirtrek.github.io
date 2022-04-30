@@ -3,7 +3,9 @@
         font-size: 0px;
         text-align: center;
         margin-bottom: 20px;
-
+    }
+    .virtualSessionRow .virtualSession iframe {
+        border: 3px solid black;
     }
     .virtualSessionRow .virtualSession p {
         font-size: 18px;
@@ -123,11 +125,6 @@ if(sessionAndSpeakerData && config.showSchedule) {
                             if(sessionInfo.recordingUrl) {
                                 var match = sessionInfo.recordingUrl.match(regExp);
                                 youTubeUniqueId = (match&&match[7].length==11)? match[7] : false;
-                            } else {
-                                const exampleIds = ["OsULvjLTyXw", "8Qn4fTQdErQ", "5GWQv6TIGug"];
-
-                                const randomId = Math.floor(Math.random() * exampleIds.length);
-                                youTubeUniqueId = exampleIds[randomId] // Temp hack to make this work for layout
                             }
 
                             if(youTubeUniqueId) {

@@ -201,10 +201,10 @@ if(sessionAndSpeakerData && config.showSchedule) {
     const secretAuthorizationCookie = "UltraSecureVirtualLogin";
 
     function setCookie(name, value) {
-        document.cookie = name +'='+ value +'; path=/virtual; expires=Tue, 19 Jan 2038 04:14:07 GMT';
+        document.cookie = name +'='+ value +'; path=/; expires=Tue, 19 Jan 2038 04:14:07 GMT';
     }
     function deleteCookie(name) {
-        document.cookie = name +'=; path=/virtual; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+        document.cookie = name +'=; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
     }
 
     function isUserLoggedIn() {

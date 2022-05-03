@@ -923,6 +923,21 @@
       "roomId": 24637,
       "liveUrl": null,
       "recordingUrl": "https://www.youtube.com/watch?v=3pa0Lr2I9xU&list=PLaHMqLt8nxCyGfWoYsKNDanhYd-sMpv5O&index=8"
+    },
+    {
+      "id": "18983e8e-b9f1-4e53-9dae-beeed4c63dde",
+      "title": "Movie Trailers Begin",
+      "description": null,
+      "startsAt": "2022-05-06T17:00:00",
+      "endsAt": "2022-05-06T18:00:00",
+      "isServiceSession": true,
+      "isPlenumSession": false,
+      "speakers": [],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 24653,
+      "liveUrl": null,
+      "recordingUrl": null
     }
   ],
   "speakers": [

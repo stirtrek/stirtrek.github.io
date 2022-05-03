@@ -59,6 +59,10 @@ There's a helpful node script that will download this for you. From the root dir
 Files in /scripts get run during a `hexo generate`, reading the data files, creating data for each individual html, and merging them with the appriorate templates. Also, magic.
 
 ## How does the schedule get generated
+Use the Sessionize schedule builder to layout all the sessions. Add service sessions for breakfast, lunch, the movie, etc. Each session has to be in a room so the service sessions should be in one called "Concourse" or "General".
+
+Do not add the suffix " Room" to the name since the website will do that automatically. Any room named "Virtual" will be treated slightly different on the website and will not include the " Room" suffix.
+
 Once you've downloaded the Sessionize data, you should run `node scripts-manuallyexecuting/build-schedule-from-sessions.js` and then commit the file it creates.
 
 Be sure the publish the schedule on the right side of the Accepted Sessions page.

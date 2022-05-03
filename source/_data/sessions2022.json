@@ -564,25 +564,6 @@
       "recordingUrl": "https://www.youtube.com/watch?v=F1-5_QTnFQE&list=PLaHMqLt8nxCyGfWoYsKNDanhYd-sMpv5O&index=26"
     },
     {
-      "id": "317925",
-      "title": "Defensive Coding Bootcamp",
-      "description": "Do you build things that can be hacked? Want to lower those odds? Join us to learn the basics of security vulnerabilities and evasive coding maneuvers that can make your software more secure, every time. Geared for developers of all skill levels, this code-centric talk will be present code samples and essential fundamentals that apply to every language. ",
-      "startsAt": "2022-05-06T13:00:00",
-      "endsAt": "2022-05-06T14:00:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "da1a1990-71d2-45dd-a213-c04430b64d87"
-      ],
-      "categoryItems": [
-        105568
-      ],
-      "questionAnswers": [],
-      "roomId": 24635,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
       "id": "317998",
       "title": "Building Microservice REST APIs Using Azure Functions",
       "description": "The microservice pattern serves as an excellent practice in building modern applications to be more resilient and reduce dependencies across the multiple parts of a product.  But generally, these involve complex web frameworks and containerization to get those benefits.  But using Azure Functions, we can develop more concise services even quicker and get many of the benefits of serverless technology without lots of operational management.  In this session, we’ll explore Azure Functions and see how they can be used to build out a microservice-based solution.",
@@ -1118,11 +1099,6 @@
           "title": "Blog",
           "url": "https://dev.to/rfornal",
           "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "http://www.leadingedje.com",
-          "linkType": "Company_Website"
         }
       ],
       "sessions": [
@@ -1403,28 +1379,6 @@
         318022
       ],
       "fullName": "Hakeem Shittu",
-      "categoryItems": [],
-      "questionAnswers": []
-    },
-    {
-      "id": "da1a1990-71d2-45dd-a213-c04430b64d87",
-      "firstName": "Heather",
-      "lastName": "Downing",
-      "bio": "Climbing the technology mountain and halfway up the side. Experience in .Net, mobile applications and more recently voice interface development. Dabbles in iOT & AR/VR. Focusing on coding for humans and choosing the right tool for the job.\r\n\r\nHeather is a passionate coder and entrepreneur. She has experience working with Fortune 500 companies building enterprise level mobile and .Net applications. She spends her spare time at tech conferences supporting the growth of new developers of all genders, ages and backgrounds. When not coding, Heather spends her time as a competitive equestrian and learning the art of mounted archery.",
-      "tagLine": "Principal Developer Advocate at Okta",
-      "profilePicture": "https://sessionize.com/image/5d1f-400o400o2-90-71d2-45dd-a213-c04430b64d87.ddd6d757-1d9a-4b68-a07a-57d6928a14a3.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Twitter",
-          "url": "http://twitter.com/quorralyne",
-          "linkType": "Twitter"
-        }
-      ],
-      "sessions": [
-        317925
-      ],
-      "fullName": "Heather Downing",
       "categoryItems": [],
       "questionAnswers": []
     },

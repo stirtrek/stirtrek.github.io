@@ -659,6 +659,25 @@
       "recordingUrl": "https://www.youtube.com/watch?v=dNt9pT3dZZg&list=PLaHMqLt8nxCyGfWoYsKNDanhYd-sMpv5O&index=7"
     },
     {
+      "id": "318465",
+      "title": "Explore the Why Behind Insufficient Representation from Women in Technology",
+      "description": "Some stats  (the data has been gathered from multiple sources) -\r\n\r\n Fact#1 50.52% women in USA\r\n Fact#2 47 % women in workforce \r\n Fact#3 Only 20% women in Tech Job \r\n Fact#4  5-7% management/ non tech  positions in Tech companies.\r\n\r\nSo many \"Women in Tech\" events and \"Women Hiring\" drives in Tech Companies, still even in 2019 we haven't been able to bridge the gap. \r\nIt's time to do some REALITY CHECK  and solving this problem once and for all , to leave a strong tech legacy for future generations of women. \r\n\r\nThis session will talk about approaching formative years differently for the girls in our community and how it  can be a potential game changer which could guarantee that the next generation of  Women workforce proudly see themselves as Technologists / Tech mentor.  It will also give an opportunity to retrospect on the  'Gender bias' which exists in Technology even today and discuss on why it is a mere symptom of a bigger problem and not the entire problem itself. \r\n",
+      "startsAt": "2022-05-06T14:15:00",
+      "endsAt": "2022-05-06T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1d5b4156-c5dd-4995-982d-ecce66fe76eb"
+      ],
+      "categoryItems": [
+        105567
+      ],
+      "questionAnswers": [],
+      "roomId": 22923,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "315410",
       "title": "Failing Successfully",
       "description": "Failure is normal. It’s so normal that many software development teams encourage people to fail and fail fast. Failure is also scary. It makes us feel vulnerable. We may even worry that our jobs, relationships, or goals are on the line. Yet we hear countless stories of people turning failure into success in seemingly magical ways. This session will teach you what’s behind that magic. You’ll discover how to help yourself and others fail successfully. You’ll learn how to reflect on failures and apply those reflections in the future. Because success is hard to see in the midst of failure, we’ll also discuss techniques for surviving the challenging times. With this knowledge, you can use your failures as the building blocks of your own seemingly magical successes. ",
@@ -2190,6 +2209,28 @@
         318087
       ],
       "fullName": "Steve Smith",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1d5b4156-c5dd-4995-982d-ecce66fe76eb",
+      "firstName": "Taranjeet",
+      "lastName": "Kaur",
+      "bio": "I am Technology leader/ Architect , Software developer and active member of Tech Community. In my current role as a Head of Cloud Architecture my work is to transform the way applications at our bank have been designed and migrated to Cloud. I am part of Organizing committee as a track owner for DogFoodCon (https://dogfoodcon.com/) and StirTrek.\r\n If I am not running after my two kids, or lifting weights or reading about latest technology news , I am probably bored and sleeping.\r\n",
+      "tagLine": "Software Architect  ",
+      "profilePicture": "https://sessionize.com/image/2c73-400o400o2-4ntxihRNz7eUGLiLqTjXfR.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "http://linkedin.com/in/taranjeet-kaur-a8786215",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        318465
+      ],
+      "fullName": "Taranjeet Kaur",
       "categoryItems": [],
       "questionAnswers": []
     },

@@ -5,7 +5,8 @@
 
 let fs = require('fs');
 let yaml = require('js-yaml');
-let https = require('https');
+// let https = require('https');
+let https = require('follow-redirects').https;
 
 
 // Get the year from the config
@@ -48,6 +49,11 @@ for(var currentYear of allYears) {
         https.get(imgUrl, function(response) {
             response.pipe(outputFile);
             console.log(`Downloading - ${imgUrl}`)
+
+            outputFile.on("finish", () => {
+                outputFile.close();
+                console.log("Download Completed");
+            });
         });
     })
 }

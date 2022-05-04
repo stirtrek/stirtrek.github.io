@@ -564,6 +564,25 @@
       "recordingUrl": "https://www.youtube.com/watch?v=F1-5_QTnFQE&list=PLaHMqLt8nxCyGfWoYsKNDanhYd-sMpv5O&index=26"
     },
     {
+      "id": "311847",
+      "title": "Using Arm in the Cloud to improve performance and save money",
+      "description": "AWS and Oracle Cloud offer Arm processors with improved performance and lower costs than their Intel or AMD equivalents. Switching to a new CPU architecture may be less work than you think and can provide significant benefits.\r\n\r\nWith the release of Apple's Arm-based M1 chip many developers are now running Arm processors locally, and languages and frameworks are being optimized for the Arm instruction set.\r\n\r\nLearn how to start your Arm journey in the Cloud.",
+      "startsAt": "2022-05-06T13:00:00",
+      "endsAt": "2022-05-06T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5b65f17e-cf5a-4746-84d6-217e6445931e"
+      ],
+      "categoryItems": [
+        105561
+      ],
+      "questionAnswers": [],
+      "roomId": 24635,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "317998",
       "title": "Building Microservice REST APIs Using Azure Functions",
       "description": "The microservice pattern serves as an excellent practice in building modern applications to be more resilient and reduce dependencies across the multiple parts of a product.  But generally, these involve complex web frameworks and containerization to get those benefits.  But using Azure Functions, we can develop more concise services even quicker and get many of the benefits of serverless technology without lots of operational management.  In this session, we’ll explore Azure Functions and see how they can be used to build out a microservice-based solution.",
@@ -965,6 +984,33 @@
         311601
       ],
       "fullName": "Alex Riviere",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "5b65f17e-cf5a-4746-84d6-217e6445931e",
+      "firstName": "Andrew",
+      "lastName": "May",
+      "bio": "Andrew has been consulting as an architect for Leading EDJE for 14  years, and has specialized in Cloud Platforms and Microservices for the last 7 years. He's a stickler for detail, and a fierce code reviewer. Originally from the UK, Andrew's accent has settled somewhere in the mid-Atlantic.",
+      "tagLine": "Cloud Solutions Lead and Senior Solutions Architect at Leading EDJE",
+      "profilePicture": "https://sessionize.com/image/3ff0-400o400o2-BUh7aMr33kj34wAQVfdws.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/leadingedje",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/andrew-may-0554b3173",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        311847
+      ],
+      "fullName": "Andrew May",
       "categoryItems": [],
       "questionAnswers": []
     },

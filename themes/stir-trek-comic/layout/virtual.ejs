@@ -87,7 +87,7 @@ if(sessionAndSpeakerData && config.showSchedule) {
 
     // Hack to filter out breakfast and lunch
     for (var timeSlot of scheduleData.timeSlots.slice().reverse() ) { 
-        if(timeSlot.time === "7:30 AM" || timeSlot.time === "12:00 PM") continue;
+        if(timeSlot.time === "7:30 AM" || timeSlot.time === "12:00 PM" || timeSlot.time === "5:00 PM") continue;
 
         %>
         <div class="row virtualSessionRow hidden" data-edttime="<%= timeSlot.time %>">

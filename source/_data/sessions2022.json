@@ -146,7 +146,7 @@
       "questionAnswers": [],
       "roomId": 24636,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": "https://www.youtube.com/watch?v=NDigxIee1cI"
     },
     {
       "id": "311601",
@@ -394,7 +394,7 @@
       "questionAnswers": [],
       "roomId": 22922,
       "liveUrl": null,
-      "recordingUrl": "https://www.youtube.com/watch?v=2xrgmty6mYY&list=PLaHMqLt8nxCyGfWoYsKNDanhYd-sMpv5O&index=27"
+      "recordingUrl": "https://www.youtube.com/watch?v=ucd4QyZMkq4"
     },
     {
       "id": "312507",
@@ -451,7 +451,7 @@
       "questionAnswers": [],
       "roomId": 24636,
       "liveUrl": null,
-      "recordingUrl": "https://www.youtube.com/watch?v=ho_eHvXrFoE&list=PLaHMqLt8nxCyGfWoYsKNDanhYd-sMpv5O&index=20"
+      "recordingUrl": "https://www.youtube.com/watch?v=n0SBtKbN4dU"
     },
     {
       "id": "312631",
@@ -561,7 +561,7 @@
       "questionAnswers": [],
       "roomId": 22922,
       "liveUrl": null,
-      "recordingUrl": "https://www.youtube.com/watch?v=F1-5_QTnFQE&list=PLaHMqLt8nxCyGfWoYsKNDanhYd-sMpv5O&index=26"
+      "recordingUrl": "https://www.youtube.com/watch?v=F1-5_QTnFQE"
     },
     {
       "id": "311847",
@@ -2011,21 +2011,6 @@
           "title": "Twitter",
           "url": "https://twitter.com/rob_rich",
           "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/erobrich/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://robrich.org/",
-          "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://jetpack.io/",
-          "linkType": "Company_Website"
         }
       ],
       "sessions": [

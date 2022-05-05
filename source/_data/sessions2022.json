@@ -73,15 +73,15 @@
       "recordingUrl": "https://www.youtube.com/watch?v=0UYVkUOTURE&list=PLaHMqLt8nxCyGfWoYsKNDanhYd-sMpv5O&index=37"
     },
     {
-      "id": "313157",
-      "title": "Hacking Your Vacation: Using Data for Fun",
-      "description": "Data can be powerful, meaningful, AND fun. Making data-driven decisions can level up your family vacation from awful to awesome. In this session, attendees will walk through a specific example showing how to analyze various data sources to avoid crowds, save money, and piece together a Disney World vacation that's more enjoyable for everyone. By walking through this example, attendees will learn a repeatable framework for strategically attacking real-life problem sets: set goals, identify appropriate data sets, and then use the results to get curious and ask more questions!",
+      "id": "341446",
+      "title": "The Future of People",
+      "description": "As we continue to embrace artificial intelligence, we will see a new future for how people live their lives. We will take a quick look at how AI can impact humanity for the better, and some of the advancements we can look forward to.",
       "startsAt": "2022-05-06T08:30:00",
       "endsAt": "2022-05-06T09:30:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "96b450ce-42d0-48e2-8fa2-4fb9758ea38d"
+        "10c3090d-78be-4405-80d3-a85cff2122b0"
       ],
       "categoryItems": [
         105569
@@ -89,7 +89,7 @@
       "questionAnswers": [],
       "roomId": 22922,
       "liveUrl": null,
-      "recordingUrl": "https://www.youtube.com/watch?v=S0_Yf25Dfys&list=PLaHMqLt8nxCyGfWoYsKNDanhYd-sMpv5O&index=29"
+      "recordingUrl": null
     },
     {
       "id": "318346",
@@ -166,6 +166,25 @@
       "roomId": 24637,
       "liveUrl": null,
       "recordingUrl": "https://www.youtube.com/watch?v=vcZ9dycwzzk&list=PLaHMqLt8nxCyGfWoYsKNDanhYd-sMpv5O&index=3"
+    },
+    {
+      "id": "313157",
+      "title": "Hacking Your Vacation: Using Data for Fun",
+      "description": "Data can be powerful, meaningful, AND fun. Making data-driven decisions can level up your family vacation from awful to awesome. In this session, attendees will walk through a specific example showing how to analyze various data sources to avoid crowds, save money, and piece together a Disney World vacation that's more enjoyable for everyone. By walking through this example, attendees will learn a repeatable framework for strategically attacking real-life problem sets: set goals, identify appropriate data sets, and then use the results to get curious and ask more questions!",
+      "startsAt": "2022-05-06T08:30:00",
+      "endsAt": "2022-05-06T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "96b450ce-42d0-48e2-8fa2-4fb9758ea38d"
+      ],
+      "categoryItems": [
+        105569
+      ],
+      "questionAnswers": [],
+      "roomId": 25610,
+      "liveUrl": null,
+      "recordingUrl": "https://www.youtube.com/watch?v=S0_Yf25Dfys&list=PLaHMqLt8nxCyGfWoYsKNDanhYd-sMpv5O&index=29"
     },
     {
       "id": "318022",
@@ -906,25 +925,6 @@
       "recordingUrl": "https://www.youtube.com/watch?v=23H78ZVYnZk&list=PLaHMqLt8nxCyGfWoYsKNDanhYd-sMpv5O&index=12"
     },
     {
-      "id": "317303",
-      "title": "Advanced Kubernetes Troubleshooting with Open Source Tools",
-      "description": "As engineers, operators, and administrators, we grapple with vexing and expensive problems. Support bottlenecks caused by technical language barriers, differing time zones, incomplete information, and other typically minor issues can extend the time between identifying an issue and resolving it by hours or even days. Fortunately, a fully open source toolset available called Troubleshoot can drastically reduce the time between diagnosis and solution.\r\n\r\nThis lightweight, fully customizable Kubernetes plugin consists of two parts - preflight and support-bundle. Troubleshoot is capable of collecting, analyzing, and packaging the data needed to get and keep your cluster operating at peak functionality. If it sounds too good to be true, just wait - it gets even better. \r\n\r\nJoin our live lab to see tiny-yet-mighty troubleshoot.sh in action in a live demo, plus the opportunity to learn how to customize troubleshoot components to fit your needs.",
-      "startsAt": "2022-05-06T15:30:00",
-      "endsAt": "2022-05-06T16:30:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "584cd7ed-bf36-4838-a841-5cc81be3fc78"
-      ],
-      "categoryItems": [
-        105571
-      ],
-      "questionAnswers": [],
-      "roomId": 24634,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
       "id": "314876",
       "title": "IoT, JavaScript and Beer Brewing: Cheers to that!",
       "description": "Beer brewing can be fun, but combining brewing with IoT device hacking is even more fun. It is possible to connect and collect data about almost anything, including the fermentation process inside a closed fermenter using open source technologies. In this presentation, the speaker will introduce basic concepts of IoT devices, how to collect the data efficiently and how to use various tools to store, extract and manipulate that data. And if you’re new to beer brewing, don’t worry; you will also learn a thing or two about that as well!",
@@ -1481,6 +1481,22 @@
         316964
       ],
       "fullName": "Jason Horner",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "10c3090d-78be-4405-80d3-a85cff2122b0",
+      "firstName": "Jeff",
+      "lastName": "Blankenburg",
+      "bio": "Jeff Blankenburg spent the early part of his career in digital advertising, building websites for Victoria’s Secret, Abercrombie & Fitch, and Ford Motor Company, among others. He also spent 8 years at Microsoft, primarily as an evangelist for any new technology he could get his hands on.\r\n\r\nToday, he works on the Amazon Alexa team helping developers make Alexa even smarter. Jeff has also spoken at conferences all over the world, including London, Munich, India, Tokyo, Sydney, and New York, covering topics ranging from software development technologies to soft skill techniques. He also serves as an organizer for the Stir Trek conference.",
+      "tagLine": "Builder of Things / Speaker / Alexa Skill Developer / Teacher",
+      "profilePicture": "https://sessionize.com/image/862e-400o400o2-fnSDchz6ZCyHqCeyqejKGP.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        341446
+      ],
+      "fullName": "Jeff Blankenburg",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -2302,38 +2318,6 @@
         311505
       ],
       "fullName": "Thomas Haver",
-      "categoryItems": [],
-      "questionAnswers": []
-    },
-    {
-      "id": "584cd7ed-bf36-4838-a841-5cc81be3fc78",
-      "firstName": "Treva",
-      "lastName": "Williams",
-      "bio": "Treva Nichole Williams is a Red Hat certified Linux, OpenStack, & OpenShift sysadmin, instructor, & dedicated Open Source evangelist. Before venturing into the field of online learning, Treva spent 5 years managing Rackspace’s multi-region, multi-tenant public cloud infrastructure as a Cloud Virtualization administrator. Treva is an OpenStack Active Technical Contributor & Active User Contributor, and is active in several OpenStack, RDO, OpenShift and Ceph communities and groups. When not OpenStacking, OpenShifting, or Cephing, Treva enjoys doggos, candy, cartoons, and playing \"So You Think You're a Marine Biologist\" on Google.\r\n\r\nSpeaking of doggos, Treva frequently travels with her companion pup, Sir Hairold B. Goggington III, & he loves making new friends. Feel free to come up & say hello. :D",
-      "tagLine": "Developer Evangelist / Community Manager - Replicated",
-      "profilePicture": "https://sessionize.com/image/07d3-400o400o2-nLooHhoY5PwtmGtWAunNBT.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Twitter",
-          "url": "https://twitter.com/OGtrilliams",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/trilliams/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://twitter.com/OGtrilliams",
-          "linkType": "Blog"
-        }
-      ],
-      "sessions": [
-        317303
-      ],
-      "fullName": "Treva Williams",
       "categoryItems": [],
       "questionAnswers": []
     }

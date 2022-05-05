@@ -566,7 +566,7 @@
     {
       "id": "311847",
       "title": "Using Arm in the Cloud to improve performance and save money",
-      "description": "AWS and Oracle Cloud offer Arm processors with improved performance and lower costs than their Intel or AMD equivalents. Switching to a new CPU architecture may be less work than you think and can provide significant benefits.\r\n\r\nWith the release of Apple's Arm-based M1 chip many developers are now running Arm processors locally, and languages and frameworks are being optimized for the Arm instruction set.\r\n\r\nLearn how to start your Arm journey in the Cloud.",
+      "description": "AWS, Azure and Oracle Cloud offer Arm processors with improved performance and lower costs than their Intel or AMD equivalents. Switching to a new CPU architecture may be less work than you think and can provide significant benefits.\r\n\r\nWith the release of Apple's Arm-based M1 chip many developers are now running Arm processors locally, and languages and frameworks are being optimized for the Arm instruction set.\r\n\r\nLearn how to start your Arm journey in the Cloud.",
       "startsAt": "2022-05-06T13:00:00",
       "endsAt": "2022-05-06T14:00:00",
       "isServiceSession": false,

@@ -165,6 +165,13 @@
         "link": "https://lower.com/",
         "description": "Here at Lower, we believe homeownership is the greatest wealth creator in America today. We also know the path to get there can be daunting; but it doesn't need to be. As a mission-driven fintech, everything we do revolves around simplifying the homebuying process. Through our growing family of companies and products, our team meets customers where they want to do business at every step of the journey. We innovate through technology, but our people are what sets us apart.",
         "logo": "/images/sponsors/lower_350x200.png"
+      },
+      {
+        "name": "Alexa",
+        "level": "gold",
+        "link": "https://developer.amazon.com/en-US/alexa",
+        "description": "Alexa is Amazon’s cloud-based voice service available on hundreds of millions of devices from Amazon and third-party device manufacturers. With Alexa, you can build natural voice experiences that offer customers a more intuitive way to interact with the technology they use every day. We offer a collection of tools, APIs, reference solutions, and documentation to make it easier to build for Alexa.",
+        "logo": "/images/sponsors/amazon_alexa_350x200.png"
       }
     ],
     "silver": []

@@ -16,7 +16,7 @@ title: Tech & a Flick
         <br>
             Sold Out!
         <br><br>
-        <a href="https://www.eventbrite.com/e/stir-trek-2022-additional-movie-pass-tickets-305155878447" class="registerNow" target="_blank" rel="noopener noreferrer">Additional Movie Passes Available</a>
+        <a href="/virtual" class="registerNow" target="_blank" rel="noopener noreferrer">Attend the Virtual Event</a>
     </div>
     <!--<a href="https://sessionize.com/stir-trek-2022/" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">

@@ -925,6 +925,25 @@
       "recordingUrl": "https://www.youtube.com/watch?v=23H78ZVYnZk&list=PLaHMqLt8nxCyGfWoYsKNDanhYd-sMpv5O&index=12"
     },
     {
+      "id": "341703",
+      "title": "Get production-ready quickly with Azure IoT Central",
+      "description": "This session will provide an overview of the features available in Azure IoT Central as well as some pros and cons of the implementation. You will see how this SaaS solution can be extended for more complicated scenarios.",
+      "startsAt": "2022-05-06T15:30:00",
+      "endsAt": "2022-05-06T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1dcd0ca7-4052-4f43-998e-4f895ebd6614"
+      ],
+      "categoryItems": [
+        105561
+      ],
+      "questionAnswers": [],
+      "roomId": 24634,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "314876",
       "title": "IoT, JavaScript and Beer Brewing: Cheers to that!",
       "description": "Beer brewing can be fun, but combining brewing with IoT device hacking is even more fun. It is possible to connect and collect data about almost anything, including the fermentation process inside a closed fermenter using open source technologies. In this presentation, the speaker will introduce basic concepts of IoT devices, how to collect the data efficiently and how to use various tools to store, extract and manipulate that data. And if you’re new to beer brewing, don’t worry; you will also learn a thing or two about that as well!",
@@ -1236,7 +1255,8 @@
         }
       ],
       "sessions": [
-        316882
+        316882,
+        341703
       ],
       "fullName": "Carey Payette",
       "categoryItems": [],

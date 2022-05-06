@@ -1582,6 +1582,11 @@
           "title": "Twitter",
           "url": "https://twitter.com/joel__lord",
           "linkType": "Twitter"
+        },
+        {
+          "title": "Blog",
+          "url": "http://javascripteverything.com",
+          "linkType": "Blog"
         }
       ],
       "sessions": [
@@ -2426,42 +2431,42 @@
     },
     {
       "id": 22923,
-      "name": "CGI",
+      "name": "CGI (Live 4 - Simul 5,6,7,8,9)",
       "sort": 1
     },
     {
       "id": 24633,
-      "name": "Upstart",
+      "name": "Upstart (Live 3 - Simul 1,2)",
       "sort": 2
     },
     {
       "id": 22924,
-      "name": "Revel IT",
+      "name": "Revel IT (Live 15 - Simul 10,11)",
       "sort": 3
     },
     {
       "id": 22922,
-      "name": "CAS",
+      "name": "CAS (Live 14 - Simul 12, 13)",
       "sort": 4
     },
     {
       "id": 24635,
-      "name": "DMG",
+      "name": "DMG (Live 16 - Simul 21)",
       "sort": 5
     },
     {
       "id": 24634,
-      "name": "Daugherty",
+      "name": "Daugherty (Live 17 - Simul 20)",
       "sort": 6
     },
     {
       "id": 24636,
-      "name": "impact.com",
+      "name": "impact.com (Live 27 - Simul 23, 24, 25, 26)",
       "sort": 7
     },
     {
       "id": 24637,
-      "name": "Aware",
+      "name": "Aware (Live 28 - Simul 18, 19)",
       "sort": 8
     },
     {

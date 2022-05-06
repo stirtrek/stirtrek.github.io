@@ -65,9 +65,9 @@
 
                             <% // If there's a speaker, we can link to their session and get category info
                             var scheduledRoomName = sessionSlot.scheduledRoom;
-                            if(scheduledRoomName !== "Concourse" && scheduledRoomName.indexOf("Virtual",0) === -1) {
-                                scheduledRoomName += " Theater";
-                            }
+                            //if(scheduledRoomName !== "Concourse" && scheduledRoomName.indexOf("Virtual",0) === -1) {
+                            //    scheduledRoomName += " Theater";
+                            //}
 
                             if(allSpeakersInfo.length > 0) { 
                                 let createSpeakerUrl = (firstName, lastName) => {

@@ -254,7 +254,7 @@ if(sessionAndSpeakerData && config.showSchedule) {
         let sessionTimeSlots = Array.from(document.querySelectorAll("[data-edttime]")).map(x => x.dataset["edttime"])
         let sessionDateTimes = []
         sessionTimeSlots.forEach(ts => {
-            sessionDateTimes.push(DateTime.fromFormat(`${stirTrekMonth}/${stirTrekDay}/${stirTrekYear} ${ts}`, 'M/d/yyyy t'));
+            sessionDateTimes.push(DateTime.fromFormat(`${stirTrekMonth}/${stirTrekDay}/${stirTrekYear} ${ts}`, 'M/d/yyyy t', {zone: "America/New_York"}));
         })
         sessionDateTimes.sort();
         

@@ -11,12 +11,10 @@ title: Tech & a Flick
     </div> -->
     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <!-- <a href="https://stirtrek2022.eventbrite.com/" class="date" target="_blank" rel="noopener noreferrer"> -->
-            Stir Trek - Columbus, OH<br>6 May 2022
+            Stir Trek 2022 is Over!
         <!-- </a> -->
-        <br>
-            Sold Out!
         <br><br>
-        <a href="/virtual" class="registerNow" target="_blank" rel="noopener noreferrer">Attend the Virtual Event</a>
+        <a href="/recordings" class="registerNow" target="_blank" rel="noopener noreferrer">Watch the recorded sessions</a>
     </div>
     <!--<a href="https://sessionize.com/stir-trek-2022/" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">

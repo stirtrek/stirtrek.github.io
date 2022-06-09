@@ -108,7 +108,7 @@
       "questionAnswers": [],
       "roomId": 24635,
       "liveUrl": null,
-      "recordingUrl": "https://www.youtube.com/watch?v=20HTeZVAmrc&list=PLaHMqLt8nxCyGfWoYsKNDanhYd-sMpv5O&index=16"
+      "recordingUrl": "https://youtu.be/YkuZPwlCm9w"
     },
     {
       "id": "312642",
@@ -1964,6 +1964,11 @@
           "title": "Blog",
           "url": "https://blog.frankel.ch/",
           "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://apisix.apache.org/",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [

@@ -5,17 +5,18 @@ title: Tech & a Flick
 
 {% raw %}
 <div class="row" id="stirTrekHeroContainer">
-     <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
-        <p class="date">6 May 2022</p>
-    </div> -->
+        <p class="date">5 May 2023</p>
+    </div>
+    <!--
     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-        <!-- <a href="https://stirtrek2022.eventbrite.com/" class="date" target="_blank" rel="noopener noreferrer"> -->
+        <a href="https://stirtrek2022.eventbrite.com/" class="date" target="_blank" rel="noopener noreferrer">
             Stir Trek 2022 is Over!
-        <!-- </a> -->
+        </a>
         <br><br>
         <a href="/recordings" class="registerNow" target="_blank" rel="noopener noreferrer">Watch the recorded sessions</a>
-    </div>
+    </div> -->
     <!--<a href="https://sessionize.com/stir-trek-2022/" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             <p class="date">CFP is Open!</p>
@@ -79,14 +80,14 @@ title: Tech & a Flick
         </div>
         <div class="comic-panel-body with-header small">
 {% endraw %}
-* **11/29/2021** - Call for sponsors opens
-* **1/16/2022** - CFP opened
+* **11/28/2022** - Call for sponsors opens
+<!--* **1/16/2022** - CFP opened
 * **2/5/2022**  - CFP **closed**
 * **2/26/2022** - CFP notification goal date
 * **3/8/2022** - Tickets go on sale - [Buy them here](https://stirtrek2022.eventbrite.com/)
     * Additional movie-only tickets [can be bought here](https://stirtrek2022extramoviepass.eventbrite.com/)
-* **4/15/2022** - Last day to update your food order on Eventbrite
-* **5/6/2022** - Stir Trek 2022!
+* **4/15/2022** - Last day to update your food order on Eventbrite-->
+* **5/5/2023** - Stir Trek 2023!
 {% raw %}
 <!-- 
 * **TBD** - Last day to edit shipping information

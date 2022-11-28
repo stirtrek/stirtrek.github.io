@@ -6,19 +6,20 @@
 title: Stir Trek
 subtitle: Stir Trek Conference
 description: Stir Trek is a one-day conference in Columbus, Ohio focused on teaching software developers the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a private screening of a blockbuster film on its opening day.
-keywords: Technical Conference, StirTrek, Stir Trek, web, mobile, cloud, conference, sofware, developer, designer, community
+keywords: Technical Conference, StirTrek, Stir Trek, web, mobile, cloud, conference, software, developer, designer, community
 author: Stir Trek Conference
 language: EN-US
 utcOffset: "-0400"
 
 # To support multiple years of archives, update the currentYear and add the old one to the allYears array
-currentYear: 2022
+currentYear: 2023
 allYears:
   - 2018
   - 2019
   - 2020
   - 2021
   - 2022
+  - 2023
 showSchedule: true
 showSessionList: false
 showSpeakers: true
@@ -26,8 +27,7 @@ showSpeakers: true
 # Add a custom speaker question and put hte name in "surveyQuestionName"
 showSurveyOnSchedule: false
 surveyUrl: https://docs.google.com/forms/d/e/1FAIpQLSdB_bb2bX1qDfCDvIX_Fgm431l1a-CFqqRZyO-Ja6F0RX6Rxg/viewform?usp=pp_url&entry.847701887=
-surveyQuestionName: SurveyFeedbackToken 
-
+surveyQuestionName: SurveyFeedbackToken
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -70,7 +70,7 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-  
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -79,7 +79,7 @@ highlight:
 #   path: ''
 #   per_page: 10
 #   order_by: -date
-  
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -108,7 +108,7 @@ theme: stir-trek-comic
 ## repo: https://github.com/stirtrek/stirtrek.github.io.git
 deploy:
   type: git
-  repo: 
+  repo:
     github:
       url: https://github.com/stirtrek/stirtrek.github.io.git/
       branch: master

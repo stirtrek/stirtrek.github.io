@@ -2,7 +2,7 @@
 /// Because Service Workers need to specifically call out each asset to cache, we need to generate this dynamically.
 /// Most of this file is just determining what files Hexo will create, and then putting them into the final serviceworker.js
 ///
-hexo.extend.generator.register('create-service-worker', function(locals) {
+hexo.extend.generator.register('create-service-worker', function (locals) {
 
     // Used to map the speakers and sessions together to figure out what pages will be cached
     let speakerAndSessionParser = require('./speakerAndSessionParser.js');
@@ -21,26 +21,27 @@ hexo.extend.generator.register('create-service-worker', function(locals) {
     // Add all the normal pages and posts. This will also grab other files like CSS that Hexo touches.
     // Note: it doesn't grab images. We'll do that at the end
     locals.pages.toArray().concat(locals.posts.toArray()).forEach(page => {
-        if(page.path === "scripts/serviceworker.js") return;
+        if (page.path === "scripts/serviceworker.js") return;
 
         // Every URL should have a leading /
         let fixedString = page.path;
-        if(fixedString[0] !== '/')
+        if (fixedString[0] !== '/')
             fixedString = "/" + fixedString;
 
         // If it's an index.html, we need to load the associated / route as well. We also remove the last slash.
-        if(fixedString.endsWith("index.html"))
+        if (fixedString.endsWith("index.html"))
             allPagesAndFiles.push(fixedString.substring(0, fixedString.length - 10));
 
         allPagesAndFiles.push(fixedString)
     });
 
     // Find all the magically generated pages
+    console.log('Generating pages for years...')
     years.forEach((year) => {
         let thisYearsFile = eval('locals.data.sessions' + year);
         let thisYearsSchedule = eval('locals.data.schedule' + year);
 
-        if(!thisYearsFile || !thisYearsSchedule) return;
+        if (!thisYearsFile || !thisYearsSchedule) return;
 
         let mappedSpeakers = speakerAndSessionParser.getSpeakersWithSessions(thisYearsFile, thisYearsSchedule, year);
 
@@ -58,20 +59,20 @@ hexo.extend.generator.register('create-service-worker', function(locals) {
     directories.forEach(directory => {
         fs.readdirSync(`./source/${directory}`).forEach(file => {
             // If this isn't also a directory, add it
-             if(!fs2.statSync(`./source/${directory}${file}`).isDirectory())
+            if (!fs2.statSync(`./source/${directory}${file}`).isDirectory())
                 allPagesAndFiles.push(directory + file);
 
         })
-    
+
     })
 
     // Take all of the files we've found and put them into a string
     let allPagesAndFilesString = ""; // This will be put into the Service Worker template
-    for(var x = 0; x < allPagesAndFiles.length; x++) {
+    for (var x = 0; x < allPagesAndFiles.length; x++) {
         allPagesAndFilesString += `"${allPagesAndFiles[x]}"`; // format: "/some/path",
 
         // Safari seems to choke on trailing commas, so we insert them for all but the last item
-        if(x < allPagesAndFiles.length - 1)
+        if (x < allPagesAndFiles.length - 1)
             allPagesAndFilesString += ",\r\n";
     }
 

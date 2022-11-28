@@ -1,0 +1,19 @@
+{
+    "sessions": [
+        {
+            "id": "243199c4-5336-44b6-bed1-ee6c06a4d3cb",
+            "title": "Arrival & Breakfast",
+            "description": null,
+            "startsAt": "2023-05-05T07:30:00",
+            "endsAt": "2023-05-05T08:30:00",
+            "isServiceSession": true,
+            "isPlenumSession": false,
+            "speakers": [],
+            "categoryItems": [],
+            "questionAnswers": [],
+            "roomId": 24653,
+            "liveUrl": null,
+            "recordingUrl": null
+        }
+    ]
+}

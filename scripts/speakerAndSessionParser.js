@@ -3,14 +3,14 @@ class SpeakerWithSessions {
         this.firstName = firstName;
         this.lastName = lastName;
 
-        if(speakerObj) {
-            if(speakerObj.profilePicture)
+        if (speakerObj) {
+            if (speakerObj.profilePicture)
                 this.profilePicture = speakerObj.profilePicture;
 
-            if(speakerObj.tagLine)
+            if (speakerObj.tagLine)
                 this.tagLine = speakerObj.tagLine;
-    
-            if(speakerObj.bio)
+
+            if (speakerObj.bio)
                 this.bio = speakerObj.bio;
         }
 
@@ -23,7 +23,7 @@ class SpeakerWithSessions {
     }
 
     getSpeakerPageUrl() {
-        return `/speakers/${this.year}/${this.firstName.replace(/[ \"]/g,"")}-${this.lastName.replace(/[ \"]/g,"")}.html`
+        return `/speakers/${this.year}/${this.firstName.replace(/[ \"]/g, "")}-${this.lastName.replace(/[ \"]/g, "")}.html`
     }
 
     // Knows where we'd store the picture locally even though the data shows a Sessionize URL
@@ -35,7 +35,7 @@ class SpeakerWithSessions {
     }
 
     // Needed to let this object get handed to Hexo to render
-    getBaseObject(){
+    getBaseObject() {
         return {
             firstName: this.firstName,
             lastName: this.lastName,
@@ -49,8 +49,11 @@ class SpeakerWithSessions {
     }
 }
 
-module.exports ={
-    getSpeakersWithSessions: function(sessionsDataFile, scheduleDataFile, year) {
+module.exports = {
+    getSpeakersWithSessions: function (sessionsDataFile, scheduleDataFile, year) {
+        if (!sessionsDataFile) return [];
+        if (!sessionsDataFile.speakers) return [];
+
         return sessionsDataFile.speakers.map((speaker) => {
             // Clean up special characters
             var firstName = speaker.firstName;
@@ -62,30 +65,34 @@ module.exports ={
                 if (session.speakers.length === 0)
                     return false;
                 return session.speakers.includes(speaker.id.toString());
-            }).map(function (session) {
-                var sessionTime, sessionRoom;
+            });
 
-                // Find the time slot for this session
-                scheduleDataFile.scheduledSessions.timeSlots.forEach(timeSlot => {
-                    var matchedScheduleSession = timeSlot.sessions.find(scheduledSession => {
-                        return scheduledSession.id.toString() === session.id.toString()
+            if (sessions) {
+                sessions.map(function (session) {
+                    var sessionTime, sessionRoom;
+
+                    // Find the time slot for this session
+                    scheduleDataFile.scheduledSessions.timeSlots.forEach(timeSlot => {
+                        var matchedScheduleSession = timeSlot.sessions.find(scheduledSession => {
+                            return scheduledSession.id.toString() === session.id.toString()
+                        })
+
+
+                        if (matchedScheduleSession) {
+                            sessionTime = timeSlot.time;
+                            sessionRoom = matchedScheduleSession.scheduledRoom;
+                        }
                     })
 
-                    
-                    if(matchedScheduleSession) {
-                        sessionTime = timeSlot.time;
-                        sessionRoom = matchedScheduleSession.scheduledRoom;
-                    }
-                })                    
-
-                return {
-                    id: session.id,
-                    title: session.title,
-                    description: session.description,
-                    time: sessionTime,
-                    room: sessionRoom
-                };
-            });
+                    return {
+                        id: session.id,
+                        title: session.title,
+                        description: session.description,
+                        time: sessionTime,
+                        room: sessionRoom
+                    };
+                });
+            }
             return new this.SpeakerWithSessions(firstName, lastName, speaker, sessions, year);
 
 

@@ -7,13 +7,13 @@ alias:
 
 <style>
     #spotitQrImage {
-        width: 15%; 
+        width: 15%;
         display: inline-block;
     }
     #spotitQrText {
-        width: 70%; 
-        display: inline-block; 
-        padding-left:5%; 
+        width: 70%;
+        display: inline-block;
+        padding-left:5%;
         vertical-align: middle;
     }
     @media only screen and (max-width: 992px) {
@@ -23,10 +23,11 @@ alias:
         #spotitQrText {
         }
         #spotitqrcode {
-            /* width: 50px; */
+            /*width: 50px;*/
         }
     }
 </style>
 
-# 2022 Schedule
+# 2023 Schedule
+
 <div class="icon-hr"></div>

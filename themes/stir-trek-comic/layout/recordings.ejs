@@ -69,10 +69,14 @@
     }
 </style>
 
-<% // Get the evals() out of the way since they are gross var scheduleData=eval("site.data.schedule" +
-    config.currentYear + ".scheduledSessions" ); var sessionAndSpeakerData=eval("site.data.sessions" +
-    config.currentYear); if(sessionAndSpeakerData && config.showSchedule) { // Categories are buried a layer var
-    allCategories=sessionAndSpeakerData.categories.find(c=> c.title === "Track").items;
+<% 
+// Get the evals() out of the way since they are gross
+
+var scheduleData=eval("site.data.schedule" + config.currentYear + ".scheduledSessions" );
+    var sessionAndSpeakerData=eval("site.data.sessions" + config.currentYear);
+    if(sessionAndSpeakerData && config.showSchedule) { 
+        // Categories are buried a layer
+        var allCategories=sessionAndSpeakerData.categories.find(c=> c.title === "Track").items;
 
     // Hack to filter out breakfast and lunch
     for (var timeSlot of scheduleData.timeSlots.slice() ) {
@@ -85,9 +89,10 @@
                 <%= timeSlot.time %>
             </div>
             <div class="comic-panel-body with-header flex-container">
-                <% for (var sessionSlot of timeSlot.sessions) { // Search for the sessions id from the sessionize feed
-                    to match our session if(!sessionAndSpeakerData.sessions) continue; var
-                    sessionInfo=sessionAndSpeakerData.sessions.find(x=> x.id === sessionSlot.id.toString() );
+                <% for (var sessionSlot of timeSlot.sessions) {
+                    // Search for the sessions id from the sessionize feed to match our session
+                    if(!sessionAndSpeakerData.sessions) continue;
+                    var sessionInfo=sessionAndSpeakerData.sessions.find(x=> x.id === sessionSlot.id.toString() );
 
                     // Find the speaker sessionInfo
                     var allSpeakersInfo = sessionAndSpeakerData.speakers.filter(x =>

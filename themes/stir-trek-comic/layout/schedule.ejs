@@ -6,7 +6,9 @@
     var scheduleData = eval("site.data.schedule" + config.currentYear + ".scheduledSessions");
     var sessionAndSpeakerData = eval("site.data.sessions" + config.currentYear);
 
-    if(sessionAndSpeakerData && config.showSchedule) { %>
+    if(sessionAndSpeakerData &&
+        sessionAndSpeakerData.categories &&
+        config.showSchedule) { %>
         <table id="scheduleTable" class="table table-striped table-condensed table-responsive">
                 <thead>                
                     <tr>

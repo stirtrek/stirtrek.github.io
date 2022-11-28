@@ -1,12 +1,14 @@
 <style>
-    .virtualSessionRow .virtualSession{
+    .virtualSessionRow .virtualSession {
         font-size: 0px;
         text-align: center;
         margin-bottom: 20px;
     }
+
     .virtualSessionRow .virtualSession iframe {
         border: 3px solid black;
     }
+
     .virtualSessionRow .virtualSession p {
         font-size: 18px;
         margin-top: 0px;
@@ -41,113 +43,113 @@
         align-items: flex-start;
     }
 
-.flex-item {
-    -webkit-order: 0;
-    -ms-flex-order: 0;
-    order: 0;
-    -webkit-flex: 0 1 auto;
-    -ms-flex: 0 1 auto;
-    flex: 0 1 auto;
-    -webkit-align-self: auto;
-    -ms-flex-item-align: auto;
-    align-self: auto;
-    width: 33%;
-}
-@media screen and (max-width: 991px) {
     .flex-item {
-        width: 50%;
+        -webkit-order: 0;
+        -ms-flex-order: 0;
+        order: 0;
+        -webkit-flex: 0 1 auto;
+        -ms-flex: 0 1 auto;
+        flex: 0 1 auto;
+        -webkit-align-self: auto;
+        -ms-flex-item-align: auto;
+        align-self: auto;
+        width: 33%;
     }
-}
-@media screen and (max-width: 650px) {
-    .flex-item {
-        width: 100%;
+
+    @media screen and (max-width: 991px) {
+        .flex-item {
+            width: 50%;
+        }
     }
-}
+
+    @media screen and (max-width: 650px) {
+        .flex-item {
+            width: 100%;
+        }
+    }
 </style>
 
-<% 
-// Get the evals() out of the way since they are gross
-var scheduleData = eval("site.data.schedule" + config.currentYear + ".scheduledSessions");
-var sessionAndSpeakerData = eval("site.data.sessions" + config.currentYear);
-
-if(sessionAndSpeakerData && config.showSchedule) {
-    // Categories are buried a layer
-    var allCategories = sessionAndSpeakerData.categories.find(c => c.title === "Track").items;
+<% // Get the evals() out of the way since they are gross var scheduleData=eval("site.data.schedule" +
+    config.currentYear + ".scheduledSessions" ); var sessionAndSpeakerData=eval("site.data.sessions" +
+    config.currentYear); if(sessionAndSpeakerData && config.showSchedule) { // Categories are buried a layer var
+    allCategories=sessionAndSpeakerData.categories.find(c=> c.title === "Track").items;
 
     // Hack to filter out breakfast and lunch
-    for (var timeSlot of scheduleData.timeSlots.slice() ) { 
-        if(timeSlot.time === "7:30 AM" || timeSlot.time === "12:00 PM" || timeSlot.time === "5:00 PM") continue;
+    for (var timeSlot of scheduleData.timeSlots.slice() ) {
+    if(timeSlot.time === "7:30 AM" || timeSlot.time === "12:00 PM" || timeSlot.time === "5:00 PM") continue;
 
-        %>
-        <div class="row virtualSessionRow" data-edttime="<%= timeSlot.time %>">
-            <div class="col-md-12">
-                <div class="comic-panel-header offset comic-panel-gold">
-                    <%= timeSlot.time %>
-                </div>
-                <div class="comic-panel-body with-header flex-container">                
-                    <% for (var sessionSlot of timeSlot.sessions) { 
-                        
-                        // Search for the sessions id from the sessionize feed to match our session
-                        var sessionInfo = sessionAndSpeakerData.sessions.find(x => x.id === sessionSlot.id.toString() );
-                        
-                        // Find the speaker sessionInfo
-                        var allSpeakersInfo = sessionAndSpeakerData.speakers.filter(x => sessionInfo.speakers.includes(x.id))
+    %>
+    <div class="row virtualSessionRow" data-edttime="<%= timeSlot.time %>">
+        <div class="col-md-12">
+            <div class="comic-panel-header offset comic-panel-gold">
+                <%= timeSlot.time %>
+            </div>
+            <div class="comic-panel-body with-header flex-container">
+                <% for (var sessionSlot of timeSlot.sessions) { // Search for the sessions id from the sessionize feed
+                    to match our session if(!sessionAndSpeakerData.sessions) continue; var
+                    sessionInfo=sessionAndSpeakerData.sessions.find(x=> x.id === sessionSlot.id.toString() );
 
-                        if(allSpeakersInfo.length > 0) { 
-                            let createSpeakerUrl = (firstName, lastName) => {
-                                return `/speakers/${config.currentYear}/${firstName.replace(/[ \"]/g,"")}-${lastName.replace(/[ \"]/g,"")}.html`
-                            }
+                    // Find the speaker sessionInfo
+                    var allSpeakersInfo = sessionAndSpeakerData.speakers.filter(x =>
+                    sessionInfo.speakers.includes(x.id))
 
-                            // Store additional speakers if any
-                            let allSpeakers = [];
-                            allSpeakersInfo.forEach(speaker => {
-                                allSpeakers.push({
-                                    firstName: speaker.firstName,
-                                    lastName: speaker.lastName,
-                                    speakerPageUrl: createSpeakerUrl(speaker.firstName, speaker.lastName)
-                                });
-                            })
+                    if(allSpeakersInfo.length > 0) {
+                    let createSpeakerUrl = (firstName, lastName) => {
+                    return `/speakers/${config.currentYear}/${firstName.replace(/[ \"]/g,"")}-${lastName.replace(/[
+                    \"]/g,"")}.html`
+                    }
 
-                            // Parse the YouTube UID so we can use it in our embeds
-                            var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
-                            let youTubeUniqueId;
-                            if(sessionInfo.recordingUrl) {
-                                var match = sessionInfo.recordingUrl.match(regExp);
-                                youTubeUniqueId = (match&&match[7].length==11)? match[7] : false;
-                            }
+                    // Store additional speakers if any
+                    let allSpeakers = [];
+                    allSpeakersInfo.forEach(speaker => {
+                    allSpeakers.push({
+                    firstName: speaker.firstName,
+                    lastName: speaker.lastName,
+                    speakerPageUrl: createSpeakerUrl(speaker.firstName, speaker.lastName)
+                    });
+                    })
 
-                            if(youTubeUniqueId) {
-                            %>
-                            <div class="virtualSession flex-item" style="display: inline-block; vertical-align: top;">
-                                <iframe width="224" height="126" 
-                                    src="https://www.youtube-nocookie.com/embed/<%= youTubeUniqueId %>" 
-                                    srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/<%= youTubeUniqueId %>?autoplay=1><img src=https://img.youtube.com/vi/<%= youTubeUniqueId %>/hqdefault.jpg><span>▶</span></a>"
-                                    title="YouTube video player" frameborder="0" 
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-                                <p class="sessionTitle">                                        
-                                    <a href="<%= allSpeakers[0].speakerPageUrl %>#abstract">
-                                        <%= sessionInfo.title %>
-                                    </a>
-                                </p>
-                                <p class="sessionSpeakers">
-                                    <% 
-                                        allSpeakers.forEach(thisSpeaker => {
-                                    %>
-                                        <a href="<%= thisSpeaker.speakerPageUrl %>">
-                                            <%= thisSpeaker.firstName + " " + thisSpeaker.lastName %>
-                                        </a><br>
-                                    <% }); %>
+                    // Parse the YouTube UID so we can use it in our embeds
+                    var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
+                    let youTubeUniqueId;
+                    if(sessionInfo.recordingUrl) {
+                    var match = sessionInfo.recordingUrl.match(regExp);
+                    youTubeUniqueId = (match&&match[7].length==11)? match[7] : false;
+                    }
 
-                                    <% var thisCategory = allCategories.find(c => c.id === sessionInfo.categoryItems[0]); %>
-                                    <%= thisCategory.name %>
-                                </p>
-                            </div>
-                            <% } %>
-                        <% } %>
+                    if(youTubeUniqueId) {
+                    %>
+                    <div class="virtualSession flex-item" style="display: inline-block; vertical-align: top;">
+                        <iframe width="224" height="126"
+                            src="https://www.youtube-nocookie.com/embed/<%= youTubeUniqueId %>"
+                            srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/<%= youTubeUniqueId %>?autoplay=1><img src=https://img.youtube.com/vi/<%= youTubeUniqueId %>/hqdefault.jpg><span>▶</span></a>"
+                            title="YouTube video player" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe><br>
+                        <p class="sessionTitle">
+                            <a href="<%= allSpeakers[0].speakerPageUrl %>#abstract">
+                                <%= sessionInfo.title %>
+                            </a>
+                        </p>
+                        <p class="sessionSpeakers">
+                            <% allSpeakers.forEach(thisSpeaker=> {
+                                %>
+                                <a href="<%= thisSpeaker.speakerPageUrl %>">
+                                    <%= thisSpeaker.firstName + " " + thisSpeaker.lastName %>
+                                </a><br>
+                                <% }); %>
+
+                                    <% var thisCategory=allCategories.find(c=> c.id === sessionInfo.categoryItems[0]);
+                                        %>
+                                        <%= thisCategory.name %>
+                        </p>
+                    </div>
                     <% } %>
-                    <div style="clear: both;"></div>
-                </div>
+                        <% } %>
+                            <% } %>
+                                <div style="clear: both;"></div>
             </div>
         </div>
+    </div>
     <% } %>
-<% } %>
+        <% } %>

@@ -70,11 +70,13 @@
 </style>
 
 <% 
-// Get the evals() out of the way since they are gross
+// If we don't have a year setup everything will break so check that first
+if(!config.recordingsYear) return;
 
-var scheduleData=eval("site.data.schedule" + config.currentYear + ".scheduledSessions" );
-    var sessionAndSpeakerData=eval("site.data.sessions" + config.currentYear);
-    if(sessionAndSpeakerData && config.showSchedule) { 
+// Get the evals() out of the way since they are gross
+var scheduleData=eval("site.data.schedule" + config.recordingsYear + ".scheduledSessions" );
+    var sessionAndSpeakerData=eval("site.data.sessions" + config.recordingsYear);
+    if(sessionAndSpeakerData && config.showRecordings) { 
         // Categories are buried a layer
         var allCategories=sessionAndSpeakerData.categories.find(c=> c.title === "Track").items;
 
@@ -100,8 +102,7 @@ var scheduleData=eval("site.data.schedule" + config.currentYear + ".scheduledSes
 
                     if(allSpeakersInfo.length > 0) {
                     let createSpeakerUrl = (firstName, lastName) => {
-                    return `/speakers/${config.currentYear}/${firstName.replace(/[ \"]/g,"")}-${lastName.replace(/[
-                    \"]/g,"")}.html`
+                    return `/speakers/${config.recordingsYear}/${firstName.replace(/[ \"]/g,"")}-${lastName.replace(/[\"]/g,"")}.html`
                     }
 
                     // Store additional speakers if any

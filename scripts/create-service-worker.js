@@ -36,7 +36,7 @@ hexo.extend.generator.register('create-service-worker', function (locals) {
     });
 
     // Find all the magically generated pages
-    console.log('Generating pages for years...')
+    console.log('Generating speaker pages for each year...')
     years.forEach((year) => {
         let thisYearsFile = eval('locals.data.sessions' + year);
         let thisYearsSchedule = eval('locals.data.schedule' + year);

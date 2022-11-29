@@ -81,13 +81,13 @@ title: Tech & a Flick
         <div class="comic-panel-body with-header small">
 {% endraw %}
 * **11/28/2022** - Call for sponsors opens
+* **5/5/2023** - Stir Trek 2023!
 <!--* **1/16/2022** - CFP opened
 * **2/5/2022**  - CFP **closed**
 * **2/26/2022** - CFP notification goal date
 * **3/8/2022** - Tickets go on sale - [Buy them here](https://stirtrek2022.eventbrite.com/)
     * Additional movie-only tickets [can be bought here](https://stirtrek2022extramoviepass.eventbrite.com/)
 * **4/15/2022** - Last day to update your food order on Eventbrite-->
-* **5/5/2023** - Stir Trek 2023!
 {% raw %}
 <!-- 
 * **TBD** - Last day to edit shipping information

@@ -13,6 +13,7 @@ utcOffset: "-0400"
 
 # To support multiple years of archives, update the currentYear and add the old one to the allYears array
 currentYear: 2023
+recordingsYear: 2022
 allYears:
   - 2018
   - 2019
@@ -20,9 +21,10 @@ allYears:
   - 2021
   - 2022
   - 2023
-showSchedule: true
+showSchedule: false
 showSessionList: false
-showSpeakers: true
+showSpeakers: false
+showRecordings: true
 # If you'd like to show the speaker survey link in the schedule, you need to turn this on and configure it
 # Add a custom speaker question and put hte name in "surveyQuestionName"
 showSurveyOnSchedule: false

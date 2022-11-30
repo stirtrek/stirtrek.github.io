@@ -21,37 +21,12 @@ if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  {
         </div>
     </div>
 
-    <% if(thisYearsSponsors.hasOwnProperty('principal')) { %>
-    <section>
-        <div class="row">
-            <% for (var sponsor of thisYearsSponsors.principal ) {%>
-
-                <div class="col-md-6 sponsor sponsor-<%= sponsor.level %>">
-                    <div class="comic-panel-body">
-                        <a href="<%= sponsor.link %>">
-                            <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
-                        </a>
-                    </div>
-                    <div class="sponsorsAbout text-with-comic-panel">
-                        <div class="sponsorCompany">
-                            <%= sponsor.name %>
-                            <!-- <br> -->
-                            <!-- <a href="<%= sponsor.link %>"><%= sponsor.link %></a> -->
-                        </div>
-                    </div>
-                </div>
-                
-            <% } %>
-        </div>
-    </section>
-    <% } %>
     <% if(thisYearsSponsors.hasOwnProperty('platinum')) { %>
     <section>
         <div class="row">
-
             <% for (var sponsor of thisYearsSponsors.platinum ) {%>
 
-                <div class="col-md-4 sponsor sponsor-<%= sponsor.level %>">
+                <div class="col-md-6 sponsor sponsor-platinum">
                     <div class="comic-panel-body">
                         <a href="<%= sponsor.link %>">
                             <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
@@ -76,7 +51,7 @@ if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  {
 
             <% for (var sponsor of thisYearsSponsors.gold ) {%>
 
-                <div class="col-md-3 sponsor sponsor-<%= sponsor.level %>">
+                <div class="col-md-4 sponsor sponsor-gold">
                     <div class="comic-panel-body">
                         <a href="<%= sponsor.link %>">
                             <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
@@ -98,22 +73,36 @@ if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  {
     <% if(thisYearsSponsors.hasOwnProperty('silver')) { %>
     <section>
         <div class="row">
-
             <% for (var sponsor of thisYearsSponsors.silver ) {%>
-
-                <div class="col-md-3 sponsor sponsor-<%= sponsor.level %>">
+                <div class="col-md-3 sponsor sponsor-silver">
                     <div class="comic-panel-body">
                         <a href="<%= sponsor.link %>">
                             <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
                         </a>
                     </div>
-                    <!-- <div class="sponsorsAbout text-with-comic-panel">
+                    <div class="sponsorsAbout text-with-comic-panel">
                         <div class="sponsorCompany">
                             <%= sponsor.name %>
-                            <br>
-                            <a href="<%= sponsor.link %>"><%= sponsor.link %></a>
+                            <!-- <br> -->
+                            <!-- <a href="<%= sponsor.link %>"><%= sponsor.link %></a> -->
                         </div>
-                    </div> -->
+                    </div>
+                </div>
+            <% } %>
+        </div>
+    </section>
+    <% } %>
+    <% if(thisYearsSponsors.hasOwnProperty('bronze')) { %>
+    <section>
+        <div class="row">
+
+            <% for (var sponsor of thisYearsSponsors.bronze ) {%>
+                <div class="col-md-3 sponsor sponsor-bronze">
+                    <div class="comic-panel-body">
+                        <a href="<%= sponsor.link %>">
+                            <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>">
+                        </a>
+                    </div>
                 </div>
                 
             <% } %>

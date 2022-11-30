@@ -1,1 +1,21 @@
-{"sponsors":{"principal":[],"platinum":[],"gold":[],"silver":[]}}
+{
+    "sponsors": {
+        "platinum": [],
+        "gold": [],
+        "silver": [],
+        "bronze": [
+            {
+                "name": "Improving",
+                "link": "http://www.improving.com/",
+                "description": "Improving is a technology management and consulting services firm deeply rooted in our commitment to establishing trust — not only with each other but with our clients, partners, communities, and others. We aspire to do this through creating transparency, delivering results, continuously improving, clarifying expectations, and keeping our commitments.",
+                "logo": "/images/sponsors/improving_350x200.jpg"
+              },
+              {
+                "name": "OCLC",
+                "link": "https://www.oclc.org/en/home.html",
+                "description": "At OCLC, we exist because what is known must be shared. On the surface this seems simple. But dig deeper. We hold petabytes of data. Diverse data in different languages, different scripts, and different formats. We bring it together and make it talk.",
+                "logo": "/images/sponsors/oclc_350x200.jpg"
+              }
+        ]
+    }
+}

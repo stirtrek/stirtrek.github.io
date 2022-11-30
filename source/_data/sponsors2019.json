@@ -1,6 +1,6 @@
 {
     "sponsors": {
-        "principal": [
+        "platinum": [
             {
                 "name": "AWH",
                 "link": "http://www.awh.net/",
@@ -38,7 +38,7 @@
                 "logo": "/images/sponsors/boldpenguin_350x200.png"
             }
         ],
-        "platinum": [
+        "gold": [
             {
                 "name": "Leading EDJE",
                 "link": "http://leadingedje.com",
@@ -77,20 +77,20 @@
             },
             {
                 "name": "Manifest",
-                "level": "platinum",
+                "level": "gold",
                 "link": "http://manifestcorp.com/",
                 "description": "Individuals Making A Difference. It’s more than a slogan. It’s our mission statement, our code of conduct, our mantra, our obsession, - our ethos. Since 1994 Manifest consultants have been making a difference in some of the most esteemed businesses in Columbus. Our commitment to training enables our consultants and clients to continuously adapt and grow with the advancement of new technologies. Our areas of expertise include: Java & .NET Development, Acceptance Test Driven Development, Test Automation, Project Management, Business Analysis and Agile Mentoring. Come see why Manifest was honored for the 4th consecutive year by Columbus CEO magazine as a Top Workplace in Central Ohio. We invite you to visit the Manifest booth and start a conversation about how we may help you on your path to career happiness. Code Forever!",
                 "logo": "/images/sponsors/manifest_350x200.png"
             },
             {
                 "name": "Root",
-                "level": "platinum",
+                "level": "gold",
                 "link": "https://root.engineering/",
                 "description": "Root Insurance is the nation’s first licensed insurance carrier powered entirely by mobile and founded on the principle that car insurance rates should be based on how you drive, not who you are. We use data science and technology to identify and insure good drivers, reducing insurance premiums for good drivers as a result. Car insurance is a compulsory product — it’s literally illegal to drive without it. Unfortunately, people are paying significantly more than they should be because their car insurance carrier only looks at their demographics and not how they drive. We’re fixing that. Root was started in 2015 with backing from Drive Capital. Although creating an insurance carrier from scratch was an audacious undertaking, we realized we needed to own everything end-to-end to build an exceptional insurance experience. With schlep blindness in full effect, we made it happen. Most insurance carriers were started a century ago and are running on an amalgamation of technology that is decades old. Root is the manifestation of “software is eating the world” in insurance. Our core expertise is responding to trends in technology by incorporating new sources of data into insurance pricing and building great products and user experiences on top of it. Root is where it is today due to the hard work, ingenuity, and exceptional performance of the people here. We’ve been fortunate to build an incredibly talented team that has brought this idea to life, and we're striving to grow that team by hiring more exceptional people.",
                 "logo": "/images/sponsors/root_350x200.png"
             }
         ],
-        "gold": [
+        "silver": [
             {
                 "name": "ComResource",
                 "link": "http://comresource.com/",
@@ -147,7 +147,7 @@
             },
             {
                 "name": "ICC",
-                "level": "gold",
+                "level": "silver",
                 "link": "http://icctechnology.com/",
                 "description": "User First. Data Driven. Technology Development. ICC is changing the way companies solve their business challenges, and the above principles dictate our solutions. This approach inspires intelligent, precise technology that addresses the human need. Three practice areas give ICC the necessary latitude to overcome the complex challenges that businesses face.",
                 "logo": "/images/sponsors/ICC_350x200.png"
@@ -159,10 +159,10 @@
                 "logo": "/images/sponsors/dynamit_350x200.png"
             }
         ],
-        "silver": [
+        "bronze": [
             {
                 "name": "Living Portrait Photography",
-                "level": "silver",
+                "level": "bronze",
                 "link": "https://livingportraitphotography.com/",
                 "description": "The most beautiful things in life are often not something you can pose for. While i’m well versed in portraiture, my favorite shoots leave room for candid shots which really represent the love and magic in an authentic moment.",
                 "logo": "/images/sponsors/livingportrait_350x200.png"

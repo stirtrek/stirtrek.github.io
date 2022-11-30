@@ -24,10 +24,10 @@ createFile(sessionsPath, null);
 let sponsorPath = `./source/_data/sponsors${newYear}.json`;
 let templateSponsors = {
     sponsors: {
-        principal: [],
         platinum: [],
         gold: [],
-        silver: []
+        silver: [],
+        bronze: []
     }
 }
 createFile(sponsorPath, templateSponsors);

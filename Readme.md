@@ -87,6 +87,7 @@ A few things need to happen to roll the site to a new year:
 - Add a folder new folder for speaker photos like /source/images/speakers/YYYY
 - Search for the year in the /source directory's .md files and change it where appropriate in content
 - While there is no schedule /source/speakers/index.md has the year set as the previous year in the YAML at the top. When we get a new schedule, update this value.
+- If we want to keep the video recordings from the preivous year, leave `showRecordings: true` and set `recordingsYear: XXXX` to last year.
 
 ## Creating a speaker archive page
 Previous speaker/talk pages get created at /speakers/1234/speaker-Name.html, but there is no automatic archive page. To create one, add a file to /speakers like "2019.md" and update the configuration at the top as appropriate.

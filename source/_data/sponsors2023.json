@@ -8,12 +8,6 @@
             "link": "https://www.revelit.com/",
             "description": "Revel IT combines the most advanced recruiting and candidate identification and matching technologies with a very experienced recruiting team to provide unmatched delivery capabilities in staffing and recruiting.",
             "logo": "/images/sponsors/revelit_350x200.png"
-          },
-          {
-            "name": "Central Insurance",
-            "link": "https://www.central-insurance.com",
-            "description": "At Central we pride ourselves on our long history & strong financial stability, and a culture driven by excellence that encourages innovation, ingenuity and ownership.",
-            "logo": "/images/sponsors/central_insurance_350x200.png"
           }
         ],
         "bronze": [
@@ -28,6 +22,12 @@
                 "link": "https://www.oclc.org/",
                 "description": "At OCLC, we exist because what is known must be shared. On the surface this seems simple. But dig deeper. We hold petabytes of data. Diverse data in different languages, different scripts, and different formats. We bring it together and make it talk.",
                 "logo": "/images/sponsors/oclc_350x200.jpg"
+              },
+              {
+                "name": "Central Insurance",
+                "link": "https://www.central-insurance.com",
+                "description": "At Central we pride ourselves on our long history & strong financial stability, and a culture driven by excellence that encourages innovation, ingenuity and ownership.",
+                "logo": "/images/sponsors/central_insurance_350x200.png"
               }
         ]
     }

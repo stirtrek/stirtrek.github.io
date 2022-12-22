@@ -8,6 +8,8 @@ title: Tech & a Flick
      <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">5 May 2023</p>
+        <br>
+        <p>Call for speakers opens on January 15th!</p>
     </div>
     <!--
     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
@@ -81,6 +83,8 @@ title: Tech & a Flick
         <div class="comic-panel-body with-header small">
 {% endraw %}
 * **11/28/2022** - Call for sponsors opens
+* **1/15/2023** - Call for speakers opens
+* **2/18/2023** - Call for speakers closes
 * **5/5/2023** - Stir Trek 2023!
 <!--* **1/16/2022** - CFP opened
 * **2/5/2022**  - CFP **closed**

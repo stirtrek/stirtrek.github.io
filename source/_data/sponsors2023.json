@@ -1,7 +1,21 @@
 {
     "sponsors": {
-        "platinum": [],
-        "gold": [],
+        "platinum": [
+          {
+            "name": "Workstate",
+            "link": "https://www.workstate.com/",
+            "description": "Workstate is a global IT consulting company providing Nearshore and US-based development teams in long-term client partnerships. Our 25+ years of experience offers a superior alternative to staffing. Workstate’s is mission to create the best home for the brightest technology talent. Our teams drive success by working closely with our clients.",
+            "logo": "/images/sponsors/workstate_350x200v3.jpg"
+          }
+        ],
+        "gold": [
+          {
+            "name": "Com Resource",
+            "link": "https://comresource.com/",
+            "description": "Having delivered strategic IT solutions for over 25 years, we are problem-solvers by nature. More than 200 of us…and growing. Customizing processes and technology are our specialties. The more complicated the IT challenge, the better.",
+            "logo": "/images/sponsors/comresource_350x200.jpg"
+          }
+        ],
         "silver": [
           {
             "name": "Revel IT",

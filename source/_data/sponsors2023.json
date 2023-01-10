@@ -14,7 +14,13 @@
             "link": "https://comresource.com/",
             "description": "Having delivered strategic IT solutions for over 25 years, we are problem-solvers by nature. More than 200 of us…and growing. Customizing processes and technology are our specialties. The more complicated the IT challenge, the better.",
             "logo": "/images/sponsors/comresource_350x200.jpg"
-          }
+          },
+          {
+            "name": "Manifest",
+            "link": "http://manifestcorp.com/",
+            "description": "Manifest Solutions is a technology consulting firm based in Columbus, Ohio. We provide customized IT solutions to meet the complex needs of companies big and small. That’s what we do—but it’s who we are—that makes all the difference.",
+            "logo": "/images/sponsors/manifest_350x200.png"
+          }          
         ],
         "silver": [
           {
@@ -42,7 +48,14 @@
                 "link": "https://www.central-insurance.com",
                 "description": "At Central we pride ourselves on our long history & strong financial stability, and a culture driven by excellence that encourages innovation, ingenuity and ownership.",
                 "logo": "/images/sponsors/central_insurance_350x200.png"
-              }
+              },
+              {
+                "name": "G20",
+                "level": "silver",
+                "link": "https://www.g2o.com/",
+                "description": "We’re a customer experience transformation company and engineering partner focused on delivering greater impact and outcomes for our clients and the audiences they serve through technology, data & analytics, product, & people.",
+                "logo": "/images/sponsors/g2o_350x200.png"
+            }             
         ]
     }
 }

@@ -5,12 +5,12 @@ title: Tech & a Flick
 
 {% raw %}
 <div class="row" id="stirTrekHeroContainer">
-     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+     <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">5 May 2023</p>
         <br>
         <p>Call for speakers opens on January 15th!</p>
-    </div>
+    </div> -->
     <!--
     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <a href="https://stirtrek2022.eventbrite.com/" class="date" target="_blank" rel="noopener noreferrer">
@@ -19,12 +19,12 @@ title: Tech & a Flick
         <br><br>
         <a href="/recordings" class="registerNow" target="_blank" rel="noopener noreferrer">Watch the recorded sessions</a>
     </div> -->
-    <!--<a href="https://sessionize.com/stir-trek-2022/" target="_blank" rel="noopener noreferrer">
+    <a href="https://sessionize.com/stir-trek-2023/" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-            <p class="date">CFP is Open!</p>
+            <p class="date">CFS is Open!</p>
             <p class="registerNow">Click here to submit your talks</p>
         </div>
-    </a>-->
+    </a>
 </div>
 
 <div class="row">

@@ -37,7 +37,6 @@ title: Tech & a Flick
             <br>
             <br>
             <a href="https://goo.gl/maps/wVdUQNDfXd9Zxd2P8">AMC Easton 30</a>, Columbus, OH
-            But this year we're also going to be a hybrid virtual event too! Details are still to come, but we can't wait to hang out with you again.
         </div>
     </div>
     <div class="col-md-6">

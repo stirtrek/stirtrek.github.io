@@ -20,7 +20,19 @@
             "link": "http://manifestcorp.com/",
             "description": "Manifest Solutions is a technology consulting firm based in Columbus, Ohio. We provide customized IT solutions to meet the complex needs of companies big and small. That’s what we do—but it’s who we are—that makes all the difference.",
             "logo": "/images/sponsors/manifest_350x200.png"
-          }          
+          },
+          {
+            "name": "CGI",
+            "link": "https://www.cgi.com/",
+            "description": "Founded in 1976, CGI is among the largest IT and business consulting services firms in the world. We are insights-driven and outcomes-based to help accelerate returns on your investments.",
+            "logo": "/images/sponsors/cgi_350x200v2.jpg"
+          },
+          {
+            "name": "IGS",
+            "link": "https://www.cgi.com/",
+            "description": "We are leading a transition to a more sustainable energy future by empowering home and business customers to source the energy that’s right for them, manage their costs and carbon footprint, and protect the systems that keep their homes running efficiently.",
+            "logo": "/images/sponsors/IGS_350x200v3.jpg"
+          }
         ],
         "silver": [
           {

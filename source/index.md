@@ -83,8 +83,10 @@ title: Tech & a Flick
 {% endraw %}
 * **11/28/2022** - Call for sponsors opens
 * **1/15/2023** - Call for speakers opens
-* **2/18/2023** - Call for speakers closes
-* **5/5/2023** - Stir Trek 2023!
+* **2/18/2023** - Call for speakers closes!
+* **3/7/2023 2pm EST** - Early Bird Ticket Sales!!
+* **3/15/2023** - Regular Ticket Sales!!!
+* **5/5/2023** - Stir Trek 2023!!!!
 <!--* **1/16/2022** - CFP opened
 * **2/5/2022**  - CFP **closed**
 * **2/26/2022** - CFP notification goal date

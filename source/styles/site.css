@@ -708,6 +708,10 @@ div.hr-schedule:before {
     height: 150px;
 }
 
+.sponsor.sponsor-bronze .sponsorCompany .description {
+    height: 200px;
+}
+
 .sponsor.sponsor-silver img,
 .sponsor.sponsor-bronze img {
     max-height: 88px;

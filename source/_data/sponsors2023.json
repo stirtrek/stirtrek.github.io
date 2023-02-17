@@ -67,7 +67,13 @@
                 "link": "https://www.g2o.com/",
                 "description": "We’re a customer experience transformation company and engineering partner focused on delivering greater impact and outcomes for our clients and the audiences they serve through technology, data & analytics, product, & people.",
                 "logo": "/images/sponsors/g2o_350x200.png"
-            }             
+            },
+            {
+              "name": "CAS",
+              "link": "https://www.cas.org/",
+              "description": "CAS is a leader in scientific information solutions, partnering with innovators around the world to accelerate scientific breakthroughs. For over 100 years, scientists, patent professionals, and business leaders have relied on CAS solutions and expertise to provide the hindsight, insight, and foresight they need so they can build upon the learnings of the past to discover a better future. Connect with us at cas.org.​",
+              "logo": "/images/sponsors/cas_350x200_v2.jpg"
+            }
         ]
     }
 }

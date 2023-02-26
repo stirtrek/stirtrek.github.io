@@ -6,10 +6,12 @@ title: Tech & a Flick
 {% raw %}
 <div class="row" id="stirTrekHeroContainer">
      <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-        <p class="date">Stir Trek - Columbus, OH</p>
-        <p class="date">5/5/2023</p>
-        <br>
-        <p>$150 Early bird tickets on sale 3/7</p>
+            <p class="date">Stir Trek - Columbus, OH</p>
+            <p class="date">5/5/2023</p>
+            <br>
+        <a class="registerNow" href="https://events.humanitix.com/stir-trek-2023">
+            <p>$150 Early bird tickets on 3/7</p>
+        </a>
     </div>
      <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>

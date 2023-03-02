@@ -1,6 +1,11 @@
 ---
 title: Speakers
 year: 2023
+alias:
+- speakers/index.html
+- speakers/
+- Speakers/index.html
+- Speakers/
 ---
 
 # This Year's Speakers

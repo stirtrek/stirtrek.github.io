@@ -3,6 +3,8 @@ title: Sponsors
 alias:
 - sponsors/index.html
 - sponsors/
+- Sponsors/index.html
+- Sponsors/
 ---
 
 # Sponsorship Info

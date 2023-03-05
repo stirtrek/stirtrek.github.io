@@ -22,9 +22,9 @@ allYears:
   - 2022
   - 2023
 showSchedule: false
-showSessionList: false
-showSpeakers: false
-showRecordings: true
+showSessionList: true
+showSpeakers: true
+showRecordings: false
 # If you'd like to show the speaker survey link in the schedule, you need to turn this on and configure it
 # Add a custom speaker question and put hte name in "surveyQuestionName"
 showSurveyOnSchedule: false
@@ -45,7 +45,7 @@ socialMediaImage: /icons/opengraph.jpg
 # Sessionize API
 ## This needs updated each year as we have a separate Sessionize Instance. Directions for setting up the API are in the readme
 ## Use the All Data API
-sessionizeApiUrl: "https://sessionize.com/api/v2/chte13vg/view/All"
+sessionizeApiUrl: "https://sessionize.com/api/v2/i24vrm3x/view/All"
 
 # Directory
 source_dir: source

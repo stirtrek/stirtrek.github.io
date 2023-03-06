@@ -12,4 +12,4 @@ alias:
 
 <div class="icon-hr"></div>
 
-Our Call for Speakers is over and reviews are in process. More details will be here soon!
+Our Call for Speakers is closed and we're selecting speakers now. As they confirm, we'll update this page with more details!

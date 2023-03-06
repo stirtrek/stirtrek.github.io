@@ -39,6 +39,25 @@
       "recordingUrl": null
     },
     {
+      "id": "448383",
+      "title": "Building Ingress - From Concept to Connection",
+      "description": "At first glance, ingress is an easy concept: you route traffic from the wider world into your cluster. As you layer on SSL and load balancing, the principles stay the same and everything works with minimal thought and effort. But as your infrastructure grows, your clusters grow, the interactions get more complex, and your security requirements explode. In this session, I’ll walk you through how we designed and built an Ingress Controller and have converted our clusters to use it in production to support millions of requests. It wasn’t easy but running it as an open source effort from the start encouraged our team and customers to review, explore, and consider situations outside our original plans.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f0f1fa39-eb24-4ab6-866c-b8645975bd75"
+      ],
+      "categoryItems": [
+        159283
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "429998",
       "title": "Coding and the Mozart Effect",
       "description": "Most developers code to music...some are even musicians themselves.  Is it possible to streamline workflow by adjusting how we listen to music and what music we listen to?\r\n\r\nStudies have shown that exposure to certain kinds of music can help to develop cognitive strength and improve performance of tasks.  This talk will explore those studies and show what sort of things can be done to improve the listeners environment and help people to create better code.",
@@ -96,6 +115,44 @@
       "recordingUrl": null
     },
     {
+      "id": "450242",
+      "title": "Ditch heavy JS and KISS your frontend again with HTML over-the-wire",
+      "description": "In the 2010’s it was all the rage to decouple your website rendering it with a JS frontend connected to a JSON API backend. In the 2020’s it’s now all the rage to move state back to the server sending only HTML back to the browser. Less code, faster page loads, and a happier developer experience. What’s not to like? Let’s party like it’s 1999 again! \r\n\r\nIn this talk we will go over:\r\n- The reasons why most people moved away from server-rendered apps\r\n- The reasons why most people are moving back to server-rendered apps\r\n- How the hypermedia approach compares to frontend framework + JSON API\r\n- Examples in Hotwire, htmx, and Unpoly\r\n- The types of projects that can benefit from these tools\r\n",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d5383829-0901-4bb9-918b-1118c196c314"
+      ],
+      "categoryItems": [
+        159281
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "430133",
+      "title": "Don't put your messages in a bottle; Implement messaging patterns",
+      "description": "When building enterprise solutions, messages are the heart of our communication. They convey commands and data between various systems and ensure that we can work in a decoupled, scalable, and distributed manner. Our messages represent value, so we can't just slip them in a bottle, toss them into the ocean, and hope they arrive at their destination. Instead, we need a messaging backbone that can provide resilience and stability. Therefore, we implement proven messaging patterns, to ensure they are handled with the care they deserve.\r\n\r\nIn this session we will have a look at Azure Service Bus, and what role it takes in such designs. Through various demos, we will showcase its implementation with a wide variety of messaging patterns. As a result we come to understand how secure and reliable communication help us solve complex messaging challenges. \r\n\r\nCome and learn about handling transactions involving different systems, implementing data consistency across them, and controlling intermittent and critical failures.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "11a684d4-ace1-49e8-be4b-c4e5ff215a7c"
+      ],
+      "categoryItems": [
+        159282
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "435644",
       "title": "Growing the Next Generation of Developers Through Volunteering",
       "description": "There is an increasing demand for computer science courses yet a shortage of teachers with the subject matter expertise required to teach these classes. The Microsoft Philanthropies TEALS Program provides a short-term solution to the teacher shortage and helps schools build a long-term and sustainable computer science program by partnering teachers new to computer science with industry volunteers who have computer science content expertise. Teachers in these partnerships learn computer science while team-teaching with volunteers until they are comfortable teaching independently. In this session, participants will hear about the Microsoft TEALS approach and discuss how industry volunteers can make an impact in a computer science classroom.",
@@ -108,6 +165,25 @@
       ],
       "categoryItems": [
         159279
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "450213",
+      "title": "Improving Data Access with Abstractions",
+      "description": "Most apps need data - but how you access data can have huge implications on your code's maintainability. Most approaches cause some degree of pain, but you can follow Pain Driven Development to refactor to different approaches.\r\n\r\nIn this code-heavy approach, you'll see how an app starts with a low-level tightly-coupled data access approach and iteratively evolves to address the pain points encountered.\r\n\r\nBy the end of the session, the app's data access will be encapsulated and modular and the app will be testable and maintainable. And you'll have learned a variety of design patterns and refactoring techniques that you can apply to your own applications.\r\n\r\nDemos and samples will use C#/.NET, but principles and patterns are applicable to other platforms and languages.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
+      ],
+      "categoryItems": [
+        159282
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -191,6 +267,25 @@
       "recordingUrl": null
     },
     {
+      "id": "431063",
+      "title": "Not Your Mother's or Father's C#",
+      "description": "Gone are the days of verbose C# code and having only one way to solve a problem. In recent updates, C# has been adapting ideas from other programming paradigms, including functional programming. Some of the most recent ones have significantly changed the appearance of C# code. We'll see what you think after this session!\r\n\r\nWhether you're using C# every day, or you haven't looked at the language in a while, this fast-paced session will show you what has been changing in the C# world. \r\n\r\nUnlike the classic \"coming soon\" session where you can't take what you learn home and apply it, you can take what you learn here back home to remove redundant code, streamline your classes, and add flexible type constraints. This is a fun, fast-paced session that will provide you with the insight you need to make the changes you want in your code.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1dbfb6bc-c1f2-44af-9294-3614597b165e"
+      ],
+      "categoryItems": [
+        159275
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "443439",
       "title": "Optimizing Application Performance",
       "description": "When it comes to user experience a snappy application beat a glamorous one. Nothing frustrates an end user more than a slow application. Did you know that any wait time greater than one second will break a user's concentration and cause them to feel frustration? How can we create applications to meet user expectations? This class will cover all things performance from design to delivery. We will go over application design, user interface guidelines, caching guidelines, code optimizations, and query optimizations.",
@@ -260,6 +355,25 @@
       ],
       "categoryItems": [
         159284
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "449170",
+      "title": "Rethinking Architecture: A Look at Macroservices",
+      "description": "In the beginning, all software was a single, monolithic executable. However, large scale executables quickly became unwieldy, cumbersome, and a nightmare to update and maintain. We took a step back and addressed the problems. As such, Service Oriented Architecture was born, and we all rejoiced. However, these large scale services quickly became unwieldy, cumbersome, and a nightmare to update and maintain. We took a step back and addressed the problems. As such, Microservices were born, and we all rejoiced.\r\n\r\nUnfortunately, the honeymoon with Microservices is now over, as we start to see problems with this style. In this talk, we'll take a step back, and look at the pros and cons of both SOA and Microservices. From there, we can weigh these concerns and try to find a happy middle ground, which I affectionately refer to as Macroservices. By the end, we'll have an appreciation for the concerns we must weigh as we decide how to build or refactor our next application.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "94732aa0-c688-45c1-b92b-7ebad08ea8e0"
+      ],
+      "categoryItems": [
+        159282
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -383,6 +497,38 @@
   ],
   "speakers": [
     {
+      "id": "d5383829-0901-4bb9-918b-1118c196c314",
+      "firstName": "Alex",
+      "lastName": "Finnarn",
+      "bio": "Alex has always been a pragmatic contrarian experiencing his first case of JS fatigue debugging the build of a simple static site. Ever since he's been searching for simple solutions to common problems across many languages and stacks. In his spare time, you can find Alex picking up spares while bowling, mindfully mindlessly playing instruments, or catching Criterion Channel classics.",
+      "tagLine": "Engineer at CivicActions",
+      "profilePicture": "https://sessionize.com/image/a616-400o400o2-DUrjhYGGdPud8VHwkdzcS5.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/alexfinnarn",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/alexfinnarn/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/@alexfinnarn",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        450242
+      ],
+      "fullName": "Alex Finnarn",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "09f1a897-fb01-4ed0-9178-5d383517928e",
       "firstName": "Amanda",
       "lastName": "O'Mara",
@@ -401,6 +547,33 @@
         435644
       ],
       "fullName": "Amanda O'Mara",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1dbfb6bc-c1f2-44af-9294-3614597b165e",
+      "firstName": "Brendan",
+      "lastName": "Enrick",
+      "bio": "I've been speaking about coding for over a decade. Everything changes, but everything is the same. \r\n\r\nI write code to solve problems, and I try to leave things nicer than I found them. I have fun while doing it. Let's write code and talk about code together!",
+      "tagLine": "Mentoring, Training, and Coaching Developers",
+      "profilePicture": "https://sessionize.com/image/a64f-400o400o2-Nhbh9sAeXRqYKpaBuHA3Tq.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/brendoneus",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "Blog",
+          "url": "http://brendan.enrick.com/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        431063
+      ],
+      "fullName": "Brendan Enrick",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -476,6 +649,33 @@
       "questionAnswers": []
     },
     {
+      "id": "94732aa0-c688-45c1-b92b-7ebad08ea8e0",
+      "firstName": "Chris",
+      "lastName": "Gardner",
+      "bio": "Chris Gardner is a Senior Products and Platform Engineering Manager for Accenture, the Chairman of the DevSpace Technical Conference and a regular coder. Tortured by years of contracts that valued buzzwords over results, Chris has developed a true passion for finding solutions that fit the problem, not the technology of the week. Chris received his M.S in Computer Science, B.S. in Mathematics, and B.A. in Philosophy from the University of Alabama in Huntsville and is currently a Microsoft Certified Solutions Developer, Professional Developer, Information Technology Professional and Trainer.",
+      "tagLine": "Coder",
+      "profilePicture": "https://sessionize.com/image/b676-400o400o2-PhCn2cpwki4RAmGVe6G7XR.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/freestylecoder",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "Blog",
+          "url": "https://twitch.tv/freestylecoder",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        449170
+      ],
+      "fullName": "Chris Gardner",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "70c37ef4-ef7f-48be-b2a6-790c716b6d29",
       "firstName": "Damian",
       "lastName": "Synadinos",
@@ -541,6 +741,28 @@
         436852
       ],
       "fullName": "Dave Klein",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "11a684d4-ace1-49e8-be4b-c4e5ff215a7c",
+      "firstName": "Eldert",
+      "lastName": "Grootenboer",
+      "bio": "Eldert is always enthusiastic about embarking on new journeys with the Cloud, and Azure in particular. He is very passionate about growing his dreams and teams, and goes above and beyond to help those with the same spark. Eldert comes from a background as a cloud solution architect and Technology Lead, was an Azure MVP for 5 consecutive years, and is now working as a Senior Program Manager at Microsoft for Azure Service Bus. In these roles he has demonstrated experience in building and maintaining relationships at all levels.\r\n\r\nAlways having a smile on his face, Eldert can be found delivering noteworthy sessions at in-person conferences, meetups, and online platforms. He values sharing and spreading knowledge while building genuine connections regardless of background and expertise. His goal is to bring people closer and work together to influence the outcome and optimize the future of Cloud technologies.\r\n\r\nApart from public speaking, Eldert shows his passion for being involved with the community in other ways as well. As such, he can often be found doing mentoring, organizing conferences and meetups, blogging, writing, and more. He loves telling about his journey and hearing other people’s stories. When meeting people he always looks forward to getting to know about their passions and how he can help them.",
+      "tagLine": "Senior Program Manager @Microsoft | #Azure Service Bus | Former #Azure MVP | Community Enthousiast",
+      "profilePicture": "https://sessionize.com/image/a215-400o400o2-PkYjFEGLvknBFThfFXDUS1.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/egrootenboer",
+          "linkType": "Twitter"
+        }
+      ],
+      "sessions": [
+        430133
+      ],
+      "fullName": "Eldert Grootenboer",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -809,6 +1031,43 @@
       "questionAnswers": []
     },
     {
+      "id": "f0f1fa39-eb24-4ab6-866c-b8645975bd75",
+      "firstName": "Scott",
+      "lastName": "McAllister",
+      "bio": "Scott McAllister is a Developer Advocate for ngrok. He has been building web applications in several industries for over a decade. Now he's helping others learn about a wide range of web technologies and incident management principles. When he's not coding, writing or speaking he enjoys long walks with his wife, skipping rocks with his kids, and is happy whenever Real Salt Lake, Seattle Sounders FC, Manchester City, St. Louis Cardinals, Seattle Mariners, Chicago Bulls, Seattle Storm, Seattle Seahawks, OL Reign FC, St. Louis Blues, Seattle Kraken, Barcelona, Fiorentina, Borussia Dortmund or Mainz 05 can manage a win.\r\n",
+      "tagLine": "Developer Advocate at ngrok",
+      "profilePicture": "https://sessionize.com/image/76d7-400o400o2-Pn9oh1DNVCkN3fTo1Y4zHS.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/stmcallister",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/stmcallister/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://dev.to/stmcallister",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://ngrok.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        448383
+      ],
+      "fullName": "Scott McAllister",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "b7235790-4c4a-491c-a8a1-1ed82a5d70b3",
       "firstName": "Seth",
       "lastName": "Petry-Johnson",
@@ -832,6 +1091,38 @@
         431413
       ],
       "fullName": "Seth Petry-Johnson",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a5d50f4e-f021-4983-97a9-73f9415b3d5b",
+      "firstName": "Steve",
+      "lastName": "Smith",
+      "bio": "Steve Smith (@ardalis) is an entrepreneur and software developer with a passion for building quality software as effectively as possible. Steve has published several courses on Pluralsight, covering DDD, SOLID, design patterns, and software architecture. He's a Microsoft ASP.NET MVP and Insider, a frequent speaker at developer conferences, an author, and a trainer.\r\n\r\nSteve works with companies that want to avoid the trap of technical debt by helping their teams deliver quality software, quickly. Steve and his team have been described by clients as a \"force multiplier\", amplifying the value of existing development teams. Steve's client list includes Microsoft, Quicken Loans, Celina Insurance, and many other satisfied customers.",
+      "tagLine": "I Help Teams Deliver Better Software",
+      "profilePicture": "https://sessionize.com/image/f430-400o400o2-4e-f021-4983-97a9-73f9415b3d5b.34dc742e-9a1e-4c87-98ad-c6bae9a07972.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/ardalis",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/stevenandrewsmith",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://ardalis.com/blog",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        450213
+      ],
+      "fullName": "Steve Smith",
       "categoryItems": [],
       "questionAnswers": []
     },

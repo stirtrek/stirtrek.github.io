@@ -21,7 +21,8 @@ Stir Trek’s priorities in setting these policies are to minimize the transmiss
 
 **Most Important Actions to Take Now**
 1. All attendees and staff are urged to take basic preventive measures to avoid exposure to or infection by the virus causing COVID-19. This includes social distancing, wearing a facecovering, and getting the vaccine.
-2. If you feel sick at all, stay at home and monitor your symptoms.  We will offer a virtual version of the event online for anyone that cannot attend.
+
+2. If you feel sick at all, stay at home and monitor your symptoms.
 
 If public health conditions worsen, Stir Trek’s policies may be further amended. This would be done to address the effects of more widespread illness, and to limit the spread.  
 

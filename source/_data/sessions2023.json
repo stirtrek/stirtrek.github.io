@@ -39,25 +39,6 @@
       "recordingUrl": null
     },
     {
-      "id": "430274",
-      "title": "C# Past, Present, and Beyond",
-      "description": "With the modern open source C# Compiler we've seen so many new language features it's hard to keep up. In this session we'll survey as many of the newer language features from C# 6 string interpolation to C#9 Records and see how you can take advantage of them in your applications today.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "84d28ad5-58b2-4546-870c-dfd988cb4b6d"
-      ],
-      "categoryItems": [
-        159275
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
       "id": "429998",
       "title": "Coding and the Mozart Effect",
       "description": "Most developers code to music...some are even musicians themselves.  Is it possible to streamline workflow by adjusting how we listen to music and what music we listen to?\r\n\r\nStudies have shown that exposure to certain kinds of music can help to develop cognitive strength and improve performance of tasks.  This talk will explore those studies and show what sort of things can be done to improve the listeners environment and help people to create better code.",
@@ -108,6 +89,25 @@
       ],
       "categoryItems": [
         159282
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "435644",
+      "title": "Growing the Next Generation of Developers Through Volunteering",
+      "description": "There is an increasing demand for computer science courses yet a shortage of teachers with the subject matter expertise required to teach these classes. The Microsoft Philanthropies TEALS Program provides a short-term solution to the teacher shortage and helps schools build a long-term and sustainable computer science program by partnering teachers new to computer science with industry volunteers who have computer science content expertise. Teachers in these partnerships learn computer science while team-teaching with volunteers until they are comfortable teaching independently. In this session, participants will hear about the Microsoft TEALS approach and discuss how industry volunteers can make an impact in a computer science classroom.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "09f1a897-fb01-4ed0-9178-5d383517928e"
+      ],
+      "categoryItems": [
+        159279
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -383,6 +383,28 @@
   ],
   "speakers": [
     {
+      "id": "09f1a897-fb01-4ed0-9178-5d383517928e",
+      "firstName": "Amanda",
+      "lastName": "O'Mara",
+      "bio": "Amanda O'Mara is the Ohio Regional Manager for the Microsoft TEALS Philanthropic Program, which places industry volunteers in high school classrooms to support classroom teachers as they learn how to teach computer science. She is a former middle school technology and engineering teacher at Bio Med Science Academy, a STEM designated independent public school in Rootstown, OH. ",
+      "tagLine": "Ohio Regional Manager - Microsoft TEALS Philanthropic Program",
+      "profilePicture": "https://sessionize.com/image/41e3-400o400o2-TqHWPrnGRFT2VBUHCK7UtZ.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/amandajomara/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        435644
+      ],
+      "fullName": "Amanda O'Mara",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "0c4f74c9-6be8-40d0-b588-674d3b783472",
       "firstName": "Brian",
       "lastName": "Gorman",
@@ -652,43 +674,6 @@
       "questionAnswers": []
     },
     {
-      "id": "84d28ad5-58b2-4546-870c-dfd988cb4b6d",
-      "firstName": "Jim",
-      "lastName": "Wooley",
-      "bio": "By day, Jim Wooley is a Senior Delivery Principal for Slalom Consulting, In his free time, Jim is a frequent speaker, MVP, and author of \"LINQ in Action\". He is always striving to stay at the forefront of technology and enjoys the thrill of a new challenge. He has been active evangelizing LINQ since its announcement in 2005. In addition, he attempts to pass on the insights he has gained by being active in the community, including organizing and speaking at code camps and regional events, including MIX, VS Live, CodeMash, KCDC, That Conference, DevWeek, and CodeStock. ",
-      "tagLine": "The Linq Kinq",
-      "profilePicture": "https://sessionize.com/image/6229-400o400o2-f8c9EEvXQtfoCdqdPp4K8m.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Twitter",
-          "url": "https://twitter.com/jimwooley",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/jim-wooley-12a4901",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "http://www.thinqlinq.com",
-          "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://www.slalom.com",
-          "linkType": "Company_Website"
-        }
-      ],
-      "sessions": [
-        430274
-      ],
-      "fullName": "Jim Wooley",
-      "categoryItems": [],
-      "questionAnswers": []
-    },
-    {
       "id": "9bd888db-205e-4384-9243-8cf087e47f5d",
       "firstName": "Kat",
       "lastName": "Fairbanks",
@@ -724,9 +709,9 @@
       "id": "17c299ee-d9fd-4020-b499-2837b2b3a2bf",
       "firstName": "Matt",
       "lastName": "Eland",
-      "bio": "After several decades as a software engineer and engineering manager, Matt now serves as a software engineering instructor at Tech Elevator where he gets to raise up future developers and unleash them upon the world to build awesome things. \r\n\r\nMatt is an Azure Data Scientist and AI Engineer Associate, runs a data science blog and YouTube channel, is currently pursuing a master's degree in data analytics, and helps organize the Central Ohio .NET Developer Group.\r\n\r\nIn his copious amounts of spare time, Matt continues to build nerdy things and looks for ways to share them with the community.",
-      "tagLine": "Instructor at Tech Elevator",
-      "profilePicture": "https://sessionize.com/image/a8b8-400o400o2-BGDv9RyqF3pCnaC4s3TLop.jpg",
+      "bio": "After several decades as a software engineer and engineering manager, Matt now serves as a software engineering instructor at Tech Elevator where he gets to raise up future developers and unleash them upon the world to build awesome things.\r\n\r\nMatt is a Microsoft MVP in Artificial Intelligence and a Microsoft Certified Azure Data Scientist and AI Engineer associate. Matt runs several blogs and a YouTube channel on data science and software engineering topics, is currently pursuing a master's degree in data analytics, and helps organize the Central Ohio .NET Developer Group while contributing to local and regional conferences.\r\n\r\nIn his copious amounts of spare time, Matt continues to build nerdy things and looks for ways to share them with the larger community.",
+      "tagLine": "Instructor at Tech Elevator, Microsoft MVP in AI",
+      "profilePicture": "https://sessionize.com/image/f65c-400o400o2-NpMGdfMWbxZoyRYt5ioKXE.jpg",
       "isTopSpeaker": false,
       "links": [
         {

@@ -35,12 +35,12 @@ Need to get in touch with us? Have a question you need to ask? Have an idea you 
                 <span>Facebook</span>
             </div>
         </div>
-        <div>
+        <!-- <div>
             <div class="socialMediaLink">
                 <a href="https://www.linkedin.com/grp/home?gid=3355555" target="_blank" class="btn btn-social-icon btn-linkedin"><i class="fa fa-linkedin"></i></a>
                 <span>LinkedIn</span>
             </div>
-        </div>
+        </div> -->
         <hr>
         <h2>Postal Address:</h2>
         <p>If you must, you can send us snail-mail at our mailbox below:</p>

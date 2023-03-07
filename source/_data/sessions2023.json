@@ -248,6 +248,25 @@
       "recordingUrl": null
     },
     {
+      "id": "434401",
+      "title": "Getting Good at Code Reviews",
+      "description": "If you write code, you should review code. \r\nThat's it. \r\nThat's the talk. \r\n\r\nThere are quite a few \"reasons\" why developers at various levels find themselves code-review averse: impostor syndrome, time constraints, and area of expertise are a few I've heard. For code owners and project leads, it's a constant battle.\r\n\r\nBut it shouldn't be! It doesn't have to be! \r\n\r\nLet's discuss the benefits of reviewing code, what it is, what it ain't, and how to make it more than the blind rubber stamp approvals we've grown used to. I'll show you my process and things that have helped me cultivate totally awesome code reviewers!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b1655789-7394-4979-9c93-ada3ee56dd45"
+      ],
+      "categoryItems": [
+        159280
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "435644",
       "title": "Growing the Next Generation of Developers Through Volunteering",
       "description": "There is an increasing demand for computer science courses yet a shortage of teachers with the subject matter expertise required to teach these classes. The Microsoft Philanthropies TEALS Program provides a short-term solution to the teacher shortage and helps schools build a long-term and sustainable computer science program by partnering teachers new to computer science with industry volunteers who have computer science content expertise. Teachers in these partnerships learn computer science while team-teaching with volunteers until they are comfortable teaching independently. In this session, participants will hear about the Microsoft TEALS approach and discuss how industry volunteers can make an impact in a computer science classroom.",
@@ -1400,6 +1419,33 @@
         429998
       ],
       "fullName": "PJ Hagerty",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "b1655789-7394-4979-9c93-ada3ee56dd45",
+      "firstName": "Rhia",
+      "lastName": "Dixon",
+      "bio": "Kansas City native, Rhia Dixon is a lead software engineer at VMLY&R, a global agency focused on creating connected brand experiences. Primarily a backend dev, she creates software applications using Java, Python, Adobe Experience Manager, and a variety of other tech. While she has always been a STEM girl and holds a B.S. in Physics, her journey to the world of tech kicked off in the summer of 2017 during a full-stack web development bootcamp at the University of Kansas-Edwards Campus. Rhia has immersed herself in the KC tech community by volunteering -- both as a mentor, and as Diversity & Inclusion Director -- for Kansas City Women in Technology, a non-profit organization dedicated to bringing women in technology together and encouraging more women and girls to pursue careers in technology.\r\nWhen she’s not writing code or volunteering, Rhia is chasing her toddler, solving puzzles with her 1st grader, binge-watching Marvel movies, scheming on her next purple bag of skittles, or spending time making memories with family and friends.",
+      "tagLine": "Lead Software Engineer - Full Stack Dev - Tech Connector - DEI Advocate",
+      "profilePicture": "https://sessionize.com/image/3c5b-400o400o2-N5ytZYx2ukFqXUZnkTV4tq.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/TheFakeRiRi",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/rhiadixon/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        434401
+      ],
+      "fullName": "Rhia Dixon",
       "categoryItems": [],
       "questionAnswers": []
     },

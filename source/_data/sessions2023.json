@@ -381,6 +381,25 @@
       "recordingUrl": null
     },
     {
+      "id": "432453",
+      "title": "Migrate Your Legacy ASP.NET Projects to ASP.NET Core Incrementally with YARP",
+      "description": "YARP (Yet Another Reverse Proxy) might have a funny name, but it a very serious tool when it comes to helping you upgrade your legacy ASP.NET projects to ASP.NET Core. The best part is, it helps you do the upgrade gradually, and with minimal impact to your users.\r\n\r\nCome learn how to add YARP to your ASP.NET project, and how it uses the \"Strangle Fig Pattern\" to allow you to incrementally migrate your application to ASP.NET Core.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d108027a-7e26-46f5-b92d-9f6cb59eb283"
+      ],
+      "categoryItems": [
+        159281
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "450233",
       "title": "No, ChatGPT isn't going to take your job, but it might just help you get things done.",
       "description": "As artificial intelligence continues to advance at a rapid pace, many people are worried about the impact it will have on the job market. However, in the case of ChatGPT, those fears are largely unfounded. While it's true that ChatGPT is capable of performing many tasks that were once the exclusive domain of humans, it's important to remember that ChatGPT is a tool, not a replacement for human workers. In fact, ChatGPT has the potential to help people get more done than ever before.\r\n\r\nIn this talk, we'll explore the capabilities of ChatGPT and discuss how it can be used to streamline workflows, improve productivity, and make our lives easier. We'll look at real-world examples of how ChatGPT is being used today, from automating customer service to generating creative content. We'll also discuss the ethical considerations of using AI in the workplace and explore how we can ensure that we're using these tools responsibly.\r\n\r\nUltimately, the goal of this talk is to dispel the fear and uncertainty that surrounds AI and to show how ChatGPT can be a powerful ally in the workplace. Whether you're a business owner looking to improve efficiency or an employee looking to streamline your workload, ChatGPT has the potential to help you get things done like never before. So join us as we explore the exciting world of AI and discover how ChatGPT can help you achieve your goals.",
@@ -621,6 +640,25 @@
       ],
       "categoryItems": [
         159283
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "444061",
+      "title": "The Product Doesn't Develop Itself: A Business Case for Taking Care of Developers",
+      "description": "In our industry, there is a lot of pressure to deliver high quality, tested, fast, scalable, innovative software. We focus on deadlines, product requests, and metrics to ensure quality. But what of the people actually doing the work? \r\n\r\nJoin this session to learn how, as a manager, one can support your resources to deliver their best work. As an individual contributor, this session will guide you through pinpointing your needs, advocating to have them met, and how to handle self-care so you can be your very best.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d98ac233-d319-45ab-9729-41f7c4ae2a62"
+      ],
+      "categoryItems": [
+        159279
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -1214,6 +1252,43 @@
       "questionAnswers": []
     },
     {
+      "id": "d108027a-7e26-46f5-b92d-9f6cb59eb283",
+      "firstName": "Jonathan \"J.\"",
+      "lastName": "Tower",
+      "bio": "Jonathan, or J as he's known to friends, is a husband, a father, and the owner of Trailhead Technology Partners, a custom software consulting company with employees all around the world. He is also a Microsoft MVP in .NET and frequently speaks at software meetups and conferences. He doesn't mind too much because he loves sharing what he’s learned, and it also gives him an excuse to visit any nearby National Parks, a passion of his, proven by the fact that he's currently made it to 52 of the 63 parks.\r\n\r\nJ also has a passion for building community and has served on several non-profit boards over the years as a result. Currently, J sits on the SoftwareGR board, a non-profit trade organization dedicated to building the software industry in West Michigan. He also runs Beer City Code, a software conference, and has served as president on that board for over a decade. J loves hiking, reading, photography, and trying to see all the best picture nominees before the Oscars ceremony.",
+      "tagLine": "Partner & Principal Consultant, Trailhead Technology Partners",
+      "profilePicture": "https://sessionize.com/image/2513-400o400o2-ncTxzbvtMMe8gNw3GKDtVn.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/jtowermi",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jtower/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://trailheadtechnology.com/blog",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://trailheadtechnology.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        432453
+      ],
+      "fullName": "Jonathan \"J.\" Tower",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "9bd888db-205e-4384-9243-8cf087e47f5d",
       "firstName": "Kat",
       "lastName": "Fairbanks",
@@ -1692,6 +1767,38 @@
         449862
       ],
       "fullName": "Todd Gardner",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "d98ac233-d319-45ab-9729-41f7c4ae2a62",
+      "firstName": "Valarie",
+      "lastName": "Regas",
+      "bio": "Valarie Regas is a DevOps fanatic, a Georgia Tech coding bootcamp graduate, and a veteran mommy. She holds a BA in Psychology and currently works as a Developer Advocate. After years being a stay-at-home mom, she decided to change her life by entering tech, and has learned a lot along the way. Outside of work, she enjoys mixed martial arts fighting, table-top role playing games, public speaking, creating tiny humans, and activism of all sorts.",
+      "tagLine": "Developer Advocate",
+      "profilePicture": "https://sessionize.com/image/b25d-400o400o2-swfigjHbpyg9v2JbJQKEVd.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/ValarieRegas",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/valarieregas/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/@valarieregas",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        444061
+      ],
+      "fullName": "Valarie Regas",
       "categoryItems": [],
       "questionAnswers": []
     },

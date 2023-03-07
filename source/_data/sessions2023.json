@@ -20,6 +20,25 @@
       "recordingUrl": null
     },
     {
+      "id": "442176",
+      "title": "Build-a-Bot Workshop: Make an SMS Chatbot Therapist",
+      "description": "With artificial intelligence gaining both interest and popularity over time, Diana shares how humans have integrated this technology into their respective industries. The effects of chatbots generating more human-like conversations have led to the revolution of psychotherapy, and now you have the opportunity to replicate it.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "dea947af-9049-44fb-b853-42e45300dadf"
+      ],
+      "categoryItems": [
+        159278
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "449946",
       "title": "Building a Design system",
       "description": "Design systems have been generating a lot of hype lately and rightfully so! They can provide better user experiences, promote best practices, and help you develop products faster. But, before you open your favorite design tool or code editor to start throwing things together, there are some things you need to identify and document to prevent issues.",
@@ -96,6 +115,44 @@
       "recordingUrl": null
     },
     {
+      "id": "445279",
+      "title": "Database DevOps: Options for database change management",
+      "description": "Whether you are the DBA for an Agile, Sprint-based team, or a developer with DBA responsibilities, you may feel like the development bottleneck at every turn. Managing migrations with your ORM of choice is easy but often error-prone and hard to manage as the project grows. Or worse yet, maybe your schema and change management is a folder full of poorly commented SQL scripts saved to a shared folder or local drive.\r\n\r\nSurely there's a better, SQL-centric way to manage databases as code, validate changes, and deploy updates - right? Yes, there is!\r\n\r\nThis talk will explore what database DevOps is and how open-source and paid tools like Flyway can help you manage database schema and code changes while incorporating agile CI/CD practices.\r\n\r\nBy the end of the session, you'll be ready to tame your rogue application databases, managing changes and migrations with ease, and become the envy of the development team.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0785f402-af78-4d26-a024-a1fb32fefe04"
+      ],
+      "categoryItems": [
+        159283
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "450221",
+      "title": "Definition of Done: FUN.  (Coding software you can PLAY!!!!)",
+      "description": "Most of our day to day professional lives are spent solving technical problems.  We feel a little personal victory every time we move that little story card to the \"DONE\" column.  But does software development have to be so goal oriented? So business driven? How about writing software which specifically has no specific business goal? Who's Definition of Done is simply this: IS IT FUN? \r\nGrown over decades of tinkering, the open source PureData real-time patcher environment and its shiny commercial cousin, MAX, have existed solely for the purpose of being played.  In this session we will look at how PD and MAX have been used for creative works for generations and how we can build our own - be it a music instrument of Dr Suessian complexity or a video art installation controlled by the movement of its observers - we will look at how to build software to be experienced and enjoyed.  ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5faa6420-5ed1-4138-ad81-7e3c890502f3"
+      ],
+      "categoryItems": [
+        159277
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "449820",
       "title": "Developing APIs on the Edge and Reducing Operational Costs",
       "description": "Our API services billions of requests during an election season so we're always on the hunt to make things more resilient and to find places where we can reduce cost. In this talk we about some of the choices we made to accomplish and the pros and cons. ",
@@ -134,6 +191,25 @@
       "recordingUrl": null
     },
     {
+      "id": "436867",
+      "title": "Ditch the Media Queries: Modern CSS Replacements for Better Responsive Code",
+      "description": "In Ye Olden Days of Webbe Development, device-based breakpoints were the standard…then, best practices shifted to content-based breakpoints. Now, breakpoints are sooo 2010; the era of fluid design is here! Dive into the new CSS that empowers us to write responsive code – without the media queries.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "44406a2e-5504-47d4-8fef-6d5c110704a0"
+      ],
+      "categoryItems": [
+        159281
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "430133",
       "title": "Don't put your messages in a bottle; Implement messaging patterns",
       "description": "When building enterprise solutions, messages are the heart of our communication. They convey commands and data between various systems and ensure that we can work in a decoupled, scalable, and distributed manner. Our messages represent value, so we can't just slip them in a bottle, toss them into the ocean, and hope they arrive at their destination. Instead, we need a messaging backbone that can provide resilience and stability. Therefore, we implement proven messaging patterns, to ensure they are handled with the care they deserve.\r\n\r\nIn this session we will have a look at Azure Service Bus, and what role it takes in such designs. Through various demos, we will showcase its implementation with a wide variety of messaging patterns. As a result we come to understand how secure and reliable communication help us solve complex messaging challenges. \r\n\r\nCome and learn about handling transactions involving different systems, implementing data consistency across them, and controlling intermittent and critical failures.",
@@ -153,6 +229,25 @@
       "recordingUrl": null
     },
     {
+      "id": "447976",
+      "title": "Foster a Culture of Learning Through Observability",
+      "description": "Observability helps engineers understand the systems they have built, but it can also help engineers new to a team and even engineers new to tech in general understand the systems they will be working on. \r\n\r\nThis session provides an introduction to observability terms and concepts and tells the story of one platform engineering team’s observability adoption to illustrate those concepts. We will explore how observability creates a learning culture, how every engineer on a team can benefit from observability, and how observability builds a foundation to enable onboarding new engineers more effectively, leveling up engineers, and taking on apprentice engineers.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8ae0a45e-573c-4ab1-8ca0-bc1e31bcec0e"
+      ],
+      "categoryItems": [
+        159280
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "435644",
       "title": "Growing the Next Generation of Developers Through Volunteering",
       "description": "There is an increasing demand for computer science courses yet a shortage of teachers with the subject matter expertise required to teach these classes. The Microsoft Philanthropies TEALS Program provides a short-term solution to the teacher shortage and helps schools build a long-term and sustainable computer science program by partnering teachers new to computer science with industry volunteers who have computer science content expertise. Teachers in these partnerships learn computer science while team-teaching with volunteers until they are comfortable teaching independently. In this session, participants will hear about the Microsoft TEALS approach and discuss how industry volunteers can make an impact in a computer science classroom.",
@@ -165,6 +260,25 @@
       ],
       "categoryItems": [
         159279
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "449862",
+      "title": "Hostile JavaScript: Attacking and Defending the Browser",
+      "description": "How much JavaScript is on your website? Do you know what it does? No really, have you looked at the code and seen what it does? Probably not.\r\n\r\nJavaScript controls the client side environment, and we can use it to compromise users, consume resources, and steal data. Yet many websites continue to add scripts without review, audit, or thought.\r\n\r\nLet’s explore what JavaScript can do to a browser, the vectors that JavaScript can get added to websites, and how we can defend against JavaScript attacks. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5f017dbb-6821-480b-a750-82a0f15fa1b2"
+      ],
+      "categoryItems": [
+        159285
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -400,6 +514,44 @@
       "recordingUrl": null
     },
     {
+      "id": "446618",
+      "title": "Strategizing Products and Customer Experiences",
+      "description": "In an era of faster, faster, faster, our workplaces are sacrificing quality, collaboration, and the customer experience to “just ship it.” Business goals don’t seem to overlap with customers’ needs. Customers don’t want Minimally Viable anything, but we keep delivering that.\r\n\r\nCustomers notice when we get it wrong. Our competitors, investors, shareholders, the press, bloggers, and social media notice. Morale suffers, and we might have trouble retaining or hiring the best staff. \r\n\r\nGreat customer experiences require the right team and strategies in place to predict and mitigate the risk of delivering wrong or flawed products, services, and experiences (PSE). Marketing and sales initiatives have uphill battles when we are offering PSE that are difficult to learn, frustrating to use, or not meeting customers’ real needs.\r\n\r\nThis session has actionable advice and models for how you can start shifting process, teams, and our companies towards true customer-centricity.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6e3f3714-82bb-4fee-873b-975239263814"
+      ],
+      "categoryItems": [
+        159276
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "448009",
+      "title": "Strongly-typed CSS with Vanilla-extract",
+      "description": "Sick of memorizing awkward naming conventions? Are you losing sleep thinking about how to author maintainable CSS at scale? CSS-in-JS frameworks not performant enough? Tired of banging your head against a wall, trying to figure out why your CSS isn’t working, only to realize you spelled the class wrong? Look no further than Vanilla-extract + Sprinkles.\r\nIn this session, you’ll learn how to write type-safe, locally scoped classes, variables, and themes to generate static CSS files at build time.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f38f42d8-7623-457c-8871-dbb44bc458da"
+      ],
+      "categoryItems": [
+        159275
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "431085",
       "title": "The Four Principles of Accessibility",
       "description": "While many in the design community are aware of inclusivity and accessible design practices, the reasons are still not understood. My talk walks the listener through the WCAG 2.1 and explains how the four principles, collectively referred to as POUR, apply to product design and development. These four principles specifically target areas where users have trouble accessing digital content. The goal is to help product teams understand how to think about and approach accessibility so they can build products that enable independence.  ",
@@ -469,6 +621,25 @@
       ],
       "categoryItems": [
         159277
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "434806",
+      "title": "Watch this! Building a Health app for WatchOS",
+      "description": "One of the most popular answers for a favorite smart watch feature is to monitor your health. From steps to heart rate to exercise to sleep, smart watches do it all and with Jetpack Compose and Health Services, we can build our own app for WatchOS! \r\n\r\nDuring this talk, we’ll explore building for this tiny screen using Compose for WearOS, a declarative framework for creating watch interfaces quickly and easily optimized for the screen shape and size, and the Health Services APIs, an intermediary to the various sensors and algorithms on the the watch that provide data related to activity, exercise, and health. With these tools, we’ll be able to create a beautiful and efficient wear app that can help you track your health goals! ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8500ffde-a07d-40ad-8c9f-e35b97359bee"
+      ],
+      "categoryItems": [
+        159278
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -622,6 +793,33 @@
       "questionAnswers": []
     },
     {
+      "id": "8ae0a45e-573c-4ab1-8ca0-bc1e31bcec0e",
+      "firstName": "Brooke",
+      "lastName": "Sargent",
+      "bio": "Brooke is currently a software engineer working on observability at Honeycomb. Previously, she worked on e-commerce and IoT at Procter & Gamble as an engineering manager. In her spare time, she can be found in the kitchen on a quest to master baking the perfect pie.",
+      "tagLine": "Software Engineer @ honeycomb.io",
+      "profilePicture": "https://sessionize.com/image/b7f2-400o400o2-sBgXNAk9CbKpgsiBymvheZ.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/codegirlbrooke",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/brooke-sargent/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        447976
+      ],
+      "fullName": "Brooke Sargent",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "b642eabd-7250-4ac5-b3b0-ce01951b88aa",
       "firstName": "Burton",
       "lastName": "Smith",
@@ -745,6 +943,75 @@
       "questionAnswers": []
     },
     {
+      "id": "6e3f3714-82bb-4fee-873b-975239263814",
+      "firstName": "Debbie",
+      "lastName": "Levitt",
+      "bio": "\r\nDebbie Levitt, MBA, is the CXO of Delta CX, and since the mid-1990s has been a CX and UX consultant focused on strategy, research, training, and Human-Centered Design/User-Centered Design. She’s a change agent and business design consultant focused on helping companies of all sizes transform towards customer-centricity while using principles of Agile and Lean.\r\n\r\nShe has worked in various CX and UX leadership and individual contributor roles at companies including Wells Fargo, Macy’s, StepStone, Sony Mobile, and Constant Contact. In the 2010s, San Francisco UX and marketing agencies had Debbie on speed dial. She completed projects for Traction, Fjord, LIFT, Rauxa, ROI·DNA, and Fiddlehead.\r\n\r\nClients have given her the nickname, “Mary Poppins,” because she flies in, improves everything she can, sings a few songs, and flies away to her next adventure.\r\n\r\nHer new book, “Customers Know You Suck,” (2022) is the customer-centricity how-to manual. Start investigating what’s holding you back from improving customer-centricity. Learn how to be value-led: how much value we can frequently create for potential and current customers. In 2016, she became an O’Reilly author, but has since chosen to self-publish, and now has her own publishing imprint, Delta CX Media.\r\n\r\nOutside of CX work, and sometimes during CX work, Debbie enjoys singing symphonic prog goth metal, opera, and New Wave. You can also catch her on the Delta CX YouTube channel.\r\n",
+      "tagLine": "CXO of Delta CX",
+      "profilePicture": "https://sessionize.com/image/7065-400o400o2-4ZnDT5fSesQfFe3Yun2PH7.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/debbielevitt",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://customercentricity.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://customercentricity.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        446618
+      ],
+      "fullName": "Debbie Levitt",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "dea947af-9049-44fb-b853-42e45300dadf",
+      "firstName": "Diana",
+      "lastName": "Pham",
+      "bio": "Diana joined Vonage’s DevRel team shortly after completing her master's in computer science at Northeastern University. Prior to grad school, she had never truly coded in her life. After interning with multiple companies and creating a YouTube series for one of them, Diana found her calling in advocacy. Now she works on the Outreach team as a developer advocate based in New York. She also loves petting farm animals, trying new foods, and pole dancing.",
+      "tagLine": "Developer Advocate at Vonage",
+      "profilePicture": "https://sessionize.com/image/9938-400o400o2-4kTaxiXUCZYFnHVZRMst5G.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/dianasoyster",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/dianasoyster/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://dev.to/dianasoyster",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://developer.vonage.com/en/home",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        442176
+      ],
+      "fullName": "Diana Pham",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "11a684d4-ace1-49e8-be4b-c4e5ff215a7c",
       "firstName": "Eldert",
       "lastName": "Grootenboer",
@@ -763,6 +1030,38 @@
         430133
       ],
       "fullName": "Eldert Grootenboer",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f38f42d8-7623-457c-8871-dbb44bc458da",
+      "firstName": "Georgia",
+      "lastName": "Loper",
+      "bio": "Georgia Loper loves the web. She champions frontend excellence at Upstart by empowering teams to engineer quality user experiences with Patina Design System.",
+      "tagLine": "Senior Software Engineer, Design Systems",
+      "profilePicture": "https://sessionize.com/image/55b9-400o400o2-JoaEJce8KjNtsH8BiNW8LK.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/developerLoper",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/georgialoper/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://developerloper.dev",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        448009
+      ],
+      "fullName": "Georgia Loper",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -928,6 +1227,70 @@
       "questionAnswers": []
     },
     {
+      "id": "44406a2e-5504-47d4-8fef-6d5c110704a0",
+      "firstName": "Kathryn",
+      "lastName": "Grayson Nanz",
+      "bio": "In 2013, I graduated with a BFA and took my first job as a Junior Graphic Designer at a small, boutique ad agency. While there, my Creative Director warned me to never let anyone find out I could code, because if I did I'd be stuck doing it forever. I ignored his warning; it turns out he was completely right, but I've never been happier. \r\n\r\nI currently work as a developer advocate on a wonderful team where I help people build web applications in React, design and maintain their UI component libraries, and desperately attempt to stop back-end devs from writing any more CSS.",
+      "tagLine": "UI Designer & Front-end Developer",
+      "profilePicture": "https://sessionize.com/image/e2dc-400o400o2-McJQkJxyfF54Kt3p6Je5vn.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/kathryngrayson",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/kathryngrayson/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://kgrayson.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.telerik.com/kendo-ui",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        436867
+      ],
+      "fullName": "Kathryn Grayson Nanz",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "5faa6420-5ed1-4138-ad81-7e3c890502f3",
+      "firstName": "Krista",
+      "lastName": "Campbell",
+      "bio": "Hi! I’m Krista Campbell. Thank you for taking the time to learn a little bit about me!\r\n\r\nI’m a Software Architect, Advocate, Engineer, and Leader who has been working in the field for more years than I like to count (including over twenty-five years of experience in the software industry). I’m experienced in both the technical and non-technical aspects of software development, I’ve led numerous successful software projects, focusing primarily in state and county agencies, human services, supporting health, education, and disabled communities.\r\n\r\nOver the years, I have discovered that I am as much a people person as I am a technical person. I’m adept at bridging the gap between technology and business leadership, building consensus through communication and shared understanding. I have strong leadership skills with experience in planning and guiding teams through the development cycle, mentoring and training junior developers, interviewing and placing developers, writing and presenting proposals and maintaining vendor partnerships. I’m also a seasoned public speaker having presented at several conferences such as CodeMash, StirTrek, Columbus Women in Tek, and Dogfood conferences.\r\n\r\nI started working with Microsoft technologies in the 90’s and have continuously changed and evolved with the times extending also into open source technologies as well. As such, I’m well-skilled in both Microsoft and open source technologies including cloud technologies in both Amazon Web Services as well as Microsoft Azure. With a strong focus on process and Agile methodologies, I have proven experience in helping teams successfully transform their development practices to leverage modern ALM and DevOps tools and techniques. Currently, I'm sharing this experience in the form of technical agile coaching - loving the opportunity to help technical teams do what they do best, only better.\r\n\r\nIn the rare event of free time you can usually find me with my amazing non-binary kid, making music, or spending time with friends and family. I'm a proud and open member of the transgender community and a supporter for social justice for all. ",
+      "tagLine": "Principal Software Engineer and Technical Coach at Insight",
+      "profilePicture": "https://sessionize.com/image/eb9b-400o400o2-20-5ed1-4138-ad81-7e3c890502f3.c3c78142-65eb-43c2-8ad0-7cb5c22c46cb.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/kristab3000",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "http://www.linkedin.com/in/KristaCampbell33",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        450221
+      ],
+      "fullName": "Krista Campbell",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "17c299ee-d9fd-4020-b499-2837b2b3a2bf",
       "firstName": "Matt",
       "lastName": "Eland",
@@ -945,6 +1308,16 @@
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/matteland/",
           "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://AccessibleAI.dev",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://TechElevator.com",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [
@@ -1031,6 +1404,38 @@
       "questionAnswers": []
     },
     {
+      "id": "0785f402-af78-4d26-a024-a1fb32fefe04",
+      "firstName": "Ryan",
+      "lastName": "Booz",
+      "bio": "Ryan is an Advocate at Redgate focusing on PostgreSQL. Ryan has been working as a PostgreSQL advocate, developer, DBA and product manager for more than 20 years, primarily working with time-series data on PostgreSQL and the Microsoft Data Platform.\r\n\r\nRyan is a long-time DBA, starting with MySQL and Postgres in the late 90s. He spent more than 15 years working with SQL Server before returning to PostgreSQL full-time in 2018. He’s at the top of his game when he's learning something new about the data platform or teaching others about the technology he loves.",
+      "tagLine": "Developer Advocate at Redgate",
+      "profilePicture": "https://sessionize.com/image/496f-400o400o2-Y9fC6pVEFDzgwH45dB4Nh5.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://www.twitter.com/ryanbooz",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/ryanbooz/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.softwareandbooz.com",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        445279
+      ],
+      "fullName": "Ryan Booz",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "f0f1fa39-eb24-4ab6-866c-b8645975bd75",
       "firstName": "Scott",
       "lastName": "McAllister",
@@ -1091,6 +1496,38 @@
         431413
       ],
       "fullName": "Seth Petry-Johnson",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8500ffde-a07d-40ad-8c9f-e35b97359bee",
+      "firstName": "Sierra",
+      "lastName": "OBryan",
+      "bio": "Sierra is a Senior Software Engineer at Twitter, based in Cincinnati, OH, USA, focused primarily on native Android. She loves building beautiful and accessible Android apps, sharing knowledge with the community, and mentoring aspiring mobile developers. She is a Google Developer Expert for Android and serves as a director of Women Who Code Cincinnati, a global Leadership Fellow for Women Who Code Mobile, and a Women Techmakers Ambassador.",
+      "tagLine": "Android @ Twitter",
+      "profilePicture": "https://sessionize.com/image/10ad-400o400o2-71xKbc39LZi6tkVP2BZH6K.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/_sierraobryan",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/sierraobryan/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://sierraobryan.dev/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        434806
+      ],
+      "fullName": "Sierra OBryan",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -1177,6 +1614,38 @@
         442371
       ],
       "fullName": "Tim LeMaster",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "5f017dbb-6821-480b-a750-82a0f15fa1b2",
+      "firstName": "Todd",
+      "lastName": "Gardner",
+      "bio": "Todd Gardner is a software entrepreneur and developer who has built multiple profitable products. He pushes for simple tools, maintainable software, and balancing complexity with risk. He is the cofounder of TrackJS and Request Metrics, where he helps thousands of developers build faster and more reliable websites. He also produces the PubConf software comedy show.",
+      "tagLine": "CEO and founder at TrackJS and Request Metrics  | 💩 JavaScript Happens | Notepad Programmer | Web Development, Performance, and Observability",
+      "profilePicture": "https://sessionize.com/image/e451-400o400o2-3cCPW7rgMFV6YEt4nG82sj.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/toddhgardner",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "Blog",
+          "url": "https://toddhgardner.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://requestmetrics.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        449862
+      ],
+      "fullName": "Todd Gardner",
       "categoryItems": [],
       "questionAnswers": []
     },

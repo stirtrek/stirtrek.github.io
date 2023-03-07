@@ -18,8 +18,8 @@ Need to get in touch with us? Have a question you need to ask? Have an idea you 
             Sponsorship: <a href="mailto:sponsors@stirtrek.com?subject=[Stir Trek Sponsorship] Question ref:site">sponsors@stirtrek.com</a>
         </p>
         <hr>
-        <h2>Slack:</h2>
-        <a href="http://stirtrekslack.herokuapp.com/" target="_blank">Slack</a>
+        <h2>Discord:</h2>
+        <a href="https://discord.gg/vkcS8y5Wvz" target="_blank">Join Stir Trek Discord Server</a>
     </div>
     <div class="col-md-8">
         <h2>Social Media:</h2>

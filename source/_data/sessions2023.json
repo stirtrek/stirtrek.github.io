@@ -134,6 +134,25 @@
       "recordingUrl": null
     },
     {
+      "id": "442240",
+      "title": "Debugging Burnout",
+      "description": "Working in a product space requires knowing how to take a very complex problem and break it down into iterative chunks.  Far too often, we’re so wrapped up in the problems we’re solving professionally, that we completely forget to introspectively look at ourselves and ask what problems in our own lives need solving.  Burnout is real and worth addressing.  But much like the dev process, understanding the “why” behind behavior leads to a more sustainable outcome.\r\n\r\nThis talk is a part of an ongoing conversation in life.  We want to develop a framework and language to properly identify burnout and how we can work through it.  Let’s take some time in this iteration of the conversation and talk about what it is, why it’s a problem, and how we can leverage tools at our disposal to help identify, address, and debug burnout.\r\n",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "df992bbb-7d7a-4898-b2bf-252076fd9457"
+      ],
+      "categoryItems": [
+        159279
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "450221",
       "title": "Definition of Done: FUN.  (Coding software you can PLAY!!!!)",
       "description": "Most of our day to day professional lives are spent solving technical problems.  We feel a little personal victory every time we move that little story card to the \"DONE\" column.  But does software development have to be so goal oriented? So business driven? How about writing software which specifically has no specific business goal? Who's Definition of Done is simply this: IS IT FUN? \r\nGrown over decades of tinkering, the open source PureData real-time patcher environment and its shiny commercial cousin, MAX, have existed solely for the purpose of being played.  In this session we will look at how PD and MAX have been used for creative works for generations and how we can build our own - be it a music instrument of Dr Suessian complexity or a video art installation controlled by the movement of its observers - we will look at how to build software to be experienced and enjoyed.  ",
@@ -336,6 +355,25 @@
       ],
       "categoryItems": [
         159284
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "431084",
+      "title": "Maintaining Accessibility in Complicated Components",
+      "description": "Vue provides many wonderful tools for composing fragments of UI code in various different ways. As Vue developers, we spend a great deal of time working with abstractions created by ourselves or others, and as such it can be easy to lose touch with the actual HTML output of our applications. \r\n\r\nThis is especially true when complicated interactivity is involved. In this talk we'll reflect on how we can use automated testing to focus on the accessible \"identity\" of our interactive features. By understanding the underlying patterns and testing them, we can make sure the application is behaving correctly and that our tests see through our architecture so that core accessible behaviors that matter to users don't get lost in the shuffle.\r\n\r\nWe will use Cypress as our test runner to show examples, but will focus on general ideas about what is being tested, and why, not the tool itself.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1d48e051-b2ac-4aa5-9e5b-78b376819a72"
+      ],
+      "categoryItems": [
+        159281
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -640,25 +678,6 @@
       ],
       "categoryItems": [
         159283
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "444061",
-      "title": "The Product Doesn't Develop Itself: A Business Case for Taking Care of Developers",
-      "description": "In our industry, there is a lot of pressure to deliver high quality, tested, fast, scalable, innovative software. We focus on deadlines, product requests, and metrics to ensure quality. But what of the people actually doing the work? \r\n\r\nJoin this session to learn how, as a manager, one can support your resources to deliver their best work. As an individual contributor, this session will guide you through pinpointing your needs, advocating to have them met, and how to handle self-care so you can be your very best.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "d98ac233-d319-45ab-9729-41f7c4ae2a62"
-      ],
-      "categoryItems": [
-        159279
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -1385,6 +1404,33 @@
       "questionAnswers": []
     },
     {
+      "id": "1d48e051-b2ac-4aa5-9e5b-78b376819a72",
+      "firstName": "Mark",
+      "lastName": "Noonan",
+      "bio": "Mark is a senior engineer on the Component Testing team at Cypress.io. His background before Cypress is in front-end development in agency and enterprise contexts, and before that he spent many years in developmental disability support at the Atlanta nonprofit, People Making Progress.",
+      "tagLine": "Cypress",
+      "profilePicture": "https://sessionize.com/image/0b9f-400o400o2-PWiSfdATbiAcCZh8M9sGkj.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/marktnoonan",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/markthomasnoonan/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        431084
+      ],
+      "fullName": "Mark Noonan",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "17c299ee-d9fd-4020-b499-2837b2b3a2bf",
       "firstName": "Matt",
       "lastName": "Eland",
@@ -1553,6 +1599,28 @@
         445279
       ],
       "fullName": "Ryan Booz",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "df992bbb-7d7a-4898-b2bf-252076fd9457",
+      "firstName": "Samuel",
+      "lastName": "Shaw",
+      "bio": "Sam has been in the technology space professionally for seven years after dabbling as a developer while working in academia.  His spare time is spent trying new things or in the gym fighting.  Most recently the focus being Krav Maga and Kung Fu.",
+      "tagLine": "Software Developer - CoverMyMeds",
+      "profilePicture": "https://sessionize.com/image/bc1e-400o400o2-UddRVW1pNNzrRNd7nd1y4p.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/thesamdroid/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        442240
+      ],
+      "fullName": "Samuel Shaw",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -1767,38 +1835,6 @@
         449862
       ],
       "fullName": "Todd Gardner",
-      "categoryItems": [],
-      "questionAnswers": []
-    },
-    {
-      "id": "d98ac233-d319-45ab-9729-41f7c4ae2a62",
-      "firstName": "Valarie",
-      "lastName": "Regas",
-      "bio": "Valarie Regas is a DevOps fanatic, a Georgia Tech coding bootcamp graduate, and a veteran mommy. She holds a BA in Psychology and currently works as a Developer Advocate. After years being a stay-at-home mom, she decided to change her life by entering tech, and has learned a lot along the way. Outside of work, she enjoys mixed martial arts fighting, table-top role playing games, public speaking, creating tiny humans, and activism of all sorts.",
-      "tagLine": "Developer Advocate",
-      "profilePicture": "https://sessionize.com/image/b25d-400o400o2-swfigjHbpyg9v2JbJQKEVd.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Twitter",
-          "url": "https://twitter.com/ValarieRegas",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/valarieregas/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://medium.com/@valarieregas",
-          "linkType": "Blog"
-        }
-      ],
-      "sessions": [
-        444061
-      ],
-      "fullName": "Valarie Regas",
       "categoryItems": [],
       "questionAnswers": []
     },

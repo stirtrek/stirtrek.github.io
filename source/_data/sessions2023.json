@@ -172,6 +172,25 @@
       "recordingUrl": null
     },
     {
+      "id": "448316",
+      "title": "Dev Containers. What are they and why do you need them?",
+      "description": "You're onboarding a new team member, or your team recently inherited a project that uses a different SDK/framework version than your current project uses. What do you do?  Install the old SDK/framework versions? Can they even be installed at the same time on the same machine?  What if I told you there was a way to accomplish this with little to no effort on your part?  Well, with Visual Studio Code, Docker, and the Dev Containers extension, you can.  Dev containers can help you easily on-board new people to your projects, allow for cleaner machines with greater support for multiple SDKs/Framework, and be able to develop/debug/run your solution from anywhere without Visual Studio Code. Oh, and put an end to \"It works on my machine\"\r\n\r\nIn this talk, I’ll walk through how you can set up a dev container to support your application development, without installing the SDK/framework on your machine. I’ll show you how to get started and how you can solve the age-old problem of “It works on my machine!”.  As a bonus, if your code is hosted on GitHub, I’ll show you how you can run/edit/debug your project right from GitHub.com without Visual Studio Code on your machine.\r\n",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "137fb55c-d120-4a6b-9e15-98123df17302"
+      ],
+      "categoryItems": [
+        159275
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "449820",
       "title": "Developing APIs on the Edge and Reducing Operational Costs",
       "description": "Our API services billions of requests during an election season so we're always on the hunt to make things more resilient and to find places where we can reduce cost. In this talk we about some of the choices we made to accomplish and the pros and cons. ",
@@ -324,6 +343,25 @@
       "recordingUrl": null
     },
     {
+      "id": "432666",
+      "title": "Ignoring Null and Five Other Horrible Things Most Developers Do",
+      "description": "Let’s face it. They’re there. We try to pretend they’re not, but they lurk out in the open, quietly destroying our code quality. We chug along writing our code and contribute to the growing pile of technical debt, knowing it but refusing to acknowledge. Why? Because most languages encourage us to do it wrong. Handling of nulls, date/time, exceptions, logging, strings, and boxing objects are all covered in this talk. Attendees should expect to learn how many modern languages encourage anti-patterns in these six areas and what they can do to write better code through awareness. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "4b27e07a-b943-4364-9db8-9d9d564d60ab"
+      ],
+      "categoryItems": [
+        159275
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "450213",
       "title": "Improving Data Access with Abstractions",
       "description": "Most apps need data - but how you access data can have huge implications on your code's maintainability. Most approaches cause some degree of pain, but you can follow Pain Driven Development to refactor to different approaches.\r\n\r\nIn this code-heavy approach, you'll see how an app starts with a low-level tightly-coupled data access approach and iteratively evolves to address the pain points encountered.\r\n\r\nBy the end of the session, the app's data access will be encapsulated and modular and the app will be testable and maintainable. And you'll have learned a variety of design patterns and refactoring techniques that you can apply to your own applications.\r\n\r\nDemos and samples will use C#/.NET, but principles and patterns are applicable to other platforms and languages.",
@@ -431,6 +469,25 @@
       ],
       "categoryItems": [
         159281
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "437961",
+      "title": "Moving From Relational To Documents: Changing Your Mindset",
+      "description": "Document databases are amazing! They are webscale and can solve all of your problems. If you’re a software developer used to relational databases, you need to unlearn everything you know. And that can be uncomfortable. While it is true that a document database can make you more productive, it can also have a steep learning curve before you can be efficient with it. In this talk, you will learn to take those concepts you’ve applied in relational databases for years and port them into the document database world. \r\n",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5a111e09-2922-4aff-a0eb-9b6691b6e8b2"
+      ],
+      "categoryItems": [
+        159282
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -685,6 +742,25 @@
       "recordingUrl": null
     },
     {
+      "id": "433358",
+      "title": "The Power of Storytelling: Human Stories in a Digital World",
+      "description": "In a world that can feel more isolated than ever, we need stories. In fact, stories may be one the most important tools we have to fight the isolation of modern life. Storytelling powers imagination and innovation, providing a path for meaningful growth and deep connection in our shared humanity. In this talk, I'll share the stories of how I've seen ordinary people like you and me use stories to create extraordinary outcomes in learning, persuasion, and emotional health.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "56c61683-ff6d-4bad-bd80-59dee59b5b87"
+      ],
+      "categoryItems": [
+        159279
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "433947",
       "title": "Tracking Aircraft with Redis & Software-Defined Radio",
       "description": "Aircraft are everywhere. Knowing exactly where is paramount as it’s considered bad form for two aircraft to be in the same place at the same time. To avoid this, aircraft worldwide constantly and publicly broadcast their location, heading, and all sorts of other data using a system called ADS-B or Automatic Dependent Surveillance Broadcast.\r\n\r\nThis data is a natural fit for a streaming architecture. After all, it’s a constant stream of data that is literally being broadcast in real-time. But how can we capture these broadcasts and the data within? Surely it must require expensive hardware and special tools!\r\n\r\nNot so much. It turns out that we can capture ADS-B data easily using a combination of a cheap radio dongle and free software—a combination called software-defined radio. From there we can store it in a streaming data structure and consume, transform, and publish it using microservices. Cool, right?\r\n\r\nIn this session, you’ll learn how software-defined radio works (and not just for ADB-S), how to receive and store ADS-B data in streams, and how to use those streams with microservices. And, I’ll do it all by example—building a dashboard showing real-time flight data using Node.js, Redis Streams, and whatever front-end JavaScript framework happens to be popular that day!",
@@ -794,6 +870,38 @@
         435644
       ],
       "fullName": "Amanda O'Mara",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "56c61683-ff6d-4bad-bd80-59dee59b5b87",
+      "firstName": "Bekah",
+      "lastName": "Hawrot Weigel",
+      "bio": "Bekah graduated from the Flatiron School Software Engineering program in May of 2019 and since then has spent time as a frontend developer, started the Virtual Coffee developer community, and has continued to mom her four kids. She currently co-hosts the Virtual Coffee podcast, tries to work on her postpartum wellness OSS project, and lifts heavy things in her free time. In 2022, she officially joined the DevRel world as the Technical Community Building for Deepgram.",
+      "tagLine": "Virtual Coffee, Creator and Maintainer | Frontend Dev ",
+      "profilePicture": "https://sessionize.com/image/8c28-400o400o2-QSzRWAxdtoYhqzBfuFS8J5.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/bekahhw",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "http://linkedin.com/in/bekah-hawrot-weigel",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://bekahhw.github.io/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        433358
+      ],
+      "fullName": "Bekah Hawrot Weigel",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -1271,6 +1379,43 @@
       "questionAnswers": []
     },
     {
+      "id": "5a111e09-2922-4aff-a0eb-9b6691b6e8b2",
+      "firstName": "Joel",
+      "lastName": "Lord",
+      "bio": "Joel Lord (@joel__lord on Twitter) is passionate about the web and technology in general. He likes to learn new things, but most of all, he wants to share his discoveries. He does so by travelling at various conferences all across the globe.\r\nHe graduated from college in computer programming in the last millennium. Apart from a little break to get his BSc in computational astrophysics, he was always in the industry.\r\nIn his daily job, Joel is a developer advocate with MongoDB, where he connects with software engineers to help them make the web better by using best practices around JavaScript.\r\nDuring his free time, he can be found stargazing on a campground somewhere or brewing a fresh batch of beer in his garage.\r\n",
+      "tagLine": "Developer Advocate at MongoDB",
+      "profilePicture": "https://sessionize.com/image/da2b-400o400o2-nZ8VpK9tSvyhPQYhqXMX9f.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/joel__lord",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/joel-lord",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://javascripteverything.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://mongodb.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        437961
+      ],
+      "fullName": "Joel Lord",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "d108027a-7e26-46f5-b92d-9f6cb59eb283",
       "firstName": "Jonathan \"J.\"",
       "lastName": "Tower",
@@ -1304,6 +1449,28 @@
         432453
       ],
       "fullName": "Jonathan \"J.\" Tower",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "137fb55c-d120-4a6b-9e15-98123df17302",
+      "firstName": "Joseph",
+      "lastName": "Guadagno",
+      "bio": "Joe Guadagno is a Senior Director of Engineering at Rocket Mortgage, the nation’s largest mortgage lender, which is based in Detroit, Michigan. He has been writing software for over 20 years, has been an active member of the .NET community,\r\nserving on the .NET Foundation Board of Directors and has been a Microsoft MVP in .NET for more than 13 years. At Rocket Mortgage, I lead three software development teams building and modernizing our internal services. He has spoken through the United States and at international events on topics ranging from Microsoft .NET, Microsoft Azure, Ionic, Bootstrap, and many others. You can see the complete list at https://www.josephguadagno.net/presentations. When not sitting at a computer Joe loves to hang out with his family and play games. When not playing games with the family, Joe is checking out the latest in Home Automation. You can connect with Joe on Twitter at @jguadagno, Facebook at JosephGuadagnoNet, and on his blog at https://www.josephguadagno.net.",
+      "tagLine": "Senior Director, Technology at Rocket Mortgage, .NET Foundation Board of Directors, Organizer of Desert Code Camp, \"Microsoft Developer Services\" MVP, Telerik Ninja",
+      "profilePicture": "https://sessionize.com/image/b5a1-400o400o2-3tev7cMVvNUmgJZveNqbpX.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://www.twitter.com/jguadagno",
+          "linkType": "Twitter"
+        }
+      ],
+      "sessions": [
+        448316
+      ],
+      "fullName": "Joseph Guadagno",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -1496,6 +1663,38 @@
         450233
       ],
       "fullName": "Matt Williams",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "4b27e07a-b943-4364-9db8-9d9d564d60ab",
+      "firstName": "Michael",
+      "lastName": "Meadows",
+      "bio": "Don’t talk to him about distributed databases, bad password policies, bad UX, bad frameworks, or the TV show “The Expanse,” one co-worker once said of Michael. “If you get him going, he’ll go on for an hour.” In retrospect, speaking at conferences seems like a perfect outlet for his passion. Everyone he works with has already heard all of his rants; in a way, they’ve been his test subjects. Now that he has mastered these rants, it’s your turn. When he’s not practicing his rants, Michael helps clients get the most out of their cloud adoption, specializing in multi-cloud application architectures.",
+      "tagLine": "Cloud Architect, Meme Master, and King of Rants",
+      "profilePicture": "https://sessionize.com/image/07f2-400o400o2-7a-b943-4364-9db8-9d9d564d60ab.1649ae0f-376d-4c8a-b798-b2df21072b79.jpeg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/AntiArchitect",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/michaelnmeadows/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.michaelmeadows.com/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        432666
+      ],
+      "fullName": "Michael Meadows",
       "categoryItems": [],
       "questionAnswers": []
     },

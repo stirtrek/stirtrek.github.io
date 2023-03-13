@@ -58,6 +58,25 @@
       "recordingUrl": null
     },
     {
+      "id": "441316",
+      "title": "Building a Design System In-Flight",
+      "description": "Design systems -collections of common components, colors, and other constants- are a key way to scale teams and web applications on the modern web. They're particularly handy for deduplicating frontend development costs for microfrontends and remote teams. But how do you create one from scratch -- or, much more commonly, in-flight from an existing service?\r\nThis hands-on talk will take you through three stages of crafting your design system:\r\n\r\nStage 1: Extracting colors, spacing, and typography from your existing brand. We’ll cover how slight variances in behavior are generally not intentional, and you want to deduplicate as much as possible.\r\n\r\nStage 2: Creating components following using the first stage’s designs. We’ll start with low-level atom components such as buttons and text, then work up towards forms and other larger conglomerations.\r\n\r\nStage 3: Documentation is critical! TypeScript provides in-IDE developer hints and can enforce proper usage, while Storybook scaffolds gloriously interactive docs pages.\r\n\r\nBy creating and using a design system, you'll both help and enforce your designers and developers are creating their most consistent work at shockingly reduced costs.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5aa70233-04b4-4e23-b263-c74f0dfe1cdc"
+      ],
+      "categoryItems": [
+        159281
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "448383",
       "title": "Building Ingress - From Concept to Connection",
       "description": "At first glance, ingress is an easy concept: you route traffic from the wider world into your cluster. As you layer on SSL and load balancing, the principles stay the same and everything works with minimal thought and effort. But as your infrastructure grows, your clusters grow, the interactions get more complex, and your security requirements explode. In this session, I’ll walk you through how we designed and built an Ingress Controller and have converted our clusters to use it in production to support millions of requests. It wasn’t easy but running it as an open source effort from the start encouraged our team and customers to review, explore, and consider situations outside our original plans.",
@@ -1471,6 +1490,38 @@
         448316
       ],
       "fullName": "Joseph Guadagno",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "5aa70233-04b4-4e23-b263-c74f0dfe1cdc",
+      "firstName": "Josh",
+      "lastName": "Goldberg",
+      "bio": "Hi, I'm Josh! I'm a frontend developer with a passion for open source, static analysis, and the web. I'm a full time open source maintainer and work on projects in the TypeScript ecosystem such as typescript-eslint and TypeStat. I'm also the author of the Learning TypeScript book, published by O'Reilly. My work focuses on bringing accessible education to the masses in a sustainable way.\r\n\r\nI've been speaking at conferences since 2019, including in-person talks at All Things Open, HalfStack, LeadDev Berlin, StaffPlus NYC, and TSConf, as well as several dozen online conferences. You can most of my available talk slides and recordings at https://www.joshuakgoldberg.com/#talks.",
+      "tagLine": "Open Source Developer",
+      "profilePicture": "https://sessionize.com/image/7e23-400o400o2-SWinryGw45mrX9hwkB17Zr.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/JoshuaKGoldberg",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/joshuakgoldbergcodes/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://blog.joshuakgoldberg.com",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        441316
+      ],
+      "fullName": "Josh Goldberg",
       "categoryItems": [],
       "questionAnswers": []
     },

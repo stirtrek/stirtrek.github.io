@@ -10,7 +10,7 @@ title: Tech & a Flick
             <p class="date">5/5/2023</p>
             <br>
         <a class="registerNow" href="https://events.humanitix.com/stir-trek-2023">
-            <p>$150 Early bird tickets on 3/7</p>
+            <p>Tickets on sale! <br> Only $170</p>
         </a>
     </div>
      <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">

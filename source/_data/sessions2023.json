@@ -115,6 +115,25 @@
       "recordingUrl": null
     },
     {
+      "id": "431794",
+      "title": "Common Accessibility Pitfalls: Climbing out, when you fall in.",
+      "description": "You, your users, and Alice from Wonderland have something in common. At one point, everyone has fallen into a hole of perplexity, confusion, and sometimes hysterical madness. Unlike Alice, we can navigate ourselves and our users around the chaotic abyss that we call the web. Shipping inaccessible experiences to our users can have unpleasant effects. Being cognizant of all the things that can go wrong and who are potential users are will take us farther along our journey.\r\n\r\nIn this session we are going to learn about common accessibility violations that surface when we are lackadaisical about the experiences we ship. We will cover semantic markup, alt attributes and images, color contrast, and more. Attendees will walk away able to identify these problem areas in their codebases and learning techniques, tools, and best practices to keep our users happy and not drive them mad.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "730a789f-e2a8-483d-91bc-6e794f1b44d5"
+      ],
+      "categoryItems": [
+        159275
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
       "id": "430037",
       "title": "Dark UX Patterns",
       "description": "Congratulations! You are the 1,000,000th visitor to our website. Click here to redeem your prize! Just provide your date of birth and phone number to get started.\r\n\r\nLearn about Dark UX Patterns, how they work, how they trick you and what companies are the worst offenders. Roach Motel, Privacy Zuckering? Let’s visit Dark Patterns Hall of Shame and see who joined the dark side!\r\n\r\nThis talk will break down the most popular dark patterns using real life examples from websites and apps you use every day. If you are a designer, a developer or a product manager, you will learn what to avoid when building your product and how to integrate digital well-being and safety features into your service. If you are an end user, we will teach you how to respond to dark patterns in order to stay safe online, protect your privacy, save your money and keep your sanity.",
@@ -1046,6 +1065,33 @@
         449946
       ],
       "fullName": "Burton Smith",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "730a789f-e2a8-483d-91bc-6e794f1b44d5",
+      "firstName": "Chris",
+      "lastName": "DeMars",
+      "bio": "Chris DeMars is a Developer Advocate at Split Software. He has over 20 years of technical experience and speaks all over the world on web accessibility, and CSS. For his community contributions, he holds awards as a Microsoft MVP, Google Developer Expert, Cloudinary Media Developer Expert, Auth0 Ambassador, and Progress Ninja. Chris advocates, teaches, and speaks on web accessibility as well as modern CSS; building applications with both at the forefront. When he is not working on making the web great and accessible you can find him writing blog posts, rating Detroit Style pizza, and watching Horror movies.",
+      "tagLine": "Developer Advocate at Split Software",
+      "profilePicture": "https://sessionize.com/image/a468-400o400o2-NQj6Nv3Kv9v3zfLajKh9iE.jpeg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://twitter.com/saltnburnem",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/chrisdemars/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        431794
+      ],
+      "fullName": "Chris DeMars",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -1993,6 +2039,11 @@
           "title": "Blog",
           "url": "https://ardalis.com/blog",
           "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://nimblepros.com",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [

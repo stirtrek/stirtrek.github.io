@@ -901,6 +901,26 @@
       "status": "Accepted"
     },
     {
+      "id": "443462",
+      "title": "We all use open source; learn how to give back",
+      "description": "It's almost impossible to use an electronic device and not be using open source code. Devices and software from Apple, Google and Microsoft all rely on open source code written by the community and distributed free of charge.\r\n\r\nThe majority of developers are using languages that have open source implementations, especially since .NET went open source. We depend upon thousands of community developed libraries. And yet, most of us don't give back for a variety of reasons.\r\n\r\nThe session will cover a number of ways big and small that you can contribute to open source projects, with details of different types of open source projects and the significance of difference licenses.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5b65f17e-cf5a-4746-84d6-217e6445931e"
+      ],
+      "categoryItems": [
+        159275
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
       "id": "430072",
       "title": "Word Smatter: Exploring Semantics, Testers, and Problems",
       "description": "“Testers [do|don’t] (help) [prevent|detect] problems.”\r\n\r\nThroughout my career, I’ve encountered numerous variations of this phrase and discussed the underlying ideas often. The phrase uses just a few, small words to express many, big ideas. And so, it is valuable and critical to understand what each word means individually in order to better understand the ideas they convey collectively.\r\n\r\nSemantics is the study of meaning in words. The session begins with a brief and broad overview of semantics and related ideas. This sets the stage for deep analysis of each individual word in the phrase above and its potential meaning. We collaboratively consider:\r\n\r\nTesters – What might this word mean to different people and in different contexts?\r\nDo/Don’t – What do normative and descriptive statements have to do with it?\r\nHelp – How does the inclusion/exclusion of this word affect the meaning of the phrase?\r\nPrevent/Detect – What does causality and relativism have to do with which word we choose?\r\nProblems – What exactly is the thing that is being prevented or detected?\r\n\r\nThis session demystifies and promotes semantics, and goes beyond wordplay to introduce critical concepts that have practical impacts on testers, their roles, and their responsibilities.",
@@ -973,6 +993,38 @@
         435644
       ],
       "fullName": "Amanda O'Mara",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "5b65f17e-cf5a-4746-84d6-217e6445931e",
+      "firstName": "Andrew",
+      "lastName": "May",
+      "bio": "Andrew has been consulting as an architect for Leading EDJE for 15  years, and has specialized in Cloud Platforms and Cloud-Native architecture for the last 8 years. He's a stickler for detail, and a fierce code reviewer. Originally from the UK, Andrew's accent has settled somewhere in the mid-Atlantic.",
+      "tagLine": "Cloud Lead and Senior Solutions Architect at Leading EDJE",
+      "profilePicture": "https://sessionize.com/image/3ff0-400o400o2-BUh7aMr33kj34wAQVfdws.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/leadingedje",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/andrew-may-0554b3173",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.leadingedje.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        443462
+      ],
+      "fullName": "Andrew May",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -1338,6 +1390,16 @@
           "title": "Twitter",
           "url": "https://twitter.com/egrootenboer",
           "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/eldert-grootenboer",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLt1B6S57RxWFVeoLXOiYYIyUYgDyXLkCx",
+          "linkType": "Other"
         }
       ],
       "sessions": [

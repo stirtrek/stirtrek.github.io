@@ -21,6 +21,26 @@
       "status": "Accepted"
     },
     {
+      "id": "444660",
+      "title": "Avoiding False Starts With Artificial Intelligence",
+      "description": "Artificial Intelligence (AI) is no longer science fiction; it’s here today, and it’s here to stay. It is in the products you use every day: home automation, digital assistants, or credit card fraud detection, just to name a few.\r\n\r\nAll businesses will be affected by AI in the coming years, and the impact will be significant. The only remaining question is, how will you influence its effect on your company?\r\n\r\nGetting started with AI is a daunting task, but necessary for businesses who want to stay competitive. During this session, we’ll discuss:\r\n\r\n* How to determine if, where, and how to use AI effectively within your organization \r\n* When and how to build an AI team\r\n* Common early mistakes and pitfalls when getting started with AI\r\n* Typical misconceptions around AI and its application\r\n* What to look for in an AI partner or potential hire",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "468d2621-a815-4e39-8c07-6c18162c9b1a"
+      ],
+      "categoryItems": [
+        159284
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
       "id": "442176",
       "title": "Build-a-Bot Workshop: Make an SMS Chatbot Therapist",
       "description": "With artificial intelligence gaining both interest and popularity over time, Diana shares how humans have integrated this technology into their respective industries. The effects of chatbots generating more human-like conversations have led to the revolution of psychotherapy, and now you have the opportunity to replicate it.",
@@ -1641,6 +1661,38 @@
         432453
       ],
       "fullName": "Jonathan \"J.\" Tower",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "468d2621-a815-4e39-8c07-6c18162c9b1a",
+      "firstName": "Jordan",
+      "lastName": "Thayer",
+      "bio": "Jordan Thayer received their PhD in Artificial Intelligence in 2012 from the University of New Hampshire. Ever since, they've been applying artificial intelligence in academia and industry to problems including intrusion detection, planning, static analysis, and program generation.\r\n\r\nAs a thought leader at SEP, they’ve been proving that AI isn't futuristic technology. Rather, it's a collection of techniques of varying levels of maturity that can often reliably solve problems they have today. They give talks, runs workshop, visualize algorithm behavior, and build proofs of concept as well as products to show what AI can do already.",
+      "tagLine": "AI Practice Lead for SEP",
+      "profilePicture": "https://sessionize.com/image/3771-400o400o2-hZemfRHbjV6ghaTgqR8HDm.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/drbass",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jordan-seabass-thayer/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://sep.com/blog/author/jordan-thayer/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        444660
+      ],
+      "fullName": "Jordan Thayer",
       "categoryItems": [],
       "questionAnswers": []
     },

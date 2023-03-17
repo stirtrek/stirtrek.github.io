@@ -32,4 +32,4 @@ alias:
 
 <div class="icon-hr"></div>
 
-Our Call for Speakers is over and reviews are in process. More details will be here soon!
+The schedule is subject to change. Please check back if you're curious about when specific sessions are scheduled!

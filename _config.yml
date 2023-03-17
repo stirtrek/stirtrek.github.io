@@ -21,8 +21,8 @@ allYears:
   - 2021
   - 2022
   - 2023
-showSchedule: false
-showSessionList: true
+showSchedule: true
+showSessionList: false
 showSpeakers: true
 showRecordings: false
 # If you'd like to show the speaker survey link in the schedule, you need to turn this on and configure it

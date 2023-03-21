@@ -68,11 +68,12 @@ module.exports = {
             });
 
             if (sessions) {
-                sessions.map(function (session) {
+                sessions = sessions.map(function (session) {
                     var sessionTime, sessionRoom;
 
                     // Find the time slot for this session
                     scheduleDataFile.scheduledSessions.timeSlots.forEach(timeSlot => {
+
                         var matchedScheduleSession = timeSlot.sessions.find(scheduledSession => {
                             return scheduledSession.id.toString() === session.id.toString()
                         })

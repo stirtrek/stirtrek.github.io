@@ -2,11 +2,15 @@
 
 let fs = require('fs');
 let yaml = require('js-yaml');
-let moment = require('moment');
+let moment = require('moment-timezone');
+
 
 // Get the year from the config
 let config = yaml.safeLoad(fs.readFileSync('./_config.yml'));
 let currentYear = config.currentYear;
+
+// Set the timezone
+moment.tz.setDefault(config.timeZone);
 
 // The schedule format is weird and I don't remember why :? Maybe from when we used ThatConference?
 let schedule = {
@@ -55,7 +59,7 @@ for(startTime of startTimes) {
     // Pretty print the start time using Moment
     let startTimeMoment = new moment(startTime);
     schedule.scheduledSessions.timeSlots.push({
-        "time": startTimeMoment.utcOffset(config.utcOffset).format('h:mm A'),
+        "time": startTimeMoment.format('h:mm A'),
         "sessions": timeSlotSessionOutput
     });
 }

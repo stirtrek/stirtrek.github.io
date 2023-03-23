@@ -478,8 +478,8 @@
     },
     {
       "id": "434806",
-      "title": "Watch this! Building a Health app for WatchOS",
-      "description": "One of the most popular answers for a favorite smart watch feature is to monitor your health. From steps to heart rate to exercise to sleep, smart watches do it all and with Jetpack Compose and Health Services, we can build our own app for WatchOS! \r\n\r\nDuring this talk, we’ll explore building for this tiny screen using Compose for WearOS, a declarative framework for creating watch interfaces quickly and easily optimized for the screen shape and size, and the Health Services APIs, an intermediary to the various sensors and algorithms on the the watch that provide data related to activity, exercise, and health. With these tools, we’ll be able to create a beautiful and efficient wear app that can help you track your health goals! ",
+      "title": "Watch this! Building a Health app for WearOS",
+      "description": "One of the most popular answers for a favorite smart watch feature is to monitor your health. From steps to heart rate to exercise to sleep, smart watches do it all and with Jetpack Compose and Health Services, we can build our own app for WearOS!\r\n\r\nDuring this talk, we’ll explore building for this tiny screen using Compose for WearOS, a declarative framework for creating watch interfaces quickly and easily optimized for the screen shape and size, and the Health Services APIs, an intermediary to the various sensors and algorithms on the the watch that provide data related to activity, exercise, and health. With these tools, we’ll be able to create a beautiful and efficient wear app that can help you track your health goals!",
       "startsAt": "2023-05-05T11:00:00",
       "endsAt": "2023-05-05T12:00:00",
       "isServiceSession": false,
@@ -1367,6 +1367,11 @@
           "title": "Blog",
           "url": "https://dave-klein.blogspot.com",
           "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://quix.io/",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [
@@ -2084,6 +2089,11 @@
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/rhiadixon/",
           "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://vmlyr.com",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [

@@ -21,93 +21,43 @@ if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  {
         </div>
     </div>
 
-    <% if(thisYearsSponsors.hasOwnProperty('platinum')) { %>
-    <section>
-        <div class="row">
-            <% for (var sponsor of thisYearsSponsors.platinum ) {%>
+    <% ["platinum", "gold", "silver", "bronze"].forEach(sponsorTier => {
+        if(thisYearsSponsors.hasOwnProperty(sponsorTier)) { %>
+            <section>
+                <div class="row">
+                    <% for (var sponsor of thisYearsSponsors[sponsorTier] ) {%>
+    
+                        <%
+                            let bootstrapColumnWidth;
+                            switch(sponsorTier) {
+                                case "platinum":
+                                    bootstrapColumnWidth = 6;
+                                    break;
+                                case "gold":
+                                    bootstrapColumnWidth = 4;
+                                    break;
+                                default:
+                                    bootstrapColumnWidth = 3;
+                                    break;
+                            }
+                        %>
 
-                <div class="col-md-6 sponsor sponsor-platinum">
-                    <div class="comic-panel-body">
-                        <a href="<%= sponsor.link %>" aria-label="Takes you to the homepage of <%= sponsor.name %>">
-                            <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>" alt="Company logo for <%= sponsor.name %>">
-                        </a>
-                    </div>
-                    <div class="sponsorsAbout text-with-comic-panel">
-                        <div class="sponsorCompany">
-                            <%= sponsor.name %>
-                            <!-- <br> -->
-                            <!-- <a href="<%= sponsor.link %>"><%= sponsor.link %></a> -->
+                        <div class="col-md-<%=bootstrapColumnWidth%> sponsor sponsor-<%=sponsorTier%>">
+                            <div class="comic-panel-body">
+                                <a href="<%= sponsor.link %>" aria-label="Takes you to the homepage of <%= sponsor.name %>">
+                                    <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>" alt="Company logo for <%= sponsor.name %>">
+                                </a>
+                            </div>
+                            <div class="sponsorsAbout text-with-comic-panel">
+                                <div class="sponsorCompany">
+                                    <%= sponsor.name %>
+                                </div>
+                            </div>
                         </div>
-                    </div>
+                            
+                    <% } %> 
                 </div>
-                
-            <% } %>
-        </div>
-    </section>
-    <% } %>
-    <% if(thisYearsSponsors.hasOwnProperty('gold')) { %>
-    <section>
-        <div class="row">
-
-            <% for (var sponsor of thisYearsSponsors.gold ) {%>
-
-                <div class="col-md-4 sponsor sponsor-gold">
-                    <div class="comic-panel-body">
-                        <a href="<%= sponsor.link %>" aria-label="Takes you to the homepage of <%= sponsor.name %>">
-                            <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>" alt="Company logo for <%= sponsor.name %>">
-                        </a>
-                    </div>
-                    <div class="sponsorsAbout text-with-comic-panel">
-                        <div class="sponsorCompany">
-                            <%= sponsor.name %>
-                            <!-- <br> -->
-                            <!-- <a href="<%= sponsor.link %>"><%= sponsor.link %></a> -->
-                        </div>
-                    </div>
-                </div>
-                
-            <% } %>
-        </div>
-    </section>
-    <% } %>
-    <% if(thisYearsSponsors.hasOwnProperty('silver')) { %>
-    <section>
-        <div class="row">
-            <% for (var sponsor of thisYearsSponsors.silver ) {%>
-                <div class="col-md-3 sponsor sponsor-silver">
-                    <div class="comic-panel-body">
-                        <a href="<%= sponsor.link %>" aria-label="Takes you to the homepage of <%= sponsor.name %>">
-                            <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>" alt="Company logo for <%= sponsor.name %>">
-                        </a>
-                    </div>
-                    <div class="sponsorsAbout text-with-comic-panel">
-                        <div class="sponsorCompany">
-                            <%= sponsor.name %>
-                            <!-- <br> -->
-                            <!-- <a href="<%= sponsor.link %>"><%= sponsor.link %></a> -->
-                        </div>
-                    </div>
-                </div>
-            <% } %>
-        </div>
-    </section>
-    <% } %>
-    <% if(thisYearsSponsors.hasOwnProperty('bronze')) { %>
-    <section>
-        <div class="row">
-
-            <% for (var sponsor of thisYearsSponsors.bronze ) {%>
-                <div class="col-md-3 sponsor sponsor-bronze">
-                    <div class="comic-panel-body">
-                        <a href="<%= sponsor.link %>" aria-label="Takes you to the homepage of <%= sponsor.name %>">
-                            <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>" alt="Company logo for <%= sponsor.name %>">
-                        </a>
-                    </div>
-                </div>
-                
-            <% } %>
-        </div>
-    </section>
-    <% } %>
-
+            </section>                        
+        <% } %>
+    <% }) %>
 <% } %>

@@ -27,7 +27,11 @@ if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  {
                                 <%= sponsor.name %>
                                 <br>
                                 <a href="<%= sponsor.link %>" aria-label="Takes you to the homepage of <%= sponsor.name %>"><%= sponsor.link %></a>
-                                <div class="description">
+                                <% if(sponsor.longDescription) { %>
+                                    <div class="description longDescription">
+                                <% } else { %>
+                                    <div class="description">
+                                <% } %>
                                     <%= sponsor.description %>
                                 </div>
                             </div>
@@ -55,7 +59,11 @@ if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  {
                                 <%= sponsor.name %>
                                 <br>
                                 <a href="<%= sponsor.link %>" aria-label="Takes you to the homepage of <%= sponsor.name %>"><%= sponsor.link %></a>
-                                <div class="description">
+                                <% if(sponsor.longDescription) { %>
+                                    <div class="description longDescription">
+                                <% } else { %>
+                                    <div class="description">
+                                <% } %>
                                     <%= sponsor.description %>
                                 </div>                            
                             </div>
@@ -83,7 +91,11 @@ if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  {
                                 <%= sponsor.name %>
                                 <br>
                                 <a href="<%= sponsor.link %>" aria-label="Takes you to the homepage of <%= sponsor.name %>"><%= sponsor.link %></a>
-                                <div class="description">
+                                <% if(sponsor.longDescription) { %>
+                                    <div class="description longDescription">
+                                <% } else { %>
+                                    <div class="description">
+                                <% } %>
                                     <%= sponsor.description %>
                                 </div>                            
                             </div>
@@ -111,7 +123,11 @@ if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  {
                                 <%= sponsor.name %>
                                 <br>
                                 <a href="<%= sponsor.link %>" aria-label="Takes you to the homepage of <%= sponsor.name %>"><%= sponsor.link %></a>
-                                <div class="description">
+                                <% if(sponsor.longDescription) { %>
+                                    <div class="description longDescription">
+                                <% } else { %>
+                                    <div class="description">
+                                <% } %>
                                     <%= sponsor.description %>
                                 </div>                            
                             </div>

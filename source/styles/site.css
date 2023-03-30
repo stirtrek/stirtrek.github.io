@@ -696,6 +696,10 @@ div.hr-schedule:before {
     max-height: 200px;
 }
 
+.sponsor .sponsorCompany .description.longDescription {
+    font-size: x-small;
+}
+
 .sponsor.sponsor-platinum .sponsorCompany .description {
     height: 170px;
 }
@@ -709,7 +713,7 @@ div.hr-schedule:before {
 }
 
 .sponsor.sponsor-bronze .sponsorCompany .description {
-    height: 200px;
+    height: 250px;
 }
 
 .sponsor.sponsor-silver img,

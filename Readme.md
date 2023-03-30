@@ -107,3 +107,11 @@ Don't forget to click "Save Changes"!
 Profiles are now pulled from Sessionize via `node scripts-manuallyexecuting/download-sessionize-details.js`. 
 
 Run that script and then use `hexo serve` locally to see the changes. Check in to GitHub and Actions will run `hexo generate` and deploy the site.
+
+## If we need to rename sonsorship tiers
+Sponsorship tiers are hardcoded in a few spots:
+- `site.css` has custom sizing so, for example, platinum sponsors show up as the biggest logos
+- `/themes/stir-trek-comic/layout/sponsors\[Brief/Full\].ejs` are aware of our tiers so they can render the HTML appropriately
+- the `add-a-new-year.js` script has tiers coded in
+
+Other than those 4 places (incl. two sponsor pages), nothing else should care

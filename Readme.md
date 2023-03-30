@@ -115,3 +115,8 @@ Sponsorship tiers are hardcoded in a few spots:
 - the `add-a-new-year.js` script has tiers coded in
 
 Other than those 4 places (incl. two sponsor pages), nothing else should care
+
+## A sponsor has a really long description that breaks the sponsor page layout
+This happens all the time no matter what we try to do. There are two things you can do:
+1. In `sponsorsYYYY.json` give that sponsor the attribute `"longDescription": "true",`
+2. In `site.css` you can also force a particular tier to have more spacing by overriding the default. Search for `sponsor.sponsor-bronze .sponsorCompany .description {` replacing bronze with the appropriate tier and change height from 150px.

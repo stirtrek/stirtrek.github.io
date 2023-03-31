@@ -1519,7 +1519,7 @@
       "firstName": "Glenn",
       "lastName": "Harmon Jr.",
       "bio": "I'm a Father, Husband, Cyclist, Software Engineer, and Champion of Tough Conversations.",
-      "tagLine": "Senior Software Consultant Test Double VP Engineering Decision Desk HQ",
+      "tagLine": "VP Engineering Decision Desk HQ",
       "profilePicture": "https://sessionize.com/image/e1ba-400o400o2-ffc4TRC4X7nUNbbsc3BPxp.jpeg",
       "isTopSpeaker": false,
       "links": [
@@ -1954,6 +1954,11 @@
           "title": "Company Website",
           "url": "https://TechElevator.com",
           "linkType": "Company_Website"
+        },
+        {
+          "title": "Portfolio",
+          "url": "https://MattEland.dev",
+          "linkType": "Other"
         }
       ],
       "sessions": [

@@ -24,6 +24,7 @@ allYears:
 showSchedule: true
 showSessionList: false
 showSpeakers: true
+showStore: true
 showRecordings: false
 # If you'd like to show the speaker survey link in the schedule, you need to turn this on and configure it
 # Add a custom speaker question and put hte name in "surveyQuestionName"

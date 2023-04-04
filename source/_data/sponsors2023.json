@@ -1,85 +1,91 @@
 {
-    "sponsors": {
-        "platinum": [
-          {
-            "name": "Workstate",
-            "link": "https://www.workstate.com/",
-            "description": "Workstate is a global IT consulting company providing Nearshore and US-based development teams in long-term client partnerships. Our 25+ years of experience offers a superior alternative to staffing. Workstate’s is mission to create the best home for the brightest technology talent. Our teams drive success by working closely with our clients.",
-            "logo": "/images/sponsors/workstate_350x200v3.jpg"
-          }
-        ],
-        "gold": [
-          {
-            "name": "Com Resource",
-            "link": "https://comresource.com/",
-            "description": "Having delivered strategic IT solutions for over 25 years, we are problem-solvers by nature. More than 200 of us…and growing. Customizing processes and technology are our specialties. The more complicated the IT challenge, the better.",
-            "logo": "/images/sponsors/comresource_350x200.jpg"
-          },
-          {
-            "name": "Manifest",
-            "link": "http://manifestcorp.com/",
-            "description": "Manifest Solutions is a technology consulting firm based in Columbus, Ohio. We provide customized IT solutions to meet the complex needs of companies big and small. That’s what we do—but it’s who we are—that makes all the difference.",
-            "logo": "/images/sponsors/manifest_350x200.png"
-          },
-          {
-            "name": "CGI",
-            "link": "https://www.cgi.com/",
-            "description": "Founded in 1976, CGI is among the largest IT and business consulting services firms in the world. We are insights-driven and outcomes-based to help accelerate returns on your investments.",
-            "logo": "/images/sponsors/cgi_350x200v2.jpg"
-          },
-          {
-            "name": "IGS",
-            "link": "https://www.igs.com/",
-            "description": "We are leading a transition to a more sustainable energy future by empowering home and business customers to source the energy that’s right for them, manage their costs and carbon footprint, and protect the systems that keep their homes running efficiently.",
-            "logo": "/images/sponsors/IGS_350x200v3.jpg"
-          },
-          {
-            "name": "CAS",
-            "link": "https://www.cas.org/",
-            "description": "CAS is a leader in scientific information solutions, partnering with innovators around the world to accelerate scientific breakthroughs. For over 100 years, scientists, patent professionals, and business leaders have relied on CAS solutions and expertise to provide the hindsight, insight, and foresight they need so they can build upon the learnings of the past to discover a better future. Connect with us at cas.org.​",
-            "logo": "/images/sponsors/cas_350x200_v2.jpg"
-          }
-        ],
-        "silver": [
-          {
-            "name": "Revel IT",
-            "link": "https://www.revelit.com/",
-            "description": "Revel IT combines the most advanced recruiting and candidate identification and matching technologies with a very experienced recruiting team to provide unmatched delivery capabilities in staffing and recruiting.",
-            "logo": "/images/sponsors/revelit_350x200.png"
-          }
-        ],
-        "bronze": [
-            {
-                "name": "Improving",
-                "link": "http://www.improving.com/",
-                "description": "Improving is a technology management and consulting services firm deeply rooted in our commitment to establishing trust — not only with each other but with our clients, partners, communities, and others. We aspire to do this through creating transparency, delivering results, continuously improving, clarifying expectations, and keeping our commitments.",
-                "logo": "/images/sponsors/improving_350x200.jpg"
-              },
-              {
-                "name": "OCLC",
-                "link": "https://www.oclc.org/",
-                "description": "At OCLC, we exist because what is known must be shared. On the surface this seems simple. But dig deeper. We hold petabytes of data. Diverse data in different languages, different scripts, and different formats. We bring it together and make it talk.",
-                "logo": "/images/sponsors/oclc_350x200.jpg"
-              },
-              {
-                "name": "Central Insurance",
-                "link": "https://www.central-insurance.com",
-                "description": "At Central we pride ourselves on our long history & strong financial stability, and a culture driven by excellence that encourages innovation, ingenuity and ownership.",
-                "logo": "/images/sponsors/central_insurance_350x200.png"
-              },
-              {
-                "name": "G20",
-                "link": "https://www.g2o.com/",
-                "description": "We’re a customer experience transformation company and engineering partner focused on delivering greater impact and outcomes for our clients and the audiences they serve through technology, data & analytics, product, & people.",
-                "logo": "/images/sponsors/g2o_350x200.png"
-            },
-            {
-              "name": "Callibrity",
-              "link": "https://www.callibrity.com/",
-              "longDescription": "true",
-              "description": "Callibrity is a software consultancy specializing in software engineering, digital transformation, cloud strategy, and data-driven insights. Our national reach serves clients on their digital journey to solve complex problems and create innovative solutions for ever-changing business models. Our technology experience covers a diverse set of industries with a focus on middle-market and enterprise companies.Callibrity is a software consultancy specializing in software engineering, digital transformation, cloud strategy, and data-driven insights. Our national reach serves clients on their digital journey to solve complex problems and create innovative solutions for ever-changing business models. Our technology experience covers a diverse set of industries with a focus on middle-market and enterprise companies.",
-              "logo": "/images/sponsors/callibrity_350x200.jpg"
-          }            
-        ]
-    }
+  "sponsors": {
+    "platinum": [
+      {
+        "name": "Workstate",
+        "link": "https://www.workstate.com/",
+        "description": "Workstate is a global IT consulting company providing Nearshore and US-based development teams in long-term client partnerships. Our 25+ years of experience offers a superior alternative to staffing. Workstate’s is mission to create the best home for the brightest technology talent. Our teams drive success by working closely with our clients.",
+        "logo": "/images/sponsors/workstate_350x200v3.jpg"
+      }
+    ],
+    "gold": [
+      {
+        "name": "Com Resource",
+        "link": "https://comresource.com/",
+        "description": "Having delivered strategic IT solutions for over 25 years, we are problem-solvers by nature. More than 200 of us…and growing. Customizing processes and technology are our specialties. The more complicated the IT challenge, the better.",
+        "logo": "/images/sponsors/comresource_350x200.jpg"
+      },
+      {
+        "name": "Manifest",
+        "link": "http://manifestcorp.com/",
+        "description": "Manifest Solutions is a technology consulting firm based in Columbus, Ohio. We provide customized IT solutions to meet the complex needs of companies big and small. That’s what we do—but it’s who we are—that makes all the difference.",
+        "logo": "/images/sponsors/manifest_350x200.png"
+      },
+      {
+        "name": "CGI",
+        "link": "https://www.cgi.com/",
+        "description": "Founded in 1976, CGI is among the largest IT and business consulting services firms in the world. We are insights-driven and outcomes-based to help accelerate returns on your investments.",
+        "logo": "/images/sponsors/cgi_350x200v2.jpg"
+      },
+      {
+        "name": "IGS",
+        "link": "https://www.igs.com/",
+        "description": "We are leading a transition to a more sustainable energy future by empowering home and business customers to source the energy that’s right for them, manage their costs and carbon footprint, and protect the systems that keep their homes running efficiently.",
+        "logo": "/images/sponsors/IGS_350x200v3.jpg"
+      },
+      {
+        "name": "CAS",
+        "link": "https://www.cas.org/",
+        "description": "CAS is a leader in scientific information solutions, partnering with innovators around the world to accelerate scientific breakthroughs. For over 100 years, scientists, patent professionals, and business leaders have relied on CAS solutions and expertise to provide the hindsight, insight, and foresight they need so they can build upon the learnings of the past to discover a better future. Connect with us at cas.org.​",
+        "logo": "/images/sponsors/cas_350x200_v2.jpg"
+      }
+    ],
+    "silver": [
+      {
+        "name": "Revel IT",
+        "link": "https://www.revelit.com/",
+        "description": "Revel IT combines the most advanced recruiting and candidate identification and matching technologies with a very experienced recruiting team to provide unmatched delivery capabilities in staffing and recruiting.",
+        "logo": "/images/sponsors/revelit_350x200.png"
+      },
+      {
+        "name": "Alexa",
+        "link": "https://developer.amazon.com/en-US/alexa",
+        "description": "Alexa is Amazon’s cloud-based voice service available on millions of devices from Amazon and third-party device manufacturers. Start building today by creating Alexa skills, connecting Alexa to devices, or integrating Alexa directly into your product.",
+        "logo": "/images/sponsors/amazon_alexa_350x200.png"
+      }
+    ],
+    "bronze": [
+      {
+        "name": "Improving",
+        "link": "http://www.improving.com/",
+        "description": "Improving is a technology management and consulting services firm deeply rooted in our commitment to establishing trust — not only with each other but with our clients, partners, communities, and others. We aspire to do this through creating transparency, delivering results, continuously improving, clarifying expectations, and keeping our commitments.",
+        "logo": "/images/sponsors/improving_350x200.jpg"
+      },
+      {
+        "name": "OCLC",
+        "link": "https://www.oclc.org/",
+        "description": "At OCLC, we exist because what is known must be shared. On the surface this seems simple. But dig deeper. We hold petabytes of data. Diverse data in different languages, different scripts, and different formats. We bring it together and make it talk.",
+        "logo": "/images/sponsors/oclc_350x200.jpg"
+      },
+      {
+        "name": "Central Insurance",
+        "link": "https://www.central-insurance.com",
+        "description": "At Central we pride ourselves on our long history & strong financial stability, and a culture driven by excellence that encourages innovation, ingenuity and ownership.",
+        "logo": "/images/sponsors/central_insurance_350x200.png"
+      },
+      {
+        "name": "G20",
+        "link": "https://www.g2o.com/",
+        "description": "We’re a customer experience transformation company and engineering partner focused on delivering greater impact and outcomes for our clients and the audiences they serve through technology, data & analytics, product, & people.",
+        "logo": "/images/sponsors/g2o_350x200.png"
+      },
+      {
+        "name": "Callibrity",
+        "link": "https://www.callibrity.com/",
+        "longDescription": "true",
+        "description": "Callibrity is a software consultancy specializing in software engineering, digital transformation, cloud strategy, and data-driven insights. Our national reach serves clients on their digital journey to solve complex problems and create innovative solutions for ever-changing business models. Our technology experience covers a diverse set of industries with a focus on middle-market and enterprise companies.Callibrity is a software consultancy specializing in software engineering, digital transformation, cloud strategy, and data-driven insights. Our national reach serves clients on their digital journey to solve complex problems and create innovative solutions for ever-changing business models. Our technology experience covers a diverse set of industries with a focus on middle-market and enterprise companies.",
+        "logo": "/images/sponsors/callibrity_350x200.jpg"
+      }
+    ]
+  }
 }

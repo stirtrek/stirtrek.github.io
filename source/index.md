@@ -94,6 +94,8 @@ title: Tech & a Flick
 * **2/18/2023** - Call for speakers closes!
 * **3/7/2023 2pm EST** - [Early Bird Ticket Sales!!](https://events.humanitix.com/stir-trek-2023)
 * **3/15/2023** - [Regular Ticket Sales!!!](https://events.humanitix.com/stir-trek-2023)
+* **4/5/2023** - Last day for refunds
+* **4/9/2023** - Register for guaranteed on-time box arrival
 * **5/5/2023** - Stir Trek 2023!!!!
 <!--* **1/16/2022** - CFP opened
 * **2/5/2022**  - CFP **closed**
@@ -104,7 +106,6 @@ title: Tech & a Flick
 {% raw %}
 <!-- 
 * **TBD** - Last day to edit shipping information
-* **TBD** - Last day for refunds
 * **TBD** - Boxes begin shipping -->
         </div>
     </div>  

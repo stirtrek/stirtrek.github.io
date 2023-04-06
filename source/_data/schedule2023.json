@@ -14,36 +14,36 @@
         "time": "8:30 AM",
         "sessions": [
           {
-            "id": "433947",
-            "scheduledRoom": "Theater 1"
-          },
-          {
-            "id": "436867",
-            "scheduledRoom": "Theater 2"
-          },
-          {
-            "id": "445363",
-            "scheduledRoom": "Theater 3"
-          },
-          {
-            "id": "442371",
-            "scheduledRoom": "Theater 4"
-          },
-          {
             "id": "446618",
-            "scheduledRoom": "Theater 5"
+            "scheduledRoom": "Starlord (Live 4 - Simul 5,6,7,8,9)"
           },
           {
             "id": "431072",
-            "scheduledRoom": "Theater 6"
+            "scheduledRoom": "Rocket (Live 3 - Simul 1,2)"
+          },
+          {
+            "id": "436867",
+            "scheduledRoom": "Groot (Live 15 - Simul 10,11)"
+          },
+          {
+            "id": "433947",
+            "scheduledRoom": "Gamora (Live 14 - Simul 12, 13)"
+          },
+          {
+            "id": "445363",
+            "scheduledRoom": "Nebula (Live 16 - Simul 21)"
+          },
+          {
+            "id": "442371",
+            "scheduledRoom": "Drax (Live 17 - Simul 20)"
           },
           {
             "id": "433358",
-            "scheduledRoom": "Theater 7"
+            "scheduledRoom": "Mantis (Live 27 - Simul 23, 24, 25, 26)"
           },
           {
             "id": "448316",
-            "scheduledRoom": "Theater 8"
+            "scheduledRoom": "Cosmo (Live 28 - Simul 18, 19)"
           }
         ]
       },
@@ -51,36 +51,36 @@
         "time": "9:45 AM",
         "sessions": [
           {
-            "id": "449170",
-            "scheduledRoom": "Theater 1"
-          },
-          {
-            "id": "430037",
-            "scheduledRoom": "Theater 2"
-          },
-          {
-            "id": "445279",
-            "scheduledRoom": "Theater 3"
-          },
-          {
-            "id": "438201",
-            "scheduledRoom": "Theater 4"
-          },
-          {
             "id": "431084",
-            "scheduledRoom": "Theater 5"
+            "scheduledRoom": "Starlord (Live 4 - Simul 5,6,7,8,9)"
           },
           {
             "id": "450233",
-            "scheduledRoom": "Theater 6"
+            "scheduledRoom": "Rocket (Live 3 - Simul 1,2)"
+          },
+          {
+            "id": "430037",
+            "scheduledRoom": "Groot (Live 15 - Simul 10,11)"
+          },
+          {
+            "id": "449170",
+            "scheduledRoom": "Gamora (Live 14 - Simul 12, 13)"
+          },
+          {
+            "id": "445279",
+            "scheduledRoom": "Nebula (Live 16 - Simul 21)"
+          },
+          {
+            "id": "438201",
+            "scheduledRoom": "Drax (Live 17 - Simul 20)"
           },
           {
             "id": "443462",
-            "scheduledRoom": "Theater 7"
+            "scheduledRoom": "Mantis (Live 27 - Simul 23, 24, 25, 26)"
           },
           {
             "id": "435644",
-            "scheduledRoom": "Theater 8"
+            "scheduledRoom": "Cosmo (Live 28 - Simul 18, 19)"
           }
         ]
       },
@@ -88,36 +88,36 @@
         "time": "11:00 AM",
         "sessions": [
           {
-            "id": "448383",
-            "scheduledRoom": "Theater 1"
-          },
-          {
-            "id": "436852",
-            "scheduledRoom": "Theater 2"
-          },
-          {
-            "id": "430112",
-            "scheduledRoom": "Theater 3"
-          },
-          {
-            "id": "449862",
-            "scheduledRoom": "Theater 4"
-          },
-          {
             "id": "448009",
-            "scheduledRoom": "Theater 5"
+            "scheduledRoom": "Starlord (Live 4 - Simul 5,6,7,8,9)"
           },
           {
             "id": "444997",
-            "scheduledRoom": "Theater 6"
+            "scheduledRoom": "Rocket (Live 3 - Simul 1,2)"
+          },
+          {
+            "id": "436852",
+            "scheduledRoom": "Groot (Live 15 - Simul 10,11)"
+          },
+          {
+            "id": "448383",
+            "scheduledRoom": "Gamora (Live 14 - Simul 12, 13)"
+          },
+          {
+            "id": "430112",
+            "scheduledRoom": "Nebula (Live 16 - Simul 21)"
+          },
+          {
+            "id": "449862",
+            "scheduledRoom": "Drax (Live 17 - Simul 20)"
           },
           {
             "id": "432453",
-            "scheduledRoom": "Theater 7"
+            "scheduledRoom": "Mantis (Live 27 - Simul 23, 24, 25, 26)"
           },
           {
             "id": "434806",
-            "scheduledRoom": "Theater 8"
+            "scheduledRoom": "Cosmo (Live 28 - Simul 18, 19)"
           }
         ]
       },
@@ -134,36 +134,36 @@
         "time": "1:00 PM",
         "sessions": [
           {
-            "id": "430072",
-            "scheduledRoom": "Theater 1"
-          },
-          {
-            "id": "442176",
-            "scheduledRoom": "Theater 2"
-          },
-          {
-            "id": "449946",
-            "scheduledRoom": "Theater 3"
-          },
-          {
-            "id": "434401",
-            "scheduledRoom": "Theater 4"
-          },
-          {
             "id": "444660",
-            "scheduledRoom": "Theater 5"
+            "scheduledRoom": "Starlord (Live 4 - Simul 5,6,7,8,9)"
           },
           {
             "id": "431794",
-            "scheduledRoom": "Theater 6"
+            "scheduledRoom": "Rocket (Live 3 - Simul 1,2)"
+          },
+          {
+            "id": "442176",
+            "scheduledRoom": "Groot (Live 15 - Simul 10,11)"
+          },
+          {
+            "id": "430072",
+            "scheduledRoom": "Gamora (Live 14 - Simul 12, 13)"
+          },
+          {
+            "id": "449946",
+            "scheduledRoom": "Nebula (Live 16 - Simul 21)"
+          },
+          {
+            "id": "434401",
+            "scheduledRoom": "Drax (Live 17 - Simul 20)"
           },
           {
             "id": "450213",
-            "scheduledRoom": "Theater 7"
+            "scheduledRoom": "Mantis (Live 27 - Simul 23, 24, 25, 26)"
           },
           {
             "id": "445152",
-            "scheduledRoom": "Theater 8"
+            "scheduledRoom": "Cosmo (Live 28 - Simul 18, 19)"
           }
         ]
       },
@@ -171,36 +171,36 @@
         "time": "2:15 PM",
         "sessions": [
           {
-            "id": "431413",
-            "scheduledRoom": "Theater 1"
-          },
-          {
-            "id": "443439",
-            "scheduledRoom": "Theater 2"
-          },
-          {
-            "id": "450242",
-            "scheduledRoom": "Theater 3"
-          },
-          {
-            "id": "431085",
-            "scheduledRoom": "Theater 4"
-          },
-          {
             "id": "450221",
-            "scheduledRoom": "Theater 5"
+            "scheduledRoom": "Starlord (Live 4 - Simul 5,6,7,8,9)"
           },
           {
             "id": "430133",
-            "scheduledRoom": "Theater 6"
+            "scheduledRoom": "Rocket (Live 3 - Simul 1,2)"
+          },
+          {
+            "id": "443439",
+            "scheduledRoom": "Groot (Live 15 - Simul 10,11)"
+          },
+          {
+            "id": "431413",
+            "scheduledRoom": "Gamora (Live 14 - Simul 12, 13)"
+          },
+          {
+            "id": "450242",
+            "scheduledRoom": "Nebula (Live 16 - Simul 21)"
+          },
+          {
+            "id": "431085",
+            "scheduledRoom": "Drax (Live 17 - Simul 20)"
           },
           {
             "id": "442240",
-            "scheduledRoom": "Theater 7"
+            "scheduledRoom": "Mantis (Live 27 - Simul 23, 24, 25, 26)"
           },
           {
             "id": "449820",
-            "scheduledRoom": "Theater 8"
+            "scheduledRoom": "Cosmo (Live 28 - Simul 18, 19)"
           }
         ]
       },
@@ -208,36 +208,36 @@
         "time": "3:30 PM",
         "sessions": [
           {
-            "id": "432666",
-            "scheduledRoom": "Theater 1"
-          },
-          {
-            "id": "447976",
-            "scheduledRoom": "Theater 2"
-          },
-          {
-            "id": "441532",
-            "scheduledRoom": "Theater 3"
-          },
-          {
-            "id": "437961",
-            "scheduledRoom": "Theater 4"
-          },
-          {
             "id": "429998",
-            "scheduledRoom": "Theater 5"
+            "scheduledRoom": "Starlord (Live 4 - Simul 5,6,7,8,9)"
           },
           {
             "id": "433539",
-            "scheduledRoom": "Theater 6"
+            "scheduledRoom": "Rocket (Live 3 - Simul 1,2)"
+          },
+          {
+            "id": "447976",
+            "scheduledRoom": "Groot (Live 15 - Simul 10,11)"
+          },
+          {
+            "id": "432666",
+            "scheduledRoom": "Gamora (Live 14 - Simul 12, 13)"
+          },
+          {
+            "id": "441532",
+            "scheduledRoom": "Nebula (Live 16 - Simul 21)"
+          },
+          {
+            "id": "437961",
+            "scheduledRoom": "Drax (Live 17 - Simul 20)"
           },
           {
             "id": "441316",
-            "scheduledRoom": "Theater 7"
+            "scheduledRoom": "Mantis (Live 27 - Simul 23, 24, 25, 26)"
           },
           {
             "id": "431063",
-            "scheduledRoom": "Theater 8"
+            "scheduledRoom": "Cosmo (Live 28 - Simul 18, 19)"
           }
         ]
       },

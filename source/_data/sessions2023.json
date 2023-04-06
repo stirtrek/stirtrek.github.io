@@ -17,21 +17,41 @@
       "status": null
     },
     {
-      "id": "433947",
-      "title": "Tracking Aircraft with Redis & Software-Defined Radio",
-      "description": "Aircraft are everywhere. Knowing exactly where is paramount as it’s considered bad form for two aircraft to be in the same place at the same time. To avoid this, aircraft worldwide constantly and publicly broadcast their location, heading, and all sorts of other data using a system called ADS-B or Automatic Dependent Surveillance Broadcast.\r\n\r\nThis data is a natural fit for a streaming architecture. After all, it’s a constant stream of data that is literally being broadcast in real-time. But how can we capture these broadcasts and the data within? Surely it must require expensive hardware and special tools!\r\n\r\nNot so much. It turns out that we can capture ADS-B data easily using a combination of a cheap radio dongle and free software—a combination called software-defined radio. From there we can store it in a streaming data structure and consume, transform, and publish it using microservices. Cool, right?\r\n\r\nIn this session, you’ll learn how software-defined radio works (and not just for ADB-S), how to receive and store ADS-B data in streams, and how to use those streams with microservices. And, I’ll do it all by example—building a dashboard showing real-time flight data using Node.js, Redis Streams, and whatever front-end JavaScript framework happens to be popular that day!",
+      "id": "446618",
+      "title": "Strategizing Products and Customer Experiences",
+      "description": "In an era of faster, faster, faster, our workplaces are sacrificing quality, collaboration, and the customer experience to “just ship it.” Business goals don’t seem to overlap with customers’ needs. Customers don’t want Minimally Viable anything, but we keep delivering that.\r\n\r\nCustomers notice when we get it wrong. Our competitors, investors, shareholders, the press, bloggers, and social media notice. Morale suffers, and we might have trouble retaining or hiring the best staff. \r\n\r\nGreat customer experiences require the right team and strategies in place to predict and mitigate the risk of delivering wrong or flawed products, services, and experiences (PSE). Marketing and sales initiatives have uphill battles when we are offering PSE that are difficult to learn, frustrating to use, or not meeting customers’ real needs.\r\n\r\nThis session has actionable advice and models for how you can start shifting process, teams, and our companies towards true customer-centricity.",
       "startsAt": "2023-05-05T08:30:00",
       "endsAt": "2023-05-05T09:30:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "520bf4ca-b2d3-47c3-8475-c25bb2b257f7"
+        "6e3f3714-82bb-4fee-873b-975239263814"
       ],
       "categoryItems": [
-        159277
+        159276
       ],
       "questionAnswers": [],
-      "roomId": 32098,
+      "roomId": 34317,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
+      "id": "431072",
+      "title": "Think a Cloud Architect is all you need for a successful cloud journey? Think Again! \"",
+      "description": "Cloud Architect is easily among the top 5 most In Demand Tech Jobs today. Organizations are overtly interested in any resume which mentions cloud and architecture in the same page. Candidates with understanding of network , security and cloud services can easily land the job but what looks like a perfect match on surface might easily turn into a not so great experience for everyone involved. \r\n\r\nAs a Lead Cloud Architect for financial organization and leading multiple early cloud adopter teams, I have frequently experienced that Cloud Architect is an overloaded term and has been loosely used as an all-encompassing solution to the \"Cloud Problems\" that exist in organizations . \r\n\r\nIn this talk will be walking through the evolution journey of cloud architecture role and the way it fits differently in different organization based on their level of cloud maturity. We will be discussing the common challenges of cloud adoption and how refining roles for your cloud team(s) can directly impact the Cost and Experience of building solutions in Cloud.",
+      "startsAt": "2023-05-05T08:30:00",
+      "endsAt": "2023-05-05T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1d5b4156-c5dd-4995-982d-ecce66fe76eb"
+      ],
+      "categoryItems": [
+        159282
+      ],
+      "questionAnswers": [],
+      "roomId": 34318,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted"
@@ -52,6 +72,26 @@
       ],
       "questionAnswers": [],
       "roomId": 32099,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
+      "id": "433947",
+      "title": "Tracking Aircraft with Redis & Software-Defined Radio",
+      "description": "Aircraft are everywhere. Knowing exactly where is paramount as it’s considered bad form for two aircraft to be in the same place at the same time. To avoid this, aircraft worldwide constantly and publicly broadcast their location, heading, and all sorts of other data using a system called ADS-B or Automatic Dependent Surveillance Broadcast.\r\n\r\nThis data is a natural fit for a streaming architecture. After all, it’s a constant stream of data that is literally being broadcast in real-time. But how can we capture these broadcasts and the data within? Surely it must require expensive hardware and special tools!\r\n\r\nNot so much. It turns out that we can capture ADS-B data easily using a combination of a cheap radio dongle and free software—a combination called software-defined radio. From there we can store it in a streaming data structure and consume, transform, and publish it using microservices. Cool, right?\r\n\r\nIn this session, you’ll learn how software-defined radio works (and not just for ADB-S), how to receive and store ADS-B data in streams, and how to use those streams with microservices. And, I’ll do it all by example—building a dashboard showing real-time flight data using Node.js, Redis Streams, and whatever front-end JavaScript framework happens to be popular that day!",
+      "startsAt": "2023-05-05T08:30:00",
+      "endsAt": "2023-05-05T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "520bf4ca-b2d3-47c3-8475-c25bb2b257f7"
+      ],
+      "categoryItems": [
+        159277
+      ],
+      "questionAnswers": [],
+      "roomId": 32098,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted"
@@ -97,46 +137,6 @@
       "status": "Accepted"
     },
     {
-      "id": "446618",
-      "title": "Strategizing Products and Customer Experiences",
-      "description": "In an era of faster, faster, faster, our workplaces are sacrificing quality, collaboration, and the customer experience to “just ship it.” Business goals don’t seem to overlap with customers’ needs. Customers don’t want Minimally Viable anything, but we keep delivering that.\r\n\r\nCustomers notice when we get it wrong. Our competitors, investors, shareholders, the press, bloggers, and social media notice. Morale suffers, and we might have trouble retaining or hiring the best staff. \r\n\r\nGreat customer experiences require the right team and strategies in place to predict and mitigate the risk of delivering wrong or flawed products, services, and experiences (PSE). Marketing and sales initiatives have uphill battles when we are offering PSE that are difficult to learn, frustrating to use, or not meeting customers’ real needs.\r\n\r\nThis session has actionable advice and models for how you can start shifting process, teams, and our companies towards true customer-centricity.",
-      "startsAt": "2023-05-05T08:30:00",
-      "endsAt": "2023-05-05T09:30:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "6e3f3714-82bb-4fee-873b-975239263814"
-      ],
-      "categoryItems": [
-        159276
-      ],
-      "questionAnswers": [],
-      "roomId": 34317,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
-    },
-    {
-      "id": "431072",
-      "title": "Think a Cloud Architect is all you need for a successful cloud journey? Think Again! \"",
-      "description": "Cloud Architect is easily among the top 5 most In Demand Tech Jobs today. Organizations are overtly interested in any resume which mentions cloud and architecture in the same page. Candidates with understanding of network , security and cloud services can easily land the job but what looks like a perfect match on surface might easily turn into a not so great experience for everyone involved. \r\n\r\nAs a Lead Cloud Architect for financial organization and leading multiple early cloud adopter teams, I have frequently experienced that Cloud Architect is an overloaded term and has been loosely used as an all-encompassing solution to the \"Cloud Problems\" that exist in organizations . \r\n\r\nIn this talk will be walking through the evolution journey of cloud architecture role and the way it fits differently in different organization based on their level of cloud maturity. We will be discussing the common challenges of cloud adoption and how refining roles for your cloud team(s) can directly impact the Cost and Experience of building solutions in Cloud.",
-      "startsAt": "2023-05-05T08:30:00",
-      "endsAt": "2023-05-05T09:30:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "1d5b4156-c5dd-4995-982d-ecce66fe76eb"
-      ],
-      "categoryItems": [
-        159282
-      ],
-      "questionAnswers": [],
-      "roomId": 34318,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
-    },
-    {
       "id": "433358",
       "title": "The Power of Storytelling: Human Stories in a Digital World",
       "description": "In a world that can feel more isolated than ever, we need stories. In fact, stories may be one the most important tools we have to fight the isolation of modern life. Storytelling powers imagination and innovation, providing a path for meaningful growth and deep connection in our shared humanity. In this talk, I'll share the stories of how I've seen ordinary people like you and me use stories to create extraordinary outcomes in learning, persuasion, and emotional health.",
@@ -172,86 +172,6 @@
       ],
       "questionAnswers": [],
       "roomId": 34320,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
-    },
-    {
-      "id": "449170",
-      "title": "Rethinking Architecture: A Look at Macroservices",
-      "description": "In the beginning, all software was a single, monolithic executable. However, large scale executables quickly became unwieldy, cumbersome, and a nightmare to update and maintain. We took a step back and addressed the problems. As such, Service Oriented Architecture was born, and we all rejoiced. However, these large scale services quickly became unwieldy, cumbersome, and a nightmare to update and maintain. We took a step back and addressed the problems. As such, Microservices were born, and we all rejoiced.\r\n\r\nUnfortunately, the honeymoon with Microservices is now over, as we start to see problems with this style. In this talk, we'll take a step back, and look at the pros and cons of both SOA and Microservices. From there, we can weigh these concerns and try to find a happy middle ground, which I affectionately refer to as Macroservices. By the end, we'll have an appreciation for the concerns we must weigh as we decide how to build or refactor our next application.",
-      "startsAt": "2023-05-05T09:45:00",
-      "endsAt": "2023-05-05T10:45:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "94732aa0-c688-45c1-b92b-7ebad08ea8e0"
-      ],
-      "categoryItems": [
-        159282
-      ],
-      "questionAnswers": [],
-      "roomId": 32098,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
-    },
-    {
-      "id": "430037",
-      "title": "Dark UX Patterns",
-      "description": "Congratulations! You are the 1,000,000th visitor to our website. Click here to redeem your prize! Just provide your date of birth and phone number to get started.\r\n\r\nLearn about Dark UX Patterns, how they work, how they trick you and what companies are the worst offenders. Roach Motel, Privacy Zuckering? Let’s visit Dark Patterns Hall of Shame and see who joined the dark side!\r\n\r\nThis talk will break down the most popular dark patterns using real life examples from websites and apps you use every day. If you are a designer, a developer or a product manager, you will learn what to avoid when building your product and how to integrate digital well-being and safety features into your service. If you are an end user, we will teach you how to respond to dark patterns in order to stay safe online, protect your privacy, save your money and keep your sanity.",
-      "startsAt": "2023-05-05T09:45:00",
-      "endsAt": "2023-05-05T10:45:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "11fbf1c5-b0fc-42eb-a027-4fea2e54bb12"
-      ],
-      "categoryItems": [
-        159276
-      ],
-      "questionAnswers": [],
-      "roomId": 32099,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
-    },
-    {
-      "id": "445279",
-      "title": "Database DevOps: Options for database change management",
-      "description": "Whether you are the DBA for an Agile, Sprint-based team, or a developer with DBA responsibilities, you may feel like the development bottleneck at every turn. Managing migrations with your ORM of choice is easy but often error-prone and hard to manage as the project grows. Or worse yet, maybe your schema and change management is a folder full of poorly commented SQL scripts saved to a shared folder or local drive.\r\n\r\nSurely there's a better, SQL-centric way to manage databases as code, validate changes, and deploy updates - right? Yes, there is!\r\n\r\nThis talk will explore what database DevOps is and how open-source and paid tools like Flyway can help you manage database schema and code changes while incorporating agile CI/CD practices.\r\n\r\nBy the end of the session, you'll be ready to tame your rogue application databases, managing changes and migrations with ease, and become the envy of the development team.",
-      "startsAt": "2023-05-05T09:45:00",
-      "endsAt": "2023-05-05T10:45:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "0785f402-af78-4d26-a024-a1fb32fefe04"
-      ],
-      "categoryItems": [
-        159283
-      ],
-      "questionAnswers": [],
-      "roomId": 34315,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
-    },
-    {
-      "id": "438201",
-      "title": "Snapchat Lens Developers for the Win!",
-      "description": "Snapchat is one of the most popular social media platforms today. In large part, due to their filters that bring AR technologies into our daily lives. Lens development is quickly becoming a new career for all levels and genres in computer science. A lens developer uses skills such as JavaScript, 3D art, and analytics to build engaging filters. \r\n\r\nMy presentation will show how to get started as a Lens developer for free using Snapchat's own Lens Studio platform. We will cover templates, custom scripts, and importing 3D objects to publish your own custom lens to the world. \r\n",
-      "startsAt": "2023-05-05T09:45:00",
-      "endsAt": "2023-05-05T10:45:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "895833fa-4bbd-4d2a-bc58-195064458f4e"
-      ],
-      "categoryItems": [
-        159277
-      ],
-      "questionAnswers": [],
-      "roomId": 34316,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted"
@@ -297,6 +217,86 @@
       "status": "Accepted"
     },
     {
+      "id": "430037",
+      "title": "Dark UX Patterns",
+      "description": "Congratulations! You are the 1,000,000th visitor to our website. Click here to redeem your prize! Just provide your date of birth and phone number to get started.\r\n\r\nLearn about Dark UX Patterns, how they work, how they trick you and what companies are the worst offenders. Roach Motel, Privacy Zuckering? Let’s visit Dark Patterns Hall of Shame and see who joined the dark side!\r\n\r\nThis talk will break down the most popular dark patterns using real life examples from websites and apps you use every day. If you are a designer, a developer or a product manager, you will learn what to avoid when building your product and how to integrate digital well-being and safety features into your service. If you are an end user, we will teach you how to respond to dark patterns in order to stay safe online, protect your privacy, save your money and keep your sanity.",
+      "startsAt": "2023-05-05T09:45:00",
+      "endsAt": "2023-05-05T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "11fbf1c5-b0fc-42eb-a027-4fea2e54bb12"
+      ],
+      "categoryItems": [
+        159276
+      ],
+      "questionAnswers": [],
+      "roomId": 32099,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
+      "id": "449170",
+      "title": "Rethinking Architecture: A Look at Macroservices",
+      "description": "In the beginning, all software was a single, monolithic executable. However, large scale executables quickly became unwieldy, cumbersome, and a nightmare to update and maintain. We took a step back and addressed the problems. As such, Service Oriented Architecture was born, and we all rejoiced. However, these large scale services quickly became unwieldy, cumbersome, and a nightmare to update and maintain. We took a step back and addressed the problems. As such, Microservices were born, and we all rejoiced.\r\n\r\nUnfortunately, the honeymoon with Microservices is now over, as we start to see problems with this style. In this talk, we'll take a step back, and look at the pros and cons of both SOA and Microservices. From there, we can weigh these concerns and try to find a happy middle ground, which I affectionately refer to as Macroservices. By the end, we'll have an appreciation for the concerns we must weigh as we decide how to build or refactor our next application.",
+      "startsAt": "2023-05-05T09:45:00",
+      "endsAt": "2023-05-05T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "94732aa0-c688-45c1-b92b-7ebad08ea8e0"
+      ],
+      "categoryItems": [
+        159282
+      ],
+      "questionAnswers": [],
+      "roomId": 32098,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
+      "id": "445279",
+      "title": "Database DevOps: Options for database change management",
+      "description": "Whether you are the DBA for an Agile, Sprint-based team, or a developer with DBA responsibilities, you may feel like the development bottleneck at every turn. Managing migrations with your ORM of choice is easy but often error-prone and hard to manage as the project grows. Or worse yet, maybe your schema and change management is a folder full of poorly commented SQL scripts saved to a shared folder or local drive.\r\n\r\nSurely there's a better, SQL-centric way to manage databases as code, validate changes, and deploy updates - right? Yes, there is!\r\n\r\nThis talk will explore what database DevOps is and how open-source and paid tools like Flyway can help you manage database schema and code changes while incorporating agile CI/CD practices.\r\n\r\nBy the end of the session, you'll be ready to tame your rogue application databases, managing changes and migrations with ease, and become the envy of the development team.",
+      "startsAt": "2023-05-05T09:45:00",
+      "endsAt": "2023-05-05T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0785f402-af78-4d26-a024-a1fb32fefe04"
+      ],
+      "categoryItems": [
+        159283
+      ],
+      "questionAnswers": [],
+      "roomId": 34315,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
+      "id": "438201",
+      "title": "Snapchat Lens Developers for the Win!",
+      "description": "Snapchat is one of the most popular social media platforms today. In large part, due to their filters that bring AR technologies into our daily lives. Lens development is quickly becoming a new career for all levels and genres in computer science. A lens developer uses skills such as JavaScript, 3D art, and analytics to build engaging filters. \r\n\r\nMy presentation will show how to get started as a Lens developer for free using Snapchat's own Lens Studio platform. We will cover templates, custom scripts, and importing 3D objects to publish your own custom lens to the world. \r\n",
+      "startsAt": "2023-05-05T09:45:00",
+      "endsAt": "2023-05-05T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "895833fa-4bbd-4d2a-bc58-195064458f4e"
+      ],
+      "categoryItems": [
+        159277
+      ],
+      "questionAnswers": [],
+      "roomId": 34316,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
       "id": "443462",
       "title": "We all use open source; learn how to give back",
       "description": "It's almost impossible to use an electronic device and not be using open source code. Devices and software from Apple, Google and Microsoft all rely on open source code written by the community and distributed free of charge.\r\n\r\nThe majority of developers are using languages that have open source implementations, especially since .NET went open source. We depend upon thousands of community developed libraries. And yet, most of us don't give back for a variety of reasons.\r\n\r\nThe session will cover a number of ways big and small that you can contribute to open source projects, with details of different types of open source projects and the significance of difference licenses.",
@@ -337,21 +337,41 @@
       "status": "Accepted"
     },
     {
-      "id": "448383",
-      "title": "Building Ingress - From Concept to Connection",
-      "description": "At first glance, ingress is an easy concept: you route traffic from the wider world into your cluster. As you layer on SSL and load balancing, the principles stay the same and everything works with minimal thought and effort. But as your infrastructure grows, your clusters grow, the interactions get more complex, and your security requirements explode. In this session, I’ll walk you through how we designed and built an Ingress Controller and have converted our clusters to use it in production to support millions of requests. It wasn’t easy but running it as an open source effort from the start encouraged our team and customers to review, explore, and consider situations outside our original plans.",
+      "id": "448009",
+      "title": "Strongly-typed CSS with Vanilla-extract",
+      "description": "Sick of memorizing awkward naming conventions? Are you losing sleep thinking about how to author maintainable CSS at scale? CSS-in-JS frameworks not performant enough? Tired of banging your head against a wall, trying to figure out why your CSS isn’t working, only to realize you spelled the class wrong? Look no further than Vanilla-extract + Sprinkles.\r\nIn this session, you’ll learn how to write type-safe, locally scoped classes, variables, and themes to generate static CSS files at build time.",
       "startsAt": "2023-05-05T11:00:00",
       "endsAt": "2023-05-05T12:00:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "f0f1fa39-eb24-4ab6-866c-b8645975bd75"
+        "f38f42d8-7623-457c-8871-dbb44bc458da"
       ],
       "categoryItems": [
-        159283
+        159275
       ],
       "questionAnswers": [],
-      "roomId": 32098,
+      "roomId": 34317,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
+      "id": "444997",
+      "title": "The Hazards of Sitting: An Osteopath’s Approach to Preventing Work-Related Injury.",
+      "description": "As an Osteopathic physician, I received many hours of training and education on injury and disease prevention. But I did not realize the impact of spending a majority of my time sitting at a desk would have on my overall movement and flexibility.  \r\nBecause of this, I will provide background education on the most common injuries software engineers are at risk to develop and how I try to prevent these by implementing a few simple measures daily at work. \r\nSome of the measures include proper chair/desk/monitor adjustment, workspace setup, stretching routine that can be easily implemented at your desk and much more.\r\n",
+      "startsAt": "2023-05-05T11:00:00",
+      "endsAt": "2023-05-05T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b4b9d0ac-4135-4e89-804c-3b3ce22082c7"
+      ],
+      "categoryItems": [
+        159279
+      ],
+      "questionAnswers": [],
+      "roomId": 34318,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted"
@@ -372,6 +392,26 @@
       ],
       "questionAnswers": [],
       "roomId": 32099,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
+      "id": "448383",
+      "title": "Building Ingress - From Concept to Connection",
+      "description": "At first glance, ingress is an easy concept: you route traffic from the wider world into your cluster. As you layer on SSL and load balancing, the principles stay the same and everything works with minimal thought and effort. But as your infrastructure grows, your clusters grow, the interactions get more complex, and your security requirements explode. In this session, I’ll walk you through how we designed and built an Ingress Controller and have converted our clusters to use it in production to support millions of requests. It wasn’t easy but running it as an open source effort from the start encouraged our team and customers to review, explore, and consider situations outside our original plans.",
+      "startsAt": "2023-05-05T11:00:00",
+      "endsAt": "2023-05-05T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f0f1fa39-eb24-4ab6-866c-b8645975bd75"
+      ],
+      "categoryItems": [
+        159283
+      ],
+      "questionAnswers": [],
+      "roomId": 32098,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted"
@@ -412,46 +452,6 @@
       ],
       "questionAnswers": [],
       "roomId": 34316,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
-    },
-    {
-      "id": "448009",
-      "title": "Strongly-typed CSS with Vanilla-extract",
-      "description": "Sick of memorizing awkward naming conventions? Are you losing sleep thinking about how to author maintainable CSS at scale? CSS-in-JS frameworks not performant enough? Tired of banging your head against a wall, trying to figure out why your CSS isn’t working, only to realize you spelled the class wrong? Look no further than Vanilla-extract + Sprinkles.\r\nIn this session, you’ll learn how to write type-safe, locally scoped classes, variables, and themes to generate static CSS files at build time.",
-      "startsAt": "2023-05-05T11:00:00",
-      "endsAt": "2023-05-05T12:00:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "f38f42d8-7623-457c-8871-dbb44bc458da"
-      ],
-      "categoryItems": [
-        159275
-      ],
-      "questionAnswers": [],
-      "roomId": 34317,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
-    },
-    {
-      "id": "444997",
-      "title": "The Hazards of Sitting: An Osteopath’s Approach to Preventing Work-Related Injury.",
-      "description": "As an Osteopathic physician, I received many hours of training and education on injury and disease prevention. But I did not realize the impact of spending a majority of my time sitting at a desk would have on my overall movement and flexibility.  \r\nBecause of this, I will provide background education on the most common injuries software engineers are at risk to develop and how I try to prevent these by implementing a few simple measures daily at work. \r\nSome of the measures include proper chair/desk/monitor adjustment, workspace setup, stretching routine that can be easily implemented at your desk and much more.\r\n",
-      "startsAt": "2023-05-05T11:00:00",
-      "endsAt": "2023-05-05T12:00:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "b4b9d0ac-4135-4e89-804c-3b3ce22082c7"
-      ],
-      "categoryItems": [
-        159279
-      ],
-      "questionAnswers": [],
-      "roomId": 34318,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted"
@@ -513,21 +513,41 @@
       "status": null
     },
     {
-      "id": "430072",
-      "title": "Word Smatter: Exploring Semantics, Testers, and Problems",
-      "description": "“Testers [do|don’t] (help) [prevent|detect] problems.”\r\n\r\nThroughout my career, I’ve encountered numerous variations of this phrase and discussed the underlying ideas often. The phrase uses just a few, small words to express many, big ideas. And so, it is valuable and critical to understand what each word means individually in order to better understand the ideas they convey collectively.\r\n\r\nSemantics is the study of meaning in words. The session begins with a brief and broad overview of semantics and related ideas. This sets the stage for deep analysis of each individual word in the phrase above and its potential meaning. We collaboratively consider:\r\n\r\nTesters – What might this word mean to different people and in different contexts?\r\nDo/Don’t – What do normative and descriptive statements have to do with it?\r\nHelp – How does the inclusion/exclusion of this word affect the meaning of the phrase?\r\nPrevent/Detect – What does causality and relativism have to do with which word we choose?\r\nProblems – What exactly is the thing that is being prevented or detected?\r\n\r\nThis session demystifies and promotes semantics, and goes beyond wordplay to introduce critical concepts that have practical impacts on testers, their roles, and their responsibilities.",
+      "id": "444660",
+      "title": "Avoiding False Starts With Artificial Intelligence",
+      "description": "Artificial Intelligence (AI) is no longer science fiction; it’s here today, and it’s here to stay. It is in the products you use every day: home automation, digital assistants, or credit card fraud detection, just to name a few.\r\n\r\nAll businesses will be affected by AI in the coming years, and the impact will be significant. The only remaining question is, how will you influence its effect on your company?\r\n\r\nGetting started with AI is a daunting task, but necessary for businesses who want to stay competitive. During this session, we’ll discuss:\r\n\r\n* How to determine if, where, and how to use AI effectively within your organization \r\n* When and how to build an AI team\r\n* Common early mistakes and pitfalls when getting started with AI\r\n* Typical misconceptions around AI and its application\r\n* What to look for in an AI partner or potential hire",
       "startsAt": "2023-05-05T13:00:00",
       "endsAt": "2023-05-05T14:00:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "70c37ef4-ef7f-48be-b2a6-790c716b6d29"
+        "468d2621-a815-4e39-8c07-6c18162c9b1a"
       ],
       "categoryItems": [
-        159279
+        159284
       ],
       "questionAnswers": [],
-      "roomId": 32098,
+      "roomId": 34317,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
+      "id": "431794",
+      "title": "Common Accessibility Pitfalls: Climbing out, when you fall in.",
+      "description": "You, your users, and Alice from Wonderland have something in common. At one point, everyone has fallen into a hole of perplexity, confusion, and sometimes hysterical madness. Unlike Alice, we can navigate ourselves and our users around the chaotic abyss that we call the web. Shipping inaccessible experiences to our users can have unpleasant effects. Being cognizant of all the things that can go wrong and who are potential users are will take us farther along our journey.\r\n\r\nIn this session we are going to learn about common accessibility violations that surface when we are lackadaisical about the experiences we ship. We will cover semantic markup, alt attributes and images, color contrast, and more. Attendees will walk away able to identify these problem areas in their codebases and learning techniques, tools, and best practices to keep our users happy and not drive them mad.",
+      "startsAt": "2023-05-05T13:00:00",
+      "endsAt": "2023-05-05T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "730a789f-e2a8-483d-91bc-6e794f1b44d5"
+      ],
+      "categoryItems": [
+        159275
+      ],
+      "questionAnswers": [],
+      "roomId": 34318,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted"
@@ -548,6 +568,26 @@
       ],
       "questionAnswers": [],
       "roomId": 32099,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
+      "id": "430072",
+      "title": "Word Smatter: Exploring Semantics, Testers, and Problems",
+      "description": "“Testers [do|don’t] (help) [prevent|detect] problems.”\r\n\r\nThroughout my career, I’ve encountered numerous variations of this phrase and discussed the underlying ideas often. The phrase uses just a few, small words to express many, big ideas. And so, it is valuable and critical to understand what each word means individually in order to better understand the ideas they convey collectively.\r\n\r\nSemantics is the study of meaning in words. The session begins with a brief and broad overview of semantics and related ideas. This sets the stage for deep analysis of each individual word in the phrase above and its potential meaning. We collaboratively consider:\r\n\r\nTesters – What might this word mean to different people and in different contexts?\r\nDo/Don’t – What do normative and descriptive statements have to do with it?\r\nHelp – How does the inclusion/exclusion of this word affect the meaning of the phrase?\r\nPrevent/Detect – What does causality and relativism have to do with which word we choose?\r\nProblems – What exactly is the thing that is being prevented or detected?\r\n\r\nThis session demystifies and promotes semantics, and goes beyond wordplay to introduce critical concepts that have practical impacts on testers, their roles, and their responsibilities.",
+      "startsAt": "2023-05-05T13:00:00",
+      "endsAt": "2023-05-05T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "70c37ef4-ef7f-48be-b2a6-790c716b6d29"
+      ],
+      "categoryItems": [
+        159279
+      ],
+      "questionAnswers": [],
+      "roomId": 32098,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted"
@@ -593,46 +633,6 @@
       "status": "Accepted"
     },
     {
-      "id": "444660",
-      "title": "Avoiding False Starts With Artificial Intelligence",
-      "description": "Artificial Intelligence (AI) is no longer science fiction; it’s here today, and it’s here to stay. It is in the products you use every day: home automation, digital assistants, or credit card fraud detection, just to name a few.\r\n\r\nAll businesses will be affected by AI in the coming years, and the impact will be significant. The only remaining question is, how will you influence its effect on your company?\r\n\r\nGetting started with AI is a daunting task, but necessary for businesses who want to stay competitive. During this session, we’ll discuss:\r\n\r\n* How to determine if, where, and how to use AI effectively within your organization \r\n* When and how to build an AI team\r\n* Common early mistakes and pitfalls when getting started with AI\r\n* Typical misconceptions around AI and its application\r\n* What to look for in an AI partner or potential hire",
-      "startsAt": "2023-05-05T13:00:00",
-      "endsAt": "2023-05-05T14:00:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "468d2621-a815-4e39-8c07-6c18162c9b1a"
-      ],
-      "categoryItems": [
-        159284
-      ],
-      "questionAnswers": [],
-      "roomId": 34317,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
-    },
-    {
-      "id": "431794",
-      "title": "Common Accessibility Pitfalls: Climbing out, when you fall in.",
-      "description": "You, your users, and Alice from Wonderland have something in common. At one point, everyone has fallen into a hole of perplexity, confusion, and sometimes hysterical madness. Unlike Alice, we can navigate ourselves and our users around the chaotic abyss that we call the web. Shipping inaccessible experiences to our users can have unpleasant effects. Being cognizant of all the things that can go wrong and who are potential users are will take us farther along our journey.\r\n\r\nIn this session we are going to learn about common accessibility violations that surface when we are lackadaisical about the experiences we ship. We will cover semantic markup, alt attributes and images, color contrast, and more. Attendees will walk away able to identify these problem areas in their codebases and learning techniques, tools, and best practices to keep our users happy and not drive them mad.",
-      "startsAt": "2023-05-05T13:00:00",
-      "endsAt": "2023-05-05T14:00:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "730a789f-e2a8-483d-91bc-6e794f1b44d5"
-      ],
-      "categoryItems": [
-        159275
-      ],
-      "questionAnswers": [],
-      "roomId": 34318,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
-    },
-    {
       "id": "450213",
       "title": "Improving Data Access with Abstractions",
       "description": "Most apps need data - but how you access data can have huge implications on your code's maintainability. Most approaches cause some degree of pain, but you can follow Pain Driven Development to refactor to different approaches.\r\n\r\nIn this code-heavy approach, you'll see how an app starts with a low-level tightly-coupled data access approach and iteratively evolves to address the pain points encountered.\r\n\r\nBy the end of the session, the app's data access will be encapsulated and modular and the app will be testable and maintainable. And you'll have learned a variety of design patterns and refactoring techniques that you can apply to your own applications.\r\n\r\nDemos and samples will use C#/.NET, but principles and patterns are applicable to other platforms and languages.",
@@ -668,86 +668,6 @@
       ],
       "questionAnswers": [],
       "roomId": 34320,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
-    },
-    {
-      "id": "431413",
-      "title": "Practical Auth(entication|orization) for Developers",
-      "description": "It's never been easier to launch a website or expose services over HTTP. It's also never been easier to make rookie mistakes in the authentication of those services.\r\n\r\nThis session is designed for the average developer/architect that's struggling to make sense of modern authentication options. You'll learn the differences between OAuth, API Keys, HMAC, JSON Web Tokens (JWT), SAML, and more. \r\n\r\nDon't worry if those things sound foreign; they'll be explained in a clear, practical way so that you can choose the appropriate tool for your needs without making rookie mistakes.",
-      "startsAt": "2023-05-05T14:15:00",
-      "endsAt": "2023-05-05T15:15:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "b7235790-4c4a-491c-a8a1-1ed82a5d70b3"
-      ],
-      "categoryItems": [
-        159285
-      ],
-      "questionAnswers": [],
-      "roomId": 32098,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
-    },
-    {
-      "id": "443439",
-      "title": "Optimizing Application Performance",
-      "description": "When it comes to user experience a snappy application beat a glamorous one. Nothing frustrates an end user more than a slow application. Did you know that any wait time greater than one second will break a user's concentration and cause them to feel frustration? How can we create applications to meet user expectations? This class will cover all things performance from design to delivery. We will go over application design, user interface guidelines, caching guidelines, code optimizations, and query optimizations.",
-      "startsAt": "2023-05-05T14:15:00",
-      "endsAt": "2023-05-05T15:15:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "b7e99b0d-fe29-4715-ad58-566126f49c1b"
-      ],
-      "categoryItems": [
-        159275
-      ],
-      "questionAnswers": [],
-      "roomId": 32099,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
-    },
-    {
-      "id": "450242",
-      "title": "Ditch heavy JS and KISS your frontend again with HTML over-the-wire",
-      "description": "In the 2010’s it was all the rage to decouple your website rendering it with a JS frontend connected to a JSON API backend. In the 2020’s it’s now all the rage to move state back to the server sending only HTML back to the browser. Less code, faster page loads, and a happier developer experience. What’s not to like? Let’s party like it’s 1999 again! \r\n\r\nIn this talk we will go over:\r\n- The reasons why most people moved away from server-rendered apps\r\n- The reasons why most people are moving back to server-rendered apps\r\n- How the hypermedia approach compares to frontend framework + JSON API\r\n- Examples in Hotwire, htmx, and Unpoly\r\n- The types of projects that can benefit from these tools\r\n",
-      "startsAt": "2023-05-05T14:15:00",
-      "endsAt": "2023-05-05T15:15:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "d5383829-0901-4bb9-918b-1118c196c314"
-      ],
-      "categoryItems": [
-        159281
-      ],
-      "questionAnswers": [],
-      "roomId": 34315,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
-    },
-    {
-      "id": "431085",
-      "title": "The Four Principles of Accessibility",
-      "description": "While many in the design community are aware of inclusivity and accessible design practices, the reasons are still not understood. My talk walks the listener through the WCAG 2.1 and explains how the four principles, collectively referred to as POUR, apply to product design and development. These four principles specifically target areas where users have trouble accessing digital content. The goal is to help product teams understand how to think about and approach accessibility so they can build products that enable independence.  ",
-      "startsAt": "2023-05-05T14:15:00",
-      "endsAt": "2023-05-05T15:15:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "79e36469-a9f5-4e58-9294-5215db739aef"
-      ],
-      "categoryItems": [
-        159276
-      ],
-      "questionAnswers": [],
-      "roomId": 34316,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted"
@@ -793,6 +713,86 @@
       "status": "Accepted"
     },
     {
+      "id": "443439",
+      "title": "Optimizing Application Performance",
+      "description": "When it comes to user experience a snappy application beat a glamorous one. Nothing frustrates an end user more than a slow application. Did you know that any wait time greater than one second will break a user's concentration and cause them to feel frustration? How can we create applications to meet user expectations? This class will cover all things performance from design to delivery. We will go over application design, user interface guidelines, caching guidelines, code optimizations, and query optimizations.",
+      "startsAt": "2023-05-05T14:15:00",
+      "endsAt": "2023-05-05T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b7e99b0d-fe29-4715-ad58-566126f49c1b"
+      ],
+      "categoryItems": [
+        159275
+      ],
+      "questionAnswers": [],
+      "roomId": 32099,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
+      "id": "431413",
+      "title": "Practical Auth(entication|orization) for Developers",
+      "description": "It's never been easier to launch a website or expose services over HTTP. It's also never been easier to make rookie mistakes in the authentication of those services.\r\n\r\nThis session is designed for the average developer/architect that's struggling to make sense of modern authentication options. You'll learn the differences between OAuth, API Keys, HMAC, JSON Web Tokens (JWT), SAML, and more. \r\n\r\nDon't worry if those things sound foreign; they'll be explained in a clear, practical way so that you can choose the appropriate tool for your needs without making rookie mistakes.",
+      "startsAt": "2023-05-05T14:15:00",
+      "endsAt": "2023-05-05T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b7235790-4c4a-491c-a8a1-1ed82a5d70b3"
+      ],
+      "categoryItems": [
+        159285
+      ],
+      "questionAnswers": [],
+      "roomId": 32098,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
+      "id": "450242",
+      "title": "Ditch heavy JS and KISS your frontend again with HTML over-the-wire",
+      "description": "In the 2010’s it was all the rage to decouple your website rendering it with a JS frontend connected to a JSON API backend. In the 2020’s it’s now all the rage to move state back to the server sending only HTML back to the browser. Less code, faster page loads, and a happier developer experience. What’s not to like? Let’s party like it’s 1999 again! \r\n\r\nIn this talk we will go over:\r\n- The reasons why most people moved away from server-rendered apps\r\n- The reasons why most people are moving back to server-rendered apps\r\n- How the hypermedia approach compares to frontend framework + JSON API\r\n- Examples in Hotwire, htmx, and Unpoly\r\n- The types of projects that can benefit from these tools\r\n",
+      "startsAt": "2023-05-05T14:15:00",
+      "endsAt": "2023-05-05T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d5383829-0901-4bb9-918b-1118c196c314"
+      ],
+      "categoryItems": [
+        159281
+      ],
+      "questionAnswers": [],
+      "roomId": 34315,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
+      "id": "431085",
+      "title": "The Four Principles of Accessibility",
+      "description": "While many in the design community are aware of inclusivity and accessible design practices, the reasons are still not understood. My talk walks the listener through the WCAG 2.1 and explains how the four principles, collectively referred to as POUR, apply to product design and development. These four principles specifically target areas where users have trouble accessing digital content. The goal is to help product teams understand how to think about and approach accessibility so they can build products that enable independence.  ",
+      "startsAt": "2023-05-05T14:15:00",
+      "endsAt": "2023-05-05T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "79e36469-a9f5-4e58-9294-5215db739aef"
+      ],
+      "categoryItems": [
+        159276
+      ],
+      "questionAnswers": [],
+      "roomId": 34316,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
       "id": "442240",
       "title": "Debugging Burnout",
       "description": "Working in a product space requires knowing how to take a very complex problem and break it down into iterative chunks.  Far too often, we’re so wrapped up in the problems we’re solving professionally, that we completely forget to introspectively look at ourselves and ask what problems in our own lives need solving.  Burnout is real and worth addressing.  But much like the dev process, understanding the “why” behind behavior leads to a more sustainable outcome.\r\n\r\nThis talk is a part of an ongoing conversation in life.  We want to develop a framework and language to properly identify burnout and how we can work through it.  Let’s take some time in this iteration of the conversation and talk about what it is, why it’s a problem, and how we can leverage tools at our disposal to help identify, address, and debug burnout.\r\n",
@@ -833,21 +833,41 @@
       "status": "Accepted"
     },
     {
-      "id": "432666",
-      "title": "Ignoring Null and Five Other Horrible Things Most Developers Do",
-      "description": "Let’s face it. They’re there. We try to pretend they’re not, but they lurk out in the open, quietly destroying our code quality. We chug along writing our code and contribute to the growing pile of technical debt, knowing it but refusing to acknowledge. Why? Because most languages encourage us to do it wrong. Handling of nulls, date/time, exceptions, logging, strings, and boxing objects are all covered in this talk. Attendees should expect to learn how many modern languages encourage anti-patterns in these six areas and what they can do to write better code through awareness. ",
+      "id": "429998",
+      "title": "Coding and the Mozart Effect",
+      "description": "Most developers code to music...some are even musicians themselves.  Is it possible to streamline workflow by adjusting how we listen to music and what music we listen to?\r\n\r\nStudies have shown that exposure to certain kinds of music can help to develop cognitive strength and improve performance of tasks.  This talk will explore those studies and show what sort of things can be done to improve the listeners environment and help people to create better code.",
       "startsAt": "2023-05-05T15:30:00",
       "endsAt": "2023-05-05T16:30:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "4b27e07a-b943-4364-9db8-9d9d564d60ab"
+        "63f88157-8b36-4e54-8ccc-affa12510ffc"
       ],
       "categoryItems": [
-        159275
+        159279
       ],
       "questionAnswers": [],
-      "roomId": 32098,
+      "roomId": 34317,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
+      "id": "433539",
+      "title": "Messaging, Queueing, and Eventing with Azure De-Mystified",
+      "description": "With Event Hub, IoT Hub, Service Bus, and Azure Storage Queue, Azure has a number of PaaS offerings available when it comes to Queueing, Eventing, and Messaging.  The number of services and mystery about their purposes can lead to a bit of analysis paralysis when it comes to which service to use, and, more importantly, when to use each service.  \r\n\r\nIn this session we will explore the services available at Azure for queueing, handling events, and messaging, and we'll look at appropriate examples of when and how to use each of them.   By the end of the talk you'll be  ready to go make a recommendation to your team about which service to use for various scenarios, and you'll have seen how to easily integrate these services into your .Net applications. ",
+      "startsAt": "2023-05-05T15:30:00",
+      "endsAt": "2023-05-05T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0c4f74c9-6be8-40d0-b588-674d3b783472"
+      ],
+      "categoryItems": [
+        159283
+      ],
+      "questionAnswers": [],
+      "roomId": 34318,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted"
@@ -868,6 +888,26 @@
       ],
       "questionAnswers": [],
       "roomId": 32099,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
+      "id": "432666",
+      "title": "Ignoring Null and Five Other Horrible Things Most Developers Do",
+      "description": "Let’s face it. They’re there. We try to pretend they’re not, but they lurk out in the open, quietly destroying our code quality. We chug along writing our code and contribute to the growing pile of technical debt, knowing it but refusing to acknowledge. Why? Because most languages encourage us to do it wrong. Handling of nulls, date/time, exceptions, logging, strings, and boxing objects are all covered in this talk. Attendees should expect to learn how many modern languages encourage anti-patterns in these six areas and what they can do to write better code through awareness. ",
+      "startsAt": "2023-05-05T15:30:00",
+      "endsAt": "2023-05-05T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "4b27e07a-b943-4364-9db8-9d9d564d60ab"
+      ],
+      "categoryItems": [
+        159275
+      ],
+      "questionAnswers": [],
+      "roomId": 32098,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted"
@@ -908,46 +948,6 @@
       ],
       "questionAnswers": [],
       "roomId": 34316,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
-    },
-    {
-      "id": "429998",
-      "title": "Coding and the Mozart Effect",
-      "description": "Most developers code to music...some are even musicians themselves.  Is it possible to streamline workflow by adjusting how we listen to music and what music we listen to?\r\n\r\nStudies have shown that exposure to certain kinds of music can help to develop cognitive strength and improve performance of tasks.  This talk will explore those studies and show what sort of things can be done to improve the listeners environment and help people to create better code.",
-      "startsAt": "2023-05-05T15:30:00",
-      "endsAt": "2023-05-05T16:30:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "63f88157-8b36-4e54-8ccc-affa12510ffc"
-      ],
-      "categoryItems": [
-        159279
-      ],
-      "questionAnswers": [],
-      "roomId": 34317,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
-    },
-    {
-      "id": "433539",
-      "title": "Messaging, Queueing, and Eventing with Azure De-Mystified",
-      "description": "With Event Hub, IoT Hub, Service Bus, and Azure Storage Queue, Azure has a number of PaaS offerings available when it comes to Queueing, Eventing, and Messaging.  The number of services and mystery about their purposes can lead to a bit of analysis paralysis when it comes to which service to use, and, more importantly, when to use each service.  \r\n\r\nIn this session we will explore the services available at Azure for queueing, handling events, and messaging, and we'll look at appropriate examples of when and how to use each of them.   By the end of the talk you'll be  ready to go make a recommendation to your team about which service to use for various scenarios, and you'll have seen how to easily integrate these services into your .Net applications. ",
-      "startsAt": "2023-05-05T15:30:00",
-      "endsAt": "2023-05-05T16:30:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "0c4f74c9-6be8-40d0-b588-674d3b783472"
-      ],
-      "categoryItems": [
-        159283
-      ],
-      "questionAnswers": [],
-      "roomId": 34318,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted"
@@ -2509,43 +2509,43 @@
       "sort": 0
     },
     {
-      "id": 32098,
-      "name": "Theater 1",
+      "id": 34317,
+      "name": "Starlord (Live 4 - Simul 5,6,7,8,9)",
       "sort": 1
     },
     {
-      "id": 32099,
-      "name": "Theater 2",
+      "id": 34318,
+      "name": "Rocket (Live 3 - Simul 1,2)",
       "sort": 2
     },
     {
-      "id": 34315,
-      "name": "Theater 3",
+      "id": 32099,
+      "name": "Groot (Live 15 - Simul 10,11)",
       "sort": 3
     },
     {
-      "id": 34316,
-      "name": "Theater 4",
+      "id": 32098,
+      "name": "Gamora (Live 14 - Simul 12, 13)",
       "sort": 4
     },
     {
-      "id": 34317,
-      "name": "Theater 5",
+      "id": 34315,
+      "name": "Nebula (Live 16 - Simul 21)",
       "sort": 5
     },
     {
-      "id": 34318,
-      "name": "Theater 6",
+      "id": 34316,
+      "name": "Drax (Live 17 - Simul 20)",
       "sort": 6
     },
     {
       "id": 34319,
-      "name": "Theater 7",
+      "name": "Mantis (Live 27 - Simul 23, 24, 25, 26)",
       "sort": 7
     },
     {
       "id": 34320,
-      "name": "Theater 8",
+      "name": "Cosmo (Live 28 - Simul 18, 19)",
       "sort": 8
     }
   ]

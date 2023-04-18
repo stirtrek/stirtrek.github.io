@@ -521,7 +521,8 @@
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "468d2621-a815-4e39-8c07-6c18162c9b1a"
+        "468d2621-a815-4e39-8c07-6c18162c9b1a",
+        "3963f1e7-00c7-47ba-9c88-9f1d9be28b43"
       ],
       "categoryItems": [
         159284
@@ -1762,6 +1763,16 @@
           "title": "Twitter",
           "url": "https://www.twitter.com/jguadagno",
           "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/josephguadagno/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.josephguadagno.net",
+          "linkType": "Blog"
         }
       ],
       "sessions": [
@@ -2105,6 +2116,38 @@
         434401
       ],
       "fullName": "Rhia Dixon",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "3963f1e7-00c7-47ba-9c88-9f1d9be28b43",
+      "firstName": "Robert",
+      "lastName": "Herbig",
+      "bio": "Robert Herbig is passionate about leading teams to deliver products users love.\r\n\r\nHe is a Lead Software Engineer at SEP, a software product design and development company. In his 15+ years in the software industry, he has worked on products ranging in size from small apps to enterprise systems; embedded, desktop, web, and cloud platforms; and in a variety of markets and domains including aerospace, medical, agriculture, construction, and secure communication.\r\n\r\nAs an AI Practice Lead at SEP, he strives to educate clients and peers about what AI can do, identify complex problems AI can address in whole or in part, and incorporate AI into software products that make a difference for their users.\r\n\r\nHe currently lives in Carmel, Indiana with his wonderful wife, three rambunctious sons, and three dogs.\r\n",
+      "tagLine": "AI Practice Lead at SEP",
+      "profilePicture": "https://sessionize.com/image/4327-400o400o2-nntDrhduMjHZ856ok5W8wD.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/RobertHerbig",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/RobertHerbig",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.RobertHerbig.com/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        444660
+      ],
+      "fullName": "Robert Herbig",
       "categoryItems": [],
       "questionAnswers": []
     },

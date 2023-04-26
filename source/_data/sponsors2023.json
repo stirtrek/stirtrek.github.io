@@ -85,6 +85,12 @@
         "longDescription": "true",
         "description": "Callibrity is a software consultancy specializing in software engineering, digital transformation, cloud strategy, and data-driven insights. Our national reach serves clients on their digital journey to solve complex problems and create innovative solutions for ever-changing business models. Our technology experience covers a diverse set of industries with a focus on middle-market and enterprise companies.Callibrity is a software consultancy specializing in software engineering, digital transformation, cloud strategy, and data-driven insights. Our national reach serves clients on their digital journey to solve complex problems and create innovative solutions for ever-changing business models. Our technology experience covers a diverse set of industries with a focus on middle-market and enterprise companies.",
         "logo": "/images/sponsors/callibrity_350x200.jpg"
+      },
+      {
+        "name": "New Era",
+        "link": "https://www.neweratech.com/",
+        "description": "New Era Technology is a global managed technology solutions provider and serves as a trusted adviser to 12,000+ customers worldwide.",
+        "logo": "/images/sponsors/newera_350x200.png"
       }
     ]
   }

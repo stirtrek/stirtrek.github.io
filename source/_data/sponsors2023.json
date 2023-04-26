@@ -38,6 +38,12 @@
         "link": "https://www.cas.org/",
         "description": "CAS is a leader in scientific information solutions, partnering with innovators around the world to accelerate scientific breakthroughs. For over 100 years, scientists, patent professionals, and business leaders have relied on CAS solutions and expertise to provide the hindsight, insight, and foresight they need so they can build upon the learnings of the past to discover a better future. Connect with us at cas.org.​",
         "logo": "/images/sponsors/cas_350x200_v2.jpg"
+      },
+      {
+        "name": "Veeva",
+        "link": "https://www.veeva.com/",
+        "description": "Veeva Systems Inc. is a leader in cloud-based software for the global life sciences industry. Committed to innovation, product excellence, and customer success, Veeva has more than 875 customers, ranging from global brands to small startups.",
+        "logo": "/images/sponsors/veeva_350x200.jpg"
       }
     ],
     "silver": [

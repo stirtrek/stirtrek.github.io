@@ -1218,6 +1218,11 @@
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/brooke-sargent/",
           "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.honeycomb.io",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [
@@ -1291,14 +1296,19 @@
       "isTopSpeaker": false,
       "links": [
         {
-          "title": "Twitter",
-          "url": "https://twitter.com/freestylecoder",
-          "linkType": "Twitter"
+          "title": "Mastodon",
+          "url": "https://hachyderm.io/@freestylecoder",
+          "linkType": "Other"
         },
         {
-          "title": "Blog",
+          "title": "Twitch",
           "url": "https://twitch.tv/freestylecoder",
-          "linkType": "Blog"
+          "linkType": "Other"
+        },
+        {
+          "title": "YouTube",
+          "url": "https://www.youtube.com/@chris_gardner",
+          "linkType": "Other"
         }
       ],
       "sessions": [
@@ -2273,8 +2283,8 @@
       "id": "8500ffde-a07d-40ad-8c9f-e35b97359bee",
       "firstName": "Sierra",
       "lastName": "OBryan",
-      "bio": "Sierra is a Senior Software Engineer at Twitter, based in Cincinnati, OH, USA, focused primarily on native Android. She loves building beautiful and accessible Android apps, sharing knowledge with the community, and mentoring aspiring mobile developers. She is a Google Developer Expert for Android and serves as a director of Women Who Code Cincinnati, a global Leadership Fellow for Women Who Code Mobile, and a Women Techmakers Ambassador.",
-      "tagLine": "Android @ Twitter",
+      "bio": "Sierra is a Software Engineer at Clubhouse, based in Cincinnati, OH, USA, focused primarily on native Android. She loves building beautiful and accessible Android apps, sharing knowledge with the community, and mentoring aspiring mobile developers. She is a Google Developer Expert for Android and serves as a Director of Women Who Code Cincinnati, Director of Technology for getWITit (Women in Tech), Women Techmakers global Ambassador, and former global Leadership Fellow for Women Who Code Mobile.",
+      "tagLine": "Android @ Clubhouse ",
       "profilePicture": "https://sessionize.com/image/10ad-400o400o2-71xKbc39LZi6tkVP2BZH6K.png",
       "isTopSpeaker": false,
       "links": [

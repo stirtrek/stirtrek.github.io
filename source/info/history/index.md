@@ -81,9 +81,9 @@ Here's a trailer for you anyway.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ybji16u608U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### 2021 Nope
+### 2021 "Online without a movie edition"
 
-The time was not right.
+It wasn't yet time to get back together in person.
 
 ### 2022 "Dr. Strange Multiverse of Madness Edition"
 

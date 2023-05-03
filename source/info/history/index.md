@@ -57,9 +57,13 @@ I am Groot!
 
 ### 2018 "Avengers Infinity War Edition"
 
+Check out [Stir Trek 2018 sessions on YouTube](https://www.youtube.com/playlist?list=PLaHMqLt8nxCwOHEZ5bYa7IumdJw_W7j6v)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ZfuNTqbHE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 2019 "Avengers Endgame Edition"
+
+Check out [Stir Trek 2019 sessions on YouTube](https://www.youtube.com/playlist?list=PLaHMqLt8nxCzqwa2FdixqOGoulRMQRKvs)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TcMBFSGVi1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -68,6 +72,8 @@ I am Groot!
 ### 2021 Nope
 
 ### 2022 "Dr. Strange Multiverse of Madness Edition"
+
+Check out [Stir Trek 2022 sessions on YouTube](https://www.youtube.com/playlist?list=PLaHMqLt8nxCyfls7F6ITHA70oN3hrMi8_)!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aWzlQ2N6qqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

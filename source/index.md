@@ -9,9 +9,10 @@ title: Tech & a Flick
             <p class="date">Stir Trek - Columbus, OH</p>
             <p class="date">5/5/2023</p>
             <br>
-        <a class="registerNow" href="https://events.humanitix.com/stir-trek-2023">
+          <p>Ticket sales have closed for 2023</p>
+       <!-- <a class="registerNow" href="https://events.humanitix.com/stir-trek-2023">
             <p>Tickets on sale! <br> Only $170</p>
-        </a>
+        </a>-->
     </div>
      <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
@@ -96,6 +97,7 @@ title: Tech & a Flick
 * **3/15/2023** - [Regular Ticket Sales!!!](https://events.humanitix.com/stir-trek-2023)
 * **4/5/2023** - Last day for refunds
 * **4/9/2023** - Register for guaranteed on-time box arrival
+* **5/1/2023** - Last day to purchase tickets
 * **5/5/2023** - Stir Trek 2023!!!!
 <!--* **1/16/2022** - CFP opened
 * **2/5/2022**  - CFP **closed**

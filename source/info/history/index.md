@@ -43,7 +43,11 @@ After our original home theater upgraded their seats, reducing their seat count,
 
 ### 2015 "Avengers Age of Ultron Edition"
 
-Introducing "The Box". After years of trying to register hundreds of people before the start of the first session (usually with lines stretching around the building, usually in the rain), we decided to just send you everything ahead of time and let you just show up with a badge.
+Introducing "The Box".
+
+![attendees in line outside waiting to register for stir trek](/images/2013-stirtrek-registration-line.png)
+
+After years of trying to register hundreds of people before the start of the first session (usually with lines stretching around the building, usually in the rain), we decided to just send you everything ahead of time and let you just show up with a badge.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JAUoeqvedMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

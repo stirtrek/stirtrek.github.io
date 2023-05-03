@@ -43,6 +43,8 @@ After our original home theater upgraded their seats, reducing their seat count,
 
 ### 2015 "Avengers Age of Ultron Edition"
 
+Introducing "The Box". After years of trying to register hundreds of people before the start of the first session, we decided to just send you everything ahead of time and let you just show up with a badge.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JAUoeqvedMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 2016 "Captain America Civil War Edition"
@@ -76,6 +78,8 @@ Here's a trailer for you anyway.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ybji16u608U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 2021 Nope
+
+The time was not right.
 
 ### 2022 "Dr. Strange Multiverse of Madness Edition"
 

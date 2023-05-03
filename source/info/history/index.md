@@ -69,6 +69,12 @@ Check out [Stir Trek 2019 sessions on YouTube](https://www.youtube.com/playlist?
 
 ### 2020 "Black Widow Canceled By COVID Edition"
 
+In one of our toughest decisions, we decided to cancel the event in early 2020 as COVID was just gaining a foothold. In hindsight it was the right call but it was still tough for everyone involved in the event.
+
+Here's a trailer for you anyway.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ybji16u608U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### 2021 Nope
 
 ### 2022 "Dr. Strange Multiverse of Madness Edition"

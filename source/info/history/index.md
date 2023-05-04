@@ -23,13 +23,21 @@ The pivot from **Star Trek** to **Marvel** movies didn't take long...
 
 ### 2011 "Thor Edition"
 
+**6 May 2011** [2011 Website](https://web.archive.org/web/20110307025147/http://stirtrek.com/)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JOddp-nlNvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 2012 "Avengers Edition"
 
+**4 May 2012** [2012 Website](https://web.archive.org/web/20120416112229/http://www.stirtrek.com/Sessions)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NPoHPNeU9fc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 2013 "Star Trek Into Darkness and Iron Man 3 Edition"
+
+Our first and only double feature Stir Trek!
+
+**17 May 2013** [2013 Website](https://web.archive.org/web/20130522221622/http://stirtrek.com/speakers)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p8k7Sgn2otQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -37,11 +45,15 @@ The pivot from **Star Trek** to **Marvel** movies didn't take long...
 
 ### 2014 "Captain America Winter Soldier Edition"
 
+**4 April 2014** [2014 Website](https://web.archive.org/web/20140213183843/http://stirtrek.com/speakers)
+
 After our original home theater upgraded their seats, reducing their seat count, we had to move to Rave Motion Pictures at Polaris.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tbayiPxkUMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 2015 "Avengers Age of Ultron Edition"
+
+**1 May 2015** [2015 Website](https://web.archive.org/web/20150428032758/http://stirtrek.com/speakers)
 
 Introducing "The Box".
 
@@ -53,9 +65,13 @@ After years of trying to register hundreds of people before the start of the fir
 
 ### 2016 "Captain America Civil War Edition"
 
+**6 May 2016** [2016 Website](https://web.archive.org/web/20160510110435/http://stirtrek.com/speakers)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/43NWzay3W4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 2017 "Guardians of the Galaxy 2 Edition"
+
+**5 May 2017** [2017 Website](https://web.archive.org/web/20170710234420/https://stirtrek.com/Speakers)
 
 I am Groot!
 
@@ -63,11 +79,15 @@ I am Groot!
 
 ### 2018 "Avengers Infinity War Edition"
 
+**4 May 2018** [2018 Website](https://web.archive.org/web/20190203131956/http://stirtrek.com/Speakers/)
+
 Check out [Stir Trek 2018 sessions on YouTube](https://www.youtube.com/playlist?list=PLaHMqLt8nxCwOHEZ5bYa7IumdJw_W7j6v)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ZfuNTqbHE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 2019 "Avengers Endgame Edition"
+
+**26 April 2019** [2019 Website](https://stirtrek.com/speakers/2019.html)
 
 Check out [Stir Trek 2019 sessions on YouTube](https://www.youtube.com/playlist?list=PLaHMqLt8nxCzqwa2FdixqOGoulRMQRKvs)
 

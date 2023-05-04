@@ -81,7 +81,7 @@ I am Groot!
 
 For this event, we moved to the [Ohio State University's Schottenstein Center](https://www.schottensteincenter.com/), a huge change in venue with many logistical challenges and opportunities. On the plus side, there was PLENTY of room in the hallways for moving about and for sponsors. For the movie, we provided buses to the theaters at the nearby Lennox Town Center. And for the speakers - how many tech speakers get to say they did a sold-out show at the Schottenstein Center?
 
-![schottenstein center setup]("/images/2017-05-05-schottenstein-center-setup.jpg")
+![schottenstein center setup](/images/2017-05-05-schottenstein-center-setup.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u3V5KDHRQvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

@@ -13,7 +13,7 @@ Stir Trek has been a regular event in Columbus, Ohio since the first one in 2009
 
 **8 May 2009** [2009 Website](http://web.archive.org/web/20100420010154/http://www.stirtrek.com/Sessions.aspx)
 
-Our first event, held at the Marcus Crosswoods Theater.
+Our first event, held at the Marcus Crosswoods Theater. The movie was Star Trek, and the event was based on Microsoft's MIX event, which led to our name: *Stir* Trek.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K9etISZ69LQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

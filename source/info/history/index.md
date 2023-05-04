@@ -107,6 +107,8 @@ It wasn't yet time to get back together in person.
 
 ### 2022 "Dr. Strange Multiverse of Madness Edition"
 
+**6 May 2022** [2022 Website](https://stirtrek.com/speakers/2022.html)
+
 Check out [Stir Trek 2022 sessions on YouTube](https://www.youtube.com/playlist?list=PLaHMqLt8nxCyfls7F6ITHA70oN3hrMi8_)!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aWzlQ2N6qqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

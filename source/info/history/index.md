@@ -55,7 +55,11 @@ After our original home theater upgraded their seats, reducing their seat count,
 
 **1 May 2015** [2015 Website](https://web.archive.org/web/20150428032758/http://stirtrek.com/speakers)
 
-Introducing "The Box". After years of trying to register hundreds of people before the start of the first session (usually with lines stretching around the building, usually in the rain), we decided to just send you everything ahead of time and let you just show up with a badge.
+Introducing "The Box".
+
+![attendees in line outside waiting to register for stir trek](/images/2013-stirtrek-registration-line.png)
+
+After years of trying to register hundreds of people before the start of the first session (usually with lines stretching around the building, usually in the rain), we decided to just send you everything ahead of time and let you just show up with a badge.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JAUoeqvedMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -97,9 +101,9 @@ Here's a trailer for you anyway.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ybji16u608U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### 2021 Nope
+### 2021 "Online without a movie edition"
 
-The time was not right.
+It wasn't yet time to get back together in person.
 
 ### 2022 "Dr. Strange Multiverse of Madness Edition"
 

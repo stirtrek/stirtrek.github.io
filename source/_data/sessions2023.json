@@ -1359,8 +1359,8 @@
       "id": "2b6c01c1-02ec-4b51-8eb1-a7d86d50687b",
       "firstName": "Dave",
       "lastName": "Klein",
-      "bio": "After 28 years as a developer, architect, project manager (recovered), author, trainer, conference organizer, and homeschooling dad, Dave landed his dream job as a Developer Advocate with Confluent. Dave is marveling in and eager to help others explore the amazing world of event streaming with Apache Kafka!",
-      "tagLine": "Developer Advocate with Confluent",
+      "bio": "Dave is a Senior Developer Advocate with Quix, where he helps Python developers take advantage of streaming data. Before joining Quix, he was a Senior Developer Advocate with Confluent, an application developer, project manager (recovered), trainer, conference speaker, co-author of Kafka in Action, and a homeschooling father of fourteen children. If he had any spare time, he’d enjoy hiking, reading, and playing with the grandchildren.",
+      "tagLine": "Senior Developer Advocate at Quix",
       "profilePicture": "https://sessionize.com/image/eb76-400o400o2-PQAFmEVut5hpjf3tFhiHHX.JPEG",
       "isTopSpeaker": false,
       "links": [
@@ -1623,6 +1623,11 @@
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/homergaines",
           "linkType": "LinkedIn"
+        },
+        {
+          "title": "Bluesky",
+          "url": "https://bsky.app/profile/xirclebox.com",
+          "linkType": "Other"
         }
       ],
       "sessions": [
@@ -1783,6 +1788,11 @@
           "title": "Blog",
           "url": "https://www.josephguadagno.net",
           "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.josephguadagno.net",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [

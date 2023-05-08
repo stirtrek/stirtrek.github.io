@@ -9,9 +9,9 @@ title: Tech & a Flick
             <p class="date">Stir Trek - Columbus, OH</p>
             <p class="date">5/5/2023</p>
             <br>
-          
+       <!--   
           <p><a href="https://events.humanitix.com/stir-trek-2023-additional-movie-pass">Plus One tickets for the movie tonight</a></p>
-       <!-- <a class="registerNow" href="https://events.humanitix.com/stir-trek-2023">
+        <a class="registerNow" href="https://events.humanitix.com/stir-trek-2023">
             <p>Tickets on sale! <br> Only $170</p>
         </a>-->
     </div>

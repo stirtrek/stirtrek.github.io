@@ -5,22 +5,21 @@ title: Tech & a Flick
 
 {% raw %}
 <div class="row" id="stirTrekHeroContainer">
-     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-            <p class="date">Stir Trek - Columbus, OH</p>
-            <p class="date">5/5/2023</p>
-            <br>
-       <!--   
-          <p><a href="https://events.humanitix.com/stir-trek-2023-additional-movie-pass">Plus One tickets for the movie tonight</a></p>
-        <a class="registerNow" href="https://events.humanitix.com/stir-trek-2023">
-            <p>Tickets on sale! <br> Only $170</p>
-        </a>-->
-    </div>
      <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
-        <p class="date">5 May 2023</p>
+        <p class="date">5/3/2024</p>
         <br>
-        <p>Call for speakers opens on January 15th!</p>
+        <p><a href="https://events.humanitix.com/stir-trek-2023-additional-movie-pass">Plus One tickets for the movie tonight</a></p>
+        <a class="registerNow" href="https://events.humanitix.com/stir-trek-2023">
+            <p>Tickets on sale! <br> Only $170</p>
+        </a>
     </div> -->
+     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+        <p class="date">Stir Trek - Columbus, OH</p>
+        <p class="date">5/3/2024</p>
+        <br>
+        <p>Call for speakers opens on January 14th!</p>
+    </div>
     <!--
     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <a href="https://stirtrek2022.eventbrite.com/" class="date" target="_blank" rel="noopener noreferrer">
@@ -43,7 +42,7 @@ title: Tech & a Flick
             What Is Stir Trek?
         </div>
         <div class="comic-panel-body with-header">
-            Stir Trek is a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a screening of a blockbuster film on its <i>(originally scheduled)</i> opening day. Pretty sweet, huh?
+            Stir Trek is a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a screening of a blockbuster film on its <i>(originally scheduled)</i> opening day. <i>(Editor's note: 2024 may be less predictable than normal re: film release dates.)</i> Pretty sweet, huh?
             <br>
             <br>
             <a href="https://goo.gl/maps/wVdUQNDfXd9Zxd2P8">AMC Easton 30</a>, Columbus, OH
@@ -55,7 +54,7 @@ title: Tech & a Flick
             <ul>
                 <li>48 Sessions of critical content</li>
                 <li>Well-known regional &amp; national Speakers</li>
-                <li>Screening of Marvel's <a href="https://www.youtube.com/watch?v=br4CsE-w8pA">Guardians of the Galaxy Volume 3</a></li>
+                <li>Screening of something awesome, TBD</li>
                 <li>Breakfast and Lunch</li>
                 <li>Refreshments during the movie</li>
                 <li>Registration box with fun bonus swag</li>
@@ -91,25 +90,16 @@ title: Tech & a Flick
         </div>
         <div class="comic-panel-body with-header small">
 {% endraw %}
-* **11/28/2022** - Call for sponsors opens
-* **1/15/2023** - Call for speakers opens
-* **2/18/2023** - Call for speakers closes!
-* **3/7/2023 2pm EST** - [Early Bird Ticket Sales!!](https://events.humanitix.com/stir-trek-2023)
-* **3/15/2023** - [Regular Ticket Sales!!!](https://events.humanitix.com/stir-trek-2023)
-* **4/5/2023** - Last day for refunds
-* **4/9/2023** - Register for guaranteed on-time box arrival
-* **5/1/2023** - Last day to purchase tickets
-* **5/5/2023** - Stir Trek 2023!!!!
-<!--* **1/16/2022** - CFP opened
-* **2/5/2022**  - CFP **closed**
-* **2/26/2022** - CFP notification goal date
-* **3/8/2022** - Tickets go on sale - [Buy them here](https://stirtrek2022.eventbrite.com/)
-    * Additional movie-only tickets [can be bought here](https://stirtrek2022extramoviepass.eventbrite.com/)
-* **4/15/2022** - Last day to update your food order on Eventbrite-->
+* **Open!** - Call for sponsors opens
+* **1/14/2024** - Call for speakers opens
+* **1/28/2024** - Call for speakers closes *(Note, this is only 2 weeks this year so don't procrastinate!)*
+* **TBD** - Early bird ticket sales start
+* **TBD** - Regular ticket sales start
+* **TBD** - Last day for refunds
+* **TBD** - Register for guaranteed on-time box arrival
+* **TBD** - Last day to purchase tickets
+* **5/3/2024** - Stir Trek 2024!!!!
 {% raw %}
-<!-- 
-* **TBD** - Last day to edit shipping information
-* **TBD** - Boxes begin shipping -->
         </div>
     </div>  
 <div class="col-md-6">

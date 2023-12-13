@@ -1,6 +1,6 @@
 ---
 title: Speakers
-year: 2023
+year: 2024
 alias:
 - speakers/index.html
 - speakers/

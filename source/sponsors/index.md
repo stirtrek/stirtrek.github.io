@@ -11,7 +11,7 @@ alias:
 
 <div class="icon-hr"></div>
 
-We're excited to be back in full force in 2023! You can view our [sponsorship prospectus](https://drive.google.com/open?id=14NilIN9NN2gEboACPzojkrdPwPCDEc1e&authuser=rick%40stirtrek.com&usp=drive_fs) for opportunities and you can [reserve your spot](https://stirtreksponsor.myshopify.com/) through our sponsorship portal today!
+We're excited to be back in full force in 2024! You can view our [sponsorship prospectus](https://drive.google.com/file/d/1-1NrfQJiD-gHcDh3XIcT3Va4Yr7ZHaR5/view?mc_cid=6892647fd9) for opportunities and you can [reserve your spot](https://stirtreksponsor.myshopify.com/) through our sponsorship portal today!
 
 <br><br>
 
@@ -19,7 +19,7 @@ Please contact us at [sponsors@stirtrek.com](mailto:sponsors@stirtrek.com) with 
 
 <br><br>
 
-## 2023 Sponsors And Partners
+## 2024 Sponsors And Partners
 
 <div class="icon-hr"></div>
 

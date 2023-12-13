@@ -28,7 +28,7 @@ alias:
     }
 </style>
 
-# 2023 Schedule
+# 2024 Schedule
 
 <div class="icon-hr"></div>
 

@@ -13,7 +13,7 @@ alias:
 
 We're excited to be back in full force in 2024! You can view our [sponsorship prospectus](https://drive.google.com/file/d/1-1NrfQJiD-gHcDh3XIcT3Va4Yr7ZHaR5/view?mc_cid=6892647fd9) for opportunities and you can [reserve your spot](https://stirtreksponsor.myshopify.com/) through our sponsorship portal today!
 
-<br><br>
+<br>
 
 Please contact us at [sponsors@stirtrek.com](mailto:sponsors@stirtrek.com) with any questions.
 

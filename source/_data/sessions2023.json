@@ -14,7 +14,9 @@
       "roomId": 34314,
       "liveUrl": null,
       "recordingUrl": null,
-      "status": null
+      "status": null,
+      "isInformed": false,
+      "isConfirmed": false
     },
     {
       "id": "446618",
@@ -33,8 +35,10 @@
       "questionAnswers": [],
       "roomId": 34317,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=wZ09CNEzhsY&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=16",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "431072",
@@ -53,8 +57,10 @@
       "questionAnswers": [],
       "roomId": 34318,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=-ZBLpDB607M&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=7",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "436867",
@@ -73,8 +79,10 @@
       "questionAnswers": [],
       "roomId": 32099,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=KlVgr0BaA0c&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=21",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "433947",
@@ -93,8 +101,10 @@
       "questionAnswers": [],
       "roomId": 32098,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=2UrziHpR5vY&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=36",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "445363",
@@ -113,8 +123,10 @@
       "questionAnswers": [],
       "roomId": 34315,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=u5xYfZUfhLE&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=13",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "442371",
@@ -133,8 +145,10 @@
       "questionAnswers": [],
       "roomId": 34316,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=DqBhFkf2Y-o&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=42",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "433358",
@@ -153,8 +167,10 @@
       "questionAnswers": [],
       "roomId": 34319,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=AYOEEPB4pE0&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=29",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "448316",
@@ -173,8 +189,10 @@
       "questionAnswers": [],
       "roomId": 34320,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=hr--Nkc6ORc&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=48",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "431084",
@@ -193,8 +211,10 @@
       "questionAnswers": [],
       "roomId": 34317,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=NWJ5XWm8emc&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=15",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "450233",
@@ -213,8 +233,10 @@
       "questionAnswers": [],
       "roomId": 34318,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=tsGvnDENNMA&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=6",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "430037",
@@ -233,8 +255,10 @@
       "questionAnswers": [],
       "roomId": 32099,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=yNxnfIy9N6M&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=34",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "449170",
@@ -253,8 +277,10 @@
       "questionAnswers": [],
       "roomId": 32098,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=epvmLj0-stQ&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=35",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "445279",
@@ -273,8 +299,10 @@
       "questionAnswers": [],
       "roomId": 34315,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=QAM19nmLCNk&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=12",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "438201",
@@ -293,8 +321,10 @@
       "questionAnswers": [],
       "roomId": 34316,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=yxw5DiQpmJc&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=41",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "443462",
@@ -313,8 +343,10 @@
       "questionAnswers": [],
       "roomId": 34319,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=dQ-j8YX-Wjw&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=28",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "435644",
@@ -333,8 +365,10 @@
       "questionAnswers": [],
       "roomId": 34320,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=tdC7CAfoN4I&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=47",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "448009",
@@ -353,8 +387,10 @@
       "questionAnswers": [],
       "roomId": 34317,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=5SmaJW_LzYQ&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=14",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "444997",
@@ -373,8 +409,10 @@
       "questionAnswers": [],
       "roomId": 34318,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=DyEOrN76ly4&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=20",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "436852",
@@ -393,8 +431,10 @@
       "questionAnswers": [],
       "roomId": 32099,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=kIP618xSsms&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=33",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "448383",
@@ -413,8 +453,10 @@
       "questionAnswers": [],
       "roomId": 32098,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=cZWvwW8QiyA&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=49",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "430112",
@@ -433,8 +475,10 @@
       "questionAnswers": [],
       "roomId": 34315,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=TmC-dZnSjgs&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=11",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "449862",
@@ -453,8 +497,10 @@
       "questionAnswers": [],
       "roomId": 34316,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=EBSE21YnbEU&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=40",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "432453",
@@ -473,8 +519,10 @@
       "questionAnswers": [],
       "roomId": 34319,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=U1uqMYmNdyI&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=27",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "434806",
@@ -493,8 +541,10 @@
       "questionAnswers": [],
       "roomId": 34320,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=zJpm44Bb-Kw&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=46",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "105f0807-90e0-4688-9a6e-9a0549729278",
@@ -510,7 +560,9 @@
       "roomId": 34314,
       "liveUrl": null,
       "recordingUrl": null,
-      "status": null
+      "status": null,
+      "isInformed": false,
+      "isConfirmed": false
     },
     {
       "id": "444660",
@@ -530,8 +582,10 @@
       "questionAnswers": [],
       "roomId": 34317,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=LAx5Rr8Hkss&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=5",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "431794",
@@ -550,8 +604,10 @@
       "questionAnswers": [],
       "roomId": 34318,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=-CNhNPxFqeE&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=19",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "442176",
@@ -570,8 +626,10 @@
       "questionAnswers": [],
       "roomId": 32099,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=0T0WhEHL5WQ&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=32",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "430072",
@@ -590,8 +648,10 @@
       "questionAnswers": [],
       "roomId": 32098,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=cfer1F-K8zw&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=24",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "449946",
@@ -610,8 +670,10 @@
       "questionAnswers": [],
       "roomId": 34315,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=9vBVMs5zuRU&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=10",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "434401",
@@ -630,8 +692,10 @@
       "questionAnswers": [],
       "roomId": 34316,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=F9YIZRLmePw&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=39",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "450213",
@@ -650,8 +714,10 @@
       "questionAnswers": [],
       "roomId": 34319,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=g6cjCbxq54Y&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=3",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "445152",
@@ -670,8 +736,10 @@
       "questionAnswers": [],
       "roomId": 34320,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=yY6fIEK9vwM&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=45",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "450221",
@@ -690,8 +758,10 @@
       "questionAnswers": [],
       "roomId": 34317,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=aECu3GU2dhE&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=4",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "430133",
@@ -710,8 +780,10 @@
       "questionAnswers": [],
       "roomId": 34318,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=LKvO__OarOw&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=18",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "443439",
@@ -730,8 +802,10 @@
       "questionAnswers": [],
       "roomId": 32099,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=4CjgffjPWxs&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=31",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "431413",
@@ -750,8 +824,10 @@
       "questionAnswers": [],
       "roomId": 32098,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=Z_-1cRPptDA&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=22",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "450242",
@@ -770,8 +846,10 @@
       "questionAnswers": [],
       "roomId": 34315,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=lOmhnU51sQM&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=9",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "431085",
@@ -790,8 +868,10 @@
       "questionAnswers": [],
       "roomId": 34316,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=BJUovcwMYYw&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=38",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "442240",
@@ -810,8 +890,10 @@
       "questionAnswers": [],
       "roomId": 34319,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=9Vgd40ZLHC0&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=26",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "449820",
@@ -830,8 +912,10 @@
       "questionAnswers": [],
       "roomId": 34320,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=8V1yqRfrI3k&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=44",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "429998",
@@ -850,8 +934,10 @@
       "questionAnswers": [],
       "roomId": 34317,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=G2KKkvl6HzY&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "433539",
@@ -870,8 +956,10 @@
       "questionAnswers": [],
       "roomId": 34318,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=tt5grBqRSVU&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=17",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "447976",
@@ -890,8 +978,10 @@
       "questionAnswers": [],
       "roomId": 32099,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=Ij59AkhlsMs&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=30",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "432666",
@@ -910,8 +1000,10 @@
       "questionAnswers": [],
       "roomId": 32098,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=Z_-1cRPptDA&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=22",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "441532",
@@ -930,8 +1022,10 @@
       "questionAnswers": [],
       "roomId": 34315,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=HakMmYl47aY&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=8",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "437961",
@@ -950,8 +1044,10 @@
       "questionAnswers": [],
       "roomId": 34316,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=WNHHJJTXJBQ&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=37",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "441316",
@@ -970,8 +1066,10 @@
       "questionAnswers": [],
       "roomId": 34319,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=rN6kOPUEicE&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=25",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "431063",
@@ -990,8 +1088,10 @@
       "questionAnswers": [],
       "roomId": 34320,
       "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted"
+      "recordingUrl": "https://www.youtube.com/watch?v=_faHxmWGDLU&list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_&index=43",
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
       "id": "5d634a16-cba6-4e78-993f-a518d7f2c394",
@@ -1007,7 +1107,9 @@
       "roomId": 34314,
       "liveUrl": null,
       "recordingUrl": null,
-      "status": null
+      "status": null,
+      "isInformed": false,
+      "isConfirmed": false
     }
   ],
   "speakers": [
@@ -1017,7 +1119,7 @@
       "lastName": "Finnarn",
       "bio": "Alex has always been a pragmatic contrarian experiencing his first case of JS fatigue debugging the build of a simple static site. Ever since he's been searching for simple solutions to common problems across many languages and stacks. In his spare time, you can find Alex picking up spares while bowling, mindfully mindlessly playing instruments, or catching Criterion Channel classics.",
       "tagLine": "Engineer at CivicActions",
-      "profilePicture": "https://sessionize.com/image/a616-400o400o2-DUrjhYGGdPud8VHwkdzcS5.png",
+      "profilePicture": "https://sessionize.com/image/b77f-400o400o1-DUrjhYGGdPud8VHwkdzcS5.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1049,7 +1151,7 @@
       "lastName": "O'Mara",
       "bio": "Amanda O'Mara is the Ohio Regional Manager for the Microsoft TEALS Philanthropic Program, which places industry volunteers in high school classrooms to support classroom teachers as they learn how to teach computer science. She is a former middle school technology and engineering teacher at Bio Med Science Academy, a STEM designated independent public school in Rootstown, OH. ",
       "tagLine": "Ohio Regional Manager - Microsoft TEALS Philanthropic Program",
-      "profilePicture": "https://sessionize.com/image/41e3-400o400o2-TqHWPrnGRFT2VBUHCK7UtZ.jpg",
+      "profilePicture": "https://sessionize.com/image/05c4-400o400o1-TqHWPrnGRFT2VBUHCK7UtZ.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1071,7 +1173,7 @@
       "lastName": "May",
       "bio": "Andrew has been consulting as an architect for Leading EDJE for 15  years, and has specialized in Cloud Platforms and Cloud-Native architecture for the last 8 years. He's a stickler for detail, and a fierce code reviewer. Originally from the UK, Andrew's accent has settled somewhere in the mid-Atlantic.",
       "tagLine": "Cloud Lead and Senior Solutions Architect at Leading EDJE",
-      "profilePicture": "https://sessionize.com/image/3ff0-400o400o2-BUh7aMr33kj34wAQVfdws.jpg",
+      "profilePicture": "https://sessionize.com/image/5963-400o400o1-BUh7aMr33kj34wAQVfdws.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1103,7 +1205,7 @@
       "lastName": "Hawrot Weigel",
       "bio": "Bekah graduated from the Flatiron School Software Engineering program in May of 2019 and since then has spent time as a frontend developer, started the Virtual Coffee developer community, and has continued to mom her four kids. She currently co-hosts the Virtual Coffee podcast, tries to work on her postpartum wellness OSS project, and lifts heavy things in her free time. In 2022, she officially joined the DevRel world as the Technical Community Building for Deepgram.",
       "tagLine": "Virtual Coffee, Creator and Maintainer | Frontend Dev ",
-      "profilePicture": "https://sessionize.com/image/8c28-400o400o2-QSzRWAxdtoYhqzBfuFS8J5.jpg",
+      "profilePicture": "https://sessionize.com/image/2cac-400o400o1-QSzRWAxdtoYhqzBfuFS8J5.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1120,6 +1222,11 @@
           "title": "Blog",
           "url": "https://bekahhw.github.io/",
           "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://opensauced.pizza/",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [
@@ -1135,7 +1242,7 @@
       "lastName": "Enrick",
       "bio": "I've been speaking about coding for over a decade. Everything changes, but everything is the same. \r\n\r\nI write code to solve problems, and I try to leave things nicer than I found them. I have fun while doing it. Let's write code and talk about code together!",
       "tagLine": "Mentoring, Training, and Coaching Developers",
-      "profilePicture": "https://sessionize.com/image/a64f-400o400o2-Nhbh9sAeXRqYKpaBuHA3Tq.png",
+      "profilePicture": "https://sessionize.com/image/ff1e-400o400o1-Nhbh9sAeXRqYKpaBuHA3Tq.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1162,7 +1269,7 @@
       "lastName": "Gorman",
       "bio": "Brian is a Microsoft Azure MVP and is an experienced speaker, author, trainer, and .Net developer with MCSA: Web App Certification, MCSD: App Builder, and eleven Azure certifications including Azure Developer, Administrator, DevOps, Architect, Data Administrator, Security, IoT, CosmosDB, and a number of fundamentals, and has been an MCT since 2018. Brian has a masters of science degree in computer information systems, and a bachelor of science degree in computer science. Additionally, Brian has over ten years of experience instructing college courses online in SQL databases, C#/VB.Net/and Java object-oriented programming, and Microsoft Office. Brian has created many online technical training courses that can be found online on various platforms.  Brian has also published a book with APress entitled \"Practical Entity Framework\"  The second edition of the book targeting .Net Core 6 was released in late November of 2021.  Brian has a new book slated to be released in 2023 on the AZ-204 Exam.",
       "tagLine": "Microsoft Azure MVP, Speaker, Author, Trainer, and .Net Developer",
-      "profilePicture": "https://sessionize.com/image/f7f1-400o400o2-78Guf1D4AufM9RDKeHfdeo.jpg",
+      "profilePicture": "https://sessionize.com/image/22ae-400o400o1-78Guf1D4AufM9RDKeHfdeo.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1184,7 +1291,7 @@
       "lastName": "Riazzi",
       "bio": "Brian is a software engineer out of Columbus OH. He has 10 years experience with a focus on JavaScript and other frontend techologies. As a consultant at Insight Brian enjoys giving presentations to coworkers and clients about exciting new technologies in order to keep everyone's skills sharp! When not at work Brian is trying to find new restaurants to try, wrangling his kids, or finding time to snuggle up with his dogs on the couch and play a good video game.",
       "tagLine": "Insight Senior Software Developer",
-      "profilePicture": "https://sessionize.com/image/8f74-400o400o2-3PCaYvnDLMFvN3k4ADZcv9.jpg",
+      "profilePicture": "https://sessionize.com/image/6d45-400o400o1-3PCaYvnDLMFvN3k4ADZcv9.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1206,7 +1313,7 @@
       "lastName": "Sargent",
       "bio": "Brooke is currently a software engineer working on observability at Honeycomb. Previously, she worked on e-commerce and IoT at Procter & Gamble as an engineering manager. In her spare time, she can be found in the kitchen on a quest to master baking the perfect pie.",
       "tagLine": "Software Engineer @ honeycomb.io",
-      "profilePicture": "https://sessionize.com/image/b7f2-400o400o2-sBgXNAk9CbKpgsiBymvheZ.jpg",
+      "profilePicture": "https://sessionize.com/image/c16e-400o400o1-sBgXNAk9CbKpgsiBymvheZ.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1238,7 +1345,7 @@
       "lastName": "Smith",
       "bio": "I am a technical lead at Microsoft working with design systems and web components.\r\n\r\nI am also the creator of various open-source projects like Kickstand UI (a design system built with web components - kickstand-ui.com) and Clarion (a style framework for managing design systems - projectclarion.com).\r\n\r\nIn my free time, I love spending time with my wife and three daughters, practicing martial arts, jamming on my ukulele, and learning new things (usually about software engineering)",
       "tagLine": "Senior Software Engineer, Bunzl North America",
-      "profilePicture": "https://sessionize.com/image/6696-400o400o2-SPrJ8vsu59wWXGQtZ24iCT.jpg",
+      "profilePicture": "https://sessionize.com/image/eabb-400o400o1-SPrJ8vsu59wWXGQtZ24iCT.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1250,6 +1357,16 @@
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/burton-smith-48132a34/",
           "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://dev.to/stuffbreaker",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.microsoft.com/",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [
@@ -1265,7 +1382,7 @@
       "lastName": "DeMars",
       "bio": "Chris DeMars is a Developer Advocate at Split Software. He has over 20 years of technical experience and speaks all over the world on web accessibility, and CSS. For his community contributions, he holds awards as a Microsoft MVP, Google Developer Expert, Cloudinary Media Developer Expert, Auth0 Ambassador, and Progress Ninja. Chris advocates, teaches, and speaks on web accessibility as well as modern CSS; building applications with both at the forefront. When he is not working on making the web great and accessible you can find him writing blog posts, rating Detroit Style pizza, and watching Horror movies.",
       "tagLine": "Developer Advocate at Split Software",
-      "profilePicture": "https://sessionize.com/image/a468-400o400o2-NQj6Nv3Kv9v3zfLajKh9iE.jpeg",
+      "profilePicture": "https://sessionize.com/image/e9c3-400o400o1-NQj6Nv3Kv9v3zfLajKh9iE.jpeg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1277,6 +1394,11 @@
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/chrisdemars/",
           "linkType": "LinkedIn"
+        },
+        {
+          "title": "Dev Advocate Profile",
+          "url": "https://bit.ly/dev-advocate-profile",
+          "linkType": "Other"
         }
       ],
       "sessions": [
@@ -1292,7 +1414,7 @@
       "lastName": "Gardner",
       "bio": "Chris Gardner is a Senior Products and Platform Engineering Manager for Accenture, the Chairman of the DevSpace Technical Conference and a regular coder. Tortured by years of contracts that valued buzzwords over results, Chris has developed a true passion for finding solutions that fit the problem, not the technology of the week. Chris received his M.S in Computer Science, B.S. in Mathematics, and B.A. in Philosophy from the University of Alabama in Huntsville and is currently a Microsoft Certified Solutions Developer, Professional Developer, Information Technology Professional and Trainer.",
       "tagLine": "Coder",
-      "profilePicture": "https://sessionize.com/image/b676-400o400o2-PhCn2cpwki4RAmGVe6G7XR.png",
+      "profilePicture": "https://sessionize.com/image/7fba-400o400o1-PhCn2cpwki4RAmGVe6G7XR.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1324,7 +1446,7 @@
       "lastName": "Synadinos",
       "bio": "For more than 25 years, Damian Synadinos helped “build better software and build software better”. Now, through his company Ineffable Solutions (Ineffable-Solutions.com), he helps “build better people”. Damian is an international speaker and trainer, delivering keynotes, talks, and workshops that are fun and focused on fundamental topics and people-skills, based on real-world experience, and supplemented with deep research. His diverse experience spans many roles, companies, and industries, including airline, retail, insurance, finance, e-commerce, and commercial realty. Damian also helped organize the \"QA or the Highway\" testing conference (QAortheHighway.com) from 2014-2020, has over 10 years of theatrical improv experience, authored and illustrated a children’s book, “Hank and Stella in Something from Nothing” (HankAndStellaBooks.com), substitute teaches at primary schools, and draws strangers for fun (IDrawStrangers.com).",
       "tagLine": "building better software, and building software better",
-      "profilePicture": "https://sessionize.com/image/9526-400o400o2-3CyjyrZNf1Lhgf9qfeWK4q.png",
+      "profilePicture": "https://sessionize.com/image/cb57-400o400o1-3CyjyrZNf1Lhgf9qfeWK4q.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1361,7 +1483,7 @@
       "lastName": "Klein",
       "bio": "Dave is a Senior Developer Advocate with Quix, where he helps Python developers take advantage of streaming data. Before joining Quix, he was a Senior Developer Advocate with Confluent, an application developer, project manager (recovered), trainer, conference speaker, co-author of Kafka in Action, and a homeschooling father of fourteen children. If he had any spare time, he’d enjoy hiking, reading, and playing with the grandchildren.",
       "tagLine": "Senior Developer Advocate at Quix",
-      "profilePicture": "https://sessionize.com/image/eb76-400o400o2-PQAFmEVut5hpjf3tFhiHHX.JPEG",
+      "profilePicture": "https://sessionize.com/image/e499-400o400o1-PQAFmEVut5hpjf3tFhiHHX.JPEG",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1398,7 +1520,7 @@
       "lastName": "Levitt",
       "bio": "\r\nDebbie Levitt, MBA, is the CXO of Delta CX, and since the mid-1990s has been a CX and UX consultant focused on strategy, research, training, and Human-Centered Design/User-Centered Design. She’s a change agent and business design consultant focused on helping companies of all sizes transform towards customer-centricity while using principles of Agile and Lean.\r\n\r\nShe has worked in various CX and UX leadership and individual contributor roles at companies including Wells Fargo, Macy’s, StepStone, Sony Mobile, and Constant Contact. In the 2010s, San Francisco UX and marketing agencies had Debbie on speed dial. She completed projects for Traction, Fjord, LIFT, Rauxa, ROI·DNA, and Fiddlehead.\r\n\r\nClients have given her the nickname, “Mary Poppins,” because she flies in, improves everything she can, sings a few songs, and flies away to her next adventure.\r\n\r\nHer new book, “Customers Know You Suck,” (2022) is the customer-centricity how-to manual. Start investigating what’s holding you back from improving customer-centricity. Learn how to be value-led: how much value we can frequently create for potential and current customers. In 2016, she became an O’Reilly author, but has since chosen to self-publish, and now has her own publishing imprint, Delta CX Media.\r\n\r\nOutside of CX work, and sometimes during CX work, Debbie enjoys singing symphonic prog goth metal, opera, and New Wave. You can also catch her on the Delta CX YouTube channel.\r\n",
       "tagLine": "CXO of Delta CX",
-      "profilePicture": "https://sessionize.com/image/7065-400o400o2-4ZnDT5fSesQfFe3Yun2PH7.png",
+      "profilePicture": "https://sessionize.com/image/36d5-400o400o1-4ZnDT5fSesQfFe3Yun2PH7.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1430,7 +1552,7 @@
       "lastName": "Pham",
       "bio": "Diana joined Vonage’s DevRel team shortly after completing her master's in computer science at Northeastern University. Prior to grad school, she had never truly coded in her life. After interning with multiple companies and creating a YouTube series for one of them, Diana found her calling in advocacy. Now she works on the Outreach team as a developer advocate based in New York. She also loves petting farm animals, trying new foods, and pole dancing.",
       "tagLine": "Developer Advocate at Vonage",
-      "profilePicture": "https://sessionize.com/image/9938-400o400o2-4kTaxiXUCZYFnHVZRMst5G.jpg",
+      "profilePicture": "https://sessionize.com/image/634d-400o400o1-4kTaxiXUCZYFnHVZRMst5G.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1467,7 +1589,7 @@
       "lastName": "Grootenboer",
       "bio": "Eldert is always enthusiastic about embarking on new journeys with the Cloud, and Azure in particular. He is very passionate about growing his dreams and teams, and goes above and beyond to help those with the same spark. Eldert comes from a background as a cloud solution architect and Technology Lead, was an Azure MVP for 5 consecutive years, and is now working as a Senior Program Manager at Microsoft for Azure Service Bus. In these roles he has demonstrated experience in building and maintaining relationships at all levels.\r\n\r\nAlways having a smile on his face, Eldert can be found delivering noteworthy sessions at in-person conferences, meetups, and online platforms. He values sharing and spreading knowledge while building genuine connections regardless of background and expertise. His goal is to bring people closer and work together to influence the outcome and optimize the future of Cloud technologies.\r\n\r\nApart from public speaking, Eldert shows his passion for being involved with the community in other ways as well. As such, he can often be found doing mentoring, organizing conferences and meetups, blogging, writing, and more. He loves telling about his journey and hearing other people’s stories. When meeting people he always looks forward to getting to know about their passions and how he can help them.",
       "tagLine": "Senior Program Manager @Microsoft | #Azure Service Bus | Former #Azure MVP | Community Enthousiast",
-      "profilePicture": "https://sessionize.com/image/a215-400o400o2-PkYjFEGLvknBFThfFXDUS1.png",
+      "profilePicture": "https://sessionize.com/image/ca5d-400o400o1-PkYjFEGLvknBFThfFXDUS1.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1499,7 +1621,7 @@
       "lastName": "Loper",
       "bio": "Georgia Loper loves the web. She champions frontend excellence at Upstart by empowering teams to engineer quality user experiences with Patina Design System.",
       "tagLine": "Senior Software Engineer, Design Systems",
-      "profilePicture": "https://sessionize.com/image/55b9-400o400o2-JoaEJce8KjNtsH8BiNW8LK.jpg",
+      "profilePicture": "https://sessionize.com/image/f7b5-400o400o1-JoaEJce8KjNtsH8BiNW8LK.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1531,7 +1653,7 @@
       "lastName": "Harmon Jr.",
       "bio": "I'm a Father, Husband, Cyclist, Software Engineer, and Champion of Tough Conversations.",
       "tagLine": "VP Engineering Decision Desk HQ",
-      "profilePicture": "https://sessionize.com/image/e1ba-400o400o2-ffc4TRC4X7nUNbbsc3BPxp.jpeg",
+      "profilePicture": "https://sessionize.com/image/a37f-400o400o1-ffc4TRC4X7nUNbbsc3BPxp.jpeg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1558,7 +1680,7 @@
       "lastName": "Royse",
       "bio": "Guy works for Redis as a Developer Advocate. Combining his decades of experience in writing software with a passion for learning—and for sharing what he has learned—Guy explores interesting topics and spreads the knowledge he has gained around developer communities worldwide.\r\n\r\nTeaching and community have long been a focus for Guy. He runs his local JavaScript meetup in Ohio and has served on the selection committees of numerous conferences. He'll happily speak anywhere that will have him and has even has helped teach programming at a prison in central Ohio.\r\n\r\nIn his personal life, Guy is a hard-boiled geek interested in role-playing games, science fiction, and technology. He also has a slightly less geeky interest in history and linguistics. In his spare time he likes to camp and studies history and linguistics.\r\n\r\nGuy lives in Ohio with his wife, his sons, and an entire wall of board and role-playing games.",
       "tagLine": "Developer Advocate at Redis",
-      "profilePicture": "https://sessionize.com/image/4ff6-400o400o2-ca-b2d3-47c3-8475-c25bb2b257f7.46c617ba-de75-407a-82ad-9cafa721d559.jpg",
+      "profilePicture": "https://sessionize.com/image/9305-400o400o1-ca-b2d3-47c3-8475-c25bb2b257f7.46c617ba-de75-407a-82ad-9cafa721d559.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1568,7 +1690,7 @@
         },
         {
           "title": "LinkedIn",
-          "url": "https://www.linkedin.com/feed/",
+          "url": "https://www.linkedin.com/in/groyse",
           "linkType": "LinkedIn"
         },
         {
@@ -1595,7 +1717,7 @@
       "lastName": "Murphy",
       "bio": "Architect, Developer, PM and Pumpkin Ale expert but not necessarily in that order. Heath has been a leader in the IT industry for over 20 years and has presented at multiple conferences around the great lakes region. He’s from Columbus, Ohio and therefore bleeds scarlet and grey, Go Buckeyes! These days, he works as a director and people leader for CGI, one of the largest IT and business consulting services firms in the world. Racing fast cars, building stupid expensive gaming computers, and manicuring a perfect home lawn round out his hobbies.",
       "tagLine": "Director, Consulting Services for CGI",
-      "profilePicture": "https://sessionize.com/image/0a8d-400o400o2-4xmkNBqfs2c5BsiDggccUd.jpg",
+      "profilePicture": "https://sessionize.com/image/ba80-400o400o1-4xmkNBqfs2c5BsiDggccUd.jpg",
       "isTopSpeaker": false,
       "links": [],
       "sessions": [
@@ -1611,7 +1733,7 @@
       "lastName": "Gaines, CPACC",
       "bio": "Front-end Dev by day, maker of music by night with over 27 years in the field, I'm a Staff UI Engineer, certified accessibility professional, and an international speaker. With an educational background in Behavioral Psychology focusing on Neurology and Graphic Design, I focus on accessible front-end development and clean, intuitive designs that enable independence.",
       "tagLine": "Staff UI Engineer and Certified Accessibility Professional",
-      "profilePicture": "https://sessionize.com/image/ce3d-400o400o2-VUfTw8pPsAHLqTwsVEwPkq.jpg",
+      "profilePicture": "https://sessionize.com/image/11ab-400o400o1-VUfTw8pPsAHLqTwsVEwPkq.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1623,6 +1745,11 @@
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/homergaines",
           "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.rightbadcode.com",
+          "linkType": "Blog"
         },
         {
           "title": "Bluesky",
@@ -1643,7 +1770,7 @@
       "lastName": "Turan",
       "bio": "Senior software engineer working in the field since 2009. I've been working with Daugherty Business Solutions since 2015 designing and delivering custom software solutions. I've been working with AWS and Python/node.js recently but have worked with .NET and Java in the past. When I am not coding I will either be taking care of my two young boys or mountain biking whenever the weather is nice.",
       "tagLine": "Senior Software Engineer - Daugherty Business Solutions",
-      "profilePicture": "https://sessionize.com/image/ebd3-400o400o2-P3YqR5p22NaE9WNWG9U4AH.jpg",
+      "profilePicture": "https://sessionize.com/image/8b2a-400o400o1-P3YqR5p22NaE9WNWG9U4AH.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1665,7 +1792,7 @@
       "lastName": "Lord",
       "bio": "Joel Lord (@joel__lord on Twitter) is passionate about the web and technology in general. He likes to learn new things, but most of all, he wants to share his discoveries. He does so by travelling at various conferences all across the globe.\r\nHe graduated from college in computer programming in the last millennium. Apart from a little break to get his BSc in computational astrophysics, he was always in the industry.\r\nIn his daily job, Joel is a developer advocate with MongoDB, where he connects with software engineers to help them make the web better by using best practices around JavaScript.\r\nDuring his free time, he can be found stargazing on a campground somewhere or brewing a fresh batch of beer in his garage.\r\n",
       "tagLine": "Developer Advocate at MongoDB",
-      "profilePicture": "https://sessionize.com/image/da2b-400o400o2-nZ8VpK9tSvyhPQYhqXMX9f.png",
+      "profilePicture": "https://sessionize.com/image/cf8a-400o400o1-nZ8VpK9tSvyhPQYhqXMX9f.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1702,7 +1829,7 @@
       "lastName": "Tower",
       "bio": "Jonathan, or J as he's known to friends, is a husband, a father, and the owner of Trailhead Technology Partners, a custom software consulting company with employees all around the world. He is also a Microsoft MVP in .NET and frequently speaks at software meetups and conferences. He doesn't mind too much because he loves sharing what he’s learned, and it also gives him an excuse to visit any nearby National Parks, a passion of his, proven by the fact that he's currently made it to 52 of the 63 parks.\r\n\r\nJ also has a passion for building community and has served on several non-profit boards over the years as a result. Currently, J sits on the SoftwareGR board, a non-profit trade organization dedicated to building the software industry in West Michigan. He also runs Beer City Code, a software conference, and has served as president on that board for over a decade. J loves hiking, reading, photography, and trying to see all the best picture nominees before the Oscars ceremony.",
       "tagLine": "Partner & Principal Consultant, Trailhead Technology Partners",
-      "profilePicture": "https://sessionize.com/image/2513-400o400o2-ncTxzbvtMMe8gNw3GKDtVn.jpg",
+      "profilePicture": "https://sessionize.com/image/05b3-400o400o1-ncTxzbvtMMe8gNw3GKDtVn.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1739,7 +1866,7 @@
       "lastName": "Thayer",
       "bio": "Jordan Thayer received their PhD in Artificial Intelligence in 2012 from the University of New Hampshire. Ever since, they've been applying artificial intelligence in academia and industry to problems including intrusion detection, planning, static analysis, and program generation.\r\n\r\nAs a thought leader at SEP, they’ve been proving that AI isn't futuristic technology. Rather, it's a collection of techniques of varying levels of maturity that can often reliably solve problems they have today. They give talks, runs workshop, visualize algorithm behavior, and build proofs of concept as well as products to show what AI can do already.",
       "tagLine": "AI Practice Lead for SEP",
-      "profilePicture": "https://sessionize.com/image/3771-400o400o2-hZemfRHbjV6ghaTgqR8HDm.jpg",
+      "profilePicture": "https://sessionize.com/image/5a3f-400o400o1-hZemfRHbjV6ghaTgqR8HDm.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1771,7 +1898,7 @@
       "lastName": "Guadagno",
       "bio": "Joe Guadagno is a Senior Director of Engineering at Rocket Mortgage, the nation’s largest mortgage lender, which is based in Detroit, Michigan. He has been writing software for over 20 years, has been an active member of the .NET community,\r\nserving on the .NET Foundation Board of Directors and has been a Microsoft MVP in .NET for more than 13 years. At Rocket Mortgage, I lead three software development teams building and modernizing our internal services. He has spoken through the United States and at international events on topics ranging from Microsoft .NET, Microsoft Azure, Ionic, Bootstrap, and many others. You can see the complete list at https://www.josephguadagno.net/presentations. When not sitting at a computer Joe loves to hang out with his family and play games. When not playing games with the family, Joe is checking out the latest in Home Automation. You can connect with Joe on Twitter at @jguadagno, Facebook at JosephGuadagnoNet, and on his blog at https://www.josephguadagno.net.",
       "tagLine": "Senior Director, Technology at Rocket Mortgage, .NET Foundation Board of Directors, Organizer of Desert Code Camp, \"Microsoft Developer Services\" MVP, Telerik Ninja",
-      "profilePicture": "https://sessionize.com/image/b5a1-400o400o2-3tev7cMVvNUmgJZveNqbpX.png",
+      "profilePicture": "https://sessionize.com/image/a114-400o400o1-3tev7cMVvNUmgJZveNqbpX.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1808,7 +1935,7 @@
       "lastName": "Goldberg",
       "bio": "Hi, I'm Josh! I'm a frontend developer with a passion for open source, static analysis, and the web. I'm a full time open source maintainer and work on projects in the TypeScript ecosystem such as typescript-eslint and TypeStat. I'm also the author of the Learning TypeScript book, published by O'Reilly. My work focuses on bringing accessible education to the masses in a sustainable way.\r\n\r\nI've been speaking at conferences since 2019, including in-person talks at All Things Open, HalfStack, LeadDev Berlin, StaffPlus NYC, and TSConf, as well as several dozen online conferences. You can most of my available talk slides and recordings at https://www.joshuakgoldberg.com/#talks.",
       "tagLine": "Open Source Developer",
-      "profilePicture": "https://sessionize.com/image/7e23-400o400o2-SWinryGw45mrX9hwkB17Zr.jpg",
+      "profilePicture": "https://sessionize.com/image/f885-400o400o1-SWinryGw45mrX9hwkB17Zr.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1840,7 +1967,7 @@
       "lastName": "Fairbanks",
       "bio": "Kat Fairbanks is a software engineer who loves to experiment and tinker with a wide range of technologies. She focuses on applying web technologies to help startups rapidly iterate on products. After hours, Kat can be found working on generative art, 3D printing projects, or spending time with her cat, Git. She also organizes the Momentum Developer Conference and the Cincinnati Software Craftsmanship meetup group.",
       "tagLine": "Staff Engineer",
-      "profilePicture": "https://sessionize.com/image/04a1-400o400o2-EnhaH3MEdRdZUtftdLZhMr.jpg",
+      "profilePicture": "https://sessionize.com/image/89ca-400o400o1-EnhaH3MEdRdZUtftdLZhMr.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1872,7 +1999,7 @@
       "lastName": "Grayson Nanz",
       "bio": "In 2013, I graduated with a BFA and took my first job as a Junior Graphic Designer at a small, boutique ad agency. While there, my Creative Director warned me to never let anyone find out I could code, because if I did I'd be stuck doing it forever. I ignored his warning; it turns out he was completely right, but I've never been happier. \r\n\r\nI currently work as a developer advocate on a wonderful team where I help people build web applications in React, design and maintain their UI component libraries, and desperately attempt to stop back-end devs from writing any more CSS.",
       "tagLine": "UI Designer & Front-end Developer",
-      "profilePicture": "https://sessionize.com/image/e2dc-400o400o2-McJQkJxyfF54Kt3p6Je5vn.png",
+      "profilePicture": "https://sessionize.com/image/3ad6-400o400o1-McJQkJxyfF54Kt3p6Je5vn.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1909,7 +2036,7 @@
       "lastName": "Campbell",
       "bio": "Hi! I’m Krista Campbell. Thank you for taking the time to learn a little bit about me!\r\n\r\nI’m a Software Architect, Advocate, Engineer, and Leader who has been working in the field for more years than I like to count (including over twenty-five years of experience in the software industry). I’m experienced in both the technical and non-technical aspects of software development, I’ve led numerous successful software projects, focusing primarily in state and county agencies, human services, supporting health, education, and disabled communities.\r\n\r\nOver the years, I have discovered that I am as much a people person as I am a technical person. I’m adept at bridging the gap between technology and business leadership, building consensus through communication and shared understanding. I have strong leadership skills with experience in planning and guiding teams through the development cycle, mentoring and training junior developers, interviewing and placing developers, writing and presenting proposals and maintaining vendor partnerships. I’m also a seasoned public speaker having presented at several conferences such as CodeMash, StirTrek, Columbus Women in Tek, and Dogfood conferences.\r\n\r\nI started working with Microsoft technologies in the 90’s and have continuously changed and evolved with the times extending also into open source technologies as well. As such, I’m well-skilled in both Microsoft and open source technologies including cloud technologies in both Amazon Web Services as well as Microsoft Azure. With a strong focus on process and Agile methodologies, I have proven experience in helping teams successfully transform their development practices to leverage modern ALM and DevOps tools and techniques. Currently, I'm sharing this experience in the form of technical agile coaching - loving the opportunity to help technical teams do what they do best, only better.\r\n\r\nIn the rare event of free time you can usually find me with my amazing non-binary kid, making music, or spending time with friends and family. I'm a proud and open member of the transgender community and a supporter for social justice for all. ",
       "tagLine": "Principal Software Engineer and Technical Coach at Insight",
-      "profilePicture": "https://sessionize.com/image/eb9b-400o400o2-20-5ed1-4138-ad81-7e3c890502f3.c3c78142-65eb-43c2-8ad0-7cb5c22c46cb.jpg",
+      "profilePicture": "https://sessionize.com/image/4796-400o400o1-20-5ed1-4138-ad81-7e3c890502f3.c3c78142-65eb-43c2-8ad0-7cb5c22c46cb.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1936,7 +2063,7 @@
       "lastName": "Noonan",
       "bio": "Mark is a senior engineer on the Component Testing team at Cypress.io. His background before Cypress is in front-end development in agency and enterprise contexts, and before that he spent many years in developmental disability support at the Atlanta nonprofit, People Making Progress.",
       "tagLine": "Cypress",
-      "profilePicture": "https://sessionize.com/image/0b9f-400o400o2-PWiSfdATbiAcCZh8M9sGkj.png",
+      "profilePicture": "https://sessionize.com/image/64c3-400o400o1-PWiSfdATbiAcCZh8M9sGkj.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -1948,6 +2075,11 @@
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/markthomasnoonan/",
           "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.cypress.io/",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [
@@ -1963,7 +2095,7 @@
       "lastName": "Eland",
       "bio": "After several decades as a software engineer and engineering manager, Matt now serves as a software engineering instructor at Tech Elevator where he gets to raise up future developers and unleash them upon the world to build awesome things.\r\n\r\nMatt is a Microsoft MVP in Artificial Intelligence and a Microsoft Certified Azure Data Scientist and AI Engineer associate. Matt runs several blogs and a YouTube channel on data science and software engineering topics, is currently pursuing a master's degree in data analytics, and helps organize the Central Ohio .NET Developer Group while contributing to local and regional conferences.\r\n\r\nIn his copious amounts of spare time, Matt continues to build nerdy things and looks for ways to share them with the larger community.",
       "tagLine": "Instructor at Tech Elevator, Microsoft MVP in AI",
-      "profilePicture": "https://sessionize.com/image/f65c-400o400o2-NpMGdfMWbxZoyRYt5ioKXE.jpg",
+      "profilePicture": "https://sessionize.com/image/0471-400o400o1-NpMGdfMWbxZoyRYt5ioKXE.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -2001,11 +2133,11 @@
     },
     {
       "id": "bb52359f-7de5-4ab4-be0c-e0fdf39b7134",
-      "firstName": "Matt",
+      "firstName": "Matt \"Kelly\"",
       "lastName": "Williams",
       "bio": "Matt Williams always wanted to be a Renaissance Person. Maybe one day he will be. In the meantime, he does photography, designs tabletop games, reads, cooks, weaves, hacks, and spends time with his wife and daughter in Columbus, OH.",
       "tagLine": "Renaissance Person in Training",
-      "profilePicture": "https://sessionize.com/image/c1e5-400o400o2-WJ9SgktJqoE3kwVoZBtd8a.png",
+      "profilePicture": "https://sessionize.com/image/dbee-400o400o1-WJ9SgktJqoE3kwVoZBtd8a.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -2022,12 +2154,22 @@
           "title": "Blog",
           "url": "http://matthewkwilliams.com",
           "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://makingsoftwaregreener.com",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Sustainable IT Manifesto",
+          "url": "https://sustainableitmanifesto.org",
+          "linkType": "Other"
         }
       ],
       "sessions": [
         450233
       ],
-      "fullName": "Matt Williams",
+      "fullName": "Matt \"Kelly\" Williams",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -2037,7 +2179,7 @@
       "lastName": "Meadows",
       "bio": "Don’t talk to him about distributed databases, bad password policies, bad UX, bad frameworks, or the TV show “The Expanse,” one co-worker once said of Michael. “If you get him going, he’ll go on for an hour.” In retrospect, speaking at conferences seems like a perfect outlet for his passion. Everyone he works with has already heard all of his rants; in a way, they’ve been his test subjects. Now that he has mastered these rants, it’s your turn. When he’s not practicing his rants, Michael helps clients get the most out of their cloud adoption, specializing in multi-cloud application architectures.",
       "tagLine": "Cloud Architect, Meme Master, and King of Rants",
-      "profilePicture": "https://sessionize.com/image/07f2-400o400o2-7a-b943-4364-9db8-9d9d564d60ab.1649ae0f-376d-4c8a-b798-b2df21072b79.jpeg",
+      "profilePicture": "https://sessionize.com/image/b48e-400o400o1-7a-b943-4364-9db8-9d9d564d60ab.1649ae0f-376d-4c8a-b798-b2df21072b79.jpeg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -2066,22 +2208,27 @@
     {
       "id": "b4b9d0ac-4135-4e89-804c-3b3ce22082c7",
       "firstName": "Michele",
-      "lastName": "Lanning",
+      "lastName": "Parsley-Lanning D.O.",
       "bio": "After completing both a Java Full Stack Web Development and Data Analytics Bootcamp through Tech Talent South in 2019, I accepted a full-time position at CAS (Chemical Abstracts Service) in Content Engine (data engineering department). \r\n\r\nPrior to working with CAS, I was working as an Internal Medicine physician when I deciding to make a change career to technology. I hold a degree in Osteopathic Medicine (DO)  from Ohio University Heritage College of Osteopathic Medicine and a BA Biology with Biomedical Science Concentration with a Chemistry Minor and AS Applied Sciences Radiologic Technology from Shawnee State University.\r\n\r\nIn my spare time, I enjoy spending time with my husband, Wes and our two parrots: Willie and Bob as well as bird watching, hiking, baking, learning to play the violin and Columbus Blue Jackets.\r\n",
       "tagLine": "CAS, Data Engineer, Content Engine",
-      "profilePicture": "https://sessionize.com/image/f4ec-400o400o2-3tTxQqUTEkJdsHS73fEhLz.PNG",
+      "profilePicture": "https://sessionize.com/image/6ffe-400o400o1-3tTxQqUTEkJdsHS73fEhLz.PNG",
       "isTopSpeaker": false,
       "links": [
         {
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/michele-parsley-lanning-d-o-6ab030a5/",
           "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.cas.org/",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [
         444997
       ],
-      "fullName": "Michele Lanning",
+      "fullName": "Michele Parsley-Lanning D.O.",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -2091,13 +2238,33 @@
       "lastName": "Hagerty",
       "bio": "PJ is the founder of DevRelate.io and a board member of Open Sourcing Mental Illness (OSMIhelp.org). He is an organizer of DevOps Days Buffalo, CodeDaze, and ElixirDaze. PJ is a developer, writer, speaker, musician, and Community Advocate. He is known to travel the world speaking about programming and the way people think and interact. He is also known for wearing hats.",
       "tagLine": "Founder of DevRelate.io and Chief Community Officer",
-      "profilePicture": "https://sessionize.com/image/8f32-400o400o2-57-8b36-4e54-8ccc-affa12510ffc.ffb47dcf-5c1c-46fc-9334-3fa038755582.jpg",
+      "profilePicture": "https://sessionize.com/image/e01b-400o400o1-57-8b36-4e54-8ccc-affa12510ffc.ffb47dcf-5c1c-46fc-9334-3fa038755582.jpg",
       "isTopSpeaker": false,
       "links": [
         {
           "title": "Twitter",
           "url": "https://twitter.com/aspleenic",
           "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/pjhagerty",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://iampj.xyz",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://devrelate.io",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "CallofConduct",
+          "url": "https://www.callofconduct.com",
+          "linkType": "Other"
         }
       ],
       "sessions": [
@@ -2113,7 +2280,7 @@
       "lastName": "Dixon",
       "bio": "Kansas City native, Rhia Dixon is a lead software engineer at VMLY&R, a global agency focused on creating connected brand experiences. Primarily a backend dev, she creates software applications using Java, Python, Adobe Experience Manager, and a variety of other tech. While she has always been a STEM girl and holds a B.S. in Physics, her journey to the world of tech kicked off in the summer of 2017 during a full-stack web development bootcamp at the University of Kansas-Edwards Campus. Rhia has immersed herself in the KC tech community by volunteering -- both as a mentor, and as Diversity & Inclusion Director -- for Kansas City Women in Technology, a non-profit organization dedicated to bringing women in technology together and encouraging more women and girls to pursue careers in technology.\r\nWhen she’s not writing code or volunteering, Rhia is chasing her toddler, solving puzzles with her 1st grader, binge-watching Marvel movies, scheming on her next purple bag of skittles, or spending time making memories with family and friends.",
       "tagLine": "Lead Software Engineer - Full Stack Dev - Tech Connector - DEI Advocate",
-      "profilePicture": "https://sessionize.com/image/3c5b-400o400o2-N5ytZYx2ukFqXUZnkTV4tq.jpg",
+      "profilePicture": "https://sessionize.com/image/b18f-400o400o1-N5ytZYx2ukFqXUZnkTV4tq.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -2145,7 +2312,7 @@
       "lastName": "Herbig",
       "bio": "Robert Herbig is passionate about leading teams to deliver products users love.\r\n\r\nHe is a Lead Software Engineer at SEP, a software product design and development company. In his 15+ years in the software industry, he has worked on products ranging in size from small apps to enterprise systems; embedded, desktop, web, and cloud platforms; and in a variety of markets and domains including aerospace, medical, agriculture, construction, and secure communication.\r\n\r\nAs an AI Practice Lead at SEP, he strives to educate clients and peers about what AI can do, identify complex problems AI can address in whole or in part, and incorporate AI into software products that make a difference for their users.\r\n\r\nHe currently lives in Carmel, Indiana with his wonderful wife, three rambunctious sons, and three dogs.\r\n",
       "tagLine": "AI Practice Lead at SEP",
-      "profilePicture": "https://sessionize.com/image/4327-400o400o2-nntDrhduMjHZ856ok5W8wD.jpg",
+      "profilePicture": "https://sessionize.com/image/8e29-400o400o1-nntDrhduMjHZ856ok5W8wD.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -2177,7 +2344,7 @@
       "lastName": "Booz",
       "bio": "Ryan is an Advocate at Redgate focusing on PostgreSQL. Ryan has been working as a PostgreSQL advocate, developer, DBA and product manager for more than 20 years, primarily working with time-series data on PostgreSQL and the Microsoft Data Platform.\r\n\r\nRyan is a long-time DBA, starting with MySQL and Postgres in the late 90s. He spent more than 15 years working with SQL Server before returning to PostgreSQL full-time in 2018. He’s at the top of his game when he's learning something new about the data platform or teaching others about the technology he loves.",
       "tagLine": "Developer Advocate at Redgate",
-      "profilePicture": "https://sessionize.com/image/496f-400o400o2-Y9fC6pVEFDzgwH45dB4Nh5.jpg",
+      "profilePicture": "https://sessionize.com/image/7966-400o400o1-Y9fC6pVEFDzgwH45dB4Nh5.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -2194,6 +2361,11 @@
           "title": "Blog",
           "url": "https://www.softwareandbooz.com",
           "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.red-gate.com",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [
@@ -2209,13 +2381,18 @@
       "lastName": "Shaw",
       "bio": "Sam has been in the technology space professionally for seven years after dabbling as a developer while working in academia.  His spare time is spent trying new things or in the gym fighting.  Most recently the focus being Krav Maga and Kung Fu.",
       "tagLine": "Software Developer - CoverMyMeds",
-      "profilePicture": "https://sessionize.com/image/bc1e-400o400o2-UddRVW1pNNzrRNd7nd1y4p.jpg",
+      "profilePicture": "https://sessionize.com/image/f803-400o400o1-UddRVW1pNNzrRNd7nd1y4p.jpg",
       "isTopSpeaker": false,
       "links": [
         {
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/thesamdroid/",
           "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://github.com/thesamdroid/DebuggingBurnout",
+          "linkType": "Blog"
         }
       ],
       "sessions": [
@@ -2231,7 +2408,7 @@
       "lastName": "McAllister",
       "bio": "Scott McAllister is a Developer Advocate for ngrok. He has been building web applications in several industries for over a decade. Now he's helping others learn about a wide range of web technologies and incident management principles. When he's not coding, writing or speaking he enjoys long walks with his wife, skipping rocks with his kids, and is happy whenever Real Salt Lake, Seattle Sounders FC, Manchester City, St. Louis Cardinals, Seattle Mariners, Chicago Bulls, Seattle Storm, Seattle Seahawks, OL Reign FC, St. Louis Blues, Seattle Kraken, Barcelona, Fiorentina, Borussia Dortmund or Mainz 05 can manage a win.\r\n",
       "tagLine": "Developer Advocate at ngrok",
-      "profilePicture": "https://sessionize.com/image/76d7-400o400o2-Pn9oh1DNVCkN3fTo1Y4zHS.jpg",
+      "profilePicture": "https://sessionize.com/image/1ebc-400o400o1-Pn9oh1DNVCkN3fTo1Y4zHS.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -2268,7 +2445,7 @@
       "lastName": "Petry-Johnson",
       "bio": "Seth spent 21 years as a professional developer/architect before finally joining the dark side of management. He now spends his days as a pointy-haired boss leading a small-but-mighty product development team in the search for elegant solutions to complex problems. He is passionate about clean architecture, testable systems, and bringing order to chaos. Seth lives in Columbus, OH and is an active participant in the Midwest developer community. He'll write TPS reports when he has to, but still enjoys writing, reviewing, and talking about code.",
       "tagLine": "Pointy-haired boss by day, coder by night",
-      "profilePicture": "https://sessionize.com/image/1ec6-400o400o2-45odWhWL9vEuYNAqPTcuwL.jpg",
+      "profilePicture": "https://sessionize.com/image/4377-400o400o1-45odWhWL9vEuYNAqPTcuwL.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -2295,7 +2472,7 @@
       "lastName": "OBryan",
       "bio": "Sierra is a Software Engineer at Clubhouse, based in Cincinnati, OH, USA, focused primarily on native Android. She loves building beautiful and accessible Android apps, sharing knowledge with the community, and mentoring aspiring mobile developers. She is a Google Developer Expert for Android and serves as a Director of Women Who Code Cincinnati, Director of Technology for getWITit (Women in Tech), Women Techmakers global Ambassador, and former global Leadership Fellow for Women Who Code Mobile.",
       "tagLine": "Android @ Clubhouse ",
-      "profilePicture": "https://sessionize.com/image/10ad-400o400o2-71xKbc39LZi6tkVP2BZH6K.png",
+      "profilePicture": "https://sessionize.com/image/715b-400o400o1-71xKbc39LZi6tkVP2BZH6K.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -2327,7 +2504,7 @@
       "lastName": "Smith",
       "bio": "Steve Smith (@ardalis) is an entrepreneur and software developer with a passion for building quality software as effectively as possible. Steve has published several courses on Pluralsight, covering DDD, SOLID, design patterns, and software architecture. He's a Microsoft ASP.NET MVP and Insider, a frequent speaker at developer conferences, an author, and a trainer.\r\n\r\nSteve works with companies that want to avoid the trap of technical debt by helping their teams deliver quality software, quickly. Steve and his team have been described by clients as a \"force multiplier\", amplifying the value of existing development teams. Steve's client list includes Microsoft, Quicken Loans, Celina Insurance, and many other satisfied customers.",
       "tagLine": "I Help Teams Deliver Better Software",
-      "profilePicture": "https://sessionize.com/image/f430-400o400o2-4e-f021-4983-97a9-73f9415b3d5b.34dc742e-9a1e-4c87-98ad-c6bae9a07972.jpg",
+      "profilePicture": "https://sessionize.com/image/2328-400o400o1-4e-f021-4983-97a9-73f9415b3d5b.34dc742e-9a1e-4c87-98ad-c6bae9a07972.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -2364,7 +2541,7 @@
       "lastName": "Kaur",
       "bio": "I am Technology Manager, Architect , Software developer and active member of Tech Community. In my current role as a Head of Cloud Architecture my work is to transform the way applications at our bank have been designed and migrated to Cloud. \r\nI am part of Organizing committee for DogFoodCon and StirTrek. If I am not running after my two kids, or lifting weights or reading about latest technology news , I am probably bored and sleeping.\r\n",
       "tagLine": "Software Developer/Architect / Technology Manager",
-      "profilePicture": "https://sessionize.com/image/cf08-400o400o2-3b3oaXufigye3qjf6Kk2sH.jpeg",
+      "profilePicture": "https://sessionize.com/image/1abd-400o400o1-3b3oaXufigye3qjf6Kk2sH.jpeg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -2386,7 +2563,7 @@
       "lastName": "Penwell",
       "bio": "Tasha Penwell is the founder and developer of Pretty Nerdy where she provides digital marketing services. She specializes in developing Snapchat filters and Alexa Skills.",
       "tagLine": "Pretty Nerdy, Founder/Developer",
-      "profilePicture": "https://sessionize.com/image/d0f7-400o400o2-3Hh4w9E6T1VQFZRi2siYiS.png",
+      "profilePicture": "https://sessionize.com/image/372f-400o400o1-3Hh4w9E6T1VQFZRi2siYiS.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -2398,6 +2575,16 @@
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/tashapenwell/",
           "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://prettynerdydigitalmarketing.com/category/lens-studio-for-educators/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://bytesandbits.org/",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [
@@ -2413,7 +2600,7 @@
       "lastName": "LeMaster",
       "bio": "Tim is a Principal Engineer at Pangea Money Transfer. He has 28 years of software development experience. He studied Physics at Purdue University and is a veteran of the United States Air Force.",
       "tagLine": "Pangea Money Transfer, Principal Engineer",
-      "profilePicture": "https://sessionize.com/image/1174-400o400o2-Bf2MUdtG4ZDmvd44WYsqUB.png",
+      "profilePicture": "https://sessionize.com/image/be51-400o400o1-Bf2MUdtG4ZDmvd44WYsqUB.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -2440,7 +2627,7 @@
       "lastName": "Gardner",
       "bio": "Todd Gardner is a software entrepreneur and developer who has built multiple profitable products. He pushes for simple tools, maintainable software, and balancing complexity with risk. He is the cofounder of TrackJS and Request Metrics, where he helps thousands of developers build faster and more reliable websites. He also produces the PubConf software comedy show.",
       "tagLine": "CEO and founder at TrackJS and Request Metrics  | 💩 JavaScript Happens | Notepad Programmer | Web Development, Performance, and Observability",
-      "profilePicture": "https://sessionize.com/image/e451-400o400o2-3cCPW7rgMFV6YEt4nG82sj.jpg",
+      "profilePicture": "https://sessionize.com/image/c73e-400o400o1-3cCPW7rgMFV6YEt4nG82sj.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -2472,7 +2659,7 @@
       "lastName": "Matiyash",
       "bio": "Vitaliy Matiyash is Software Engineer from Columbus, Ohio, working on both front end and back end technologies with focus on web accessibility. In his spare time he enjoys working on various DIY projects, biking, hiking Central Ohio trails and cooking from scratch.",
       "tagLine": "Senior Software Engineer, Builder, Problem Solver, Newbie Conference Speaker",
-      "profilePicture": "https://sessionize.com/image/a595-400o400o2-UQKYbsP5udCreAyU5df2CV.jpg",
+      "profilePicture": "https://sessionize.com/image/a45d-400o400o1-UQKYbsP5udCreAyU5df2CV.jpg",
       "isTopSpeaker": false,
       "links": [
         {

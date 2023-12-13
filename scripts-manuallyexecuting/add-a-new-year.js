@@ -13,13 +13,14 @@ let newYear = parseInt(process.argv[2]);
 let schedulePath = `./source/_data/schedule${newYear}.json`;
 let templateSchedule = {
     scheduledSessions: {
-      timeSlots: []
+        timeSlots: []
     }
-  }
+}
 createFile(schedulePath, templateSchedule);
 
 let sessionsPath = `./source/_data/sessions${newYear}.json`;
-createFile(sessionsPath, null);
+let sessionsTemplate = {};
+createFile(sessionsPath, sessionsTemplate);
 
 let sponsorPath = `./source/_data/sponsors${newYear}.json`;
 let templateSponsors = {
@@ -37,7 +38,7 @@ createFile(sponsorPath, templateSponsors);
 function createFile(fullFilePath, data) {
     fs.open(fullFilePath, 'r', function (error) {
         if (error) {
-            if(data) {
+            if (data) {
                 jsonData = JSON.stringify(data);
             } else {
                 jsonData = "";

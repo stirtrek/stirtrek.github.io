@@ -1,1 +1,15 @@
-{"sponsors":{"platinum":[],"gold":[],"silver":[],"bronze":[]}}
+{
+    "sponsors": {
+        "platinum": [],
+        "gold": [],
+        "silver": [],
+        "bronze": [
+            {
+                "name": "OCLC",
+                "link": "https://www.oclc.org/",
+                "description": "At OCLC, we exist because what is known must be shared. OCLC makes the technology that powers the world's libraries, and if that seems low-tech, you haven't visited a library lately. We challenge your mind while keeping your heart.",
+                "logo": "/images/sponsors/oclc_350x200.jpg"
+            }
+        ]
+    }
+}

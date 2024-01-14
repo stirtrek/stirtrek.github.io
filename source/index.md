@@ -14,12 +14,12 @@ title: Tech & a Flick
             <p>Tickets on sale! <br> Only $170</p>
         </a>
     </div> -->
-     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+     <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">5/3/2024</p>
         <br>
         <p>Call for speakers opens on January 14th!</p>
-    </div>
+    </div> -->
     <!--
     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <a href="https://stirtrek2022.eventbrite.com/" class="date" target="_blank" rel="noopener noreferrer">
@@ -28,12 +28,12 @@ title: Tech & a Flick
         <br><br>
         <a href="/recordings" class="registerNow" target="_blank" rel="noopener noreferrer">Watch the recorded sessions</a>
     </div> -->
-    <!-- <a href="https://sessionize.com/stir-trek-2023/" target="_blank" rel="noopener noreferrer">
+    <a href="https://sessionize.com/stir-trek-2024/" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             <p class="date">CFS is Open!</p>
             <p class="registerNow">Click here to submit your talks</p>
         </div>
-    </a> -->
+    </a>
 </div>
 
 <div class="row">
@@ -91,7 +91,7 @@ title: Tech & a Flick
         <div class="comic-panel-body with-header small">
 {% endraw %}
 * **Open!** - Call for sponsors opens
-* **1/14/2024** - Call for speakers opens
+* **Open!** - Call for speakers opens
 * **1/28/2024** - Call for speakers closes *(Note, this is only 2 weeks this year so don't procrastinate!)*
 * **TBD** - Early bird ticket sales start
 * **TBD** - Regular ticket sales start

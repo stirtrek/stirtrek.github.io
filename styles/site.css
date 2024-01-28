@@ -58,6 +58,15 @@ h1, h2, h3 {
     letter-spacing: 2px;
 }
 
+#stirTrekHeroContainer #dateAndCostContainer a {
+    color: #fff;
+    text-decoration: none;
+}
+#stirTrekHeroContainer #dateAndCostContainer a:hover {
+    color: #63ac91;
+    text-decoration: underline;
+}
+
 @media only screen and (max-width:960px) {
     #stirTrekHeroContainer {
         margin-top: 240px;
@@ -173,7 +182,7 @@ h1, h2, h3 {
 }
 
 .footer-links-container {
-    margin: 50px;
+    margin: 30px;
 }
 
 #footerSocialMediaIcons a {
@@ -208,7 +217,7 @@ h1, h2, h3 {
     line-height: 25px;
     vertical-align: middle;
     background-color: #1a1927;
-    color: #3a3c55;
+    color: #fff;
 }
 
 .no-margin-bottom {
@@ -346,8 +355,12 @@ section {
     top: -40px;
 }
 
-.comic-panel-body a {
+.comic-panel-body a, .comic-panel-body a:visited {
     color: #34344c;
+    text-decoration: underline;
+}
+.comic-panel-body a:hover {
+    color: #d7c875;
 }
 
 .comic-panel-inset {
@@ -368,7 +381,6 @@ section {
     text-transform: uppercase;
     font-family: 'Komika Axis', 'Comic Sans MS';
     font-size: 1.5em;
-    /* font-weight: bold; */
     font-style: italic;
     position: relative;
     display: inline-block;
@@ -389,7 +401,6 @@ section {
     font-weight: bold;
     font-style: italic;
     position: relative;
-    display: inline-block;
     z-index: 12;
     top: -40px;
     float: right;
@@ -405,6 +416,10 @@ section {
 
 .comic-panel-gold {
     background-color: #d7c875;
+}
+
+.comic-panel-red {
+    background-color: #d1171f;
 }
 
 .text-with-comic-panel {
@@ -677,30 +692,33 @@ div.hr-schedule:before {
     margin: 0 auto;
 }
 
-.sponsor.sponsor-principal img {
+.sponsor.sponsor-platinum img {
     max-height: 200px;
 }
 
-.sponsor.sponsor-principal .sponsorCompany .description {
-    height: 170px;
-}
-
-.sponsor.sponsor-platinum img {
-    max-height: 150px;
+.sponsor .sponsorCompany .description.longDescription {
+    font-size: x-small;
 }
 
 .sponsor.sponsor-platinum .sponsorCompany .description {
-    height: 400px;
+    height: 170px;
 }
 
-.sponsor.sponsor-gold img,
-.sponsor.sponsor-silver img {
+.sponsor.sponsor-gold img {
+    max-height: 150px;
+}
+
+.sponsor.sponsor-gold .sponsorCompany .description {
+    height: 150px;
+}
+
+.sponsor.sponsor-bronze .sponsorCompany .description {
+    height: 250px;
+}
+
+.sponsor.sponsor-silver img,
+.sponsor.sponsor-bronze img {
     max-height: 88px;
-}
-
-.sponsor.sponsor-gold .sponsorCompany .description,
-.sponsor.sponsor-silver .sponsorCompany .description {
-    /* height: 500px; */
 }
 
 .sponsorsAbout {
@@ -1197,4 +1215,11 @@ article#sponsor_download_contacts div#download_contacts {
 
 #scheduleTable .speaker-cell {
     text-transform: capitalize;
+}
+
+#scheduleTable tr.scheduleTimeRow td {
+    background-color: #d7c875;
+    text-align: center;
+    color: black;
+    font-weight: bold;
 }

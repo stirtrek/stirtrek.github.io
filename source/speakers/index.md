@@ -4,8 +4,6 @@ year: 2024
 alias:
 - speakers/index.html
 - speakers/
-- Speakers/index.html
-- Speakers/
 ---
 
 # This Year's Speakers

@@ -3,8 +3,6 @@ title: Sponsors
 alias:
 - sponsors/index.html
 - sponsors/
-- Sponsors/index.html
-- Sponsors/
 ---
 Here we go again!!
 # Stir Trek 2024 is On

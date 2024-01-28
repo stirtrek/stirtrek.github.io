@@ -59,3 +59,5 @@ for (var currentYear of allYears) {
         })
     }
 }
+
+console.log("All images downloaded.");

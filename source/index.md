@@ -9,31 +9,30 @@ title: Tech & a Flick
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">5/3/2024</p>
         <br>
+        <p>Call for speakers opens on January 14th!</p>
+    </div> -->
+    <!-- <a href="https://sessionize.com/stir-trek-2024/" target="_blank" rel="noopener noreferrer">
+        <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+            <p class="date">CFS is Open!</p>
+            <p class="registerNow">Click here to submit your talks</p>
+        </div>
+    </a> -->
+     <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+        <p class="date">Stir Trek - Columbus, OH</p>
+        <p class="date">5/3/2024</p>
+        <br>
         <p><a href="https://events.humanitix.com/stir-trek-2023-additional-movie-pass">Plus One tickets for the movie tonight</a></p>
         <a class="registerNow" href="https://events.humanitix.com/stir-trek-2023">
             <p>Tickets on sale! <br> Only $170</p>
         </a>
     </div> -->
-     <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-        <p class="date">Stir Trek - Columbus, OH</p>
-        <p class="date">5/3/2024</p>
-        <br>
-        <p>Call for speakers opens on January 14th!</p>
-    </div> -->
-    <!--
-    <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+    <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <a href="https://stirtrek2022.eventbrite.com/" class="date" target="_blank" rel="noopener noreferrer">
             Stir Trek 2022 is Over!
         </a>
         <br><br>
         <a href="/recordings" class="registerNow" target="_blank" rel="noopener noreferrer">Watch the recorded sessions</a>
     </div> -->
-    <a href="https://sessionize.com/stir-trek-2024/" target="_blank" rel="noopener noreferrer">
-        <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-            <p class="date">CFS is Open!</p>
-            <p class="registerNow">Click here to submit your talks</p>
-        </div>
-    </a>
 </div>
 
 <div class="row">

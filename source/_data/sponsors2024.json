@@ -1,6 +1,13 @@
 {
     "sponsors": {
-        "platinum": [],
+        "platinum": [
+            {
+                "name": "Workstate",
+                "link": "https://www.workstate.com/",
+                "description": "Workstate is a global IT consulting company providing Nearshore and US-based development teams in long-term client partnerships. Our 25+ years of experience offers a superior alternative to staffing. Workstate’s mission to create the best home for the brightest technology talent. Our teams drive success by working closely with our clients.",
+                "logo": "/images/sponsors/workstate_350x200v3.jpg"
+              }            
+        ],
         "gold": [
             {
                 "name": "CGI",

@@ -11,6 +11,14 @@ title: Tech & a Flick
         <br>
         <p>Call for speakers opens on January 14th!</p>
     </div> -->
+    <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+        <p class="date">Stir Trek - Columbus, OH</p>
+        <p class="date">5/3/2024</p>
+        <br>
+        <a class="registerNow" href="#ticketsales">
+            <p>See the ticket sale plan</p>
+        </a>
+    </div>
     <!-- <a href="https://sessionize.com/stir-trek-2024/" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             <p class="date">CFS is Open!</p>
@@ -82,23 +90,22 @@ title: Tech & a Flick
     </div>
 </div>
 
+<a name="ticketsales"></a>
 <div class="row">
     <div class="col-md-6">
         <div class="comic-panel-header offset">
-            Important Dates
+            <!--Important Dates-->
+            Ticket Dates
         </div>
         <div class="comic-panel-body with-header small">
-{% endraw %}
-* **Open!** - Call for sponsors opens
-* **Open!** - Call for speakers opens
-* **1/28/2024** - Call for speakers closes *(Note, this is only 2 weeks this year so don't procrastinate!)*
-* **TBD** - Early bird ticket sales start
-* **TBD** - Regular ticket sales start
-* **TBD** - Last day for refunds
-* **TBD** - Register for guaranteed on-time box arrival
-* **TBD** - Last day to purchase tickets
+{% endraw %}Ticket sales are different this year. Because late registrations make our ordering more difficult and expensive, please register early!
+* **2/27/2024** - $150 early bird tickets on sale
+* **3/11/2024** - $175 regular tickets on sale
+* **3/25/2024** - $200 late tickets on sale
+* **4/13/2024** - $225 Final tickets (w/o a box) on sale
+* **4/29/2024** - Ticket sales end
 * **5/3/2024** - Stir Trek 2024!!!!
-{% raw %}
+{% raw %}       
         </div>
     </div>  
 <div class="col-md-6">

@@ -13,7 +13,7 @@ hexo.extend.generator.register('create-service-worker', function (locals) {
     // I wish I knew how to load these from the config more gracefully than node code
     let fs = require('fs');
     let yaml = require('js-yaml');
-    const years = yaml.safeLoad(fs.readFileSync('./_config.yml')).allYears;
+    const years = yaml.load(fs.readFileSync('./_config.yml')).allYears;
 
     // Stash the pages here.
     let allPagesAndFiles = []

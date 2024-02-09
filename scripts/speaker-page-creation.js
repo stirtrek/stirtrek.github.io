@@ -2,7 +2,7 @@
 /// Script to automatically generate all of the individual speaker pages.
 /// This creates an object with speaker and session data and then pushes it into Hexo to generate the html
 ///
-hexo.extend.generator.register('speaker-page-creation', function(locals) {
+hexo.extend.generator.register('speaker-page-creation', function (locals) {
 
     // Used to map the speakers and sessions together
     var speakerAndSessionParser = require('./speakerAndSessionParser.js');
@@ -10,7 +10,7 @@ hexo.extend.generator.register('speaker-page-creation', function(locals) {
     // Unsure how to get the config settings from Hexo, so just using some Node code
     let fs = require('fs');
     let yaml = require('js-yaml');
-    const years = yaml.safeLoad(fs.readFileSync('./_config.yml')).allYears;
+    const years = yaml.load(fs.readFileSync('./_config.yml')).allYears;
 
     // Stash the pages as they are created
     var speakerPages = [];
@@ -20,7 +20,7 @@ hexo.extend.generator.register('speaker-page-creation', function(locals) {
         let thisYearsSchedule = eval('locals.data.schedule' + year);
 
         // Make sure we have both the session and schedule. If they aren't created yet, move on
-        if(!thisYearsFile || !thisYearsSchedule) return;
+        if (!thisYearsFile || !thisYearsSchedule) return;
 
         var mappedSpeakers = speakerAndSessionParser.getSpeakersWithSessions(thisYearsFile, thisYearsSchedule, year);
 

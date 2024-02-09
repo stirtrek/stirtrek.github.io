@@ -10,7 +10,7 @@ let https = require('follow-redirects').https;
 
 
 // Get the year from the config
-let config = yaml.safeLoad(fs.readFileSync('./_config.yml'));
+let config = yaml.load(fs.readFileSync('./_config.yml'));
 let allYears = config.allYears;
 
 for (var currentYear of allYears) {

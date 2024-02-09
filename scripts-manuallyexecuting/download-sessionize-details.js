@@ -9,14 +9,14 @@ let https = require('https');
 
 
 // Get the year from the config
-let config = yaml.safeLoad(fs.readFileSync('./_config.yml'));
+let config = yaml.load(fs.readFileSync('./_config.yml'));
 let sessionizeURL = config.sessionizeApiUrl;
 let currentYear = config.currentYear;
 
 // Download the Sessionize info
 let outputLocation = `./source/_data/sessions${currentYear}.json`;
 let outputFile = fs.createWriteStream(outputLocation);
-https.get(sessionizeURL, function(response) {
+https.get(sessionizeURL, function (response) {
     response.pipe(outputFile);
     console.log(`Downloading - ${sessionizeURL}`)
 });

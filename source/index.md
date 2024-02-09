@@ -61,7 +61,7 @@ title: Tech & a Flick
             <ul>
                 <li>48 Sessions of critical content</li>
                 <li>Well-known regional &amp; national Speakers</li>
-                <li>Screening of something awesome, TBD</li>
+                <li>Screening of a surprise movie, TBA</li>
                 <li>Breakfast and Lunch</li>
                 <li>Refreshments during the movie</li>
                 <li>Registration box with fun bonus swag</li>

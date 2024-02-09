@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1706664299042';
+var CACHE = 'network-or-cache-1707447276007';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -358,6 +358,8 @@ function precache() {
 "images/StirTrek-StrangeLogo-New.png",
 "images/StirTrek-StrangeLogo-Original.png",
 "images/header-logo.png",
+"images/red_15_horizontal.png",
+"images/red_15_horizontal_470x350.png",
 "images/spotit-2019-qr.png",
 "images/store-trek.png",
 "images/thanos-header-1140x760.png",

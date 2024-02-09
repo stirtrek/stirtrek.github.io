@@ -120,3 +120,5 @@ Other than those 4 places (incl. two sponsor pages), nothing else should care
 This happens all the time no matter what we try to do. There are two things you can do:
 1. In `sponsorsYYYY.json` give that sponsor the attribute `"longDescription": "true",`. This decreases their font size a little.
 2. In `site.css` you can also force a particular tier to have more spacing by overriding the default. Search for `sponsor.sponsor-bronze .sponsorCompany .description {` replacing bronze with the appropriate tier and change height from 150px.
+
+

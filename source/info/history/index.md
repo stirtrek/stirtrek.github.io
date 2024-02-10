@@ -123,5 +123,10 @@ Check out [Stir Trek 2022 sessions on YouTube](https://www.youtube.com/playlist?
 
 ### 2023 "Guardians of the Galaxy 3 Edition"
 
+Check out [Stir Trek 2023 sessions on YouTube](https://www.youtube.com/playlist?list=PLaHMqLt8nxCyEzND3waqwgrnOpNjPtUs_)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JqcncLPi9zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### 2024 15th Anniversary Edition
+
+Hey it's this year!

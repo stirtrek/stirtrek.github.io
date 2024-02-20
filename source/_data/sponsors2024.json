@@ -14,6 +14,12 @@
                 "link": "https://www.cgi.com/",
                 "description": "Founded in 1976, CGI is among the largest IT and business consulting services firms in the world. We are insights-driven and outcomes-based to help accelerate returns on your investments.",
                 "logo": "/images/sponsors/cgi_350x200v2.jpg"
+            },
+  {
+                "name": "OCLC",
+                "link": "https://www.oclc.org/",
+                "description": "At OCLC, we exist because what is known must be shared. OCLC makes the technology that powers the world's libraries, and if that seems low-tech, you haven't visited a library lately. We challenge your mind while keeping your heart.",
+                "logo": "/images/sponsors/oclc_350x200.jpg"
             }
         ],
         "silver": [
@@ -25,12 +31,6 @@
             }
         ],
         "bronze": [
-            {
-                "name": "OCLC",
-                "link": "https://www.oclc.org/",
-                "description": "At OCLC, we exist because what is known must be shared. OCLC makes the technology that powers the world's libraries, and if that seems low-tech, you haven't visited a library lately. We challenge your mind while keeping your heart.",
-                "logo": "/images/sponsors/oclc_350x200.jpg"
-            }
         ]
     }
 }

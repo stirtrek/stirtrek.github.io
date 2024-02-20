@@ -6,7 +6,7 @@
                 "link": "https://www.workstate.com/",
                 "description": "Workstate is a global IT consulting company providing Nearshore and US-based development teams in long-term client partnerships. Our 25+ years of experience offers a superior alternative to staffing. Workstate’s mission to create the best home for the brightest technology talent. Our teams drive success by working closely with our clients.",
                 "logo": "/images/sponsors/workstate_350x200v3.jpg"
-              }            
+            }
         ],
         "gold": [
             {
@@ -15,18 +15,18 @@
                 "description": "Founded in 1976, CGI is among the largest IT and business consulting services firms in the world. We are insights-driven and outcomes-based to help accelerate returns on your investments.",
                 "logo": "/images/sponsors/cgi_350x200v2.jpg"
             },
-  {
+            {
                 "name": "OCLC",
                 "link": "https://www.oclc.org/",
                 "description": "At OCLC, we exist because what is known must be shared. OCLC makes the technology that powers the world's libraries, and if that seems low-tech, you haven't visited a library lately. We challenge your mind while keeping your heart.",
                 "logo": "/images/sponsors/oclc_350x200.jpg"
             },
-      {
-        "name": "Com Resource",
-        "link": "https://comresource.com/",
-        "description": "Having delivered strategic IT solutions for over 25 years, we are problem-solvers by nature. More than 200 of us…and growing. Customizing processes and technology are our specialties. The more complicated the IT challenge, the better.",
-        "logo": "/images/sponsors/comresource_350x200.jpg"
-      }
+            {
+                "name": "Com Resource",
+                "link": "https://comresource.com/",
+                "description": "Having delivered strategic IT solutions for over 25 years, we are problem-solvers by nature. More than 200 of us…and growing. Customizing processes and technology are our specialties. The more complicated the IT challenge, the better.",
+                "logo": "/images/sponsors/comresource_350x200.jpg"
+            }
         ],
         "silver": [
             {
@@ -37,6 +37,12 @@
             }
         ],
         "bronze": [
+            {
+                "name": "g2o",
+                "link": "https://www.g2o.com/",
+                "description": "G2O solves complex problems with tailored customer experience solutions that create tangible outcomes, through innovative technologies, data integration, CX research and strategy, product management and talent infusion.",
+                "logo": "/images/sponsors/g2o_v2_350x200.png"
+            }
         ]
     }
 }

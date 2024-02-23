@@ -6,7 +6,7 @@
 
     
 
-    <title>Press Release: Stir Trek Celebrates 15 Years of Igniting Innovation in Software Development - Stir Trek</title>
+    <title>Lino Tadros - Stir Trek</title>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
@@ -15,12 +15,12 @@
     <!-- Twitter Card data -->
     <meta name="twitter:card" value="summary">
     <meta name="twitter:site" value="@StirTrek">
-    <meta name="twitter:title" value="Press Release: Stir Trek Celebrates 15 Years of Igniting Innovation in Software Development - Stir Trek">
+    <meta name="twitter:title" value="Lino Tadros - Stir Trek">
     <meta name="twitter:description" value="Stir Trek is a one-day conference in Columbus, Ohio focused on teaching software developers the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a private screening of a blockbuster film on its opening day.">
     <meta name="twitter:image" value="/icons/opengraph.jpg">
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Press Release: Stir Trek Celebrates 15 Years of Igniting Innovation in Software Development - Stir Trek" />
+    <meta property="og:title" content="Lino Tadros - Stir Trek" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://stirtrek.com" />
     <meta property="og:image" content="/icons/opengraph.jpg" />
@@ -176,32 +176,220 @@
 
             <div class="container">
 
+                <div class="body-content" role="main">
+
+    <style>
+        .speakerAvatarBioStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "avatar     bio         bio";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            column-gap: 40px;
+
+            margin-bottom: 40px;            
+        }
+
+        .speakerSessionStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "abstract   abstract    time"
+                "abstract   abstract    stirTrek";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            column-gap: 40px;
+            grid-row-gap: 40px;
+        }
+
+        @media only screen and (max-width:990px) {
+            .speakerAvatarBioStrip, .speakerSessionStrip {
+                display: block;
+            }
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel {
+            grid-area: avatar;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+            color: black;
+
+            text-align: center;
+        }
+
+        .speakerSessionStrip .abstractPanel {
+            grid-area: abstract;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerAvatarBioStrip .bioPanel {
+            grid-area: bio;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            grid-area: stirTrek;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+        }
+
+        .speakerSessionStrip .timeAndRoomPanel {
+            grid-area: time;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;    
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel,
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%), 
+                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
+                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
+                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%), 
+                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
+                linear-gradient(40deg, #c48b2fb3 0, #f7c16ab3 30%, #dbab5bb3 50%, #dbab5bb3 70%, #c48b2fb3 100%);
+        }
+
+        .stirTrekPanelImage {
+            background-image: url('/images/StirTrek-Emblem-Gold-400x588.png');
+            width: 100%;
+            height: 100%;
+            background-position: center;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body, .speakerSessionStrip .comic-panel-body {
+            position: relative;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-header, .speakerSessionStrip .comic-panel-header {
+            position: absolute;
+            top: -35px;
+            left: -25px;
+        }
+
+        .speakerAvatarBioStrip .speakerImage {
+            width: 80%;
+            border-radius: 50%;
+            border: 6px solid #111c2e;
+            margin: 2em auto 0;
+        }
+
+        .speakerAvatarBioStrip .speakerTagline {
+            vertical-align: middle;
+        }
+
+        .speakerAvatarBioStrip .speakerBio {
+            margin-top: 5%;
+        }
+
+
+        @media only screen and (max-width:990px) {
+            .speakerAvatarBioStrip .comic-panel-body, .speakerSessionStrip .comic-panel-body {
+                border: 20px solid white;
+                padding: 30px 20px;
+                margin-bottom: 40px;
+            }
+
+            .speakerAvatarBioStrip .comic-panel-header, .speakerSessionStrip .comic-panel-header {
+                top: -35px;
+                left: -45px;
+            }
+
+            .speakerAvatarBioStrip .speakerImage {
+                display: block;
+                margin: 0px auto;
+                margin-top: 2em;
+            }
+
+            .speakerAvatarBioStrip .speakerTagline {
+                width: 100%;
+                display: block;
+                text-align: center;
+            }
+
+            .speakerSessionStrip .stirTrekPanel {
+                display: none;
+            }
+        }        
+    </style>
+
+    <div class="speakerAvatarBioStrip">
+        <div class="avatarPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Lino Tadros!
+            </div>
+
+            <div>
+                <img src="/images/speakers/2024/Lino-Tadros.jpg" class="img-responsive speakerImage">
+            </div>
+
+            <div class="speakerTagline">
+                <h3>Technical Fellow and Distinguished Executive</h3>
+            </div>
+        </div>
+        <div class="bioPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Bio!
+            </div>
+
+            Distinguished executive leader and renowned technical expert in AI, Machine Learning, and IoT. Leads cross-functional architectural teams to award-winning performance by developing strategic roadmaps and powering enterprise-wide projects. Serves as board member and advisor for multiple corporations delivering strategic guidance on product line developments and business solutions. Industry influencer and mastermind of strategic programs and innovations leading modernization efforts to alter the global IT landscape as Microsoft Regional Director.
+
+HIGHLIGHTS
+
+•Partnered with Microsoft to consult major corporations on Azure integrations; trained over 1K global employees and architects across US, Canada, Europe, Middle East, and Australia.
+•Invited into elite Microsoft Regional Director program as Top 1% of global SMEs...Maintains direct line of communication to Microsoft executive leaders and Office of the President for Technical and Business Influence.
+•Inspired $200M marketing push for Microsoft Teams platform and led strategy for MS Azure Synapse design and release; catapulted competitive advantage over Zoom and AWS.
+•Piloted multi-million-dollar architecture projects for organizations in US, Europe, and Australia to include DoD, NASA, Disney, HP, Johnson &amp; Johnson, and international banking institutions.
+•Authored 150-page IoT playbook for Microsoft; over 750K downloads across global audience.
+        </div>
+
+    </div>
+    <div class="speakerSessionStrip">
+        <div class="abstractPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                    Session!
+            </div>
+            
+                <h2>Swimming in the Lake of Microsoft Fabrics</h2>
+                <br>
+                <div>
+                    Attend this session to learn more about Microsoft Fabric and how it enables organizations, and individuals, to turn large and complex data repositories into actionable workloads and analytics, and is an implementation of data mesh architecture.
+Come learn about OneLake and LakeHouses, and the unification of lakehouses in the platform.
+We will discuss Data Engineering, Data Science concepts, Data Factory (Pipelines and DataFlow), Real Time Analytics (KQL), and the use of Power BI for visualization.
+You will leave this session feeling excited and with the desire to go use this remarkable technology to achieve great data analytics for your company.
+                </div>
+            
+        </div>
+
+        <div class="timeAndRoomPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Where/When?
+            </div>
+
+            
                 
-<div class="body-content" role="main">
+                    <h2>Schedule TBD</h2>
+                
+
+                
+            
 
 
-    <h1 id="Press-Release-Stir-Trek-Celebrates-15-Years-of-Igniting-Innovation-in-Software-Development"><a href="#Press-Release-Stir-Trek-Celebrates-15-Years-of-Igniting-Innovation-in-Software-Development" class="headerlink" title="Press Release: Stir Trek Celebrates 15 Years of Igniting Innovation in Software Development"></a>Press Release: Stir Trek Celebrates 15 Years of Igniting Innovation in Software Development</h1><p>Since its inception in 2009, Stir Trek has been dedicated to its mission of keeping the technology community abreast of the latest trends, tools, and practices in software development. The conference brings together thought leaders, innovators, and enthusiasts from various sectors to share their knowledge and experiences. It’s a unique blend of learning and entertainment, where attendees can update their skills in multiple tracks of sessions before unwinding with a blockbuster film.</p>
-<h3 id="Celebrating-15-Years-of-Excellence-in-Technology-and-Community-Engagement"><a href="#Celebrating-15-Years-of-Excellence-in-Technology-and-Community-Engagement" class="headerlink" title="Celebrating 15 Years of Excellence in Technology and Community Engagement"></a>Celebrating 15 Years of Excellence in Technology and Community Engagement</h3><p>The 15th anniversary of Stir Trek marks a significant milestone in its journey of fostering a vibrant community of tech professionals in Ohio and beyond. This year’s conference will feature:</p>
-<ul>
-<li><strong>Amazing Speakers:</strong> Renowned figures in the software development and technology space will share information about a variety of technical and career-related topics.</li>
-<li><strong>Breakout Sessions:</strong> A wide range of topics covering the latest in software architecture, agile methodologies, cloud computing, and much more. Sessions are designed to cater to both seasoned professionals and those new to the field.</li>
-<li><strong>Networking Opportunities:</strong> Attendees will have the chance to connect with peers, meet potential mentors, and discuss opportunities with representatives from leading tech companies.</li>
-<li><strong>Entertainment:</strong> True to tradition, the conference will conclude with a private movie screening, offering attendees a chance to relax and socialize.</li>
-</ul>
-<h3 id="A-Force-for-Good-Community-and-Charity"><a href="#A-Force-for-Good-Community-and-Charity" class="headerlink" title="A Force for Good: Community and Charity"></a>A Force for Good: Community and Charity</h3><p>Stir Trek is more than just a conference; it’s a community-driven event that believes in giving back. Each year the conference organizes a MEGA FOOD DRIVE to support local food banks. Attendees are encouraged to bring non-perishable food items to the event. The 2023 event donated over 1400 pounds of food!</p>
-<p>Stir Trek supports the <a target="_blank" rel="noopener" href="https://www.stirscholarship.org/">Stir Scholarship</a>, providing support for women in Computer Science programs. To date, the program has awarded over $87,000 in scholarships.</p>
-<h3 id="Join-Us-in-Celebrating-15-Years-of-Stir-Trek"><a href="#Join-Us-in-Celebrating-15-Years-of-Stir-Trek" class="headerlink" title="Join Us in Celebrating 15 Years of Stir Trek"></a>Join Us in Celebrating 15 Years of Stir Trek</h3><p>We invite software developers, IT professionals, and technology enthusiasts to join us in celebrating this significant milestone. Whether you’re looking to stay on the cutting edge of technology, eager to network, or just enjoy a good movie with fellow techies, Stir Trek is the place to be this spring.</p>
-<p><strong>Date:</strong> 3 May 2024<br><strong>Location:</strong> AMC Easton 30, Columbus, Ohio<br><strong>Registration &amp; More Information:</strong> Visit <a href="https://stirtrek.com/">Stir Trek’s official website</a> for details on registration, speaker lineups, session schedules, and more.</p>
-<p>Don’t miss out on this opportunity to be part of a special event that combines the best of technology learning and entertainment. Let’s celebrate 15 years of learning, growth, and community together at Stir Trek.</p>
-<p>For press inquiries and more information, please contact:  </p>
-<p><strong>Email</strong>: <a href="mailto:&#105;&#x6e;&#102;&#x6f;&#64;&#x73;&#x74;&#x69;&#x72;&#x74;&#x72;&#x65;&#107;&#x2e;&#x63;&#111;&#109;">&#105;&#x6e;&#102;&#x6f;&#64;&#x73;&#x74;&#x69;&#x72;&#x74;&#x72;&#x65;&#107;&#x2e;&#x63;&#111;&#109;</a></p>
-<hr>
-<p><em>Stir Trek is committed to providing a welcoming and inclusive environment for all participants. We adhere to a strict code of conduct to ensure a positive experience for everyone involved.</em></p>
+        </div>
 
-
-    
-
-
+        <div class="stirTrekPanel comic-panel-body">
+            <div class="stirTrekPanelImage"></div>
+        </div>
+    </div>
 </div>
             </div>
 

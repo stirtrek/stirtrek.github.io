@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1708720292550';
+var CACHE = 'network-or-cache-1708722332279';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -42,8 +42,8 @@ function precache() {
 "/speakers/2018.html",
 "/speakers/2019.html",
 "/speakers/2020.html",
-"/speakers/2021.html",
 "/speakers/2022.html",
+"/speakers/2021.html",
 "/speakers/2023.html",
 "/speakers/2024.html",
 "/speakers/",
@@ -62,17 +62,17 @@ function precache() {
 "/info/antiharassmentpolicy/index.html",
 "/info/codeofconduct/",
 "/info/codeofconduct/index.html",
-"/info/commitmenttodiversity/",
-"/info/commitmenttodiversity/index.html",
 "/info/contact/",
 "/info/contact/index.html",
+"/info/commitmenttodiversity/",
+"/info/commitmenttodiversity/index.html",
 "/info/history/",
 "/info/history/index.html",
 "/info/press/2024-02-10.html",
-"/info/press/",
-"/info/press/index.html",
 "/info/privacy/",
 "/info/privacy/index.html",
+"/info/press/",
+"/info/press/index.html",
 "/info/travel/",
 "/info/travel/index.html",
 "/styles/bootstrap-button-social.min.css",
@@ -342,6 +342,13 @@ function precache() {
 "/speakers/2023/Tim-LeMaster.html",
 "/speakers/2023/Todd-Gardner.html",
 "/speakers/2023/Vitaliy-Matiyash.html",
+"/speakers/2024/Burton-Smith.html",
+"/speakers/2024/Jeffrey-Miller.html",
+"/speakers/2024/Jonathan-Knapp.html",
+"/speakers/2024/Jordan-Thayer.html",
+"/speakers/2024/Kevin-Mireles.html",
+"/speakers/2024/Matt-Eland.html",
+"/speakers/2024/Michael-Gregory.html",
 "images/2013-stirtrek-registration-line.png",
 "images/2017-05-05-schottenstein-center-setup.jpg",
 "images/Attendees-In-Theater.jpg",
@@ -481,6 +488,7 @@ function precache() {
 "images/sponsors/pillar-180x95.jpg",
 "images/sponsors/pillar_350x200.png",
 "images/sponsors/progress_655x155.png",
+"images/sponsors/readysetagile_350x200.jpg",
 "images/sponsors/readysetagile_600x120.png",
 "images/sponsors/revelit_350x200.png",
 "images/sponsors/root_350x200.png",
@@ -768,8 +776,15 @@ function precache() {
 "images/speakers/2023/Todd-Gardner.jpg",
 "images/speakers/2023/Valarie-Regas.jpg",
 "images/speakers/2023/Vitaliy-Matiyash.jpg",
+"images/speakers/2024/Burton-Smith.jpg",
+"images/speakers/2024/Jeffrey-Miller.jpg",
 "images/speakers/2024/John-Riley.jpg",
-"images/speakers/2024/Lino-Tadros.jpg"
+"images/speakers/2024/Jonathan-Knapp.jpg",
+"images/speakers/2024/Jordan-Thayer.jpg",
+"images/speakers/2024/Kevin-Mireles.jpeg",
+"images/speakers/2024/Lino-Tadros.jpg",
+"images/speakers/2024/Matt-Eland.jpg",
+"images/speakers/2024/Michael-Gregory.jpg"
         ]);
     });
   }

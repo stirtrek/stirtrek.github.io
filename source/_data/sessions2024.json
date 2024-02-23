@@ -23,6 +23,72 @@
       "isConfirmed": true
     },
     {
+      "id": "618279",
+      "title": "A Beginner's Guide to Android App Performance",
+      "description": "In this beginner-friendly talk, we will dive into the (probably) intimidating world of Android app performance optimization. Are your apps slow to launch? Do they not render smoothly and seem unresponsive? Fear not! This session is tailored to developers at all levels who want to enhance their app's performance and create a seamless user experience.\r\n\r\nWe'll cover everything from inspecting to improving to monitoring to explaining concepts like rendering, threading, memory management, and network calls. Then, we'll walk you through common performance bottlenecks and demonstrate practical techniques to overcome them. From optimizing layout designs to using caching effectively, we aim to empower you with actionable tips to create snappy and responsive apps!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8e5643e1-4f39-4186-8dc9-12582569a961"
+      ],
+      "categoryItems": [
+        234798
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "618557",
+      "title": "Being a Good \"Evil Overlord\": Keeping Your AI Code Generating Minion in Line with TDD",
+      "description": "MWAHAHAHAHA! You’ve activated your robot army to rule the world in pure, robotic harmony!  Soon the humans will be replaced by simple, silicon perfection!\r\n\r\n… But something’s wrong.  Your AI minion is generating code that’s off the mark. You’re getting walls of code that technically run… but they’re still buggy.  Your orbital laser couldn’t even hit the broad side of Canada, the code is so wrong.  And it’s all so repetitive!  This is going to be impossible to maintain once you overthrow the world’s governments.  You thought these code gen tools were supposed to help!\r\n\r\nYou were so careful before the code generation minion came along.  TDD used to guarantee the application of your laser grids at your secret lair, after all.  But does TDD still have a place in the machine age? How can you bend the code-generating AIs to your will?  How can you be an even more effective mastermind?\r\n\r\nWe’ll look at how the code generation minion operates, how prompting the bot works, and how good testing practice makes for good prompting.  Before you know it, you’ll have your death ray back online!  So grab your lab coat, snap on those rubber gauntlets, and dramatically slide your goggles over your eyes.   It’s time to take back control of your robot army and conquer the world!\r\n",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "87db584b-f295-4018-96af-a0e1074fe7b4"
+      ],
+      "categoryItems": [
+        234800
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "618248",
+      "title": "Beyond Request/Response: Why and how we should change the way we build web applications",
+      "description": "As web developers, we’ve been building web applications the same way for 25 years. We send a request, and we receive a response. We might get a whole page back, or we might get some data to render, but the common thread for almost every web application that has ever been built is the request/response cycle. What if we didn’t have to do it this way? What kind possibilities would open up to us?\r\n\r\nIn this session, we’ll take a simple, existing design pattern that you are probably already familiar with even if you don’t know it by name: the Event/State Reducer pattern. You’ve already used it if you’ve worked with Redux or Elm. We are going to stretch this pattern just a little: we will publish events from the client, use reducer functions on the server to compute our new state, and subscribe to these state changes on the client.\r\n\r\nWe’ll explore this idea with several code examples that gradually increase in complexity. We’ll see how building collaborative and real-time applications becomes natural and straightforward. We’ll also see how to combine statically generated websites with interactive applications in a way that was difficult or impossible before. You can expect to come away with practical but hopefully mind expanding new approaches to building your next application. \r\n",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "911aa52a-b0e0-42d7-99c2-e6701cfefcb0"
+      ],
+      "categoryItems": [
+        234801
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "618695",
       "title": "Brain maxed out? Add a Second Brain!",
       "description": "Stop overloading your brain with too much information and too many good intentions! Ditch the mental grind, and build a Second Brain to give your first brain a break.\r\n\r\nDiscover how Second Brain “support systems” like note taking apps (Evernote, Notion, and OneNote) can yield surprising gains so you can wield the information that matters most to achieve your highest personal goals.\r\n\r\nLearn surprising ways to better capture, organize, and leverage the information vital to your success and make it actionable and relevant to your life.",
@@ -45,6 +111,72 @@
       "isConfirmed": true
     },
     {
+      "id": "611249",
+      "title": "Bug Bounty Recon - Bypassing Geographic DNS with Ensemble",
+      "description": "Most bug bounty hunters are missing a huge attack surface when conducting their scans. Often large companies have GeoDNS enabled. If a hunter doesn’t actively bypass GeoDNS by toggling multiple different proxies, or VPNs in different regions, then the hunter only sees the services running on the server located closest to them geographically. The issue with this is that companies often have different services running on servers in different regions. All of which the hunter is missing during their recon phase. \r\n \r\nEnsemble, a free open-source tool being released during Defcon 31, will solve this issue. By creating a load balanced, regionally distributed cluster of nodes and a friendly web portal to control them, Ensemble allows attackers to run identical commands simultaneously across multiple geographic regions. The results of the scans are then aggregated and returned to the hunter in an easy-to-use web platform. These commands can then be scheduled to run regularly so that hunter can get back to focusing on the technical details and not need to focus on manually switching proxy locations, VPNs, and rerunning the same commands over and over again which is highly error prone. \r\n",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "4eae9c9e-9d2a-4ad0-8c0b-78b180a12fa6"
+      ],
+      "categoryItems": [
+        234805
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "608069",
+      "title": "Building Resilient Apps: A Software Engineer’s Practical Guide to Application Security",
+      "description": "News of cyberattacks and data breaches continue to make headlines. Cybersecurity can be overwhelming; we’re told that threat actors are becoming more sophisticated and cyber threats are constantly evolving, yet many security trainings are unhelpful, awful, boring, and too theoretical. There’s nothing worse than imagining your hard work become the next cautionary tale in the media but not know what to do about it. Perhaps you already know security is important but don’t know how where to begin. Maybe you're dealing with a flood of requests from the infosec team, struggling to see the big picture, and unsure how to prioritize their demands among the rest of the backlog. And if the threats are constantly evolving, how do you even keep up and avoid an endless game of security whack-a-mole?\r\n\r\nThankfully, while the threat landscape can seem scary and complex, application security doesn’t have to be. In this talk, learn from Jamie Dicken, former software engineer turned security professional, who will provide practical insights, actionable advice, and a straightforward framework for building secure systems. We’ll cover simple steps you can take throughout the entire product lifecycle and empower you to build resilient systems that can withstand the threats of both today and tomorrow.\r\n",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d06fd6a1-87cf-4d20-a5e0-2dd64c2039bb"
+      ],
+      "categoryItems": [
+        234805
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "618222",
+      "title": "Decoding Design: Figma Essentials for Developers",
+      "description": "It's time to stop pretending Figma is some mystical land only designers can navigate. “Decoding Design: Figma Essentials for Developers” is the wake-up call for developers who've been conveniently side-stepping the world of design. In this ironic, yet enlightening talk that challenges the notion that Figma is a designer-only zone, you’ll learn why embracing Figma is not just about keeping the peace with your design team, but about empowering yourself as a developer. It’s time to join the party.\r\n\r\nIn this session, you’ll discover how to efficiently fit Figma into your development workflow, extract design specs, explore the plugin ecosystem, and streamline communication with designers. Perfect for developers who tune out when Figma is screen-shared during project meetings. Get ready to add 'Figma-savvy' to your skillset and maybe, just maybe, make your projects look as good as they function.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f38f42d8-7623-457c-8871-dbb44bc458da"
+      ],
+      "categoryItems": [
+        234801
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "608481",
       "title": "How To Get Started With AI: Moving Beyond ChatGPT",
       "description": "AI has captured the attention of the world—for better or worse. Hype, noise, and fear are dominating the headlines, with a huge focus on ChatGPT and its competitors. Today, most of us are being asked to do something with AI; and if not today, then tomorrow. Quite simply, AI is going to touch on every part of our jobs soon enough.\r\n\r\nHowever, most of us aren’t AI researchers. It’s not our specialty. \r\n\r\nThat’s ok! We’re asked to do things we aren’t specialists in every day. We can leverage the skills we’ve developed to accelerate our learning of AI. The gap isn’t nearly as large as it may seem at first.\r\n\r\nIn this talk, we will provide a broad overview of the field, through the lens of five areas where AI is commonly used:\r\n\r\n* Making sense of the physical world\r\n* Structuring unstructured/unformatted data to be machinable\r\n* Predicting trends and group membership\r\n* Building plans and strategies\r\n* Generating media for human consumption\r\n\r\nFor each application area, we'll be looking at the underlying subfields of AI that seek to address it, discuss the common pitfalls and best practices in that space, and introduce tools that you can use to solve those problems today.",
@@ -57,6 +189,28 @@
       ],
       "categoryItems": [
         234804
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "618240",
+      "title": "Into to MAUI for Makers",
+      "description": "The .NET Multi-platform App UI, or MAUI, makes it easy to create applications for mobile devices. It is an ideal platform for makers who want to control their creations from a phone or tablet. While your device could expose a web page on some well-known port, you need to get the device connected to a network somehow which means potentially exposing WIFI credentials to the world. A better option is to use Bluetooth LE and a mobile app to control your device. We’ll take a look at Conway's Game of Life running on a Raspberry Pi Pico W and the Android app that controls it. We’ll cover Bluetooth discovery and connection management in .NET, buffered receive callbacks in MicroPython, defining the UI in XAML, and the benefits of MVVM. It’ll be fun! ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e11bb876-8b14-409c-99cf-6b1154c5fbd3"
+      ],
+      "categoryItems": [
+        234797
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -123,6 +277,28 @@
       ],
       "categoryItems": [
         234802
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "610462",
+      "title": "Leadership Journey: From Individual Contributor to Leader",
+      "description": "You’ve spent years working on your technical skills and can write code with the best of them. Then, one day, a leadership position opens up on your team, and you start thinking about it. Should I or shouldn’t I? What if I hate it? What if I love it? What if I'm not that good at it? In this interactive session,\r\nwe’ll explore “why leadership,” answer some hard questions, and talk about one developer’s path from individual contributor to leader.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "45e1aedb-bf8c-43e1-be2d-cedeff50c9bd"
+      ],
+      "categoryItems": [
+        234799
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -211,6 +387,50 @@
       ],
       "categoryItems": [
         234802
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "609450",
+      "title": "Productive Get-togethers: running meetings that should NOT have been an email!",
+      "description": "We ALL have sat through some (ahem, hundreds!) meetings that achieved nothing. We have ALL run meetings that could have been better. Join this no-BS session and equip yourself with tools and skills to manage meetings that should not have been an email! Learn to:\r\n•\tDefine the outcomes and the agenda (audience gasps in awe!)\r\n•\tManage participants (and get their contributions) before, during and after the meeting\r\n•\tLead inclusive discussions\r\n•\tManage challenging situations",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f5db9d74-f6da-4fd5-9708-1392384e8b12"
+      ],
+      "categoryItems": [
+        234799
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "607257",
+      "title": "Real World Minimal APIs",
+      "description": "With .NET Core, Minimal APIs come to .NET developers. But this introduction poses the question of whether this replaces or enhances our existing Controller-base APIs. In this talk, Shawn Wildermuth will show you how Minimal APIs work and why you'd use them instead of Controller-based APIs (as well as when to maturate your APIs from Minimal to Controller-based APIs).",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e0d63ad2-9848-425f-a130-10b610726dec"
+      ],
+      "categoryItems": [
+        234795
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -353,6 +573,28 @@
       "isConfirmed": true
     },
     {
+      "id": "607260",
+      "title": "Variables of the Veracious Variety: How to Better Name your Variables",
+      "description": "As the famous Phil Karlton quote goes: \"There are only two hard things in Computer Science: cache invalidation and naming things\". This talk focuses on one of those things: naming!\r\n\r\nWhy is naming so difficult? How do we craft concise, clear, and consistent variable names? What makes a variable name concise, clear, and consistent? In this talk, I'd like to discuss the importance of naming, walk through examples of variable names  and improve them, and set some clear guidelines and tips on how to name things. \r\n\r\nBy the end of this talk, you'll leave with the indispensable skill of effectively naming things!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a378b580-baef-4c58-a9b3-589139c88159"
+      ],
+      "categoryItems": [
+        234795
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "612872",
       "title": "Why overcomplicate when HTML will do?",
       "description": "Remember when the frontend didn't have it's own router and MVC framework? When productivity wasn't ground to a halt by a fragile spiderweb of dependencies? When server responses to browsers were HTML?\r\n\r\nIn this talk, we'll discuss tools like htmx and Hotwire and how they give us a way to build modern feeling web applications from basic HTML responses. By leveraging web standards and the technical advances of browsers, we will reduce both the lines of code we need to write and the amount of knowledge needed to built a fullstack application.\r\n\r\nThis talk isn't about providing a silver bullet solution, but it is a call to action to reexamine how we build things. If you feel like we've overcomplicated things and you're deploying lines of code instead of functionality, this talk is for you.",
@@ -405,6 +647,107 @@
         609622
       ],
       "fullName": "Abbey Perini",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a378b580-baef-4c58-a9b3-589139c88159",
+      "firstName": "Adrienne",
+      "lastName": "Braganza Tacke",
+      "bio": "Adrienne is a Filipina software engineer, keynote speaker, author of the best-selling book Coding for Kids: Python, and a LinkedIn Learning instructor who's reached over 65,000 learners with her courses (a number she'll likely surpass when you read this). She is writing Looks Good To Me: Constructive Code Reviews, a labor of love that she hopes will improve code reviews everywhere. Perhaps most important, however, is that she spends way too much money on desserts and ungodly amounts of time playing Age of Empires II.",
+      "tagLine": "Senior Developer Advocate at Cisco",
+      "profilePicture": "https://sessionize.com/image/013d-400o400o1-47Fgw3JruofVhj2qJsCuyB.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/AdrienneTacke",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/adriennetacke",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Looks Good To Me: Constructive Code Reviews",
+          "url": "https://www.manning.com/books/looks-good-to-me",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        607260
+      ],
+      "fullName": "Adrienne Braganza Tacke",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8e5643e1-4f39-4186-8dc9-12582569a961",
+      "firstName": "Aldo",
+      "lastName": "Socarras",
+      "bio": "Aldo Socarras is a Cuban-born software engineer and content creator based in Miami, Florida. With expertise in Android development and a commitment to increasing diversity and equity in the tech industry, Aldo has taught mobile development at companies like Meta and Google. Passionate about making knowledge accessible, he hopes to inspire and empower others to pursue careers in technology and make a positive impact in the world.",
+      "tagLine": "Android Engineer at Square",
+      "profilePicture": "https://sessionize.com/image/f7e9-400o400o1-RSVvGudxHEQkjRWKb1G3XR.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/driuft",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/airsocarras/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/@driuft",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://squareup.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        618279
+      ],
+      "fullName": "Aldo Socarras",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "4eae9c9e-9d2a-4ad0-8c0b-78b180a12fa6",
+      "firstName": "Anthony",
+      "lastName": "Russell",
+      "bio": "Anthony Russell, is a software engineer with over 11 years of professional experience. He has a focus in information security and has been featured in 2600 magazine, on Hak5 and has spoken at both Defcon and DerbyCon multiple times. Favorite things to discuss are blockchain technology, baking custom IoT devices, and everything infosec. You can see more of Anthony's work at DotNetRussell.com or Twitter.com/DotNetRussell",
+      "tagLine": "Software Engineer ",
+      "profilePicture": "https://sessionize.com/image/dea7-400o400o1-JUD6uXHYxYCB6AEU1dJQ2i.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/DotNetRussell",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/dotnetrussell",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://DotNetRussell.com",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        611249
+      ],
+      "fullName": "Anthony Russell",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -552,6 +895,43 @@
       "questionAnswers": []
     },
     {
+      "id": "911aa52a-b0e0-42d7-99c2-e6701cfefcb0",
+      "firstName": "Chris",
+      "lastName": "Nelson",
+      "bio": "Chris Nelson is a Co-Founder of Launch Scout. He created the company’s apprenticeship program, mentors new developers, and sets technology direction. He loves sharing what he’s learned from over 25 years of developing software across a wide range of industries. Chris has given workshops across the country and spoken at conferences including ElixirConf, RailsConf, RubyConf, JavaOne, CodeMash and Scottish Ruby Conf.",
+      "tagLine": "Co-Founder and Principal Engineer",
+      "profilePicture": "https://sessionize.com/image/2da1-400o400o1-2a-b0e0-42d7-99c2-e6701cfefcb0.a944d54a-eb9d-4300-b373-b5561ffacbd8.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://twitter.com/superchris",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/chris-nelson-038875/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://launchscout.com/blog",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://launchscout.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        618248
+      ],
+      "fullName": "Chris Nelson",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "3884cc4d-8364-4316-9b9a-e16561d87af3",
       "firstName": "David",
       "lastName": "Neal",
@@ -580,6 +960,28 @@
         610588
       ],
       "fullName": "David Neal",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e11bb876-8b14-409c-99cf-6b1154c5fbd3",
+      "firstName": "Dennis",
+      "lastName": "Dunn",
+      "bio": "As a retired dark-matter hacker, Dennis has written code for academia, state government, and the private sector. As a polyglot, he has coded in languages that have long since died out as well as more obscure tongues such as TCL. He finds parser combinators fascinating and when not engaging with the field of computer science you will find him sleeping. He enjoys science fiction, paragliding, and Catan.",
+      "tagLine": "Serial Hobbyist",
+      "profilePicture": "https://sessionize.com/image/b877-400o400o1-X3XmTRDpLeawDhGTux3FdD.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Blog",
+          "url": "https://dennisdunn.github.io/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        618240
+      ],
+      "fullName": "Dennis Dunn",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -626,6 +1028,38 @@
       "questionAnswers": []
     },
     {
+      "id": "f38f42d8-7623-457c-8871-dbb44bc458da",
+      "firstName": "Georgia",
+      "lastName": "Loper",
+      "bio": "Georgia Loper loves the web. She champions frontend excellence at Upstart by empowering teams to engineer quality user experiences with Patina Design System.",
+      "tagLine": "Senior Software Engineer, Design Systems",
+      "profilePicture": "https://sessionize.com/image/4c08-400o400o1-QgVSaToMDE3wP51xmz97A5.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/developerLoper",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/georgialoper/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://developerloper.dev",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        618222
+      ],
+      "fullName": "Georgia Loper",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "afe8e698-95d5-45ad-b69a-d1e202d9698b",
       "firstName": "Henry Berson",
       "lastName": "Saint-Juste",
@@ -654,6 +1088,33 @@
         611216
       ],
       "fullName": "Henry Berson Saint-Juste",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "d06fd6a1-87cf-4d20-a5e0-2dd64c2039bb",
+      "firstName": "Jamie",
+      "lastName": "Dicken",
+      "bio": "Jamie Dicken has worked across much of cybersecurity domain, including application security, DevSecOps, security chaos engineering, continuous control validation, security tooling and automation, security posture maturation, security architecture, and governance, risk, and compliance. Prior to her transition into cybersecurity, she spent 8 years as a software engineer and technical manager at two Fortune 15 healthcare companies, where she focused on designing, building, and delivering new features to the market. Now Jamie focuses on protecting systems like the ones she used to build and transforming the ways that engineering teams and security professionals work together. Jamie is currently the Director of Security Assurance at New Relic, leading teams focused on product, infrastructure, and enterprise security. She also freelances as a threat modeling instructor at Shostack + Associates.\r\n\r\nHer professional passions include leading high-performing teams, executing on high-profile strategic initiatives, championing employee growth and development, and mentoring others. Outside of work, Jamie has lots of adventures with her two boys and amazingly supportive husband.  She enjoys spending time outdoors and crafting.\r\n",
+      "tagLine": "Builder and Protector",
+      "profilePicture": "https://sessionize.com/image/3069-400o400o1-RdKyJ7o1e92PwxbQ6cgRyt.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jdicken/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/@jamie_dicken",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        608069
+      ],
+      "fullName": "Jamie Dicken",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -912,6 +1373,38 @@
       "questionAnswers": []
     },
     {
+      "id": "45e1aedb-bf8c-43e1-be2d-cedeff50c9bd",
+      "firstName": "Michael",
+      "lastName": "Eaton",
+      "bio": "Michael Eaton is a proven technical leader and developer with almost three decades of experience focused almost exclusively on building solutions for the Microsoft ecosystem. He is currently a Principal Consultant with Improving, helping clients build amazing software and working to change the perception of the IT profession. He is a blogger and writes about leadership and technology.\r\n",
+      "tagLine": "Principal Consultant at Improving",
+      "profilePicture": "https://sessionize.com/image/af31-400o400o1-XNt3CFNqUZq7J5feQ43RUd.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/mjeaton",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/mjeaton/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://samestuffdifferentday.com",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        610462
+      ],
+      "fullName": "Michael Eaton",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "a20452f8-9d56-44dd-8bd4-7fb403e54e5b",
       "firstName": "Michael",
       "lastName": "Gregory",
@@ -930,6 +1423,97 @@
         618642
       ],
       "fullName": "Michael Gregory",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f5db9d74-f6da-4fd5-9708-1392384e8b12",
+      "firstName": "Natalie",
+      "lastName": "Hylton",
+      "bio": "Meet Natalie, an impostor extraordinaire who came to banking infrastructure technology with a degree in linguistics and background in journalism… and turned her temporary gig into a 15-year long career. Her experience spans four countries, five cities and two continents.  The “projects” and “products” on her resume translate into the art of creating relationships with people and inspiring them to grow and be the best of themselves.  Natalie loves trying new things (skydiving is next). She is a world traveler, board game geek, an active mother of three, and a proud owner of an imaginary cat. The things that make her happy are people and her insatiable passion for learning. She combines every interaction and every experience into a broad picture of WHY we do things the way we do and HOW we can use this knowledge to make our lives, and the world, better.",
+      "tagLine": "Technology Talent Development, Vice President, JPMorganChase",
+      "profilePicture": "https://sessionize.com/image/8110-400o400o1-aGiLU4E1hqL97HmzqhxzPz.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/natalie-hylton",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        609450
+      ],
+      "fullName": "Natalie Hylton",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "87db584b-f295-4018-96af-a0e1074fe7b4",
+      "firstName": "Sean",
+      "lastName": "Wedig",
+      "bio": "Sean Wedig is a Principal Software Engineer, tech talk organizer, mustache-wielder, and general loud mouth. He's been doing various forms of professional software development for about 20 years and making terrible puns for even longer. He's currently working on neat R&D problems in computer vision and geometric model search algorithms, while also getting awesome people to talk about awesome things at Physna, the company behind Thangs.com.",
+      "tagLine": "Principal Software Engineer and Mustache-wielder at Physna",
+      "profilePicture": "https://sessionize.com/image/1c86-400o400o1-4ASu2uAp5vtLq3JqXSQHq.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/seanwedig/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        618557
+      ],
+      "fullName": "Sean Wedig",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e0d63ad2-9848-425f-a130-10b610726dec",
+      "firstName": "Shawn",
+      "lastName": "Wildermuth",
+      "bio": "Shawn Wildermuth has been tinkering with computers and software since he got a Vic-20 back in the early ‘80s. As a Microsoft MVP since 2003, he’s also involved with Microsoft as an ASP.NET Insider and ClientDev Insider. He’s the author of over twenty Pluralsight courses, written eight books, an international conference speaker, and one of the Wilder Minds. You can reach him at his blog at http://wildermuth.com. He’s released his first film, a feature-length, documentary about software developers today called “Hello World: The Film”. You can see more about it at http://twainfilms.com.",
+      "tagLine": "Microsoft MVP, Speaker and Pluralsight Author",
+      "profilePicture": "https://sessionize.com/image/c255-400o400o1-XEx8wZghoHmbBWnSbsqDFv.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/shawnwildermuth",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/shawnwildermuth/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://wildermuth.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://shawn.wildermuth.com",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Film Website",
+          "url": "https://twainfilms.com",
+          "linkType": "Other"
+        },
+        {
+          "title": "YouTube",
+          "url": "https://shawnl.ink/yt",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        607257
+      ],
+      "fullName": "Shawn Wildermuth",
       "categoryItems": [],
       "questionAnswers": []
     },

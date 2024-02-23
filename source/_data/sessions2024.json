@@ -1,1 +1,466 @@
-{}
+{
+  "sessions": [
+    {
+      "id": "618695",
+      "title": "Brain maxed out? Add a Second Brain!",
+      "description": "Stop overloading your brain with too much information and too many good intentions! Ditch the mental grind, and build a Second Brain to give your first brain a break.\r\n\r\nDiscover how Second Brain “support systems” like note taking apps (Evernote, Notion, and OneNote) can yield surprising gains so you can wield the information that matters most to achieve your highest personal goals.\r\n\r\nLearn surprising ways to better capture, organize, and leverage the information vital to your success and make it actionable and relevant to your life.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0dfa92b1-c9a1-4910-8e95-a31049f0665a"
+      ],
+      "categoryItems": [
+        234799
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "608481",
+      "title": "How To Get Started With AI: Moving Beyond ChatGPT",
+      "description": "AI has captured the attention of the world—for better or worse. Hype, noise, and fear are dominating the headlines, with a huge focus on ChatGPT and its competitors. Today, most of us are being asked to do something with AI; and if not today, then tomorrow. Quite simply, AI is going to touch on every part of our jobs soon enough.\r\n\r\nHowever, most of us aren’t AI researchers. It’s not our specialty. \r\n\r\nThat’s ok! We’re asked to do things we aren’t specialists in every day. We can leverage the skills we’ve developed to accelerate our learning of AI. The gap isn’t nearly as large as it may seem at first.\r\n\r\nIn this talk, we will provide a broad overview of the field, through the lens of five areas where AI is commonly used:\r\n\r\n* Making sense of the physical world\r\n* Structuring unstructured/unformatted data to be machinable\r\n* Predicting trends and group membership\r\n* Building plans and strategies\r\n* Generating media for human consumption\r\n\r\nFor each application area, we'll be looking at the underlying subfields of AI that seek to address it, discuss the common pitfalls and best practices in that space, and introduce tools that you can use to solve those problems today.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "468d2621-a815-4e39-8c07-6c18162c9b1a"
+      ],
+      "categoryItems": [
+        234804
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "618642",
+      "title": "Is Your Software Going to Fail?",
+      "description": "No matter how hard we try, our software doesn't always behave the way we expect. Our applications will inevitably fail, sometimes in spectacular ways. Not all failures are our fault, but we can prepare for many problems, even the external ones. In this talk, we'll consider various reasons our apps might fail, ranging from bugs to the hosting platform. Every application will have its own set of failure conditions that should be considered. I'll challenge you to think about how you can make your application more resilient while sharing examples of how I prepare for failure in the distributed systems I manage.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a20452f8-9d56-44dd-8bd4-7fb403e54e5b"
+      ],
+      "categoryItems": [
+        234802
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "607263",
+      "title": "Making your code suck less without setting fire to production",
+      "description": "Technical debt and legacy code are pure poison to most development teams. Every organization is saddled with technical debt and wants to get to a safer place, but many are stymied in fear, uncertainty, and doubt. It doesn't have to be this way.\r\n\r\nIn this talk we'll cover the process of safely refactoring code through guided tests, built-in code analysis and refactoring tools, architectural decisions, and replacing vertical slices of your applications iteratively (no more failed large rewrites!).\r\n\r\nWe'll also explore the critically important factors relevant to refactoring code in enterprise organizations and agile environments including getting buy-in for paying down technical debt and rolling out changes in a safe and repeatable manner.\r\n\r\nWhile the talk is less centered on individual languages and tooling and more focused on high-level strategies, we will cover some specific examples in C# and VS Code.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "17c299ee-d9fd-4020-b499-2837b2b3a2bf"
+      ],
+      "categoryItems": [
+        234795
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "617262",
+      "title": "Minimum Viable Replacement: A New Approach to Replacing Old Systems",
+      "description": "Are you engaged in a digital transformation initiative, working to retire systems as part of a merger and integration project, or sunsetting a legacy product?\r\n\r\nIf so, then invest an hour to learn about the Minimum Viable Replacement framework before you potentially waste thousands of hours and millions of dollars pursuing the wrong strategy for retiring and replacing existing systems. \r\n\r\n You will learn:\r\n1.  Why the Minimum Viable Product framework fails miserably when attempting to replace legacy systems.\r\n2. The math behind why it’s impossible to accurately estimate scope, costs and timelines of complex projects.\r\n3. How to identify, quantify and mitigate key risks that most people/organizations overlook.\r\n4. Where to focus your initial UX and architectural research to avoid disastrous surprises toward the end of the project.\r\n5. And much, much more – all delivered via a series of colorful slides, clear examples and sixth-grade math formulas that you can use to impress your boss and colleagues.\r\n\r\nTo learn more prior to the session, you can read an introductory article on the subject at https://dontmakemework.com/2021/04/22/minimum-viable-replacement-a-new-framework-for-retiring-old-products-2/\r\n",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "44a129e3-2fc6-4d16-849f-671c5c6c3f0e"
+      ],
+      "categoryItems": [
+        234796
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "618346",
+      "title": "Using Web Components to Scale Your UX",
+      "description": "Whether you're a company with a variety of projects or an app that uses micro-front-end architecture, creating a consistent and reliable user experience can be difficult.\r\n\r\nIn this session, we will discuss how, at Microsoft, we have leveraged web components to standardize our user experiences and improve developer efficiency.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b642eabd-7250-4ac5-b3b0-ce01951b88aa"
+      ],
+      "categoryItems": [
+        234801
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "612872",
+      "title": "Why overcomplicate when HTML will do?",
+      "description": "Remember when the frontend didn't have it's own router and MVC framework? When productivity wasn't ground to a halt by a fragile spiderweb of dependencies? When server responses to browsers were HTML?\r\n\r\nIn this talk, we'll discuss tools like htmx and Hotwire and how they give us a way to build modern feeling web applications from basic HTML responses. By leveraging web standards and the technical advances of browsers, we will reduce both the lines of code we need to write and the amount of knowledge needed to built a fullstack application.\r\n\r\nThis talk isn't about providing a silver bullet solution, but it is a call to action to reexamine how we build things. If you feel like we've overcomplicated things and you're deploying lines of code instead of functionality, this talk is for you.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c8f6b8ff-f9d7-4bac-8f0a-3a7c646d7e69"
+      ],
+      "categoryItems": [
+        234802
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    }
+  ],
+  "speakers": [
+    {
+      "id": "b642eabd-7250-4ac5-b3b0-ce01951b88aa",
+      "firstName": "Burton",
+      "lastName": "Smith",
+      "bio": "I am a technical lead at Microsoft working with design systems and web components.\r\n\r\nI am also the creator of various open-source projects like Kickstand UI (a design system built with web components - kickstand-ui.com) and Clarion (a style framework for managing design systems - projectclarion.com).\r\n\r\nIn my free time, I love spending time with my wife and three daughters, practicing martial arts, jamming on my ukulele, and learning new things (usually about software engineering).",
+      "tagLine": "Technical Lead at Microsoft",
+      "profilePicture": "https://sessionize.com/image/a176-400o400o1-RK53QgNQm7o2xatLDp6RRh.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/stuffbreaker",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/burton-smith-48132a34/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://dev.to/stuffbreaker",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.microsoft.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        618346
+      ],
+      "fullName": "Burton Smith",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "0dfa92b1-c9a1-4910-8e95-a31049f0665a",
+      "firstName": "Jeffrey",
+      "lastName": "Miller",
+      "bio": "Jeffrey Miller is a Senior Consultant at Manifest Solutions in Columbus, Ohio. Jeffrey has over two decades of experience helping organizations bring value to their mission through software. He has presented a variety of topics at local user groups, regional tech conferences, and a national healthcare conference.\r\n\r\nJeffrey and his wife, Brandy, are adoptive parents and have written a fun children’s book called \"Skeeters\" with proceeds supporting adoption. Learn more about the project at https://skeeterbooks.com/adoption/.",
+      "tagLine": "Technologist, Speaker, Author",
+      "profilePicture": "https://sessionize.com/image/e283-400o400o1-wkqqor3X63ekEykbRRnw8c.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/xagronaut",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/jamiller",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://knowledgeplaybook.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://manifestcorp.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        618695
+      ],
+      "fullName": "Jeffrey Miller",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "c8f6b8ff-f9d7-4bac-8f0a-3a7c646d7e69",
+      "firstName": "Jonathan",
+      "lastName": "Knapp",
+      "bio": "An experienced independent contractor who has helped companies successfully plan and implement technical projects. For almost two decades, Jon has built custom SaaS applications, coached employees on new technologies, consulted on the direction and architecture of large projects, and acted as a part-time CTO.\r\n\r\nHe's also the President of Cleveland GiveCamp, a weekend event pairing tech volunteers with local nonprofit projects, and life long supporter of the NEO tech community.",
+      "tagLine": "Programmer / Consultant at Coffee and Code",
+      "profilePicture": "https://sessionize.com/image/621c-400o400o1-B4oe7Z8oEkAUJUSUtk3YZE.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/cc-jonknapp/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.coffeeandcode.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        612872
+      ],
+      "fullName": "Jonathan Knapp",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "468d2621-a815-4e39-8c07-6c18162c9b1a",
+      "firstName": "Jordan",
+      "lastName": "Thayer",
+      "bio": "Jordan Thayer received her PhD in Artificial Intelligence in 2012 from the University of New Hampshire. Ever since, she's been applying artificial intelligence in academia and industry to problems including intrusion detection, planning, static analysis, and program generation.\r\n\r\nAs a thought leader at SEP, she's been proving that AI isn't futuristic technology. Rather, it's a collection of techniques of varying levels of maturity that can often reliably solve problems they have today. She gives talks, runs workshop, visualizes algorithm behavior, and build proofs of concept as well as products to show what AI can do already.",
+      "tagLine": "AI Practice Lead for SEP",
+      "profilePicture": "https://sessionize.com/image/7a7b-400o400o1-S4qsxBHZR9RQTKGvpw6suE.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/drbass",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jordan-seabass-thayer/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://sep.com/blog/author/jordan-thayer/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://sep.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        608481
+      ],
+      "fullName": "Jordan Thayer",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "44a129e3-2fc6-4d16-849f-671c5c6c3f0e",
+      "firstName": "Kevin",
+      "lastName": "Mireles",
+      "bio": "Kevin Mireles has a BA in BS and a PhD from the school of Hard Knocks, which he earned after successfully burning through millions of dollars of other people’s money. \r\n\r\nHis claims to fame include getting a ride from Hunter S. Thompson's attorney while hitchhiking from Colorado to California , fleeing from killer bee's while biking through the Amazon, and being a dad of three amazing girls.\r\n\r\nIn addition, he’s an undercover Hispanic, former journalist and current product manager with 20+ years of experience blending quantitative and qualitative insights to develop e-commerce, news and analytic solutions used by hundreds of thousands around the globe.\r\n",
+      "tagLine": "Creator Minimum Viable Replacement & Uncertainty, Complexity & Impact Risk Model",
+      "profilePicture": "https://sessionize.com/image/2fb9-400o400o1-p5vwqQdXggcS4HpaqZ9igT.jpeg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/kevinjmireles",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/kevin-mireles-6462751/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://www.dontmakemework.com",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        617262
+      ],
+      "fullName": "Kevin Mireles",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "17c299ee-d9fd-4020-b499-2837b2b3a2bf",
+      "firstName": "Matt",
+      "lastName": "Eland",
+      "bio": "Matt Eland is a software engineering leader and data scientist who has served as a senior engineer, software engineering manager, professional programming instructor, and has helped build enterprise-level software at a variety of organizations before distinguishing himself as a Microsoft MVP in Artificial Intelligence.\r\n\r\nMatt is an AI Specialist at Leading EDJE, is the author of \"Refactoring with C#\" and the upcoming \"Data Science in .NET\" book. Matt is also building a LinkedIn Learning course on Computer Vision on Azure, a personal AI agent, and pursuing a master's degree in data analytics. Matt occasionally sleeps as well.",
+      "tagLine": "Microsoft MVP & AI Specialist at Leading EDJE",
+      "profilePicture": "https://sessionize.com/image/711e-400o400o1-LB9ECqRxKsrgsAic7EsrY.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/IntegerMan",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/matteland/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://MattEland.dev",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://LeadingEDJE.com",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Portfolio",
+          "url": "https://MattEland.dev",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        607263
+      ],
+      "fullName": "Matt Eland",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a20452f8-9d56-44dd-8bd4-7fb403e54e5b",
+      "firstName": "Michael",
+      "lastName": "Gregory",
+      "bio": "Michael Gregory started his career as a full-stack web developer, but has gradually moved deeper into backend systems. Now he is part of an SRE team primarily supporting OverDrive's search systems. He has experience managing Kafka, RabbitMQ, Elasticsearch, and Kubernetes clusters. That's more than enough to keep the world's user interfaces safe from him.",
+      "tagLine": "Site Reliability Engineer at OverDrive",
+      "profilePicture": "https://sessionize.com/image/072f-400o400o1-NJJpiiVQwXPkcydSM6h5RW.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Company Website",
+          "url": "https://company.overdrive.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        618642
+      ],
+      "fullName": "Michael Gregory",
+      "categoryItems": [],
+      "questionAnswers": []
+    }
+  ],
+  "questions": [],
+  "categories": [
+    {
+      "id": 66662,
+      "title": "Track",
+      "items": [
+        {
+          "id": 234795,
+          "name": "Application Languages, Frameworks, Fundamentals",
+          "sort": 1
+        },
+        {
+          "id": 234802,
+          "name": "Architecture, Patterns",
+          "sort": 2
+        },
+        {
+          "id": 234803,
+          "name": "Cloud, Infra, DevOps",
+          "sort": 3
+        },
+        {
+          "id": 234804,
+          "name": "Data, AI, ML",
+          "sort": 4
+        },
+        {
+          "id": 234796,
+          "name": "Design, Product Strategy",
+          "sort": 5
+        },
+        {
+          "id": 234801,
+          "name": "Full Stack Web Development",
+          "sort": 6
+        },
+        {
+          "id": 234797,
+          "name": "IoT, Home Automation, Maker Topics",
+          "sort": 7
+        },
+        {
+          "id": 234798,
+          "name": "Mobile & Desktop App Development",
+          "sort": 8
+        },
+        {
+          "id": 234799,
+          "name": "Professional Skills, Leadership, Business",
+          "sort": 9
+        },
+        {
+          "id": 234805,
+          "name": "Security",
+          "sort": 10
+        },
+        {
+          "id": 234800,
+          "name": "Software Quality - Testing, Process, Code Reviews, etc.",
+          "sort": 11
+        },
+        {
+          "id": 245096,
+          "name": "Track Changed",
+          "sort": 12
+        }
+      ],
+      "sort": 2,
+      "type": "session"
+    }
+  ],
+  "rooms": []
+}

@@ -20,26 +20,15 @@ More details coming soon!
 
 {% raw %}
 <div class="speakerAvatarBioStrip">
-    <div class="avatarPanel comic-panel-body">
-        <div class="comic-panel-header comic-panel-highlighted">
-            Carey Payette!
-        </div>
-        <div>
-            <img src="/images/speakers/2022/Carey-Payette.jpg" class="img-responsive speakerImage">
-        </div>
-        <div class="speakerTagline">
-            <h3>Trillium Innovations</h3>
-        </div>
-    </div>
     <div class="bioPanel comic-panel-body">
         <div class="comic-panel-header comic-panel-highlighted">
             Workshop!
         </div>
-        <h2>TBD</h2>
-        TBD
+        <h2>Building a Modular Monolith in .NET</h2>
+        <p>A monolith refers to a software application that is deployed as a single physical deployment. Many monolithic applications lack sufficient structure and end up becoming Big Balls of Mud.</p>
+        <p>By contrast, a modular monolith breaks up the application into logical modules which are largely independent from one another. This provides many of the benefits of more distributed approaches like microservices without the overhead of deploying and managing a distributed application.</p>
+        <p>In this hands-on workshop, you’ll learn how to get started building a modular monolith application in .NET 8.</p>
     </div>
-</div>
-<div class="speakerAvatarBioStrip">
     <div class="avatarPanel comic-panel-body">
         <div class="comic-panel-header comic-panel-highlighted">
             Steve Smith!
@@ -48,35 +37,77 @@ More details coming soon!
             <img src="/images/speakers/2023/Steve-Smith.jpg" class="img-responsive speakerImage">
         </div>
         <div class="speakerTagline">
-            <h3>I Help Teams Deliver Better Software</h3>
+            <h3>I Help Teams Deliver Better Software<br><br>NimblePros</h3>
         </div>
-    </div>
-    <div class="bioPanel comic-panel-body">
-        <div class="comic-panel-header comic-panel-highlighted">
-            Workshop!
-        </div>
-        <h2>Building a Modular Monolith in .NET</h2>
-        A monolith refers to a software application that is deployed as a single physical deployment. Many monolithic applications lack sufficient structure and end up becoming Big Balls of Mud. By contrast, a modular monolith breaks up the application into logical modules which are largely independent from one another. This provides many of the benefits of more distributed approaches like microservices without the overhead of deploying and managing a distributed application. In this hands-on workshop, you’ll learn how to get started building a modular monolith application in .NET 8
     </div>
 </div>
-<div class="speakerAvatarBioStrip">
-    <div class="avatarPanel comic-panel-body">
-        <div class="comic-panel-header comic-panel-highlighted">
-            TBD!
-        </div>
-        <div>
-            <img src="/images/StirTrek-Emblem-Gold.png" class="img-responsive speakerImage">
-        </div>
-        <div class="speakerTagline">
-            <h3>TBD</h3>
-        </div>
-    </div>
+<br><br><br>
+<div class="speakerAvatarBioStrip doubleSpeakerAvatarBioStrip">
     <div class="bioPanel comic-panel-body">
         <div class="comic-panel-header comic-panel-highlighted">
             Workshop!
         </div>
-        <h2>TBD</h2>
-        TBD
+        <h2>Generative AI is easy!</h2>
+        <p>Look at ChatGPT, you ask a question, you get an answer! How difficult could it be?</p>
+        <p>This workshop is tailored for those seeking to understand the application of Generative AI within enterprise environments, focusing on the requirements for security, scalability, and extensibility. The workshop will delve into various topics and include demonstrations throughout:</p>
+        <ol>
+            <li>An exploration of Large Language Models (LLMs), discussing their purpose, how they are constructed, and how they are made available for use.</li>
+            <li>Detailed insights into Prompt Engineering and how it enhances the relevance and coherence of AI chatbot responses in real-time conversations.</li>
+            <li>Demonstrations of Zero-Shot and Few-Shot Prompts to illustrate their effectiveness with OpenAI's LLMs.</li>
+            <li>A discussion on the role of Orchestrators, including Semantic Kernel (SK) from Microsoft for integrating LLMs with conventional programming languages, and LangChain for application development with LLMs.</li>
+            <li>A deep dive into Retrieval Augmentation processes, including RALM, RAG, ReAct, and COT patterns, to enrich LLM responses with company data.</li>
+            <li>An introduction to Embedding Models and Vectorization, explaining the transformation of high-dimensional data into low-dimensional vectors for easier machine learning processing.</li>
+            <li>A look at Vectorization Databases, which store data as mathematical vector embeddings, and a discussion on various available platforms like Azure AI Search, Pinecone, Chroma, Faiss, and Azure Postgresql.</li>
+            <li>An overview of security practices, including Red Team exercises and Security Hardening, aimed at identifying and mitigating vulnerabilities.</li>
+            <li>An explanation of Row level Security (RLS) for limiting access to data within a database, detailing its application in securing Generative AI environments.</li>
+        </ol>
+        <p>Participants will gain knowledge on operating LLMs and orchestrators, managing custom data, and implementing security measures to ensure the safety and privacy of organizational data while maintaining scalability and extensibility.</p>
+    </div>
+    <div class="avatarPanel comic-panel-body">
+        <div class="comic-panel-header comic-panel-highlighted">
+            Lino Tadros!
+        </div>
+        <div>
+            <img src="/images/speakers/2024/Lino-Tadros.jpg" class="img-responsive speakerImage" alt="Photo of Lino Tadros">
+        </div>
+        <div class="speakerTagline">
+            <h3>Technical Fellow and Distinguished Executive<br><br>Solliance</h3>
+        </div>
+    </div>
+    <div class="avatarPanel avatar2 comic-panel-body">
+        <div class="comic-panel-header comic-panel-highlighted">
+            Carey Payette!
+        </div>
+        <div>
+            <img src="/images/speakers/2022/Carey-Payette.jpg" class="img-responsive speakerImage" alt="Photo of Carey Payette">
+        </div>
+        <div class="speakerTagline">
+            <h3>Azure MVP<br><br>Trillium Innovations</h3>
+        </div>
+    </div>
+</div>
+<br><br><br>
+<div class="speakerAvatarBioStrip">
+    <div class="bioPanel comic-panel-body">
+        <div class="comic-panel-header comic-panel-highlighted">
+            Workshop!
+        </div>
+        <h3>Innovation Unleashed: AI, Agility, and the Fast Track to Software Excellence!</h3>
+        <p>Can AI and agility be seamlessly integrated to write and deliver quality software at an unprecedented pace? You decide!</p>
+        <p>Join our intensive workshop where participants, regardless of their prior experience, will dive into the powerful fusion of AI tools while implementing a simple framework. Through a hands-on exploration of the source code of a popular game, teams will unravel the potential of this unique combination.</p>
+        <p>The central focus: Investigate how the strategic use of paid-versions of popular AI tools, within an agile framework, can lead to accelerated software delivery with superior quality.</p>
+        <p>Be part of this dynamic experience, where participants will not only gain practical insights into implementing agility but also discover the keys to unlocking speed and innovation in software development.</p>
+    </div>
+    <div class="avatarPanel comic-panel-body">
+        <div class="comic-panel-header comic-panel-highlighted">
+            John Riley!
+        </div>
+        <div>
+            <img src="/images/speakers/2024/John-Riley.jpg" class="img-responsive speakerImage" alt="Photo of John Riley">
+        </div>
+        <div class="speakerTagline">
+            <h3>Agile Coach & Professional Scrum Trainer<br><br>Ready Set Agile, LLC</h3>
+        </div>
     </div>
 </div>
 <style>
@@ -84,10 +115,16 @@ More details coming soon!
             display: grid;
             width: 100%;
             grid-template-areas:
-                "avatar     bio         bio";
+                "bio  bio avatar";
             grid-template-columns: 1fr 1fr 1fr;
             column-gap: 40px;
             margin-bottom: 40px;            
+        }
+        .doubleSpeakerAvatarBioStrip {
+            grid-template-areas:
+                "bio        bio        bio"
+                "avatar     avatar2    .";
+            grid-template-columns: 1fr 1fr 1fr;
         }
         .speakerSessionStrip {
             display: grid;
@@ -110,6 +147,10 @@ More details coming soon!
             background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
             color: black;
             text-align: center;
+            z-index: 50;
+        }
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel.avatar2 {
+            grid-area: avatar2;
         }
         .speakerSessionStrip .abstractPanel {
             grid-area: abstract;

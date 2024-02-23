@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1708722332279';
+var CACHE = 'network-or-cache-1708722423808';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -33,17 +33,17 @@ function precache() {
 "/covid/index.html",
 "/recordings/",
 "/recordings/index.html",
-"/registration/",
-"/registration/index.html",
 "/schedule/",
 "/schedule/index.html",
+"/registration/",
+"/registration/index.html",
 "/sessions/",
 "/sessions/index.html",
-"/speakers/2018.html",
 "/speakers/2019.html",
+"/speakers/2018.html",
 "/speakers/2020.html",
-"/speakers/2022.html",
 "/speakers/2021.html",
+"/speakers/2022.html",
 "/speakers/2023.html",
 "/speakers/2024.html",
 "/speakers/",
@@ -62,10 +62,10 @@ function precache() {
 "/info/antiharassmentpolicy/index.html",
 "/info/codeofconduct/",
 "/info/codeofconduct/index.html",
-"/info/contact/",
-"/info/contact/index.html",
 "/info/commitmenttodiversity/",
 "/info/commitmenttodiversity/index.html",
+"/info/contact/",
+"/info/contact/index.html",
 "/info/history/",
 "/info/history/index.html",
 "/info/press/2024-02-10.html",
@@ -83,8 +83,8 @@ function precache() {
 "/styles/fontawesome.min.css",
 "/scripts/bootstrap.js",
 "/scripts/luxon.min.js",
-"/scripts/jquery.js",
 "/scripts/jquery-3.3.1.min.js",
+"/scripts/jquery.js",
 "/styles/bootstrap.min.css",
 "/styles/bootstrap.css",
 "/scripts/jquery-3.3.0.js",

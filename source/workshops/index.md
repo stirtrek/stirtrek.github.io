@@ -18,6 +18,14 @@ More details coming soon!
 
 <br>
 
+<div style="text-align: center;">
+    <a href="https://www.readysetagile.com/"><img src="/images/sponsors/readysetagile_600x120.png" style="width: 50%;" alt="Ready Set Agile logo"></a>
+    <p>Thank you to our sponsor <a href="https://www.readysetagile.com/">Ready Set Agile</a> for making these workshops possible.</p>
+</div>
+
+<br>
+<br>
+
 {% raw %}
 <div class="speakerAvatarBioStrip">
     <div class="bioPanel comic-panel-body">

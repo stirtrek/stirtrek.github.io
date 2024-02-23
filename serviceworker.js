@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1708661304488';
+var CACHE = 'network-or-cache-1708719372948';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -25,9 +25,9 @@ function precache() {
     return caches.open(CACHE).then(function (cache) {
     return cache.addAll([
             "/images/speakers/2022/Readme.html",
-"/manifest.json",
 "/",
 "/index.html",
+"/manifest.json",
 "/404.html",
 "/recordings/",
 "/recordings/index.html",
@@ -49,9 +49,9 @@ function precache() {
 "/speakers/",
 "/speakers/index.html",
 "/speakers/index_cfpopenversion.html",
+"/speakers/index_noncfpversion.html",
 "/sponsors/",
 "/sponsors/index.html",
-"/speakers/index_noncfpversion.html",
 "/store/",
 "/store/index.html",
 "/virtual/",
@@ -62,10 +62,10 @@ function precache() {
 "/info/antiharassmentpolicy/index.html",
 "/info/codeofconduct/",
 "/info/codeofconduct/index.html",
-"/info/contact/",
-"/info/contact/index.html",
 "/info/commitmenttodiversity/",
 "/info/commitmenttodiversity/index.html",
+"/info/contact/",
+"/info/contact/index.html",
 "/info/history/",
 "/info/history/index.html",
 "/info/press/2024-02-10.html",
@@ -87,8 +87,8 @@ function precache() {
 "/scripts/jquery.js",
 "/styles/bootstrap.min.css",
 "/styles/bootstrap.css",
-"/scripts/jquery-3.3.0.js",
 "/scripts/jquery-3.3.1.js",
+"/scripts/jquery-3.3.0.js",
 "/speakers/2018/Adam-Pasternack.html",
 "/speakers/2018/Angel-Thomas.html",
 "/speakers/2018/Anna-Heiermann.html",
@@ -766,7 +766,9 @@ function precache() {
 "images/speakers/2023/Tim-LeMaster.png",
 "images/speakers/2023/Todd-Gardner.jpg",
 "images/speakers/2023/Valarie-Regas.jpg",
-"images/speakers/2023/Vitaliy-Matiyash.jpg"
+"images/speakers/2023/Vitaliy-Matiyash.jpg",
+"images/speakers/2024/John-Riley.jpg",
+"images/speakers/2024/Lino-Tadros.jpg"
         ]);
     });
   }

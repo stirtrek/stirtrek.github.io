@@ -1,6 +1,28 @@
 {
   "sessions": [
     {
+      "id": "609622",
+      "title": "#gitPanic - Merging and Rebasing",
+      "description": "You can commit and push changes, but what if other developers are working in the repo at the same time as you? How do you add changes from one branch to another? What the heck is interactive rebasing? We'll cover squashing, cherry-picking, resolving conflicts, the difference between merging and rebasing,  and more!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d634fb03-b0d6-4077-8242-958204650751"
+      ],
+      "categoryItems": [
+        234795
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "618695",
       "title": "Brain maxed out? Add a Second Brain!",
       "description": "Stop overloading your brain with too much information and too many good intentions! Ditch the mental grind, and build a Second Brain to give your first brain a break.\r\n\r\nDiscover how Second Brain “support systems” like note taking apps (Evernote, Notion, and OneNote) can yield surprising gains so you can wield the information that matters most to achieve your highest personal goals.\r\n\r\nLearn surprising ways to better capture, organize, and leverage the information vital to your success and make it actionable and relevant to your life.",
@@ -32,6 +54,50 @@
       "isPlenumSession": false,
       "speakers": [
         "468d2621-a815-4e39-8c07-6c18162c9b1a"
+      ],
+      "categoryItems": [
+        234804
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "608522",
+      "title": "Introduction to Azure Infrastructure as Code",
+      "description": "Infrastructure as Code (IaC) has become a critical part of DevOps, allowing for declarative definition, configuration, deployment, and management of simple and complex IT solutions. In this session, we’ll review the importance of IaC and how it fits into the Continuous Delivery aspect of DevOps. In addition, you will get a taste of different IaC technologies, such as ARM, Bicep, Terraform, Ansible, and Pulumi, to manage your Azure resources.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1dcd0ca7-4052-4f43-998e-4f895ebd6614"
+      ],
+      "categoryItems": [
+        234803
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "609345",
+      "title": "Is Everyone AI-ing Without Me? A .NET Developers Guide to AI",
+      "description": "AI is causing the tech landscape to evolve faster than ever, so it's important to understand how and when to use custom development versus when to use artificial intelligence (AI), and how to use the two together.\r\n\r\nThis talk takes you on a journey that demystifies the process of integrating AI concepts into .NET projects, opening doors to endless possibilities in your software projects. We'll go through a list of many of the AI tools and services available to a .NET developer, when you would use them, and how they would integrate into your traditional algorithms.\r\n\r\nParticipants leave equipped with a newfound understanding of AI's role in their .NET developer toolkit, poised to infuse innovation into their projects and embrace the exciting realm of AI-augmented software development.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d108027a-7e26-46f5-b92d-9f6cb59eb283"
       ],
       "categoryItems": [
         234804
@@ -89,6 +155,28 @@
       "isConfirmed": true
     },
     {
+      "id": "617755",
+      "title": "Messaging With Limits: Concurrent, Multi-Stage Data Processing in the Real World",
+      "description": "Our team at GetThru found ourselves with a scaling problem. Working with our existing infrastructure for sending text messages was becoming increasingly complex. Years of bewildering external requirements had led us to the point where the existing system was both incorrect and difficult to reason about.\r\n\r\nIn this session, we'll go over a case study of our new concurrent, multi-stage data processing pipeline. Starting from the fundamentals, we'll see how our team efficiently handled our existing external requirements and built in flexibility for the future. Finally, we'll look at how we did all of this in our existing monolith, avoiding the complexity of microservices.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0a6bb39e-057f-4417-870f-53fab140a2ee"
+      ],
+      "categoryItems": [
+        234802
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "617262",
       "title": "Minimum Viable Replacement: A New Approach to Replacing Old Systems",
       "description": "Are you engaged in a digital transformation initiative, working to retire systems as part of a merger and integration project, or sunsetting a legacy product?\r\n\r\nIf so, then invest an hour to learn about the Minimum Viable Replacement framework before you potentially waste thousands of hours and millions of dollars pursuing the wrong strategy for retiring and replacing existing systems. \r\n\r\n You will learn:\r\n1.  Why the Minimum Viable Product framework fails miserably when attempting to replace legacy systems.\r\n2. The math behind why it’s impossible to accurately estimate scope, costs and timelines of complex projects.\r\n3. How to identify, quantify and mitigate key risks that most people/organizations overlook.\r\n4. Where to focus your initial UX and architectural research to avoid disastrous surprises toward the end of the project.\r\n5. And much, much more – all delivered via a series of colorful slides, clear examples and sixth-grade math formulas that you can use to impress your boss and colleagues.\r\n\r\nTo learn more prior to the session, you can read an introductory article on the subject at https://dontmakemework.com/2021/04/22/minimum-viable-replacement-a-new-framework-for-retiring-old-products-2/\r\n",
@@ -101,6 +189,138 @@
       ],
       "categoryItems": [
         234796
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "618668",
+      "title": "Modular Monoliths - The Goldilocks Architecture?",
+      "description": "Monolithic apps are the worst! They grow and grow until they collapse under their own weight as a Big Ball of Mud.\r\n\r\nMicroservices are the here to save us! But wait, they're REALLY hard to get right and REALLY hard to manage at scale. And way too often they end up being the worst of all worlds, the dreaded DISTRIBUTED MONOLITH.\r\n\r\nEnter, the Modular Monolith. Simple deployments, cheaper hosting, but easy to extend and capable of supporting multiple independent development teams. Not too simple, but not too complex. Maybe the Goldilocks solution your application has been yearning for.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
+      ],
+      "categoryItems": [
+        234802
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "618549",
+      "title": "Streams, not Waterfalls - Improving Page Load and Core Web Vitals",
+      "description": "Single-page apps unlock instant user interactions and highly dynamic user experiences, but as applications get more complex, the price is paid in terms of performance. We either end up with cascading client-server fetches for code and data, or with obscenely large JavaScript bundles to bring in caching solutions. This talk will explore how Streaming architecture is helping applications load much faster by eliminating client-server waterfalls, significantly improving the core web vitals and user experience, and how React is bringing the benefits of Streaming to its declarative component model.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a1bb832b-5d10-4914-8150-dfdae9875e8a"
+      ],
+      "categoryItems": [
+        234801
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "607015",
+      "title": "Swimming in the Lake of Microsoft Fabrics",
+      "description": "Attend this session to learn more about Microsoft Fabric and how it enables organizations, and individuals, to turn large and complex data repositories into actionable workloads and analytics, and is an implementation of data mesh architecture.\r\nCome learn about OneLake and LakeHouses, and the unification of lakehouses in the platform.\r\nWe will discuss Data Engineering, Data Science concepts, Data Factory (Pipelines and DataFlow), Real Time Analytics (KQL), and the use of Power BI for visualization.\r\nYou will leave this session feeling excited and with the desire to go use this remarkable technology to achieve great data analytics for your company.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "834c6970-8e0f-4eea-b8fb-0dd4af2d6943"
+      ],
+      "categoryItems": [
+        234804
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "610588",
+      "title": "The Illustrated Guide to Node.js",
+      "description": "Node.js is a compelling platform for building all types of applications for startups to enterprises. Node.js strategically unites developers through the universal language of JavaScript. Or TypeScript! Why should you learn Node.js, and where do you start?\r\n\r\nYou will walk away from this fun introduction to Node.js having learned its strengths and the tools you need to be productive. We will cover a typical workflow of creating and debugging a web application. We'll also look at popular frameworks, libraries, and learning resources to give you the best start.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3884cc4d-8364-4316-9b9a-e16561d87af3"
+      ],
+      "categoryItems": [
+        234795
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "611216",
+      "title": "The Unified Code Base",
+      "description": "We live in an ever-changing technologically enabled world and having a responsive website won't just cut it—organizations need to be mobile ready. If you're a Web, Native iOS or Android developer looking to deliver a cross-platform experience for your target audience, then this talk is for you. You'll discover the best practices for targeting Native iOS, Android and the web using React and React-Native without compromising the user's experience. By the end of this highly interactive session, you'll be on your way to build and deploy highly scalable universal applications using one code-base to rule them all.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "afe8e698-95d5-45ad-b69a-d1e202d9698b"
+      ],
+      "categoryItems": [
+        234798
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "608573",
+      "title": "This is a Promise That You'll Understand Asynchronous Programming with JavaScript",
+      "description": "JavaScript is changing faster than ever with a yearly release cadence that brings useful syntax tweaks, new APIs, and updated language functionality. Of the dozens of new features added to JavaScript over the last ten years, Promises stand out as one of the most important yet most difficult to understand for both backend and frontend developers. If you're looking to finally understand the 'what', 'why', and 'how' of Promises, this is your ELI5 (\"explain like I'm five\") moment.\r\n\r\nLet's learn about asynchronous programming in JavaScript by understanding the fundamentals of Promises: why they were added to the language, what you need to write your own, how async/await fix Promise chaining, recent API changes, and much more. This session will introduce the basics of Promises, then ramp up into practical examples and techniques that will help you fully utilize Promises in your code today.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b9c9b80c-b534-476f-b78c-17a89234bf8b"
+      ],
+      "categoryItems": [
+        234802
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -157,6 +377,107 @@
   ],
   "speakers": [
     {
+      "id": "d634fb03-b0d6-4077-8242-958204650751",
+      "firstName": "Abbey",
+      "lastName": "Perini",
+      "bio": "Abbey Perini is many things - a metro Atlanta native, a person of many hobbies, and a full-stack web developer. She loves blogging about fun and useful things about programming. You can find her work and ways to connect with her at abbeyperini.dev.",
+      "tagLine": "Web Developer | Technical Blogger",
+      "profilePicture": "https://sessionize.com/image/8a14-400o400o1-T8DAuDodxjqU9V13L2fySJ.jpeg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://www.twitter.com/abbeyperini",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/abbey-perini/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://dev.to/abbeyperini",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        609622
+      ],
+      "fullName": "Abbey Perini",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "b9c9b80c-b534-476f-b78c-17a89234bf8b",
+      "firstName": "Brandon",
+      "lastName": "Bruno",
+      "bio": "Brandon has been hacking away at code since a dusty Commodore 64 appeared from his parents' attic in the early 90's, but has spent the last 15 years building client solutions in .NET, JavaScript, and Sitecore DXP. He is currently a Solution Engineer at Sitecore, Inc. and is active in the Sitecore community as a former Sitecore MVP (2018 - 2021). He focuses on solution architecture, content management, application security, and dodging Atlanta traffic.",
+      "tagLine": "Solution Engineer at Sitecore, Inc.",
+      "profilePicture": "https://sessionize.com/image/1e49-400o400o1-sjNLcvrthjycbTw5nLQRk7.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/BrandonMBruno",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/brandonbruno/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.sitecorespark.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.sitecore.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        608573
+      ],
+      "fullName": "Brandon Bruno",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "0a6bb39e-057f-4417-870f-53fab140a2ee",
+      "firstName": "Brian",
+      "lastName": "Meeker",
+      "bio": "Brian Meeker is a full stack engineer who occasionally leaves his basement in Indiana. Currently, he works as a Senior Engineer at GetThru. He works mostly in Elixir these days, but has a past littered with a wide variety of technologies and platforms. Outside of work, Brian is a devoted father, avid nerd, and lover of metal.",
+      "tagLine": "Senior Engineer at GetThru",
+      "profilePicture": "https://sessionize.com/image/4548-400o400o1-PSG5kFLMFabeCh1nW38yJa.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/brianmeeker/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://brianmeeker.me",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://brianmeeker.me/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        617755
+      ],
+      "fullName": "Brian Meeker",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "b642eabd-7250-4ac5-b3b0-ce01951b88aa",
       "firstName": "Burton",
       "lastName": "Smith",
@@ -190,6 +511,149 @@
         618346
       ],
       "fullName": "Burton Smith",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1dcd0ca7-4052-4f43-998e-4f895ebd6614",
+      "firstName": "Carey",
+      "lastName": "Payette",
+      "bio": "Carey Payette is a Senior Software Engineer with Trillium Innovations (a Solliance partner), an ASPInsider, Progress Developer Expert, a Microsoft Certified Trainer, and a Microsoft Azure MVP. Her primary focus is Cloud integration and deployment for the web, mobile, big data, AI, machine learning, and IoT spaces. Always eager to learn, you will find her tinkering regularly with various sensors, microcontrollers, programming languages, and frameworks. Carey is also a wife and Mom to three fabulous boys.",
+      "tagLine": "Trillium Innovations",
+      "profilePicture": "https://sessionize.com/image/e0e5-400o400o1-NWLvEfscqhxZezDN1zhZoW.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://www.twitter.com/careypayette",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/careypayette/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.codingbandit.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.trilliuminnovations.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        608522
+      ],
+      "fullName": "Carey Payette",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "3884cc4d-8364-4316-9b9a-e16561d87af3",
+      "firstName": "David",
+      "lastName": "Neal",
+      "bio": "David is a family man, software developer, musician, illustrator, and Microsoft MVP living in North Georgia, USA. He is currently a Developer Advoduck for MotherDuck. David runs on a high-octane mixture of caffeine and JavaScript, and is made entirely of bacon.",
+      "tagLine": "Ambassador of Awesome",
+      "profilePicture": "https://sessionize.com/image/bda3-400o400o1-BvwMwXxUadTafEi6SY3PdU.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/reverentgeek",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/davidneal",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://reverentgeek.com",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        610588
+      ],
+      "fullName": "David Neal",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a1bb832b-5d10-4914-8150-dfdae9875e8a",
+      "firstName": "Dev",
+      "lastName": "Agrawal",
+      "bio": "I am a full time Developer Advocate at Clerk and I make content on Twitch on YouTube regarding software design and architecture. I've been writing full-stack JavaScript apps 6 years, recently graduated with an IT degree from University of Cincinnati. I have a special interest in devtools that make it easier and faster to ship features at scale, especially those of the serverless variety.",
+      "tagLine": "Developer Advocate at Clerk",
+      "profilePicture": "https://sessionize.com/image/62cf-400o400o1-4xuRrhzYi1QncpviHAybYw.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/devagrawal09",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/dev-agr",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://devagr.me/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://clerk.com",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "YouTube",
+          "url": "https://youtube.com/@devagr",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        618549
+      ],
+      "fullName": "Dev Agrawal",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "afe8e698-95d5-45ad-b69a-d1e202d9698b",
+      "firstName": "Henry Berson",
+      "lastName": "Saint-Juste",
+      "bio": "Henry Saint-Juste is a solution architect at NetJets, based out of Columbus, Ohio. Henry has a decade of experience building scalable mobile applications with Objective-C, Swift, and Java. As an architect Henry enjoys building modules that promotes clean code and enhances the developer experience, while delivering value to the business. Embodying Rob C. Martin's reference from Clean Architecture—\"The Tale of Two Values\" where software applications boils down to two values—Behavior, and Architecture.",
+      "tagLine": "The Solutions Architect",
+      "profilePicture": "https://sessionize.com/image/670f-400o400o1-4Y6qgXr9yE5svXyvpxdnu3.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/TheAppDr",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/hberson",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.netjets.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        611216
+      ],
+      "fullName": "Henry Berson Saint-Juste",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -254,6 +718,43 @@
         612872
       ],
       "fullName": "Jonathan Knapp",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "d108027a-7e26-46f5-b92d-9f6cb59eb283",
+      "firstName": "Jonathan \"J.\"",
+      "lastName": "Tower",
+      "bio": "Jonathan, or J as he's known to friends, is a husband, a father, and the owner of Trailhead Technology Partners, a custom software consulting company with employees all around the world. He is also a Microsoft MVP in .NET and frequently speaks at software meetups and conferences. He doesn't mind too much because he loves sharing what he’s learned, and it also gives him an excuse to visit any nearby National Parks, a passion of his, proven by the fact that he's currently made it to 56 of the 63 parks.\r\n\r\nJ also has a passion for building community and has served on several non-profit boards over the years as a result. Currently, J sits on the SoftwareGR board, a non-profit trade organization dedicated to building the software industry in West Michigan. He also runs Beer City Code, a software conference, and has served as president on that board for over a decade. J loves hiking, reading, photography, and trying to see all the best picture nominees before the Oscars ceremony.",
+      "tagLine": "Partner & Principal Consultant, Trailhead Technology Partners",
+      "profilePicture": "https://sessionize.com/image/827a-400o400o1-KHxrfEnSxDyJiSFgNR88Q5.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/jtowermi",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jtower/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://trailheadtechnology.com/blog",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://trailheadtechnology.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        609345
+      ],
+      "fullName": "Jonathan \"J.\" Tower",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -327,6 +828,48 @@
       "questionAnswers": []
     },
     {
+      "id": "834c6970-8e0f-4eea-b8fb-0dd4af2d6943",
+      "firstName": "Lino",
+      "lastName": "Tadros",
+      "bio": "Distinguished executive leader and renowned technical expert in AI, Machine Learning, and IoT. Leads cross-functional architectural teams to award-winning performance by developing strategic roadmaps and powering enterprise-wide projects. Serves as board member and advisor for multiple corporations delivering strategic guidance on product line developments and business solutions. Industry influencer and mastermind of strategic programs and innovations leading modernization efforts to alter the global IT landscape as Microsoft Regional Director.\r\n\r\nHIGHLIGHTS\r\n\r\n•Partnered with Microsoft to consult major corporations on Azure integrations; trained over 1K global employees and architects across US, Canada, Europe, Middle East, and Australia.\r\n•Invited into elite Microsoft Regional Director program as Top 1% of global SMEs...Maintains direct line of communication to Microsoft executive leaders and Office of the President for Technical and Business Influence.\r\n•Inspired $200M marketing push for Microsoft Teams platform and led strategy for MS Azure Synapse design and release; catapulted competitive advantage over Zoom and AWS.\r\n•Piloted multi-million-dollar architecture projects for organizations in US, Europe, and Australia to include DoD, NASA, Disney, HP, Johnson & Johnson, and international banking institutions.\r\n•Authored 150-page IoT playbook for Microsoft; over 750K downloads across global audience.",
+      "tagLine": "Technical Fellow and Distinguished Executive",
+      "profilePicture": "https://sessionize.com/image/11b1-400o400o1-U6RvudbDaQsexFa34s1wBy.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/linotadros",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/linotadros",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://thetrainingboss.com/blogs",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://thetrainingboss.com",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Home Site",
+          "url": "https://thetrainingboss.com",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        607015
+      ],
+      "fullName": "Lino Tadros",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "17c299ee-d9fd-4020-b499-2837b2b3a2bf",
       "firstName": "Matt",
       "lastName": "Eland",
@@ -387,6 +930,43 @@
         618642
       ],
       "fullName": "Michael Gregory",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a5d50f4e-f021-4983-97a9-73f9415b3d5b",
+      "firstName": "Steve",
+      "lastName": "Smith",
+      "bio": "Steve Smith (@ardalis) is an entrepreneur and software developer with a passion for building quality software as effectively as possible. Steve has published several courses on Pluralsight, covering DDD, SOLID, design patterns, and software architecture. He's a Microsoft ASP.NET MVP and Insider, a frequent speaker at developer conferences, an author, and a trainer.\r\n\r\nSteve works with companies that want to avoid the trap of technical debt by helping their teams deliver quality software, quickly. Steve and his team have been described by clients as a \"force multiplier\", amplifying the value of existing development teams. Steve's client list includes Microsoft, Quicken Loans, Celina Insurance, and many other satisfied customers.",
+      "tagLine": "I Help Teams Deliver Better Software",
+      "profilePicture": "https://sessionize.com/image/2328-400o400o1-4e-f021-4983-97a9-73f9415b3d5b.34dc742e-9a1e-4c87-98ad-c6bae9a07972.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/ardalis",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/stevenandrewsmith",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://ardalis.com/blog",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://nimblepros.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        618668
+      ],
+      "fullName": "Steve Smith",
       "categoryItems": [],
       "questionAnswers": []
     }

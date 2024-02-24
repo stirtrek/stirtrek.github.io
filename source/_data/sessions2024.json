@@ -45,6 +45,28 @@
       "isConfirmed": true
     },
     {
+      "id": "614006",
+      "title": "API Decision-Making: Graphql, JSON:API, or the Schema in Your Head",
+      "description": "When you are building a backend API how do you determine what the schema is going to look like? Sometimes you meet for days or weeks with various groups of engineers, architects and managers to decide on a schema that everyone (or at least the most vocal) can agree to. Sometimes you just wing it.\r\n\r\nThere are times when both of those can be ok. But many times if you are building an API that you want to see scale and you want to be able to onboard more engineers you should establish patterns early and stick to them as long as you can.\r\n\r\nTwo patterns that are popular right now are JSON:API and GraphQL. In this talk, I explain why you would use one of these specifications. I talk about positives and negatives of each and in the process I show the differences in how you interact with each one! We’ll look at a small website I made that easily demonstrates the differences in interacting with endpoints built with these two different schemas.\r\n\r\nFinally, we’ll talk about the libraries I used to implement each one and why I chose the library that I did. We will also talk about why you would use a library at all versus hand rolling a solution.\r\n\r\nThe backend solution is built in Ruby on Rails and the frontend is built with react! The github is public so that after the talk the audience can access the code to have examples and the README explains how to spin up the app and play around with it yourself!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1fb276ad-c948-40e2-b5ec-dc10bafe4beb"
+      ],
+      "categoryItems": [
+        234802
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "618557",
       "title": "Being a Good \"Evil Overlord\": Keeping Your AI Code Generating Minion in Line with TDD",
       "description": "MWAHAHAHAHA! You’ve activated your robot army to rule the world in pure, robotic harmony!  Soon the humans will be replaced by simple, silicon perfection!\r\n\r\n… But something’s wrong.  Your AI minion is generating code that’s off the mark. You’re getting walls of code that technically run… but they’re still buggy.  Your orbital laser couldn’t even hit the broad side of Canada, the code is so wrong.  And it’s all so repetitive!  This is going to be impossible to maintain once you overthrow the world’s governments.  You thought these code gen tools were supposed to help!\r\n\r\nYou were so careful before the code generation minion came along.  TDD used to guarantee the application of your laser grids at your secret lair, after all.  But does TDD still have a place in the machine age? How can you bend the code-generating AIs to your will?  How can you be an even more effective mastermind?\r\n\r\nWe’ll look at how the code generation minion operates, how prompting the bot works, and how good testing practice makes for good prompting.  Before you know it, you’ll have your death ray back online!  So grab your lab coat, snap on those rubber gauntlets, and dramatically slide your goggles over your eyes.   It’s time to take back control of your robot army and conquer the world!\r\n",
@@ -1327,6 +1349,38 @@
         607015
       ],
       "fullName": "Lino Tadros",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1fb276ad-c948-40e2-b5ec-dc10bafe4beb",
+      "firstName": "Liz",
+      "lastName": "Johnson",
+      "bio": "Liz is a Full Stack software engineer with Sillicon Hemisphere - a software consultancy. She has built widely used backend APIs at larger companies and worked full stack building APIs and frontends at smaller startups. Having recently worked on a greenfield API that had to be able to scale and scale fast she has seen, first hand, the major benefits of conforming to API specifications  and using open source libraries to implement them. She's also a mom to young boys also loves long distance running.",
+      "tagLine": "Staff Software Engineer at Silicon Hemisphere",
+      "profilePicture": "https://sessionize.com/image/35ba-400o400o1-fYqFDq4aTeaXmBKBcCngQE.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/liz-johnson-88610b67/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/@lizjohnson_83228",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.siliconhemisphere.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        614006
+      ],
+      "fullName": "Liz Johnson",
       "categoryItems": [],
       "questionAnswers": []
     },

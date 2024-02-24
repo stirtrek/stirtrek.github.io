@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1708730809042';
+var CACHE = 'network-or-cache-1708733688939';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -48,10 +48,10 @@ function precache() {
 "/speakers/2024.html",
 "/speakers/",
 "/speakers/index.html",
+"/speakers/index_cfpopenversion.html",
 "/speakers/index_noncfpversion.html",
 "/sponsors/",
 "/sponsors/index.html",
-"/speakers/index_cfpopenversion.html",
 "/store/",
 "/store/index.html",
 "/virtual/",
@@ -66,15 +66,15 @@ function precache() {
 "/info/commitmenttodiversity/index.html",
 "/info/contact/",
 "/info/contact/index.html",
+"/info/press/2024-02-10.html",
 "/info/history/",
 "/info/history/index.html",
-"/info/press/2024-02-10.html",
 "/info/press/",
 "/info/press/index.html",
-"/info/travel/",
-"/info/travel/index.html",
 "/info/privacy/",
 "/info/privacy/index.html",
+"/info/travel/",
+"/info/travel/index.html",
 "/styles/bootstrap-button-social.min.css",
 "/styles/fontawesome-4.min.css",
 "/styles/site.css",
@@ -83,8 +83,8 @@ function precache() {
 "/styles/fontawesome.min.css",
 "/scripts/bootstrap.js",
 "/scripts/luxon.min.js",
-"/scripts/jquery-3.3.1.min.js",
 "/scripts/jquery.js",
+"/scripts/jquery-3.3.1.min.js",
 "/styles/bootstrap.min.css",
 "/styles/bootstrap.css",
 "/scripts/jquery-3.3.0.js",
@@ -363,6 +363,7 @@ function precache() {
 "/speakers/2024/Jordan-Thayer.html",
 "/speakers/2024/Kevin-Mireles.html",
 "/speakers/2024/Lino-Tadros.html",
+"/speakers/2024/Liz-Johnson.html",
 "/speakers/2024/Matt-Eland.html",
 "/speakers/2024/Michael-Eaton.html",
 "/speakers/2024/Michael-Gregory.html",
@@ -819,6 +820,7 @@ function precache() {
 "images/speakers/2024/Jordan-Thayer.jpg",
 "images/speakers/2024/Kevin-Mireles.jpeg",
 "images/speakers/2024/Lino-Tadros.jpg",
+"images/speakers/2024/Liz-Johnson.jpg",
 "images/speakers/2024/Matt-Eland.jpg",
 "images/speakers/2024/Michael-Eaton.png",
 "images/speakers/2024/Michael-Gregory.jpg",

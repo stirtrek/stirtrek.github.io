@@ -199,6 +199,28 @@
       "isConfirmed": true
     },
     {
+      "id": "618233",
+      "title": "Doing DevOps Right: Trunk-based Development, CICD, and IaC",
+      "description": "Have you heard of DevOps, but don't know where to start? Curious about how a developer can work with, instead of against, the operations team?  \r\n\r\nIn this talk, we will cover some of the strategies that lead to effective DevOps.  These strategies are part of the best practices and technical capabilities from the Accelerate State of DevOps Report.\r\n\r\nWe will also show how developers can work synergistically with DevOps using trunk-based development, Continuous Integration, Continuous Delivery, and Infrastructure as Code.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "417c729c-5980-4169-988e-bca43024353a"
+      ],
+      "categoryItems": [
+        234803
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "608481",
       "title": "How To Get Started With AI: Moving Beyond ChatGPT",
       "description": "AI has captured the attention of the world—for better or worse. Hype, noise, and fear are dominating the headlines, with a huge focus on ChatGPT and its competitors. Today, most of us are being asked to do something with AI; and if not today, then tomorrow. Quite simply, AI is going to touch on every part of our jobs soon enough.\r\n\r\nHowever, most of us aren’t AI researchers. It’s not our specialty. \r\n\r\nThat’s ok! We’re asked to do things we aren’t specialists in every day. We can leverage the skills we’ve developed to accelerate our learning of AI. The gap isn’t nearly as large as it may seem at first.\r\n\r\nIn this talk, we will provide a broad overview of the field, through the lens of five areas where AI is commonly used:\r\n\r\n* Making sense of the physical world\r\n* Structuring unstructured/unformatted data to be machinable\r\n* Predicting trends and group membership\r\n* Building plans and strategies\r\n* Generating media for human consumption\r\n\r\nFor each application area, we'll be looking at the underlying subfields of AI that seek to address it, discuss the common pitfalls and best practices in that space, and introduce tools that you can use to solve those problems today.",
@@ -419,6 +441,28 @@
       "isConfirmed": true
     },
     {
+      "id": "612946",
+      "title": "Privacy by Design in Software Development",
+      "description": "A wave of privacy laws is now reaching into every aspect of business, and creating new requirements for how information must be stored, accessed, deleted, and made available.  This is your problem because it instantly creates mountains of technical debt.  This talk will review the current state of the industry, and why and how software developers now need to address principles of \"privacy by design\".",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c73ce89c-490f-4c4e-bf5f-48166174b6c3"
+      ],
+      "categoryItems": [
+        234799
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "609450",
       "title": "Productive Get-togethers: running meetings that should NOT have been an email!",
       "description": "We ALL have sat through some (ahem, hundreds!) meetings that achieved nothing. We have ALL run meetings that could have been better. Join this no-BS session and equip yourself with tools and skills to manage meetings that should not have been an email! Learn to:\r\n•\tDefine the outcomes and the agenda (audience gasps in awe!)\r\n•\tManage participants (and get their contributions) before, during and after the meeting\r\n•\tLead inclusive discussions\r\n•\tManage challenging situations",
@@ -453,6 +497,50 @@
       ],
       "categoryItems": [
         234795
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "618675",
+      "title": "Sabotage Productivity the CIA Way",
+      "description": "In 1944, the Office of Strategic Services (OSS), predecessor of the CIA, published the Simple Sabotage Field Manual -- a guide for resistance forces to characterize simple sabotage, outline its possible effects, and to present suggestions for inciting and executing it.\r\n\r\nIronically, many of the organizational and business suggestions are considered good, if not best, business practices. By following these few simple tips, you, too, can sabotage productivity the CIA way.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "bb52359f-7de5-4ab4-be0c-e0fdf39b7134"
+      ],
+      "categoryItems": [
+        234799
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "618441",
+      "title": "State-of-the-art Search with Azure AI Search",
+      "description": "We all know that providing a good search experience for website visitors is hard. Everyone expects it to “just” work like Bing or Google. Maybe there is a better way, maybe we fix this with help from AI.\r\n\r\nJoin the session to see how you can leverage Cognitive Services with Azure Cognitive Search in your apps. With AI based semantic search abilities this technology can provide results that are closer to the intent of original query.\r\n\r\nYou will also learn how to enhance and enrich search through Cognitive Service Skills like natural language processing, image analysis, entity recognition capabilities. Don't know what those are? Well that's not a problem because you will find out.\r\n\r\nYou can expect to walk away knowing how to generate your own enrichment pipeline that leverages the power of AI to solve your search woes. Why not use the same integrated Microsoft natural language stack that Bing and Office have used for more than a decade into your site? Maybe AI can make it \"just\" work.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "13924f5b-13f0-4fd8-a0bf-06f633dad5c9"
+      ],
+      "categoryItems": [
+        234804
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -529,6 +617,50 @@
       "isConfirmed": true
     },
     {
+      "id": "618633",
+      "title": "The Language of Languages",
+      "description": "Static, dynamic, strong, weak and... duck? What type of language is this? Can understanding whether a language is interpreted or compiled - or what paradigm a language is - help you write better code? We'll also look at a couple languages that have sneakily changed over time!\r\nThis will be a fun and lighthearted take that will leave you with tools to critically analyze the languages you already know, which other languages you might want to learn, and which languages might be a fit for your next projects. You'll leave a more well rounded developer, armed with a better understanding of your coding toolbox.\r\nps. and seriously, what the heck are monads??",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3740f3a7-86e3-4d66-8f48-16790a13fccb"
+      ],
+      "categoryItems": [
+        234795
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "613455",
+      "title": "The Power of 'No'",
+      "description": "Have you ever attended a meeting that you wish you hadn’t? Have you ever been happy that plans were canceled because you never really wanted to go in the first place? \r\n\r\nSaying no is hard and can be truly challenging when faced with the prospect of feeling like maybe you’ll let someone down. Another reason saying no is hard is the feeling or FOMO, or the Fear Of Missing Out. But are those reason really worth our peace of mind?\r\n\r\nThis talk is about how knowing when to say no and how to do so. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "aae8e930-83f8-45be-b1a9-d47075235565"
+      ],
+      "categoryItems": [
+        234799
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "611216",
       "title": "The Unified Code Base",
       "description": "We live in an ever-changing technologically enabled world and having a responsive website won't just cut it—organizations need to be mobile ready. If you're a Web, Native iOS or Android developer looking to deliver a cross-platform experience for your target audience, then this talk is for you. You'll discover the best practices for targeting Native iOS, Android and the web using React and React-Native without compromising the user's experience. By the end of this highly interactive session, you'll be on your way to build and deploy highly scalable universal applications using one code-base to rule them all.",
@@ -573,6 +705,50 @@
       "isConfirmed": true
     },
     {
+      "id": "615031",
+      "title": "Understanding How Your CPU Thinks",
+      "description": "You know all those algorithms you take for granted? I'm not talking about those boring algorithms you learned in school. I mean things like adding two numbers or converting a number to to text. Have you ever wondered how the computer really does that?\r\n\r\nI recently embarked on a journey to create a math library that would efficiently handle large numbers. Along the way, I had to figure out how some of these algorithms really worked, and was completely surprised by their ingenuity. The end result was a better appreciation for all those library methods that are \"just there\" and a new approach for solving problems in my own code.\r\n\r\nI this session, I will share all these findings with you. From the surprisingly mundane to the completely insane, I invite you join me beyond the operators and into the algorithms. You will leave this session with a better understanding of low level code that will help you write better code.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "94732aa0-c688-45c1-b92b-7ebad08ea8e0"
+      ],
+      "categoryItems": [
+        234795
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "610559",
+      "title": "Usability Testing Without a UX Specialist",
+      "description": "Ask nearly anyone about the process of developing software, and somewhere in the answer they’ll (hopefully) mention the users. User research, user testing, user feedback – the end user is at the heart of everything that we build. However, for many companies, making conversations with real users actually happen is a real challenge – especially if you don't have a UX specialist on your team! If this is all sounding familiar to you, then I have a recommendation: take it into your own hands. In this session, we'll talk through setting up a basic user testing program and growing it, so you – the developer – can feel empowered to start usability testing for your own product! ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "44406a2e-5504-47d4-8fef-6d5c110704a0"
+      ],
+      "categoryItems": [
+        234800
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "618346",
       "title": "Using Web Components to Scale Your UX",
       "description": "Whether you're a company with a variety of projects or an app that uses micro-front-end architecture, creating a consistent and reliable user experience can be difficult.\r\n\r\nIn this session, we will discuss how, at Microsoft, we have leveraged web components to standardize our user experiences and improve developer efficiency.",
@@ -607,6 +783,28 @@
       ],
       "categoryItems": [
         234795
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "608431",
+      "title": "What Does Security Look Like When Building AI?",
+      "description": "Anyone who is working with AI or considering doing so should care about security. When considering building an AI-powered system or product, the traditional attack surfaces and mitigations still apply. However, new attack surfaces can be present depending on the specific AI approaches used. In addition, due to the typically higher level of automation in AI systems, they can do more harm if they are compromised.\r\n\r\nIn this talk, we’ll discuss how AI has the same attack vectors as traditional software, and what those attacks look like. We’ll also discuss new attacks that are specific to generative AI (e.g. LLMs like ChatGPT), machine learning & computer vision systems, and optimization techniques. For each type of attack, we’ll point out how they can be thwarted, or at least mitigated.\r\n\r\nPrevious experience with AI and security are not required to benefit from the session. Attendees will see tools & techniques to help write more secure software, AI-enabled or not. They will walk away with a better understanding of AI-specific attack vectors and their mitigations. They will be equipped to find security education resources in the future.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3963f1e7-00c7-47ba-9c88-9f1d9be28b43"
+      ],
+      "categoryItems": [
+        234805
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -774,6 +972,28 @@
       "questionAnswers": []
     },
     {
+      "id": "c73ce89c-490f-4c4e-bf5f-48166174b6c3",
+      "firstName": "Benjamin",
+      "lastName": "Winkler",
+      "bio": "Benjamin Winkler is a software developer and privacy attorney in Columbus.",
+      "tagLine": "Privacy Attorney and Software Developer",
+      "profilePicture": "https://sessionize.com/image/d06f-400o400o1-DiJr5VJkG2mYvUxNGNhgz4.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/asa-benjamin-winkler-b747603/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        612946
+      ],
+      "fullName": "Benjamin Winkler",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "b9c9b80c-b534-476f-b78c-17a89234bf8b",
       "firstName": "Brandon",
       "lastName": "Bruno",
@@ -807,6 +1027,38 @@
         608573
       ],
       "fullName": "Brandon Bruno",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "13924f5b-13f0-4fd8-a0bf-06f633dad5c9",
+      "firstName": "Brian",
+      "lastName": "McKeiver",
+      "bio": "Brian McKeiver is Co-Owner at BizStream, digital agency in Allendale, MI. At BizStream he is a solution architect, visionary, Microsoft Azure MVP, Kentico Xperience MVP, and Kontent.ai MVP. He has over 20 years of experience leading his agency of more than 35 employees, about a hundred clients spread out across North America, and one heck of an interesting story of how it all started from a two-person team. In addition to his expertise in web development, cloud, integration, and digital marketing, Brian is active with the tech community via his blog at Mcbeev.com. ",
+      "tagLine": "Microsoft Azure MVP; Co-Owner at BizStream",
+      "profilePicture": "https://sessionize.com/image/97b3-400o400o1-nSLP29cVu9YTX6vADBG9Rd.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/mcbeev",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/brianmckeiver/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.mcbeev.com/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        618441
+      ],
+      "fullName": "Brian McKeiver",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -913,6 +1165,43 @@
         608522
       ],
       "fullName": "Carey Payette",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "94732aa0-c688-45c1-b92b-7ebad08ea8e0",
+      "firstName": "Chris",
+      "lastName": "Gardner",
+      "bio": "Chris Gardner is a Senior Products and Platform Engineering Manager for Accenture, the Chairman of the DevSpace Technical Conference and a regular coder. Tortured by years of contracts that valued buzzwords over results, Chris has developed a true passion for finding solutions that fit the problem, not the technology of the week. Chris received his M.S in Computer Science, B.S. in Mathematics, and B.A. in Philosophy from the University of Alabama in Huntsville and is currently a Microsoft Certified Solutions Developer, Professional Developer, Information Technology Professional and Trainer.",
+      "tagLine": "Senior Products and Platform Engineering Manager for Accenture",
+      "profilePicture": "https://sessionize.com/image/36d8-400o400o1-Nd7hpwuKpcS9FwDjj9vk9R.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/frestylecoder",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "Mastodon",
+          "url": "https://hachyderm.io/@freestylecoder",
+          "linkType": "Other"
+        },
+        {
+          "title": "Twitch",
+          "url": "https://twitch.tv/freestylecoder",
+          "linkType": "Other"
+        },
+        {
+          "title": "YouTube",
+          "url": "https://www.youtube.com/@chris_gardner",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        615031
+      ],
+      "fullName": "Chris Gardner",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -1050,6 +1339,28 @@
       "questionAnswers": []
     },
     {
+      "id": "417c729c-5980-4169-988e-bca43024353a",
+      "firstName": "Drake",
+      "lastName": "Lundstrom",
+      "bio": "Drake is a lifelong learner, and he became a software developer so there would always be more to learn.  Since entering the industry, he has worked as a consultant of full stack web applications, as well as some DevOps and infrastructure, on a variety of clouds and tech stacks, with a bias towards Microsoft.\r\n\r\nDrake is active in the Columbus Tech scene, both as an attendee and a presenter, and is always happy to help mentor junior developers (though he has a long recommended reading list).\r\n\r\nWhen he should be sleeping, Drake volunteers with Rotary Youth Exchange.  He designed the language curriculum the students now use to prepare to study abroad, which is considered the best in North America. He is currently learning his sixth language.\r\n",
+      "tagLine": "Cloud Consultant and Lifetime Learner at Neudesic",
+      "profilePicture": "https://sessionize.com/image/63ff-400o400o1-WJ7kptmXJWnhpk2jynHYZz.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/drake-lundstrom/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        618233
+      ],
+      "fullName": "Drake Lundstrom",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "f38f42d8-7623-457c-8871-dbb44bc458da",
       "firstName": "Georgia",
       "lastName": "Loper",
@@ -1078,6 +1389,33 @@
         618222
       ],
       "fullName": "Georgia Loper",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "aae8e930-83f8-45be-b1a9-d47075235565",
+      "firstName": "Glenn",
+      "lastName": "Harmon Jr.",
+      "bio": "I'm a Father, Husband, Cyclist, VP Engineering, and Champion of Tough Conversations.",
+      "tagLine": "VP Engineering Decision Desk HQ",
+      "profilePicture": "https://sessionize.com/image/a37f-400o400o1-ffc4TRC4X7nUNbbsc3BPxp.jpeg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/GlennHarmonJr",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/glenn-harmon-jr-2b1a691a/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        613455
+      ],
+      "fullName": "Glenn Harmon Jr.",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -1279,6 +1617,43 @@
       "questionAnswers": []
     },
     {
+      "id": "44406a2e-5504-47d4-8fef-6d5c110704a0",
+      "firstName": "Kathryn",
+      "lastName": "Grayson Nanz",
+      "bio": "In 2013, I graduated with a BFA and took my first job as a Junior Graphic Designer at a small, boutique ad agency. While there, my Creative Director warned me to never let anyone find out I could code, because if I did I'd be stuck doing it forever. I ignored his warning; it turns out he was completely right, but I've never been happier. \r\n\r\nI currently work as a developer advocate on a wonderful team where I help people build web applications in React, design and maintain their UI component libraries, and desperately attempt to stop back-end devs from writing any more CSS.",
+      "tagLine": "UI Designer & Front-end Developer",
+      "profilePicture": "https://sessionize.com/image/c117-400o400o1-Nk3p6nY6ffnRbCUY47xdkh.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/kathryngrayson",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/kathryngrayson/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://kgrayson.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.telerik.com/kendo-ui",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        610559
+      ],
+      "fullName": "Kathryn Grayson Nanz",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "44a129e3-2fc6-4d16-849f-671c5c6c3f0e",
       "firstName": "Kevin",
       "lastName": "Mireles",
@@ -1427,6 +1802,48 @@
       "questionAnswers": []
     },
     {
+      "id": "bb52359f-7de5-4ab4-be0c-e0fdf39b7134",
+      "firstName": "Matt \"Kelly\"",
+      "lastName": "Williams",
+      "bio": "Matt \"Kelly\" Williams is the founder of Making Software Greener, the creator of the Sustainable IT Manifesto, member of the advisory board for the Green Computing Foundation, and a speaker and mentor on IT practices including DevOps, Cloud Computing, and mental health advocacy. He has always wanted to be a Renaissance person; perhaps one day he will be. In the meantime, he explores IT Sustainability, is learning photography, designs tabletop games, reads, weaves, cooks, hacks, and explores the mountains near Loveland, Colorado.",
+      "tagLine": "Founder of Making Software Greener, Mentor, Public Speaker, and Renaissance Person in Training",
+      "profilePicture": "https://sessionize.com/image/dbee-400o400o1-WJ9SgktJqoE3kwVoZBtd8a.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://twitter.com/matt_k_williams",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/mattkwilliams/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://matthewkwilliams.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://makingsoftwaregreener.com",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Sustainable IT Manifesto",
+          "url": "https://sustainableitmanifesto.org",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        618675
+      ],
+      "fullName": "Matt \"Kelly\" Williams",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "45e1aedb-bf8c-43e1-be2d-cedeff50c9bd",
       "firstName": "Michael",
       "lastName": "Eaton",
@@ -1481,6 +1898,22 @@
       "questionAnswers": []
     },
     {
+      "id": "3740f3a7-86e3-4d66-8f48-16790a13fccb",
+      "firstName": "Mike",
+      "lastName": "Hand",
+      "bio": "Mike has been in software development for over 12 years, working everywhere from top 10 defense contractors, small privately owned companies, freelance, consulting, and startups.",
+      "tagLine": "on the web. in the cloud.",
+      "profilePicture": "https://sessionize.com/image/ac88-400o400o1-a7-86e3-4d66-8f48-16790a13fccb.19848f4b-a454-4c22-be62-e657578c72d4.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        618633
+      ],
+      "fullName": "Mike Hand",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "f5db9d74-f6da-4fd5-9708-1392384e8b12",
       "firstName": "Natalie",
       "lastName": "Hylton",
@@ -1499,6 +1932,38 @@
         609450
       ],
       "fullName": "Natalie Hylton",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "3963f1e7-00c7-47ba-9c88-9f1d9be28b43",
+      "firstName": "Robert",
+      "lastName": "Herbig",
+      "bio": "Robert Herbig is passionate about leading teams to deliver products users love.\r\n\r\nHe is a Lead Software Engineer at SEP, a software product design and development company. In his 15+ years in the software industry, he has worked on products ranging in size from small apps to enterprise systems; embedded, desktop, web, and cloud platforms; and in a variety of markets and domains including aerospace, medical, agriculture, construction, and secure communication.\r\n\r\nAs an AI Practice Lead at SEP, he strives to educate clients and peers about what AI can do, identify complex problems AI can address in whole or in part, and incorporate AI into software products that make a difference for their users.\r\n\r\nHe currently lives in Carmel, Indiana with his wonderful wife, three rambunctious sons, and three dogs.",
+      "tagLine": "AI Practice Lead at SEP",
+      "profilePicture": "https://sessionize.com/image/8e29-400o400o1-nntDrhduMjHZ856ok5W8wD.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/RobertHerbig",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/RobertHerbig",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.RobertHerbig.com/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        608431
+      ],
+      "fullName": "Robert Herbig",
       "categoryItems": [],
       "questionAnswers": []
     },

@@ -2,7 +2,7 @@
     font-family: 'Komika Axis';
 
     src: url('/fonts/KOMIKAX_.ttf');
-  }
+}
 
 body {
     background-color: #1a1927;
@@ -12,7 +12,9 @@ body {
     padding-top: 50px;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: 'Komika Axis', 'Comic Sans MS';
 }
 
@@ -63,7 +65,9 @@ h1, h2, h3 {
     color: #fff;
     text-decoration: none;
 }
-#stirTrekHeroContainer #dateAndCostContainer a:hover {
+
+#stirTrekHeroContainer #dateAndCostContainer a:hover,
+.comic-panel-body a.registerNow:hover {
     color: #63ac91;
     text-decoration: underline;
 }
@@ -72,7 +76,7 @@ h1, h2, h3 {
     #stirTrekHeroContainer {
         margin-top: 240px;
     }
-    
+
     #stirTrekHeroContainer #dateAndCostContainer {
         position: static;
         width: auto !important;
@@ -85,7 +89,9 @@ h1, h2, h3 {
     font-size: 1.5em;
 }
 
-#stirTrekHeroContainer #dateAndCostContainer .registerNow {
+#stirTrekHeroContainer #dateAndCostContainer .registerNow,
+.comic-panel-body .registerNow,
+.comic-panel-body .registerNow:visited {
     font-size: 1.3em;
     color: #d7c875;
 }
@@ -356,10 +362,12 @@ section {
     top: -40px;
 }
 
-.comic-panel-body a, .comic-panel-body a:visited {
+.comic-panel-body a,
+.comic-panel-body a:visited {
     color: #34344c;
     text-decoration: underline;
 }
+
 .comic-panel-body a:hover {
     color: #d7c875;
 }

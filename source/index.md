@@ -97,7 +97,8 @@ title: Tech & a Flick
             <!--Important Dates-->
             Ticket Dates
         </div>
-        <div class="comic-panel-body with-header small">
+        <div class="comic-panel-body with-header">
+            <div class="small">
 {% endraw %}Ticket sales are different this year. Because late registrations make our ordering more difficult and expensive, please register early!
 * **2/27/2024** - $150 early bird tickets on sale
 * **3/11/2024** - $175 regular tickets on sale
@@ -105,7 +106,11 @@ title: Tech & a Flick
 * **4/13/2024** - $225 Final tickets (w/o a box) on sale
 * **4/29/2024** - Ticket sales end
 * **5/3/2024** - Stir Trek 2024!!!!
-{% raw %}       
+{% raw %}   
+            </div>
+            <div style="text-align: center;">
+                <a class="registerNow" href="https://events.humanitix.com/stir-trek-2024">Click here to buy your ticket!</a>
+            </div>
         </div>
     </div>  
 <div class="col-md-6">

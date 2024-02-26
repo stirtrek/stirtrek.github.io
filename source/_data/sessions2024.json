@@ -155,6 +155,28 @@
       "isConfirmed": true
     },
     {
+      "id": "608383",
+      "title": "Building Design Systems with Web Components",
+      "description": "Creating cohesive user experiences across various platforms and devices is paramount in today's fast-paced digital landscape. Design systems are the key to achieving this goal, as they provide a systematic approach to design, code, and documentation. In this session, we will explore the core concepts of design systems and how web components, a powerful technology, can streamline the process of building and maintaining design systems.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "888fa440-0056-4eb5-971c-7945fe50311d"
+      ],
+      "categoryItems": [
+        234796
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "608069",
       "title": "Building Resilient Apps: A Software Engineer’s Practical Guide to Application Security",
       "description": "News of cyberattacks and data breaches continue to make headlines. Cybersecurity can be overwhelming; we’re told that threat actors are becoming more sophisticated and cyber threats are constantly evolving, yet many security trainings are unhelpful, awful, boring, and too theoretical. There’s nothing worse than imagining your hard work become the next cautionary tale in the media but not know what to do about it. Perhaps you already know security is important but don’t know how where to begin. Maybe you're dealing with a flood of requests from the infosec team, struggling to see the big picture, and unsure how to prioritize their demands among the rest of the backlog. And if the threats are constantly evolving, how do you even keep up and avoid an endless game of security whack-a-mole?\r\n\r\nThankfully, while the threat landscape can seem scary and complex, application security doesn’t have to be. In this talk, learn from Jamie Dicken, former software engineer turned security professional, who will provide practical insights, actionable advice, and a straightforward framework for building secure systems. We’ll cover simple steps you can take throughout the entire product lifecycle and empower you to build resilient systems that can withstand the threats of both today and tomorrow.\r\n",
@@ -233,6 +255,29 @@
       ],
       "categoryItems": [
         234804
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "614960",
+      "title": "I Ain’t Afraid of No Ghost Products: A human centered approach to breathe life into unused products",
+      "description": "Have you ever encountered software that you dread using? How about a digital experience that was difficult to use? Or perhaps you’ve experienced a digital product that was created with good intentions but now sits on the proverbial shelf collecting dust? You aren’t alone; according to a new study conducted by software lifecycle information firm, 1E, more than $30 billion is wasted annually on unused software in the U.S. alone (1). \r\nBut how do we, as technology professionals, help our digital products become something that users enjoy interacting with? In this interactive session, we’ll cover the concept of ghost products, how you can identify them, steps you can take to improve them to aid in adoption, and how to mitigate any future products you work on coming back to haunt you. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8a3d6843-890e-46f9-8fd6-4dcc9625a5ee",
+        "07979f11-f7d6-437d-a31f-274c9ad023c4"
+      ],
+      "categoryItems": [
+        234796
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -331,6 +376,28 @@
       "isConfirmed": true
     },
     {
+      "id": "610435",
+      "title": "Joe the Axolotl, Clever Closet, & Demonic Robots - Weird Projects of Tech-Savvy Middle School Girls",
+      "description": "Joe the Axolotl, the lovable amphibian with an impossible name, titular character in a platformer game destined to rival Mario\r\n\r\nClever Closet: The Smart Way To Dress, an app to help you pick your outfit in the morning\r\n\r\nLEGO robots programmed to take over the world and then some, possessed by a demon named...Bob?\r\n\r\nThe minds behind these impressive projects you’ve never heard of are not available to give a presentation during the academic year. They’re in class right now…just like the other middle school students in Columbus, Ohio.\r\n\r\nA local chapter of Girls Who Code, hosted by Otterbein University, has some particularly bright participants. Lead instructor is here to tell their story: how they learned to code, where their inspiration comes from, and how they influence the world around them by being brave, not perfect.\r\n\r\nGirls Who Code clubs, like the one at Otterbein, are similar to scouts—anyone can start a club in their community or school. There is a lot of material available to run a coding club, making it a low-lift way to put more STEAM into the world. But the Otterbein chapter is doing things a little bit differently. The team of volunteers has put technology into the tiny hands of middle school students and armed them with software practices such as agile and test-driven development. They’ve designed five years of lesson plans for local school kids. Hear instructors brag about everything the kids have accomplished (as though they did it themselves) and how they have empowered participants to build weird things with technology unapologetically. They will share the fan-favorite activities, failed experiments, and everything that keeps the kids coming back to this STEAM club--from free t-shirts to gender-inclusive policies. Most importantly, learn how any technologist (YES, YOU!) can get involved and become a better engineer...by cheating off of 6th graders!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b969e93d-e5d8-4e9d-a5f4-517ace57daa1"
+      ],
+      "categoryItems": [
+        234799
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "610462",
       "title": "Leadership Journey: From Individual Contributor to Leader",
       "description": "You’ve spent years working on your technical skills and can write code with the best of them. Then, one day, a leadership position opens up on your team, and you start thinking about it. Should I or shouldn’t I? What if I hate it? What if I love it? What if I'm not that good at it? In this interactive session,\r\nwe’ll explore “why leadership,” answer some hard questions, and talk about one developer’s path from individual contributor to leader.",
@@ -343,6 +410,28 @@
       ],
       "categoryItems": [
         234799
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "610728",
+      "title": "Machine learning belongs in a museum!",
+      "description": "Ever walked around a museum and wondered how they keep those nice chilly temperatures around the building? No? Me neither! That is until I had to figure out how to build a machine learning system to do just that. In this talk, we will cover:\r\n\r\n- The challenges of controlling environments that are constantly changing.\r\n- The key role stakeholders play in machine learning projects.\r\n- The unique challenges faced in machine learning projects compared to traditional software development projects.\r\n- How Azure Machine Learning helped us achieve the project's goals.\r\n- Some bumps on the road and what we learned from them.\r\n\r\nBy the end of this talk, you will be able to apply the concepts and tools reviewed to tackle machine learning projects in your organization.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "62b5c0da-ecfa-4566-8ce2-4eeb8e2d321d"
+      ],
+      "categoryItems": [
+        234804
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -585,6 +674,28 @@
       ],
       "categoryItems": [
         234804
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "617684",
+      "title": "The Freedom Shift: A Developer's Path to Independent Consultant",
+      "description": "Are you a software developer contemplating a transition to independence? This session is for you! Dive into the shift from a traditional developer role to an independent consultant. We'll cover essential freelancing skills, guide you in building a successful consultancy, and provide actionable steps with real-world advice. Join us on this journey to empower yourself with professional independence.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5698811a-4c31-4537-970d-e427009e0cca"
+      ],
+      "categoryItems": [
+        234799
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -968,6 +1079,22 @@
         611249
       ],
       "fullName": "Anthony Russell",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "b969e93d-e5d8-4e9d-a5f4-517ace57daa1",
+      "firstName": "Ashley",
+      "lastName": "Holcomb",
+      "bio": "Ashley Holcomb is a native of the greater St. Louis area (Go Blues!) who landed in Columbus, OH after interviewing for a job at the Grace Hopper Celebration in 2018. She has been a software engineer at JP Morgan Chase ever since. Ashley taught herself about robotics during the pandemic (much to the detriment of her cat) and brought that experience to local coding club, Girls Who Code Otterbein, where she spends her weekends--building weird things with tiny geniuses! She doesn't have any hobbies because she doesn't care about anything other than cats, kids, and ice hockey.",
+      "tagLine": "Software engineer at JPMorgan Chase, lead instructor at Girls Who Code Otterbein",
+      "profilePicture": "https://sessionize.com/image/9e4f-400o400o1-itrCZFWKe4mHwWjoz3KTS.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        610435
+      ],
+      "fullName": "Ashley Holcomb",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -1420,6 +1547,33 @@
       "questionAnswers": []
     },
     {
+      "id": "8a3d6843-890e-46f9-8fd6-4dcc9625a5ee",
+      "firstName": "Haley",
+      "lastName": "Hendershot Malone",
+      "bio": "Haley has over 8 years of industry experience helping clients uncover their true customer needs and chart a course to meet them where they are. She has a bachelors of science in design from the Ohio State University and believes that good design tells a story and exists to serve the needs of real people. Haley regularly gives presentations, facilitates clients’ journeys to UX research operations maturity, works closely with executive level personnel to demonstrate the value of a research first approach and mentors junior UX professionals. Haley has given presentations at nationally recognized technology conferences such as Grace Hopper and Codemash. When not working, Haley is an overly ambitious chef, Netflix binger, unabashed dog lover, and theoretical ghost hunter. ",
+      "tagLine": "User Experience Research Lead, Cardinal Health",
+      "profilePicture": "https://sessionize.com/image/ff08-400o400o1-s7DqPDTfePE2eMMPvUV6mR.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/haleyhendershot/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://haleyhendershot.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        614960
+      ],
+      "fullName": "Haley Hendershot Malone",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "afe8e698-95d5-45ad-b69a-d1e202d9698b",
       "firstName": "Henry Berson",
       "lastName": "Saint-Juste",
@@ -1475,6 +1629,38 @@
         608069
       ],
       "fullName": "Jamie Dicken",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "5698811a-4c31-4537-970d-e427009e0cca",
+      "firstName": "Jay",
+      "lastName": "Harris",
+      "bio": "Jay is a speaker, software consultant, and owner of Arana Software. He has been developing on the web since 1995, when the Blink tag lured him away from Visual Basic 3, and has been awarded as a Microsoft Regional Director, ASPInsider, and Microsoft MVP. Recognizing that the greatest application performance bottleneck is a developer’s time, Jay’s continuing quest is for frameworks, modules, tools, and practices that make developers stronger, fitter, happier, and more productive.\r\n\r\n Jay resides in Las Vegas, USA. Follow him on Twitter at @jayharris.",
+      "tagLine": "Problem Solver at Arana Software",
+      "profilePicture": "https://sessionize.com/image/04b5-400o400o1-1a-4c31-4537-970d-e427009e0cca.79063233-9eb7-48b2-b374-7101223a309c.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://www.twitter.com/jayharris",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jasonharris/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.aranasoft.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        617684
+      ],
+      "fullName": "Jay Harris",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -1936,6 +2122,28 @@
       "questionAnswers": []
     },
     {
+      "id": "07979f11-f7d6-437d-a31f-274c9ad023c4",
+      "firstName": "Rachel",
+      "lastName": "Gregory",
+      "bio": "Rachel Gregory has over 10 years of industry experience helping companies become more user centered while meeting business objectives. She holds a master’s degree from Indiana University in Human Computer Interaction. She believes that technological solutions will only be successful, long term, when research establishes an understanding of the behaviors and needs of a product’s users. As a user experience director, Rachel regularly gives presentations and leads workshops with executive level attendees while also mentoring other professionals in the industry. Rachel has given presentations at nationally recognized technology conferences such as The Grace Hopper Celebration, Stir Trek, and Codemash. In her free time, Rachel enjoys playing boardgames and video games, baking, and searching for life beyond the grave.",
+      "tagLine": "User Experience Director at Great American Insurance Group ",
+      "profilePicture": "https://sessionize.com/image/75fa-400o400o1-9wkoCLWp5pgVk2J4QCSxjo.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/racheldgregory/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        614960
+      ],
+      "fullName": "Rachel Gregory",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "3963f1e7-00c7-47ba-9c88-9f1d9be28b43",
       "firstName": "Robert",
       "lastName": "Herbig",
@@ -1964,6 +2172,43 @@
         608431
       ],
       "fullName": "Robert Herbig",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "62b5c0da-ecfa-4566-8ce2-4eeb8e2d321d",
+      "firstName": "Samuel",
+      "lastName": "Gomez",
+      "bio": "I've worked in software development for 15+ years (mostly Microsoft technologies) and love the problem solving aspect of the work. In recent years I have become very passionate about AI and machine learning technologies and how they can be applied to different aspects of our lives. When not coding I enjoy spending time with my family, soccer (watching, playing, and coaching), playing videogames and watching movies. ",
+      "tagLine": "Microsoft MVP and Tech Lead at Geneca",
+      "profilePicture": "https://sessionize.com/image/b9e8-400o400o1-K6649gMDEzkWxFkUQLE8Bm.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/thesoccerdev",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/samueljgomez/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.thesoccerdev.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://geneca.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        610728
+      ],
+      "fullName": "Samuel Gomez",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -2033,6 +2278,43 @@
         607257
       ],
       "fullName": "Shawn Wildermuth",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "888fa440-0056-4eb5-971c-7945fe50311d",
+      "firstName": "Simon",
+      "lastName": "MacDonald",
+      "bio": "Simon has over twenty years of development experience and has worked on a variety of projects, including object-oriented databases, police communication systems, speech recognition and unified messaging. His current focus is contributing to the open source projects Architect and Enhance to enable developers to create functional web applications. Simon’s been building web applications since the days they were written using shell scripts, and he still has nightmares about those dark days.\r\n",
+      "tagLine": "Head of Developer Experience at Begin",
+      "profilePicture": "https://sessionize.com/image/5126-400o400o1-VS2MCeoNj9oKK5nL9nJwTz.JPG",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/macdonst",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/simonmacdonald/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://blog.begin.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://begin.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        608383
+      ],
+      "fullName": "Simon MacDonald",
       "categoryItems": [],
       "questionAnswers": []
     },

@@ -92,7 +92,7 @@ More details coming soon!
             <img src="/images/speakers/2022/Carey-Payette.jpg" class="img-responsive speakerImage" alt="Photo of Carey Payette">
         </div>
         <div class="speakerTagline">
-            <h3>Azure MVP<br><br>Trillium Innovations</h3>
+            <h3>Azure MVP<br><br>Trillium Innovations<br><br>Solliance</h3>
         </div>
     </div>
 </div>

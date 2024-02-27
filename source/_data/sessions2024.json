@@ -23,6 +23,28 @@
       "isConfirmed": true
     },
     {
+      "id": "617350",
+      "title": "A 101 in time series analytics with Apache Arrow, Pandas and Parquet",
+      "description": " Columnar databases are on the rise! They provide an efficient and scalable data warehouse for many use cases including time series data. The problem? many conventional database drivers and querying methods become the bottleneck for data processing and analytics within our client-side applications. Learn how to leverage open-source projects like Apache Arrow Flight and Apache Parquet alongside industry-standard analytics libraries to build the foundations of a performant analytics application for time series data.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8908ee3e-c72a-4125-b71d-98e39ce27c0b"
+      ],
+      "categoryItems": [
+        234804
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "618279",
       "title": "A Beginner's Guide to Android App Performance",
       "description": "In this beginner-friendly talk, we will dive into the (probably) intimidating world of Android app performance optimization. Are your apps slow to launch? Do they not render smoothly and seem unresponsive? Fear not! This session is tailored to developers at all levels who want to enhance their app's performance and create a seamless user experience.\r\n\r\nWe'll cover everything from inspecting to improving to monitoring to explaining concepts like rendering, threading, memory management, and network calls. Then, we'll walk you through common performance bottlenecks and demonstrate practical techniques to overcome them. From optimizing layout designs to using caching effectively, we aim to empower you with actionable tips to create snappy and responsive apps!",
@@ -420,6 +442,28 @@
       "isConfirmed": true
     },
     {
+      "id": "607641",
+      "title": "Let's Build A Simple Web Server From Scratch",
+      "description": "We take web servers for granted. They're a critical part of every single web infrastructure. Without a functioning web server, there is nothing for the browser to talk to and nothing to serve up your API.\r\n\r\nWhile the concept of a web server might seem daunting, web servers are simple. Well-established RFC documents specify how a web server should respond to various requests.  \r\n\r\nThis talk breaks down some essential RFC documents on how a web server should respond to HTTP requests. We'll build a new custom web server to serve files off the disk. We'll focus on HTTP/1.1 just for simplicity and time constraints.\r\n\r\nAll examples will be in C#, but the fundamentals are accessible to anyone of any level or from a different language background.\r\n\r\nLearn about some of the critical parts of web infrastructure!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "37313769-11ae-4245-93b3-e6e60d5d187c"
+      ],
+      "categoryItems": [
+        234802
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "610728",
       "title": "Machine learning belongs in a museum!",
       "description": "Ever walked around a museum and wondered how they keep those nice chilly temperatures around the building? No? Me neither! That is until I had to figure out how to build a machine learning system to do just that. In this talk, we will cover:\r\n\r\n- The challenges of controlling environments that are constantly changing.\r\n- The key role stakeholders play in machine learning projects.\r\n- The unique challenges faced in machine learning projects compared to traditional software development projects.\r\n- How Azure Machine Learning helped us achieve the project's goals.\r\n- Some bumps on the road and what we learned from them.\r\n\r\nBy the end of this talk, you will be able to apply the concepts and tools reviewed to tackle machine learning projects in your organization.",
@@ -520,6 +564,28 @@
       ],
       "categoryItems": [
         234802
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "614428",
+      "title": "Open Source XAML Takes You Places!",
+      "description": "XAML started life as a simple UI markup layer, but has had a surprisingly eventful history over years. Today, XAML powers a lot of app platforms and seems poised for success going forward. And almost all of XAML application stacks are now open source!\r\n\r\nWant pure Windows desktop apps – WPF XAML got you covered. Want apps for every Windows device – UWP XAML had a good run. Need abstraction over Win32 or UWP? Win UI is the latest Windows UI stack. Want to stretch XAML over to iOS/Android/WebAssembly/Linux & more? Uno Platform or Avalonia has you covered. Xamarin.Forms allowed developers to target various mobile platforms, like iOS and Android from single C#/XAML code base. With the evolution to .NET MAUI, the same XAML UI can also target Windows, macOS, Tizen and more, while catering unique experiences across platforms. XAML has always enjoyed a rich ecosystem – plenty of tools, frameworks and libraries make developers productive. With the evolution of modern cross-platform .NET, XAML developers are poised to have an evolved way of reaching variety of platforms, with better tooling and code-sharing across technologies.\r\n\r\nLet’s unpack the magic behind democratization of cross-platform .NET development. Today’s open source XAML is flexible & powers a lot of app platforms.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fc1d0cd3-9675-4188-aa98-e0088069f1a4"
+      ],
+      "categoryItems": [
+        234798
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -1840,6 +1906,43 @@
       "questionAnswers": []
     },
     {
+      "id": "37313769-11ae-4245-93b3-e6e60d5d187c",
+      "firstName": "Kevin",
+      "lastName": "Griffin",
+      "bio": "Kevin Griffin is an author, teacher, mentor, and consultant focusing in software development.  He is also a 14-time Microsoft MVP, specializing in ASP.NET and web development.  As the owner of Swift Kick, a software training and services company, Kevin specializes in helping businesses push their technology stacks into the 21st century.   You can often find Kevin speaking at conferences and user groups nationwide or blogging at https://consultwithgriff.com.",
+      "tagLine": "Owner of Swift Kick, Microsoft MVP",
+      "profilePicture": "https://sessionize.com/image/8f96-400o400o1-69-11ae-4245-93b3-e6e60d5d187c.8d6d9927-2dd8-4e29-82b7-eaf585033c6a.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/1kevgriff",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/1kevgriff",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://consultwithgriff.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://consultwithgriff.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        607641
+      ],
+      "fullName": "Kevin Griffin",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "44a129e3-2fc6-4d16-849f-671c5c6c3f0e",
       "firstName": "Kevin",
       "lastName": "Mireles",
@@ -2176,6 +2279,38 @@
       "questionAnswers": []
     },
     {
+      "id": "fc1d0cd3-9675-4188-aa98-e0088069f1a4",
+      "firstName": "Sam",
+      "lastName": "Basu",
+      "bio": "Sam Basu is a technologist, author, speaker, Microsoft MVP, gadget-lover and Developer Advocate at Progress Software. With a long developer background, he now spends much of his time advocating modern development platforms & tools on Microsoft/Telerik technology stacks. His spare times call for travel, fast cars, cricket and culinary adventures. You can find him as @samidip on the internet.",
+      "tagLine": "Developer Advocate",
+      "profilePicture": "https://sessionize.com/image/9947-400o400o1-d3-9675-4188-aa98-e0088069f1a4.0788eacd-acef-44d2-868e-cf111b1f2516.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/samidip",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "Blog",
+          "url": "https://samidipbasu.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.telerik.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        614428
+      ],
+      "fullName": "Sam Basu",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "62b5c0da-ecfa-4566-8ce2-4eeb8e2d321d",
       "firstName": "Samuel",
       "lastName": "Gomez",
@@ -2352,6 +2487,33 @@
         618668
       ],
       "fullName": "Steve Smith",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8908ee3e-c72a-4125-b71d-98e39ce27c0b",
+      "firstName": "zoe",
+      "lastName": "Steinkamp",
+      "bio": "I'm Zoe Steinkamp, a Developer Advocate for InfluxData with a background in front-end software engineering. I'm passionate about making developers' lives easier and helping them engage with InfluxData's database platform, open-source tools, and time-series data solutions. I also have a keen interest in data science. Outside of work, I enjoy traveling and gardening. Feel free to connect with me on LinkedIn, and I look forward to sharing insights and knowledge at virtual and in-person events.",
+      "tagLine": "Developer Advocate InfluxDB",
+      "profilePicture": "https://sessionize.com/image/e7c7-400o400o1-sVbPFvPSySG9etgQpsnSEZ.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/zoe-steinkamp/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.influxdata.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        617350
+      ],
+      "fullName": "zoe Steinkamp",
       "categoryItems": [],
       "questionAnswers": []
     }

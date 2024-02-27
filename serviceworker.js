@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1708962726170';
+var CACHE = 'network-or-cache-1708997156211';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -33,19 +33,19 @@ function precache() {
 "/covid/index.html",
 "/recordings/",
 "/recordings/index.html",
-"/registration/",
-"/registration/index.html",
 "/schedule/",
 "/schedule/index.html",
+"/registration/",
+"/registration/index.html",
 "/sessions/",
 "/sessions/index.html",
 "/speakers/2018.html",
 "/speakers/2019.html",
 "/speakers/2020.html",
 "/speakers/2021.html",
-"/speakers/2022.html",
 "/speakers/2023.html",
 "/speakers/2024.html",
+"/speakers/2022.html",
 "/speakers/",
 "/speakers/index.html",
 "/speakers/index_cfpopenversion.html",
@@ -62,10 +62,10 @@ function precache() {
 "/info/antiharassmentpolicy/index.html",
 "/info/codeofconduct/",
 "/info/codeofconduct/index.html",
-"/info/commitmenttodiversity/",
-"/info/commitmenttodiversity/index.html",
 "/info/contact/",
 "/info/contact/index.html",
+"/info/commitmenttodiversity/",
+"/info/commitmenttodiversity/index.html",
 "/info/history/",
 "/info/history/index.html",
 "/info/press/2024-02-10.html",
@@ -79,8 +79,8 @@ function precache() {
 "/styles/fontawesome-4.min.css",
 "/styles/site.css",
 "/scripts/bootstrap.min.js",
-"/styles/fontawesome-all.min.css",
 "/styles/fontawesome.min.css",
+"/styles/fontawesome-all.min.css",
 "/scripts/bootstrap.js",
 "/scripts/luxon.min.js",
 "/scripts/jquery-3.3.1.min.js",
@@ -370,6 +370,7 @@ function precache() {
 "/speakers/2024/JonathanJ.-Tower.html",
 "/speakers/2024/Jordan-Thayer.html",
 "/speakers/2024/Kathryn-GraysonNanz.html",
+"/speakers/2024/Kevin-Griffin.html",
 "/speakers/2024/Kevin-Mireles.html",
 "/speakers/2024/Lino-Tadros.html",
 "/speakers/2024/Liz-Johnson.html",
@@ -381,11 +382,13 @@ function precache() {
 "/speakers/2024/Natalie-Hylton.html",
 "/speakers/2024/Rachel-Gregory.html",
 "/speakers/2024/Robert-Herbig.html",
+"/speakers/2024/Sam-Basu.html",
 "/speakers/2024/Samuel-Gomez.html",
 "/speakers/2024/Sean-Wedig.html",
 "/speakers/2024/Shawn-Wildermuth.html",
 "/speakers/2024/Simon-MacDonald.html",
 "/speakers/2024/Steve-Smith.html",
+"/speakers/2024/zoe-Steinkamp.html",
 "images/2013-stirtrek-registration-line.png",
 "images/2017-05-05-schottenstein-center-setup.jpg",
 "images/Attendees-In-Theater.jpg",
@@ -842,6 +845,7 @@ function precache() {
 "images/speakers/2024/JonathanJ.-Tower.jpg",
 "images/speakers/2024/Jordan-Thayer.jpg",
 "images/speakers/2024/Kathryn-GraysonNanz.jpg",
+"images/speakers/2024/Kevin-Griffin.jpg",
 "images/speakers/2024/Kevin-Mireles.jpeg",
 "images/speakers/2024/Lino-Tadros.jpg",
 "images/speakers/2024/Liz-Johnson.jpg",
@@ -853,11 +857,13 @@ function precache() {
 "images/speakers/2024/Natalie-Hylton.jpg",
 "images/speakers/2024/Rachel-Gregory.jpg",
 "images/speakers/2024/Robert-Herbig.jpg",
+"images/speakers/2024/Sam-Basu.jpg",
 "images/speakers/2024/Samuel-Gomez.jpg",
 "images/speakers/2024/Sean-Wedig.png",
 "images/speakers/2024/Shawn-Wildermuth.jpg",
 "images/speakers/2024/Simon-MacDonald.JPG",
-"images/speakers/2024/Steve-Smith.jpg"
+"images/speakers/2024/Steve-Smith.jpg",
+"images/speakers/2024/zoe-Steinkamp.jpg"
         ]);
     });
   }

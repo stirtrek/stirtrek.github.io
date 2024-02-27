@@ -15,7 +15,7 @@ title: Tech & a Flick
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">5/3/2024</p>
         <br>
-        <a class="registerNow" href="#ticketsales">
+        <a class="registerNow" href="https://events.humanitix.com/stir-trek-2024">
             <p>Register Now!</p>
         </a>
     </div>

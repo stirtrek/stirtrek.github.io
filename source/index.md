@@ -16,7 +16,7 @@ title: Tech & a Flick
         <p class="date">5/3/2024</p>
         <br>
         <a class="registerNow" href="#ticketsales">
-            <p>See the ticket sale plan</p>
+            <p>Register Now!</p>
         </a>
     </div>
     <!-- <a href="https://sessionize.com/stir-trek-2024/" target="_blank" rel="noopener noreferrer">

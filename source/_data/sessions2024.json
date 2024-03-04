@@ -67,28 +67,6 @@
       "isConfirmed": true
     },
     {
-      "id": "614006",
-      "title": "API Decision-Making: Graphql, JSON:API, or the Schema in Your Head",
-      "description": "When you are building a backend API how do you determine what the schema is going to look like? Sometimes you meet for days or weeks with various groups of engineers, architects and managers to decide on a schema that everyone (or at least the most vocal) can agree to. Sometimes you just wing it.\r\n\r\nThere are times when both of those can be ok. But many times if you are building an API that you want to see scale and you want to be able to onboard more engineers you should establish patterns early and stick to them as long as you can.\r\n\r\nTwo patterns that are popular right now are JSON:API and GraphQL. In this talk, I explain why you would use one of these specifications. I talk about positives and negatives of each and in the process I show the differences in how you interact with each one! We’ll look at a small website I made that easily demonstrates the differences in interacting with endpoints built with these two different schemas.\r\n\r\nFinally, we’ll talk about the libraries I used to implement each one and why I chose the library that I did. We will also talk about why you would use a library at all versus hand rolling a solution.\r\n\r\nThe backend solution is built in Ruby on Rails and the frontend is built with react! The github is public so that after the talk the audience can access the code to have examples and the README explains how to spin up the app and play around with it yourself!",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "1fb276ad-c948-40e2-b5ec-dc10bafe4beb"
-      ],
-      "categoryItems": [
-        234802
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
       "id": "618557",
       "title": "Being a Good \"Evil Overlord\": Keeping Your AI Code Generating Minion in Line with TDD",
       "description": "MWAHAHAHAHA! You’ve activated your robot army to rule the world in pure, robotic harmony!  Soon the humans will be replaced by simple, silicon perfection!\r\n\r\n… But something’s wrong.  Your AI minion is generating code that’s off the mark. You’re getting walls of code that technically run… but they’re still buggy.  Your orbital laser couldn’t even hit the broad side of Canada, the code is so wrong.  And it’s all so repetitive!  This is going to be impossible to maintain once you overthrow the world’s governments.  You thought these code gen tools were supposed to help!\r\n\r\nYou were so careful before the code generation minion came along.  TDD used to guarantee the application of your laser grids at your secret lair, after all.  But does TDD still have a place in the machine age? How can you bend the code-generating AIs to your will?  How can you be an even more effective mastermind?\r\n\r\nWe’ll look at how the code generation minion operates, how prompting the bot works, and how good testing practice makes for good prompting.  Before you know it, you’ll have your death ray back online!  So grab your lab coat, snap on those rubber gauntlets, and dramatically slide your goggles over your eyes.   It’s time to take back control of your robot army and conquer the world!\r\n",
@@ -1001,6 +979,28 @@
       "isPlenumSession": false,
       "speakers": [
         "c8f6b8ff-f9d7-4bac-8f0a-3a7c646d7e69"
+      ],
+      "categoryItems": [
+        234802
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "614006",
+      "title": "Why You’re API Needs a Spec and How to Get It One",
+      "description": "API specifications like GraphQL and JSON:API were created so that clients such as an internal frontend or mobile application can have a standardized and robust way to get the data they need.\r\n\r\nAPIs that are built to conform to a spec have a schema and the patterns for interacting already established before any endpoints are written. This way, developers have established patterns and schemas to follow on both the client and server side which allows teams to build faster than in situations where this is not true.\r\n\r\nWhile implementing APIs to specs or migrating APIs to specs requires more work upfront, I’ve seen APIs that conform to specs like GraphQL and JSON:API scale quickly in terms of technical features. They also helped the project scale from 10 devs working quickly and effectively to 40 devs working effectively in a matter of a couple weeks.\r\n\r\nWhether you are part of a team building a new API or you are working in an established one you will come away from this talk feeling empowered and equipped to make that API better. You will understand why migrating to or building with a spec is worth the time as well as hear practical implementation strategies. Finally, you will see examples of the technical details so you can easily start working towards more scalable solutions!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1fb276ad-c948-40e2-b5ec-dc10bafe4beb"
       ],
       "categoryItems": [
         234802

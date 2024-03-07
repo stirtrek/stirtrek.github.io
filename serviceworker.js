@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1709581740398';
+var CACHE = 'network-or-cache-1709834744411';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -45,11 +45,11 @@ function precache() {
 "/speakers/2021.html",
 "/speakers/2022.html",
 "/speakers/2023.html",
+"/speakers/2024.html",
 "/speakers/",
 "/speakers/index.html",
-"/speakers/2024.html",
-"/speakers/index_noncfpversion.html",
 "/speakers/index_cfpopenversion.html",
+"/speakers/index_noncfpversion.html",
 "/sponsors/",
 "/sponsors/index.html",
 "/store/",
@@ -69,10 +69,10 @@ function precache() {
 "/info/history/",
 "/info/history/index.html",
 "/info/press/2024-02-10.html",
-"/info/press/",
-"/info/press/index.html",
 "/info/privacy/",
 "/info/privacy/index.html",
+"/info/press/",
+"/info/press/index.html",
 "/info/travel/",
 "/info/travel/index.html",
 "/styles/bootstrap-button-social.min.css",
@@ -345,6 +345,7 @@ function precache() {
 "/speakers/2024/Abbey-Perini.html",
 "/speakers/2024/Adrienne-BraganzaTacke.html",
 "/speakers/2024/Aldo-Socarras.html",
+"/speakers/2024/Alex-Riviere.html",
 "/speakers/2024/Anthony-Russell.html",
 "/speakers/2024/Ashley-Holcomb.html",
 "/speakers/2024/Benjamin-Winkler.html",
@@ -819,6 +820,7 @@ function precache() {
 "images/speakers/2024/Abbey-Perini.jpeg",
 "images/speakers/2024/Adrienne-BraganzaTacke.jpg",
 "images/speakers/2024/Aldo-Socarras.jpg",
+"images/speakers/2024/Alex-Riviere.jpg",
 "images/speakers/2024/Anthony-Russell.jpg",
 "images/speakers/2024/Ashley-Holcomb.jpg",
 "images/speakers/2024/Benjamin-Winkler.jpg",

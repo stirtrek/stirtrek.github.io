@@ -662,6 +662,28 @@
       "isConfirmed": true
     },
     {
+      "id": "613461",
+      "title": "Shining a Light on Debugging: Lessons from a Lightbulb",
+      "description": "As a 15-year veteran of theater, I've learned to troubleshoot real-world systems, a skill I found to be surprisingly similar to debugging in programming. In this talk, I'll share my unique approach to debugging, likening it to a process as simple as changing a lightbulb. We'll embark on a journey to hunt down problematic function calls, figure out why data might not be delivering what you expect, identify the true source of a problem, and understand when it's time to seek help or recognize that an issue may be beyond your control. This talk aims to enhance your problem-solving skills in your daily programming tasks, making you more efficient, self-sufficient, and confident. Join me to learn how to debug your programming as easily as you would change a lightbulb. Let this talk be a guiding light for those having trouble debugging.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5c386803-b673-4259-a6ce-d85e1fd0a016"
+      ],
+      "categoryItems": [
+        234795
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "618441",
       "title": "State-of-the-art Search with Azure AI Search",
       "description": "We all know that providing a good search experience for website visitors is hard. Everyone expects it to “just” work like Bing or Google. Maybe there is a better way, maybe we fix this with help from AI.\r\n\r\nJoin the session to see how you can leverage Cognitive Services with Azure Cognitive Search in your apps. With AI based semantic search abilities this technology can provide results that are closer to the intent of original query.\r\n\r\nYou will also learn how to enhance and enrich search through Cognitive Service Skills like natural language processing, image analysis, entity recognition capabilities. Don't know what those are? Well that's not a problem because you will find out.\r\n\r\nYou can expect to walk away knowing how to generate your own enrichment pipeline that leverages the power of AI to solve your search woes. Why not use the same integrated Microsoft natural language stack that Bing and Office have used for more than a decade into your site? Maybe AI can make it \"just\" work.",
@@ -1117,6 +1139,33 @@
       "questionAnswers": []
     },
     {
+      "id": "5c386803-b673-4259-a6ce-d85e1fd0a016",
+      "firstName": "Alex",
+      "lastName": "Riviere",
+      "bio": "Alex Riviere is a Senior Frontend Developer for Nexcor Technologies and the Co-Organizer for the Atlanta Vue.js Meetup, as well as the PyATL Meetup.",
+      "tagLine": "Co-Organizer for Atlanta Vue.js Meetup and Co-Organizer for PyATL meetup",
+      "profilePicture": "https://sessionize.com/image/2a67-400o400o1-Gvb6U4BXbHxWHRApqyTe58.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/fimion",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "Blog",
+          "url": "https://alex.party",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        613461
+      ],
+      "fullName": "Alex Riviere",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "4eae9c9e-9d2a-4ad0-8c0b-78b180a12fa6",
       "firstName": "Anthony",
       "lastName": "Russell",
@@ -1278,6 +1327,11 @@
           "title": "Company Website",
           "url": "https://brianmeeker.me/",
           "linkType": "Company_Website"
+        },
+        {
+          "title": "Mastodon",
+          "url": "https://hachyderm.io/@brianmeeker",
+          "linkType": "Other"
         }
       ],
       "sessions": [

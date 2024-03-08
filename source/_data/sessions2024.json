@@ -221,6 +221,28 @@
       "isConfirmed": true
     },
     {
+      "id": "617742",
+      "title": "Docker Unleashed: Enhancing Local Environments with Ease",
+      "description": "A high-quality local environment is critical for enabling developers for efficient feature delivery. Docker, when utilized correctly, can simplify the maintenance of the local environment and remove the \"it works on my machine” symptom. Join me on an insightful journey as I share years of successes and hard-earned lessons from harnessing Docker for consistent, hassle-free environments. We will review what Docker is and when to use it, how it changes the development accountabilities between teams, the architecture behind an efficient local environment to enable smooth pipelines and production deployment and will unveil valuable tips and real-world examples to optimize Docker usage and boost your development productivity.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "7949d43a-8944-4575-bad6-61b90c7c75a4"
+      ],
+      "categoryItems": [
+        234795
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "618233",
       "title": "Doing DevOps Right: Trunk-based Development, CICD, and IaC",
       "description": "Have you heard of DevOps, but don't know where to start? Curious about how a developer can work with, instead of against, the operations team?  \r\n\r\nIn this talk, we will cover some of the strategies that lead to effective DevOps.  These strategies are part of the best practices and technical capabilities from the Accelerate State of DevOps Report.\r\n\r\nWe will also show how developers can work synergistically with DevOps using trunk-based development, Continuous Integration, Continuous Delivery, and Infrastructure as Code.",
@@ -2025,6 +2047,33 @@
         617262
       ],
       "fullName": "Kevin Mireles",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "7949d43a-8944-4575-bad6-61b90c7c75a4",
+      "firstName": "Kyle",
+      "lastName": "Jenkins",
+      "bio": "Kyle Jenkins is driven to help you ease the pain of work, whether it’s technology bleeding resources or trouble working with a team of people.  As a full stack developer, public speaker, and principal consultant with Improving, a global software development consulting and training company, he integrates into teams to provide quality software solutions and into the IT and Agile community to improve processes and teamwork. On the side, he is an avid video gamer, and loves correlating the challenges and learnings from video games to the world of work.",
+      "tagLine": "Trust Changes Everything",
+      "profilePicture": "https://sessionize.com/image/6c8e-400o400o1-fLkrnrZ1fd3PXZLwJEvj6T.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/kjenkinsdev",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/kyle-jenkins",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        617742
+      ],
+      "fullName": "Kyle Jenkins",
       "categoryItems": [],
       "questionAnswers": []
     },

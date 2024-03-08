@@ -6,7 +6,7 @@
 
     
 
-    <title>Speakers - Stir Trek</title>
+    <title>Kyle Jenkins - Stir Trek</title>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
@@ -15,12 +15,12 @@
     <!-- Twitter Card data -->
     <meta name="twitter:card" value="summary">
     <meta name="twitter:site" value="@StirTrek">
-    <meta name="twitter:title" value="Speakers - Stir Trek">
+    <meta name="twitter:title" value="Kyle Jenkins - Stir Trek">
     <meta name="twitter:description" value="Stir Trek is a one-day conference in Columbus, Ohio focused on teaching software developers the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a private screening of a blockbuster film on its opening day.">
     <meta name="twitter:image" value="/icons/opengraph.jpg">
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Speakers - Stir Trek" />
+    <meta property="og:title" content="Kyle Jenkins - Stir Trek" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://stirtrek.com" />
     <meta property="og:image" content="/icons/opengraph.jpg" />
@@ -176,27 +176,209 @@
 
             <div class="container">
 
+                <div class="body-content" role="main">
+
+    <style>
+        .speakerAvatarBioStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "avatar     bio         bio";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            column-gap: 40px;
+
+            margin-bottom: 40px;            
+        }
+
+        .speakerSessionStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "abstract   abstract    time"
+                "abstract   abstract    stirTrek";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            column-gap: 40px;
+            grid-row-gap: 40px;
+        }
+
+        @media only screen and (max-width:990px) {
+            .speakerAvatarBioStrip, .speakerSessionStrip {
+                display: block;
+            }
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel {
+            grid-area: avatar;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+            color: black;
+
+            text-align: center;
+        }
+
+        .speakerSessionStrip .abstractPanel {
+            grid-area: abstract;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerAvatarBioStrip .bioPanel {
+            grid-area: bio;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            grid-area: stirTrek;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+        }
+
+        .speakerSessionStrip .timeAndRoomPanel {
+            grid-area: time;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;    
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel,
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%), 
+                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
+                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
+                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%), 
+                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
+                linear-gradient(40deg, #c48b2fb3 0, #f7c16ab3 30%, #dbab5bb3 50%, #dbab5bb3 70%, #c48b2fb3 100%);
+        }
+
+        .stirTrekPanelImage {
+            background-image: url('/images/StirTrek-Emblem-Gold-400x588.png');
+            width: 100%;
+            height: 100%;
+            background-position: center;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body, .speakerSessionStrip .comic-panel-body {
+            position: relative;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-header, .speakerSessionStrip .comic-panel-header {
+            position: absolute;
+            top: -35px;
+            left: -25px;
+        }
+
+        .speakerAvatarBioStrip .speakerImage {
+            width: 80%;
+            border-radius: 50%;
+            border: 6px solid #111c2e;
+            margin: 2em auto 0;
+        }
+
+        .speakerAvatarBioStrip .speakerTagline {
+            vertical-align: middle;
+        }
+
+        .speakerAvatarBioStrip .speakerBio {
+            margin-top: 5%;
+        }
+
+
+        @media only screen and (max-width:990px) {
+            .speakerAvatarBioStrip .comic-panel-body, .speakerSessionStrip .comic-panel-body {
+                border: 20px solid white;
+                padding: 30px 20px;
+                margin-bottom: 40px;
+            }
+
+            .speakerAvatarBioStrip .comic-panel-header, .speakerSessionStrip .comic-panel-header {
+                top: -35px;
+                left: -45px;
+            }
+
+            .speakerAvatarBioStrip .speakerImage {
+                display: block;
+                margin: 0px auto;
+                margin-top: 2em;
+            }
+
+            .speakerAvatarBioStrip .speakerTagline {
+                width: 100%;
+                display: block;
+                text-align: center;
+            }
+
+            .speakerSessionStrip .stirTrekPanel {
+                display: none;
+            }
+        }        
+    </style>
+
+    <div class="speakerAvatarBioStrip">
+        <div class="avatarPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Kyle Jenkins!
+            </div>
+
+            <div>
+                <img src="/images/speakers/2024/Kyle-Jenkins.jpg" class="img-responsive speakerImage">
+            </div>
+
+            <div class="speakerTagline">
+                <h3>Trust Changes Everything</h3>
+            </div>
+        </div>
+        <div class="bioPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Bio!
+            </div>
+
+            Kyle Jenkins is driven to help you ease the pain of work, whether it’s technology bleeding resources or trouble working with a team of people.  As a full stack developer, public speaker, and principal consultant with Improving, a global software development consulting and training company, he integrates into teams to provide quality software solutions and into the IT and Agile community to improve processes and teamwork. On the side, he is an avid video gamer, and loves correlating the challenges and learnings from video games to the world of work.
+        </div>
+
+    </div>
+    <div class="speakerSessionStrip">
+        <div class="abstractPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                    Session!
+            </div>
+            
+                <h2>Docker Unleashed: Enhancing Local Environments with Ease</h2>
+                <br>
+                <div>
+                    A high-quality local environment is critical for enabling developers for efficient feature delivery. Docker, when utilized correctly, can simplify the maintenance of the local environment and remove the &#34;it works on my machine” symptom. Join me on an insightful journey as I share years of successes and hard-earned lessons from harnessing Docker for consistent, hassle-free environments. We will review what Docker is and when to use it, how it changes the development accountabilities between teams, the architecture behind an efficient local environment to enable smooth pipelines and production deployment and will unveil valuable tips and real-world examples to optimize Docker usage and boost your development productivity.
+                </div>
+            
+        </div>
+
+        <div class="timeAndRoomPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Where/When?
+            </div>
+
+            
                 
-<div class="body-content" role="main">
+                    <h2>Schedule TBD</h2>
+                
+
+                
+            
 
 
-    <h1 id="2020-Call-for-Speakers"><a href="#2020-Call-for-Speakers" class="headerlink" title="2020 Call for Speakers"></a>2020 Call for Speakers</h1><div class="icon-hr"></div>
+        </div>
 
-<p>The 2020 Stir Trek CFP opens on 1&#x2F;12&#x2F;2020. <a target="_blank" rel="noopener" href="https://sessionize.com/stir-trek-2020/">You can submit your talks here!</a> We will be announcing speakers at (or around) February 23rd. Watch Twitter for any updates.</p>
-<h2 id="Mailing-List"><a href="#Mailing-List" class="headerlink" title="Mailing List"></a>Mailing List</h2><p>Want to receive updates about the CFP and other key information? <a target="_blank" rel="noopener" href="http://eepurl.com/deQ9An">Sign up here</a>.</p>
-<h2 id="Travel-Reimbursements-Training-Budgets"><a href="#Travel-Reimbursements-Training-Budgets" class="headerlink" title="Travel Reimbursements &amp; Training Budgets"></a>Travel Reimbursements &amp; Training Budgets</h2><p>We’re very pleased to announce that we’re expanding our speaker training program (from 12 speakers, to 24 this year!) while retaining our <strong>$250 speaker travel reimbursement</strong>. </p>
-<h3 id="Training"><a href="#Training" class="headerlink" title="Training"></a>Training</h3><p>If you’re selected when we announce speakers, you’ll have the option to join a professional speaker training course we’ve partnered with <a target="_blank" rel="noopener" href="https://www.articulationinc.com/">Articulation</a> to provide. They coach all the TEDx Columbus speakers, and did a great job last year. This is <strong>completely free to you</strong>.</p>
-<h3 id="Travel"><a href="#Travel" class="headerlink" title="Travel"></a>Travel</h3><p>Additionally, for the 2nd year in a row we’re committing to a minimum of $250 of travel reimbursements to any speaker than needs them. Depending on how many speakers travel, we may be able to cover more. If you’re accepted we’ll provider more details!</p>
-<p>Allowed expenses include transit, hotel, and fuel. If you have a different expense you’d like to include, please email <a href="mailto:&#x73;&#x70;&#x65;&#97;&#x6b;&#x65;&#114;&#x73;&#64;&#115;&#x74;&#105;&#x72;&#x74;&#x72;&#x65;&#107;&#x2e;&#x63;&#111;&#x6d;">&#x73;&#x70;&#x65;&#97;&#x6b;&#x65;&#114;&#x73;&#64;&#115;&#x74;&#105;&#x72;&#x74;&#x72;&#x65;&#107;&#x2e;&#x63;&#111;&#x6d;</a>. You’ll need to book your own travel reservations and submit a receipt on or after the day of the event to get reimbursed.</p>
-<!--# Last Year's (2019) Speakers
-
-<div class="icon-hr"></div>
-<br>
--->
-
-    
-
-
+        <div class="stirTrekPanel comic-panel-body">
+            <div class="stirTrekPanelImage"></div>
+        </div>
+    </div>
 </div>
             </div>
 

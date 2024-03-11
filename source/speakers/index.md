@@ -10,6 +10,4 @@ alias:
 
 <div class="icon-hr"></div>
 
-Our Call for Speakers has concluded and we've sent out speaker invitations. As speakers confirm, they'll be added here. 
-
-Stay tuned!
+We're excited about this awesome group of speakers and sessions for 2024. We'll update this with the schedule details soon!

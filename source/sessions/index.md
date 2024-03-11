@@ -31,4 +31,4 @@ alias:
 # This year's sessions
 <div class="icon-hr"></div>
 
-Our Call for Speakers is closed and we're selecting speakers now. As they confirm, we'll update this page with more details!
+We're excited about this awesome group of speakers and sessions for 2024. We'll update this with the schedule details soon!

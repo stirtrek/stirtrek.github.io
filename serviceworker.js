@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1710182075495';
+var CACHE = 'network-or-cache-1710194196450';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -43,13 +43,13 @@ function precache() {
 "/speakers/2019.html",
 "/speakers/2020.html",
 "/speakers/2021.html",
-"/speakers/2022.html",
 "/speakers/2023.html",
 "/speakers/2024.html",
-"/speakers/index_cfpopenversion.html",
-"/speakers/index_noncfpversion.html",
+"/speakers/2022.html",
 "/speakers/",
 "/speakers/index.html",
+"/speakers/index_cfpopenversion.html",
+"/speakers/index_noncfpversion.html",
 "/sponsors/",
 "/sponsors/index.html",
 "/store/",
@@ -68,9 +68,9 @@ function precache() {
 "/info/contact/index.html",
 "/info/history/",
 "/info/history/index.html",
+"/info/press/2024-02-10.html",
 "/info/press/",
 "/info/press/index.html",
-"/info/press/2024-02-10.html",
 "/info/privacy/",
 "/info/privacy/index.html",
 "/info/travel/",
@@ -360,7 +360,6 @@ function precache() {
 "/speakers/2024/Dennis-Dunn.html",
 "/speakers/2024/Dev-Agrawal.html",
 "/speakers/2024/Drake-Lundstrom.html",
-"/speakers/2024/Georgia-Loper.html",
 "/speakers/2024/Glenn-HarmonJr..html",
 "/speakers/2024/Haley-HendershotMalone.html",
 "/speakers/2024/HenryBerson-Saint-Juste.html",

@@ -199,28 +199,6 @@
       "isConfirmed": true
     },
     {
-      "id": "618222",
-      "title": "Decoding Design: Figma Essentials for Developers",
-      "description": "It's time to stop pretending Figma is some mystical land only designers can navigate. “Decoding Design: Figma Essentials for Developers” is the wake-up call for developers who've been conveniently side-stepping the world of design. In this ironic, yet enlightening talk that challenges the notion that Figma is a designer-only zone, you’ll learn why embracing Figma is not just about keeping the peace with your design team, but about empowering yourself as a developer. It’s time to join the party.\r\n\r\nIn this session, you’ll discover how to efficiently fit Figma into your development workflow, extract design specs, explore the plugin ecosystem, and streamline communication with designers. Perfect for developers who tune out when Figma is screen-shared during project meetings. Get ready to add 'Figma-savvy' to your skillset and maybe, just maybe, make your projects look as good as they function.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "f38f42d8-7623-457c-8871-dbb44bc458da"
-      ],
-      "categoryItems": [
-        234801
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
       "id": "617742",
       "title": "Docker Unleashed: Enhancing Local Environments with Ease",
       "description": "A high-quality local environment is critical for enabling developers for efficient feature delivery. Docker, when utilized correctly, can simplify the maintenance of the local environment and remove the \"it works on my machine” symptom. Join me on an insightful journey as I share years of successes and hard-earned lessons from harnessing Docker for consistent, hassle-free environments. We will review what Docker is and when to use it, how it changes the development accountabilities between teams, the architecture behind an efficient local environment to enable smooth pipelines and production deployment and will unveil valuable tips and real-world examples to optimize Docker usage and boost your development productivity.",
@@ -1626,38 +1604,6 @@
         618233
       ],
       "fullName": "Drake Lundstrom",
-      "categoryItems": [],
-      "questionAnswers": []
-    },
-    {
-      "id": "f38f42d8-7623-457c-8871-dbb44bc458da",
-      "firstName": "Georgia",
-      "lastName": "Loper",
-      "bio": "Georgia Loper loves the web. She champions frontend excellence at Upstart by empowering teams to engineer quality user experiences with Patina Design System.",
-      "tagLine": "Senior Software Engineer, Design Systems",
-      "profilePicture": "https://sessionize.com/image/4c08-400o400o1-QgVSaToMDE3wP51xmz97A5.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Twitter",
-          "url": "https://twitter.com/developerLoper",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/georgialoper/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://developerloper.dev",
-          "linkType": "Blog"
-        }
-      ],
-      "sessions": [
-        618222
-      ],
-      "fullName": "Georgia Loper",
       "categoryItems": [],
       "questionAnswers": []
     },

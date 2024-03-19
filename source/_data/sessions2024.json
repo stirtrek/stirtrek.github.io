@@ -243,6 +243,28 @@
       "isConfirmed": true
     },
     {
+      "id": "617904",
+      "title": "End-to-End Testing in the Age of Containers",
+      "description": "The aim of automated testing is to give us confidence that our code will run as expected in every situation–especially when we push changes. Good tests will increase your team's velocity of developing new features and reduce the headache of bugs and outages.\r\n\r\n As more applications shift to containerized environments, testing them becomes more complex. This session will clarify setting up and running automated tests in these environments. We'll discuss organizing tests in containers, handling dependencies, and maintaining consistent testing throughout the deployment process. The session will cover setting up Docker for replicable test environments and utilizing Kubernetes to manage complex, interdependent test workflows, ensuring consistent, reliable end-to-end testing.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f0f1fa39-eb24-4ab6-866c-b8645975bd75"
+      ],
+      "categoryItems": [
+        234800
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "608481",
       "title": "How To Get Started With AI: Moving Beyond ChatGPT",
       "description": "AI has captured the attention of the world—for better or worse. Hype, noise, and fear are dominating the headlines, with a huge focus on ChatGPT and its competitors. Today, most of us are being asked to do something with AI; and if not today, then tomorrow. Quite simply, AI is going to touch on every part of our jobs soon enough.\r\n\r\nHowever, most of us aren’t AI researchers. It’s not our specialty. \r\n\r\nThat’s ok! We’re asked to do things we aren’t specialists in every day. We can leverage the skills we’ve developed to accelerate our learning of AI. The gap isn’t nearly as large as it may seem at first.\r\n\r\nIn this talk, we will provide a broad overview of the field, through the lens of five areas where AI is commonly used:\r\n\r\n* Making sense of the physical world\r\n* Structuring unstructured/unformatted data to be machinable\r\n* Predicting trends and group membership\r\n* Building plans and strategies\r\n* Generating media for human consumption\r\n\r\nFor each application area, we'll be looking at the underlying subfields of AI that seek to address it, discuss the common pitfalls and best practices in that space, and introduce tools that you can use to solve those problems today.",
@@ -994,7 +1016,7 @@
     {
       "id": "612872",
       "title": "Why overcomplicate when HTML will do?",
-      "description": "Remember when the frontend didn't have it's own router and MVC framework? When productivity wasn't ground to a halt by a fragile spiderweb of dependencies? When server responses to browsers were HTML?\r\n\r\nIn this talk, we'll discuss tools like htmx and Hotwire and how they give us a way to build modern feeling web applications from basic HTML responses. By leveraging web standards and the technical advances of browsers, we will reduce both the lines of code we need to write and the amount of knowledge needed to built a fullstack application.\r\n\r\nThis talk isn't about providing a silver bullet solution, but it is a call to action to reexamine how we build things. If you feel like we've overcomplicated things and you're deploying lines of code instead of functionality, this talk is for you.",
+      "description": "Remember when the frontend didn't have it's own router and MVC framework? When productivity wasn't ground to a halt by a fragile spiderweb of dependencies? When server responses to browsers were HTML?\r\n\r\nIn this talk, we'll discuss tools like htmx and Hotwire and how they give us a way to build modern feeling web applications from basic HTML responses. By leveraging web standards and the technical advances of browsers, we will reduce both the lines of code we need to write and the amount of knowledge needed to build a fullstack application.\r\n\r\nThis talk isn't about providing a silver bullet solution, but it is a call to action to reexamine how we build things. If you feel like we've overcomplicated things and you're deploying lines of code instead of functionality, this talk is for you.",
       "startsAt": null,
       "endsAt": null,
       "isServiceSession": false,
@@ -2393,6 +2415,43 @@
         610728
       ],
       "fullName": "Samuel Gomez",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f0f1fa39-eb24-4ab6-866c-b8645975bd75",
+      "firstName": "Scott",
+      "lastName": "McAllister",
+      "bio": "Scott McAllister is a Developer Advocate for ngrok. He has been building web applications in several industries for over a decade. Now he's helping others learn about a wide range of web and infrastructure technologies. When he's not coding, writing or speaking he enjoys long walks with his wife, skipping rocks with his kids, and is happy whenever Real Salt Lake, Seattle Sounders FC, Manchester City, St. Louis Cardinals, Seattle Mariners, Chicago Bulls, Seattle Storm, Seattle Seahawks, OL Reign FC, St. Louis Blues, Seattle Kraken, Barcelona, Fiorentina, Borussia Dortmund or Mainz 05 can manage a win.\r\n",
+      "tagLine": "Developer Advocate at ngrok",
+      "profilePicture": "https://sessionize.com/image/1ebc-400o400o1-Pn9oh1DNVCkN3fTo1Y4zHS.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/stmcallister",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/stmcallister/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://dev.to/stmcallister",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://ngrok.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        617904
+      ],
+      "fullName": "Scott McAllister",
       "categoryItems": [],
       "questionAnswers": []
     },

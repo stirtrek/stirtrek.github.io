@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1710194196450';
+var CACHE = 'network-or-cache-1710855518124';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -27,25 +27,25 @@ function precache() {
             "/images/speakers/2022/Readme.html",
 "/",
 "/index.html",
-"/manifest.json",
 "/404.html",
+"/manifest.json",
 "/covid/",
 "/covid/index.html",
 "/recordings/",
 "/recordings/index.html",
-"/registration/",
-"/registration/index.html",
 "/schedule/",
 "/schedule/index.html",
+"/registration/",
+"/registration/index.html",
 "/sessions/",
 "/sessions/index.html",
 "/speakers/2018.html",
 "/speakers/2019.html",
 "/speakers/2020.html",
 "/speakers/2021.html",
+"/speakers/2022.html",
 "/speakers/2023.html",
 "/speakers/2024.html",
-"/speakers/2022.html",
 "/speakers/",
 "/speakers/index.html",
 "/speakers/index_cfpopenversion.html",
@@ -385,6 +385,7 @@ function precache() {
 "/speakers/2024/Robert-Herbig.html",
 "/speakers/2024/Sam-Basu.html",
 "/speakers/2024/Samuel-Gomez.html",
+"/speakers/2024/Scott-McAllister.html",
 "/speakers/2024/Sean-Wedig.html",
 "/speakers/2024/Shawn-Wildermuth.html",
 "/speakers/2024/Simon-MacDonald.html",
@@ -862,6 +863,7 @@ function precache() {
 "images/speakers/2024/Robert-Herbig.jpg",
 "images/speakers/2024/Sam-Basu.jpg",
 "images/speakers/2024/Samuel-Gomez.jpg",
+"images/speakers/2024/Scott-McAllister.jpg",
 "images/speakers/2024/Sean-Wedig.png",
 "images/speakers/2024/Shawn-Wildermuth.jpg",
 "images/speakers/2024/Simon-MacDonald.JPG",

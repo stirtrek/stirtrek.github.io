@@ -1037,7 +1037,7 @@
     },
     {
       "id": "614006",
-      "title": "Why You’re API Needs a Spec and How to Get It One",
+      "title": "Why Your API Needs a Spec and How to Get It One",
       "description": "API specifications like GraphQL and JSON:API were created so that clients such as an internal frontend or mobile application can have a standardized and robust way to get the data they need.\r\n\r\nAPIs that are built to conform to a spec have a schema and the patterns for interacting already established before any endpoints are written. This way, developers have established patterns and schemas to follow on both the client and server side which allows teams to build faster than in situations where this is not true.\r\n\r\nWhile implementing APIs to specs or migrating APIs to specs requires more work upfront, I’ve seen APIs that conform to specs like GraphQL and JSON:API scale quickly in terms of technical features. They also helped the project scale from 10 devs working quickly and effectively to 40 devs working effectively in a matter of a couple weeks.\r\n\r\nWhether you are part of a team building a new API or you are working in an established one you will come away from this talk feeling empowered and equipped to make that API better. You will understand why migrating to or building with a spec is worth the time as well as hear practical implementation strategies. Finally, you will see examples of the technical details so you can easily start working towards more scalable solutions!",
       "startsAt": null,
       "endsAt": null,

@@ -41,18 +41,18 @@
       "isConfirmed": true
     },
     {
-      "id": "607257",
-      "title": "Real World Minimal APIs",
-      "description": "With .NET Core, Minimal APIs come to .NET developers. But this introduction poses the question of whether this replaces or enhances our existing Controller-base APIs. In this talk, Shawn Wildermuth will show you how Minimal APIs work and why you'd use them instead of Controller-based APIs (as well as when to maturate your APIs from Minimal to Controller-based APIs).",
+      "id": "608383",
+      "title": "Building Design Systems with Web Components",
+      "description": "Creating cohesive user experiences across various platforms and devices is paramount in today's fast-paced digital landscape. Design systems are the key to achieving this goal, as they provide a systematic approach to design, code, and documentation. In this session, we will explore the core concepts of design systems and how web components, a powerful technology, can streamline the process of building and maintaining design systems.",
       "startsAt": "2024-05-03T08:30:00",
       "endsAt": "2024-05-03T09:30:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "e0d63ad2-9848-425f-a130-10b610726dec"
+        "888fa440-0056-4eb5-971c-7945fe50311d"
       ],
       "categoryItems": [
-        234795
+        234796
       ],
       "questionAnswers": [],
       "roomId": 44386,
@@ -610,18 +610,18 @@
       "isConfirmed": true
     },
     {
-      "id": "608383",
-      "title": "Building Design Systems with Web Components",
-      "description": "Creating cohesive user experiences across various platforms and devices is paramount in today's fast-paced digital landscape. Design systems are the key to achieving this goal, as they provide a systematic approach to design, code, and documentation. In this session, we will explore the core concepts of design systems and how web components, a powerful technology, can streamline the process of building and maintaining design systems.",
+      "id": "607257",
+      "title": "Real World Minimal APIs",
+      "description": "With .NET Core, Minimal APIs come to .NET developers. But this introduction poses the question of whether this replaces or enhances our existing Controller-base APIs. In this talk, Shawn Wildermuth will show you how Minimal APIs work and why you'd use them instead of Controller-based APIs (as well as when to maturate your APIs from Minimal to Controller-based APIs).",
       "startsAt": "2024-05-03T13:00:00",
       "endsAt": "2024-05-03T14:00:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "888fa440-0056-4eb5-971c-7945fe50311d"
+        "e0d63ad2-9848-425f-a130-10b610726dec"
       ],
       "categoryItems": [
-        234796
+        234795
       ],
       "questionAnswers": [],
       "roomId": 47616,

@@ -1,1 +1,255 @@
-{"scheduledSessions":{"timeSlots":[]}}
+{
+  "scheduledSessions": {
+    "timeSlots": [
+      {
+        "time": "7:30 AM",
+        "sessions": [
+          {
+            "id": "9fce56ce-1112-40ef-9a83-1db01bc0a30f",
+            "scheduledRoom": "Concourse"
+          }
+        ]
+      },
+      {
+        "time": "8:30 AM",
+        "sessions": [
+          {
+            "id": "608481",
+            "scheduledRoom": "Empire"
+          },
+          {
+            "id": "607257",
+            "scheduledRoom": "New hope"
+          },
+          {
+            "id": "610462",
+            "scheduledRoom": "Jedi"
+          },
+          {
+            "id": "618279",
+            "scheduledRoom": "Force Awakens"
+          },
+          {
+            "id": "613461",
+            "scheduledRoom": "Clones"
+          },
+          {
+            "id": "610559",
+            "scheduledRoom": "Sith"
+          },
+          {
+            "id": "614006",
+            "scheduledRoom": "Last Jedi"
+          },
+          {
+            "id": "609450",
+            "scheduledRoom": "Skywalker"
+          }
+        ]
+      },
+      {
+        "time": "9:45 AM",
+        "sessions": [
+          {
+            "id": "607263",
+            "scheduledRoom": "Empire"
+          },
+          {
+            "id": "609345",
+            "scheduledRoom": "New hope"
+          },
+          {
+            "id": "617755",
+            "scheduledRoom": "Jedi"
+          },
+          {
+            "id": "618346",
+            "scheduledRoom": "Force Awakens"
+          },
+          {
+            "id": "608069",
+            "scheduledRoom": "Clones"
+          },
+          {
+            "id": "618695",
+            "scheduledRoom": "Sith"
+          },
+          {
+            "id": "618240",
+            "scheduledRoom": "Last Jedi"
+          },
+          {
+            "id": "612872",
+            "scheduledRoom": "Skywalker"
+          }
+        ]
+      },
+      {
+        "time": "11:00 AM",
+        "sessions": [
+          {
+            "id": "618675",
+            "scheduledRoom": "Empire"
+          },
+          {
+            "id": "608522",
+            "scheduledRoom": "New hope"
+          },
+          {
+            "id": "615031",
+            "scheduledRoom": "Jedi"
+          },
+          {
+            "id": "618668",
+            "scheduledRoom": "Force Awakens"
+          },
+          {
+            "id": "618441",
+            "scheduledRoom": "Clones"
+          },
+          {
+            "id": "614960",
+            "scheduledRoom": "Sith"
+          },
+          {
+            "id": "617684",
+            "scheduledRoom": "Last Jedi"
+          },
+          {
+            "id": "611216",
+            "scheduledRoom": "Skywalker"
+          }
+        ]
+      },
+      {
+        "time": "12:00 PM",
+        "sessions": [
+          {
+            "id": "187ca774-d562-4592-9149-7e52643d6638",
+            "scheduledRoom": "Concourse"
+          }
+        ]
+      },
+      {
+        "time": "1:00 PM",
+        "sessions": [
+          {
+            "id": "618248",
+            "scheduledRoom": "Empire"
+          },
+          {
+            "id": "618642",
+            "scheduledRoom": "New hope"
+          },
+          {
+            "id": "608383",
+            "scheduledRoom": "Jedi"
+          },
+          {
+            "id": "613455",
+            "scheduledRoom": "Force Awakens"
+          },
+          {
+            "id": "618633",
+            "scheduledRoom": "Clones"
+          },
+          {
+            "id": "614428",
+            "scheduledRoom": "Sith"
+          },
+          {
+            "id": "617350",
+            "scheduledRoom": "Last Jedi"
+          },
+          {
+            "id": "617742",
+            "scheduledRoom": "Skywalker"
+          }
+        ]
+      },
+      {
+        "time": "2:15 PM",
+        "sessions": [
+          {
+            "id": "617262",
+            "scheduledRoom": "Empire"
+          },
+          {
+            "id": "610728",
+            "scheduledRoom": "New hope"
+          },
+          {
+            "id": "608573",
+            "scheduledRoom": "Jedi"
+          },
+          {
+            "id": "607260",
+            "scheduledRoom": "Force Awakens"
+          },
+          {
+            "id": "612946",
+            "scheduledRoom": "Clones"
+          },
+          {
+            "id": "611249",
+            "scheduledRoom": "Sith"
+          },
+          {
+            "id": "609622",
+            "scheduledRoom": "Last Jedi"
+          },
+          {
+            "id": "617904",
+            "scheduledRoom": "Skywalker"
+          }
+        ]
+      },
+      {
+        "time": "3:30 PM",
+        "sessions": [
+          {
+            "id": "618557",
+            "scheduledRoom": "Empire"
+          },
+          {
+            "id": "610435",
+            "scheduledRoom": "New hope"
+          },
+          {
+            "id": "608431",
+            "scheduledRoom": "Jedi"
+          },
+          {
+            "id": "607641",
+            "scheduledRoom": "Force Awakens"
+          },
+          {
+            "id": "618549",
+            "scheduledRoom": "Clones"
+          },
+          {
+            "id": "610588",
+            "scheduledRoom": "Sith"
+          },
+          {
+            "id": "618233",
+            "scheduledRoom": "Last Jedi"
+          },
+          {
+            "id": "607015",
+            "scheduledRoom": "Skywalker"
+          }
+        ]
+      },
+      {
+        "time": "5:00 PM",
+        "sessions": [
+          {
+            "id": "504fd996-5131-4e24-83ed-bb3534331033",
+            "scheduledRoom": "Concourse"
+          }
+        ]
+      }
+    ]
+  }
+}

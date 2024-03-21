@@ -283,28 +283,6 @@
       "isConfirmed": true
     },
     {
-      "id": "608069",
-      "title": "Building Resilient Apps: A Software Engineer’s Practical Guide to Application Security",
-      "description": "News of cyberattacks and data breaches continue to make headlines. Cybersecurity can be overwhelming; we’re told that threat actors are becoming more sophisticated and cyber threats are constantly evolving, yet many security trainings are unhelpful, awful, boring, and too theoretical. There’s nothing worse than imagining your hard work become the next cautionary tale in the media but not know what to do about it. Perhaps you already know security is important but don’t know how where to begin. Maybe you're dealing with a flood of requests from the infosec team, struggling to see the big picture, and unsure how to prioritize their demands among the rest of the backlog. And if the threats are constantly evolving, how do you even keep up and avoid an endless game of security whack-a-mole?\r\n\r\nThankfully, while the threat landscape can seem scary and complex, application security doesn’t have to be. In this talk, learn from Jamie Dicken, former software engineer turned security professional, who will provide practical insights, actionable advice, and a straightforward framework for building secure systems. We’ll cover simple steps you can take throughout the entire product lifecycle and empower you to build resilient systems that can withstand the threats of both today and tomorrow.\r\n",
-      "startsAt": "2024-05-03T09:45:00",
-      "endsAt": "2024-05-03T10:45:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "d06fd6a1-87cf-4d20-a5e0-2dd64c2039bb"
-      ],
-      "categoryItems": [
-        234805
-      ],
-      "questionAnswers": [],
-      "roomId": 47618,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
       "id": "618695",
       "title": "Brain maxed out? Add a Second Brain!",
       "description": "Stop overloading your brain with too much information and too many good intentions! Ditch the mental grind, and build a Second Brain to give your first brain a break.\r\n\r\nDiscover how Second Brain “support systems” like note taking apps (Evernote, Notion, and OneNote) can yield surprising gains so you can wield the information that matters most to achieve your highest personal goals.\r\n\r\nLearn surprising ways to better capture, organize, and leverage the information vital to your success and make it actionable and relevant to your life.",
@@ -1766,33 +1744,6 @@
         611216
       ],
       "fullName": "Henry Berson Saint-Juste",
-      "categoryItems": [],
-      "questionAnswers": []
-    },
-    {
-      "id": "d06fd6a1-87cf-4d20-a5e0-2dd64c2039bb",
-      "firstName": "Jamie",
-      "lastName": "Dicken",
-      "bio": "Jamie Dicken has worked across much of cybersecurity domain, including application security, DevSecOps, security chaos engineering, continuous control validation, security tooling and automation, security posture maturation, security architecture, and governance, risk, and compliance. Prior to her transition into cybersecurity, she spent 8 years as a software engineer and technical manager at two Fortune 15 healthcare companies, where she focused on designing, building, and delivering new features to the market. Now Jamie focuses on protecting systems like the ones she used to build and transforming the ways that engineering teams and security professionals work together. Jamie is currently the Director of Security Assurance at New Relic, leading teams focused on product, infrastructure, and enterprise security. She also freelances as a threat modeling instructor at Shostack + Associates.\r\n\r\nHer professional passions include leading high-performing teams, executing on high-profile strategic initiatives, championing employee growth and development, and mentoring others. Outside of work, Jamie has lots of adventures with her two boys and amazingly supportive husband.  She enjoys spending time outdoors and crafting.\r\n",
-      "tagLine": "Builder and Protector",
-      "profilePicture": "https://sessionize.com/image/3069-400o400o1-RdKyJ7o1e92PwxbQ6cgRyt.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/jdicken/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://medium.com/@jamie_dicken",
-          "linkType": "Blog"
-        }
-      ],
-      "sessions": [
-        608069
-      ],
-      "fullName": "Jamie Dicken",
       "categoryItems": [],
       "questionAnswers": []
     },

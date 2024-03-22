@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1711054992689';
+var CACHE = 'network-or-cache-1711067842170';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -45,9 +45,9 @@ function precache() {
 "/speakers/2021.html",
 "/speakers/2022.html",
 "/speakers/2023.html",
-"/speakers/2024.html",
 "/speakers/",
 "/speakers/index.html",
+"/speakers/2024.html",
 "/speakers/index_cfpopenversion.html",
 "/speakers/index_noncfpversion.html",
 "/sponsors/",
@@ -66,11 +66,11 @@ function precache() {
 "/info/commitmenttodiversity/index.html",
 "/info/contact/",
 "/info/contact/index.html",
+"/info/history/",
+"/info/history/index.html",
 "/info/press/2024-02-10.html",
 "/info/press/",
 "/info/press/index.html",
-"/info/history/",
-"/info/history/index.html",
 "/info/privacy/",
 "/info/privacy/index.html",
 "/info/travel/",
@@ -356,6 +356,7 @@ function precache() {
 "/speakers/2024/Carey-Payette.html",
 "/speakers/2024/Chris-Gardner.html",
 "/speakers/2024/Chris-Nelson.html",
+"/speakers/2024/Christopher-Robinson.html",
 "/speakers/2024/David-Neal.html",
 "/speakers/2024/Dennis-Dunn.html",
 "/speakers/2024/Dev-Agrawal.html",
@@ -831,6 +832,7 @@ function precache() {
 "images/speakers/2024/Carey-Payette.jpg",
 "images/speakers/2024/Chris-Gardner.png",
 "images/speakers/2024/Chris-Nelson.jpg",
+"images/speakers/2024/Christopher-Robinson.png",
 "images/speakers/2024/David-Neal.png",
 "images/speakers/2024/Dennis-Dunn.jpg",
 "images/speakers/2024/Dev-Agrawal.jpg",

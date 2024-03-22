@@ -283,6 +283,28 @@
       "isConfirmed": true
     },
     {
+      "id": "611982",
+      "title": "Lazy guide to open source software risk assessment",
+      "description": "Open source software is pervasive throughout the world.  Most commercial software leverages it in some capacity, but many consumers don't understand this nor how to effectively review and react to changes from their upstream providers.\r\n\r\nThis session will explore some simple techniques and tools consumers can implement to better understand what is inside the software they use everyday and steps they can take to ensure they are effectively managing their risk from this use of open source software.  \r\n\r\nTopics covered:\r\n- The basics of implementing risk management\r\n- Deep dive into potential open source supply chain attack\r\n- Review of common open source supply chain risk management mistakes and how to mitigate them\r\n- Survey of risk management tools that can assist in evaluation of third party software, such as CVE, CVSS, VEX, OSV, and others",
+      "startsAt": "2024-05-03T09:45:00",
+      "endsAt": "2024-05-03T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "87065a54-fa24-4a1d-83ba-59c4bc8b416d"
+      ],
+      "categoryItems": [
+        234805
+      ],
+      "questionAnswers": [],
+      "roomId": 47618,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "618695",
       "title": "Brain maxed out? Add a Second Brain!",
       "description": "Stop overloading your brain with too much information and too many good intentions! Ditch the mental grind, and build a Second Brain to give your first brain a break.\r\n\r\nDiscover how Second Brain “support systems” like note taking apps (Evernote, Notion, and OneNote) can yield surprising gains so you can wield the information that matters most to achieve your highest personal goals.\r\n\r\nLearn surprising ways to better capture, organize, and leverage the information vital to your success and make it actionable and relevant to your life.",
@@ -1143,6 +1165,11 @@
           "linkType": "LinkedIn"
         },
         {
+          "title": "Blog",
+          "url": "https://blog.adrienne.io",
+          "linkType": "Blog"
+        },
+        {
           "title": "Looks Good To Me: Constructive Code Reviews",
           "url": "https://www.manning.com/books/looks-good-to-me",
           "linkType": "Other"
@@ -1540,6 +1567,33 @@
         618248
       ],
       "fullName": "Chris Nelson",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "87065a54-fa24-4a1d-83ba-59c4bc8b416d",
+      "firstName": "Christopher",
+      "lastName": "Robinson",
+      "bio": "Christopher Robinson (aka CRob) is the Director of Security Communications at Intel Product Assurance and Security and a community leader within the Open Source Security Foundation (OpenSSF). CRob is a 42nd level Dungeon Master and a 25th level Securityologist.  He has worked at several Fortune 500 companies with experience in the Financial, Insurance, Legal, Manufacturing, and Medical verticals. CRob has been involved in upstream open source security for a decade, and spent 6 years helping lead the Red Hat Product Security team as their Program Architect. He is a leader within several Open Source Security Foundation (OpenSSF) efforts and is a frequent speaker on cyber, application, and open source security.\r\n\r\nCRob has been a featured speaker at Gartner’s Identity and Access Management Summit, RSA, BlackHat, DefCon, Derbycon, the (ISC)2 World Congress, and was named a \"Top Presenter\" for the 2017 and 2018 Red Hat Summits. CRob was the President of the Cleveland (ISC)2 Chapter, and is also a children's Cybersecurity Educator with the (ISC)2 Safe-and-Secure program. He holds a Certified Information Systems Security Professional (CISSP) certification, Certified Secure Software Lifecycle Professional (CSSLP) certification, and The Open Group Architecture Framework (TOGAF) certification. He is heavily involved in the Forum for Incident Response and Security Teams (FIRST) PSIRT SIG, collaborating in writing the FIRST PSIRT Services Framework, as well as the PSIRT Maturity Assessment framework. CRob is also the lead/facilitator of the Open Source Security Foundation (OpenSSF) Vulnerability Disclosures and OSS Developer Best Practices working groups as well as a Technical Advisory Committee (TAC) chairperson.  \r\n\r\nHe enjoys hats, herding cats, and moonlit walks on the beach.",
+      "tagLine": "Security Lorax, Open Source Cat Herder",
+      "profilePicture": "https://sessionize.com/image/9cc6-400o400o1-7cTddMXFLDxW6xKCLisGkt.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/SecurityCRob",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/darthcrob",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        611982
+      ],
+      "fullName": "Christopher Robinson",
       "categoryItems": [],
       "questionAnswers": []
     },

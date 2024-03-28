@@ -15,7 +15,7 @@ We're bringing ~~StirShops WorkTreks~~ Workshops to Stir Trek for the first time
 Workshops will be held on Saturday after the main conference and will be available for purchase along with your main conference registration.
 
 **Date**: Saturday, May 4th
-**Time**: 10am - 4pm
+**Time**: 10am - 5pm
 **Location**: [CoHatch Easton](https://www.cohatch.com/locations/columbus/easton/) ([map](https://maps.app.goo.gl/A6kXSGmX6q4KoVQWA))
 
 <br>

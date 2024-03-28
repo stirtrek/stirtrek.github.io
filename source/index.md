@@ -105,7 +105,8 @@ title: Tech & a Flick
 * **3/25/2024** - $200 late tickets on sale
 * **4/13/2024** - $225 Final tickets (w/o a box) on sale
 * **4/29/2024** - Ticket sales end
-* **5/3/2024** - Stir Trek 2024!!!!
+* **5/3/2024** - **Stir Trek 2024!!!!**
+* **5/4/2024** - [Workshop day!](/workshops)
 {% raw %}   
             </div>
             <div style="text-align: center;">

@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1711067842170';
+var CACHE = 'network-or-cache-1711634952549';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -45,10 +45,10 @@ function precache() {
 "/speakers/2021.html",
 "/speakers/2022.html",
 "/speakers/2023.html",
-"/speakers/",
-"/speakers/index.html",
 "/speakers/2024.html",
 "/speakers/index_cfpopenversion.html",
+"/speakers/",
+"/speakers/index.html",
 "/speakers/index_noncfpversion.html",
 "/sponsors/",
 "/sponsors/index.html",
@@ -58,10 +58,10 @@ function precache() {
 "/virtual/index.html",
 "/workshops/",
 "/workshops/index.html",
-"/info/antiharassmentpolicy/",
-"/info/antiharassmentpolicy/index.html",
 "/info/codeofconduct/",
 "/info/codeofconduct/index.html",
+"/info/antiharassmentpolicy/",
+"/info/antiharassmentpolicy/index.html",
 "/info/commitmenttodiversity/",
 "/info/commitmenttodiversity/index.html",
 "/info/contact/",
@@ -87,8 +87,8 @@ function precache() {
 "/scripts/jquery.js",
 "/styles/bootstrap.min.css",
 "/styles/bootstrap.css",
-"/scripts/jquery-3.3.0.js",
 "/scripts/jquery-3.3.1.js",
+"/scripts/jquery-3.3.0.js",
 "/speakers/2018/Adam-Pasternack.html",
 "/speakers/2018/Angel-Thomas.html",
 "/speakers/2018/Anna-Heiermann.html",

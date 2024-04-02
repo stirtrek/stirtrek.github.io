@@ -32,15 +32,15 @@
                 "link": "https://www.igs.com/",
                 "description": "We are leading a transition to a more sustainable energy future by empowering home and business customers to source the energy that’s right for them, manage their costs and carbon footprint, and protect the systems that keep their homes running efficiently.",
                 "logo": "/images/sponsors/IGS_350x200v2.png"
-            }
-        ],
-        "silver": [
+            },
             {
                 "name": "Revel IT",
                 "link": "https://www.revelit.com",
                 "description": "Revel IT is an IT staffing company based in Dublin, Ohio. It specializes in staffing IT professionals for companies of all sizes and providing IT solutions.",
                 "logo": "/images/sponsors/revelit_350x200.png"
             }
+        ],
+        "silver": [
         ],
         "bronze": [
             {

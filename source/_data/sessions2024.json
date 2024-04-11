@@ -1676,11 +1676,6 @@
           "linkType": "Blog"
         },
         {
-          "title": "Company Website",
-          "url": "https://clerk.com",
-          "linkType": "Company_Website"
-        },
-        {
           "title": "YouTube",
           "url": "https://youtube.com/@devagr",
           "linkType": "Other"
@@ -2150,9 +2145,9 @@
       "id": "1fb276ad-c948-40e2-b5ec-dc10bafe4beb",
       "firstName": "Liz",
       "lastName": "Johnson",
-      "bio": "Liz is a Full Stack software engineer with Sillicon Hemisphere - a software consultancy. She has built widely used backend APIs at larger companies and worked full stack building APIs and frontends at smaller startups. Having recently worked on a greenfield API that had to be able to scale and scale fast she has seen, first hand, the major benefits of conforming to API specifications  and using open source libraries to implement them. She's also a mom to young boys also loves long distance running.",
-      "tagLine": "Staff Software Engineer at Silicon Hemisphere",
-      "profilePicture": "https://sessionize.com/image/35ba-400o400o1-fYqFDq4aTeaXmBKBcCngQE.jpg",
+      "bio": "Liz is a Full Stack software engineer. She has built widely used backend APIs at larger companies and worked full stack building APIs and frontends at smaller startups. Having recently worked on a greenfield API that had to be able to scale and scale fast she has seen, first hand, the major benefits of conforming to API specifications  and using open source libraries to implement them. She's also a mom to young boys also loves long distance running.",
+      "tagLine": "Software Engineer",
+      "profilePicture": "https://sessionize.com/image/1abf-400o400o1-DmXEQGLREWCZ9jDWXknnpJ.jpg",
       "isTopSpeaker": false,
       "links": [
         {

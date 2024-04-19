@@ -29,7 +29,7 @@ Workshops will be held on Saturday after the main conference and will be availab
 <br>
 
 {% raw %}
-<div class="speakerAvatarBioStrip">
+<!-- <div class="speakerAvatarBioStrip">
     <div class="bioPanel comic-panel-body">
         <div class="comic-panel-header comic-panel-highlighted">
             Workshop!
@@ -52,7 +52,7 @@ Workshops will be held on Saturday after the main conference and will be availab
         </div>
     </div>
 </div>
-<br><br><br>
+<br><br><br> -->
 <div class="speakerAvatarBioStrip doubleSpeakerAvatarBioStrip">
     <div class="bioPanel comic-panel-body">
         <div class="comic-panel-header comic-panel-highlighted">

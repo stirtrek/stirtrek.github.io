@@ -98,7 +98,7 @@ Workshops will be held on Saturday after the main conference and will be availab
         </div>
     </div>
 </div>
-<br><br><br>
+<!-- <br><br><br>
 <div class="speakerAvatarBioStrip">
     <div class="bioPanel comic-panel-body">
         <div class="comic-panel-header comic-panel-highlighted">
@@ -122,7 +122,7 @@ Workshops will be held on Saturday after the main conference and will be availab
             <h3>Agile Coach & Professional Scrum Trainer<br><br>Ready Set Agile, LLC</h3>
         </div>
     </div>
-</div>
+</div> -->
 <style>
         .speakerAvatarBioStrip {
             display: grid;

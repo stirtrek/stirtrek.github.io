@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1713835108446';
+var CACHE = 'network-or-cache-1713835336947';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -31,24 +31,24 @@ function precache() {
 "/404.html",
 "/covid/",
 "/covid/index.html",
+"/recordings/",
+"/recordings/index.html",
 "/registration/",
 "/registration/index.html",
 "/schedule/",
 "/schedule/index.html",
-"/recordings/",
-"/recordings/index.html",
 "/sessions/",
 "/sessions/index.html",
-"/speakers/2018.html",
 "/speakers/2019.html",
+"/speakers/2018.html",
 "/speakers/2020.html",
-"/speakers/2022.html",
 "/speakers/2021.html",
+"/speakers/2022.html",
 "/speakers/2023.html",
 "/speakers/2024.html",
-"/speakers/index_cfpopenversion.html",
 "/speakers/",
 "/speakers/index.html",
+"/speakers/index_cfpopenversion.html",
 "/speakers/index_noncfpversion.html",
 "/sponsors/",
 "/sponsors/index.html",
@@ -388,7 +388,6 @@ function precache() {
 "/speakers/2024/Scott-McAllister.html",
 "/speakers/2024/Sean-Wedig.html",
 "/speakers/2024/Shawn-Wildermuth.html",
-"/speakers/2024/Simon-MacDonald.html",
 "/speakers/2024/Steve-Smith.html",
 "/speakers/2024/zoe-Steinkamp.html",
 "images/2013-stirtrek-registration-line.png",

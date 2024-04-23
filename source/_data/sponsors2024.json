@@ -54,7 +54,13 @@
                 "link": "https://www.readysetagile.com/",
                 "description": "Our mission is to bridge the gap between business need and necessary expertise to continuously craft high value.  We do this by empowering thrivers to obtain feedback rapidly and respond to change.",
                 "logo": "/images/sponsors/readysetagile_350x200.jpg"                
-            }
+            },
+            {
+                "name": "Improving",
+                "link": "http://www.improving.com/",
+                "description": "Improving is a complete IT services company dedicated to positively changing the perception of the IT professional. We offer cutting-edge solutions through IT consulting, software development, and agile training to help our clients prosper.",
+                "logo": "/images/sponsors/improving_350x200.jpg"
+              }
         ]
     }
 }

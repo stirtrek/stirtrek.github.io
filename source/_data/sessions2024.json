@@ -41,28 +41,6 @@
       "isConfirmed": true
     },
     {
-      "id": "608383",
-      "title": "Building Design Systems with Web Components",
-      "description": "Creating cohesive user experiences across various platforms and devices is paramount in today's fast-paced digital landscape. Design systems are the key to achieving this goal, as they provide a systematic approach to design, code, and documentation. In this session, we will explore the core concepts of design systems and how web components, a powerful technology, can streamline the process of building and maintaining design systems.",
-      "startsAt": "2024-05-03T08:30:00",
-      "endsAt": "2024-05-03T09:30:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "888fa440-0056-4eb5-971c-7945fe50311d"
-      ],
-      "categoryItems": [
-        234796
-      ],
-      "questionAnswers": [],
-      "roomId": 44386,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
       "id": "610462",
       "title": "Leadership Journey: From Individual Contributor to Leader",
       "description": "You’ve spent years working on your technical skills and can write code with the best of them. Then, one day, a leadership position opens up on your team, and you start thinking about it. Should I or shouldn’t I? What if I hate it? What if I love it? What if I'm not that good at it? In this interactive session,\r\nwe’ll explore “why leadership,” answer some hard questions, and talk about one developer’s path from individual contributor to leader.",
@@ -2575,43 +2553,6 @@
         607257
       ],
       "fullName": "Shawn Wildermuth",
-      "categoryItems": [],
-      "questionAnswers": []
-    },
-    {
-      "id": "888fa440-0056-4eb5-971c-7945fe50311d",
-      "firstName": "Simon",
-      "lastName": "MacDonald",
-      "bio": "Simon has over twenty years of development experience and has worked on a variety of projects, including object-oriented databases, police communication systems, speech recognition and unified messaging. His current focus is contributing to the open source projects Architect and Enhance to enable developers to create functional web applications. Simon’s been building web applications since the days they were written using shell scripts, and he still has nightmares about those dark days.\r\n",
-      "tagLine": "Head of Developer Experience at Begin",
-      "profilePicture": "https://sessionize.com/image/5126-400o400o1-VS2MCeoNj9oKK5nL9nJwTz.JPG",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Twitter",
-          "url": "https://twitter.com/macdonst",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/simonmacdonald/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://blog.begin.com",
-          "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://begin.com",
-          "linkType": "Company_Website"
-        }
-      ],
-      "sessions": [
-        608383
-      ],
-      "fullName": "Simon MacDonald",
       "categoryItems": [],
       "questionAnswers": []
     },

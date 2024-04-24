@@ -41,6 +41,28 @@
       "isConfirmed": true
     },
     {
+      "id": "608676",
+      "title": "Unlocking the Future of Mobile Apps: Bid Farewell to app stores and welcome in Blazor WebAssembly",
+      "description": "Prepare to witness a paradigm shift as we bid adieu to the era of Native, Hybrid, and Cross-Platform apps. The days of grappling with Ionic, React Native, or the confines of Android/iOS Native development are officially behind us. Join me for an insightful exploration into why these traditional approaches are no longer necessary and what web standard or feature tipped me over the edge.\r\n\r\nHaving authored numerous mobile apps over the years, I've witnessed the impressive growth of the Progressive Web App (PWA) spec. It's time to embrace the future, and we're going all-in on Blazor WebAssembly PWAs. In this illuminating talk, I'll guide you through the journey of Blazor WebAssembly PWAs, unveiling why it's the ultimate solution for most major line-of-business mobile needs.\r\n\r\nDelve into the core PWA features supported by Blazor WebAssembly as I weave code examples seamlessly into the narrative. Be prepared to be amazed as I showcase a tangible example – an app that was once built with Ionic four years ago, now reborn as a fully capable PWA. Join me on this revolutionary adventure, and let's redefine the landscape of mobile app development together. The future is here, and it's Blazor WebAssembly PWAs leading the way!",
+      "startsAt": "2024-05-03T08:30:00",
+      "endsAt": "2024-05-03T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "973867cc-56ac-4920-8819-7fef548d6585"
+      ],
+      "categoryItems": [
+        234798
+      ],
+      "questionAnswers": [],
+      "roomId": 44386,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "610462",
       "title": "Leadership Journey: From Individual Contributor to Leader",
       "description": "You’ve spent years working on your technical skills and can write code with the best of them. Then, one day, a leadership position opens up on your team, and you start thinking about it. Should I or shouldn’t I? What if I hate it? What if I love it? What if I'm not that good at it? In this interactive session,\r\nwe’ll explore “why leadership,” answer some hard questions, and talk about one developer’s path from individual contributor to leader.",
@@ -1739,6 +1761,22 @@
         614960
       ],
       "fullName": "Haley Hendershot Malone",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "973867cc-56ac-4920-8819-7fef548d6585",
+      "firstName": "Heath",
+      "lastName": "Murphy",
+      "bio": "Architect, Developer, PM and Pumpkin Ale expert but not necessarily in that order. Heath has been a leader in the IT industry for over 20 years and has presented at multiple conferences around the great lakes region. He’s from Columbus, Ohio and therefore bleeds scarlet and grey, Go Buckeyes! These days, he works as a VP and people leader for CGI, one of the largest IT and business consulting services firms in the world. Racing fast cars, building stupid expensive gaming computers, and manicuring a perfect home lawn round out his hobbies.",
+      "tagLine": "Vice President, Consulting Services for CGI",
+      "profilePicture": "https://sessionize.com/image/ba80-400o400o1-4xmkNBqfs2c5BsiDggccUd.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        608676
+      ],
+      "fullName": "Heath Murphy",
       "categoryItems": [],
       "questionAnswers": []
     },

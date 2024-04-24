@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1713835336947';
+var CACHE = 'network-or-cache-1713982114346';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -39,8 +39,8 @@ function precache() {
 "/schedule/index.html",
 "/sessions/",
 "/sessions/index.html",
-"/speakers/2019.html",
 "/speakers/2018.html",
+"/speakers/2019.html",
 "/speakers/2020.html",
 "/speakers/2021.html",
 "/speakers/2022.html",
@@ -48,8 +48,8 @@ function precache() {
 "/speakers/2024.html",
 "/speakers/",
 "/speakers/index.html",
-"/speakers/index_cfpopenversion.html",
 "/speakers/index_noncfpversion.html",
+"/speakers/index_cfpopenversion.html",
 "/sponsors/",
 "/sponsors/index.html",
 "/store/",
@@ -71,10 +71,10 @@ function precache() {
 "/info/press/2024-02-10.html",
 "/info/press/",
 "/info/press/index.html",
-"/info/privacy/",
-"/info/privacy/index.html",
 "/info/travel/",
 "/info/travel/index.html",
+"/info/privacy/",
+"/info/privacy/index.html",
 "/styles/bootstrap-button-social.min.css",
 "/styles/fontawesome-4.min.css",
 "/styles/site.css",
@@ -363,6 +363,7 @@ function precache() {
 "/speakers/2024/Drake-Lundstrom.html",
 "/speakers/2024/Glenn-HarmonJr..html",
 "/speakers/2024/Haley-HendershotMalone.html",
+"/speakers/2024/Heath-Murphy.html",
 "/speakers/2024/HenryBerson-Saint-Juste.html",
 "/speakers/2024/Jay-Harris.html",
 "/speakers/2024/Jeffrey-Miller.html",
@@ -839,6 +840,7 @@ function precache() {
 "images/speakers/2024/Georgia-Loper.jpg",
 "images/speakers/2024/Glenn-HarmonJr..jpeg",
 "images/speakers/2024/Haley-HendershotMalone.jpg",
+"images/speakers/2024/Heath-Murphy.jpg",
 "images/speakers/2024/HenryBerson-Saint-Juste.jpg",
 "images/speakers/2024/Jamie-Dicken.jpg",
 "images/speakers/2024/Jay-Harris.jpg",

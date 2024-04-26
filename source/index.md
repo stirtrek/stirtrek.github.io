@@ -49,7 +49,7 @@ title: Tech & a Flick
             What Is Stir Trek?
         </div>
         <div class="comic-panel-body with-header">
-            Stir Trek is a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a screening of a blockbuster film on its <i>(originally scheduled)</i> opening day. <i>(Editor's note: 2024 may be less predictable than normal re: film release dates.)</i> Pretty sweet, huh?
+            Stir Trek is a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a screening of a blockbuster film (traditionally on its opening day, but in 2024 we're showing a classic Star Wars movie. Pretty sweet, huh?
             <br>
             <br>
             <a href="https://goo.gl/maps/wVdUQNDfXd9Zxd2P8">AMC Easton 30</a>, Columbus, OH

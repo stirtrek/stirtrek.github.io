@@ -189,7 +189,7 @@
             grid-template-columns: 1fr 1fr 1fr;
             column-gap: 40px;
 
-            margin-bottom: 40px;            
+            margin-bottom: 40px;
         }
 
         .speakerSessionStrip {
@@ -207,7 +207,9 @@
         }
 
         @media only screen and (max-width:990px) {
-            .speakerAvatarBioStrip, .speakerSessionStrip {
+
+            .speakerAvatarBioStrip,
+            .speakerSessionStrip {
                 display: block;
             }
         }
@@ -244,16 +246,16 @@
             grid-area: time;
             display: flex;
             flex-direction: column;
-            justify-content: center;    
+            justify-content: center;
         }
 
         .speakerAvatarBioStrip .comic-panel-body.avatarPanel,
         .speakerSessionStrip .comic-panel-body.stirTrekPanel {
-            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%), 
-                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
-                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
-                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%), 
-                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%),
+                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%),
+                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
                 linear-gradient(40deg, #c48b2fb3 0, #f7c16ab3 30%, #dbab5bb3 50%, #dbab5bb3 70%, #c48b2fb3 100%);
         }
 
@@ -266,11 +268,13 @@
             background-repeat: no-repeat;
         }
 
-        .speakerAvatarBioStrip .comic-panel-body, .speakerSessionStrip .comic-panel-body {
+        .speakerAvatarBioStrip .comic-panel-body,
+        .speakerSessionStrip .comic-panel-body {
             position: relative;
         }
 
-        .speakerAvatarBioStrip .comic-panel-header, .speakerSessionStrip .comic-panel-header {
+        .speakerAvatarBioStrip .comic-panel-header,
+        .speakerSessionStrip .comic-panel-header {
             position: absolute;
             top: -35px;
             left: -25px;
@@ -293,13 +297,16 @@
 
 
         @media only screen and (max-width:990px) {
-            .speakerAvatarBioStrip .comic-panel-body, .speakerSessionStrip .comic-panel-body {
+
+            .speakerAvatarBioStrip .comic-panel-body,
+            .speakerSessionStrip .comic-panel-body {
                 border: 20px solid white;
                 padding: 30px 20px;
                 margin-bottom: 40px;
             }
 
-            .speakerAvatarBioStrip .comic-panel-header, .speakerSessionStrip .comic-panel-header {
+            .speakerAvatarBioStrip .comic-panel-header,
+            .speakerSessionStrip .comic-panel-header {
                 top: -35px;
                 left: -45px;
             }
@@ -319,7 +326,7 @@
             .speakerSessionStrip .stirTrekPanel {
                 display: none;
             }
-        }        
+        }
     </style>
 
     <div class="speakerAvatarBioStrip">
@@ -333,7 +340,9 @@
             </div>
 
             <div class="speakerTagline">
-                <h3>Co-Founder and Principal Engineer</h3>
+                <h3>
+                    Co-Founder and Principal Engineer
+                </h3>
             </div>
         </div>
         <div class="bioPanel comic-panel-body">
@@ -345,13 +354,16 @@
         </div>
 
     </div>
+    <a id="abstract"></a>
     <div class="speakerSessionStrip">
         <div class="abstractPanel comic-panel-body">
             <div class="comic-panel-header comic-panel-highlighted">
-                    Session!
+                Session!
             </div>
             
-                <h2>Beyond Request/Response: Why and how we should change the way we build web applications</h2>
+                <h2>
+                    Beyond Request/Response: Why and how we should change the way we build web applications
+                </h2>
                 <br>
                 <div>
                     As web developers, we’ve been building web applications the same way for 25 years. We send a request, and we receive a response. We might get a whole page back, or we might get some data to render, but the common thread for almost every web application that has ever been built is the request/response cycle. What if we didn’t have to do it this way? What kind possibilities would open up to us?
@@ -361,7 +373,7 @@ In this session, we’ll take a simple, existing design pattern that you are pro
 We’ll explore this idea with several code examples that gradually increase in complexity. We’ll see how building collaborative and real-time applications becomes natural and straightforward. We’ll also see how to combine statically generated websites with interactive applications in a way that was difficult or impossible before. You can expect to come away with practical but hopefully mind expanding new approaches to building your next application. 
 
                 </div>
-            
+                
         </div>
 
         <div class="timeAndRoomPanel comic-panel-body">
@@ -371,12 +383,16 @@ We’ll explore this idea with several code examples that gradually increase in 
 
             
                 
-                    <h2>Time:<br>1:00 PM</h2>
-                    <h2>Room:<br>Empire</h2>
-                
+                    <h2>Time:<br>
+                        1:00 PM
+                    </h2>
+                    <h2>Room:<br>
+                        Empire
+                    </h2>
+                    
 
-                
-            
+                            
+                                    
 
 
         </div>

@@ -189,7 +189,7 @@
             grid-template-columns: 1fr 1fr 1fr;
             column-gap: 40px;
 
-            margin-bottom: 40px;            
+            margin-bottom: 40px;
         }
 
         .speakerSessionStrip {
@@ -207,7 +207,9 @@
         }
 
         @media only screen and (max-width:990px) {
-            .speakerAvatarBioStrip, .speakerSessionStrip {
+
+            .speakerAvatarBioStrip,
+            .speakerSessionStrip {
                 display: block;
             }
         }
@@ -244,16 +246,16 @@
             grid-area: time;
             display: flex;
             flex-direction: column;
-            justify-content: center;    
+            justify-content: center;
         }
 
         .speakerAvatarBioStrip .comic-panel-body.avatarPanel,
         .speakerSessionStrip .comic-panel-body.stirTrekPanel {
-            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%), 
-                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
-                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
-                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%), 
-                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%),
+                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%),
+                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
                 linear-gradient(40deg, #c48b2fb3 0, #f7c16ab3 30%, #dbab5bb3 50%, #dbab5bb3 70%, #c48b2fb3 100%);
         }
 
@@ -266,11 +268,13 @@
             background-repeat: no-repeat;
         }
 
-        .speakerAvatarBioStrip .comic-panel-body, .speakerSessionStrip .comic-panel-body {
+        .speakerAvatarBioStrip .comic-panel-body,
+        .speakerSessionStrip .comic-panel-body {
             position: relative;
         }
 
-        .speakerAvatarBioStrip .comic-panel-header, .speakerSessionStrip .comic-panel-header {
+        .speakerAvatarBioStrip .comic-panel-header,
+        .speakerSessionStrip .comic-panel-header {
             position: absolute;
             top: -35px;
             left: -25px;
@@ -293,13 +297,16 @@
 
 
         @media only screen and (max-width:990px) {
-            .speakerAvatarBioStrip .comic-panel-body, .speakerSessionStrip .comic-panel-body {
+
+            .speakerAvatarBioStrip .comic-panel-body,
+            .speakerSessionStrip .comic-panel-body {
                 border: 20px solid white;
                 padding: 30px 20px;
                 margin-bottom: 40px;
             }
 
-            .speakerAvatarBioStrip .comic-panel-header, .speakerSessionStrip .comic-panel-header {
+            .speakerAvatarBioStrip .comic-panel-header,
+            .speakerSessionStrip .comic-panel-header {
                 top: -35px;
                 left: -45px;
             }
@@ -319,7 +326,7 @@
             .speakerSessionStrip .stirTrekPanel {
                 display: none;
             }
-        }        
+        }
     </style>
 
     <div class="speakerAvatarBioStrip">
@@ -333,7 +340,9 @@
             </div>
 
             <div class="speakerTagline">
-                <h3>Application Security Architect</h3>
+                <h3>
+                    Application Security Architect
+                </h3>
             </div>
         </div>
         <div class="bioPanel comic-panel-body">
@@ -345,18 +354,21 @@
         </div>
 
     </div>
+    <a id="abstract"></a>
     <div class="speakerSessionStrip">
         <div class="abstractPanel comic-panel-body">
             <div class="comic-panel-header comic-panel-highlighted">
-                    Session!
+                Session!
             </div>
             
-                <h2>Snips and Snails and Puppy Dog Tails: Your software supply chain</h2>
+                <h2>
+                    Snips and Snails and Puppy Dog Tails: Your software supply chain
+                </h2>
                 <br>
                 <div>
                     We are standing on the shoulders of giants.  Building beautiful things out of beautiful things is at the heart of software composition today.  But what happens when things aren&#39;t so beautiful? What if that dependency of a dependency of a dependency has a Bitcoin miner written into it? Is your code review catching that? It doesn&#39;t matter if you type npm-install or Install-Package or php composer.phar install or mvn install or cpan or pip install.  Probably not.  Let&#39;s look at the realities of your supply chain, how it is getting corrupted, and what we can do about it. You&#39;ll see how to avoid becoming a victim of the next left-pad.
                 </div>
-            
+                
         </div>
 
         <div class="timeAndRoomPanel comic-panel-body">
@@ -366,12 +378,16 @@
 
             
                 
-                    <h2>Time:<br>2:40 PM</h2>
-                    <h2>Room:<br>Live Stream</h2>
-                
+                    <h2>Time:<br>
+                        2:40 PM
+                    </h2>
+                    <h2>Room:<br>
+                        Live Stream
+                    </h2>
+                    
 
-                
-            
+                            
+                                    
 
 
         </div>

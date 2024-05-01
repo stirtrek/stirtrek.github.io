@@ -189,7 +189,7 @@
             grid-template-columns: 1fr 1fr 1fr;
             column-gap: 40px;
 
-            margin-bottom: 40px;            
+            margin-bottom: 40px;
         }
 
         .speakerSessionStrip {
@@ -207,7 +207,9 @@
         }
 
         @media only screen and (max-width:990px) {
-            .speakerAvatarBioStrip, .speakerSessionStrip {
+
+            .speakerAvatarBioStrip,
+            .speakerSessionStrip {
                 display: block;
             }
         }
@@ -244,16 +246,16 @@
             grid-area: time;
             display: flex;
             flex-direction: column;
-            justify-content: center;    
+            justify-content: center;
         }
 
         .speakerAvatarBioStrip .comic-panel-body.avatarPanel,
         .speakerSessionStrip .comic-panel-body.stirTrekPanel {
-            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%), 
-                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
-                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
-                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%), 
-                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%),
+                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%),
+                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
                 linear-gradient(40deg, #c48b2fb3 0, #f7c16ab3 30%, #dbab5bb3 50%, #dbab5bb3 70%, #c48b2fb3 100%);
         }
 
@@ -266,11 +268,13 @@
             background-repeat: no-repeat;
         }
 
-        .speakerAvatarBioStrip .comic-panel-body, .speakerSessionStrip .comic-panel-body {
+        .speakerAvatarBioStrip .comic-panel-body,
+        .speakerSessionStrip .comic-panel-body {
             position: relative;
         }
 
-        .speakerAvatarBioStrip .comic-panel-header, .speakerSessionStrip .comic-panel-header {
+        .speakerAvatarBioStrip .comic-panel-header,
+        .speakerSessionStrip .comic-panel-header {
             position: absolute;
             top: -35px;
             left: -25px;
@@ -293,13 +297,16 @@
 
 
         @media only screen and (max-width:990px) {
-            .speakerAvatarBioStrip .comic-panel-body, .speakerSessionStrip .comic-panel-body {
+
+            .speakerAvatarBioStrip .comic-panel-body,
+            .speakerSessionStrip .comic-panel-body {
                 border: 20px solid white;
                 padding: 30px 20px;
                 margin-bottom: 40px;
             }
 
-            .speakerAvatarBioStrip .comic-panel-header, .speakerSessionStrip .comic-panel-header {
+            .speakerAvatarBioStrip .comic-panel-header,
+            .speakerSessionStrip .comic-panel-header {
                 top: -35px;
                 left: -45px;
             }
@@ -319,7 +326,7 @@
             .speakerSessionStrip .stirTrekPanel {
                 display: none;
             }
-        }        
+        }
     </style>
 
     <div class="speakerAvatarBioStrip">
@@ -333,7 +340,9 @@
             </div>
 
             <div class="speakerTagline">
-                <h3>Architect, Insight Digital Innovation</h3>
+                <h3>
+                    Architect, Insight Digital Innovation
+                </h3>
             </div>
         </div>
         <div class="bioPanel comic-panel-body">
@@ -345,18 +354,21 @@
         </div>
 
     </div>
+    <a id="abstract"></a>
     <div class="speakerSessionStrip">
         <div class="abstractPanel comic-panel-body">
             <div class="comic-panel-header comic-panel-highlighted">
-                    Session!
+                Session!
             </div>
             
-                <h2>How The Heck Would I Integrate Serverless Into My Legacy Application?</h2>
+                <h2>
+                    How The Heck Would I Integrate Serverless Into My Legacy Application?
+                </h2>
                 <br>
                 <div>
                     Exploring serverless computing can be discouraging. It sounds amazing and starts your brain spinning about all of the potential applications, but it&#39;s not always easy to see where your legacy application may be able to take advantage. In reality, both Azure Functions and AWS Lambda can easily be used to enhance applications and provide a brand new perspective.  In this session, we&#39;ll explore some easy applications of serverless that can be added to existing brownfield applications, like simple monitoring, IOT integration, and large file processing. In addition, attendees will learn about situations in which where serverless computing may not be a good fit and a more traditional approach may be warranted in an effort to avoid the growing pains of learning a new technology unecessarily.
                 </div>
-            
+                
         </div>
 
         <div class="timeAndRoomPanel comic-panel-body">
@@ -366,12 +378,16 @@
 
             
                 
-                    <h2>Time:<br>12:40 PM</h2>
-                    <h2>Room:<br>Live Stream</h2>
-                
+                    <h2>Time:<br>
+                        12:40 PM
+                    </h2>
+                    <h2>Room:<br>
+                        Live Stream
+                    </h2>
+                    
 
-                
-            
+                            
+                                    
 
 
         </div>

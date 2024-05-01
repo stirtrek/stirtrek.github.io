@@ -189,7 +189,7 @@
             grid-template-columns: 1fr 1fr 1fr;
             column-gap: 40px;
 
-            margin-bottom: 40px;            
+            margin-bottom: 40px;
         }
 
         .speakerSessionStrip {
@@ -207,7 +207,9 @@
         }
 
         @media only screen and (max-width:990px) {
-            .speakerAvatarBioStrip, .speakerSessionStrip {
+
+            .speakerAvatarBioStrip,
+            .speakerSessionStrip {
                 display: block;
             }
         }
@@ -244,16 +246,16 @@
             grid-area: time;
             display: flex;
             flex-direction: column;
-            justify-content: center;    
+            justify-content: center;
         }
 
         .speakerAvatarBioStrip .comic-panel-body.avatarPanel,
         .speakerSessionStrip .comic-panel-body.stirTrekPanel {
-            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%), 
-                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
-                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
-                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%), 
-                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%),
+                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%),
+                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
                 linear-gradient(40deg, #c48b2fb3 0, #f7c16ab3 30%, #dbab5bb3 50%, #dbab5bb3 70%, #c48b2fb3 100%);
         }
 
@@ -266,11 +268,13 @@
             background-repeat: no-repeat;
         }
 
-        .speakerAvatarBioStrip .comic-panel-body, .speakerSessionStrip .comic-panel-body {
+        .speakerAvatarBioStrip .comic-panel-body,
+        .speakerSessionStrip .comic-panel-body {
             position: relative;
         }
 
-        .speakerAvatarBioStrip .comic-panel-header, .speakerSessionStrip .comic-panel-header {
+        .speakerAvatarBioStrip .comic-panel-header,
+        .speakerSessionStrip .comic-panel-header {
             position: absolute;
             top: -35px;
             left: -25px;
@@ -293,13 +297,16 @@
 
 
         @media only screen and (max-width:990px) {
-            .speakerAvatarBioStrip .comic-panel-body, .speakerSessionStrip .comic-panel-body {
+
+            .speakerAvatarBioStrip .comic-panel-body,
+            .speakerSessionStrip .comic-panel-body {
                 border: 20px solid white;
                 padding: 30px 20px;
                 margin-bottom: 40px;
             }
 
-            .speakerAvatarBioStrip .comic-panel-header, .speakerSessionStrip .comic-panel-header {
+            .speakerAvatarBioStrip .comic-panel-header,
+            .speakerSessionStrip .comic-panel-header {
                 top: -35px;
                 left: -45px;
             }
@@ -319,7 +326,7 @@
             .speakerSessionStrip .stirTrekPanel {
                 display: none;
             }
-        }        
+        }
     </style>
 
     <div class="speakerAvatarBioStrip">
@@ -333,7 +340,9 @@
             </div>
 
             <div class="speakerTagline">
-                <h3>Senior Data Engineer</h3>
+                <h3>
+                    Senior Data Engineer
+                </h3>
             </div>
         </div>
         <div class="bioPanel comic-panel-body">
@@ -345,13 +354,16 @@
         </div>
 
     </div>
+    <a id="abstract"></a>
     <div class="speakerSessionStrip">
         <div class="abstractPanel comic-panel-body">
             <div class="comic-panel-header comic-panel-highlighted">
-                    Session!
+                Session!
             </div>
             
-                <h2>Where has Jane Gone?</h2>
+                <h2>
+                    Where has Jane Gone?
+                </h2>
                 <br>
                 <div>
                     Have you ever been told “if you were like that male developer over there, you’d get somewhere”? Have you removed your first name from your Resume to get more interviews? Have you been excluded from a meeting because someone was afraid that they will offend you? Have you ever been called bossy? Have you ever had others undermine your accomplishments? Have you ever refrained from a job opportunity because you felt like you didn’t meet all the requirements? If you answered yes to most of the questions, you’ve experienced some of the problems women face in the workplace.
@@ -364,7 +376,7 @@ So, we cannot convince them to enter the tech industry, with only 15% of the gra
 
 I am not the norm. I survived, and I will talk about my experience as a forty-something woman in tech. I know I can not solve the problem; only the dominant culture can do that. But I explain the pitfalls that women are facing. How you are making women feel unwanted and unneeded. Also, if the industry does not want to change, that is OK too. Just do not make it harder for the ones that stay.
                 </div>
-            
+                
         </div>
 
         <div class="timeAndRoomPanel comic-panel-body">
@@ -374,12 +386,16 @@ I am not the norm. I survived, and I will talk about my experience as a forty-so
 
             
                 
-                    <h2>Time:<br>11:00 AM</h2>
-                    <h2>Room:<br>CGI (Live 4 - Simul 5,6,7,8,9)</h2>
-                
+                    <h2>Time:<br>
+                        11:00 AM
+                    </h2>
+                    <h2>Room:<br>
+                        CGI (Live 4 - Simul 5,6,7,8,9)
+                    </h2>
+                    
 
-                
-            
+                            
+                                    
 
 
         </div>

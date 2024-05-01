@@ -189,7 +189,7 @@
             grid-template-columns: 1fr 1fr 1fr;
             column-gap: 40px;
 
-            margin-bottom: 40px;            
+            margin-bottom: 40px;
         }
 
         .speakerSessionStrip {
@@ -207,7 +207,9 @@
         }
 
         @media only screen and (max-width:990px) {
-            .speakerAvatarBioStrip, .speakerSessionStrip {
+
+            .speakerAvatarBioStrip,
+            .speakerSessionStrip {
                 display: block;
             }
         }
@@ -244,16 +246,16 @@
             grid-area: time;
             display: flex;
             flex-direction: column;
-            justify-content: center;    
+            justify-content: center;
         }
 
         .speakerAvatarBioStrip .comic-panel-body.avatarPanel,
         .speakerSessionStrip .comic-panel-body.stirTrekPanel {
-            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%), 
-                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
-                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
-                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%), 
-                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%),
+                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%),
+                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
                 linear-gradient(40deg, #c48b2fb3 0, #f7c16ab3 30%, #dbab5bb3 50%, #dbab5bb3 70%, #c48b2fb3 100%);
         }
 
@@ -266,11 +268,13 @@
             background-repeat: no-repeat;
         }
 
-        .speakerAvatarBioStrip .comic-panel-body, .speakerSessionStrip .comic-panel-body {
+        .speakerAvatarBioStrip .comic-panel-body,
+        .speakerSessionStrip .comic-panel-body {
             position: relative;
         }
 
-        .speakerAvatarBioStrip .comic-panel-header, .speakerSessionStrip .comic-panel-header {
+        .speakerAvatarBioStrip .comic-panel-header,
+        .speakerSessionStrip .comic-panel-header {
             position: absolute;
             top: -35px;
             left: -25px;
@@ -293,13 +297,16 @@
 
 
         @media only screen and (max-width:990px) {
-            .speakerAvatarBioStrip .comic-panel-body, .speakerSessionStrip .comic-panel-body {
+
+            .speakerAvatarBioStrip .comic-panel-body,
+            .speakerSessionStrip .comic-panel-body {
                 border: 20px solid white;
                 padding: 30px 20px;
                 margin-bottom: 40px;
             }
 
-            .speakerAvatarBioStrip .comic-panel-header, .speakerSessionStrip .comic-panel-header {
+            .speakerAvatarBioStrip .comic-panel-header,
+            .speakerSessionStrip .comic-panel-header {
                 top: -35px;
                 left: -45px;
             }
@@ -319,7 +326,7 @@
             .speakerSessionStrip .stirTrekPanel {
                 display: none;
             }
-        }        
+        }
     </style>
 
     <div class="speakerAvatarBioStrip">
@@ -333,7 +340,9 @@
             </div>
 
             <div class="speakerTagline">
-                <h3>Pointy-haired boss by day, coder by night</h3>
+                <h3>
+                    Pointy-haired boss by day, coder by night
+                </h3>
             </div>
         </div>
         <div class="bioPanel comic-panel-body">
@@ -345,13 +354,16 @@
         </div>
 
     </div>
+    <a id="abstract"></a>
     <div class="speakerSessionStrip">
         <div class="abstractPanel comic-panel-body">
             <div class="comic-panel-header comic-panel-highlighted">
-                    Session!
+                Session!
             </div>
             
-                <h2>Practical Auth(entication|orization) for Developers</h2>
+                <h2>
+                    Practical Auth(entication|orization) for Developers
+                </h2>
                 <br>
                 <div>
                     It&#39;s never been easier to launch a website or expose services over HTTP. It&#39;s also never been easier to make rookie mistakes in the authentication of those services.
@@ -360,7 +372,7 @@ This session is designed for the average developer/architect that&#39;s struggli
 
 Don&#39;t worry if those things sound foreign; they&#39;ll be explained in a clear, practical way so that you can choose the appropriate tool for your needs without making rookie mistakes.
                 </div>
-            
+                
         </div>
 
         <div class="timeAndRoomPanel comic-panel-body">
@@ -370,12 +382,16 @@ Don&#39;t worry if those things sound foreign; they&#39;ll be explained in a cle
 
             
                 
-                    <h2>Time:<br>2:15 PM</h2>
-                    <h2>Room:<br>Gamora (Live 14 - Simul 12, 13)</h2>
-                
+                    <h2>Time:<br>
+                        2:15 PM
+                    </h2>
+                    <h2>Room:<br>
+                        Gamora (Live 14 - Simul 12, 13)
+                    </h2>
+                    
 
-                
-            
+                            
+                                    
 
 
         </div>

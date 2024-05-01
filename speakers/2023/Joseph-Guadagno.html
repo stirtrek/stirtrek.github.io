@@ -189,7 +189,7 @@
             grid-template-columns: 1fr 1fr 1fr;
             column-gap: 40px;
 
-            margin-bottom: 40px;            
+            margin-bottom: 40px;
         }
 
         .speakerSessionStrip {
@@ -207,7 +207,9 @@
         }
 
         @media only screen and (max-width:990px) {
-            .speakerAvatarBioStrip, .speakerSessionStrip {
+
+            .speakerAvatarBioStrip,
+            .speakerSessionStrip {
                 display: block;
             }
         }
@@ -244,16 +246,16 @@
             grid-area: time;
             display: flex;
             flex-direction: column;
-            justify-content: center;    
+            justify-content: center;
         }
 
         .speakerAvatarBioStrip .comic-panel-body.avatarPanel,
         .speakerSessionStrip .comic-panel-body.stirTrekPanel {
-            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%), 
-                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
-                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
-                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%), 
-                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%), 
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%),
+                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%),
+                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
                 linear-gradient(40deg, #c48b2fb3 0, #f7c16ab3 30%, #dbab5bb3 50%, #dbab5bb3 70%, #c48b2fb3 100%);
         }
 
@@ -266,11 +268,13 @@
             background-repeat: no-repeat;
         }
 
-        .speakerAvatarBioStrip .comic-panel-body, .speakerSessionStrip .comic-panel-body {
+        .speakerAvatarBioStrip .comic-panel-body,
+        .speakerSessionStrip .comic-panel-body {
             position: relative;
         }
 
-        .speakerAvatarBioStrip .comic-panel-header, .speakerSessionStrip .comic-panel-header {
+        .speakerAvatarBioStrip .comic-panel-header,
+        .speakerSessionStrip .comic-panel-header {
             position: absolute;
             top: -35px;
             left: -25px;
@@ -293,13 +297,16 @@
 
 
         @media only screen and (max-width:990px) {
-            .speakerAvatarBioStrip .comic-panel-body, .speakerSessionStrip .comic-panel-body {
+
+            .speakerAvatarBioStrip .comic-panel-body,
+            .speakerSessionStrip .comic-panel-body {
                 border: 20px solid white;
                 padding: 30px 20px;
                 margin-bottom: 40px;
             }
 
-            .speakerAvatarBioStrip .comic-panel-header, .speakerSessionStrip .comic-panel-header {
+            .speakerAvatarBioStrip .comic-panel-header,
+            .speakerSessionStrip .comic-panel-header {
                 top: -35px;
                 left: -45px;
             }
@@ -319,7 +326,7 @@
             .speakerSessionStrip .stirTrekPanel {
                 display: none;
             }
-        }        
+        }
     </style>
 
     <div class="speakerAvatarBioStrip">
@@ -333,7 +340,9 @@
             </div>
 
             <div class="speakerTagline">
-                <h3>Senior Director, Technology at Rocket Mortgage, .NET Foundation Board of Directors, Organizer of Desert Code Camp, &#34;Microsoft Developer Services&#34; MVP, Telerik Ninja</h3>
+                <h3>
+                    Senior Director, Technology at Rocket Mortgage, .NET Foundation Board of Directors, Organizer of Desert Code Camp, &#34;Microsoft Developer Services&#34; MVP, Telerik Ninja
+                </h3>
             </div>
         </div>
         <div class="bioPanel comic-panel-body">
@@ -346,13 +355,16 @@ serving on the .NET Foundation Board of Directors and has been a Microsoft MVP i
         </div>
 
     </div>
+    <a id="abstract"></a>
     <div class="speakerSessionStrip">
         <div class="abstractPanel comic-panel-body">
             <div class="comic-panel-header comic-panel-highlighted">
-                    Session!
+                Session!
             </div>
             
-                <h2>Dev Containers. What are they and why do you need them?</h2>
+                <h2>
+                    Dev Containers. What are they and why do you need them?
+                </h2>
                 <br>
                 <div>
                     You&#39;re onboarding a new team member, or your team recently inherited a project that uses a different SDK/framework version than your current project uses. What do you do?  Install the old SDK/framework versions? Can they even be installed at the same time on the same machine?  What if I told you there was a way to accomplish this with little to no effort on your part?  Well, with Visual Studio Code, Docker, and the Dev Containers extension, you can.  Dev containers can help you easily on-board new people to your projects, allow for cleaner machines with greater support for multiple SDKs/Framework, and be able to develop/debug/run your solution from anywhere without Visual Studio Code. Oh, and put an end to &#34;It works on my machine&#34;
@@ -360,7 +372,7 @@ serving on the .NET Foundation Board of Directors and has been a Microsoft MVP i
 In this talk, I’ll walk through how you can set up a dev container to support your application development, without installing the SDK/framework on your machine. I’ll show you how to get started and how you can solve the age-old problem of “It works on my machine!”.  As a bonus, if your code is hosted on GitHub, I’ll show you how you can run/edit/debug your project right from GitHub.com without Visual Studio Code on your machine.
 
                 </div>
-            
+                
         </div>
 
         <div class="timeAndRoomPanel comic-panel-body">
@@ -370,12 +382,16 @@ In this talk, I’ll walk through how you can set up a dev container to support 
 
             
                 
-                    <h2>Time:<br>8:30 AM</h2>
-                    <h2>Room:<br>Cosmo (Live 28 - Simul 18, 19)</h2>
-                
+                    <h2>Time:<br>
+                        8:30 AM
+                    </h2>
+                    <h2>Room:<br>
+                        Cosmo (Live 28 - Simul 18, 19)
+                    </h2>
+                    
 
-                
-            
+                            
+                                    
 
 
         </div>

@@ -14,6 +14,7 @@ hexo.extend.generator.register('create-service-worker', function (locals) {
     let fs = require('fs');
     let yaml = require('js-yaml');
     const years = yaml.load(fs.readFileSync('./_config.yml')).allYears;
+    const currentYear = yaml.load(fs.readFileSync('./_config.yml')).currentYear;
 
     // Stash the pages here.
     let allPagesAndFiles = []
@@ -58,13 +59,15 @@ hexo.extend.generator.register('create-service-worker', function (locals) {
     years.forEach(year => directories.push(`images/speakers/${year}/`));
 
     directories.forEach(directory => {
+        // Skip directories that don't match the current year
+        if (!currentYear || !directory.includes(currentYear)) return;
+
         fs.readdirSync(`./source/${directory}`).forEach(file => {
             // If this isn't also a directory, add it
             if (!fs2.statSync(`./source/${directory}${file}`).isDirectory())
                 allPagesAndFiles.push(directory + file);
 
-        })
-
+        });
     })
 
     // Take all of the files we've found and put them into a string

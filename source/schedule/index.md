@@ -32,4 +32,4 @@ alias:
 
 <div class="icon-hr"></div>
 
-The schedule is subject to change. Please check back if you're curious about when specific sessions are scheduled!
+Looking for our Discord link? [https://discord.gg/vkcS8y5Wvz](https://discord.gg/vkcS8y5Wvz)

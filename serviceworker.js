@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1714576110782';
+var CACHE = 'network-or-cache-1714729688555';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -21,16 +21,16 @@ self.addEventListener('fetch', function(evt) {
 
 // Open a cache and use 'addAll()' with an array of assets to add all of them
 // to the cache. Return a promise resolving when all the assets are added.
-function precache() {
+  function precache() {
     return caches.open(CACHE).then(function (cache) {
-    return cache.addAll([
+        return cache.addAll([
             "/images/speakers/2022/Readme.html",
 "/",
 "/index.html",
 "/manifest.json",
-"/404.html",
 "/covid/",
 "/covid/index.html",
+"/404.html",
 "/recordings/",
 "/recordings/index.html",
 "/registration/",
@@ -44,16 +44,16 @@ function precache() {
 "/speakers/2020.html",
 "/speakers/2021.html",
 "/speakers/2022.html",
-"/speakers/2023.html",
 "/speakers/2024.html",
+"/speakers/2023.html",
 "/speakers/",
 "/speakers/index.html",
 "/speakers/index_cfpopenversion.html",
 "/speakers/index_noncfpversion.html",
-"/sponsors/",
-"/sponsors/index.html",
 "/store/",
 "/store/index.html",
+"/sponsors/",
+"/sponsors/index.html",
 "/virtual/",
 "/virtual/index.html",
 "/workshops/",
@@ -83,12 +83,12 @@ function precache() {
 "/styles/fontawesome.min.css",
 "/scripts/bootstrap.js",
 "/scripts/luxon.min.js",
-"/scripts/jquery-3.3.1.min.js",
 "/scripts/jquery.js",
+"/scripts/jquery-3.3.1.min.js",
 "/styles/bootstrap.min.css",
 "/styles/bootstrap.css",
-"/scripts/jquery-3.3.1.js",
 "/scripts/jquery-3.3.0.js",
+"/scripts/jquery-3.3.1.js",
 "/speakers/2018/Adam-Pasternack.html",
 "/speakers/2018/Angel-Thomas.html",
 "/speakers/2018/Anna-Heiermann.html",
@@ -872,9 +872,11 @@ function precache() {
 "images/speakers/2024/Simon-MacDonald.JPG",
 "images/speakers/2024/Steve-Smith.jpg",
 "images/speakers/2024/zoe-Steinkamp.jpg"
-        ]);
+        ]).catch(function(error) {
+            console.error('Failed to cache resources:', error);
+        });
     });
-  }
+}
   
 // Time limited network request. If the network fails or the response is not
 // served before timeout, the promise is rejected.

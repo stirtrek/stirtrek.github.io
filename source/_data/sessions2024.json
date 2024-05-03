@@ -1973,6 +1973,11 @@
           "title": "Company Website",
           "url": "https://sep.com",
           "linkType": "Company_Website"
+        },
+        {
+          "title": "Personal Site",
+          "url": "https://www.jordanthayer.com",
+          "linkType": "Other"
         }
       ],
       "sessions": [
@@ -2738,42 +2743,42 @@
     },
     {
       "id": 44385,
-      "name": "Empire",
+      "name": "Empire (Live 14 - Simul 12, 13)",
       "sort": 1
     },
     {
       "id": 44386,
-      "name": "New hope",
+      "name": "New hope (Live 15 - Simul 10, 11)",
       "sort": 2
     },
     {
       "id": 47616,
-      "name": "Jedi",
+      "name": "Jedi (Live 16 - Simul 21)",
       "sort": 3
     },
     {
       "id": 47617,
-      "name": "Force Awakens",
+      "name": "Force Awakens (Live 17, Simul 20)",
       "sort": 4
     },
     {
       "id": 47618,
-      "name": "Clones",
+      "name": "Clones (Live 4, Simul 5, 6, 7, 8, 9)",
       "sort": 5
     },
     {
       "id": 47619,
-      "name": "Sith",
+      "name": "Sith (Live 3, Simul 1, 2)",
       "sort": 6
     },
     {
       "id": 47620,
-      "name": "Last Jedi",
+      "name": "Last Jedi (Live 27, Simul 23, 24, 25, 26)",
       "sort": 7
     },
     {
       "id": 47621,
-      "name": "Skywalker",
+      "name": "Skywalker (Live 28, Simul 18, 19)",
       "sort": 8
     }
   ]

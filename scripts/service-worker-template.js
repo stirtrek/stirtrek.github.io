@@ -1,4 +1,4 @@
-function buildSWString (stringOfAllFiles, utcNow) {
+function buildSWString(stringOfAllFiles, utcNow) {
     // Here's our lovely service worker template for us to insert the cache list in
     let serviceWorkerHTML = `
 var CACHE = 'network-or-cache-${utcNow}';
@@ -23,13 +23,15 @@ self.addEventListener('fetch', function(evt) {
 
 // Open a cache and use 'addAll()' with an array of assets to add all of them
 // to the cache. Return a promise resolving when all the assets are added.
-function precache() {
+  function precache() {
     return caches.open(CACHE).then(function (cache) {
-    return cache.addAll([
+        return cache.addAll([
             ${stringOfAllFiles}
-        ]);
+        ]).catch(function(error) {
+            console.error('Failed to cache resources:', error);
+        });
     });
-  }
+}
   
 // Time limited network request. If the network fails or the response is not
 // served before timeout, the promise is rejected.

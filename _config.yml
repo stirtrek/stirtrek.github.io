@@ -12,7 +12,7 @@ language: EN-US
 timeZone: "America/New_York"
 
 # To support multiple years of archives, update the currentYear and add the old one to the allYears array
-currentYear: 2024
+currentYear: 2025
 recordingsYear: 2024
 allYears:
   - 2018

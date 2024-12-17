@@ -59,7 +59,7 @@ Without our sponsors' support, we would never have made it this many years. Plea
 
 There are three steps to secure your organization's spot!
 
-1) Review the [prospectus](https://docs.google.com/presentation/d/1LNdkbOohdJ26QfRN0mgd58fKaNu84JqAHVSsDLuVYSI/edit#slide=id.g31ad3242584_0_7) and choose your level of engagement.  Spots are limited and the earliest responses get the best booth locations.
+1) Review the [prospectus](https://docs.google.com/presentation/d/1LNdkbOohdJ26QfRN0mgd58fKaNu84JqAHVSsDLuVYSI/edit#slide=id.p) and choose your level of engagement.  Spots are limited and the earliest responses get the best booth locations.
 2) Go to the [sponsor portal](https://stirtreksponsor.myshopify.com/) and secure your spot by filling out your contact info, company name and logo(s).  Don't worry, if you aren't planning to pay by credit card, you can mail a check in later.
 3) Review any exclusive a la carte sponsorship options.  These are listed at the bottom of the prospectus.
 

@@ -31,4 +31,4 @@ alias:
 # This year's sessions
 <div class="icon-hr"></div>
 
-We're excited about this awesome group of speakers and sessions for 2024. We'll update this with the schedule details soon!
+We're excited about this awesome group of speakers and sessions for 2025. We'll update this with the schedule details soon!

@@ -129,4 +129,9 @@ Check out [Stir Trek 2023 sessions on YouTube](https://www.youtube.com/playlist?
 
 ### 2024 15th Anniversary Edition
 
-Hey it's this year!
+Check out [Stir Trek 2024 sessions on YouTube](https://www.youtube.com/playlist?list=PLaHMqLt8nxCwZ2viFPR4-i2Dtsas-pdFi)!
+
+2024 was a different year because of various events including Holywood strikes. There were no new big budget films to show. Instead, we had Stir Trek Jar Jar edition!
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oH96QbNKIcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

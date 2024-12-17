@@ -5,20 +5,20 @@ title: Tech & a Flick
 
 {% raw %}
 <div class="row" id="stirTrekHeroContainer">
-     <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
-        <p class="date">5/3/2024</p>
+        <p class="date">5/2/2025</p>
         <br>
-        <p>Call for speakers opens on January 14th!</p>
-    </div> -->
-    <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+        <p>Call for speakers opens in January!</p>
+    </div>
+    <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">5/3/2024</p>
         <br>
         <a class="registerNow" href="https://events.humanitix.com/stir-trek-2024-additional-movie-pass">
             <p>Buy Your +1 Movie Ticket Now</p>
         </a>
-    </div>
+    </div> -->
     <!-- <a href="https://sessionize.com/stir-trek-2024/" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             <p class="date">CFS is Open!</p>
@@ -49,7 +49,7 @@ title: Tech & a Flick
             What Is Stir Trek?
         </div>
         <div class="comic-panel-body with-header">
-            Stir Trek is a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a screening of a blockbuster film (traditionally on its opening day, but in 2024 we're showing a classic Star Wars movie. Pretty sweet, huh?
+            Stir Trek is a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a screening of a blockbuster film. Pretty sweet, huh?
             <br>
             <br>
             <a href="https://goo.gl/maps/wVdUQNDfXd9Zxd2P8">AMC Easton 30</a>, Columbus, OH
@@ -98,8 +98,9 @@ title: Tech & a Flick
             Ticket Dates
         </div>
         <div class="comic-panel-body with-header">
-            <div class="small">
-{% endraw %}Ticket sales are different this year. Because late registrations make our ordering more difficult and expensive, please register early!
+            Ticket prices have not been announced yet but will be soon. Tickets generally go on sale in February. Please check back soon for more details!
+            <!-- <div class="small"> -->
+<!-- {% endraw %}Ticket sales are different this year. Because late registrations make our ordering more difficult and expensive, please register early!
 * **2/27/2024** - $150 early bird tickets on sale
 * **3/11/2024** - $175 regular tickets on sale
 * **3/25/2024** - $200 late tickets on sale
@@ -107,11 +108,11 @@ title: Tech & a Flick
 * **4/29/2024** - Ticket sales end
 * **5/3/2024** - **Stir Trek 2024!!!!**
 * **5/4/2024** - [Workshop day!](/workshops)
-{% raw %}   
-            </div>
+{% raw %}    -->
+            <!-- </div>
             <div style="text-align: center;">
                 <a class="registerNow" href="https://events.humanitix.com/stir-trek-2024">Click here to buy your ticket!</a>
-            </div>
+            </div> -->
         </div>
     </div>  
 <div class="col-md-6">

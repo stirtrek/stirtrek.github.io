@@ -1,1 +1,16 @@
-{"sponsors":{"platinum":[],"gold":[],"silver":[],"bronze":[]}}
+{
+    "sponsors":
+    {
+        "platinum":[],
+        "gold":[],
+        "silver":[],
+        "bronze":[
+            {
+                "name": "Central Insurance",
+                "link": "https://www.central-insurance.com",
+                "description": "At Central we pride ourselves on our long history & strong financial stability, and a culture driven by excellence that encourages innovation, ingenuity and ownership.",
+                "logo": "/images/sponsors/central_insurance_350x200.png"
+              }
+        ]
+    }
+}

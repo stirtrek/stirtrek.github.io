@@ -11,6 +11,12 @@ title: Tech & a Flick
         <br>
         <p>Call for speakers opens in January!</p>
     </div> -->
+    <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+        <p class="date">Stir Trek<br/>Columbus, OH</p>
+        <p class="date">5/2/2025</p>
+        <br>
+        <p>Tickets go on sale February 25th</p>
+    </div>
     <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">5/3/2024</p>
@@ -19,12 +25,12 @@ title: Tech & a Flick
             <p>Buy Your +1 Movie Ticket Now</p>
         </a>
     </div> -->
-    <a href="https://sessionize.com/stir-trek-2025/" target="_blank" rel="noopener noreferrer">
+    <!-- <a href="https://sessionize.com/stir-trek-2025/" target="_blank" rel="noopener noreferrer">
         <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
             <p class="date">CFS is Open!</p>
             <p class="registerNow">Click here to submit your talks</p>
         </div>
-    </a>
+    </a> -->
      <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">5/3/2024</p>
@@ -59,9 +65,9 @@ title: Tech & a Flick
         <div class="comic-panel-header offset" id="whatigetheader">What Do Ya get?</div>
         <div class="comic-panel-body with-header" id="whatiget">
             <ul>
-                <li>48 Sessions of critical content</li>
+                <li><s>48</s> 🥳 <strong>64</strong> 🎈 Sessions of critical content</li>
                 <li>Well-known regional &amp; national Speakers</li>
-                <li>Screening of Star Wars: Episode 1 - 25th Anniversary Rerelease</li>
+                <li>Screening of Marvel's Thunderbolts</li>
                 <li>Breakfast and Lunch</li>
                 <li>Refreshments during the movie</li>
                 <li>Registration box with fun bonus swag</li>
@@ -98,18 +104,19 @@ title: Tech & a Flick
             Ticket Dates
         </div>
         <div class="comic-panel-body with-header">
-            Ticket prices have not been announced yet but will be soon. Tickets generally go on sale in February. Please check back soon for more details!
-            <!-- <div class="small"> -->
-<!-- {% endraw %}Ticket sales are different this year. Because late registrations make our ordering more difficult and expensive, please register early!
-* **2/27/2024** - $150 early bird tickets on sale
-* **3/11/2024** - $175 regular tickets on sale
-* **3/25/2024** - $200 late tickets on sale
-* **4/13/2024** - $225 Final tickets (w/o a box) on sale
-* **4/29/2024** - Ticket sales end
-* **5/3/2024** - **Stir Trek 2024!!!!**
-* **5/4/2024** - [Workshop day!](/workshops)
-{% raw %}    -->
-            <!-- </div>
+            Ticket prices go up as the event gets closer because things get more expensive and complicated.<br /><br />Register early!
+            <div>
+{% endraw %}
+Ticket sale dates:
+* **2/25/2025** - $149 super early bird (first 50)
+* **2/25/2025** - $175 early bird
+* **2/29/2024** - $200 standard
+* **3/22/2024** - $250 late... don't be late!
+* **4/6/2024** - Ticket sales end at 11:59pm
+* **5/2/2024** - **Stir Trek 2025!!!!**
+{% raw %}
+            </div>
+            <!--
             <div style="text-align: center;">
                 <a class="registerNow" href="https://events.humanitix.com/stir-trek-2024">Click here to buy your ticket!</a>
             </div> -->

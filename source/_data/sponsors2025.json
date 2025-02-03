@@ -11,7 +11,13 @@
                 "link": "https://www.central-insurance.com",
                 "description": "At Central we pride ourselves on our long history & strong financial stability, and a culture driven by excellence that encourages innovation, ingenuity and ownership.",
                 "logo": "/images/sponsors/central_insurance_350x200.png"
-              }
+            },
+            {
+                "name": "IGS",
+                "link": "https://www.igs.com/",
+                "description": "We are leading a transition to a more sustainable energy future by empowering home and business customers to source the energy that’s right for them, manage their costs and carbon footprint, and protect the systems that keep their homes running efficiently.",
+                "logo": "/images/sponsors/IGS_350x200v2.png"
+            },
         ]
     }
 }

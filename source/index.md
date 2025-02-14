@@ -67,7 +67,7 @@ title: Tech & a Flick
             <ul>
                 <li><s>48</s> 🥳 <strong>64</strong> 🎈 Sessions of critical content</li>
                 <li>Well-known regional &amp; national Speakers</li>
-                <li>Screening of Marvel's Thunderbolts</li>
+                <li>Screening of <a target="_blank" href="https://www.youtube.com/watch?v=psLPAtGaY_U">Marvel's Thunderbolts</a></li>
                 <li>Breakfast and Lunch</li>
                 <li>Refreshments during the movie</li>
                 <li>Registration box with fun bonus swag</li>
@@ -110,10 +110,10 @@ title: Tech & a Flick
 Ticket sale dates:
 * **2/25/2025** - $149 super early bird (first 50)
 * **2/25/2025** - $175 early bird
-* **2/29/2024** - $200 standard
-* **3/22/2024** - $250 late... don't be late!
-* **4/6/2024** - Ticket sales end at 11:59pm
-* **5/2/2024** - **Stir Trek 2025!!!!**
+* **3/1/2025** - $200 standard
+* **3/22/2025** - $250 late... don't be late!
+* **4/6/2025** - Ticket sales end at 11:59pm
+* **5/2/2025** - **Stir Trek 2025!!!!**
 {% raw %}
             </div>
             <!--

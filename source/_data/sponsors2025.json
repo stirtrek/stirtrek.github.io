@@ -3,6 +3,12 @@
     {
         "platinum":[],
         "gold":[
+            {
+                "name": "CGI",
+                "link": "https://www.cgi.com/",
+                "description": "Founded in 1976, CGI is a leading global IT and business consulting firm. We offer insights-driven, outcomes-based services to boost your investment returns. Operating in 21 industries across 400 locations, we deliver scalable, sustainable solutions.",
+                "logo": "/images/sponsors/cgi_350x200v2.jpg"
+            }
         ],
         "silver":[],
         "bronze":[

@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1739501028060';
+var CACHE = 'network-or-cache-1739575307440';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -25,12 +25,12 @@ self.addEventListener('fetch', function(evt) {
     return caches.open(CACHE).then(function (cache) {
         return cache.addAll([
             "/images/speakers/2022/Readme.html",
+"/manifest.json",
 "/",
 "/index.html",
-"/manifest.json",
-"/404.html",
 "/covid/",
 "/covid/index.html",
+"/404.html",
 "/recordings/",
 "/recordings/index.html",
 "/registration/",
@@ -43,8 +43,8 @@ self.addEventListener('fetch', function(evt) {
 "/speakers/2019.html",
 "/speakers/2020.html",
 "/speakers/2021.html",
-"/speakers/2023.html",
 "/speakers/2022.html",
+"/speakers/2023.html",
 "/speakers/2024.html",
 "/speakers/",
 "/speakers/index.html",
@@ -54,18 +54,18 @@ self.addEventListener('fetch', function(evt) {
 "/sponsors/index.html",
 "/store/",
 "/store/index.html",
-"/virtual/",
-"/virtual/index.html",
 "/workshops/",
 "/workshops/index.html",
+"/virtual/",
+"/virtual/index.html",
 "/info/antiharassmentpolicy/",
 "/info/antiharassmentpolicy/index.html",
 "/info/codeofconduct/",
 "/info/codeofconduct/index.html",
-"/info/contact/",
-"/info/contact/index.html",
 "/info/commitmenttodiversity/",
 "/info/commitmenttodiversity/index.html",
+"/info/contact/",
+"/info/contact/index.html",
 "/info/history/",
 "/info/history/index.html",
 "/info/press/2024-02-10.html",

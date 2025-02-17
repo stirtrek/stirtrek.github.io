@@ -48,8 +48,14 @@
 
     <link href="/styles/bootstrap.min.css" rel="stylesheet">
     <link href="/styles/bootstrap-button-social.min.css" rel="stylesheet">
-    <link href="/styles/fontawesome-4.min.css" rel="stylesheet">
 
+    <link href="/styles/fontawesome-6/css/fontawesome.css" rel="stylesheet" />
+    <link href="/styles/fontawesome-6/css/brands.css" rel="stylesheet" />
+    <link href="/styles/fontawesome-6/css/solid.css" rel="stylesheet" />
+    <link href="/styles/fontawesome-6/css/sharp-thin.css" rel="stylesheet" />
+    <link href="/styles/fontawesome-6/css/duotone-thin.css" rel="stylesheet" />
+    <link href="/styles/fontawesome-6/css/sharp-duotone-thin.css" rel="stylesheet" />
+  
 
     <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="  crossorigin="anonymous"></script>
     <!-- <script src="/scripts/bootstrap.js"></script> -->
@@ -413,17 +419,20 @@ This session provides an introduction to observability terms and concepts and te
                                 aria-label="Link to send Stir Trek an email">info@stirtrek.com</a>
                         </p>
 
-                        <p id="footerSocialMediaIcons">
+                        <div id="footerSocialMediaIcons">
                             Social us: &nbsp;&nbsp;
-                            <a href="http://www.facebook.com/StirTrek" target="_blank"
-                                class="btn btn-social-icon btn-facebook" aria-label="Link to Stir Trek's Facebook page">
-                                <i class="fa fa-facebook"></i>
-                            </a>
-                            <a href="http://www.twitter.com/StirTrek" target="_blank"
-                                class="btn btn-social-icon btn-twitter" aria-label="Link to Stir Trek's Twitter page">
-                                <i class="fa fa-twitter"></i>
-                            </a>
-                        </p>
+                            <div class="footer-social-icon-container">
+                                <a href="http://www.facebook.com/StirTrek" target="_blank" aria-label="Link to Stir Trek's Facebook page">
+                                    <i class="fa-brands fa-facebook"></i>
+                                </a>
+                                <a href="http://www.twitter.com/StirTrek" target="_blank" aria-label="Link to Stir Trek's Twitter page">
+                                    <i class="fa-brands fa-twitter"></i>
+                                </a>
+                                <a href="https://bsky.app/profile/stirtrek.com" target="_blank" aria-label="Link to Stir Trek's Bluesky page">
+                                    <i class="fa-brands fa-bluesky"></i>
+                                </a>
+                            </div>
+                        </div>
 
                         <p>
                             Thank you to <a target="_blank" rel="noopener" href="https://nate-lovett.com/">Nate Lovett</a> for our great art.

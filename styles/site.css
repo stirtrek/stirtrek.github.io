@@ -191,12 +191,12 @@ h3 {
     margin: 30px;
 }
 
-#footerSocialMediaIcons a {
-    color: #3a3c55;
+#footerSocialMediaIcons {
+    margin-bottom: 10px;
 }
 
-#footerSocialMediaIcons a:visited {
-    color: #3a3c55;
+#footerSocialMediaIcons a {
+    color: #d7c875;
 }
 
 #footerSocialMediaIcons a:hover {
@@ -205,16 +205,16 @@ h3 {
 }
 
 #footerSocialMediaIcons a:active {
-    color: #fff;
-}
-
-#footerSocialMediaIcons a {
-    border-radius: 50px;
-    background-color: #1a1927;
+    color: #34344c;
 }
 
 #footerSocialMediaIcons a.btn {
     padding: 0;
+}
+
+#footerSocialMediaIcons .footer-social-icon-container {
+    display: inline; 
+    font-size: 1.5em;
 }
 
 #footerCredits {

@@ -29,6 +29,12 @@
                 "link": "https://www.netjets.com/",
                 "description": "NetJets operates the largest, most diverse private aircraft fleet in the world and offers a full range of personalized private aviation solutions to meet—and exceed—the high standards of the world's most discerning travelers.",
                 "logo": "/images/sponsors/netjets_350x200.png"
+            },
+            {
+                "name": "OCLC",
+                "link": "https://www.oclc.org/",
+                "description": "At OCLC, we exist because what is known must be shared. On the surface this seems simple. But dig deeper. We hold petabytes of diverse data in different languages, different scripts, and different formats.",
+                "logo": "/images/sponsors/oclc_350x200.jpg"
             }
         ]
     }

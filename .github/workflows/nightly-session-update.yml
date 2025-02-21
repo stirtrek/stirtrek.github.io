@@ -3,7 +3,7 @@ name: Nightly Content Update
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs every day at midnight UTC
-  workflow_dispatch:      # Allow manual triggering of the workflow
+  workflow_dispatch:      # Allow manual triggering of the workflows
 
 jobs:
   build:
@@ -15,6 +15,7 @@ jobs:
         with:
           persist-credentials: false  # Required for committing later
           fetch-depth: 0              # Needed to push changes back
+          ref: source # Ensures the source branch is used
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -36,6 +37,6 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
           git commit -m "Nightly content update: $(date -u +"%Y-%m-%d %H:%M:%S UTC")" || echo "No changes to commit"
-          git push
+          git push origin source
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

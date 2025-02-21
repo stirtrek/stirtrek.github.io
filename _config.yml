@@ -23,7 +23,7 @@ allYears:
   - 2023
   - 2024
 showSchedule: false
-showSessionList: false
+showSessionList: true
 showSpeakers: true
 showStore: false
 showRecordings: false

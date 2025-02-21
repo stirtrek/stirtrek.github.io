@@ -1,68 +1,94 @@
-/// Node (non-Hexo) script to parse the saved Sessionize data and generate a schedule file
+const fs = require('fs');
+const yaml = require('js-yaml');
+const moment = require('moment-timezone');
 
-let fs = require('fs');
-let yaml = require('js-yaml');
-let moment = require('moment-timezone');
-
-
-// Get the year from the config
-let config = yaml.load(fs.readFileSync('./_config.yml'));
-let currentYear = config.currentYear;
-
-// Set the timezone
-moment.tz.setDefault(config.timeZone);
-
-// The schedule format is weird and I don't remember why :? Maybe from when we used ThatConference?
-let schedule = {
-    scheduledSessions: {
-        timeSlots: [],
-    }
-};
-
-// Parse it to build the schedule file
-let sessionDataLocation = `./source/_data/sessions${currentYear}.json`;
-const rawSessionData = fs.readFileSync(sessionDataLocation);
-const sessionData = JSON.parse(rawSessionData);
-const scheduleOutputLocation = `./source/_data/schedule${currentYear}.json`;
-
-// Take the room names and figure out the Sessionize IDs for them
-let theaterRoomNamesAndIds = [];
-sessionData.rooms.forEach(room => {
-    theaterRoomNamesAndIds.push({
-        id: room.id,
-        name: room.name
-    })
-});
-
-// Figure out our session start times
-let startTimes = sessionData.sessions.map(session => session.startsAt);
-startTimes = [...new Set(startTimes)]; // makes it unique
-
-// Generate a schedule for each start time for each session
-for (startTime of startTimes) {
-    let timeSlotSessionOutput = [];
-
-    // Get the sessions in this timeslot
-    let sessionsThisTimeSlot = sessionData.sessions.filter(session => session.startsAt === startTime);
-
-    // Iterate through all the rooms and map the sessions to rooms
-    for (thisRoom of theaterRoomNamesAndIds) {
-        let thisSession = sessionsThisTimeSlot.find(session => session.roomId === thisRoom.id);
-        if (thisSession) {
-            timeSlotSessionOutput.push({
-                "id": thisSession.id,
-                "scheduledRoom": thisRoom.name
-            })
-        }
-    }
-
-    // Pretty print the start time using Moment
-    let startTimeMoment = new moment(startTime);
-    schedule.scheduledSessions.timeSlots.push({
-        "time": startTimeMoment.format('h:mm A'),
-        "sessions": timeSlotSessionOutput
-    });
+// Load configuration
+let config;
+try {
+  config = yaml.load(fs.readFileSync('./_config.yml', 'utf8'));
+} catch (err) {
+  console.error('❌ Error reading _config.yml:', err.message);
+  process.exit(1);
 }
 
-// Write the schedule out
-fs.writeFileSync(scheduleOutputLocation, JSON.stringify(schedule, 0, 2));
+// Validate required configuration variables
+const currentYear = config.currentYear;
+const timeZone = config.timeZone;
+
+if (!currentYear || !timeZone) {
+  console.error('❌ Missing required configuration: currentYear or timeZone.');
+  process.exit(1);
+}
+
+// Set the timezone
+moment.tz.setDefault(timeZone);
+
+// Define paths
+const sessionDataLocation = `./source/_data/sessions${currentYear}.json`;
+const scheduleOutputLocation = `./source/_data/schedule${currentYear}.json`;
+
+// Read session data
+let sessionData;
+try {
+  const rawSessionData = fs.readFileSync(sessionDataLocation, 'utf8');
+  sessionData = JSON.parse(rawSessionData);
+} catch (err) {
+  console.error(`❌ Failed to read or parse session data from ${sessionDataLocation}:`, err.message);
+  process.exit(1);
+}
+
+// Initialize schedule object
+const schedule = {
+  scheduledSessions: {
+    timeSlots: [],
+  }
+};
+
+// Map room names and IDs
+const theaterRoomNamesAndIds = sessionData.rooms.map((room) => ({
+  id: room.id,
+  name: room.name,
+}));
+
+// Extract and deduplicate start times
+let startTimes = [...new Set(sessionData.sessions.map((session) => session.startsAt))];
+
+// Generate schedule
+for (const startTime of startTimes) {
+  const timeSlotSessionOutput = [];
+
+  // Filter sessions by this timeslot
+  const sessionsThisTimeSlot = sessionData.sessions.filter(
+    (session) => session.startsAt === startTime
+  );
+
+  // Map sessions to rooms
+  for (const thisRoom of theaterRoomNamesAndIds) {
+    const thisSession = sessionsThisTimeSlot.find(
+      (session) => session.roomId === thisRoom.id
+    );
+
+    if (thisSession) {
+      timeSlotSessionOutput.push({
+        id: thisSession.id,
+        scheduledRoom: thisRoom.name,
+      });
+    }
+  }
+
+  // Add the timeslot to the schedule
+  const startTimeMoment = moment(startTime);
+  schedule.scheduledSessions.timeSlots.push({
+    time: startTimeMoment.format('h:mm A'),
+    sessions: timeSlotSessionOutput,
+  });
+}
+
+// Write the generated schedule to a file
+try {
+  fs.writeFileSync(scheduleOutputLocation, JSON.stringify(schedule, null, 2), 'utf8');
+  console.log(`✅ Schedule successfully written to ${scheduleOutputLocation}`);
+} catch (err) {
+  console.error(`❌ Error writing schedule to ${scheduleOutputLocation}:`, err.message);
+  process.exit(1);
+}

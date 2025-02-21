@@ -13,14 +13,31 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          ref: source  # Ensures we check out the source branch
           persist-credentials: false  # Required for committing later
-          fetch-depth: 0              # Needed to push changes back
-          ref: source # Ensures the source branch is used
+          fetch-depth: 0  # Needed for pushing changes
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '22'  # Set your preferred Node.js version
+          node-version: '22'
+
+      - name: Cache NPM dependencies
+        uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: ${{ runner.OS }}-npm-cache
+          restore-keys: |
+            ${{ runner.OS }}-npm-cache
+
+      - name: Configure Git credentials as Steve
+        uses: oleksiyrudenko/gha-git-credentials@v2.1
+        with:
+          global: true
+          name: 'Steve'
+          email: 'steve@stirtrek.com'
+          actor: 'ardalis'
+          token: '${{ secrets.GITHUB_TOKEN }}'
 
       - name: Install dependencies
         run: npm install
@@ -31,12 +48,8 @@ jobs:
       - name: Run build schedule script
         run: node ./scripts-manuallyexecuting/build-schedule-from-sessions.js
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Nightly content update: $(date -u +"%Y-%m-%d %H:%M:%S UTC")" || echo "No changes to commit"
+          git commit -m "Nightly content update by Steve: $(date -u +"%Y-%m-%d %H:%M:%S UTC")" || echo "No changes to commit"
           git push origin source
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

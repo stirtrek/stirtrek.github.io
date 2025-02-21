@@ -52,4 +52,4 @@ jobs:
         run: |
           git add .
           git commit -m "Nightly content update by Steve: $(date -u +"%Y-%m-%d %H:%M:%S UTC")" || echo "No changes to commit"
-          git push origin source
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git source

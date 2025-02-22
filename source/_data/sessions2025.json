@@ -155,6 +155,28 @@
       "isConfirmed": true
     },
     {
+      "id": "849053",
+      "title": "Castle Defense 101 (aka Threat Modeling)",
+      "description": "Threat modeling is the art of determining if we are secure enough for our situation. Figuring out what to protect and how much effort we will spend on that protection is half the battle. The other half is understanding what happens if we fail- what it costs us and how it impacts us. \r\nBut the art of threat modeling isn’t just for securing software. Imagine we are security consultants for a medieval kingdom. We will determine the castle’s weak points by planning an attack. We will learn to assess risks by asking what the stronghold, well, um, holds. And we will strengthen our defenses by applying limited resources in the places that will help us the most. By the time we are through, our fortress will be sturdier, we will be able to stave off attacks, and we’ll know what improvements we can make to keep the kingdom safe.\r\nFinally, we will discuss how it applies to development projects and how we can use these techniques to secure software. No expertise in medieval architecture is needed.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "870ab107-e506-49e2-83f4-ba483e72aec6"
+      ],
+      "categoryItems": [
+        328813
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "847785",
       "title": "Design Patterns: Not Just for Architects",
       "description": "Design patterns are not just for architects. In fact, you already use design patterns without even knowing it. Observer, Facade, Iterator, Proxy -- these are just a few of the patterns that you have probably used. But it is really hard to use a tool effectively when you don't even know you are using it. So let's fix that.\r\n\r\nIn this session, you will learn what design patterns are (and what they are not). You will see both the benefits and consequences of patterns. And you will see several of the Gang of Four patterns that use already use (they may even be built into your programming language). Don't know who the Gang of Four is? You'll learn that, too. Once we understand design patterns, we can find solutions that people way smarter than us have already implemented. This gives us another set of tools that we can use to build great software.",
@@ -1072,6 +1094,48 @@
         845433
       ],
       "fullName": "DJ Daugherty",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "870ab107-e506-49e2-83f4-ba483e72aec6",
+      "firstName": "Gene",
+      "lastName": "Gotimer",
+      "bio": "Gene Gotimer is a DevSecOps Engineer who loves playing with new tools, focusing on agile processes, securing development practices, and automating everything. Gene feels strongly that repeatability, quality, and security are all strongly intertwined; each depends on the other two, making agile and DevSecOps crucial to software development.\r\n",
+      "tagLine": "DevSecOps Engineer",
+      "profilePicture": "https://sessionize.com/image/4c05-400o400o1-XmJGqEQmAmQL8hYpKFq7De.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/OtherDevOpsGene",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/gotimer/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.praeses.com",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "GitHub",
+          "url": "https://github.com/OtherDevOpsGene",
+          "linkType": "Other"
+        },
+        {
+          "title": "infosec.exchange",
+          "url": "https://infosec.exchange/@otherdevopsgene",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        849053
+      ],
+      "fullName": "Gene Gotimer",
       "categoryItems": [],
       "questionAnswers": []
     },

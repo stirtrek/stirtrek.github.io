@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1740250522006';
+var CACHE = 'network-or-cache-1740250737305';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -45,15 +45,15 @@ self.addEventListener('fetch', function(evt) {
 "/speakers/2021.html",
 "/speakers/2022.html",
 "/speakers/2023.html",
+"/speakers/2024.html",
 "/speakers/",
 "/speakers/index.html",
-"/speakers/2024.html",
 "/speakers/index_cfpopenversion.html",
 "/speakers/index_noncfpversion.html",
-"/store/",
-"/store/index.html",
 "/sponsors/",
 "/sponsors/index.html",
+"/store/",
+"/store/index.html",
 "/virtual/",
 "/virtual/index.html",
 "/workshops/",
@@ -78,8 +78,8 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/brands.min.css",
 "/styles/fontawesome-6/css/regular.css",
 "/styles/fontawesome-6/css/regular.min.css",
-"/styles/fontawesome-6/css/solid.css",
 "/styles/fontawesome-6/css/solid.min.css",
+"/styles/fontawesome-6/css/solid.css",
 "/styles/fontawesome-6/css/svg-with-js.css",
 "/styles/fontawesome-6/css/svg-with-js.min.css",
 "/styles/fontawesome-6/css/v4-font-face.css",
@@ -454,7 +454,6 @@ self.addEventListener('fetch', function(evt) {
 "images/speakers/2025/DJ-Daugherty.png",
 "images/speakers/2025/David-Lucas.jpeg",
 "images/speakers/2025/Dev-Agrawal.jpg",
-"images/speakers/2025/Gene-Gotimer.jpg",
 "images/speakers/2025/Jeremy-Clark.jpg",
 "images/speakers/2025/Kathryn-GraysonNanz.jpg",
 "images/speakers/2025/Matt-Eland.png",

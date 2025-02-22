@@ -1,205 +1,1514 @@
 {
   "sessions": [
     {
-      "id": "9a9ac2c5-3139-4f1f-949b-0d4375c0515c",
-      "title": "Breakfast",
-      "description": null,
-      "startsAt": "2025-05-02T07:30:00",
-      "endsAt": "2025-05-02T08:30:00",
-      "isServiceSession": true,
+      "id": "848197",
+      "title": "An Enterprise Data Architecture Framework",
+      "description": "One of the challenges facing enterprise architecture is maintaining consistency across the enterprise. This is challenging because data comes from disparate sources and systems representing different purposes, focuses, and objectives. On top of that, there needs to be more clarity regarding the terms Data Lake, Data Warehouse, Operational Data Store, etc. To overcome these challenges at an enterprise level, a framework is necessary to apply data uniformly, consistently, and meaningfully. The framework will transform data from multiple, disparate data sources into an operational data store, a consistent, homogeneous environment, as the single dependable source of truth for all reporting and analytics.\r\n\r\nThis session will present that framework and discuss the following:\r\n\t• The challenges facing data analytics and reporting due to multiple disparate data sources\r\n\t• An introduction to the various terms used today for data storage\r\n\t• The purpose of an Operational Data Store and how it improves data usability\r\n\t• The data zones for Raw, Refined, and Published data\r\n\t• How data standards simplify and enhance data usability\r\n\t• A method to provide primary and foreign keys across disparate data",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
       "isPlenumSession": false,
-      "speakers": [],
-      "categoryItems": [],
+      "speakers": [
+        "052dca4e-e8ad-44d5-88ad-f4bdc3714968"
+      ],
+      "categoryItems": [
+        330774
+      ],
       "questionAnswers": [],
-      "roomId": 56813,
+      "roomId": null,
       "liveUrl": null,
       "recordingUrl": null,
-      "status": null,
-      "isInformed": false,
-      "isConfirmed": false
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
-      "id": "d419b935-af02-46a5-9cfd-c8d85cf0ec20",
-      "title": "Session A",
-      "description": null,
-      "startsAt": "2025-05-02T08:30:00",
-      "endsAt": "2025-05-02T09:15:00",
-      "isServiceSession": true,
+      "id": "846995",
+      "title": "Automating Accessibility Assurance",
+      "description": "Assemble a comprehensive toolkit for automated accessibility testing of web applications using tools and libraries that have already been widely adopted and supported by the open source community.\r\n  - Configure your codebase with ESLint accessibility rules to get feedback directly in the code and fix issues early in development.\r\n  - Write tests with Testing Library to interact with applications the same way a user would, including users of assistive technologies.\r\n  - Run a full set of automated checks against your running application by including the Axe-core accessibility engine in your e2e tests.\r\nIncorporate these tools into your development process using automated checks in your continuous integration pipeline at each stage of development and release to ensure your applications are accessible to all users.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
       "isPlenumSession": false,
-      "speakers": [],
-      "categoryItems": [],
+      "speakers": [
+        "a4f0ab32-035e-4e73-aff6-17c868194d26"
+      ],
+      "categoryItems": [
+        315124
+      ],
       "questionAnswers": [],
-      "roomId": 56814,
+      "roomId": null,
       "liveUrl": null,
       "recordingUrl": null,
-      "status": null,
-      "isInformed": false,
-      "isConfirmed": false
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
-      "id": "f141d375-93dc-4ec4-a7f1-56378e1ae78d",
-      "title": "Session B",
-      "description": null,
-      "startsAt": "2025-05-02T09:30:00",
-      "endsAt": "2025-05-02T10:15:00",
-      "isServiceSession": true,
+      "id": "847197",
+      "title": "Big Tables, Big Problems: Scaling Beyond SQL",
+      "description": "As your data grows, even the best SQL databases can struggle with massive tables and complex queries. This talk explores when to offload those big tables to NoSQL solutions like DynamoDB or Elasticsearch to improve performance and scalability. You’ll learn how to identify the right time to make the switch, integrate NoSQL into your architecture, and optimize for analytics, search, or historical data. Leave with practical strategies to keep your applications fast and ready to scale.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
       "isPlenumSession": false,
-      "speakers": [],
-      "categoryItems": [],
+      "speakers": [
+        "c53b081c-6035-47f5-a606-91e83963556b"
+      ],
+      "categoryItems": [
+        330776
+      ],
       "questionAnswers": [],
-      "roomId": 56814,
+      "roomId": null,
       "liveUrl": null,
       "recordingUrl": null,
-      "status": null,
-      "isInformed": false,
-      "isConfirmed": false
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
-      "id": "60a8997c-dce6-4c49-8bfa-b9e9143a7e83",
-      "title": "Session C",
-      "description": null,
-      "startsAt": "2025-05-02T10:30:00",
-      "endsAt": "2025-05-02T11:15:00",
-      "isServiceSession": true,
+      "id": "840085",
+      "title": "Bringing Augmented Reality to the Web with 8th Wall",
+      "description": "This session will introduce attendees to the world of WebAR development using 8th Wall.  We'll explore how to build engaging AR web apps that blend digital content with the real world, without requiring users to download any special apps",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
       "isPlenumSession": false,
-      "speakers": [],
-      "categoryItems": [],
+      "speakers": [
+        "895833fa-4bbd-4d2a-bc58-195064458f4e"
+      ],
+      "categoryItems": [
+        330777
+      ],
       "questionAnswers": [],
-      "roomId": 56814,
+      "roomId": null,
       "liveUrl": null,
       "recordingUrl": null,
-      "status": null,
-      "isInformed": false,
-      "isConfirmed": false
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
-      "id": "0852f875-69de-4e93-998a-9f2855e0f5fc",
-      "title": "Session D",
-      "description": null,
-      "startsAt": "2025-05-02T11:30:00",
-      "endsAt": "2025-05-02T12:15:00",
-      "isServiceSession": true,
+      "id": "844088",
+      "title": "Building and publishing a native, cross-platform mobile app from the ground up",
+      "description": "Have a fun app idea but feel overwhelmed by development options? Choosing a framework, initializing the project, and publishing in app stores can be daunting. Luckily, open-source projects like React Native and Expo make the process easier.\r\n\r\nIn this session, you'll be guided from idea to production using React Native and Expo. We'll start with React Native, showing how it can turn your cross-platform dreams into reality. Then, we'll dive into Expo, demonstrating how it simplifies your workflow with automated builds and easy testing. Finally, we'll cover app store publishing, so you can showcase your work to the world.\r\n\r\nIf you're a developer of any level, an idea dreamer, or just curious about mobile app development, join us to learn how to bring your app ideas to life.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
       "isPlenumSession": false,
-      "speakers": [],
-      "categoryItems": [],
+      "speakers": [
+        "2042b753-d7bf-4b6c-9fd2-27f86f0dcdef"
+      ],
+      "categoryItems": [
+        328811
+      ],
       "questionAnswers": [],
-      "roomId": 56814,
+      "roomId": null,
       "liveUrl": null,
       "recordingUrl": null,
-      "status": null,
-      "isInformed": false,
-      "isConfirmed": false
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
-      "id": "a986d611-2943-4646-8cc2-bca2dfb8cfa6",
-      "title": "Lunch",
-      "description": null,
-      "startsAt": "2025-05-02T12:15:00",
-      "endsAt": "2025-05-02T13:15:00",
-      "isServiceSession": true,
+      "id": "842459",
+      "title": "Building Asynchronous UIs Without The Hassle",
+      "description": "The days of static HTML documents are long gone. Modern user interfaces are dynamic, interactive, and complex. Most of this complexity comes from having to manage and represent concurrent asynchronous processes like requests to the server, timeouts and retries, background processing, native/browser apis, and so on. Frontend frameworks like React are incredibly helpful at constructing a synchronous UI representation of the application state, but force us to orchestrate user events with async processes ourselves. This approach is riddled with issues like race conditions, inconsistent state, UI tearing or flickering, spinner hell, etc.\r\n\r\nThese issues are being addressed by frontend frameworks like React and Solid with new features that eliminate all the asynchronous orchestration and give us consistent UIs by default. This session will explore some of these features, and how they remove a lot of the complexity of building dynamic and asynchronous frontends.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
       "isPlenumSession": false,
-      "speakers": [],
-      "categoryItems": [],
+      "speakers": [
+        "a1bb832b-5d10-4914-8150-dfdae9875e8a"
+      ],
+      "categoryItems": [
+        315124
+      ],
       "questionAnswers": [],
-      "roomId": 56813,
+      "roomId": null,
       "liveUrl": null,
       "recordingUrl": null,
-      "status": null,
-      "isInformed": false,
-      "isConfirmed": false
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
-      "id": "989af06b-2403-4ef3-b715-2246ea2c99e9",
-      "title": "Session E",
-      "description": null,
-      "startsAt": "2025-05-02T13:15:00",
-      "endsAt": "2025-05-02T14:00:00",
-      "isServiceSession": true,
+      "id": "848014",
+      "title": "Can We Learn to Manage Uncertainty? Probably!",
+      "description": "When we’re asked when something will be done, it’s tempting to answer the question. “It’ll be done on March 32nd” or “it’ll take 182.5 days” or “we need 15 sprints”. It doesn’t matter if that answer is the best-case, average, or worst-case scenario.\r\n\r\nThe answer is fundamentally wrong because using a single value hides the fact that what we really meant was a distribution of possible dates, durations, or outcomes. The exact value is uncertain. Development may be faster or slower than we thought. What if the tech lead wins the lottery and retires? What if a global pandemic forces us to change the way we work?\r\n\r\nWhile we can’t control any of those factors, we can be mindful of their existence and communicate more clearly. In this talk we will introduce “bet” language, which makes uncertainty and luck an explicit part of the conversation. This mindset helps us accurately assess risks, pick the right risks to embrace, and avoid analysis paralysis. It also helps us learn in an uncertain world, where even if we make good decisions, we may experience bad outcomes (and vice versa!).",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
       "isPlenumSession": false,
-      "speakers": [],
-      "categoryItems": [],
+      "speakers": [
+        "3963f1e7-00c7-47ba-9c88-9f1d9be28b43"
+      ],
+      "categoryItems": [
+        330778
+      ],
       "questionAnswers": [],
-      "roomId": 56814,
+      "roomId": null,
       "liveUrl": null,
       "recordingUrl": null,
-      "status": null,
-      "isInformed": false,
-      "isConfirmed": false
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
-      "id": "8b6958db-b5ab-42b6-8b34-97b7f5358215",
-      "title": "Session F",
-      "description": null,
-      "startsAt": "2025-05-02T14:15:00",
-      "endsAt": "2025-05-02T15:00:00",
-      "isServiceSession": true,
+      "id": "847785",
+      "title": "Design Patterns: Not Just for Architects",
+      "description": "Design patterns are not just for architects. In fact, you already use design patterns without even knowing it. Observer, Facade, Iterator, Proxy -- these are just a few of the patterns that you have probably used. But it is really hard to use a tool effectively when you don't even know you are using it. So let's fix that.\r\n\r\nIn this session, you will learn what design patterns are (and what they are not). You will see both the benefits and consequences of patterns. And you will see several of the Gang of Four patterns that use already use (they may even be built into your programming language). Don't know who the Gang of Four is? You'll learn that, too. Once we understand design patterns, we can find solutions that people way smarter than us have already implemented. This gives us another set of tools that we can use to build great software.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
       "isPlenumSession": false,
-      "speakers": [],
-      "categoryItems": [],
+      "speakers": [
+        "e3d60e4b-9d07-4dc0-b02d-9d4e3d6ece9b"
+      ],
+      "categoryItems": [
+        330774
+      ],
       "questionAnswers": [],
-      "roomId": 56814,
+      "roomId": null,
       "liveUrl": null,
       "recordingUrl": null,
-      "status": null,
-      "isInformed": false,
-      "isConfirmed": false
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
-      "id": "1072d2a4-5030-404d-8bfe-fa03f31f9695",
-      "title": "Session G",
-      "description": null,
-      "startsAt": "2025-05-02T15:15:00",
-      "endsAt": "2025-05-02T16:00:00",
-      "isServiceSession": true,
+      "id": "845433",
+      "title": "DMX Channels and Water Cannons: The Geeky Anatomy of a Modern Splash Pad     NEW  7:20",
+      "description": "At augustwenty, we pride ourselves on an insights-driven approach that prioritizes understanding what makes each project unique—from the technological underpinnings to the human aspects of working together. In our collaboration with the City of Hilliard, Ohio, we exemplified this difference by overcoming outdated systems and complex challenges. We designed and deployed a Splash Pad system using Elixir, Phoenix, and a low-power Raspberry Pi to seamlessly engage the local community and foster meaningful social experiences.\r\nThis session will explore how augustwenty’s combination of reverse engineering, stakeholder interviews, and modern software architecture resulted in a cost-effective, reliable solution with zero downtime. Attendees will learn how focusing on scalability, fault-tolerance, and minimal maintenance can drastically improve operations for municipal recreation projects and beyond. By sharing our methodology and lessons learned, we aim to inspire other teams to build vibrant, future-ready solutions that enhance community well-being while reducing long-term costs.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
       "isPlenumSession": false,
-      "speakers": [],
-      "categoryItems": [],
+      "speakers": [
+        "18586bf9-1ad6-4187-a789-abbdc91520cc",
+        "bb817af8-6c17-4701-aa6e-129a227f8cb0"
+      ],
+      "categoryItems": [
+        330779
+      ],
       "questionAnswers": [],
-      "roomId": 56814,
+      "roomId": null,
       "liveUrl": null,
       "recordingUrl": null,
-      "status": null,
-      "isInformed": false,
-      "isConfirmed": false
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
-      "id": "23c98c18-bc2f-424c-86db-2e19a6aa201c",
-      "title": "Session H",
-      "description": null,
-      "startsAt": "2025-05-02T16:15:00",
-      "endsAt": "2025-05-02T17:00:00",
-      "isServiceSession": true,
+      "id": "848832",
+      "title": "Documenting & Versioning API's with ASP.NET Core 9, OpenAI, and Swagger",
+      "description": "Anyone can get started with ASP.NET Core and create WebAPIs; however, properly documenting, managing, and versioning these APIs for downstream audiences can be a daunting task.   Often times developers will get API's created and \"come back later\" to actually fill out the API documentation and we all know how that process actually works.\r\n\r\nThis session will explore the new OpenAPI functionality available with .NET 9.0 and how that can be utilized with proper API Versioning and Swagger to quickly, easily, and part of your day-to-day development provide full documentation to your API's allowing for more productive downstream development and a better overall user experience.  We will discuss best practices for versioning, documentation and even configuration options with Swagger/ReDoc to ensure that your documentation reflects your brand and standards.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
       "isPlenumSession": false,
-      "speakers": [],
-      "categoryItems": [],
+      "speakers": [
+        "a9011c65-6287-4529-ac91-56a8b9daa9a9"
+      ],
+      "categoryItems": [
+        330774
+      ],
       "questionAnswers": [],
-      "roomId": 56814,
+      "roomId": null,
       "liveUrl": null,
       "recordingUrl": null,
-      "status": null,
-      "isInformed": false,
-      "isConfirmed": false
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     },
     {
-      "id": "85b146b6-9ebb-4550-903f-3691339b0b3e",
-      "title": "Movie Trailers",
-      "description": null,
-      "startsAt": "2025-05-02T17:15:00",
-      "endsAt": "2025-05-02T18:00:00",
-      "isServiceSession": true,
+      "id": "849060",
+      "title": "Hot New HTML Features!",
+      "description": "10 years ago, JavaScript had a great upheaval with the release of ES6. More recently, CSS has been having a renaissance with things like Grid, Custom Properties, and Container Queries.\r\n\r\nWell the time has come, my fellow developers, for HTML to to have it's day and gain some new features.\r\n\r\nIn this talk we'll cover:\r\n\r\n- the Details/Summary elements\r\n- the Dialog Element\r\n- the inert attribute\r\n- the Popover API\r\n- the new power of attributes\r\n- Declarative ShadowDOM\r\n- the Future: Style-able Selects",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
       "isPlenumSession": false,
-      "speakers": [],
-      "categoryItems": [],
+      "speakers": [
+        "5c386803-b673-4259-a6ce-d85e1fd0a016"
+      ],
+      "categoryItems": [
+        315124
+      ],
       "questionAnswers": [],
-      "roomId": 56813,
+      "roomId": null,
       "liveUrl": null,
       "recordingUrl": null,
-      "status": null,
-      "isInformed": false,
-      "isConfirmed": false
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "840380",
+      "title": "How to Build Your Own Copilot for .NET Devs",
+      "description": "Curious about building your own AI-powered assistant, but not sure where to start? Join me for a deep dive into Microsoft's Azure AI services. We will review which approach in Azure AI Foundry, Semantic Kernel SDK, and Copilot Studio fits best for various scenarios.\r\n\r\nThe talk aims to strip away complexities and simplify the learning curve of choosing the right tool for you. We’ll focus on practical demonstrations, including quickly deploying a model, building AI agents, and showing how options for code orchestration functions. We'll also explore integration with Azure OpenAI services, highlighting how these resources work together.\r\n\r\nUltimately, discover how to build such a good Copilot that it might take your job... but probably won’t.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "13924f5b-13f0-4fd8-a0bf-06f633dad5c9"
+      ],
+      "categoryItems": [
+        330776
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "836066",
+      "title": "I didn't know HTML / CSS could do THAT!",
+      "description": "While the flashiest news of the web dev world is often focused on the big frameworks (React, Angular, Vue, etc.), good ol’ HTML and CSS have also been quietly – but steadily – upping their game. If you haven’t taken a look lately, this is the perfect time to catch up! We’ll look at recent (and slightly older but lesser-known) developments in HTML and CSS that may surprise you. Who knows: you might even be able to ditch a JS library or two that you didn’t even know you don’t need anymore!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "44406a2e-5504-47d4-8fef-6d5c110704a0"
+      ],
+      "categoryItems": [
+        315124
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "849160",
+      "title": "Into the Unknown: Navigating the Wild Frontier of Emerging Languages",
+      "description": "Embark on an adventurous exploration of the trials and triumphs of being a pioneer in the world of programming languages. Drawing from personal experience with SolidJs and pre-release versions of Angular2, this session will focus on overcoming the initial hurdles of learning and implementing a language with zero reliable external resources and address the unique challenges faced by early adopters. We'll cover tips on building a foundation of knowledge, leveraging existing programming skills, and fostering a community of early adopters to collaborate and share insights. Join us to discover how to navigate the unknown and emerge as a trailblazer in your field.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "612b0314-b229-4052-8c02-b75e8cd7c214"
+      ],
+      "categoryItems": [
+        330773
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "836201",
+      "title": "Intro to OpenTelemetry for Developers",
+      "description": "OpenTelemetry (OTel) is a vendor-neutral, open standard for observing distributed applications. With OTel, you can trace individual requests and view specific metrics about the system's current state. It's like a superset of traditional logging and can be used with or instead of log statements. \r\n\r\nIn this session, we'll review the basics of OpenTelemetry, discuss why you should consider using it, and see a demo of using it across backend services.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6fc0c6b2-0d52-4738-8c7d-4013e397d444"
+      ],
+      "categoryItems": [
+        330775
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "846583",
+      "title": "JavaScript: The (Really) Good Parts",
+      "description": "JavaScript is a little-known up-and-coming programming language with stunningly beautiful syntax, strong type-checking, and a simple, obvious API. No, wait, I have that backwards. In fact, JavaScript is the most widely deployed language in the world with a long and complicated history that frequently makes it the butt of developer jokes.\r\n\r\nLet's dispel some myths and study the best features of JavaScript from classic ECMAScript 3 (1999) through the latest and greatest of ES2022. If you're still using jQuery or other libraries to fill functionality gaps, this session is all about modernizing your JavaScript while learning to appreciate how far it's come. Concepts include arrow function expressions, classes, template literals, generators, optional chaining, fetch, promises, and much more.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b9c9b80c-b534-476f-b78c-17a89234bf8b"
+      ],
+      "categoryItems": [
+        330773
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "847827",
+      "title": "Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records",
+      "description": "In software architecture, it is important to know why a team has selected a specific architectural style, pattern, or technology. Clear communication of such decisions is crucial, and one of the best means to capture, communicate, and understand these decisions is through Architecture Decision Records (ADRs). This session will emphasize ADRs as an instrument that enables unambiguous communication among architectural stakeholders.\r\n\r\nUsing real-world examples, we’ll explain the fundamental principles of ADRs, highlighting how they encapsulate the rationale, context, and consequences of architectural decisions. We will also cover best practices for authoring, maintaining, and evolving ADRs throughout the project lifecycle, from initiation to implementation.\r\n\r\nRegardless of whether you're an architect or a developer new to the space, with this session, you shall be well equipped with the tools to articulate architecture decisions using ADRs. Get familiar with the architectural maze so you can manage it with confidence and clarity, and be prepared to respond to the all-important question of why — now, tomorrow, and in the future.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "76842364-2733-4aea-a940-7c81195e5120"
+      ],
+      "categoryItems": [
+        330778
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "842088",
+      "title": "Not Your Mother's or Father's C#",
+      "description": "Gone are the days of verbose C# code and having only one way to solve a problem. In recent updates, C# has been adapting ideas from other programming paradigms, including functional programming. Some of the most recent ones have significantly changed the appearance of C# code. We'll see what you think after this session!\r\n\r\nWhether you're using C# every day, or you haven't looked at the language in a while, this fast-paced session will show you what has been changing in the C# world. \r\n\r\nUnlike the classic \"coming soon\" session where you can't take what you learn home and apply it, you can take what you learn here back home to remove redundant code, streamline your classes, and add flexible type constraints. This is a fun, fast-paced session that will provide you with the insight you need to make the changes you want in your code.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1dbfb6bc-c1f2-44af-9294-3614597b165e"
+      ],
+      "categoryItems": [
+        330773
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "848387",
+      "title": "Packing Light with VS Code 🧳",
+      "description": "You want modern consistent development experience across Windows/macOS/Linux? You want a lightweight code editor where you get to pick your tools & workloads? You want to code anywhere like in browser/Codespaces/DevBox and carry your developer settings?\r\n\r\nVisual Studio Code does all that & more. VS Code is uber popular for a reason – a lightweight code editor solution with multi-language support and a rich Extensions ecosystem. With C# Dev Kit and .NET MAUI Extensions, VS Code is more than capable of checking all the boxes for.NET developers building modern experiences for web, mobile, desktop, cloud native & more. GitHub Copilot brings AI-powered productivity to VS Code – developers can also gain contextual intelligence with GitHub Copilot Extensibility. With infinite configurability and a thriving ecosystem, VS Code is all about developer productivity – packing light makes you go places. Come see how!\r\n",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fc1d0cd3-9675-4188-aa98-e0088069f1a4"
+      ],
+      "categoryItems": [
+        330773
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "847868",
+      "title": "Patterns and Architectures Beyond Microservices",
+      "description": "Have you slayed the monolith and are ready for more? Learn patterns and architectures that move beyond simple microservices to solve problems of resiliency, security, scalability, responsiveness.  Understand the new class of issues that come with distributed systems like microservices.  We explore modern patterns like CQRS, sidecars, probabilistic development, code as documentation and others.  You will be able to see past the monolith and understand the new problems and patterns that help in modern distributed systems. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "10fe89d2-3c89-4c02-b4da-cf84fda082b8"
+      ],
+      "categoryItems": [
+        330774
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "847706",
+      "title": "Rediscovering Entity Framework Core: Speed, Flexibility, and Power for Modern Development",
+      "description": "Are you tired of wrestling with data access layers and managing complex database interactions in your applications? It’s time to give Entity Framework Core (EF Core) another look. This session will show you how EF Core has evolved and why it’s now an even more powerful and flexible tool for modern application development.\r\n\r\nWhether you’re building cloud-native apps, microservices, or just looking for a faster and more efficient way to interact with databases, EF Core has significantly improved in performance, scalability, and ease of use. We’ll dive into the latest features, optimizations, and best practices that make EF Core an indispensable tool for developers in today’s fast-paced world.\r\n\r\nFrom raw performance gains to advanced querying capabilities, to the flexibility of working with various databases (SQL Server, SQLite, PostgreSQL, and more), EF Core has become a highly capable, cross-platform solution for all your data access needs.\r\n\r\nIn this session, we’ll explore the latest EF Core performance enhancements, how they can supercharge your apps, and how to leverage new features like improved raw SQL support, better LINQ performance, and advanced migrations. We'll also talk tips and tricks for making the most of EF Core in your projects, including best practices for working with complex models and optimizing queries.\r\n\r\nIf you’ve written off EF Core in the past, this session will change your mind. Come see why it’s time to give EF Core a second chance and why it might just be the perfect fit for your next project!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e4808bf3-8fc2-43e5-b9d0-303f77f43547"
+      ],
+      "categoryItems": [
+        330773
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "847987",
+      "title": "Side Quests: How creative tinkering and exploration can transform you, one side project at a time",
+      "description": "If you're anything like me, you like to build fun things and have fun while doing so. In this fun talk we'll talk about the value of side projects as a tool for perpetual learning, growth, emotional health, and career development in the tech world.\r\n\r\nWe'll tour the landscape of side projects and why you might want to pick one up, how to select a side project and get started with one, how to constrain the scope of a side project and make progress against it, and how to bring side projects to their inevitable conclusion.\r\n\r\nSide projects aren't easy, though, and so we'll talk about getting unstuck, finding time for side projects, what to do when you're bored of a side project (or tempted by a new one), and ways of growing and staying healthy in those seasons of life when side projects just aren't feasible.\r\n\r\nAlong the way, you'll hear some tales of interesting, innovative, amusing, and even horrifying side projects I've taken on over the years and hear a few specific ways that side projects have impacted myself and those I've had the privilege of mentoring.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "17c299ee-d9fd-4020-b499-2837b2b3a2bf"
+      ],
+      "categoryItems": [
+        330778
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "836316",
+      "title": "Spaces, squares, and circles - an intro to UI design",
+      "description": "Are you a techie that has found yourself in charge of laying out and designing screens?  Do you find yourself staring at screens that just don't \"feel right\" but it is hard to pinpoint why.  Maybe a few design basics can get you back in the game.  In this talk, Ash (an experienced UX researcher and designer) will take you through the basics of UI design to help your screens look clean, professional, and pleasing to the eye.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "49d109f0-32cf-4187-aedc-dcfcf234a92e"
+      ],
+      "categoryItems": [
+        330779
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "843735",
+      "title": "Taking a Gamble With Functional Domain Modeling",
+      "description": "Over the past few years, Functional Programming has entered the mainstream when it comes to libraries and frameworks for various kinds of technologies and there are plenty of tutorials and resources to learn the basics.\r\n\r\nWith that being said, when it comes to building something non-trivial, there's a gap between what tutorials cover and real-world situations. For example, how do we model a system that makes illegal states unrepresentable? How do we handle operations that can fail? How do we combine business rules with application rules?\r\n\r\nIn this talk, I'm going to show you how to tackle these concerns as we model the game of Blackjack. By doubling down on concepts like algebraic data types, Options, and Results, you'll learn how to build applications that work in the real world.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "62ebafd8-8470-4415-bc16-6949e5c80f5b"
+      ],
+      "categoryItems": [
+        330773
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "840595",
+      "title": "Testing Strategies for Monoliths and Microservices",
+      "description": "In any software architecture, be it monolithic or microservice, how you test your code directly influences its quality and reliability. In this session, we'll delve into a variety of testing strategies that ensure your code handles both expected and unexpected scenarios with confidence. We'll begin by exploring foundational approaches such as unit, integration, and end-to-end testing, complemented by practical tips and real code examples that demonstrate how to effectively use mocks, proxies, and simulation stubs.\r\n\r\nMoving beyond the basics, we'll tackle advanced testing techniques, including performance, load, and chaos testing, to ensure your systems are resilient under pressure. Finally, we’ll discuss how to integrate these testing strategies into your CI/CD pipelines, empowering you to build and deploy robust applications in an enterprise environment.\r\n\r\nBy the end of this session, you'll have a well-rounded understanding of essential testing practices and actionable insights to apply them effectively in your own projects.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "4e80240f-231a-47a5-b3c3-a01acff8832d"
+      ],
+      "categoryItems": [
+        328816
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "854502",
+      "title": "The Power of Playwright: Scaling UI Testing for Robust Application Delivery",
+      "description": "Step up your application’s reliability with Playwright, the cutting-edge tool for scalable, automated UI testing. This session dives into practical strategies for integrating Playwright into your CI/CD pipeline, ensuring every deployment meets high standards for functionality and resilience. Learn how to set up end-to-end tests that operate seamlessly across different environments, enabling continuous testing that doesn’t disrupt your development process. Join me to see how Playwright can drive the stability and quality of your applications, setting a new standard for continuous excellence.\r\n\r\nKey Takeaway 1: Discover how automated UI testing with Playwright strengthens application stability and user experience.\r\n\r\nKey Takeaway 2: Learn how to leverage Playwright for scalable, intuitive web UI testing across different platforms.\r\n\r\nKey Takeaway 3: Gain actionable techniques to integrate Playwright into your CI/CD pipeline for continuous, resilient testing.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1891b260-8833-46ec-b5bc-907c0105f730"
+      ],
+      "categoryItems": [
+        328816
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "848127",
+      "title": "Using Web Components to Scale Your UX",
+      "description": "Whether you're a company with a variety of projects or an app that uses micro-front-end architecture, creating a consistent and reliable user experience can be time consuming and difficult.\r\n\r\nIn this session, we will discuss how, at Microsoft, we have leveraged web components to standardize our user experiences across multiple platforms and improve developer efficiency.\r\n\r\nAttendees will leave this session with knowledge about web components and how they can be used to create framework agnostic user experiences.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b642eabd-7250-4ac5-b3b0-ce01951b88aa"
+      ],
+      "categoryItems": [
+        315124
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     }
   ],
-  "speakers": [],
+  "speakers": [
+    {
+      "id": "052dca4e-e8ad-44d5-88ad-f4bdc3714968",
+      "firstName": "Aaron",
+      "lastName": "Cutshall, DHA, MSHI",
+      "bio": "Dr. Aaron N. Cutshall is a proven leader in Healthcare Informatics with nearly 40 years of experience in application and database analysis, design, and development. He focuses on clinical quality and massive databases. He actively speaks nationwide at conferences and user group sessions on data architecture, analytics, and professional development topics.",
+      "tagLine": "Honest Health, Director, Data Services",
+      "profilePicture": "https://sessionize.com/image/deba-400o400o1-raMYsB5Dh8DFBe58p6HGRe.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/sqlrv",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/sqlrv/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.sqlrv.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.sqlrv.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        848197
+      ],
+      "fullName": "Aaron Cutshall, DHA, MSHI",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "6fc0c6b2-0d52-4738-8c7d-4013e397d444",
+      "firstName": "AL",
+      "lastName": "Rodriguez",
+      "bio": "AL Rodriguez is a developer, cloud enthusiast, sometimes-blogger, and definitely NOT 3 kids in a trench coat. His background with .NET will usually take over when he starts a new project. Whether it’s a backend, frontend, UI testing, or even Infrastructure as Code, C# is his first thought for developing high quality solutions.",
+      "tagLine": "Developer, Developer, Developer",
+      "profilePicture": "https://sessionize.com/image/a2c2-400o400o1-7H3KmwFk5rkUbXZBDve3kB.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/ProgrammerAL",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/ProgrammerAL",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://ProgrammerAL.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "BlueSky",
+          "url": "https://bsky.app/profile/ProgrammerAL.com",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        836201
+      ],
+      "fullName": "AL Rodriguez",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "5c386803-b673-4259-a6ce-d85e1fd0a016",
+      "firstName": "Alex",
+      "lastName": "Riviere",
+      "bio": "Alex Riviere is a Senior Frontend Developer for Nexcor Technologies and a Co-Organizer for the Atlanta Vue.js Meetup.",
+      "tagLine": "Co-Organizer for Atlanta Vue.js Meetup",
+      "profilePicture": "https://sessionize.com/image/2a67-400o400o1-Gvb6U4BXbHxWHRApqyTe58.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/fimion",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "Blog",
+          "url": "https://alex.party",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        849060
+      ],
+      "fullName": "Alex Riviere",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "49d109f0-32cf-4187-aedc-dcfcf234a92e",
+      "firstName": "Ash",
+      "lastName": "Banaszek",
+      "bio": "Ash Banaszek is a passionate and outspoken UX advocate at Valorem Reply with over a decade of experience in the field. Ash holds a masters of science in information science from Missouri University of Science and Technology in Rolla, MO and returns to occasionally guest lecture in human factors and human-computer interaction courses.  Ash has a passion for teaching and getting folks to that \"ah-hah\" moment about UX. As an avid proponent of creating technology people want to use, Ash's eternal quest is to destroy technology that gets people so frustrated that they want to chuck it out of a window. Outside of righting tech wrongs, Ash is an award-winning Toastmaster and uses public speaking experience to infuse humor and thought-provoking questions into talks. You can follow Ash at linkedin.com/in/ashmb or ux-ash.com",
+      "tagLine": "UX Product Lead",
+      "profilePicture": "https://sessionize.com/image/860d-400o400o1-SyysvHizy83R9cr49PcuaF.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/ashmb",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://ux-ash.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://ux-ash.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        836316
+      ],
+      "fullName": "Ash Banaszek",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e4808bf3-8fc2-43e5-b9d0-303f77f43547",
+      "firstName": "Barret",
+      "lastName": "Blake",
+      "bio": "Microsoft MVP, husband, father, speaker, mentor, writer, solutions architect, former manager, developer, gamer, Buckeyes fan, model railroader. When I'm not doing all that other stuff I also occasionally develop applications. Find links to my previous speaking, podcasts and sessions at my website: https://barretblake.dev",
+      "tagLine": "#MicrosoftMVP, speaker, husband, father, solutions architect, manager, developer, gamer, Buckeyes fan, model railroader",
+      "profilePicture": "https://sessionize.com/image/0d94-400o400o1-Dc7G7MqgRQdxCvhDFwtvfL.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/barretblake",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://barretblake.dev",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.cgi.com/en",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Bluesky",
+          "url": "https://bsky.app/profile/barretblake.dev",
+          "linkType": "Other"
+        },
+        {
+          "title": "Mastadon",
+          "url": "https://mstdn.social/@barret",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        847706
+      ],
+      "fullName": "Barret Blake",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "b9c9b80c-b534-476f-b78c-17a89234bf8b",
+      "firstName": "Brandon",
+      "lastName": "Bruno",
+      "bio": "Brandon has been hacking away at code since a dusty Commodore 64 appeared from his parents' attic in the early 90's, but has spent the last 15 years building client solutions in .NET, JavaScript, and Sitecore DXP. He is currently a Solution Engineer at Sitecore, Inc. and is active in the Sitecore community as a former Sitecore MVP (2018 - 2021). He focuses on solution architecture, content management, application security, and software simplification.",
+      "tagLine": "Solution Engineer at Sitecore, Inc.",
+      "profilePicture": "https://sessionize.com/image/1e49-400o400o1-sjNLcvrthjycbTw5nLQRk7.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/brandonbruno/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://blog.brandonbruno.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.sitecore.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        846583
+      ],
+      "fullName": "Brandon Bruno",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1dbfb6bc-c1f2-44af-9294-3614597b165e",
+      "firstName": "Brendan",
+      "lastName": "Enrick",
+      "bio": "I've been speaking about coding for over a decade. Everything changes, but everything is the same. \r\n\r\nI write code to solve problems, and I try to leave things nicer than I found them. I have fun while doing it. Let's write code and talk about code together!",
+      "tagLine": "Mentoring, Training, and Coaching Developers",
+      "profilePicture": "https://sessionize.com/image/ff1e-400o400o1-Nhbh9sAeXRqYKpaBuHA3Tq.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/brendoneus",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "Blog",
+          "url": "http://brendan.enrick.com/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        842088
+      ],
+      "fullName": "Brendan Enrick",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "13924f5b-13f0-4fd8-a0bf-06f633dad5c9",
+      "firstName": "Brian",
+      "lastName": "McKeiver",
+      "bio": "Brian McKeiver is Co-Owner at BizStream, digital agency in Allendale, MI. At BizStream he is a solution architect, visionary, Microsoft Azure MVP, Kentico Xperience MVP, and Kontent.ai MVP. He has over 20 years of experience leading his agency of more than 35 employees, about a hundred clients spread out across North America, and one heck of an interesting story of how it all started from a two-person team. In addition to his expertise in web development, cloud, integration, and digital marketing, Brian is active with the tech community via his blog at Mcbeev.com. ",
+      "tagLine": "Microsoft Azure MVP; Co-Owner at BizStream",
+      "profilePicture": "https://sessionize.com/image/97b3-400o400o1-nSLP29cVu9YTX6vADBG9Rd.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/mcbeev",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/brianmckeiver/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.mcbeev.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.bizstream.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        840380
+      ],
+      "fullName": "Brian McKeiver",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "b642eabd-7250-4ac5-b3b0-ce01951b88aa",
+      "firstName": "Burton",
+      "lastName": "Smith",
+      "bio": "I am a technical lead at Microsoft working with design systems and web components.\r\n\r\nI am also the creator of various open-source projects like Kickstand UI (a design system built with web components - kickstand-ui.com) and Clarion (a style framework for managing design systems - projectclarion.com).\r\n\r\nIn my free time, I love spending time with my wife and three daughters, practicing martial arts, jamming on my ukulele, and learning new things (usually about software engineering).",
+      "tagLine": "Technical Lead at Microsoft",
+      "profilePicture": "https://sessionize.com/image/a176-400o400o1-RK53QgNQm7o2xatLDp6RRh.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/stuffbreaker",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/burton-smith-48132a34/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://dev.to/stuffbreaker",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.microsoft.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        848127
+      ],
+      "fullName": "Burton Smith",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "62ebafd8-8470-4415-bc16-6949e5c80f5b",
+      "firstName": "Cameron",
+      "lastName": "Presley",
+      "bio": "Cameron Presley is a Consultant for Lean TECHniques (https://leantechniques.com/), a speaker, and a Microsoft MVP in Developer Technologies.\r\n\r\nBased out of Charlotte, North Carolina, Cameron has ten years of experience working with start-ups and large enterprise both publicly and privately held to architect solutions, implement solutions, and training developers to be better today than what they were yesterday!\r\n\r\nIn his spare time, Cameron can be found hanging out with his family, playing board games, jamming on the bass guitar, and reading books.",
+      "tagLine": "Knowledge Sharer and Problem Solver",
+      "profilePicture": "https://sessionize.com/image/d675-400o400o1-UnSBPiUNot5D6eQ1HzDxbH.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/pcameronpresley",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/pcameronpresley",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://blog.thesoftwarementor.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://blog.thesoftwarementor.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        843735
+      ],
+      "fullName": "Cameron Presley",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "76842364-2733-4aea-a940-7c81195e5120",
+      "firstName": "Chad",
+      "lastName": "Green",
+      "bio": "Chad Green is a seasoned Senior Systems Architect at Jasper Engines & Transmissions with a distinguished career spanning over three decades in building customer-centric solutions. Currently, he leads the migration of legacy applications to cloud-native technologies. Chad’s impactful career includes roles across diverse industries such as automotive, senior living, education, healthcare, government, financial, chemical, safety, and consumer goods.\r\n\r\nBeyond his professional pursuits, Chad is a dedicated community leader, having organized and assisted in numerous conferences and meetups for over 15 years. Recognized as a Microsoft Most Valuable Professional (MVP), Chad’s global influence extends to his active role in organizing meetups and speaking at national and international events.\r\n\r\nA proud father, loving husband, and United States Marine Corps veteran, Chad channels his diverse interests into building intricate Lego sets and a detailed Lego city.",
+      "tagLine": "Sr. Systems Architect at Jasper Engines | Cloud Tech Leader | Microsoft MVP | Speaker & Innovator | USMC Vet | Lego Builder #Tech #Cloud #Community",
+      "profilePicture": "https://sessionize.com/image/a9bc-400o400o1-GpTtxw8dMdVCLJnsP9ChSg.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://www.twitter.com/chadgreen",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/chadwickgreen/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.chadgreen.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.jasperengines.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        847827
+      ],
+      "fullName": "Chad Green",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "4e80240f-231a-47a5-b3c3-a01acff8832d",
+      "firstName": "David",
+      "lastName": "Lucas",
+      "bio": " David Lucas is a software engineer with over 25 years of experience in IT to include Fortune 500 companies. He has a diverse background covering satellite communications, financial processing, smart grid utilities, manufacturing, shipping automation, e-Commerce, insurance, big data, performance, and security.  David is a consultant that enjoys problem solving along with designing, implementing, and testing large-scale software solutions (on-premise or cloud) on the JVM/Docker/Kubernetes platform as well as mentoring and training others in the art and science of software.  He is a Kotlin enthusiast and has been working on Server-Side Kotlin microservices for the last 5 years.  David is the owner and primary engineer of Lucas Software Engineering, Inc., and provides both remote and on-site consulting in the Columbus, Ohio area.   He enjoys presenting at local and national user groups and is a member of the ACM.",
+      "tagLine": "Kotlin Server-Side Enthusiast",
+      "profilePicture": "https://sessionize.com/image/4cce-400o400o1-pTvP2Efnp5bWKQWjARkppX.jpeg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/DavidDLucas",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/ddlucas",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        840595
+      ],
+      "fullName": "David Lucas",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a1bb832b-5d10-4914-8150-dfdae9875e8a",
+      "firstName": "Dev",
+      "lastName": "Agrawal",
+      "bio": "I build and teach how to build awesome fullstack applications. I work as a software engineer at Smart Data, I'm a core team member of Solid.js, and I make content on YouTube and Twitch. I talk about web development, architecture, reactive programming, home brewing coffee, and heavy metal music.",
+      "tagLine": "Software Engineer, Smart Data",
+      "profilePicture": "https://sessionize.com/image/8c7d-400o400o1-YRnv4ZDkgXA5CEbRzY1NKx.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/devagrawal09",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/dev-agr",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://devagr.me/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://smartdata.net/",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "YouTube",
+          "url": "https://youtube.com/@devagr",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        842459
+      ],
+      "fullName": "Dev Agrawal",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "18586bf9-1ad6-4187-a789-abbdc91520cc",
+      "firstName": "DJ",
+      "lastName": "Daugherty",
+      "bio": "Ever since DJ decided not to pursue a career as a Jedi (age 12), he has been drawn to making things. He is not a left or a right-brain thinker — he uses the whole thing. DJ loves spending time in both the creative and technology worlds. As the CTO of augustwenty, his ability to balance between creative and analytical thinking fits him to a T. DJ's primary focus is shaping the technical direction and vision of augustwenty’s continued development, with particular attention between culture and growth. \r\n\r\nDJ has spent the last (too many to mention) years using his ability to understand a business' needs and the technology required to deliver on their opportunities. He helps narrow their focus to the most important and valuable 'thing', delivering value to the businesses he helps as well as the customers they serve. He has spent time working with a very large, yellow and green, tractor company... adding the ability to 'drive themselves'. He has also spent lots of time working on building Autonomous Drive Systems (ADS) for the automotive industry. The last couple of years building a testing platform that enables software developers unfamiliar with the process of testing the interface between hardware and software to do so, quickly and efficiently.\r\n\r\nSome notable clients include Enron, John Deere, Ford, FiniteState, Path Robotics, NuCamp, Crown, DriveOhio, Case New Holland, Fiat Chrysler, Amazon AWS, Microsoft Azure/MCVP.\r\n\r\nOutside of work, DJ can usually be found on two wheels—bicycling or motorcycling. He spends a lot of his spare time bicycling to cure cancer… Pelotonia. You can also catch him fly fishing in the great outdoors or building autonomous drones.",
+      "tagLine": "augustwenty, CTO",
+      "profilePicture": "https://sessionize.com/image/639e-400o400o1-NBzsXLvXCkVCaPPwPhhhWh.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/daughertydj/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://augustwenty.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        845433
+      ],
+      "fullName": "DJ Daugherty",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e3d60e4b-9d07-4dc0-b02d-9d4e3d6ece9b",
+      "firstName": "Jeremy",
+      "lastName": "Clark",
+      "bio": "Jeremy helps developers by sharing his own struggles, mostly in technology, but also with being more social as an introvert, understanding potential for learning, and playing banjo. He has worked as a corporate developer, as a Chief Improvement Officer at a startup, and as a contract developer. Currently, he teaches developers through online courses, workshops, tech articles, and conference talks. He spends most of his time in C# and has recently ventured into Go (golang) and Rust (rust-lang) to explore some of his favorite topics: interfaces, delegates, concurrency, and parallel programming.",
+      "tagLine": "Developer Betterer",
+      "profilePicture": "https://sessionize.com/image/1bd6-400o400o1-fYV2EeFqomEjiifJPztKuJ.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/jeremybytes",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "http://www.linkedin.com/pub/jeremy-clark/2/682/21a",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://jeremybytes.blogspot.com",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        847785
+      ],
+      "fullName": "Jeremy Clark",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "44406a2e-5504-47d4-8fef-6d5c110704a0",
+      "firstName": "Kathryn",
+      "lastName": "Grayson Nanz",
+      "bio": "In 2013, I graduated with a BFA and took my first job as a Junior Graphic Designer at a small, boutique ad agency. While there, my Creative Director warned me to never let anyone find out I could code, because if I did I'd be stuck doing it forever. I ignored his warning; it turns out he was completely right, but I've never been happier. \r\n\r\nI currently work as a developer advocate on a wonderful team where I help people build web applications in React, design and maintain their UI component libraries, and desperately attempt to stop back-end devs from writing any more CSS.",
+      "tagLine": "UI Designer & Front-end Developer",
+      "profilePicture": "https://sessionize.com/image/5c0a-400o400o1-VtRqBrXs52D45KWN5WgwxL.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/kathryngrayson",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/kathryngrayson/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://kgrayson.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.telerik.com/kendo-ui",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        836066
+      ],
+      "fullName": "Kathryn Grayson Nanz",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "17c299ee-d9fd-4020-b499-2837b2b3a2bf",
+      "firstName": "Matt",
+      "lastName": "Eland",
+      "bio": "An AI Specialist and Wizard at Leading EDJE who is known to teach software engineering, AI, and data science concepts in the most ridiculous ways possible. Matt has used machine learning to settle debates over whether Die Hard is a Christmas movie, reinforcement learning to drive the behavior of digital squirrels, data analytics to suggest improvements to his favorite TV show, and AI agents to play board games and create an AI agent with the personality of a dog. Matt is the author of \"Data Science in .NET with Polyglot Notebooks\" and \"Refactoring with C#\" as well as several LinkedIn Learning courses. Matt helps organize the Central Ohio .NET Developer Group, runs several blogs and a YouTube channel, has a Master’s of Science in Data Analytics, and is a current Microsoft MVP in AI and .NET.",
+      "tagLine": "AI Specialist & Wizard at Leading EDJE",
+      "profilePicture": "https://sessionize.com/image/a665-400o400o1-7NGiz9KaduJtrqHefWg6B1.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/IntegerMan",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/matteland/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://MattOnML.NET",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://LeadingEDJE.com",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Portfolio",
+          "url": "https://MattEland.dev",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        847987
+      ],
+      "fullName": "Matt Eland",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "bb817af8-6c17-4701-aa6e-129a227f8cb0",
+      "firstName": "Matt",
+      "lastName": "Righter",
+      "bio": "Matt is a lifelong learner who finds inspiration in the experiences of the people using the products he creates. By immersing himself in their perspectives, he gains a deep understanding of their needs, enabling him to design and build software that delivers meaningful and effective solutions.",
+      "tagLine": "augustwenty - Solutions Consultant",
+      "profilePicture": "https://sessionize.com/image/0a7c-400o400o1-VZAPhpdSuf4UwKeqLz4y6y.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Company Website",
+          "url": "https://www.augustwenty.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        845433
+      ],
+      "fullName": "Matt Righter",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a9011c65-6287-4529-ac91-56a8b9daa9a9",
+      "firstName": "Mitchel",
+      "lastName": "Sellers",
+      "bio": "Mitchel Sellers is globally known as a 16-time Microsoft MVP, an ASPInsider, a DNN MVP, is an MCP (Microsoft .NET, ASP.NET and SQL Server), and CEO of IowaComputerGurus Inc. Sellers has a deep understanding of software development and when speaking focuses on proper architecture standards, performance, stability, security, and overall cost-effectiveness of delivered solutions. This message and his abilities resonate in the technical war room as well as the executive board room. \r\n\r\nMitchel is a prolific public speaker, presenting more than 400 sessions at user groups and conferences globally, such as DevUp, SDN, and Code PaLOUsa. Sellers has been the author of multiple books and a regular blogger on technology topics.\r\n\r\nWhen Mitchel is not working in technology, you will find him flying his airplane, teaching others how to fly, or spending time with his family He is also actively involved in the Open Source Community working diligently to further the movement. Find out more about Sellers at his website http://www.mitchelsellers.com.",
+      "tagLine": "Flying Code Ninja!",
+      "profilePicture": "https://sessionize.com/image/6de8-400o400o1-SGDx1owbbyMaz74g1KUGgJ.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://www.twitter.com/mitchelsellers",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/mitchelsellers/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.mitchelsellers.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.iowacomputergurus.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        848832
+      ],
+      "fullName": "Mitchel Sellers",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1891b260-8833-46ec-b5bc-907c0105f730",
+      "firstName": "Randy",
+      "lastName": "Pagels",
+      "bio": "I am a seasoned DevOps Architect and GitHub Trainer at Xebia USA, with over three decades of experience driving cloud adoption, application modernization, and DevOps excellence. Specializing in GitHub technologies like Advanced Security, GitHub Copilot, and GitHub Actions, I bring a deep focus on Infrastructure as Code and CI/CD pipeline management. I am passionate about educating and empowering clients through strategic consulting and hands-on training, helping organizations enhance their development practices on Azure and scale their cloud operations efficiently.",
+      "tagLine": "DevOps Architect and GitHub Trainer at Xebia USA | Microsoft Services",
+      "profilePicture": "https://sessionize.com/image/0eca-400o400o1-3pnk7VMLzZu3yF1A68T7nU.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/RandyPagels",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/randy-pagels/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.linkedin.com/in/randy-pagels/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://xebia.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        854502
+      ],
+      "fullName": "Randy Pagels",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "3963f1e7-00c7-47ba-9c88-9f1d9be28b43",
+      "firstName": "Robert",
+      "lastName": "Herbig",
+      "bio": "Robert Herbig is passionate about leading teams to deliver products users love.\r\n\r\nHe is a Lead Software Engineer at SEP, a software product design and development company. In his 15+ years in the software industry, he has worked on products ranging in size from small apps to enterprise systems; embedded, desktop, web, and cloud platforms; and in a variety of markets and domains including aerospace, medical, agriculture, construction, and secure communication.\r\n\r\nAs an AI Practice Lead at SEP, he strives to educate clients and peers about what AI can do, identify complex problems AI can address in whole or in part, and incorporate AI into software products that make a difference for their users.",
+      "tagLine": "AI Practice Lead at SEP",
+      "profilePicture": "https://sessionize.com/image/8e29-400o400o1-nntDrhduMjHZ856ok5W8wD.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/RobertHerbig",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/RobertHerbig",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.RobertHerbig.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://sep.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        848014
+      ],
+      "fullName": "Robert Herbig",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "2042b753-d7bf-4b6c-9fd2-27f86f0dcdef",
+      "firstName": "Ryan",
+      "lastName": "Carroll",
+      "bio": "Ryan loves putting software and technology to work solving fun and interesting problems both at work and in his personal life. He believes that tackling problems with technology can be a fun and rewarding experience. Ryan has been a full-stack software engineer for over 8 years working primarily with APIs and web stacks. When he's not coding, Ryan can often be found enjoying the peace and grounding of the great outdoors hiking, camping, and kayaking. ",
+      "tagLine": "Sr Software Engineer - CoverMyMeds",
+      "profilePicture": "https://sessionize.com/image/bf6d-400o400o1-YMMi2ZYGxg1N1AasMKjiiQ.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/carrollmedia/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        844088
+      ],
+      "fullName": "Ryan Carroll",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "fc1d0cd3-9675-4188-aa98-e0088069f1a4",
+      "firstName": "Sam",
+      "lastName": "Basu",
+      "bio": "Sam Basu is a technologist, author, speaker, Microsoft MVP and a Developer Advocacy Manager at Progress Software. With a long developer background, he now spends much of his time advocating modern development platforms & tools on Microsoft/Telerik technology stacks. His spare times call for travel, fast cars, cricket and culinary adventures. You can find him on the internet.",
+      "tagLine": "Developer Advocate",
+      "profilePicture": "https://sessionize.com/image/9947-400o400o1-d3-9675-4188-aa98-e0088069f1a4.0788eacd-acef-44d2-868e-cf111b1f2516.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/samidip",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "Blog",
+          "url": "https://samidipbasu.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.telerik.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        848387
+      ],
+      "fullName": "Sam Basu",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a4f0ab32-035e-4e73-aff6-17c868194d26",
+      "firstName": "Sandi",
+      "lastName": "Barr",
+      "bio": "Sandi Barr is a Front-end Architect at RAZR Marketing where she collaborates with teams of engineers building Angular applications in an Nx monorepo. As a contributor to Angular ESLint, Sandi has made several improvements and additions to the accessibility rule set. Outside of life behind a keyboard, Sandi would almost always rather be out riding one of her electric unicycles, skateboards, or e-bike.",
+      "tagLine": "Front-end Architect",
+      "profilePicture": "https://sessionize.com/image/4afb-400o400o1-4BNyQdKaBvumsYqeVKP16Z.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/sandikbarr",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://dev.to/sandikbarr",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        846995
+      ],
+      "fullName": "Sandi Barr",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "612b0314-b229-4052-8c02-b75e8cd7c214",
+      "firstName": "Stephanie",
+      "lastName": "Wightman",
+      "bio": "A seasoned tech leader with over 15 years of experience, Stephanie has worn many hats, from founding engineer to technical director. Stephanie has explored diverse fields such as finance, autonomous robots, military, and farming where she balances established technologies with exploring experimental innovations. She has previously presented at WITCON as well as various panels for universities and bootcamps. Fostering an inclusive environment in Columbus' growing tech scene is a priority for Stephanie and she spends her free time judging robotics competitions for FIRST, serving on the Women in STEM Advisory Council for FIRST Ohio, and volunteering as a startup advisor.",
+      "tagLine": "Senior Software Engineer",
+      "profilePicture": "https://sessionize.com/image/3aad-400o400o1-G6xMSXSAweiNXNdLsCqAXD.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/stephanie-wightman/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        849160
+      ],
+      "fullName": "Stephanie Wightman",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "10fe89d2-3c89-4c02-b4da-cf84fda082b8",
+      "firstName": "Stephen",
+      "lastName": "Shary",
+      "bio": "I am a full-stack developer and technical lead that uses Python, JVM languages and Javacript.  I enjoy functional programming, delivering production code as fast as possible and robust automated testing. I work with teams to overhaul their projects, improve code quality, speed delivery to production and improve culture.\r\n\r\nI am also working in machine learning and AI to improve areas ability to provide accurate data and supplement gaps with predictions.  I focus on neural networks with Keras and Tensorflow.  I am learning how to productionalize data science to become a platform for companies and departments",
+      "tagLine": "Principal Engineer at ACV Auctions",
+      "profilePicture": "https://sessionize.com/image/3ca1-400o400o1-PuezF65S9S285d8iprV28Y.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/StephenShary",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/stephenshary/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        847868
+      ],
+      "fullName": "Stephen Shary",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "895833fa-4bbd-4d2a-bc58-195064458f4e",
+      "firstName": "Tasha",
+      "lastName": "Penwell",
+      "bio": "Tasha Penwell is the founder and developer of Pretty Nerdy where she provides digital marketing services. She specializes in developing Snapchat filters and Alexa Skills.",
+      "tagLine": "Pretty Nerdy, Founder/Developer",
+      "profilePicture": "https://sessionize.com/image/777b-400o400o1-GKiKjWErTpa1W1tSfTA7Tp.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/PenwellTasha",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/tashapenwell/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://prettynerdydigitalmarketing.com/category/lens-studio-for-educators/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://bytesandbits.org/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        840085
+      ],
+      "fullName": "Tasha Penwell",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "c53b081c-6035-47f5-a606-91e83963556b",
+      "firstName": "Tristan",
+      "lastName": "Chiappisi",
+      "bio": "With over a decade and a half of programming and working with data, I have a passion for anything related to the subject. If it has something to do with technology, I'm in.\r\n\r\nBeyond my professional realm, I'm a dad to a vibrant crew of young adventurers. Together, we seek out outdoor thrills, from skiing to biking, in my perpetual quest to earn the 'cool dad' badge.",
+      "tagLine": "Principal Data Architect - Cetera",
+      "profilePicture": "https://sessionize.com/image/f60d-400o400o1-LYc2B1UHoNYDWigW58CibZ.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/tristanchiappisi/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        847197
+      ],
+      "fullName": "Tristan Chiappisi",
+      "categoryItems": [],
+      "questionAnswers": []
+    }
+  ],
   "questions": [],
   "categories": [
     {
@@ -266,51 +1575,5 @@
       "type": "session"
     }
   ],
-  "rooms": [
-    {
-      "id": 56813,
-      "name": "Concourse",
-      "sort": 0
-    },
-    {
-      "id": 56814,
-      "name": "Room 1",
-      "sort": 1
-    },
-    {
-      "id": 56815,
-      "name": "Room 2",
-      "sort": 2
-    },
-    {
-      "id": 60356,
-      "name": "Room 3",
-      "sort": 4
-    },
-    {
-      "id": 60357,
-      "name": "Room 4",
-      "sort": 5
-    },
-    {
-      "id": 60358,
-      "name": "Room 5",
-      "sort": 6
-    },
-    {
-      "id": 60359,
-      "name": "Room 6",
-      "sort": 7
-    },
-    {
-      "id": 60360,
-      "name": "Room 7",
-      "sort": 8
-    },
-    {
-      "id": 60361,
-      "name": "Room 8",
-      "sort": 9
-    }
-  ]
+  "rooms": []
 }

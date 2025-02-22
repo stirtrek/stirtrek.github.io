@@ -6,7 +6,7 @@
 
     
 
-    <title>Press Release: Stir Trek Celebrates 15 Years of Igniting Innovation in Software Development - Stir Trek</title>
+    <title>Jeremy Clark - Stir Trek</title>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
@@ -15,12 +15,12 @@
     <!-- Twitter Card data -->
     <meta name="twitter:card" value="summary">
     <meta name="twitter:site" value="@StirTrek">
-    <meta name="twitter:title" value="Press Release: Stir Trek Celebrates 15 Years of Igniting Innovation in Software Development - Stir Trek">
+    <meta name="twitter:title" value="Jeremy Clark - Stir Trek">
     <meta name="twitter:description" value="Stir Trek is a one-day conference in Columbus, Ohio focused on teaching software developers the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a private screening of a blockbuster film on its opening day.">
     <meta name="twitter:image" value="/icons/opengraph.jpg">
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Press Release: Stir Trek Celebrates 15 Years of Igniting Innovation in Software Development - Stir Trek" />
+    <meta property="og:title" content="Jeremy Clark - Stir Trek" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://stirtrek.com" />
     <meta property="og:image" content="/icons/opengraph.jpg" />
@@ -178,32 +178,223 @@
 
             <div class="container">
 
+                <div class="body-content" role="main">
+
+    <style>
+        .speakerAvatarBioStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "avatar     bio         bio";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            column-gap: 40px;
+
+            margin-bottom: 40px;
+        }
+
+        .speakerSessionStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "abstract   abstract    time"
+                "abstract   abstract    stirTrek";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            column-gap: 40px;
+            grid-row-gap: 40px;
+        }
+
+        @media only screen and (max-width:990px) {
+
+            .speakerAvatarBioStrip,
+            .speakerSessionStrip {
+                display: block;
+            }
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel {
+            grid-area: avatar;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+            color: black;
+
+            text-align: center;
+        }
+
+        .speakerSessionStrip .abstractPanel {
+            grid-area: abstract;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerAvatarBioStrip .bioPanel {
+            grid-area: bio;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            grid-area: stirTrek;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+        }
+
+        .speakerSessionStrip .timeAndRoomPanel {
+            grid-area: time;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel,
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%),
+                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%),
+                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                linear-gradient(40deg, #c48b2fb3 0, #f7c16ab3 30%, #dbab5bb3 50%, #dbab5bb3 70%, #c48b2fb3 100%);
+        }
+
+        .stirTrekPanelImage {
+            background-image: url('/images/StirTrek-Emblem-Gold-400x588.png');
+            width: 100%;
+            height: 100%;
+            background-position: center;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body,
+        .speakerSessionStrip .comic-panel-body {
+            position: relative;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-header,
+        .speakerSessionStrip .comic-panel-header {
+            position: absolute;
+            top: -35px;
+            left: -25px;
+        }
+
+        .speakerAvatarBioStrip .speakerImage {
+            width: 80%;
+            border-radius: 50%;
+            border: 6px solid #111c2e;
+            margin: 2em auto 0;
+        }
+
+        .speakerAvatarBioStrip .speakerTagline {
+            vertical-align: middle;
+        }
+
+        .speakerAvatarBioStrip .speakerBio {
+            margin-top: 5%;
+        }
+
+
+        @media only screen and (max-width:990px) {
+
+            .speakerAvatarBioStrip .comic-panel-body,
+            .speakerSessionStrip .comic-panel-body {
+                border: 20px solid white;
+                padding: 30px 20px;
+                margin-bottom: 40px;
+            }
+
+            .speakerAvatarBioStrip .comic-panel-header,
+            .speakerSessionStrip .comic-panel-header {
+                top: -35px;
+                left: -45px;
+            }
+
+            .speakerAvatarBioStrip .speakerImage {
+                display: block;
+                margin: 0px auto;
+                margin-top: 2em;
+            }
+
+            .speakerAvatarBioStrip .speakerTagline {
+                width: 100%;
+                display: block;
+                text-align: center;
+            }
+
+            .speakerSessionStrip .stirTrekPanel {
+                display: none;
+            }
+        }
+    </style>
+
+    <div class="speakerAvatarBioStrip">
+        <div class="avatarPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Jeremy Clark!
+            </div>
+
+            <div>
+                <img src="/images/speakers/2025/Jeremy-Clark.jpg" class="img-responsive speakerImage">
+            </div>
+
+            <div class="speakerTagline">
+                <h3>
+                    Developer Betterer
+                </h3>
+            </div>
+        </div>
+        <div class="bioPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Bio!
+            </div>
+
+            Jeremy helps developers by sharing his own struggles, mostly in technology, but also with being more social as an introvert, understanding potential for learning, and playing banjo. He has worked as a corporate developer, as a Chief Improvement Officer at a startup, and as a contract developer. Currently, he teaches developers through online courses, workshops, tech articles, and conference talks. He spends most of his time in C# and has recently ventured into Go (golang) and Rust (rust-lang) to explore some of his favorite topics: interfaces, delegates, concurrency, and parallel programming.
+        </div>
+
+    </div>
+    <a id="abstract"></a>
+    <div class="speakerSessionStrip">
+        <div class="abstractPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Session!
+            </div>
+            
+                <h2>
+                    Design Patterns: Not Just for Architects
+                </h2>
+                <br>
+                <div>
+                    Design patterns are not just for architects. In fact, you already use design patterns without even knowing it. Observer, Facade, Iterator, Proxy -- these are just a few of the patterns that you have probably used. But it is really hard to use a tool effectively when you don&#39;t even know you are using it. So let&#39;s fix that.
+
+In this session, you will learn what design patterns are (and what they are not). You will see both the benefits and consequences of patterns. And you will see several of the Gang of Four patterns that use already use (they may even be built into your programming language). Don&#39;t know who the Gang of Four is? You&#39;ll learn that, too. Once we understand design patterns, we can find solutions that people way smarter than us have already implemented. This gives us another set of tools that we can use to build great software.
+                </div>
                 
-<div class="body-content" role="main">
+        </div>
+
+        <div class="timeAndRoomPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Where/When?
+            </div>
+
+            
+                
+                        <h2>Schedule TBD</h2>
+                        
+
+                            
+                                    
 
 
-    <h1 id="Press-Release-Stir-Trek-Celebrates-15-Years-of-Igniting-Innovation-in-Software-Development"><a href="#Press-Release-Stir-Trek-Celebrates-15-Years-of-Igniting-Innovation-in-Software-Development" class="headerlink" title="Press Release: Stir Trek Celebrates 15 Years of Igniting Innovation in Software Development"></a>Press Release: Stir Trek Celebrates 15 Years of Igniting Innovation in Software Development</h1><p>Since its inception in 2009, Stir Trek has been dedicated to its mission of keeping the technology community abreast of the latest trends, tools, and practices in software development. The conference brings together thought leaders, innovators, and enthusiasts from various sectors to share their knowledge and experiences. It’s a unique blend of learning and entertainment, where attendees can update their skills in multiple tracks of sessions before unwinding with a blockbuster film.</p>
-<h3 id="Celebrating-15-Years-of-Excellence-in-Technology-and-Community-Engagement"><a href="#Celebrating-15-Years-of-Excellence-in-Technology-and-Community-Engagement" class="headerlink" title="Celebrating 15 Years of Excellence in Technology and Community Engagement"></a>Celebrating 15 Years of Excellence in Technology and Community Engagement</h3><p>The 15th anniversary of Stir Trek marks a significant milestone in its journey of fostering a vibrant community of tech professionals in Ohio and beyond. This year’s conference will feature:</p>
-<ul>
-<li><strong>Amazing Speakers:</strong> Renowned figures in the software development and technology space will share information about a variety of technical and career-related topics.</li>
-<li><strong>Breakout Sessions:</strong> A wide range of topics covering the latest in software architecture, agile methodologies, cloud computing, and much more. Sessions are designed to cater to both seasoned professionals and those new to the field.</li>
-<li><strong>Networking Opportunities:</strong> Attendees will have the chance to connect with peers, meet potential mentors, and discuss opportunities with representatives from leading tech companies.</li>
-<li><strong>Entertainment:</strong> True to tradition, the conference will conclude with a private movie screening, offering attendees a chance to relax and socialize.</li>
-</ul>
-<h3 id="A-Force-for-Good-Community-and-Charity"><a href="#A-Force-for-Good-Community-and-Charity" class="headerlink" title="A Force for Good: Community and Charity"></a>A Force for Good: Community and Charity</h3><p>Stir Trek is more than just a conference; it’s a community-driven event that believes in giving back. Each year the conference organizes a MEGA FOOD DRIVE to support local food banks. Attendees are encouraged to bring non-perishable food items to the event. The 2023 event donated over 1400 pounds of food!</p>
-<p>Stir Trek supports the <a target="_blank" rel="noopener" href="https://www.stirscholarship.org/">Stir Scholarship</a>, providing support for women in Computer Science programs. To date, the program has awarded over $87,000 in scholarships.</p>
-<h3 id="Join-Us-in-Celebrating-15-Years-of-Stir-Trek"><a href="#Join-Us-in-Celebrating-15-Years-of-Stir-Trek" class="headerlink" title="Join Us in Celebrating 15 Years of Stir Trek"></a>Join Us in Celebrating 15 Years of Stir Trek</h3><p>We invite software developers, IT professionals, and technology enthusiasts to join us in celebrating this significant milestone. Whether you’re looking to stay on the cutting edge of technology, eager to network, or just enjoy a good movie with fellow techies, Stir Trek is the place to be this spring.</p>
-<p><strong>Date:</strong> 3 May 2024<br><strong>Location:</strong> AMC Easton 30, Columbus, Ohio<br><strong>Registration &amp; More Information:</strong> Visit <a href="https://stirtrek.com/">Stir Trek’s official website</a> for details on registration, speaker lineups, session schedules, and more.</p>
-<p>Don’t miss out on this opportunity to be part of a special event that combines the best of technology learning and entertainment. Let’s celebrate 15 years of learning, growth, and community together at Stir Trek.</p>
-<p>For press inquiries and more information, please contact:  </p>
-<p><strong>Email</strong>: <a href="mailto:&#105;&#x6e;&#102;&#111;&#x40;&#115;&#116;&#105;&#x72;&#116;&#x72;&#101;&#x6b;&#46;&#99;&#x6f;&#109;">&#105;&#x6e;&#102;&#111;&#x40;&#115;&#116;&#105;&#x72;&#116;&#x72;&#101;&#x6b;&#46;&#99;&#x6f;&#109;</a></p>
-<hr>
-<p><em>Stir Trek is committed to providing a welcoming and inclusive environment for all participants. We adhere to a strict code of conduct to ensure a positive experience for everyone involved.</em></p>
+        </div>
 
-
-    
-
-
+        <div class="stirTrekPanel comic-panel-body">
+            <div class="stirTrekPanelImage"></div>
+        </div>
+    </div>
 </div>
             </div>
 

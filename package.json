@@ -23,7 +23,7 @@
     "js-yaml": "^4.1.0"
   },
   "scripts": {
-    "build": "node ./scripts/download-speaker-images.js && hexo clean && hexo generate",
-    "buildTest": "node ./scripts/download-speaker-images.js && hexo clean && hexo generate"
+    "build": "hexo clean && hexo generate",
+    "buildTest": "hexo clean && hexo generate"
   }
 }

@@ -177,6 +177,28 @@
       "isConfirmed": true
     },
     {
+      "id": "840163",
+      "title": "Code to Clarity: Communicating Technical Concepts to a Non-Technical Audience",
+      "description": "In an era where technological advancements shape our world, the ability to communicate complex technical concepts to non-technical stakeholders is paramount. \"Code to Clarity,\" is a dynamic session designed to help bridge the communication gap. Uncover the power of storytelling, visual aids, and analogies to demystify intricate technical jargon, fostering a shared understanding and facilitating more effective collaboration. Whether you're a developer, engineer, or tech leader, this session empowers you with the skills to articulate your ideas, innovations, and solutions in a way that captivates and enlightens diverse stakeholders. Elevate your communication prowess and leave equipped to transform complexity into clarity, fostering a stronger connection between the tech realm and the broader world.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "dcda8749-2066-4bef-85a4-b953b7b4c8af"
+      ],
+      "categoryItems": [
+        330778
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "847785",
       "title": "Design Patterns: Not Just for Architects",
       "description": "Design patterns are not just for architects. In fact, you already use design patterns without even knowing it. Observer, Facade, Iterator, Proxy -- these are just a few of the patterns that you have probably used. But it is really hard to use a tool effectively when you don't even know you are using it. So let's fix that.\r\n\r\nIn this session, you will learn what design patterns are (and what they are not). You will see both the benefits and consequences of patterns. And you will see several of the Gang of Four patterns that use already use (they may even be built into your programming language). Don't know who the Gang of Four is? You'll learn that, too. Once we understand design patterns, we can find solutions that people way smarter than us have already implemented. This gives us another set of tools that we can use to build great software.",
@@ -366,6 +388,28 @@
       ],
       "categoryItems": [
         330773
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "837395",
+      "title": "Lights, Camera, Github Actions!",
+      "description": "Getting your code on stage has never been easier with Github Actions! But how do you get started? Workflows? Composite Actions? Runners? Producing a build and deployment pipeline doesn’t need to be Hollywood magic. In this talk, we’ll discuss what goes into a Github Action Workflow, how to structure your build and deployment processes, and why all of this matters. When you leave this showing, we’ll have your audience of stakeholders applauding so you won’t end up with a dud at the box-office. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "852b5a52-7bc3-4072-8404-aa3345a125a7"
+      ],
+      "categoryItems": [
+        330775
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -574,6 +618,28 @@
       "isConfirmed": true
     },
     {
+      "id": "848909",
+      "title": "The Power of Dev Containers and GitHub Codespaces",
+      "description": "Dive into the future of software development with our session on Dev Containers and GitHub Codespaces. Dev Containers bring reproducibility and consistency across any platform with Docker, simplifying project onboarding and setup. GitHub Codespaces takes this a step further, offering scalable, cloud-hosted development environments, accessible from anywhere.\r\n\r\nIn this session, you'll gain insights into:\r\nDev Containers Fundamentals: Understand their role in creating consistent development environments.\r\nGitHub Codespaces Integration: Explore how Codespaces enhances Dev Containers, providing flexible, cloud-based development.\r\nPractical Implementation: Learn to configure Dev Containers for your projects, including tool installation, VS Code extensions, port forwarding, and software setup.\r\nMaximizing Codespaces: Discover how to customize Codespaces for remote development efficiency.\r\n\r\nJoin us to embrace these cutting-edge tools, transforming your development process and team collaboration.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "2ebd8578-298f-45ae-b71b-dc076037b080"
+      ],
+      "categoryItems": [
+        330773
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "854502",
       "title": "The Power of Playwright: Scaling UI Testing for Robust Application Delivery",
       "description": "Step up your application’s reliability with Playwright, the cutting-edge tool for scalable, automated UI testing. This session dives into practical strategies for integrating Playwright into your CI/CD pipeline, ensuring every deployment meets high standards for functionality and resilience. Learn how to set up end-to-end tests that operate seamlessly across different environments, enabling continuous testing that doesn’t disrupt your development process. Join me to see how Playwright can drive the stability and quality of your applications, setting a new standard for continuous excellence.\r\n\r\nKey Takeaway 1: Discover how automated UI testing with Playwright strengthens application stability and user experience.\r\n\r\nKey Takeaway 2: Learn how to leverage Playwright for scalable, intuitive web UI testing across different platforms.\r\n\r\nKey Takeaway 3: Gain actionable techniques to integrate Playwright into your CI/CD pipeline for continuous, resilient testing.",
@@ -608,6 +674,28 @@
       ],
       "categoryItems": [
         315124
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "846264",
+      "title": "WebAssembly beyond the browser: a better way to build extensible software",
+      "description": "The WebAssembly component model brings a rich, language agnostic type system to WebAssembly and makes it practical for server side application development. Programming languages that are able to target WebAssembly components include Python, C/C++/C#, javascript, rust, and go, with additional languages being rapidly added to this list. Taken together, all this means we have a better way to let users extend our software. Where we used to do an awkward dance of webhooks and API calls, we can now safely (due the no-privilege by default nature of WebAssembly) host and execute user code within our application. In this session, we’ll see how projects like NGINX are embracing WASM components for extending their system. We’ll learn how to build and host WASM components in multiple languages with code examples so you can add WASM component support to your next application. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "911aa52a-b0e0-42d7-99c2-e6701cfefcb0"
+      ],
+      "categoryItems": [
+        330773
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -1002,6 +1090,95 @@
       "questionAnswers": []
     },
     {
+      "id": "2ebd8578-298f-45ae-b71b-dc076037b080",
+      "firstName": "Chris",
+      "lastName": "Ayers",
+      "bio": "Chris Ayers is a Senior Site Reliability Engineer on Microsoft’s AzRel Risk SRE team, drawing on years of experience in cloud architecture, software development, and DevOps practices. He’s passionate about continuous improvement, driving reliability, and sharing industry best practices. Outside of work, Chris is a devoted father, technology enthusiast, and avid gamer. Connect with him online to explore insights into cloud operations, agile methodologies, and more.",
+      "tagLine": "Senior SRE @ Microsoft",
+      "profilePicture": "https://sessionize.com/image/6d49-400o400o1-DFFYxH72h9yFP2F9fqwvgG.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/Chris_L_Ayers",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/chris-l-ayers/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://chris-ayers.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.microsoft.com",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Mastodon",
+          "url": "https://hachyderm.io/@Chrisayers",
+          "linkType": "Other"
+        },
+        {
+          "title": "Credly",
+          "url": "https://www.credly.com/users/chris-ayers/badges",
+          "linkType": "Other"
+        },
+        {
+          "title": "blueky",
+          "url": "https://bsky.app/profile/chrisayers.bsky.social",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        848909
+      ],
+      "fullName": "Chris Ayers",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "911aa52a-b0e0-42d7-99c2-e6701cfefcb0",
+      "firstName": "Chris",
+      "lastName": "Nelson",
+      "bio": "Chris Nelson is a Co-Founder of Launch Scout. He created the company’s apprenticeship program, mentors new developers, and sets technology direction. He loves sharing what he’s learned from over 25 years of developing software across a wide range of industries. Chris has given workshops across the country and spoken at conferences including ElixirConf, RailsConf, RubyConf, JavaOne, CodeMash and Scottish Ruby Conf.",
+      "tagLine": "Co-Founder and Principal Engineer",
+      "profilePicture": "https://sessionize.com/image/2da1-400o400o1-2a-b0e0-42d7-99c2-e6701cfefcb0.a944d54a-eb9d-4300-b373-b5561ffacbd8.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "http://twitter.com/superchris",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/chris-nelson-038875/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://launchscout.com/blog",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://launchscout.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        846264
+      ],
+      "fullName": "Chris Nelson",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "4e80240f-231a-47a5-b3c3-a01acff8832d",
       "firstName": "David",
       "lastName": "Lucas",
@@ -1094,6 +1271,43 @@
         845433
       ],
       "fullName": "DJ Daugherty",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "dcda8749-2066-4bef-85a4-b953b7b4c8af",
+      "firstName": "Elena",
+      "lastName": "Marquetti-Ali",
+      "bio": "Elena is a highly-rated professional speaker with 20+ years of experience as a leadership coach, group facilitator and collegiate faculty member. Elena works with groups, individuals, and organizations to amplify their authenticity and empower them to become effective leaders.  Elena is the President of and Lead Consultant with Marquetti Consulting. ",
+      "tagLine": "Marquetti Consulting - President & Lead Consultant",
+      "profilePicture": "https://sessionize.com/image/509a-400o400o1-EnVnZRV7LD9h2prVMmfoMj.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/MarquettiCsltg",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/elenamarquetti",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.marquetticonsulting.org/blog",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.marquetticonsulting.org",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        840163
+      ],
+      "fullName": "Elena Marquetti-Ali",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -1306,6 +1520,28 @@
         848832
       ],
       "fullName": "Mitchel Sellers",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "852b5a52-7bc3-4072-8404-aa3345a125a7",
+      "firstName": "Nicole",
+      "lastName": "Hoying",
+      "bio": "Nicole Hoying is a Senior Solutions Engineer with Leading EDJE. She has more than 15 years of development experience across several different industries. She once got approached to work for a video game company when she was 16 but doesn’t like to talk about it. Nicole currently resides in Westerville, OH with her roommate and a substantial number of cats.",
+      "tagLine": "Senior Solutions Engineer - Leading EDJE",
+      "profilePicture": "https://sessionize.com/image/33e9-400o400o1-3sP1QfsuFveaAP1XozvJUq.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/nicole-hoying-83397656/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        837395
+      ],
+      "fullName": "Nicole Hoying",
       "categoryItems": [],
       "questionAnswers": []
     },

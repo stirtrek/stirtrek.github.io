@@ -1,4 +1,4 @@
-name: Nightly Content Update
+name: Speaker/Session Content Update
 
 on:
   schedule:
@@ -47,6 +47,9 @@ jobs:
 
       - name: Run build schedule script
         run: node ./scripts-manuallyexecuting/build-schedule-from-sessions.js
+
+      - name: Download speaker images
+        run: node ./scripts-manuallyexecuting/download-speaker-images.js
 
       - name: Commit and push changes
         run: |

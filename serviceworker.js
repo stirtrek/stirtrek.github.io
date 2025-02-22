@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1740237769649';
+var CACHE = 'network-or-cache-1740237851313';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -64,10 +64,10 @@ self.addEventListener('fetch', function(evt) {
 "/info/codeofconduct/index.html",
 "/info/commitmenttodiversity/",
 "/info/commitmenttodiversity/index.html",
-"/info/history/",
-"/info/history/index.html",
 "/info/contact/",
 "/info/contact/index.html",
+"/info/history/",
+"/info/history/index.html",
 "/info/press/2024-02-10.html",
 "/info/press/",
 "/info/press/index.html",

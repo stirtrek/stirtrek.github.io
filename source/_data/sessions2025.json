@@ -45,6 +45,50 @@
       "isConfirmed": true
     },
     {
+      "id": "845962",
+      "title": "Behind the Scenes of Tailwind CSS",
+      "description": "Have you ever thought about creating your own CSS utility library like Tailwind CSS? \r\n\r\nIn this talk, we’ll explore how Tailwind generates its extensive utility classes and manages arbitrary values. We’ll also examine the build process, focusing on how Tailwind CSS removes unused styles from the final project. Finally, \r\nwe'll discover how Tailwind maintains speed and efficiency when your project is deployed on the web, ensuring optimal performance and a streamlined experience for developers and users alike.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5a99fd8a-e0a8-4f32-a0f1-709e8bd7d056"
+      ],
+      "categoryItems": [
+        315124
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "844584",
+      "title": "Beyond the Basics: Designing Web APIs for Long Term Success",
+      "description": "You've seen all the tutorials and getting-started guides promising a quick path to a web API: pick between REST or GraphQL, choose an API framework, and deploy it to the cloud. But what happens when you need to modify, expand, share, or overhaul that API once it is already live in production?\r\n\r\nIn this talk, we’ll explore the real-world challenges we faced as our web APIs evolved over several years. We’ll discuss how initial decisions and insufficient planning led us into pitfalls, resulting in tech debt and obstacles when it came time to evolve our APIs.\r\n\r\nBy addressing design concerns like a well-documented API specification, versioning, Infrastructure as Code (IaC), an API gateway, and enhanced observability, we can avoid future rework and minimize disruption for our customers. Join us to learn strategies for navigating the complexities of evolving APIs and ensuring a smoother path from inception to long-term success.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c85a2ada-5d69-4621-8d06-9b082fc66363"
+      ],
+      "categoryItems": [
+        330773
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "847197",
       "title": "Big Tables, Big Problems: Scaling Beyond SQL",
       "description": "As your data grows, even the best SQL databases can struggle with massive tables and complex queries. This talk explores when to offload those big tables to NoSQL solutions like DynamoDB or Elasticsearch to improve performance and scalability. You’ll learn how to identify the right time to make the switch, integrate NoSQL into your architecture, and optimize for analytics, search, or historical data. Leave with practical strategies to keep your applications fast and ready to scale.",
@@ -915,6 +959,38 @@
       "questionAnswers": []
     },
     {
+      "id": "5a99fd8a-e0a8-4f32-a0f1-709e8bd7d056",
+      "firstName": "Braydon",
+      "lastName": "Coyer",
+      "bio": "Braydon Coyer is a Senior Frontend Engineer at LogicGate, where he plays a key role in developing an automated Governance, Risk, and Compliance (GRC) platform. As a creative developer, blogger, and designer, he enjoys tinkering and sharing his projects with the public. Braydon lives in Texas with his wife and daughter.",
+      "tagLine": "Senior Frontend Engineer at LogicGate",
+      "profilePicture": "https://sessionize.com/image/513d-400o400o1-HLt2yhtpZrNVPVZh5Zc36m.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://x.com/BraydonCoyer",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/braydon-coyer/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://braydoncoyer.dev/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        845962
+      ],
+      "fullName": "Braydon Coyer",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "1dbfb6bc-c1f2-44af-9294-3614597b165e",
       "firstName": "Brendan",
       "lastName": "Enrick",
@@ -1350,6 +1426,38 @@
         849053
       ],
       "fullName": "Gene Gotimer",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "c85a2ada-5d69-4621-8d06-9b082fc66363",
+      "firstName": "Jeff",
+      "lastName": "Valore",
+      "bio": "Jeff has over 20 years of experience in software development, covering everything from CSS to CDK. He enjoys contributing to open source projects, JavaScript development, tackling CI and deploy automation, and tinkering with Arduinos. Jeff makes it his mission to set up teams for success and enable those around him to accomplish their goals.",
+      "tagLine": "Web dev, JS mentor, Yarn contributor, and teck tinkerer.",
+      "profilePicture": "https://sessionize.com/image/35b6-400o400o1-VxmYhhyn1hZp5pv78DBmDa.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/CodingWithSpike",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jeff-valore-267489290/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://codingwithspike.wordpress.com/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        844584
+      ],
+      "fullName": "Jeff Valore",
       "categoryItems": [],
       "questionAnswers": []
     },

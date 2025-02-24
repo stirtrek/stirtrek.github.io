@@ -1,6 +1,29 @@
 {
   "sessions": [
     {
+      "id": "844342",
+      "title": "65.8 Million Americans Can’t Access Your Software",
+      "description": "Session Overview:  \r\n\r\nOften, people dismiss accessibility with the statement, “People with disabilities do not use my site.” The same argument was heard when ADA became law in 1990. For example, bus operators complained that they should not have to make their buses accessible because people in wheelchairs did not ride them. Of course they didn’t, because they couldn’t. There is no way to detect whether a visitor to your site has a disability. Are you sure people with disabilities don’t use your site? If they don’t, is it because it is not as accessible as it could be? We can help! \r\n\r\nThis session aims to provide a broad overview of how people with disabilities interact with websites and applications. By examining common assistive technologies, best practices, and real-world examples, attendees will gain insights into how to make their websites more inclusive and usable for everyone- regardless of ability. The session will explore how design choices can enhance accessibility for all users.  \r\n\r\nTarget Audience:  \r\n\r\nThis session is targeted at web developers, designers, and accessibility advocates who want to create more inclusive web experiences. This session will provide valuable insights and actionable advice for improving web accessibility.  ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6ebb7073-3325-409b-8bff-0d6d2d9a496c",
+        "f1e370db-00e4-4ca9-95f5-a380ae77b849"
+      ],
+      "categoryItems": [
+        330779
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "848197",
       "title": "An Enterprise Data Architecture Framework",
       "description": "One of the challenges facing enterprise architecture is maintaining consistency across the enterprise. This is challenging because data comes from disparate sources and systems representing different purposes, focuses, and objectives. On top of that, there needs to be more clarity regarding the terms Data Lake, Data Warehouse, Operational Data Store, etc. To overcome these challenges at an enterprise level, a framework is necessary to apply data uniformly, consistently, and meaningfully. The framework will transform data from multiple, disparate data sources into an operational data store, a consistent, homogeneous environment, as the single dependable source of truth for all reporting and analytics.\r\n\r\nThis session will present that framework and discuss the following:\r\n\t• The challenges facing data analytics and reporting due to multiple disparate data sources\r\n\t• An introduction to the various terms used today for data storage\r\n\t• The purpose of an Operational Data Store and how it improves data usability\r\n\t• The data zones for Raw, Refined, and Published data\r\n\t• How data standards simplify and enhance data usability\r\n\t• A method to provide primary and foreign keys across disparate data",
@@ -13,6 +36,28 @@
       ],
       "categoryItems": [
         330774
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "847091",
+      "title": "Authentication Demystified: Basic Auth to Web Tokens in 60 minutes",
+      "description": "Have you ever searched for \"how to authenticate an API call\" and been confused by the dizzying array of techniques, terminology, jargon, and acronyms that come back? \r\n\r\nThis session is designed for anyone that's struggling to make sense of modern authentication options. You'll learn the differences between OAuth, API Keys, HMAC, JSON Web Tokens (JWT), SAML, OpenID Connect, and passkeys using Webauthn. Each technique will be explained in a clear, practical, easy-to-understand way.\r\n\r\nThis session focuses on core concepts, not code, and is accessible to anyone that works with technology.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b7235790-4c4a-491c-a8a1-1ed82a5d70b3"
+      ],
+      "categoryItems": [
+        328813
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -354,6 +399,28 @@
       "isConfirmed": true
     },
     {
+      "id": "843130",
+      "title": "Florida Man Uses Cache as Database",
+      "description": "Florida Man loves speed. He loves it so much that he’s going to do the unthinkable—he's going to use a cache as his primary database. We'll explore just how Florida Man will do this without losing persistence and without having to drop ACID—that's atomicity, consistency, isolation, and durability. And we'll see that Florida Man can have all the CRUD a database provides and the blazing fast speed that a cache provides.\r\n\r\nWe'll do this with an app that would make Florida Man proud. I've cooked up a service that screen scrapes websites with articles featuring his exploits and loads them into Redis—my cache of choice. On top of this, I've built a website that allows users to view and search for articles—using tags, keywords, and vector search.\r\n\r\nI'll show how all of it works—covering the details above—and explain what vector search and embeddings are in a way that even Florida Man could understand. And, of course, I'll demo it live so we can find the Florida Man stories you need to see.\r\n\r\nWhen it's all said and done, you'll see how a cache like Redis can be persistent, ACID-compliant, and even searchable. You'll have an intuitive understanding of vector search, and—best of all—you'll have an app that you can use to start your own projects.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "520bf4ca-b2d3-47c3-8475-c25bb2b257f7"
+      ],
+      "categoryItems": [
+        330776
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "848931",
       "title": "For Your Eyes Only: Roles, Privileges, and Security in PostgreSQL",
       "description": "Security is an essential, yet often misunderstood, part of effectively managing a PostgreSQL cluster. As the popularity and adoption of PostgreSQL continues to grow, the interaction of roles, privileges, and object ownership is a recurring theme of confusion in forums and mailing lists.\r\n\r\nIn this session, I’ll start by defining the Principle of Least Privileges and how this philosophy influences roles and privileges in PostgreSQL. Next, I’ll demonstrate the importance of object ownership in PostgreSQL, how group and user roles can work in unison to effectively manage permissions, multiple ways to manage default privileges, and which privileges should always be modified in any new PostgreSQL database. Finally, I’ll discuss how recent releases are laying a foundation for more flexible and robust security management in the years ahead.\r\n\r\nBy the end of this session, you will understand how roles work in PostgreSQL, how they impact your daily work, and how to effectively communicate security best practices with others on your team. You’ll leave with a solid information to start creating roles that effectively manage access to your cluster and data.",
@@ -388,6 +455,28 @@
       ],
       "categoryItems": [
         328813
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "847093",
+      "title": "Home Automation - Without The Cloud!",
+      "description": "Modern \"smart\" homes are dumb; your lights shouldn't stop working because your Internet is down, and your new doorbell shouldn't compromise your network security.\r\n\r\nA smarter and more secure home doesn't depend on cloud services or a disparate array of apps to function, and it's easier than you might think to achieve total local control. A dash of technical knowledge, a dab of DIY elbow grease, and this session are all you need to get started. \r\n\r\nIn this session you'll learn how to choose and install a local hub, which devices work best (Zigbee vs Z-Wave vs Wifi), and how to integrate lights, plugs, sensors, and switches without the cloud. You'll also learn how to add smart features like remote control and push notifications to your existing \"dumb\" appliances and how to use voice control without Alexa or Google.\r\n\r\nCome take a tour through the land of smart, local home automation and stop being dependent on someone else's computers!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b7235790-4c4a-491c-a8a1-1ed82a5d70b3"
+      ],
+      "categoryItems": [
+        330777
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -542,6 +631,28 @@
       ],
       "categoryItems": [
         330775
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "843131",
+      "title": "Modern Problems Require Modern Solutions: Finding Your Meme Twin with Embeddings & Vector Databases",
+      "description": "Do you look like a famous meme character? Does someone you know? Knowing this information is vital—both for your career and your personal life. After all, am I the only one around here who wants to avoid [Angry Walter](https://knowyourmeme.com/memes/am-i-the-only-one-around-here)? And who *wouldn't* want to work with  [Success Kid](https://knowyourmeme.com/memes/success-kid-i-hate-sandcastles).\r\n\r\nBut can we even find out if we have a meme twin? There are lots of memes. And lots of people. How could we possibly search them all? Well, it's easier than you think if we turn those memes into embeddings and search them with a vector database!\r\n\r\nBut what's an embedding? And what's a vector database? Well, that's what I'll cover in this session. I'll begin by exploring embeddings, showing how unstructured data, such as text and images, can be translated into hyper-dimensional arrays—called vectors—using both common and custom AI models. Then I'll talk about vector databases, covering what they are and how you can use them to store and search those embeddings with embeddings of your own.\r\n\r\nOf course, we'll do this all by example. I've turned all the big memes—from [Ancient Aliens Guy](https://knowyourmeme.com/memes/ancient-aliens) to [Zombie Boy](https://imgflip.com/memegenerator/184608242/zombie-boy)—into embeddings and have loaded them into a vector database. I've built an application around these embeddings and that database. I'll show you the code and the queries of this application so that you can build something similar for yourself. And, most importantly, we'll take some photos during the session and use it all to find your meme twin!\r\n\r\nSo, are you ready to find your meme twin? Or are you ready to learn how to use this technology? I say, [Why Not Both](https://knowyourmeme.com/memes/why-not-both-why-dont-we-have-both).",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "520bf4ca-b2d3-47c3-8475-c25bb2b257f7"
+      ],
+      "categoryItems": [
+        330776
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -1392,6 +1503,38 @@
       "questionAnswers": []
     },
     {
+      "id": "f1e370db-00e4-4ca9-95f5-a380ae77b849",
+      "firstName": "Dan",
+      "lastName": "Keck",
+      "bio": "Dan has been a web application developer for twenty years, mostly using .NET and Microsoft SQL Server. Since 2020 he has also been working in digital accessibility, helping conduct dozens of product reviews and earning the Certified Professional in Web Accessibility (CPWA) credential from the International Association of Accessibility Professionals (IAAP).",
+      "tagLine": "Web Application Developer/Digital Accessibility Coordinator, The Ohio State University",
+      "profilePicture": "https://sessionize.com/image/faa9-400o400o1-TtG735NxJ3JgzYUTw4DXpB.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/dankeck",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://a11y.social/@dankeck",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Mastodon",
+          "url": "https://a11y.social/@dankeck",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        844342
+      ],
+      "fullName": "Dan Keck",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "4e80240f-231a-47a5-b3c3-a01acff8832d",
       "firstName": "David",
       "lastName": "Lucas",
@@ -1567,6 +1710,44 @@
       "questionAnswers": []
     },
     {
+      "id": "520bf4ca-b2d3-47c3-8475-c25bb2b257f7",
+      "firstName": "Guy",
+      "lastName": "Royse",
+      "bio": "Guy works for Redis as a Developer Advocate. Combining his decades of experience in writing software with a passion for learning—and for sharing what he has learned—Guy explores interesting topics and spreads the knowledge he has gained around developer communities worldwide.\r\n\r\nTeaching and community have long been a focus for Guy. He runs his local JavaScript meetup in Ohio and has served on the selection committees of numerous conferences. He'll happily speak anywhere that will have him and has even has helped teach programming at a prison in central Ohio.\r\n\r\nIn his personal life, Guy is a hard-boiled geek interested in role-playing games, science fiction, and technology. He also has a slightly less geeky interest in history and linguistics. In his spare time he likes to camp and studies history and linguistics.\r\n\r\nGuy lives in Ohio with his wife, his sons, and an entire wall of board and role-playing games.",
+      "tagLine": "Developer Advocate at Redis",
+      "profilePicture": "https://sessionize.com/image/9305-400o400o1-ca-b2d3-47c3-8475-c25bb2b257f7.46c617ba-de75-407a-82ad-9cafa721d559.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/guyroyse",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/groyse",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://guyroyse.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://redis.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        843130,
+        843131
+      ],
+      "fullName": "Guy Royse",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "c85a2ada-5d69-4621-8d06-9b082fc66363",
       "firstName": "Jeff",
       "lastName": "Valore",
@@ -1686,6 +1867,28 @@
         849255
       ],
       "fullName": "Kelly Morrison",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "6ebb7073-3325-409b-8bff-0d6d2d9a496c",
+      "firstName": "Lindsay",
+      "lastName": "Knoll",
+      "bio": "Dan Keck and Lindsay Knoll are Digital Accessibility Coordinators at The Ohio State University. \r\n\r\nLindsay is a former special education teacher for students with moderate/intensive disabilities. She is passionate about equity and accessibility for all. ",
+      "tagLine": "Advancement - IT Digital Accessibility at The Ohio State University",
+      "profilePicture": "https://sessionize.com/image/3369-400o400o1-avhhgnzY4tAeW7vmbciF8K.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/lindsaymichalkiewiczknoll/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        844342
+      ],
+      "fullName": "Lindsay Knoll",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -2075,6 +2278,34 @@
         846995
       ],
       "fullName": "Sandi Barr",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "b7235790-4c4a-491c-a8a1-1ed82a5d70b3",
+      "firstName": "Seth",
+      "lastName": "Petry-Johnson",
+      "bio": "Seth spent 21 years as a professional developer/architect before finally joining the dark side of management. He now spends his days as a pointy-haired boss leading a small-but-mighty product development team in the search for elegant solutions to complex problems. He is passionate about clean architecture, testable systems, and bringing order to chaos. Seth lives in Columbus, OH and is an active participant in the Midwest developer community. He'll write TPS reports when he has to, but still enjoys writing, reviewing, and talking about code.",
+      "tagLine": "Pointy-haired boss by day, coder by night",
+      "profilePicture": "https://sessionize.com/image/e25b-400o400o1-apT1veHMEsTzkNtDX4hGKo.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/spetryjohnson",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/sethpetryjohnson/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        847091,
+        847093
+      ],
+      "fullName": "Seth Petry-Johnson",
       "categoryItems": [],
       "questionAnswers": []
     },

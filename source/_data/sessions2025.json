@@ -134,6 +134,28 @@
       "isConfirmed": true
     },
     {
+      "id": "849232",
+      "title": "Beyond the Basics - Building Reusable Code with Blazor",
+      "description": "Stop writing the same code over and over again.  With the reusable components in Blazor, you can make your projects simpler and your code processes more productive.  Join Microsoft's Jeff Fritz from the .NET team as we learn about building components and even writing a few unit tests for Blazor",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0b437ec7-f68b-4aeb-8a93-2d8aaf3766e5"
+      ],
+      "categoryItems": [
+        315124
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "844584",
       "title": "Beyond the Basics: Designing Web APIs for Long Term Success",
       "description": "You've seen all the tutorials and getting-started guides promising a quick path to a web API: pick between REST or GraphQL, choose an API framework, and deploy it to the cloud. But what happens when you need to modify, expand, share, or overhaul that API once it is already live in production?\r\n\r\nIn this talk, we’ll explore the real-world challenges we faced as our web APIs evolved over several years. We’ll discuss how initial decisions and insufficient planning led us into pitfalls, resulting in tech debt and obstacles when it came time to evolve our APIs.\r\n\r\nBy addressing design concerns like a well-documented API specification, versioning, Infrastructure as Code (IaC), an API gateway, and enhanced observability, we can avoid future rework and minimize disruption for our customers. Join us to learn strategies for navigating the complexities of evolving APIs and ensuring a smoother path from inception to long-term success.",
@@ -355,7 +377,7 @@
     },
     {
       "id": "845433",
-      "title": "DMX Channels and Water Cannons: The Geeky Anatomy of a Modern Splash Pad     NEW  7:20",
+      "title": "DMX Channels and Water Cannons:  The Geeky Anatomy of a Modern Splash Pad",
       "description": "At augustwenty, we pride ourselves on an insights-driven approach that prioritizes understanding what makes each project unique—from the technological underpinnings to the human aspects of working together. In our collaboration with the City of Hilliard, Ohio, we exemplified this difference by overcoming outdated systems and complex challenges. We designed and deployed a Splash Pad system using Elixir, Phoenix, and a low-power Raspberry Pi to seamlessly engage the local community and foster meaningful social experiences.\r\nThis session will explore how augustwenty’s combination of reverse engineering, stakeholder interviews, and modern software architecture resulted in a cost-effective, reliable solution with zero downtime. Attendees will learn how focusing on scalability, fault-tolerance, and minimal maintenance can drastically improve operations for municipal recreation projects and beyond. By sharing our methodology and lessons learned, we aim to inspire other teams to build vibrant, future-ready solutions that enhance community well-being while reducing long-term costs.",
       "startsAt": null,
       "endsAt": null,
@@ -531,6 +553,28 @@
       "isConfirmed": true
     },
     {
+      "id": "839912",
+      "title": "How To Use BlueSky and LinkedIn to Find a Job",
+      "description": "Mass applying to jobs just does NOT work anymore. And if you don't know someone at a company you are probably on the outside looking in. After being a traditional recruiter for 10+ years and learning how to leverage social media to be seen, I want to give that same knowledge to you. I have seen countless amount of developers use my tactics and end up finding jobs on their own!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9afd55df-9c81-4898-921f-6ef922e559f9"
+      ],
+      "categoryItems": [
+        330778
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "836066",
       "title": "I didn't know HTML / CSS could do THAT!",
       "description": "While the flashiest news of the web dev world is often focused on the big frameworks (React, Angular, Vue, etc.), good ol’ HTML and CSS have also been quietly – but steadily – upping their game. If you haven’t taken a look lately, this is the perfect time to catch up! We’ll look at recent (and slightly older but lesser-known) developments in HTML and CSS that may surprise you. Who knows: you might even be able to ditch a JS library or two that you didn’t even know you don’t need anymore!",
@@ -597,6 +641,28 @@
       "isConfirmed": true
     },
     {
+      "id": "849214",
+      "title": "Intro to Temporal: JS Dates That Do Not Suck",
+      "description": "Temporal is a new ECMAScript stage 3 proposal for handling dates (and times!) that will be built-in to the language and forever change how dates are handled in JavaScript.  Finally after 20 years handling dates in JavaScript without a third party library will no longer suck!  In this talk we'll go over all of the new types and utility methods in Temporal and how to use them and talk about when you can start using it in production.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "4cda60c3-e972-44cf-aa9e-32d0f49e8eb3"
+      ],
+      "categoryItems": [
+        330773
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "846583",
       "title": "JavaScript: The (Really) Good Parts",
       "description": "JavaScript is a little-known up-and-coming programming language with stunningly beautiful syntax, strong type-checking, and a simple, obvious API. No, wait, I have that backwards. In fact, JavaScript is the most widely deployed language in the world with a long and complicated history that frequently makes it the butt of developer jokes.\r\n\r\nLet's dispel some myths and study the best features of JavaScript from classic ECMAScript 3 (1999) through the latest and greatest of ES2022. If you're still using jQuery or other libraries to fill functionality gaps, this session is all about modernizing your JavaScript while learning to appreciate how far it's come. Concepts include arrow function expressions, classes, template literals, generators, optional chaining, fetch, promises, and much more.",
@@ -609,6 +675,28 @@
       ],
       "categoryItems": [
         330773
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "849234",
+      "title": "Let’s Aspireify a Real World App!",
+      "description": "We’ve learned a lot about .NET Aspire and how it can help us as developers, but what about deploying and running a real application? In this session, you'll learn about the deployment and configuration options for your .NET Aspire application systems. We'll walk you through the configuration and continuous deployment processes for the aspireify.net website that was built and deployed with .NET Aspire. Finally, you will see how you can adapt an existing library to work with .NET Aspire, deliver great telemetry, and deploy easily.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0b437ec7-f68b-4aeb-8a93-2d8aaf3766e5"
+      ],
+      "categoryItems": [
+        315124
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -1276,6 +1364,28 @@
       "questionAnswers": []
     },
     {
+      "id": "4cda60c3-e972-44cf-aa9e-32d0f49e8eb3",
+      "firstName": "Bruce",
+      "lastName": "Hubbard",
+      "bio": "Bruce Hubbard is a Senior Software Developer with VNDLY (a Workday company).  He has been developing for 20+ years in about every framework (Java, .NET, Rails, Node, DJango) but JavaScript has always been his passion.",
+      "tagLine": "Senior Software Developer at VNDLY",
+      "profilePicture": "https://sessionize.com/image/654f-400o400o1-H4Y74XRtYkAz5eYFAjheMt.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/bruce-hubbard-7b18226/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        849214
+      ],
+      "fullName": "Bruce Hubbard",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "b642eabd-7250-4ac5-b3b0-ce01951b88aa",
       "firstName": "Burton",
       "lastName": "Smith",
@@ -1515,11 +1625,6 @@
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/dankeck",
           "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://a11y.social/@dankeck",
-          "linkType": "Blog"
         },
         {
           "title": "Mastodon",
@@ -1776,6 +1881,44 @@
         844584
       ],
       "fullName": "Jeff Valore",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "0b437ec7-f68b-4aeb-8a93-2d8aaf3766e5",
+      "firstName": "Jeffrey T.",
+      "lastName": "Fritz",
+      "bio": "Jeff Fritz is a principal program manager in Microsoft’s Developer Division on the .NET Community Team where he leads development of live video and online content.  Jeff is the executive producer of the .NET Conf series of online events. He is also a Twitch and YouTube partner as well as the founder of the Live Coders stream team.  You can catch Jeff writing .NET Code with GitHub, Visual Studio, and Azure on his video stream called 'Fritz and Friends' at twitch.tv/csharpfritz\r\n",
+      "tagLine": ".NET Community Guy and Live Streamer",
+      "profilePicture": "https://sessionize.com/image/8cb5-400o400o1-nDqq8bsQkLdH1eHCN62pRF.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/csharpfritz",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jeffreytfritz",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://csharpfritz.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://jeffreyfritz.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        849232,
+        849234
+      ],
+      "fullName": "Jeffrey T. Fritz",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -2392,6 +2535,43 @@
         840085
       ],
       "fullName": "Tasha Penwell",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9afd55df-9c81-4898-921f-6ef922e559f9",
+      "firstName": "Taylor",
+      "lastName": "Desseyn",
+      "bio": "Taylor is a skilled people connector, dedicated to helping individuals find their perfect career fit. With over 13+ years of expertise in facilitating ideal matches within the IT industry, he has successfully helped over 1000+ engineers find their dream jobs.\r\n\r\nTaylor's knack for creating community shines through his use of social media and content creation. He's a team-scaling expert, with an emphasis on team growth happening the right way. Currently, his focus is scaling Torc's developer community of over 100k developers across the globe! \r\n\r\nBeyond recruitment, Taylor hosts podcasts, engages with an ever-growing texting/email community, and speaks at conferences-- all to build a thriving tech community nationwide. His mission is simple yet impactful: to show people they're not alone in the job search while providing valuable support and insights every step of the way.",
+      "tagLine": "vp of global community @ torc.dev",
+      "profilePicture": "https://sessionize.com/image/e6e0-400o400o1-fG8igMskiByN1XxoDLj9f9.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/tdesseyn",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/taylordesseyn",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://youtu.be/VQJXW8ggs9w?si=V-CmUa-yCW9-qq7f",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://torc.dev",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        839912
+      ],
+      "fullName": "Taylor Desseyn",
       "categoryItems": [],
       "questionAnswers": []
     },

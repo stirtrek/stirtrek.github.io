@@ -6,7 +6,7 @@
 
     
 
-    <title>Speakers - Stir Trek</title>
+    <title>Taylor Desseyn - Stir Trek</title>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
@@ -15,12 +15,12 @@
     <!-- Twitter Card data -->
     <meta name="twitter:card" value="summary">
     <meta name="twitter:site" value="@StirTrek">
-    <meta name="twitter:title" value="Speakers - Stir Trek">
+    <meta name="twitter:title" value="Taylor Desseyn - Stir Trek">
     <meta name="twitter:description" value="Stir Trek is a one-day conference in Columbus, Ohio focused on teaching software developers the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a private screening of a blockbuster film on its opening day.">
     <meta name="twitter:image" value="/icons/opengraph.jpg">
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Speakers - Stir Trek" />
+    <meta property="og:title" content="Taylor Desseyn - Stir Trek" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://stirtrek.com" />
     <meta property="og:image" content="/icons/opengraph.jpg" />
@@ -178,27 +178,225 @@
 
             <div class="container">
 
+                <div class="body-content" role="main">
+
+    <style>
+        .speakerAvatarBioStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "avatar     bio         bio";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            column-gap: 40px;
+
+            margin-bottom: 40px;
+        }
+
+        .speakerSessionStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "abstract   abstract    time"
+                "abstract   abstract    stirTrek";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            column-gap: 40px;
+            grid-row-gap: 40px;
+        }
+
+        @media only screen and (max-width:990px) {
+
+            .speakerAvatarBioStrip,
+            .speakerSessionStrip {
+                display: block;
+            }
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel {
+            grid-area: avatar;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+            color: black;
+
+            text-align: center;
+        }
+
+        .speakerSessionStrip .abstractPanel {
+            grid-area: abstract;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerAvatarBioStrip .bioPanel {
+            grid-area: bio;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            grid-area: stirTrek;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+        }
+
+        .speakerSessionStrip .timeAndRoomPanel {
+            grid-area: time;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel,
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%),
+                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%),
+                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                linear-gradient(40deg, #c48b2fb3 0, #f7c16ab3 30%, #dbab5bb3 50%, #dbab5bb3 70%, #c48b2fb3 100%);
+        }
+
+        .stirTrekPanelImage {
+            background-image: url('/images/StirTrek-Emblem-Gold-400x588.png');
+            width: 100%;
+            height: 100%;
+            background-position: center;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body,
+        .speakerSessionStrip .comic-panel-body {
+            position: relative;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-header,
+        .speakerSessionStrip .comic-panel-header {
+            position: absolute;
+            top: -35px;
+            left: -25px;
+        }
+
+        .speakerAvatarBioStrip .speakerImage {
+            width: 80%;
+            border-radius: 50%;
+            border: 6px solid #111c2e;
+            margin: 2em auto 0;
+        }
+
+        .speakerAvatarBioStrip .speakerTagline {
+            vertical-align: middle;
+        }
+
+        .speakerAvatarBioStrip .speakerBio {
+            margin-top: 5%;
+        }
+
+
+        @media only screen and (max-width:990px) {
+
+            .speakerAvatarBioStrip .comic-panel-body,
+            .speakerSessionStrip .comic-panel-body {
+                border: 20px solid white;
+                padding: 30px 20px;
+                margin-bottom: 40px;
+            }
+
+            .speakerAvatarBioStrip .comic-panel-header,
+            .speakerSessionStrip .comic-panel-header {
+                top: -35px;
+                left: -45px;
+            }
+
+            .speakerAvatarBioStrip .speakerImage {
+                display: block;
+                margin: 0px auto;
+                margin-top: 2em;
+            }
+
+            .speakerAvatarBioStrip .speakerTagline {
+                width: 100%;
+                display: block;
+                text-align: center;
+            }
+
+            .speakerSessionStrip .stirTrekPanel {
+                display: none;
+            }
+        }
+    </style>
+
+    <div class="speakerAvatarBioStrip">
+        <div class="avatarPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Taylor Desseyn!
+            </div>
+
+            <div>
+                <img src="/images/speakers/2025/Taylor-Desseyn.png" class="img-responsive speakerImage">
+            </div>
+
+            <div class="speakerTagline">
+                <h3>
+                    vp of global community @ torc.dev
+                </h3>
+            </div>
+        </div>
+        <div class="bioPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Bio!
+            </div>
+
+            Taylor is a skilled people connector, dedicated to helping individuals find their perfect career fit. With over 13+ years of expertise in facilitating ideal matches within the IT industry, he has successfully helped over 1000+ engineers find their dream jobs.
+
+Taylor&#39;s knack for creating community shines through his use of social media and content creation. He&#39;s a team-scaling expert, with an emphasis on team growth happening the right way. Currently, his focus is scaling Torc&#39;s developer community of over 100k developers across the globe! 
+
+Beyond recruitment, Taylor hosts podcasts, engages with an ever-growing texting/email community, and speaks at conferences-- all to build a thriving tech community nationwide. His mission is simple yet impactful: to show people they&#39;re not alone in the job search while providing valuable support and insights every step of the way.
+        </div>
+
+    </div>
+    <a id="abstract"></a>
+    <div class="speakerSessionStrip">
+        <div class="abstractPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Session!
+            </div>
+            
+                <h2>
+                    How To Use BlueSky and LinkedIn to Find a Job
+                </h2>
+                <br>
+                <div>
+                    Mass applying to jobs just does NOT work anymore. And if you don&#39;t know someone at a company you are probably on the outside looking in. After being a traditional recruiter for 10+ years and learning how to leverage social media to be seen, I want to give that same knowledge to you. I have seen countless amount of developers use my tactics and end up finding jobs on their own!
+                </div>
                 
-<div class="body-content" role="main">
+        </div>
+
+        <div class="timeAndRoomPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Where/When?
+            </div>
+
+            
+                
+                        <h2>Schedule TBD</h2>
+                        
+
+                            
+                                    
 
 
-    <h1 id="2020-Call-for-Speakers"><a href="#2020-Call-for-Speakers" class="headerlink" title="2020 Call for Speakers"></a>2020 Call for Speakers</h1><div class="icon-hr"></div>
+        </div>
 
-<p>The 2020 Stir Trek CFP opens on 1&#x2F;12&#x2F;2020. <a target="_blank" rel="noopener" href="https://sessionize.com/stir-trek-2020/">You can submit your talks here!</a> We will be announcing speakers at (or around) February 23rd. Watch Twitter for any updates.</p>
-<h2 id="Mailing-List"><a href="#Mailing-List" class="headerlink" title="Mailing List"></a>Mailing List</h2><p>Want to receive updates about the CFP and other key information? <a target="_blank" rel="noopener" href="http://eepurl.com/deQ9An">Sign up here</a>.</p>
-<h2 id="Travel-Reimbursements-Training-Budgets"><a href="#Travel-Reimbursements-Training-Budgets" class="headerlink" title="Travel Reimbursements &amp; Training Budgets"></a>Travel Reimbursements &amp; Training Budgets</h2><p>We’re very pleased to announce that we’re expanding our speaker training program (from 12 speakers, to 24 this year!) while retaining our <strong>$250 speaker travel reimbursement</strong>. </p>
-<h3 id="Training"><a href="#Training" class="headerlink" title="Training"></a>Training</h3><p>If you’re selected when we announce speakers, you’ll have the option to join a professional speaker training course we’ve partnered with <a target="_blank" rel="noopener" href="https://www.articulationinc.com/">Articulation</a> to provide. They coach all the TEDx Columbus speakers, and did a great job last year. This is <strong>completely free to you</strong>.</p>
-<h3 id="Travel"><a href="#Travel" class="headerlink" title="Travel"></a>Travel</h3><p>Additionally, for the 2nd year in a row we’re committing to a minimum of $250 of travel reimbursements to any speaker than needs them. Depending on how many speakers travel, we may be able to cover more. If you’re accepted we’ll provider more details!</p>
-<p>Allowed expenses include transit, hotel, and fuel. If you have a different expense you’d like to include, please email <a href="mailto:&#115;&#112;&#x65;&#97;&#107;&#101;&#x72;&#x73;&#x40;&#115;&#x74;&#105;&#114;&#x74;&#x72;&#101;&#x6b;&#x2e;&#99;&#111;&#109;">&#115;&#112;&#x65;&#97;&#107;&#101;&#x72;&#x73;&#x40;&#115;&#x74;&#105;&#114;&#x74;&#x72;&#101;&#x6b;&#x2e;&#99;&#111;&#109;</a>. You’ll need to book your own travel reservations and submit a receipt on or after the day of the event to get reimbursed.</p>
-<!--# Last Year's (2019) Speakers
-
-<div class="icon-hr"></div>
-<br>
--->
-
-    
-
-
+        <div class="stirTrekPanel comic-panel-body">
+            <div class="stirTrekPanelImage"></div>
+        </div>
+    </div>
 </div>
             </div>
 

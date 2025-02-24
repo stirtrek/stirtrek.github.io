@@ -354,6 +354,28 @@
       "isConfirmed": true
     },
     {
+      "id": "848931",
+      "title": "For Your Eyes Only: Roles, Privileges, and Security in PostgreSQL",
+      "description": "Security is an essential, yet often misunderstood, part of effectively managing a PostgreSQL cluster. As the popularity and adoption of PostgreSQL continues to grow, the interaction of roles, privileges, and object ownership is a recurring theme of confusion in forums and mailing lists.\r\n\r\nIn this session, I’ll start by defining the Principle of Least Privileges and how this philosophy influences roles and privileges in PostgreSQL. Next, I’ll demonstrate the importance of object ownership in PostgreSQL, how group and user roles can work in unison to effectively manage permissions, multiple ways to manage default privileges, and which privileges should always be modified in any new PostgreSQL database. Finally, I’ll discuss how recent releases are laying a foundation for more flexible and robust security management in the years ahead.\r\n\r\nBy the end of this session, you will understand how roles work in PostgreSQL, how they impact your daily work, and how to effectively communicate security best practices with others on your team. You’ll leave with a solid information to start creating roles that effectively manage access to your cluster and data.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0785f402-af78-4d26-a024-a1fb32fefe04"
+      ],
+      "categoryItems": [
+        330776
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "846104",
       "title": "Hitchhikers' Guide to the Vulniverse",
       "description": "DON’T PANIC! Grab your towel and come along for a tour of the crazy acronyms that makes up the Vulniverse! Finding, fixing, and sharing vulnerabilities is a challenge on the easiest of days. Mix in all of the standards, formats, channels, and personalities, it can feel like an insurmountable hill to climb every day. Don’t despair, the Vulniverse Alphabet Soup Guide is here to help make things a little less confusing! Learn about the foundational elements used within Coordinated Vulnerability Disclosure (CVD) by Product Security & Incident Response Teams (PSIRTs), Security Researchers, Computer Emergency Response Teams (CERTs), and Corporate Incident Response & Security Teams (CSIRTs) to help describe and communicate information about security vulnerabilities in hardware and software. Learn about how formats such as CVE (Common Vulnerability & Exposures CVE), CVSS (Common Vulnerability Scoring System), Common Weakness Enumeration (CWE), and newer items like Vulnerability EXchange (VEX) all have vital parts to play helping get information and fixes in the hands of software and hardware consumers! After this, YOU’LL be a Vulnerability Babblefish!",
@@ -1935,6 +1957,43 @@
         848014
       ],
       "fullName": "Robert Herbig",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "0785f402-af78-4d26-a024-a1fb32fefe04",
+      "firstName": "Ryan",
+      "lastName": "Booz",
+      "bio": "Ryan is an Advocate at Redgate focusing on PostgreSQL. Ryan has been working as a PostgreSQL advocate, developer, DBA and product manager for more than 20 years, primarily working with time-series data on PostgreSQL and the Microsoft Data Platform.\r\n\r\nRyan is a long-time DBA, starting with MySQL and Postgres in the late 90s. He spent more than 15 years working with SQL Server before returning to PostgreSQL full-time in 2018. He’s at the top of his game when he's learning something new about the data platform or teaching others about the technology he loves.",
+      "tagLine": "Developer Advocate at Redgate",
+      "profilePicture": "https://sessionize.com/image/41fd-400o400o1-WGQV8kefRGxfbxDXkBVGyN.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://www.twitter.com/ryanbooz",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/ryanbooz/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.softwareandbooz.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.red-gate.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        848931
+      ],
+      "fullName": "Ryan Booz",
       "categoryItems": [],
       "questionAnswers": []
     },

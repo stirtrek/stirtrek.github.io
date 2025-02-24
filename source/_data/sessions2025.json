@@ -23,6 +23,28 @@
       "isConfirmed": true
     },
     {
+      "id": "845245",
+      "title": "Automate the Automation with Terraform",
+      "description": "In this talk, Mark Tinderholt explores the GitHub AT-AT, a Terraform module designed to automate the creation of end-to-end release pipelines and streamline cloud solution onboarding. It demonstrates how Terraform can be used to provision across multiple control planes (e.g., GitHub, Azure, and Entra ID) to accomplish sophisticated automation. This module templatizes everything required for infrastructure-as-code adoption and enforces consistent practices using GitFlow for lifecycle management.\r\n\r\nAttendees will learn:\r\n\r\n- How to setup an end-to-end working solution using the GitHub AT-AT Terraform Module\r\n- How Terraform integrates with GitHub to automate pipeline creation and project onboarding.\r\n- Best practices for using GitFlow to manage infrastructure-as-code and application development lifecycle.\r\n- How GitHub AT-AT Terraform modules like it can improve consistency and reduces manual effort in cloud projects",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0d2202f6-1e29-4a83-9a88-147712d11366"
+      ],
+      "categoryItems": [
+        330775
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "846995",
       "title": "Automating Accessibility Assurance",
       "description": "Assemble a comprehensive toolkit for automated accessibility testing of web applications using tools and libraries that have already been widely adopted and supported by the open source community.\r\n  - Configure your codebase with ESLint accessibility rules to get feedback directly in the code and fix issues early in development.\r\n  - Write tests with Testing Library to interact with applications the same way a user would, including users of assistive technologies.\r\n  - Run a full set of automated checks against your running application by including the Axe-core accessibility engine in your e2e tests.\r\nIncorporate these tools into your development process using automated checks in your continuous integration pipeline at each stage of development and release to ensure your applications are accessible to all users.",
@@ -243,6 +265,28 @@
       "isConfirmed": true
     },
     {
+      "id": "849255",
+      "title": "Creating Intuitive APIs With The Builder Design Pattern",
+      "description": "This session will level up your programming skills by introducing the Builder design pattern. It's used in many modern languages and libraries, and you've probably seen it before. Have you ever used an API that looks like this?\r\n\r\npizza = Pizza.large().regularSauce().pepperoni().bake()\r\n\r\nThat's an example of the Builder pattern. In this session, we'll discover why the pattern is commonly used and how to incorporate it in your own programs.\r\n\r\nWe'll begin with a code free introduction that shows how the pattern is similar to ordering a meal in a diner. Then we'll see how to implement it in Java.\r\n\r\nNext, we'll take an increasingly deep dive into the pattern. You'll learn:\r\n- why the pattern is better than adding setters to a class\r\n- the advantages of Builders in concurrent programming\r\n- several examples of using the Builder pattern in everyday programming\r\n- expert guidance on when to use Builders (and when NOT to)\r\n- how IDEs like IntelliJ can create Builders for you (and why you're better off writing your own)\r\n- using Lombok to implement Builders for older versions of Java\r\n- hints for implementing Builders using Java 14 records\r\n- extending the Builder pattern to TypeScript and Go\r\n- how to effectively prompt ChatGPT to write a Builder for you\r\n- applying the pattern to break a complex API into a simpler, fluent one, such as the API used by ArchUnit\r\n- leveraging the pattern to create your own DSLs (domain specific languages)\r\n\r\nWe will wrap up the session with a question period, and then provide links to the slides for the presentation and a list of resources for further information.\r\n\r\nThis talk is intended for strong beginners, intermediate programmers, or experienced programmers unfamiliar with the pattern. Many of the examples are in Java, but the focus of the talk is language independent, and some examples will be given for Go and TypeScript.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b765d60f-4717-4116-b9f2-002c8a10bd88"
+      ],
+      "categoryItems": [
+        330774
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "847785",
       "title": "Design Patterns: Not Just for Architects",
       "description": "Design patterns are not just for architects. In fact, you already use design patterns without even knowing it. Observer, Facade, Iterator, Proxy -- these are just a few of the patterns that you have probably used. But it is really hard to use a tool effectively when you don't even know you are using it. So let's fix that.\r\n\r\nIn this session, you will learn what design patterns are (and what they are not). You will see both the benefits and consequences of patterns. And you will see several of the Gang of Four patterns that use already use (they may even be built into your programming language). Don't know who the Gang of Four is? You'll learn that, too. Once we understand design patterns, we can find solutions that people way smarter than us have already implemented. This gives us another set of tools that we can use to build great software.",
@@ -300,6 +344,28 @@
       ],
       "categoryItems": [
         330774
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "846104",
+      "title": "Hitchhikers' Guide to the Vulniverse",
+      "description": "DON’T PANIC! Grab your towel and come along for a tour of the crazy acronyms that makes up the Vulniverse! Finding, fixing, and sharing vulnerabilities is a challenge on the easiest of days. Mix in all of the standards, formats, channels, and personalities, it can feel like an insurmountable hill to climb every day. Don’t despair, the Vulniverse Alphabet Soup Guide is here to help make things a little less confusing! Learn about the foundational elements used within Coordinated Vulnerability Disclosure (CVD) by Product Security & Incident Response Teams (PSIRTs), Security Researchers, Computer Emergency Response Teams (CERTs), and Corporate Incident Response & Security Teams (CSIRTs) to help describe and communicate information about security vulnerabilities in hardware and software. Learn about how formats such as CVE (Common Vulnerability & Exposures CVE), CVSS (Common Vulnerability Scoring System), Common Weakness Enumeration (CWE), and newer items like Vulnerability EXchange (VEX) all have vital parts to play helping get information and fixes in the hands of software and hardware consumers! After this, YOU’LL be a Vulnerability Babblefish!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fb28fb98-62a6-42d1-b058-a54ee7c43f9a"
+      ],
+      "categoryItems": [
+        328813
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -652,6 +718,28 @@
       ],
       "categoryItems": [
         328816
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "844040",
+      "title": "The Art of Human Connection: tips, tools and frameworks for stress-free networking",
+      "description": "Does an idea of talking to a stranger make you feel like a stand-up comedy attempt in front of 30 thousand people? Or the mere mention of \"networking\" makes you run for cover? Then grab your courage, curiosity and growth mindset and come to the session that dives into the social skills (and some cool psychology tools) that will help you excel at (and maybe even enjoy!) networking! Spoiler: networking is not just about networking events (in fact, barely ever about them!)  ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f5db9d74-f6da-4fd5-9708-1392384e8b12"
+      ],
+      "categoryItems": [
+        330778
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -1255,6 +1343,33 @@
       "questionAnswers": []
     },
     {
+      "id": "fb28fb98-62a6-42d1-b058-a54ee7c43f9a",
+      "firstName": "Christopher",
+      "lastName": "Robinson",
+      "bio": "Christopher Robinson (aka CRob) is the Chief Security Architect for the Open Source Security Foundation. With over 25 years of Enterprise-class engineering, architectural, operational and leadership experience, CRob has worked at several Fortune 500 companies with experience in the Financial, Medical, Legal, and Manufacturing verticals, and spent 6 years helping lead the Red Hat Product Security team as their Program Architect. ",
+      "tagLine": "Security Lorax - OpenSSF",
+      "profilePicture": "https://sessionize.com/image/8230-400o400o1-3x35uDfSPT3tzJpCt8foom.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/darthcrob/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.openssf.org",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        846104
+      ],
+      "fullName": "Christopher Robinson",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "4e80240f-231a-47a5-b3c3-a01acff8832d",
       "firstName": "David",
       "lastName": "Lucas",
@@ -1531,6 +1646,80 @@
       "questionAnswers": []
     },
     {
+      "id": "b765d60f-4717-4116-b9f2-002c8a10bd88",
+      "firstName": "Kelly",
+      "lastName": "Morrison",
+      "bio": "Kelly Morrison is a native of Georgia with a BS in mathematics and a PhD in computer engineering. He has over 30 years of software experience in various industries, including the television, education, retail, and agriculture sectors. He also wrote a monthly column for \"Digital Output\" magazine under the pen name \"Armand Tarantino\". He is currently employed as a solutions architect at Daugherty Business Solutions.",
+      "tagLine": "Solutions Architect at Daugherty Business Solutions / PhD in Computer Engineering",
+      "profilePicture": "https://sessionize.com/image/a455-400o400o1-wR8vKuaqNBi9yCeYhKc93C.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/kellyivymorrison/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        849255
+      ],
+      "fullName": "Kelly Morrison",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "0d2202f6-1e29-4a83-9a88-147712d11366",
+      "firstName": "Mark",
+      "lastName": "Tinderholt",
+      "bio": "An experienced tech professional with a broad journey, Mark began in application development, evolving from web and client-server applications to sophisticated distributed systems and microservices. Along this path, he gained deep knowledge in automation and DevOps, enhancing his career. \r\n\r\nHe's led diverse project teams, and in key leadership roles, guided cloud practice organizations with a blend of strategic, operational, and pre-sales skills. Recently, he's taken a hands-on engineering role at Microsoft, working directly on the Microsoft Azure platform. \r\n\r\nMark's passion for cloud computing extends beyond work to \"The Azure Terraformer,\" a YouTube channel he hosts. There he shares insights and experiences, aiming to educate and connect with others who are equally interested in building systems on Azure.",
+      "tagLine": "Microsoft Azure, Principal Architect (aka \"The Azure Terraformer\")",
+      "profilePicture": "https://sessionize.com/image/d2d6-400o400o1-TCpcsztGqV75G8haTmnGUH.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/MarkTinderholt",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/marktinderholt/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.marktinderholt.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://www.azure-terraformer.com",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Book",
+          "url": "https://amzn.to/4cMWzWO",
+          "linkType": "Other"
+        },
+        {
+          "title": "Udemy",
+          "url": "https://www.udemy.com/course/terraform-101-azure-edition/?referralCode=4A11313C6C79F5EED0DD",
+          "linkType": "Other"
+        },
+        {
+          "title": "Web Site",
+          "url": "http://www.marktinderholt.com",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        845245
+      ],
+      "fullName": "Mark Tinderholt",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "17c299ee-d9fd-4020-b499-2837b2b3a2bf",
       "firstName": "Matt",
       "lastName": "Eland",
@@ -1628,6 +1817,28 @@
         848832
       ],
       "fullName": "Mitchel Sellers",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f5db9d74-f6da-4fd5-9708-1392384e8b12",
+      "firstName": "Natalie",
+      "lastName": "Hylton",
+      "bio": "Meet Natalie, an impostor extraordinaire who came to banking infrastructure technology with a degree in linguistics and background in journalism… and turned her temporary gig into a 15-year long career. Her experience spans four countries, five cities and two continents.  The “projects” and “products” on her resume translate into the art of creating relationships with people and inspiring them to grow and be the best of themselves.  Natalie loves trying new things (skydiving is next). She is a world traveler, board game geek, an active mother of three, and a proud owner of an imaginary cat. The things that make her happy are people and her insatiable passion for learning. She combines every interaction and every experience into a broad picture of WHY we do things the way we do and HOW we can use this knowledge to make our lives, and the world, better.",
+      "tagLine": "Technology Talent Development, Vice President, JPMorganChase",
+      "profilePicture": "https://sessionize.com/image/54c8-400o400o1-7GKSqiekvSRAk4LzmuCqLp.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/natalie-hylton",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        844040
+      ],
+      "fullName": "Natalie Hylton",
       "categoryItems": [],
       "questionAnswers": []
     },

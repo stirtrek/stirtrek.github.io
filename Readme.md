@@ -124,3 +124,8 @@ This happens all the time no matter what we try to do. There are two things you 
 ## FAQs
 # Are images downloading but not for the current year?
 Check that the current year is in the the allYears list in _config.yml. That list determines which years are downloaded.
+
+# A speaker uploaded their image, bio, or abstract. How do we update it?
+Images don't download again unless they are deleted so go to the images folder for the appropriate year and delete that image. Skip this step for text changes. 
+
+Then run the Action to download speaker information, followed by the action to update the pages. 

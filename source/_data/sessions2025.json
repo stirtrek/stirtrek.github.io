@@ -619,6 +619,28 @@
       "isConfirmed": true
     },
     {
+      "id": "844411",
+      "title": "IaC Forged in Code: ARM/Bicep vs Terraform vs Pulumi",
+      "description": "Infrastructure as Code (IaC) is a powerful way to automate the deployment of your Azure infrastructure. With IaC, you can define your infrastructure in code, and use that code to deploy and manage your resources. In this session, we will explore the different ways to use IaC in Azure, including Azure Resource Manager (ARM) templates, Microsoft's Bicep language processor, and popular open-source tools like Terraform and Pulumi. We'll also compare the pros and cons of each approach, and discuss when it's best to use each one. Whether you're new to IaC or a seasoned veteran, this session will provide you with the knowledge you need to take your cloud deployments to the next level.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "952d3b14-a231-4cc6-a97f-95940dac3fa5"
+      ],
+      "categoryItems": [
+        330775
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "849160",
       "title": "Into the Unknown: Navigating the Wild Frontier of Emerging Languages",
       "description": "Embark on an adventurous exploration of the trials and triumphs of being a pioneer in the world of programming languages. Drawing from personal experience with SolidJs and pre-release versions of Angular2, this session will focus on overcoming the initial hurdles of learning and implementing a language with zero reliable external resources and address the unique challenges faced by early adopters. We'll cover tips on building a foundation of knowledge, leveraging existing programming skills, and fostering a community of early adopters to collaborate and share insights. Join us to discover how to navigate the unknown and emerge as a trailblazer in your field.",
@@ -2217,6 +2239,43 @@
         845433
       ],
       "fullName": "Matt Righter",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "952d3b14-a231-4cc6-a97f-95940dac3fa5",
+      "firstName": "Mike",
+      "lastName": "Benkovich",
+      "bio": "A developer, business owner, consultant, cloud architect, Microsoft Azure MVP and an online instructor, Mike Benkovich is an alumni of Microsoft from 2004 to 2012 where he helped build developer communities across the US, thru work on Microsoft Across America, MSDN Events, MSDN Webcasts, DPE and Channel 9. He's helped to create and grow developer conferences and user groups in various cities across the US. While at Microsoft he helped create the Azure Boot Camp events that were run in cities across the US and at PDC and TechEd before it was transferred to the community. In 2009 he started a Toastmaster club for Geeks called TechMasters in Minneapolis where we still grow speakers for Conferences. He's a LinkedIn Learning Instructor for Azure, have developed many online courses. Mike actively works in Azure Cloud Governance, DevOps, Application Architecture and Software Delivery consulting.",
+      "tagLine": "Exploring the possible",
+      "profilePicture": "https://sessionize.com/image/7ad7-400o400o1-14-a231-4cc6-a97f-95940dac3fa5.e6f98402-92a3-4dcd-bed8-aa0aa6196a08.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "http://twitter.com/mbenko",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/mike-benkovich-285236/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://benkotips.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://benkotips.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        844411
+      ],
+      "fullName": "Mike Benkovich",
       "categoryItems": [],
       "questionAnswers": []
     },

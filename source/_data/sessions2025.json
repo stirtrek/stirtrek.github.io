@@ -24,6 +24,28 @@
       "isConfirmed": true
     },
     {
+      "id": "843937",
+      "title": "AI for Highway Maintenance",
+      "description": "Software touches every aspect of our lives, and no where is that clearer than in the automotive industry. With the recent surge to AI for self driving cars, we lose sight of adaptive cruise control, anti-lock breaks, and in-cab media centers that all require software to operate.\r\n\r\nHowever, did you realize that software plays a fundamental role in the streets you drive on? This talk is a post-mortem of a prototype system we built for optimizing the use of municipal funds for highway maintenance in the state of Indiana. While the optimizer is a central piece of the system, it wasn’t the whole system, or even the most challenging problem!\r\n\r\nIn this talk, we’ll cover:\r\n\r\n* The general problem of highway maintenance\r\n* How users acceptance and understanding may be a more important metric than pure cost optimization\r\n* How to build AI in an agile manner\r\n* How AI was merely a part of a much larger system\r\n* What changes when your software has to change hearts and minds as well as accomplish a technical task?\r\n",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "468d2621-a815-4e39-8c07-6c18162c9b1a"
+      ],
+      "categoryItems": [
+        330776
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "848197",
       "title": "An Enterprise Data Architecture Framework",
       "description": "One of the challenges facing enterprise architecture is maintaining consistency across the enterprise. This is challenging because data comes from disparate sources and systems representing different purposes, focuses, and objectives. On top of that, there needs to be more clarity regarding the terms Data Lake, Data Warehouse, Operational Data Store, etc. To overcome these challenges at an enterprise level, a framework is necessary to apply data uniformly, consistently, and meaningfully. The framework will transform data from multiple, disparate data sources into an operational data store, a consistent, homogeneous environment, as the single dependable source of truth for all reporting and analytics.\r\n\r\nThis session will present that framework and discuss the following:\r\n\t• The challenges facing data analytics and reporting due to multiple disparate data sources\r\n\t• An introduction to the various terms used today for data storage\r\n\t• The purpose of an Operational Data Store and how it improves data usability\r\n\t• The data zones for Raw, Refined, and Published data\r\n\t• How data standards simplify and enhance data usability\r\n\t• A method to provide primary and foreign keys across disparate data",
@@ -1951,6 +1973,53 @@
         847785
       ],
       "fullName": "Jeremy Clark",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "468d2621-a815-4e39-8c07-6c18162c9b1a",
+      "firstName": "Jordan",
+      "lastName": "Thayer",
+      "bio": "Jordan Thayer received her PhD in Artificial Intelligence in 2012 from the University of New Hampshire. Ever since, she's been applying artificial intelligence in academia and industry to problems including intrusion detection, planning, static analysis, and program generation.\r\n\r\nAs a thought leader at SEP, she's been proving that AI isn't futuristic technology. Rather, it's a collection of techniques of varying levels of maturity that can often reliably solve problems they have today. She gives talks, runs workshop, visualizes algorithm behavior, and build proofs of concept as well as products to show what AI can do already.",
+      "tagLine": "AI Strategist for SEP",
+      "profilePicture": "https://sessionize.com/image/7a7b-400o400o1-S4qsxBHZR9RQTKGvpw6suE.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/drbass",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jordan-seabass-thayer/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://sep.com/blog/author/jordan-thayer/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://sep.com",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Personal Site",
+          "url": "https://www.jordanthayer.com",
+          "linkType": "Other"
+        },
+        {
+          "title": "BlueSky",
+          "url": "https://bsky.app/profile/drbass.bsky.social",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        843937
+      ],
+      "fullName": "Jordan Thayer",
       "categoryItems": [],
       "questionAnswers": []
     },

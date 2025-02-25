@@ -376,6 +376,28 @@
       "isConfirmed": true
     },
     {
+      "id": "849258",
+      "title": "Data Lakehouse Demystified",
+      "description": "Whatever data strategy you're implementing, your next data warehouse should be a lakehouse.  Even Bill Inmon, the father of data warehousing, has adopted the lakehouse as the architecture of the future.  By combining the best features of a data lake with a data warehouse, adding in distributed computing and open formats and protocols, a data lakehouse supports traditional BI but is especially well suited for artificial intelligence applications.  There are patterns for success common to all platforms, whether you are using AWS services, MS Fabric, Databricks, or GCP.  In this session we'll define a a data lakehouse, examine the logical architecture, then look at how you implement a physical architecture.  Discussion will include pointers to preparing your data career for a lakehouse-centric world.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f386c81d-730c-4ad9-8fb7-074e167cb9ae"
+      ],
+      "categoryItems": [
+        330774
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "847785",
       "title": "Design Patterns: Not Just for Architects",
       "description": "Design patterns are not just for architects. In fact, you already use design patterns without even knowing it. Observer, Facade, Iterator, Proxy -- these are just a few of the patterns that you have probably used. But it is really hard to use a tool effectively when you don't even know you are using it. So let's fix that.\r\n\r\nIn this session, you will learn what design patterns are (and what they are not). You will see both the benefits and consequences of patterns. And you will see several of the Gang of Four patterns that use already use (they may even be built into your programming language). Don't know who the Gang of Four is? You'll learn that, too. Once we understand design patterns, we can find solutions that people way smarter than us have already implemented. This gives us another set of tools that we can use to build great software.",
@@ -587,6 +609,28 @@
       ],
       "categoryItems": [
         330778
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "849246",
+      "title": "HTMX: What's the big deal with the little framework?",
+      "description": "In an area of huge JavaScript frameworks, HTMX provides a simple option. It does just what you need to build a modern web app. In this session, you will learn what HTMX is, what it can do, and why you would choose it over frameworks.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f46fcf13-76db-4850-9995-ac8d076ba1de"
+      ],
+      "categoryItems": [
+        330773
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -1817,6 +1861,43 @@
       "questionAnswers": []
     },
     {
+      "id": "f46fcf13-76db-4850-9995-ac8d076ba1de",
+      "firstName": "Eric",
+      "lastName": "Potter",
+      "bio": "Eric is the Director of Technical Education for Sweetwater and a Microsoft MVP for Visual Studio and Development Technologies. He works primarily in the .Net web platform but loves opportunities to try out other stacks. He has been developing high-quality custom software solutions since 2001. He has successfully delivered solutions for clients in a wide variety of industries. He loves to dabble in new and exciting technologies. In his spare time, he loves to tinker with Arduino projects. He fondly remembers what it was like to develop software for the Palm OS. He has an amazing wife and 5 wonderful children. He blogs at http://humbletoolsmith.com/ and you can follow him on BlueSky and X as @pottereric. \r\n",
+      "tagLine": "Director of Technical Education",
+      "profilePicture": "https://sessionize.com/image/cd94-400o400o1-RPfYpuKjAmT3WD9jAd8i4L.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/pottereric",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/ericbpotter/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://humbletoolsmith.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://humbletoolsmith.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        849246
+      ],
+      "fullName": "Eric Potter",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "870ab107-e506-49e2-83f4-ba483e72aec6",
       "firstName": "Gene",
       "lastName": "Gotimer",
@@ -2108,9 +2189,9 @@
       "id": "6ebb7073-3325-409b-8bff-0d6d2d9a496c",
       "firstName": "Lindsay",
       "lastName": "Knoll",
-      "bio": "Dan Keck and Lindsay Knoll are Digital Accessibility Coordinators at The Ohio State University. \r\n\r\nLindsay is a former special education teacher for students with moderate/intensive disabilities. She is passionate about equity and accessibility for all. ",
+      "bio": "Lindsay Knoll is a Digital Accessibility Coordinator at Ohio State University. \r\n\r\nLindsay is a former special education teacher for students with moderate/intensive disabilities. She is passionate about equity and accessibility for all. ",
       "tagLine": "Advancement - IT Digital Accessibility at The Ohio State University",
-      "profilePicture": "https://sessionize.com/image/3369-400o400o1-avhhgnzY4tAeW7vmbciF8K.png",
+      "profilePicture": "https://sessionize.com/image/4c71-400o400o1-L11EcgqhfqyRNFUtZgSLKY.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -2394,6 +2475,38 @@
         854502
       ],
       "fullName": "Randy Pagels",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f386c81d-730c-4ad9-8fb7-074e167cb9ae",
+      "firstName": "Richard",
+      "lastName": "Dudley",
+      "bio": "With over 20 years of technology experience, Rich is a seasoned data professional and a practiced cloud architect.  Two of Rich's career highlights include being in the command centers for the Billion Dollar Bracket and the Super Bowl launch of Rocket Mortgage.  More recently Rich has focused on building data systems to benefit the business and its customers.  Rich is an energetic speaker, having presented at over 70 conferences.  Rich and his family live on 5.5 acres in rural Pennsylvania, along with a menagerie including horses, chickens, fish, toads and an axolotl, where any remaining time is usually spent working on a tractor.",
+      "tagLine": "Senior Data Engineer",
+      "profilePicture": "https://sessionize.com/image/3b32-400o400o1-WWw8kEBj4VK4Kpr99JWpAS.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://x.com/rj_dudley",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/rjdudley/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://rjdudley.com",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        849258
+      ],
+      "fullName": "Richard Dudley",
       "categoryItems": [],
       "questionAnswers": []
     },

@@ -24,6 +24,28 @@
       "isConfirmed": true
     },
     {
+      "id": "837543",
+      "title": "A Developer's Guide to Database Patterns",
+      "description": "If you think of the database as a pain in the neck, you're not alone. But with some engineering rigor, you can level up your database game. This critical component of your architecture can benefit from the same practices as code — source control gates, unit testing, CI/CD automation, linting, quality measurements, and abstract repositories. In this session, learn the engineering best practices used by development teams whose databases aren't a pain in the neck. This session is a collection of patterns recently curated from many of Microsoft's largest and most demanding customers. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "4b6f2802-eb81-484b-a121-f1312722b3c9"
+      ],
+      "categoryItems": [
+        330774
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "843937",
       "title": "AI for Highway Maintenance",
       "description": "Software touches every aspect of our lives, and no where is that clearer than in the automotive industry. With the recent surge to AI for self driving cars, we lose sight of adaptive cruise control, anti-lock breaks, and in-cab media centers that all require software to operate.\r\n\r\nHowever, did you realize that software plays a fundamental role in the streets you drive on? This talk is a post-mortem of a prototype system we built for optimizing the use of municipal funds for highway maintenance in the state of Indiana. While the optimizer is a central piece of the system, it wasn’t the whole system, or even the most challenging problem!\r\n\r\nIn this talk, we’ll cover:\r\n\r\n* The general problem of highway maintenance\r\n* How users acceptance and understanding may be a more important metric than pure cost optimization\r\n* How to build AI in an agile manner\r\n* How AI was merely a part of a much larger system\r\n* What changes when your software has to change hearts and minds as well as accomplish a technical task?\r\n",
@@ -455,6 +477,50 @@
       ],
       "categoryItems": [
         330774
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "841028",
+      "title": "Effective Automated Testing - Lessons from 10 Years",
+      "description": "Writing automated tests is hard. Why? Changing data, inconsistent behaviors, unreliable environments, tightly coupled code, and more. In this session, we'll explore approaches for overcoming these challenges and writing robust and comprehensive automated tests. Topics explored will include mocking HTTP calls, creating effective test data, choosing between testing paradigms like unit, integration, and end-to-end tests, and custom dev tools. After this session, you'll walk away with new patterns and tools for comprehensively testing your app.  ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "424f7166-a882-473f-b05e-15aed7f9ff86"
+      ],
+      "categoryItems": [
+        328816
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "850109",
+      "title": "Enhancing Team Synergy Using Agile Excellence",
+      "description": "This discussion is an example of how teams can utilize agile practices to create a strong team dynamic. It will teach the group about the importance of certain ceremonies and the best way to use the time with the team. \r\n\r\nWhile the talk is delivered from an Agile Leads perspective it is intended for all to help create a strong connection which leads to incredible innovation and growth.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8d6efde2-af82-4fb9-9d6a-1a88369657c1"
+      ],
+      "categoryItems": [
+        330778
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -1059,6 +1125,28 @@
       "isConfirmed": true
     },
     {
+      "id": "841058",
+      "title": "The Immutable Laws of Software and Life: Code Accordingly",
+      "description": "The first Law of Ecology: you can never merely do one thing. Actions have side-effects. In this session, we'll explore how changes in software design can have unexpected, profound impacts. In this story-based session, I'll reference both popular and little-known \"laws\" of computing and life. I'll show how to use these laws to write better software. This session will give you new mental models for thinking about the tradeoffs we make in software...and life. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "424f7166-a882-473f-b05e-15aed7f9ff86"
+      ],
+      "categoryItems": [
+        328816
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "848909",
       "title": "The Power of Dev Containers and GitHub Codespaces",
       "description": "Dive into the future of software development with our session on Dev Containers and GitHub Codespaces. Dev Containers bring reproducibility and consistency across any platform with Docker, simplifying project onboarding and setup. GitHub Codespaces takes this a step further, offering scalable, cloud-hosted development environments, accessible from anywhere.\r\n\r\nIn this session, you'll gain insights into:\r\nDev Containers Fundamentals: Understand their role in creating consistent development environments.\r\nGitHub Codespaces Integration: Explore how Codespaces enhances Dev Containers, providing flexible, cloud-based development.\r\nPractical Implementation: Learn to configure Dev Containers for your projects, including tool installation, VS Code extensions, port forwarding, and software setup.\r\nMaximizing Codespaces: Discover how to customize Codespaces for remote development efficiency.\r\n\r\nJoin us to embrace these cutting-edge tools, transforming your development process and team collaboration.",
@@ -1246,6 +1334,28 @@
         849060
       ],
       "fullName": "Alex Riviere",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8d6efde2-af82-4fb9-9d6a-1a88369657c1",
+      "firstName": "Amanda",
+      "lastName": "Lange",
+      "bio": "Scrum master/ Product Owner with a demonstrated history of working in the computer software industry. Skilled in negotiation, enablement, communication, evangelism, autonomy, leadership, management, networking and KINDNESS! ",
+      "tagLine": "Senior Agile Delivery Lead, NetJets",
+      "profilePicture": "https://sessionize.com/image/b4ce-400o400o1-Maz4UQVbd9E2oxCWxisHm9.jpeg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/amanda-lange-scrummaster/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        850109
+      ],
+      "fullName": "Amanda Lange",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -1701,6 +1811,29 @@
       "questionAnswers": []
     },
     {
+      "id": "424f7166-a882-473f-b05e-15aed7f9ff86",
+      "firstName": "Cory",
+      "lastName": "House",
+      "bio": "Cory is a Pluralsight author, 11 time Microsoft MVP, and international speaker. He is founder of reactjsconsulting, where he helps companies transition to React. He has trained over 10,000 software developers at conferences and businesses worldwide. Cory has authored over a dozen courses on JavaScript, React, C#, testing, and web development on Pluralsight. He shares software development tips daily on Twitter as @housecor.",
+      "tagLine": "Author / Consultant",
+      "profilePicture": "https://sessionize.com/image/fcd3-400o400o1-PTfj7s57HRuD7wgTQBkD3H.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "http://www.twitter.com/housecor",
+          "linkType": "Twitter"
+        }
+      ],
+      "sessions": [
+        841028,
+        841058
+      ],
+      "fullName": "Cory House",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "f1e370db-00e4-4ca9-95f5-a380ae77b849",
       "firstName": "Dan",
       "lastName": "Keck",
@@ -2076,6 +2209,43 @@
         847785
       ],
       "fullName": "Jeremy Clark",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "4b6f2802-eb81-484b-a121-f1312722b3c9",
+      "firstName": "Jerry",
+      "lastName": "Nixon",
+      "bio": "Jerry Nixon, a Microsoft Product Manager for SQL Server, focusing on SQL Developer Experiences and Data API builder. With more than two decades of experience, he excels in developing, designing, and delivering software. He's spoken at tiny venues and giant launch events. He's trained thousands of developers. Jerry is currently a Professor of Computer Science at Colorado Christian University in Denver. Advocating for users and clean, maintainable code, Jerry's core passions lie in accessible design, data engineering, and plain-ole software development. He has a deep history of field engineering for Microsoft's largest customers and craziest products. While most of his days revolve around Outlook, Visual Studio, and online Docs, what he enjoys most is teaching his three beautiful daughters Star Trek character backstories and episode plots. ",
+      "tagLine": "Microsoft SQL Server, Product Manager",
+      "profilePicture": "https://sessionize.com/image/432c-400o400o1-GUtvwcMLZdcPNJ7Zh5A1YU.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "http://twitter.com/jerrynixon",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jerrynixon",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://jerrynixon.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://microsoft.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        837543
+      ],
+      "fullName": "Jerry Nixon",
       "categoryItems": [],
       "questionAnswers": []
     },

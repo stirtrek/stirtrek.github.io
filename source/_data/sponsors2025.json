@@ -35,6 +35,12 @@
                 "link": "https://www.oclc.org/",
                 "description": "At OCLC, we exist because what is known must be shared. On the surface this seems simple. But dig deeper. We hold petabytes of diverse data in different languages, different scripts, and different formats.",
                 "logo": "/images/sponsors/oclc_350x200.jpg"
+            },
+            {
+                "name": "Improving",
+                "link": "http://www.improving.com/",
+                "description": "Improving is a digital services company that provides enterprise software consulting, development, and training to large enterprises worldwide.",
+                "logo": "/images/sponsors/improving_350x200.jpg"
             }
         ]
     }

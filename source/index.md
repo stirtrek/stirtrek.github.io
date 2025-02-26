@@ -108,7 +108,7 @@ title: Tech & a Flick
             <div>
 {% endraw %}
 Ticket sale dates:
-* **2/25/2025** - $149 super early bird (first 50)
+* ~~**2/25/2025** - $149 super early bird (first 50)~~
 * **2/25/2025** - $175 early bird
 * **3/1/2025** - $200 standard
 * **3/22/2025** - $250 late... don't be late!

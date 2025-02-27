@@ -1081,6 +1081,28 @@
       "isConfirmed": true
     },
     {
+      "id": "848959",
+      "title": "Stop Fearing Databases—SQL vs. NoSQL: Navigating the Database Dilemma",
+      "description": "In the evolving landscape of data management, choosing between SQL and NoSQL databases is a critical decision that can shape the success of your projects. This technical talk dives deep into the trade-offs, challenges, and best practices associated with both SQL and NoSQL databases.\r\n\r\nExplore the strengths and limitations of each approach, from the structured, relational power of SQL to the flexible, scalable nature of NoSQL. Learn how to effectively navigate the challenges of data modeling, scalability, and consistency. Whether you’re managing legacy systems or building cutting-edge applications, this session will provide the insights and tools you need to make informed decisions and optimize your database solutions for performance, reliability, and scalability.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "afe8e698-95d5-45ad-b69a-d1e202d9698b"
+      ],
+      "categoryItems": [
+        330776
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "843735",
       "title": "Taking a Gamble With Functional Domain Modeling",
       "description": "Over the past few years, Functional Programming has entered the mainstream when it comes to libraries and frameworks for various kinds of technologies and there are plenty of tutorials and resources to learn the basics.\r\n\r\nWith that being said, when it comes to building something non-trivial, there's a gap between what tutorials cover and real-world situations. For example, how do we model a system that makes illegal states unrepresentable? How do we handle operations that can fail? How do we combine business rules with application rules?\r\n\r\nIn this talk, I'm going to show you how to tackle these concerns as we model the game of Blackjack. By doubling down on concepts like algebraic data types, Options, and Results, you'll learn how to build applications that work in the real world.",
@@ -1115,6 +1137,28 @@
       ],
       "categoryItems": [
         328816
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "843195",
+      "title": "The Angular Renaissance - Key New Features",
+      "description": "Angular has been stable and capable for a long time, and there were several releases in recent years with only minor improvements. This led many to conclude that the framework was stagnant.\r\n\r\nInstead, the reality is that the Angular team was rewriting the internals of the framework to make it more capable in a project called Ivy. Now that Ivy is complete, we are seeing significant changes to improve the developer experience and to add innovative capabilities.\r\n\r\nThere have been many major improvements in Angular 16 through 19, and we'll cover standalone components, signals, deferrable views, new control flow, and more.\r\n\r\nCome to this talk to learn how Angular is leaping forward to make your development live easier.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b6e26226-8a65-46e7-9538-d0924f53d895"
+      ],
+      "categoryItems": [
+        330773
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -2133,6 +2177,43 @@
       "questionAnswers": []
     },
     {
+      "id": "afe8e698-95d5-45ad-b69a-d1e202d9698b",
+      "firstName": "Henry Berson",
+      "lastName": "Saint-Juste",
+      "bio": "Henry Saint-Juste is a solution architect at NetJets, based out of Columbus, Ohio. Henry has a decade of experience building scalable mobile applications with Objective-C, Swift, and Java. As an architect Henry enjoys building modules that promotes clean code and enhances the developer experience, while delivering value to the business. Embodying Rob C. Martin's reference from Clean Architecture—\"The Tale of Two Values\" where software applications boils down to two values—Behavior, and Architecture.",
+      "tagLine": "The Solutions Architect",
+      "profilePicture": "https://sessionize.com/image/a534-400o400o1-wHhRBanA7XGvpgExy474qN.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/TheAppDr",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/hberson",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://thesolutionarchitect.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.netjets.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        848959
+      ],
+      "fullName": "Henry Berson Saint-Juste",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "c85a2ada-5d69-4621-8d06-9b082fc66363",
       "firstName": "Jeff",
       "lastName": "Valore",
@@ -2411,6 +2492,38 @@
         849255
       ],
       "fullName": "Kelly Morrison",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "b6e26226-8a65-46e7-9538-d0924f53d895",
+      "firstName": "Lance",
+      "lastName": "Finney",
+      "bio": "After more than a decade focused on the Java desktop world, I've been in the Angular/JavaScript/TypeScript space since 2014.\r\n\r\nI develop Angular projects and mentor junior Angular developers on my projects, and I used to be an instructor with Angular Boot Camp. Father of two, software developer, and world traveler (when I can sneak it in).",
+      "tagLine": "Angular Developer and Instructor",
+      "profilePicture": "https://sessionize.com/image/2e8c-400o400o1-GkU4FL6QoA2dns4fwJF7gE.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "http://twitter.com/LMFinneyCoder",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/lmfinney/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.inficon.com/en",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        843195
+      ],
+      "fullName": "Lance Finney",
       "categoryItems": [],
       "questionAnswers": []
     },

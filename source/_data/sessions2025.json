@@ -1015,6 +1015,28 @@
       "isConfirmed": true
     },
     {
+      "id": "845438",
+      "title": "Seven Deadly Sins of Management",
+      "description": "First-time leaders often feel overwhelmed by the complexity of their new role. Every team has unique needs, and the sheer number of responsibilities can seem daunting. Instead of focusing on an exhaustive list of things you must do, this talk offers a refreshing perspective: a strategic approach to leadership that emphasizes what you should AVOID doing.\r\nWe'll explore a counterintuitive leadership growth strategy that concentrates on preventing common management pitfalls. By understanding and avoiding these deadly sins of management, you can create a more supportive environment for your team, boost their productivity, and build your confidence as a new leader.\r\nWhether you're stepping into a leadership role for the first time or looking to refine your current management approach, this discussion will provide insights to help you navigate the challenges of leadership more effectively. We'll uncover the \"seven deadly sins\" of management that can undermine your team's success—often without you even realizing it.\r\nPrepare to transform your leadership journey from a source of stress to an opportunity for meaningful growth and team empowerment.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e5b9e6c6-1477-4b19-8347-06683a7417de"
+      ],
+      "categoryItems": [
+        330778
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "847987",
       "title": "Side Quests: How creative tinkering and exploration can transform you, one side project at a time",
       "description": "If you're anything like me, you like to build fun things and have fun while doing so. In this fun talk we'll talk about the value of side projects as a tool for perpetual learning, growth, emotional health, and career development in the tech world.\r\n\r\nWe'll tour the landscape of side projects and why you might want to pick one up, how to select a side project and get started with one, how to constrain the scope of a side project and make progress against it, and how to bring side projects to their inevitable conclusion.\r\n\r\nSide projects aren't easy, though, and so we'll talk about getting unstuck, finding time for side projects, what to do when you're bored of a side project (or tempted by a new one), and ways of growing and staying healthy in those seasons of life when side projects just aren't feasible.\r\n\r\nAlong the way, you'll hear some tales of interesting, innovative, amusing, and even horrifying side projects I've taken on over the years and hear a few specific ways that side projects have impacted myself and those I've had the privilege of mentoring.",
@@ -2177,6 +2199,43 @@
         849234
       ],
       "fullName": "Jeffrey T. Fritz",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e5b9e6c6-1477-4b19-8347-06683a7417de",
+      "firstName": "Jennifer",
+      "lastName": "Wadella",
+      "bio": "Often described as a force of nature, Jennifer is a visionary leader with a proven track record in management excellence and leading software teams to successful execution of business goals. \r\n\r\nWith deep roots in frontend engineering Jennifer is still widely regarded as an expert in the Angular space despite her growing tenure in non-coding management roles. Jennifer combines years of experience in developing JavaScript applications through interfacing with users, stakeholders and business executives with a keen eye on the current development landscape & trends to craft strategic vision and lead teams to sustainable growth that contributes to company success. \r\n\r\nJennifer is passionate about developer communities, and shares her expertise in frontend development, engineering management, maximizing productivity, and community building across the world as a widely sought-after public speaker. She is also the founder of Kansas City Women in Technology, a non-profit that has taught thousands of women and girls in the Kansas City area to code, and helped women enter tech careers.",
+      "tagLine": "VP of Frontend Engineering, Bitovi",
+      "profilePicture": "https://sessionize.com/image/7908-400o400o1-PwGjCJBj2kaHknrCqYfdMZ.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/likeOMGitsFEDAY",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jennifer-wadella/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://jenniferwadella.com/blog",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://bitovi.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        845438
+      ],
+      "fullName": "Jennifer Wadella",
       "categoryItems": [],
       "questionAnswers": []
     },

@@ -531,6 +531,28 @@
       "isConfirmed": true
     },
     {
+      "id": "841684",
+      "title": "Ethical Implications of Artificial Intelligence",
+      "description": "As artificial intelligence (AI) continues to advance at an unprecedented rate, there is an urgent need to consider its ethical implications. AI has the potential to revolutionize many industries, but it also presents new challenges and risks. Programmers play a critical role in shaping the development and deployment of AI, and must therefore be aware of its ethical implications.\r\n\r\nIn this session, we will explore the ethical considerations of AI and its impact on society. We will examine the challenges of developing and deploying AI systems that are unbiased, transparent, and accountable. We will discuss the ethical implications of AI in different fields, including healthcare, finance, and transportation. We will also explore the role of programmers in ensuring that AI is developed and deployed ethically.\r\n\r\nFinally, we will discuss best practices for ethical implementation of AI, including designing for transparency, fairness, and accountability. We will also consider the importance of ethical decision-making frameworks and guidelines for AI development and deployment. By the end of this session, participants will have a better understanding of the ethical implications of AI and how they can play a role in ensuring that AI is developed and deployed ethically.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c6834890-beee-4a69-96fe-ba6915ae9947"
+      ],
+      "categoryItems": [
+        330776
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "843130",
       "title": "Florida Man Uses Cache as Database",
       "description": "Florida Man loves speed. He loves it so much that he’s going to do the unthinkable—he's going to use a cache as his primary database. We'll explore just how Florida Man will do this without losing persistence and without having to drop ACID—that's atomicity, consistency, isolation, and durability. And we'll see that Florida Man can have all the CRUD a database provides and the blazing fast speed that a cache provides.\r\n\r\nWe'll do this with an app that would make Florida Man proud. I've cooked up a service that screen scrapes websites with articles featuring his exploits and loads them into Redis—my cache of choice. On top of this, I've built a website that allows users to view and search for articles—using tags, keywords, and vector search.\r\n\r\nI'll show how all of it works—covering the details above—and explain what vector search and embeddings are in a way that even Florida Man could understand. And, of course, I'll demo it live so we can find the Florida Man stories you need to see.\r\n\r\nWhen it's all said and done, you'll see how a cache like Redis can be persistent, ACID-compliant, and even searchable. You'll have an intuitive understanding of vector search, and—best of all—you'll have an app that you can use to start your own projects.",
@@ -2232,6 +2254,38 @@
         848959
       ],
       "fullName": "Henry Berson Saint-Juste",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "c6834890-beee-4a69-96fe-ba6915ae9947",
+      "firstName": "Jeff",
+      "lastName": "McWherter",
+      "bio": "Jeff McWherter is a seasoned business leader and tenacious problem solver with over 26 years in the tech industry. He has a deep understanding of the business landscape with a keen ability to navigate complex challenges with creativity and agility. From local startup to Fortune 500, he has worked with a wide client range, always adapting to the unique needs and challenges of each project. He has developed a deep understanding of the trends and technologies shaping the future of business, and is constantly seeking out new ideas and insights to stay ahead of the curve. Jeff is a three time published author and avid speaker at technical conferences across the world. A Michigan State University graduate, Jeff has also been instrumental in improving the software development community in Michigan and beyond. He founded Gravity Works Design & Development during the 2009 recession, which has since grown into one of the country's leading digital agencies. Jeff has led more than a decade of consistent, managed growth and numerous creative accolades, including Addy, W3, Vega, Davey, and PACE awards.\r\n\r\nJeff believes strong relationships are the foundation of any successful business venture, and is committed to fostering those connections both inside and outside the office. As a father and active community member, Jeff knows success isn't just about achieving your own goals: it's about helping others reach theirs. Whether leading a project, volunteering locally, or cheering on his daughters, Jeff is always looking to make a positive impact in the world around him.\r\n\r\nJeff's commitment to helping others achieve their goals is a testament to his leadership, fresh perspectives, and innovative solutions. Join the conversation, and get information about speaking engagements and projects.",
+      "tagLine": "Chief Operating Officer at Gravity Works Design",
+      "profilePicture": "https://sessionize.com/image/7b1f-400o400o1-M2KbeEykRZkkrwUiVGomqQ.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jmcw/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.mcwherter.net",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.gravityworksdesign.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        841684
+      ],
+      "fullName": "Jeff McWherter",
       "categoryItems": [],
       "questionAnswers": []
     },

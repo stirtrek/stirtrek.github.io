@@ -43,9 +43,18 @@ h3 {
 
 #stirTrekHeroContainer {
     background: url("/images/StirTrek-Logo-Banner-453x350.png") no-repeat top;
+    height: 400px;
+    
+    /* background: url("/images/stir trek 2025 chase_1140x502.png") no-repeat top; */
+    /* margin-bottom: 50px; */ /* remove this when going back to our logo */
+    /* height: 502px; */
+
+    /* background: url("/images/StirTrek 2025 heros 650x497.png") no-repeat top;
+    height: 500px; */
+
+    
     position: relative;
     font-family: 'Komika Axis', 'Comic Sans MS';
-    height: 400px;
     margin-top: 100px;
 }
 

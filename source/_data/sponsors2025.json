@@ -1,8 +1,7 @@
 {
-    "sponsors":
-    {
-        "platinum":[],
-        "gold":[
+    "sponsors": {
+        "platinum": [],
+        "gold": [
             {
                 "name": "CGI",
                 "link": "https://www.cgi.com/",
@@ -10,8 +9,15 @@
                 "logo": "/images/sponsors/cgi_350x200v2.jpg"
             }
         ],
-        "silver":[],
-        "bronze":[
+        "silver": [
+            {
+                "name": "Revel IT",
+                "link": "https://www.revelit.com",
+                "description": "Revel IT delivers top talent through a unique recruiting process and a dedicated sales and recruiting team. We specialize in IT consulting, staffing solutions, and talent development, fostering a skilled workforce through strategic partnerships.",
+                "logo": "/images/sponsors/revelit_350x200.png"
+            }
+        ],
+        "bronze": [
             {
                 "name": "Central Insurance",
                 "link": "https://www.central-insurance.com",

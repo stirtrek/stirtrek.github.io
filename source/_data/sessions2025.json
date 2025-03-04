@@ -531,6 +531,28 @@
       "isConfirmed": true
     },
     {
+      "id": "841684",
+      "title": "Ethical Implications of Artificial Intelligence",
+      "description": "As artificial intelligence (AI) continues to advance at an unprecedented rate, there is an urgent need to consider its ethical implications. AI has the potential to revolutionize many industries, but it also presents new challenges and risks. Programmers play a critical role in shaping the development and deployment of AI, and must therefore be aware of its ethical implications.\r\n\r\nIn this session, we will explore the ethical considerations of AI and its impact on society. We will examine the challenges of developing and deploying AI systems that are unbiased, transparent, and accountable. We will discuss the ethical implications of AI in different fields, including healthcare, finance, and transportation. We will also explore the role of programmers in ensuring that AI is developed and deployed ethically.\r\n\r\nFinally, we will discuss best practices for ethical implementation of AI, including designing for transparency, fairness, and accountability. We will also consider the importance of ethical decision-making frameworks and guidelines for AI development and deployment. By the end of this session, participants will have a better understanding of the ethical implications of AI and how they can play a role in ensuring that AI is developed and deployed ethically.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c6834890-beee-4a69-96fe-ba6915ae9947"
+      ],
+      "categoryItems": [
+        330776
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "843130",
       "title": "Florida Man Uses Cache as Database",
       "description": "Florida Man loves speed. He loves it so much that he’s going to do the unthinkable—he's going to use a cache as his primary database. We'll explore just how Florida Man will do this without losing persistence and without having to drop ACID—that's atomicity, consistency, isolation, and durability. And we'll see that Florida Man can have all the CRUD a database provides and the blazing fast speed that a cache provides.\r\n\r\nWe'll do this with an app that would make Florida Man proud. I've cooked up a service that screen scrapes websites with articles featuring his exploits and loads them into Redis—my cache of choice. On top of this, I've built a website that allows users to view and search for articles—using tags, keywords, and vector search.\r\n\r\nI'll show how all of it works—covering the details above—and explain what vector search and embeddings are in a way that even Florida Man could understand. And, of course, I'll demo it live so we can find the Florida Man stories you need to see.\r\n\r\nWhen it's all said and done, you'll see how a cache like Redis can be persistent, ACID-compliant, and even searchable. You'll have an intuitive understanding of vector search, and—best of all—you'll have an app that you can use to start your own projects.",
@@ -1015,6 +1037,28 @@
       "isConfirmed": true
     },
     {
+      "id": "845438",
+      "title": "Seven Deadly Sins of Management",
+      "description": "First-time leaders often feel overwhelmed by the complexity of their new role. Every team has unique needs, and the sheer number of responsibilities can seem daunting. Instead of focusing on an exhaustive list of things you must do, this talk offers a refreshing perspective: a strategic approach to leadership that emphasizes what you should AVOID doing.\r\nWe'll explore a counterintuitive leadership growth strategy that concentrates on preventing common management pitfalls. By understanding and avoiding these deadly sins of management, you can create a more supportive environment for your team, boost their productivity, and build your confidence as a new leader.\r\nWhether you're stepping into a leadership role for the first time or looking to refine your current management approach, this discussion will provide insights to help you navigate the challenges of leadership more effectively. We'll uncover the \"seven deadly sins\" of management that can undermine your team's success—often without you even realizing it.\r\nPrepare to transform your leadership journey from a source of stress to an opportunity for meaningful growth and team empowerment.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e5b9e6c6-1477-4b19-8347-06683a7417de"
+      ],
+      "categoryItems": [
+        330778
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "847987",
       "title": "Side Quests: How creative tinkering and exploration can transform you, one side project at a time",
       "description": "If you're anything like me, you like to build fun things and have fun while doing so. In this fun talk we'll talk about the value of side projects as a tool for perpetual learning, growth, emotional health, and career development in the tech world.\r\n\r\nWe'll tour the landscape of side projects and why you might want to pick one up, how to select a side project and get started with one, how to constrain the scope of a side project and make progress against it, and how to bring side projects to their inevitable conclusion.\r\n\r\nSide projects aren't easy, though, and so we'll talk about getting unstuck, finding time for side projects, what to do when you're bored of a side project (or tempted by a new one), and ways of growing and staying healthy in those seasons of life when side projects just aren't feasible.\r\n\r\nAlong the way, you'll hear some tales of interesting, innovative, amusing, and even horrifying side projects I've taken on over the years and hear a few specific ways that side projects have impacted myself and those I've had the privilege of mentoring.",
@@ -1059,6 +1103,28 @@
       "isConfirmed": true
     },
     {
+      "id": "848959",
+      "title": "Stop Fearing Databases—SQL vs. NoSQL: Navigating the Database Dilemma",
+      "description": "In the evolving landscape of data management, choosing between SQL and NoSQL databases is a critical decision that can shape the success of your projects. This technical talk dives deep into the trade-offs, challenges, and best practices associated with both SQL and NoSQL databases.\r\n\r\nExplore the strengths and limitations of each approach, from the structured, relational power of SQL to the flexible, scalable nature of NoSQL. Learn how to effectively navigate the challenges of data modeling, scalability, and consistency. Whether you’re managing legacy systems or building cutting-edge applications, this session will provide the insights and tools you need to make informed decisions and optimize your database solutions for performance, reliability, and scalability.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "afe8e698-95d5-45ad-b69a-d1e202d9698b"
+      ],
+      "categoryItems": [
+        330776
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "843735",
       "title": "Taking a Gamble With Functional Domain Modeling",
       "description": "Over the past few years, Functional Programming has entered the mainstream when it comes to libraries and frameworks for various kinds of technologies and there are plenty of tutorials and resources to learn the basics.\r\n\r\nWith that being said, when it comes to building something non-trivial, there's a gap between what tutorials cover and real-world situations. For example, how do we model a system that makes illegal states unrepresentable? How do we handle operations that can fail? How do we combine business rules with application rules?\r\n\r\nIn this talk, I'm going to show you how to tackle these concerns as we model the game of Blackjack. By doubling down on concepts like algebraic data types, Options, and Results, you'll learn how to build applications that work in the real world.",
@@ -1093,6 +1159,28 @@
       ],
       "categoryItems": [
         328816
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "843195",
+      "title": "The Angular Renaissance - Key New Features",
+      "description": "Angular has been stable and capable for a long time, and there were several releases in recent years with only minor improvements. This led many to conclude that the framework was stagnant.\r\n\r\nInstead, the reality is that the Angular team was rewriting the internals of the framework to make it more capable in a project called Ivy. Now that Ivy is complete, we are seeing significant changes to improve the developer experience and to add innovative capabilities.\r\n\r\nThere have been many major improvements in Angular 16 through 19, and we'll cover standalone components, signals, deferrable views, new control flow, and more.\r\n\r\nCome to this talk to learn how Angular is leaping forward to make your development live easier.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b6e26226-8a65-46e7-9538-d0924f53d895"
+      ],
+      "categoryItems": [
+        330773
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -1225,6 +1313,28 @@
       ],
       "categoryItems": [
         330773
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "845996",
+      "title": "Writing software for the NES in 2025",
+      "description": "Yes, that's right, NES as in the Nintendo Entertainment System! \r\nHave you ever wondered what it was like to develop for this iconic system? Learn how to write simple NES games in C using free tools and emulators available today.\r\n\r\nJon also has a GitHub project for writing NES games in C#. He'll talk a bit how this works, and if you're interested, how to help!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9764e182-22d8-4941-878f-055b361a3057"
+      ],
+      "categoryItems": [
+        330777
       ],
       "questionAnswers": [],
       "roomId": null,
@@ -2111,6 +2221,75 @@
       "questionAnswers": []
     },
     {
+      "id": "afe8e698-95d5-45ad-b69a-d1e202d9698b",
+      "firstName": "Henry Berson",
+      "lastName": "Saint-Juste",
+      "bio": "Henry Saint-Juste is a solution architect at NetJets, based out of Columbus, Ohio. Henry has a decade of experience building scalable mobile applications with Objective-C, Swift, and Java. As an architect Henry enjoys building modules that promotes clean code and enhances the developer experience, while delivering value to the business. Embodying Rob C. Martin's reference from Clean Architecture—\"The Tale of Two Values\" where software applications boils down to two values—Behavior, and Architecture.",
+      "tagLine": "The Solutions Architect",
+      "profilePicture": "https://sessionize.com/image/a534-400o400o1-wHhRBanA7XGvpgExy474qN.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/TheAppDr",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/hberson",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://thesolutionarchitect.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.netjets.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        848959
+      ],
+      "fullName": "Henry Berson Saint-Juste",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "c6834890-beee-4a69-96fe-ba6915ae9947",
+      "firstName": "Jeff",
+      "lastName": "McWherter",
+      "bio": "Jeff McWherter is a seasoned business leader and tenacious problem solver with over 26 years in the tech industry. He has a deep understanding of the business landscape with a keen ability to navigate complex challenges with creativity and agility. From local startup to Fortune 500, he has worked with a wide client range, always adapting to the unique needs and challenges of each project. He has developed a deep understanding of the trends and technologies shaping the future of business, and is constantly seeking out new ideas and insights to stay ahead of the curve. Jeff is a three time published author and avid speaker at technical conferences across the world. A Michigan State University graduate, Jeff has also been instrumental in improving the software development community in Michigan and beyond. He founded Gravity Works Design & Development during the 2009 recession, which has since grown into one of the country's leading digital agencies. Jeff has led more than a decade of consistent, managed growth and numerous creative accolades, including Addy, W3, Vega, Davey, and PACE awards.\r\n\r\nJeff believes strong relationships are the foundation of any successful business venture, and is committed to fostering those connections both inside and outside the office. As a father and active community member, Jeff knows success isn't just about achieving your own goals: it's about helping others reach theirs. Whether leading a project, volunteering locally, or cheering on his daughters, Jeff is always looking to make a positive impact in the world around him.\r\n\r\nJeff's commitment to helping others achieve their goals is a testament to his leadership, fresh perspectives, and innovative solutions. Join the conversation, and get information about speaking engagements and projects.",
+      "tagLine": "Chief Operating Officer at Gravity Works Design",
+      "profilePicture": "https://sessionize.com/image/7b1f-400o400o1-M2KbeEykRZkkrwUiVGomqQ.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jmcw/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.mcwherter.net",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.gravityworksdesign.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        841684
+      ],
+      "fullName": "Jeff McWherter",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "c85a2ada-5d69-4621-8d06-9b082fc66363",
       "firstName": "Jeff",
       "lastName": "Valore",
@@ -2181,6 +2360,43 @@
       "questionAnswers": []
     },
     {
+      "id": "e5b9e6c6-1477-4b19-8347-06683a7417de",
+      "firstName": "Jennifer",
+      "lastName": "Wadella",
+      "bio": "Often described as a force of nature, Jennifer is a visionary leader with a proven track record in management excellence and leading software teams to successful execution of business goals. \r\n\r\nWith deep roots in frontend engineering Jennifer is still widely regarded as an expert in the Angular space despite her growing tenure in non-coding management roles. Jennifer combines years of experience in developing JavaScript applications through interfacing with users, stakeholders and business executives with a keen eye on the current development landscape & trends to craft strategic vision and lead teams to sustainable growth that contributes to company success. \r\n\r\nJennifer is passionate about developer communities, and shares her expertise in frontend development, engineering management, maximizing productivity, and community building across the world as a widely sought-after public speaker. She is also the founder of Kansas City Women in Technology, a non-profit that has taught thousands of women and girls in the Kansas City area to code, and helped women enter tech careers.",
+      "tagLine": "VP of Frontend Engineering, Bitovi",
+      "profilePicture": "https://sessionize.com/image/7908-400o400o1-PwGjCJBj2kaHknrCqYfdMZ.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/likeOMGitsFEDAY",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jennifer-wadella/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://jenniferwadella.com/blog",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://bitovi.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        845438
+      ],
+      "fullName": "Jennifer Wadella",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "e3d60e4b-9d07-4dc0-b02d-9d4e3d6ece9b",
       "firstName": "Jeremy",
       "lastName": "Clark",
@@ -2246,6 +2462,43 @@
         837543
       ],
       "fullName": "Jerry Nixon",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9764e182-22d8-4941-878f-055b361a3057",
+      "firstName": "Jonathan",
+      "lastName": "Peppers",
+      "bio": "I used to build apps in C#. Now I build *tools* to build apps in C#. Engineer on the .NET Android / .NET MAUI team.",
+      "tagLine": "Engineer, .NET for Android, Microsoft",
+      "profilePicture": "https://sessionize.com/image/8d89-400o400o1-82-22d8-4941-878f-055b361a3057.8e844efa-9fbd-4e48-bf6c-939af48763e9.JPG",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/jonathanpeppers",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/jonathanpeppers",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://jonathanpeppers.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://devblogs.microsoft.com/dotnet/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        845996
+      ],
+      "fullName": "Jonathan Peppers",
       "categoryItems": [],
       "questionAnswers": []
     },
@@ -2352,6 +2605,38 @@
         849255
       ],
       "fullName": "Kelly Morrison",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "b6e26226-8a65-46e7-9538-d0924f53d895",
+      "firstName": "Lance",
+      "lastName": "Finney",
+      "bio": "After more than a decade focused on the Java desktop world, I've been in the Angular/JavaScript/TypeScript space since 2014.\r\n\r\nI develop Angular projects and mentor junior Angular developers on my projects, and I used to be an instructor with Angular Boot Camp. Father of two, software developer, and world traveler (when I can sneak it in).",
+      "tagLine": "Angular Developer and Instructor",
+      "profilePicture": "https://sessionize.com/image/2e8c-400o400o1-GkU4FL6QoA2dns4fwJF7gE.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "http://twitter.com/LMFinneyCoder",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/lmfinney/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.inficon.com/en",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        843195
+      ],
+      "fullName": "Lance Finney",
       "categoryItems": [],
       "questionAnswers": []
     },

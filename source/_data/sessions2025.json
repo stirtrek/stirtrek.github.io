@@ -244,6 +244,28 @@
       "isConfirmed": true
     },
     {
+      "id": "848848",
+      "title": "Bridging the Gap: Taking Your Design System from Figma to Code",
+      "description": "Design systems are the backbone of consistent and scalable digital experiences, yet translating them from design tools into production-ready code remains a daunting challenge. In this session, we’ll explore how to streamline this process by automating the connection between Figma and code using innovative tools like Storybook.\r\n\r\nWe’ll dive into practical strategies for creating a unified source of truth, aligning designers and developers with shared components, and leveraging automation to reduce inefficiencies. Learn how to maximize efficiency with design token management, component documentation, and seamless handoffs to developers. We’ll also discuss integrating with tools like Storybook to create a living style guide to ensure your design system remains robust and up-to-date.\r\n\r\nWhether you’re starting from scratch or refining an existing system, you’ll have actionable insights on accelerating the design-to-code pipeline, minimizing rework, and maximizing collaboration across your team.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "394a1214-de57-43e2-906d-9c252d54b5ca"
+      ],
+      "categoryItems": [
+        330779
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "840085",
       "title": "Bringing Augmented Reality to the Web with 8th Wall",
       "description": "This session will introduce attendees to the world of WebAR development using 8th Wall.  We'll explore how to build engaging AR web apps that blend digital content with the real world, without requiring users to download any special apps",
@@ -2999,6 +3021,22 @@
         848014
       ],
       "fullName": "Robert Herbig",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "394a1214-de57-43e2-906d-9c252d54b5ca",
+      "firstName": "Ryan",
+      "lastName": "Albertsun",
+      "bio": "Hi I’m Ryan Albertson, I design software, I draw, I paint, I sculpt, I play games, I even code. I run my own design consulting company focused on User Experience and User Interface Design and Development across all platforms. I speak about Design in Technology and have a passion for making awesome software.",
+      "tagLine": "Co-Founder @ Buttons",
+      "profilePicture": "https://sessionize.com/image/1f34-400o400o1-Dxe2XKH8niD9cgHo7u3qdj.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        848848
+      ],
+      "fullName": "Ryan Albertsun",
       "categoryItems": [],
       "questionAnswers": []
     },

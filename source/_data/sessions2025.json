@@ -68,28 +68,6 @@
       "isConfirmed": true
     },
     {
-      "id": "848197",
-      "title": "An Enterprise Data Architecture Framework",
-      "description": "One of the challenges facing enterprise architecture is maintaining consistency across the enterprise. This is challenging because data comes from disparate sources and systems representing different purposes, focuses, and objectives. On top of that, there needs to be more clarity regarding the terms Data Lake, Data Warehouse, Operational Data Store, etc. To overcome these challenges at an enterprise level, a framework is necessary to apply data uniformly, consistently, and meaningfully. The framework will transform data from multiple, disparate data sources into an operational data store, a consistent, homogeneous environment, as the single dependable source of truth for all reporting and analytics.\r\n\r\nThis session will present that framework and discuss the following:\r\n\t• The challenges facing data analytics and reporting due to multiple disparate data sources\r\n\t• An introduction to the various terms used today for data storage\r\n\t• The purpose of an Operational Data Store and how it improves data usability\r\n\t• The data zones for Raw, Refined, and Published data\r\n\t• How data standards simplify and enhance data usability\r\n\t• A method to provide primary and foreign keys across disparate data",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "052dca4e-e8ad-44d5-88ad-f4bdc3714968"
-      ],
-      "categoryItems": [
-        330774
-      ],
-      "questionAnswers": [],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
       "id": "847091",
       "title": "Authentication Demystified: Basic Auth to Web Tokens in 60 minutes",
       "description": "Have you ever searched for \"how to authenticate an API call\" and been confused by the dizzying array of techniques, terminology, jargon, and acronyms that come back? \r\n\r\nThis session is designed for anyone that's struggling to make sense of modern authentication options. You'll learn the differences between OAuth, API Keys, HMAC, JSON Web Tokens (JWT), SAML, OpenID Connect, and passkeys using Webauthn. Each technique will be explained in a clear, practical, easy-to-understand way.\r\n\r\nThis session focuses on core concepts, not code, and is accessible to anyone that works with technology.",
@@ -1368,43 +1346,6 @@
     }
   ],
   "speakers": [
-    {
-      "id": "052dca4e-e8ad-44d5-88ad-f4bdc3714968",
-      "firstName": "Aaron",
-      "lastName": "Cutshall, DHA, MSHI",
-      "bio": "Dr. Aaron N. Cutshall is a proven leader in Healthcare Informatics with nearly 40 years of experience in application and database analysis, design, and development. He focuses on clinical quality and massive databases. He actively speaks nationwide at conferences and user group sessions on data architecture, analytics, and professional development topics.",
-      "tagLine": "Honest Health, Director, Data Services",
-      "profilePicture": "https://sessionize.com/image/deba-400o400o1-raMYsB5Dh8DFBe58p6HGRe.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "X (Twitter)",
-          "url": "https://twitter.com/sqlrv",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/sqlrv/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://www.sqlrv.com",
-          "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://www.sqlrv.com",
-          "linkType": "Company_Website"
-        }
-      ],
-      "sessions": [
-        848197
-      ],
-      "fullName": "Aaron Cutshall, DHA, MSHI",
-      "categoryItems": [],
-      "questionAnswers": []
-    },
     {
       "id": "6fc0c6b2-0d52-4738-8c7d-4013e397d444",
       "firstName": "AL",

@@ -68,6 +68,28 @@
       "isConfirmed": true
     },
     {
+      "id": "843002",
+      "title": "Asynchronous JavaScript: Livin' On A Prayer",
+      "description": "There is a unique world where Single-Threaded JavaScript manages to be much more. JavaScript interacts with its environment in ways that allow it to handle Asynchronous activities. Using several detailed code examples, we will examine these examples in a unique way to show how these interactions truly work.\r\n\r\nThis talk has been also called, \"JavaScript Enjoys Your Tears\" and \"Lip Sync To The Async\". If you are an experienced developer or new to the field, there is something in this presentation for you.\r\n\r\nThis session takes a look at how JavaScript manages Asynchronous events and some of the ways developer decisions may work for, or against them.\r\n\r\nThis discussion will examine the ways that JavaScript coordinates and manages events using several coding examples and we can determine which are the good, the bad, and ... the ugly.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "ed4af73a-6781-4882-a8c3-12ee0c68c1a5"
+      ],
+      "categoryItems": [
+        330773
+      ],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "847091",
       "title": "Authentication Demystified: Basic Auth to Web Tokens in 60 minutes",
       "description": "Have you ever searched for \"how to authenticate an API call\" and been confused by the dizzying array of techniques, terminology, jargon, and acronyms that come back? \r\n\r\nThis session is designed for anyone that's struggling to make sense of modern authentication options. You'll learn the differences between OAuth, API Keys, HMAC, JSON Web Tokens (JWT), SAML, OpenID Connect, and passkeys using Webauthn. Each technique will be explained in a clear, practical, easy-to-understand way.\r\n\r\nThis session focuses on core concepts, not code, and is accessible to anyone that works with technology.",
@@ -1503,6 +1525,48 @@
         847706
       ],
       "fullName": "Barret Blake",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "ed4af73a-6781-4882-a8c3-12ee0c68c1a5",
+      "firstName": "Bob",
+      "lastName": "Fornal",
+      "bio": "My focus is on front-end development: JavaScript, CSS, SVG, Angular, React, React-Native, Vue, and Ionic. I commonly speak about Quality Engineering, Best Practices, and Front-End Technologies.\r\n\r\nOwner of Code Squid, LLC.\r\nSenior Solutions Developer II (Front-End) at Leading EDJE, Inc.\r\n\r\n\"Learning from my mistakes over the decades, I feel that I have become a solid programmer.\" -- Me",
+      "tagLine": "Senior Developer with a passion for learning, testing, mentoring, speaking and personal growth. Blessed husband and proud father of two.",
+      "profilePicture": "https://sessionize.com/image/fdcd-400o400o1-swttbpmdquw6kZMmcRb7bc.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/rfornal",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/rfornal/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://dev.to/rfornal",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.leadingedje.com/home",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Business Website",
+          "url": "https://code-squid.com",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        843002
+      ],
+      "fullName": "Bob Fornal",
       "categoryItems": [],
       "questionAnswers": []
     },

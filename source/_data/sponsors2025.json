@@ -59,6 +59,12 @@
                 "link": "http://www.telerik.com/",
                 "description": "Progress (NASDAQ: PRGS) offers the leading platform for developing and deploying mission-critical business applications. The creator of the award-winning Telerik .NET and Kendo UI JavaScript user interface components/controls, reporting solutions and productivity tools, Progress offers all the tools developers need to build high-performance modern apps with outstanding UI. Learn more about the Progress developer tools at: www.telerik.com or 1-781-280-4000.",
                 "logo": "/images/sponsors/Progress_350x200.png"
+            },
+            {
+                "name": "GemCity TECH",
+                "link": "https://gemcity.tech/",
+                "description": "GemCity TECH is a family of user groups bringing tech-focused content to the Dayton Ohio community. Our calendar is filled with opportunities to learn and share information with other technology enthusiasts. GemCity TECH’s mission is to grow the local industry and the community by providing a centralized destination for technical training, workshops and collaborating. Join us to nurture your passion for technology and be a part of shaping the future of the GemCity TECH community.",
+                "logo": "/images/sponsors/gemcitytech_350x200.jpg"
             }
         ]
     }

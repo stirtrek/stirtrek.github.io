@@ -2,8 +2,319 @@
   "scheduledSessions": {
     "timeSlots": [
       {
-        "time": "Invalid date",
-        "sessions": []
+        "time": "7:30 AM",
+        "sessions": [
+          {
+            "id": "9a9ac2c5-3139-4f1f-949b-0d4375c0515c",
+            "scheduledRoom": "Concourse"
+          }
+        ]
+      },
+      {
+        "time": "8:30 AM",
+        "sessions": [
+          {
+            "id": "840163",
+            "scheduledRoom": "Iron Man"
+          },
+          {
+            "id": "836066",
+            "scheduledRoom": "Thor"
+          },
+          {
+            "id": "836201",
+            "scheduledRoom": "Hulk"
+          },
+          {
+            "id": "836316",
+            "scheduledRoom": "Spiderman"
+          },
+          {
+            "id": "837395",
+            "scheduledRoom": "Doctor Strange"
+          },
+          {
+            "id": "837543",
+            "scheduledRoom": "Captain America"
+          },
+          {
+            "id": "839912",
+            "scheduledRoom": "Black Panther"
+          },
+          {
+            "id": "840085",
+            "scheduledRoom": "Black Widow"
+          }
+        ]
+      },
+      {
+        "time": "9:30 AM",
+        "sessions": [
+          {
+            "id": "840380",
+            "scheduledRoom": "Iron Man"
+          },
+          {
+            "id": "843130",
+            "scheduledRoom": "Thor"
+          },
+          {
+            "id": "841028",
+            "scheduledRoom": "Hulk"
+          },
+          {
+            "id": "841684",
+            "scheduledRoom": "Spiderman"
+          },
+          {
+            "id": "842088",
+            "scheduledRoom": "Doctor Strange"
+          },
+          {
+            "id": "842459",
+            "scheduledRoom": "Captain America"
+          },
+          {
+            "id": "843195",
+            "scheduledRoom": "Black Panther"
+          },
+          {
+            "id": "844040",
+            "scheduledRoom": "Black Widow"
+          }
+        ]
+      },
+      {
+        "time": "10:30 AM",
+        "sessions": [
+          {
+            "id": "846104",
+            "scheduledRoom": "Iron Man"
+          },
+          {
+            "id": "840595",
+            "scheduledRoom": "Thor"
+          },
+          {
+            "id": "847091",
+            "scheduledRoom": "Hulk"
+          },
+          {
+            "id": "843937",
+            "scheduledRoom": "Spiderman"
+          },
+          {
+            "id": "849232",
+            "scheduledRoom": "Doctor Strange"
+          },
+          {
+            "id": "844342",
+            "scheduledRoom": "Captain America"
+          },
+          {
+            "id": "843002",
+            "scheduledRoom": "Black Panther"
+          },
+          {
+            "id": "844411",
+            "scheduledRoom": "Black Widow"
+          }
+        ]
+      },
+      {
+        "time": "11:30 AM",
+        "sessions": [
+          {
+            "id": "843131",
+            "scheduledRoom": "Iron Man"
+          },
+          {
+            "id": "844584",
+            "scheduledRoom": "Thor"
+          },
+          {
+            "id": "845245",
+            "scheduledRoom": "Hulk"
+          },
+          {
+            "id": "845433",
+            "scheduledRoom": "Spiderman"
+          },
+          {
+            "id": "849234",
+            "scheduledRoom": "Doctor Strange"
+          },
+          {
+            "id": "845438",
+            "scheduledRoom": "Captain America"
+          },
+          {
+            "id": "845962",
+            "scheduledRoom": "Black Panther"
+          },
+          {
+            "id": "845996",
+            "scheduledRoom": "Black Widow"
+          }
+        ]
+      },
+      {
+        "time": "12:15 PM",
+        "sessions": [
+          {
+            "id": "a986d611-2943-4646-8cc2-bca2dfb8cfa6",
+            "scheduledRoom": "Concourse"
+          }
+        ]
+      },
+      {
+        "time": "1:15 PM",
+        "sessions": [
+          {
+            "id": "843735",
+            "scheduledRoom": "Iron Man"
+          },
+          {
+            "id": "846264",
+            "scheduledRoom": "Thor"
+          },
+          {
+            "id": "841058",
+            "scheduledRoom": "Hulk"
+          },
+          {
+            "id": "846995",
+            "scheduledRoom": "Spiderman"
+          },
+          {
+            "id": "846583",
+            "scheduledRoom": "Doctor Strange"
+          },
+          {
+            "id": "847197",
+            "scheduledRoom": "Captain America"
+          },
+          {
+            "id": "847785",
+            "scheduledRoom": "Black Panther"
+          },
+          {
+            "id": "847827",
+            "scheduledRoom": "Black Widow"
+          }
+        ]
+      },
+      {
+        "time": "2:15 PM",
+        "sessions": [
+          {
+            "id": "847093",
+            "scheduledRoom": "Iron Man"
+          },
+          {
+            "id": "847706",
+            "scheduledRoom": "Thor"
+          },
+          {
+            "id": "847868",
+            "scheduledRoom": "Hulk"
+          },
+          {
+            "id": "847987",
+            "scheduledRoom": "Spiderman"
+          },
+          {
+            "id": "848014",
+            "scheduledRoom": "Doctor Strange"
+          },
+          {
+            "id": "848127",
+            "scheduledRoom": "Captain America"
+          },
+          {
+            "id": "848387",
+            "scheduledRoom": "Black Widow"
+          }
+        ]
+      },
+      {
+        "time": "3:15 PM",
+        "sessions": [
+          {
+            "id": "848832",
+            "scheduledRoom": "Iron Man"
+          },
+          {
+            "id": "848848",
+            "scheduledRoom": "Thor"
+          },
+          {
+            "id": "848931",
+            "scheduledRoom": "Hulk"
+          },
+          {
+            "id": "848959",
+            "scheduledRoom": "Spiderman"
+          },
+          {
+            "id": "849053",
+            "scheduledRoom": "Doctor Strange"
+          },
+          {
+            "id": "849060",
+            "scheduledRoom": "Captain America"
+          },
+          {
+            "id": "849160",
+            "scheduledRoom": "Black Panther"
+          },
+          {
+            "id": "849214",
+            "scheduledRoom": "Black Widow"
+          }
+        ]
+      },
+      {
+        "time": "4:15 PM",
+        "sessions": [
+          {
+            "id": "848909",
+            "scheduledRoom": "Iron Man"
+          },
+          {
+            "id": "844088",
+            "scheduledRoom": "Thor"
+          },
+          {
+            "id": "849246",
+            "scheduledRoom": "Hulk"
+          },
+          {
+            "id": "849255",
+            "scheduledRoom": "Spiderman"
+          },
+          {
+            "id": "849258",
+            "scheduledRoom": "Doctor Strange"
+          },
+          {
+            "id": "850109",
+            "scheduledRoom": "Captain America"
+          },
+          {
+            "id": "854502",
+            "scheduledRoom": "Black Panther"
+          }
+        ]
+      },
+      {
+        "time": "5:00 PM",
+        "sessions": [
+          {
+            "id": "85b146b6-9ebb-4550-903f-3691339b0b3e",
+            "scheduledRoom": "Concourse"
+          }
+        ]
       }
     ]
   }

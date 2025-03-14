@@ -195,18 +195,18 @@
       "isConfirmed": true
     },
     {
-      "id": "840380",
-      "title": "How to Build Your Own Copilot for .NET Devs",
-      "description": "Curious about building your own AI-powered assistant, but not sure where to start? Join me for a deep dive into Microsoft's Azure AI services. We will review which approach in Azure AI Foundry, Semantic Kernel SDK, and Copilot Studio fits best for various scenarios.\r\n\r\nThe talk aims to strip away complexities and simplify the learning curve of choosing the right tool for you. We’ll focus on practical demonstrations, including quickly deploying a model, building AI agents, and showing how options for code orchestration functions. We'll also explore integration with Azure OpenAI services, highlighting how these resources work together.\r\n\r\nUltimately, discover how to build such a good Copilot that it might take your job... but probably won’t.",
+      "id": "841028",
+      "title": "Effective Automated Testing - Lessons from 10 Years",
+      "description": "Writing automated tests is hard. Why? Changing data, inconsistent behaviors, unreliable environments, tightly coupled code, and more. In this session, we'll explore approaches for overcoming these challenges and writing robust and comprehensive automated tests. Topics explored will include mocking HTTP calls, creating effective test data, choosing between testing paradigms like unit, integration, and end-to-end tests, and custom dev tools. After this session, you'll walk away with new patterns and tools for comprehensively testing your app.  ",
       "startsAt": "2025-05-02T09:30:00",
       "endsAt": "2025-05-02T10:15:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "13924f5b-13f0-4fd8-a0bf-06f633dad5c9"
+        "424f7166-a882-473f-b05e-15aed7f9ff86"
       ],
       "categoryItems": [
-        330776
+        328816
       ],
       "questionAnswers": [],
       "roomId": 56814,
@@ -239,18 +239,18 @@
       "isConfirmed": true
     },
     {
-      "id": "841028",
-      "title": "Effective Automated Testing - Lessons from 10 Years",
-      "description": "Writing automated tests is hard. Why? Changing data, inconsistent behaviors, unreliable environments, tightly coupled code, and more. In this session, we'll explore approaches for overcoming these challenges and writing robust and comprehensive automated tests. Topics explored will include mocking HTTP calls, creating effective test data, choosing between testing paradigms like unit, integration, and end-to-end tests, and custom dev tools. After this session, you'll walk away with new patterns and tools for comprehensively testing your app.  ",
+      "id": "840380",
+      "title": "How to Build Your Own Copilot for .NET Devs",
+      "description": "Curious about building your own AI-powered assistant, but not sure where to start? Join me for a deep dive into Microsoft's Azure AI services. We will review which approach in Azure AI Foundry, Semantic Kernel SDK, and Copilot Studio fits best for various scenarios.\r\n\r\nThe talk aims to strip away complexities and simplify the learning curve of choosing the right tool for you. We’ll focus on practical demonstrations, including quickly deploying a model, building AI agents, and showing how options for code orchestration functions. We'll also explore integration with Azure OpenAI services, highlighting how these resources work together.\r\n\r\nUltimately, discover how to build such a good Copilot that it might take your job... but probably won’t.",
       "startsAt": "2025-05-02T09:30:00",
       "endsAt": "2025-05-02T10:15:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "424f7166-a882-473f-b05e-15aed7f9ff86"
+        "13924f5b-13f0-4fd8-a0bf-06f633dad5c9"
       ],
       "categoryItems": [
-        328816
+        330776
       ],
       "questionAnswers": [],
       "roomId": 60356,
@@ -371,18 +371,18 @@
       "isConfirmed": true
     },
     {
-      "id": "846104",
-      "title": "Hitchhikers' Guide to the Vulniverse",
-      "description": "DON’T PANIC! Grab your towel and come along for a tour of the crazy acronyms that makes up the Vulniverse! Finding, fixing, and sharing vulnerabilities is a challenge on the easiest of days. Mix in all of the standards, formats, channels, and personalities, it can feel like an insurmountable hill to climb every day. Don’t despair, the Vulniverse Alphabet Soup Guide is here to help make things a little less confusing! Learn about the foundational elements used within Coordinated Vulnerability Disclosure (CVD) by Product Security & Incident Response Teams (PSIRTs), Security Researchers, Computer Emergency Response Teams (CERTs), and Corporate Incident Response & Security Teams (CSIRTs) to help describe and communicate information about security vulnerabilities in hardware and software. Learn about how formats such as CVE (Common Vulnerability & Exposures CVE), CVSS (Common Vulnerability Scoring System), Common Weakness Enumeration (CWE), and newer items like Vulnerability EXchange (VEX) all have vital parts to play helping get information and fixes in the hands of software and hardware consumers! After this, YOU’LL be a Vulnerability Babblefish!",
+      "id": "849232",
+      "title": "Beyond the Basics - Building Reusable Code with Blazor",
+      "description": "Stop writing the same code over and over again.  With the reusable components in Blazor, you can make your projects simpler and your code processes more productive.  Join Microsoft's Jeff Fritz from the .NET team as we learn about building components and even writing a few unit tests for Blazor",
       "startsAt": "2025-05-02T10:30:00",
       "endsAt": "2025-05-02T11:15:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "fb28fb98-62a6-42d1-b058-a54ee7c43f9a"
+        "0b437ec7-f68b-4aeb-8a93-2d8aaf3766e5"
       ],
       "categoryItems": [
-        328813
+        315124
       ],
       "questionAnswers": [],
       "roomId": 56814,
@@ -459,18 +459,18 @@
       "isConfirmed": true
     },
     {
-      "id": "849232",
-      "title": "Beyond the Basics - Building Reusable Code with Blazor",
-      "description": "Stop writing the same code over and over again.  With the reusable components in Blazor, you can make your projects simpler and your code processes more productive.  Join Microsoft's Jeff Fritz from the .NET team as we learn about building components and even writing a few unit tests for Blazor",
+      "id": "846104",
+      "title": "Hitchhikers' Guide to the Vulniverse",
+      "description": "DON’T PANIC! Grab your towel and come along for a tour of the crazy acronyms that makes up the Vulniverse! Finding, fixing, and sharing vulnerabilities is a challenge on the easiest of days. Mix in all of the standards, formats, channels, and personalities, it can feel like an insurmountable hill to climb every day. Don’t despair, the Vulniverse Alphabet Soup Guide is here to help make things a little less confusing! Learn about the foundational elements used within Coordinated Vulnerability Disclosure (CVD) by Product Security & Incident Response Teams (PSIRTs), Security Researchers, Computer Emergency Response Teams (CERTs), and Corporate Incident Response & Security Teams (CSIRTs) to help describe and communicate information about security vulnerabilities in hardware and software. Learn about how formats such as CVE (Common Vulnerability & Exposures CVE), CVSS (Common Vulnerability Scoring System), Common Weakness Enumeration (CWE), and newer items like Vulnerability EXchange (VEX) all have vital parts to play helping get information and fixes in the hands of software and hardware consumers! After this, YOU’LL be a Vulnerability Babblefish!",
       "startsAt": "2025-05-02T10:30:00",
       "endsAt": "2025-05-02T11:15:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "0b437ec7-f68b-4aeb-8a93-2d8aaf3766e5"
+        "fb28fb98-62a6-42d1-b058-a54ee7c43f9a"
       ],
       "categoryItems": [
-        315124
+        328813
       ],
       "questionAnswers": [],
       "roomId": 60358,
@@ -548,6 +548,28 @@
       "isConfirmed": true
     },
     {
+      "id": "849234",
+      "title": "Let’s Aspireify a Real World App!",
+      "description": "We’ve learned a lot about .NET Aspire and how it can help us as developers, but what about deploying and running a real application? In this session, you'll learn about the deployment and configuration options for your .NET Aspire application systems. We'll walk you through the configuration and continuous deployment processes for the aspireify.net website that was built and deployed with .NET Aspire. Finally, you will see how you can adapt an existing library to work with .NET Aspire, deliver great telemetry, and deploy easily.",
+      "startsAt": "2025-05-02T11:30:00",
+      "endsAt": "2025-05-02T12:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0b437ec7-f68b-4aeb-8a93-2d8aaf3766e5"
+      ],
+      "categoryItems": [
+        315124
+      ],
+      "questionAnswers": [],
+      "roomId": 56814,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "843131",
       "title": "Modern Problems Require Modern Solutions: Finding Your Meme Twin with Embeddings & Vector Databases",
       "description": "Do you look like a famous meme character? Does someone you know? Knowing this information is vital—both for your career and your personal life. After all, am I the only one around here who wants to avoid [Angry Walter](https://knowyourmeme.com/memes/am-i-the-only-one-around-here)? And who *wouldn't* want to work with  [Success Kid](https://knowyourmeme.com/memes/success-kid-i-hate-sandcastles).\r\n\r\nBut can we even find out if we have a meme twin? There are lots of memes. And lots of people. How could we possibly search them all? Well, it's easier than you think if we turn those memes into embeddings and search them with a vector database!\r\n\r\nBut what's an embedding? And what's a vector database? Well, that's what I'll cover in this session. I'll begin by exploring embeddings, showing how unstructured data, such as text and images, can be translated into hyper-dimensional arrays—called vectors—using both common and custom AI models. Then I'll talk about vector databases, covering what they are and how you can use them to store and search those embeddings with embeddings of your own.\r\n\r\nOf course, we'll do this all by example. I've turned all the big memes—from [Ancient Aliens Guy](https://knowyourmeme.com/memes/ancient-aliens) to [Zombie Boy](https://imgflip.com/memegenerator/184608242/zombie-boy)—into embeddings and have loaded them into a vector database. I've built an application around these embeddings and that database. I'll show you the code and the queries of this application so that you can build something similar for yourself. And, most importantly, we'll take some photos during the session and use it all to find your meme twin!\r\n\r\nSo, are you ready to find your meme twin? Or are you ready to learn how to use this technology? I say, [Why Not Both](https://knowyourmeme.com/memes/why-not-both-why-dont-we-have-both).",
@@ -560,28 +582,6 @@
       ],
       "categoryItems": [
         330776
-      ],
-      "questionAnswers": [],
-      "roomId": 56814,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "844584",
-      "title": "Beyond the Basics: Designing Web APIs for Long Term Success",
-      "description": "You've seen all the tutorials and getting-started guides promising a quick path to a web API: pick between REST or GraphQL, choose an API framework, and deploy it to the cloud. But what happens when you need to modify, expand, share, or overhaul that API once it is already live in production?\r\n\r\nIn this talk, we’ll explore the real-world challenges we faced as our web APIs evolved over several years. We’ll discuss how initial decisions and insufficient planning led us into pitfalls, resulting in tech debt and obstacles when it came time to evolve our APIs.\r\n\r\nBy addressing design concerns like a well-documented API specification, versioning, Infrastructure as Code (IaC), an API gateway, and enhanced observability, we can avoid future rework and minimize disruption for our customers. Join us to learn strategies for navigating the complexities of evolving APIs and ensuring a smoother path from inception to long-term success.",
-      "startsAt": "2025-05-02T11:30:00",
-      "endsAt": "2025-05-02T12:15:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "c85a2ada-5d69-4621-8d06-9b082fc66363"
-      ],
-      "categoryItems": [
-        330773
       ],
       "questionAnswers": [],
       "roomId": 56815,
@@ -637,18 +637,18 @@
       "isConfirmed": true
     },
     {
-      "id": "849234",
-      "title": "Let’s Aspireify a Real World App!",
-      "description": "We’ve learned a lot about .NET Aspire and how it can help us as developers, but what about deploying and running a real application? In this session, you'll learn about the deployment and configuration options for your .NET Aspire application systems. We'll walk you through the configuration and continuous deployment processes for the aspireify.net website that was built and deployed with .NET Aspire. Finally, you will see how you can adapt an existing library to work with .NET Aspire, deliver great telemetry, and deploy easily.",
+      "id": "844584",
+      "title": "Beyond the Basics: Designing Web APIs for Long Term Success",
+      "description": "You've seen all the tutorials and getting-started guides promising a quick path to a web API: pick between REST or GraphQL, choose an API framework, and deploy it to the cloud. But what happens when you need to modify, expand, share, or overhaul that API once it is already live in production?\r\n\r\nIn this talk, we’ll explore the real-world challenges we faced as our web APIs evolved over several years. We’ll discuss how initial decisions and insufficient planning led us into pitfalls, resulting in tech debt and obstacles when it came time to evolve our APIs.\r\n\r\nBy addressing design concerns like a well-documented API specification, versioning, Infrastructure as Code (IaC), an API gateway, and enhanced observability, we can avoid future rework and minimize disruption for our customers. Join us to learn strategies for navigating the complexities of evolving APIs and ensuring a smoother path from inception to long-term success.",
       "startsAt": "2025-05-02T11:30:00",
       "endsAt": "2025-05-02T12:15:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "0b437ec7-f68b-4aeb-8a93-2d8aaf3766e5"
+        "c85a2ada-5d69-4621-8d06-9b082fc66363"
       ],
       "categoryItems": [
-        315124
+        330773
       ],
       "questionAnswers": [],
       "roomId": 60358,
@@ -729,7 +729,7 @@
       "title": "Lunch",
       "description": null,
       "startsAt": "2025-05-02T12:15:00",
-      "endsAt": "2025-05-02T13:15:00",
+      "endsAt": "2025-05-02T13:00:00",
       "isServiceSession": true,
       "isPlenumSession": false,
       "speakers": [],
@@ -743,18 +743,18 @@
       "isConfirmed": false
     },
     {
-      "id": "843735",
-      "title": "Taking a Gamble With Functional Domain Modeling",
-      "description": "Over the past few years, Functional Programming has entered the mainstream when it comes to libraries and frameworks for various kinds of technologies and there are plenty of tutorials and resources to learn the basics.\r\n\r\nWith that being said, when it comes to building something non-trivial, there's a gap between what tutorials cover and real-world situations. For example, how do we model a system that makes illegal states unrepresentable? How do we handle operations that can fail? How do we combine business rules with application rules?\r\n\r\nIn this talk, I'm going to show you how to tackle these concerns as we model the game of Blackjack. By doubling down on concepts like algebraic data types, Options, and Results, you'll learn how to build applications that work in the real world.",
-      "startsAt": "2025-05-02T13:15:00",
-      "endsAt": "2025-05-02T14:00:00",
+      "id": "841058",
+      "title": "The Immutable Laws of Software and Life: Code Accordingly",
+      "description": "The first Law of Ecology: you can never merely do one thing. Actions have side-effects. In this session, we'll explore how changes in software design can have unexpected, profound impacts. In this story-based session, I'll reference both popular and little-known \"laws\" of computing and life. I'll show how to use these laws to write better software. This session will give you new mental models for thinking about the tradeoffs we make in software...and life. ",
+      "startsAt": "2025-05-02T13:00:00",
+      "endsAt": "2025-05-02T13:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "62ebafd8-8470-4415-bc16-6949e5c80f5b"
+        "424f7166-a882-473f-b05e-15aed7f9ff86"
       ],
       "categoryItems": [
-        330773
+        328816
       ],
       "questionAnswers": [],
       "roomId": 56814,
@@ -768,8 +768,8 @@
       "id": "846264",
       "title": "WebAssembly beyond the browser: a better way to build extensible software",
       "description": "The WebAssembly component model brings a rich, language agnostic type system to WebAssembly and makes it practical for server side application development. Programming languages that are able to target WebAssembly components include Python, C/C++/C#, javascript, rust, and go, with additional languages being rapidly added to this list. Taken together, all this means we have a better way to let users extend our software. Where we used to do an awkward dance of webhooks and API calls, we can now safely (due the no-privilege by default nature of WebAssembly) host and execute user code within our application. In this session, we’ll see how projects like NGINX are embracing WASM components for extending their system. We’ll learn how to build and host WASM components in multiple languages with code examples so you can add WASM component support to your next application. ",
-      "startsAt": "2025-05-02T13:15:00",
-      "endsAt": "2025-05-02T14:00:00",
+      "startsAt": "2025-05-02T13:00:00",
+      "endsAt": "2025-05-02T13:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -787,18 +787,18 @@
       "isConfirmed": true
     },
     {
-      "id": "841058",
-      "title": "The Immutable Laws of Software and Life: Code Accordingly",
-      "description": "The first Law of Ecology: you can never merely do one thing. Actions have side-effects. In this session, we'll explore how changes in software design can have unexpected, profound impacts. In this story-based session, I'll reference both popular and little-known \"laws\" of computing and life. I'll show how to use these laws to write better software. This session will give you new mental models for thinking about the tradeoffs we make in software...and life. ",
-      "startsAt": "2025-05-02T13:15:00",
-      "endsAt": "2025-05-02T14:00:00",
+      "id": "843735",
+      "title": "Taking a Gamble With Functional Domain Modeling",
+      "description": "Over the past few years, Functional Programming has entered the mainstream when it comes to libraries and frameworks for various kinds of technologies and there are plenty of tutorials and resources to learn the basics.\r\n\r\nWith that being said, when it comes to building something non-trivial, there's a gap between what tutorials cover and real-world situations. For example, how do we model a system that makes illegal states unrepresentable? How do we handle operations that can fail? How do we combine business rules with application rules?\r\n\r\nIn this talk, I'm going to show you how to tackle these concerns as we model the game of Blackjack. By doubling down on concepts like algebraic data types, Options, and Results, you'll learn how to build applications that work in the real world.",
+      "startsAt": "2025-05-02T13:00:00",
+      "endsAt": "2025-05-02T13:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "424f7166-a882-473f-b05e-15aed7f9ff86"
+        "62ebafd8-8470-4415-bc16-6949e5c80f5b"
       ],
       "categoryItems": [
-        328816
+        330773
       ],
       "questionAnswers": [],
       "roomId": 60356,
@@ -812,8 +812,8 @@
       "id": "846995",
       "title": "Automating Accessibility Assurance",
       "description": "Assemble a comprehensive toolkit for automated accessibility testing of web applications using tools and libraries that have already been widely adopted and supported by the open source community.\r\n  - Configure your codebase with ESLint accessibility rules to get feedback directly in the code and fix issues early in development.\r\n  - Write tests with Testing Library to interact with applications the same way a user would, including users of assistive technologies.\r\n  - Run a full set of automated checks against your running application by including the Axe-core accessibility engine in your e2e tests.\r\nIncorporate these tools into your development process using automated checks in your continuous integration pipeline at each stage of development and release to ensure your applications are accessible to all users.",
-      "startsAt": "2025-05-02T13:15:00",
-      "endsAt": "2025-05-02T14:00:00",
+      "startsAt": "2025-05-02T13:00:00",
+      "endsAt": "2025-05-02T13:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -834,8 +834,8 @@
       "id": "846583",
       "title": "JavaScript: The (Really) Good Parts",
       "description": "JavaScript is a little-known up-and-coming programming language with stunningly beautiful syntax, strong type-checking, and a simple, obvious API. No, wait, I have that backwards. In fact, JavaScript is the most widely deployed language in the world with a long and complicated history that frequently makes it the butt of developer jokes.\r\n\r\nLet's dispel some myths and study the best features of JavaScript from classic ECMAScript 3 (1999) through the latest and greatest of ES2022. If you're still using jQuery or other libraries to fill functionality gaps, this session is all about modernizing your JavaScript while learning to appreciate how far it's come. Concepts include arrow function expressions, classes, template literals, generators, optional chaining, fetch, promises, and much more.",
-      "startsAt": "2025-05-02T13:15:00",
-      "endsAt": "2025-05-02T14:00:00",
+      "startsAt": "2025-05-02T13:00:00",
+      "endsAt": "2025-05-02T13:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -856,8 +856,8 @@
       "id": "847197",
       "title": "Big Tables, Big Problems: Scaling Beyond SQL",
       "description": "As your data grows, even the best SQL databases can struggle with massive tables and complex queries. This talk explores when to offload those big tables to NoSQL solutions like DynamoDB or Elasticsearch to improve performance and scalability. You’ll learn how to identify the right time to make the switch, integrate NoSQL into your architecture, and optimize for analytics, search, or historical data. Leave with practical strategies to keep your applications fast and ready to scale.",
-      "startsAt": "2025-05-02T13:15:00",
-      "endsAt": "2025-05-02T14:00:00",
+      "startsAt": "2025-05-02T13:00:00",
+      "endsAt": "2025-05-02T13:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -878,8 +878,8 @@
       "id": "847785",
       "title": "Design Patterns: Not Just for Architects",
       "description": "Design patterns are not just for architects. In fact, you already use design patterns without even knowing it. Observer, Facade, Iterator, Proxy -- these are just a few of the patterns that you have probably used. But it is really hard to use a tool effectively when you don't even know you are using it. So let's fix that.\r\n\r\nIn this session, you will learn what design patterns are (and what they are not). You will see both the benefits and consequences of patterns. And you will see several of the Gang of Four patterns that use already use (they may even be built into your programming language). Don't know who the Gang of Four is? You'll learn that, too. Once we understand design patterns, we can find solutions that people way smarter than us have already implemented. This gives us another set of tools that we can use to build great software.",
-      "startsAt": "2025-05-02T13:15:00",
-      "endsAt": "2025-05-02T14:00:00",
+      "startsAt": "2025-05-02T13:00:00",
+      "endsAt": "2025-05-02T13:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -900,8 +900,8 @@
       "id": "847827",
       "title": "Navigating the Maze: Communicating Architecture Decisions with Architecture Decision Records",
       "description": "In software architecture, it is important to know why a team has selected a specific architectural style, pattern, or technology. Clear communication of such decisions is crucial, and one of the best means to capture, communicate, and understand these decisions is through Architecture Decision Records (ADRs). This session will emphasize ADRs as an instrument that enables unambiguous communication among architectural stakeholders.\r\n\r\nUsing real-world examples, we’ll explain the fundamental principles of ADRs, highlighting how they encapsulate the rationale, context, and consequences of architectural decisions. We will also cover best practices for authoring, maintaining, and evolving ADRs throughout the project lifecycle, from initiation to implementation.\r\n\r\nRegardless of whether you're an architect or a developer new to the space, with this session, you shall be well equipped with the tools to articulate architecture decisions using ADRs. Get familiar with the architectural maze so you can manage it with confidence and clarity, and be prepared to respond to the all-important question of why — now, tomorrow, and in the future.",
-      "startsAt": "2025-05-02T13:15:00",
-      "endsAt": "2025-05-02T14:00:00",
+      "startsAt": "2025-05-02T13:00:00",
+      "endsAt": "2025-05-02T13:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -919,18 +919,18 @@
       "isConfirmed": true
     },
     {
-      "id": "847093",
-      "title": "Home Automation - Without The Cloud!",
-      "description": "Modern \"smart\" homes are dumb; your lights shouldn't stop working because your Internet is down, and your new doorbell shouldn't compromise your network security.\r\n\r\nA smarter and more secure home doesn't depend on cloud services or a disparate array of apps to function, and it's easier than you might think to achieve total local control. A dash of technical knowledge, a dab of DIY elbow grease, and this session are all you need to get started. \r\n\r\nIn this session you'll learn how to choose and install a local hub, which devices work best (Zigbee vs Z-Wave vs Wifi), and how to integrate lights, plugs, sensors, and switches without the cloud. You'll also learn how to add smart features like remote control and push notifications to your existing \"dumb\" appliances and how to use voice control without Alexa or Google.\r\n\r\nCome take a tour through the land of smart, local home automation and stop being dependent on someone else's computers!",
-      "startsAt": "2025-05-02T14:15:00",
-      "endsAt": "2025-05-02T15:00:00",
+      "id": "847868",
+      "title": "Patterns and Architectures Beyond Microservices",
+      "description": "Have you slayed the monolith and are ready for more? Learn patterns and architectures that move beyond simple microservices to solve problems of resiliency, security, scalability, responsiveness.  Understand the new class of issues that come with distributed systems like microservices.  We explore modern patterns like CQRS, sidecars, probabilistic development, code as documentation and others.  You will be able to see past the monolith and understand the new problems and patterns that help in modern distributed systems. ",
+      "startsAt": "2025-05-02T14:00:00",
+      "endsAt": "2025-05-02T14:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "b7235790-4c4a-491c-a8a1-1ed82a5d70b3"
+        "10fe89d2-3c89-4c02-b4da-cf84fda082b8"
       ],
       "categoryItems": [
-        330777
+        330774
       ],
       "questionAnswers": [],
       "roomId": 56814,
@@ -944,8 +944,8 @@
       "id": "847706",
       "title": "Rediscovering Entity Framework Core: Speed, Flexibility, and Power for Modern Development",
       "description": "Are you tired of wrestling with data access layers and managing complex database interactions in your applications? It’s time to give Entity Framework Core (EF Core) another look. This session will show you how EF Core has evolved and why it’s now an even more powerful and flexible tool for modern application development.\r\n\r\nWhether you’re building cloud-native apps, microservices, or just looking for a faster and more efficient way to interact with databases, EF Core has significantly improved in performance, scalability, and ease of use. We’ll dive into the latest features, optimizations, and best practices that make EF Core an indispensable tool for developers in today’s fast-paced world.\r\n\r\nFrom raw performance gains to advanced querying capabilities, to the flexibility of working with various databases (SQL Server, SQLite, PostgreSQL, and more), EF Core has become a highly capable, cross-platform solution for all your data access needs.\r\n\r\nIn this session, we’ll explore the latest EF Core performance enhancements, how they can supercharge your apps, and how to leverage new features like improved raw SQL support, better LINQ performance, and advanced migrations. We'll also talk tips and tricks for making the most of EF Core in your projects, including best practices for working with complex models and optimizing queries.\r\n\r\nIf you’ve written off EF Core in the past, this session will change your mind. Come see why it’s time to give EF Core a second chance and why it might just be the perfect fit for your next project!",
-      "startsAt": "2025-05-02T14:15:00",
-      "endsAt": "2025-05-02T15:00:00",
+      "startsAt": "2025-05-02T14:00:00",
+      "endsAt": "2025-05-02T14:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -963,18 +963,18 @@
       "isConfirmed": true
     },
     {
-      "id": "847868",
-      "title": "Patterns and Architectures Beyond Microservices",
-      "description": "Have you slayed the monolith and are ready for more? Learn patterns and architectures that move beyond simple microservices to solve problems of resiliency, security, scalability, responsiveness.  Understand the new class of issues that come with distributed systems like microservices.  We explore modern patterns like CQRS, sidecars, probabilistic development, code as documentation and others.  You will be able to see past the monolith and understand the new problems and patterns that help in modern distributed systems. ",
-      "startsAt": "2025-05-02T14:15:00",
-      "endsAt": "2025-05-02T15:00:00",
+      "id": "847093",
+      "title": "Home Automation - Without The Cloud!",
+      "description": "Modern \"smart\" homes are dumb; your lights shouldn't stop working because your Internet is down, and your new doorbell shouldn't compromise your network security.\r\n\r\nA smarter and more secure home doesn't depend on cloud services or a disparate array of apps to function, and it's easier than you might think to achieve total local control. A dash of technical knowledge, a dab of DIY elbow grease, and this session are all you need to get started. \r\n\r\nIn this session you'll learn how to choose and install a local hub, which devices work best (Zigbee vs Z-Wave vs Wifi), and how to integrate lights, plugs, sensors, and switches without the cloud. You'll also learn how to add smart features like remote control and push notifications to your existing \"dumb\" appliances and how to use voice control without Alexa or Google.\r\n\r\nCome take a tour through the land of smart, local home automation and stop being dependent on someone else's computers!",
+      "startsAt": "2025-05-02T14:00:00",
+      "endsAt": "2025-05-02T14:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "10fe89d2-3c89-4c02-b4da-cf84fda082b8"
+        "b7235790-4c4a-491c-a8a1-1ed82a5d70b3"
       ],
       "categoryItems": [
-        330774
+        330777
       ],
       "questionAnswers": [],
       "roomId": 60356,
@@ -988,8 +988,8 @@
       "id": "847987",
       "title": "Side Quests: How creative tinkering and exploration can transform you, one side project at a time",
       "description": "If you're anything like me, you like to build fun things and have fun while doing so. In this fun talk we'll talk about the value of side projects as a tool for perpetual learning, growth, emotional health, and career development in the tech world.\r\n\r\nWe'll tour the landscape of side projects and why you might want to pick one up, how to select a side project and get started with one, how to constrain the scope of a side project and make progress against it, and how to bring side projects to their inevitable conclusion.\r\n\r\nSide projects aren't easy, though, and so we'll talk about getting unstuck, finding time for side projects, what to do when you're bored of a side project (or tempted by a new one), and ways of growing and staying healthy in those seasons of life when side projects just aren't feasible.\r\n\r\nAlong the way, you'll hear some tales of interesting, innovative, amusing, and even horrifying side projects I've taken on over the years and hear a few specific ways that side projects have impacted myself and those I've had the privilege of mentoring.",
-      "startsAt": "2025-05-02T14:15:00",
-      "endsAt": "2025-05-02T15:00:00",
+      "startsAt": "2025-05-02T14:00:00",
+      "endsAt": "2025-05-02T14:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1010,8 +1010,8 @@
       "id": "848014",
       "title": "Can We Learn to Manage Uncertainty? Probably!",
       "description": "When we’re asked when something will be done, it’s tempting to answer the question. “It’ll be done on March 32nd” or “it’ll take 182.5 days” or “we need 15 sprints”. It doesn’t matter if that answer is the best-case, average, or worst-case scenario.\r\n\r\nThe answer is fundamentally wrong because using a single value hides the fact that what we really meant was a distribution of possible dates, durations, or outcomes. The exact value is uncertain. Development may be faster or slower than we thought. What if the tech lead wins the lottery and retires? What if a global pandemic forces us to change the way we work?\r\n\r\nWhile we can’t control any of those factors, we can be mindful of their existence and communicate more clearly. In this talk we will introduce “bet” language, which makes uncertainty and luck an explicit part of the conversation. This mindset helps us accurately assess risks, pick the right risks to embrace, and avoid analysis paralysis. It also helps us learn in an uncertain world, where even if we make good decisions, we may experience bad outcomes (and vice versa!).",
-      "startsAt": "2025-05-02T14:15:00",
-      "endsAt": "2025-05-02T15:00:00",
+      "startsAt": "2025-05-02T14:00:00",
+      "endsAt": "2025-05-02T14:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1032,8 +1032,8 @@
       "id": "848127",
       "title": "Using Web Components to Scale Your UX",
       "description": "Whether you're a company with a variety of projects or an app that uses micro-front-end architecture, creating a consistent and reliable user experience can be time consuming and difficult.\r\n\r\nIn this session, we will discuss how, at Microsoft, we have leveraged web components to standardize our user experiences across multiple platforms and improve developer efficiency.\r\n\r\nAttendees will leave this session with knowledge about web components and how they can be used to create framework agnostic user experiences.",
-      "startsAt": "2025-05-02T14:15:00",
-      "endsAt": "2025-05-02T15:00:00",
+      "startsAt": "2025-05-02T14:00:00",
+      "endsAt": "2025-05-02T14:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1054,8 +1054,8 @@
       "id": "848387",
       "title": "Packing Light with VS Code 🧳",
       "description": "You want modern consistent development experience across Windows/macOS/Linux? You want a lightweight code editor where you get to pick your tools & workloads? You want to code anywhere like in browser/Codespaces/DevBox and carry your developer settings?\r\n\r\nVisual Studio Code does all that & more. VS Code is uber popular for a reason – a lightweight code editor solution with multi-language support and a rich Extensions ecosystem. With C# Dev Kit and .NET MAUI Extensions, VS Code is more than capable of checking all the boxes for.NET developers building modern experiences for web, mobile, desktop, cloud native & more. GitHub Copilot brings AI-powered productivity to VS Code – developers can also gain contextual intelligence with GitHub Copilot Extensibility. With infinite configurability and a thriving ecosystem, VS Code is all about developer productivity – packing light makes you go places. Come see how!\r\n",
-      "startsAt": "2025-05-02T14:15:00",
-      "endsAt": "2025-05-02T15:00:00",
+      "startsAt": "2025-05-02T14:00:00",
+      "endsAt": "2025-05-02T14:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1076,8 +1076,8 @@
       "id": "848832",
       "title": "Documenting & Versioning API's with ASP.NET Core 9, OpenAI, and Swagger",
       "description": "Anyone can get started with ASP.NET Core and create WebAPIs; however, properly documenting, managing, and versioning these APIs for downstream audiences can be a daunting task.   Often times developers will get API's created and \"come back later\" to actually fill out the API documentation and we all know how that process actually works.\r\n\r\nThis session will explore the new OpenAPI functionality available with .NET 9.0 and how that can be utilized with proper API Versioning and Swagger to quickly, easily, and part of your day-to-day development provide full documentation to your API's allowing for more productive downstream development and a better overall user experience.  We will discuss best practices for versioning, documentation and even configuration options with Swagger/ReDoc to ensure that your documentation reflects your brand and standards.",
-      "startsAt": "2025-05-02T15:15:00",
-      "endsAt": "2025-05-02T16:00:00",
+      "startsAt": "2025-05-02T15:00:00",
+      "endsAt": "2025-05-02T15:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1098,8 +1098,8 @@
       "id": "848848",
       "title": "Bridging the Gap: Taking Your Design System from Figma to Code",
       "description": "Design systems are the backbone of consistent and scalable digital experiences, yet translating them from design tools into production-ready code remains a daunting challenge. In this session, we’ll explore how to streamline this process by automating the connection between Figma and code using innovative tools like Storybook.\r\n\r\nWe’ll dive into practical strategies for creating a unified source of truth, aligning designers and developers with shared components, and leveraging automation to reduce inefficiencies. Learn how to maximize efficiency with design token management, component documentation, and seamless handoffs to developers. We’ll also discuss integrating with tools like Storybook to create a living style guide to ensure your design system remains robust and up-to-date.\r\n\r\nWhether you’re starting from scratch or refining an existing system, you’ll have actionable insights on accelerating the design-to-code pipeline, minimizing rework, and maximizing collaboration across your team.",
-      "startsAt": "2025-05-02T15:15:00",
-      "endsAt": "2025-05-02T16:00:00",
+      "startsAt": "2025-05-02T15:00:00",
+      "endsAt": "2025-05-02T15:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1120,8 +1120,8 @@
       "id": "848931",
       "title": "For Your Eyes Only: Roles, Privileges, and Security in PostgreSQL",
       "description": "Security is an essential, yet often misunderstood, part of effectively managing a PostgreSQL cluster. As the popularity and adoption of PostgreSQL continues to grow, the interaction of roles, privileges, and object ownership is a recurring theme of confusion in forums and mailing lists.\r\n\r\nIn this session, I’ll start by defining the Principle of Least Privileges and how this philosophy influences roles and privileges in PostgreSQL. Next, I’ll demonstrate the importance of object ownership in PostgreSQL, how group and user roles can work in unison to effectively manage permissions, multiple ways to manage default privileges, and which privileges should always be modified in any new PostgreSQL database. Finally, I’ll discuss how recent releases are laying a foundation for more flexible and robust security management in the years ahead.\r\n\r\nBy the end of this session, you will understand how roles work in PostgreSQL, how they impact your daily work, and how to effectively communicate security best practices with others on your team. You’ll leave with a solid information to start creating roles that effectively manage access to your cluster and data.",
-      "startsAt": "2025-05-02T15:15:00",
-      "endsAt": "2025-05-02T16:00:00",
+      "startsAt": "2025-05-02T15:00:00",
+      "endsAt": "2025-05-02T15:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1142,8 +1142,8 @@
       "id": "848959",
       "title": "Stop Fearing Databases—SQL vs. NoSQL: Navigating the Database Dilemma",
       "description": "In the evolving landscape of data management, choosing between SQL and NoSQL databases is a critical decision that can shape the success of your projects. This technical talk dives deep into the trade-offs, challenges, and best practices associated with both SQL and NoSQL databases.\r\n\r\nExplore the strengths and limitations of each approach, from the structured, relational power of SQL to the flexible, scalable nature of NoSQL. Learn how to effectively navigate the challenges of data modeling, scalability, and consistency. Whether you’re managing legacy systems or building cutting-edge applications, this session will provide the insights and tools you need to make informed decisions and optimize your database solutions for performance, reliability, and scalability.",
-      "startsAt": "2025-05-02T15:15:00",
-      "endsAt": "2025-05-02T16:00:00",
+      "startsAt": "2025-05-02T15:00:00",
+      "endsAt": "2025-05-02T15:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1164,8 +1164,8 @@
       "id": "849053",
       "title": "Castle Defense 101 (aka Threat Modeling)",
       "description": "Threat modeling is the art of determining if we are secure enough for our situation. Figuring out what to protect and how much effort we will spend on that protection is half the battle. The other half is understanding what happens if we fail- what it costs us and how it impacts us. \r\nBut the art of threat modeling isn’t just for securing software. Imagine we are security consultants for a medieval kingdom. We will determine the castle’s weak points by planning an attack. We will learn to assess risks by asking what the stronghold, well, um, holds. And we will strengthen our defenses by applying limited resources in the places that will help us the most. By the time we are through, our fortress will be sturdier, we will be able to stave off attacks, and we’ll know what improvements we can make to keep the kingdom safe.\r\nFinally, we will discuss how it applies to development projects and how we can use these techniques to secure software. No expertise in medieval architecture is needed.",
-      "startsAt": "2025-05-02T15:15:00",
-      "endsAt": "2025-05-02T16:00:00",
+      "startsAt": "2025-05-02T15:00:00",
+      "endsAt": "2025-05-02T15:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1186,8 +1186,8 @@
       "id": "849060",
       "title": "Hot New HTML Features!",
       "description": "10 years ago, JavaScript had a great upheaval with the release of ES6. More recently, CSS has been having a renaissance with things like Grid, Custom Properties, and Container Queries.\r\n\r\nWell the time has come, my fellow developers, for HTML to to have it's day and gain some new features.\r\n\r\nIn this talk we'll cover:\r\n\r\n- the Details/Summary elements\r\n- the Dialog Element\r\n- the inert attribute\r\n- the Popover API\r\n- the new power of attributes\r\n- Declarative ShadowDOM\r\n- the Future: Style-able Selects",
-      "startsAt": "2025-05-02T15:15:00",
-      "endsAt": "2025-05-02T16:00:00",
+      "startsAt": "2025-05-02T15:00:00",
+      "endsAt": "2025-05-02T15:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1208,8 +1208,8 @@
       "id": "849160",
       "title": "Into the Unknown: Navigating the Wild Frontier of Emerging Languages",
       "description": "Embark on an adventurous exploration of the trials and triumphs of being a pioneer in the world of programming languages. Drawing from personal experience with SolidJs and pre-release versions of Angular2, this session will focus on overcoming the initial hurdles of learning and implementing a language with zero reliable external resources and address the unique challenges faced by early adopters. We'll cover tips on building a foundation of knowledge, leveraging existing programming skills, and fostering a community of early adopters to collaborate and share insights. Join us to discover how to navigate the unknown and emerge as a trailblazer in your field.",
-      "startsAt": "2025-05-02T15:15:00",
-      "endsAt": "2025-05-02T16:00:00",
+      "startsAt": "2025-05-02T15:00:00",
+      "endsAt": "2025-05-02T15:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1230,8 +1230,8 @@
       "id": "849214",
       "title": "Intro to Temporal: JS Dates That Do Not Suck",
       "description": "Temporal is a new ECMAScript stage 3 proposal for handling dates (and times!) that will be built-in to the language and forever change how dates are handled in JavaScript.  Finally after 20 years handling dates in JavaScript without a third party library will no longer suck!  In this talk we'll go over all of the new types and utility methods in Temporal and how to use them and talk about when you can start using it in production.",
-      "startsAt": "2025-05-02T15:15:00",
-      "endsAt": "2025-05-02T16:00:00",
+      "startsAt": "2025-05-02T15:00:00",
+      "endsAt": "2025-05-02T15:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1252,8 +1252,8 @@
       "id": "848909",
       "title": "The Power of Dev Containers and GitHub Codespaces",
       "description": "Dive into the future of software development with our session on Dev Containers and GitHub Codespaces. Dev Containers bring reproducibility and consistency across any platform with Docker, simplifying project onboarding and setup. GitHub Codespaces takes this a step further, offering scalable, cloud-hosted development environments, accessible from anywhere.\r\n\r\nIn this session, you'll gain insights into:\r\nDev Containers Fundamentals: Understand their role in creating consistent development environments.\r\nGitHub Codespaces Integration: Explore how Codespaces enhances Dev Containers, providing flexible, cloud-based development.\r\nPractical Implementation: Learn to configure Dev Containers for your projects, including tool installation, VS Code extensions, port forwarding, and software setup.\r\nMaximizing Codespaces: Discover how to customize Codespaces for remote development efficiency.\r\n\r\nJoin us to embrace these cutting-edge tools, transforming your development process and team collaboration.",
-      "startsAt": "2025-05-02T16:15:00",
-      "endsAt": "2025-05-02T17:00:00",
+      "startsAt": "2025-05-02T16:00:00",
+      "endsAt": "2025-05-02T16:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1274,8 +1274,8 @@
       "id": "844088",
       "title": "Building and publishing a native, cross-platform mobile app from the ground up",
       "description": "Have a fun app idea but feel overwhelmed by development options? Choosing a framework, initializing the project, and publishing in app stores can be daunting. Luckily, open-source projects like React Native and Expo make the process easier.\r\n\r\nIn this session, you'll be guided from idea to production using React Native and Expo. We'll start with React Native, showing how it can turn your cross-platform dreams into reality. Then, we'll dive into Expo, demonstrating how it simplifies your workflow with automated builds and easy testing. Finally, we'll cover app store publishing, so you can showcase your work to the world.\r\n\r\nIf you're a developer of any level, an idea dreamer, or just curious about mobile app development, join us to learn how to bring your app ideas to life.",
-      "startsAt": "2025-05-02T16:15:00",
-      "endsAt": "2025-05-02T17:00:00",
+      "startsAt": "2025-05-02T16:00:00",
+      "endsAt": "2025-05-02T16:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1296,8 +1296,8 @@
       "id": "849246",
       "title": "HTMX: What's the big deal with the little framework?",
       "description": "In an area of huge JavaScript frameworks, HTMX provides a simple option. It does just what you need to build a modern web app. In this session, you will learn what HTMX is, what it can do, and why you would choose it over frameworks.",
-      "startsAt": "2025-05-02T16:15:00",
-      "endsAt": "2025-05-02T17:00:00",
+      "startsAt": "2025-05-02T16:00:00",
+      "endsAt": "2025-05-02T16:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1318,8 +1318,8 @@
       "id": "849255",
       "title": "Creating Intuitive APIs With The Builder Design Pattern",
       "description": "This session will level up your programming skills by introducing the Builder design pattern. It's used in many modern languages and libraries, and you've probably seen it before. Have you ever used an API that looks like this?\r\n\r\npizza = Pizza.large().regularSauce().pepperoni().bake()\r\n\r\nThat's an example of the Builder pattern. In this session, we'll discover why the pattern is commonly used and how to incorporate it in your own programs.\r\n\r\nWe'll begin with a code free introduction that shows how the pattern is similar to ordering a meal in a diner. Then we'll see how to implement it in Java.\r\n\r\nNext, we'll take an increasingly deep dive into the pattern. You'll learn:\r\n- why the pattern is better than adding setters to a class\r\n- the advantages of Builders in concurrent programming\r\n- several examples of using the Builder pattern in everyday programming\r\n- expert guidance on when to use Builders (and when NOT to)\r\n- how IDEs like IntelliJ can create Builders for you (and why you're better off writing your own)\r\n- using Lombok to implement Builders for older versions of Java\r\n- hints for implementing Builders using Java 14 records\r\n- extending the Builder pattern to TypeScript and Go\r\n- how to effectively prompt ChatGPT to write a Builder for you\r\n- applying the pattern to break a complex API into a simpler, fluent one, such as the API used by ArchUnit\r\n- leveraging the pattern to create your own DSLs (domain specific languages)\r\n\r\nWe will wrap up the session with a question period, and then provide links to the slides for the presentation and a list of resources for further information.\r\n\r\nThis talk is intended for strong beginners, intermediate programmers, or experienced programmers unfamiliar with the pattern. Many of the examples are in Java, but the focus of the talk is language independent, and some examples will be given for Go and TypeScript.",
-      "startsAt": "2025-05-02T16:15:00",
-      "endsAt": "2025-05-02T17:00:00",
+      "startsAt": "2025-05-02T16:00:00",
+      "endsAt": "2025-05-02T16:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1340,8 +1340,8 @@
       "id": "849258",
       "title": "Data Lakehouse Demystified",
       "description": "Whatever data strategy you're implementing, your next data warehouse should be a lakehouse.  Even Bill Inmon, the father of data warehousing, has adopted the lakehouse as the architecture of the future.  By combining the best features of a data lake with a data warehouse, adding in distributed computing and open formats and protocols, a data lakehouse supports traditional BI but is especially well suited for artificial intelligence applications.  There are patterns for success common to all platforms, whether you are using AWS services, MS Fabric, Databricks, or GCP.  In this session we'll define a a data lakehouse, examine the logical architecture, then look at how you implement a physical architecture.  Discussion will include pointers to preparing your data career for a lakehouse-centric world.",
-      "startsAt": "2025-05-02T16:15:00",
-      "endsAt": "2025-05-02T17:00:00",
+      "startsAt": "2025-05-02T16:00:00",
+      "endsAt": "2025-05-02T16:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1362,8 +1362,8 @@
       "id": "850109",
       "title": "Enhancing Team Synergy Using Agile Excellence",
       "description": "This discussion is an example of how teams can utilize agile practices to create a strong team dynamic. It will teach the group about the importance of certain ceremonies and the best way to use the time with the team. \r\n\r\nWhile the talk is delivered from an Agile Leads perspective it is intended for all to help create a strong connection which leads to incredible innovation and growth.",
-      "startsAt": "2025-05-02T16:15:00",
-      "endsAt": "2025-05-02T17:00:00",
+      "startsAt": "2025-05-02T16:00:00",
+      "endsAt": "2025-05-02T16:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1384,8 +1384,8 @@
       "id": "854502",
       "title": "The Power of Playwright: Scaling UI Testing for Robust Application Delivery",
       "description": "Step up your application’s reliability with Playwright, the cutting-edge tool for scalable, automated UI testing. This session dives into practical strategies for integrating Playwright into your CI/CD pipeline, ensuring every deployment meets high standards for functionality and resilience. Learn how to set up end-to-end tests that operate seamlessly across different environments, enabling continuous testing that doesn’t disrupt your development process. Join me to see how Playwright can drive the stability and quality of your applications, setting a new standard for continuous excellence.\r\n\r\nKey Takeaway 1: Discover how automated UI testing with Playwright strengthens application stability and user experience.\r\n\r\nKey Takeaway 2: Learn how to leverage Playwright for scalable, intuitive web UI testing across different platforms.\r\n\r\nKey Takeaway 3: Gain actionable techniques to integrate Playwright into your CI/CD pipeline for continuous, resilient testing.",
-      "startsAt": "2025-05-02T16:15:00",
-      "endsAt": "2025-05-02T17:00:00",
+      "startsAt": "2025-05-02T16:00:00",
+      "endsAt": "2025-05-02T16:45:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [

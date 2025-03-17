@@ -52,7 +52,7 @@ jobs:
         run: node ./scripts-manuallyexecuting/download-speaker-images.js
 
       - name: Build the schedule
-        run: node ./scirpts-manuallyexecuting/build-schedule-from-sessions.js
+        run: node ./scripts-manuallyexecuting/build-schedule-from-sessions.js
 
       - name: Commit and push changes
         run: |

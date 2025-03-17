@@ -1403,6 +1403,28 @@
       "isConfirmed": true
     },
     {
+      "id": "835961",
+      "title": "Copilot is not your \"Pair\": Why AI in your IDE doesn't replace Human Collaboration",
+      "description": "If you prefer to code alone, you might be tempted to buy in to Copilot's claim that it's \"Your AI Pair Programmer.\" You may even feel relief that technology has finally given you a way to get the benefits of pairing without all of that awkward conversation.\r\n\r\nBut this is a placebo—and a costly one. \r\n\r\nCopilot is a tool,  your teammate is a human, and pair and ensemble programming is a human activity. Using a generative AI tool when you write code can be helpful, and it can pretend to be a fellow engineer. But no matter how well it approximates this, it will never replace coding with a person. \r\n\r\nIn this talk, we’ll explore why human pairing matters, and why it's different. This won't be theoretical—I've worked in pairs and ensembles for years,  I'm well-versed in AI-assisted coding, and I've got stories about both.\r\n\r\nYou’ll leave with a renewed appreciation for human teamwork—and ideas on how to make AI tools work with your team, not instead of it.",
+      "startsAt": "2025-05-02T16:00:00",
+      "endsAt": "2025-05-02T16:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c7e78d5e-3056-4445-a297-eb47ca2400e2"
+      ],
+      "categoryItems": [
+        330776
+      ],
+      "questionAnswers": [],
+      "roomId": 60361,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "85b146b6-9ebb-4550-903f-3691339b0b3e",
       "title": "Movie Trailers",
       "description": null,
@@ -1876,6 +1898,11 @@
           "title": "Company Website",
           "url": "https://www.jasperengines.com",
           "linkType": "Company_Website"
+        },
+        {
+          "title": "Bluesky",
+          "url": "https://bsky.app/profile/chadgreen.bsky.social",
+          "linkType": "Other"
         }
       ],
       "sessions": [
@@ -2543,6 +2570,48 @@
         837543
       ],
       "fullName": "Jerry Nixon",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "c7e78d5e-3056-4445-a297-eb47ca2400e2",
+      "firstName": "Jon",
+      "lastName": "Fazzaro",
+      "bio": "Jon is a Product Engineering Leader, Coach, Intrapreneur, and Benevolent Cage-Rattler. He has been a software professional for over twenty years and holds a few certifications, but prefers books. *The Coaching Habit*, *When Will it be Done*, and *Test-Driven Development by Example* are a few that keep coming in handy.\r\n\r\nThese days, Jon is consulting in the public sector with Excella. As far as you know, you can find the rest of the story at jonfazzaro.omg.lol.",
+      "tagLine": "I help people make software cheaper to change.",
+      "profilePicture": "https://sessionize.com/image/d3e0-400o400o1-WqHjnr5SLkXKKKtdmz258b.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/jonfazzaro",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jonfazzaro/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://jon.fazzaro.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://industriallogic.com",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "OMG (lol)",
+          "url": "http://jon.fazzaro.com/",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        835961
+      ],
+      "fullName": "Jon Fazzaro",
       "categoryItems": [],
       "questionAnswers": []
     },

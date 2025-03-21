@@ -85,15 +85,16 @@
       "isConfirmed": true
     },
     {
-      "id": "836316",
-      "title": "Spaces, squares, and circles - an intro to UI design",
-      "description": "Are you a techie that has found yourself in charge of laying out and designing screens?  Do you find yourself staring at screens that just don't \"feel right\" but it is hard to pinpoint why.  Maybe a few design basics can get you back in the game.  In this talk, Ash (an experienced UX researcher and designer) will take you through the basics of UI design to help your screens look clean, professional, and pleasing to the eye.",
+      "id": "845433",
+      "title": "DMX Channels and Water Cannons:  The Geeky Anatomy of a Modern Splash Pad",
+      "description": "At augustwenty, we pride ourselves on an insights-driven approach that prioritizes understanding what makes each project unique—from the technological underpinnings to the human aspects of working together. In our collaboration with the City of Hilliard, Ohio, we exemplified this difference by overcoming outdated systems and complex challenges. We designed and deployed a Splash Pad system using Elixir, Phoenix, and a low-power Raspberry Pi to seamlessly engage the local community and foster meaningful social experiences.\r\nThis session will explore how augustwenty’s combination of reverse engineering, stakeholder interviews, and modern software architecture resulted in a cost-effective, reliable solution with zero downtime. Attendees will learn how focusing on scalability, fault-tolerance, and minimal maintenance can drastically improve operations for municipal recreation projects and beyond. By sharing our methodology and lessons learned, we aim to inspire other teams to build vibrant, future-ready solutions that enhance community well-being while reducing long-term costs.",
       "startsAt": "2025-05-02T08:30:00",
       "endsAt": "2025-05-02T09:15:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "49d109f0-32cf-4187-aedc-dcfcf234a92e"
+        "18586bf9-1ad6-4187-a789-abbdc91520cc",
+        "bb817af8-6c17-4701-aa6e-129a227f8cb0"
       ],
       "categoryItems": [
         330779
@@ -614,16 +615,15 @@
       "isConfirmed": true
     },
     {
-      "id": "845433",
-      "title": "DMX Channels and Water Cannons:  The Geeky Anatomy of a Modern Splash Pad",
-      "description": "At augustwenty, we pride ourselves on an insights-driven approach that prioritizes understanding what makes each project unique—from the technological underpinnings to the human aspects of working together. In our collaboration with the City of Hilliard, Ohio, we exemplified this difference by overcoming outdated systems and complex challenges. We designed and deployed a Splash Pad system using Elixir, Phoenix, and a low-power Raspberry Pi to seamlessly engage the local community and foster meaningful social experiences.\r\nThis session will explore how augustwenty’s combination of reverse engineering, stakeholder interviews, and modern software architecture resulted in a cost-effective, reliable solution with zero downtime. Attendees will learn how focusing on scalability, fault-tolerance, and minimal maintenance can drastically improve operations for municipal recreation projects and beyond. By sharing our methodology and lessons learned, we aim to inspire other teams to build vibrant, future-ready solutions that enhance community well-being while reducing long-term costs.",
+      "id": "836316",
+      "title": "Spaces, squares, and circles - an intro to UI design",
+      "description": "Are you a techie that has found yourself in charge of laying out and designing screens?  Do you find yourself staring at screens that just don't \"feel right\" but it is hard to pinpoint why.  Maybe a few design basics can get you back in the game.  In this talk, Ash (an experienced UX researcher and designer) will take you through the basics of UI design to help your screens look clean, professional, and pleasing to the eye.",
       "startsAt": "2025-05-02T11:30:00",
       "endsAt": "2025-05-02T12:15:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "18586bf9-1ad6-4187-a789-abbdc91520cc",
-        "bb817af8-6c17-4701-aa6e-129a227f8cb0"
+        "49d109f0-32cf-4187-aedc-dcfcf234a92e"
       ],
       "categoryItems": [
         330779

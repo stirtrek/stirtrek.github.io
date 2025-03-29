@@ -130,28 +130,6 @@
       "isConfirmed": true
     },
     {
-      "id": "837543",
-      "title": "A Developer's Guide to Database Patterns",
-      "description": "If you think of the database as a pain in the neck, you're not alone. But with some engineering rigor, you can level up your database game. This critical component of your architecture can benefit from the same practices as code — source control gates, unit testing, CI/CD automation, linting, quality measurements, and abstract repositories. In this session, learn the engineering best practices used by development teams whose databases aren't a pain in the neck. This session is a collection of patterns recently curated from many of Microsoft's largest and most demanding customers. ",
-      "startsAt": "2025-05-02T08:30:00",
-      "endsAt": "2025-05-02T09:15:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "4b6f2802-eb81-484b-a121-f1312722b3c9"
-      ],
-      "categoryItems": [
-        330774
-      ],
-      "questionAnswers": [],
-      "roomId": 60359,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
       "id": "839912",
       "title": "How To Use BlueSky and LinkedIn to Find a Job",
       "description": "Mass applying to jobs just does NOT work anymore. And if you don't know someone at a company you are probably on the outside looking in. After being a traditional recruiter for 10+ years and learning how to leverage social media to be seen, I want to give that same knowledge to you. I have seen countless amount of developers use my tactics and end up finding jobs on their own!",
@@ -2528,43 +2506,6 @@
         847785
       ],
       "fullName": "Jeremy Clark",
-      "categoryItems": [],
-      "questionAnswers": []
-    },
-    {
-      "id": "4b6f2802-eb81-484b-a121-f1312722b3c9",
-      "firstName": "Jerry",
-      "lastName": "Nixon",
-      "bio": "Jerry Nixon, a Microsoft Product Manager for SQL Server, focusing on SQL Developer Experiences and Data API builder. With more than two decades of experience, he excels in developing, designing, and delivering software. He's spoken at tiny venues and giant launch events. He's trained thousands of developers. Jerry is currently a Professor of Computer Science at Colorado Christian University in Denver. Advocating for users and clean, maintainable code, Jerry's core passions lie in accessible design, data engineering, and plain-ole software development. He has a deep history of field engineering for Microsoft's largest customers and craziest products. While most of his days revolve around Outlook, Visual Studio, and online Docs, what he enjoys most is teaching his three beautiful daughters Star Trek character backstories and episode plots. ",
-      "tagLine": "Microsoft SQL Server, Product Manager",
-      "profilePicture": "https://sessionize.com/image/432c-400o400o1-GUtvwcMLZdcPNJ7Zh5A1YU.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "X (Twitter)",
-          "url": "http://twitter.com/jerrynixon",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/jerrynixon",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "http://jerrynixon.com",
-          "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "http://microsoft.com",
-          "linkType": "Company_Website"
-        }
-      ],
-      "sessions": [
-        837543
-      ],
-      "fullName": "Jerry Nixon",
       "categoryItems": [],
       "questionAnswers": []
     },

@@ -1029,6 +1029,28 @@
       "isConfirmed": true
     },
     {
+      "id": "846712",
+      "title": "Everything you wanted to know about containers but were afraid to ask",
+      "description": "Containers are everywhere! Since the release of Docker in 2013, containers have found their way into many aspects of software. We use them for packaging, distribution, deployment and running our software. They enable more efficient local development. They power our continuous integration/deployment systems. There are even entire large orchestration platforms built around containers to facilitate securely running your software at scale. It's fair to say, containers are a vital part of the modern software world.\r\n\r\nMany developers write a docker file (or copy and paste one), use docker to build an image, and push off the results. But what is a container really? What is an image? What is the magic behind this technology? In this talk, we're going to deep dive into containers, images and the surrounding technology.\r\n\r\nWe'll explore the fundamental technologies that make containers possible: namespaces, cgroups, and union filesystems. You'll learn how containers provide a level of isolation, how images are constructed layer by layer, and the underlying mechanics that make containers both secure and powerful. Whether you're a developer looking to better understand the tools you use daily or an operations professional seeking deeper insights, this talk will take you under the hood of container technology.",
+      "startsAt": "2025-05-02T14:00:00",
+      "endsAt": "2025-05-02T14:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "48c0f128-adfa-43f0-bf16-dae7314b5a2f"
+      ],
+      "categoryItems": [
+        330775
+      ],
+      "questionAnswers": [],
+      "roomId": 60360,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "848387",
       "title": "Packing Light with VS Code 🧳",
       "description": "You want modern consistent development experience across Windows/macOS/Linux? You want a lightweight code editor where you get to pick your tools & workloads? You want to code anywhere like in browser/Codespaces/DevBox and carry your developer settings?\r\n\r\nVisual Studio Code does all that & more. VS Code is uber popular for a reason – a lightweight code editor solution with multi-language support and a rich Extensions ecosystem. With C# Dev Kit and .NET MAUI Extensions, VS Code is more than capable of checking all the boxes for.NET developers building modern experiences for web, mobile, desktop, cloud native & more. GitHub Copilot brings AI-powered productivity to VS Code – developers can also gain contextual intelligence with GitHub Copilot Extensibility. With infinite configurability and a thriving ecosystem, VS Code is all about developer productivity – packing light makes you go places. Come see how!\r\n",
@@ -2048,6 +2070,43 @@
         844342
       ],
       "fullName": "Dan Keck",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "48c0f128-adfa-43f0-bf16-dae7314b5a2f",
+      "firstName": "Daniel",
+      "lastName": "Mikusa",
+      "bio": "Daniel Mikusa is a seasoned software engineer with over 20 years of experience in delivering scalable and robust applications using open-source and standards-based solutions. He has a deep appreciation for web technologies, having spent over 10 years working with Java, Spring, and CloudFoundry to deliver enterprise-scale solutions to customers at VMware.\r\n\r\nDaniel is currently employed as a Lead Developer at 7SIGNAL, the leader in enterprise WiFi optimization, where he uses technologies like Java, Spring, OAuth2/OIDC, and AWS to build the company’s WiFi performance monitoring solutions. In his spare time, Daniel is active in the open source community helping as a maintainer on the CNCF Cloud-Native Buildpacks project, and participating as both a maintainer and a member of the steering committee for the Paketo Buildpacks project.",
+      "tagLine": "Lead Developer @ 7SIGNAL",
+      "profilePicture": "https://sessionize.com/image/81f1-400o400o1-h8jd7iV8q5v8hBsiegkDfL.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/danielmikusa/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://fosstodon.org/@dmikusa",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.mikusa.com",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Mastadon",
+          "url": "https://fosstodon.org/@dmikusa",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        846712
+      ],
+      "fullName": "Daniel Mikusa",
       "categoryItems": [],
       "questionAnswers": []
     },

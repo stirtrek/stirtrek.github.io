@@ -55,6 +55,12 @@
                 "logo": "/images/sponsors/improving_350x200.jpg"
             },
             {
+                "name": "BPS Technologies",
+                "link": "https://bpstechnologies.com/",
+                "description": "At BPS Technologies, we solve complex business problems with innovative IT solutions. With over 25 years of experience in business process automation and optimization, BPS helps organizations move forward faster.",
+                "logo": "/images/sponsors/bpstechnologies_350x200.png"
+            },
+            {
                 "name": "Progress",
                 "link": "http://www.telerik.com/",
                 "description": "Progress (NASDAQ: PRGS) offers the leading platform for developing and deploying mission-critical business applications. The creator of the award-winning Telerik .NET and Kendo UI JavaScript user interface components/controls, reporting solutions and productivity tools, Progress offers all the tools developers need to build high-performance modern apps with outstanding UI. Learn more about the Progress developer tools at: www.telerik.com or 1-781-280-4000.",
@@ -68,7 +74,7 @@
             },
             {
                 "name": "Flash Fun Party Rentals",
-                "link": "https://https://flashfunpartyrentals.com/",
+                "link": "https://flashfunpartyrentals.com/",
                 "description": "At Flash Fun Photo Booth and Party Rentals, we’re all about bringing your events to life with unforgettable memories and exciting experiences! Serving Central Ohio, we specialize in premium photo booth rentals and party essentials that elevate any celebration, from weddings and corporate events to birthdays and graduations.",
                 "logo": "/images/sponsors/flashfun_350x200.jpg"
             }

@@ -16,25 +16,38 @@ if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  {
             <div class="text-with-comic-panel">
                 This year isn't going to be like any other year. We said that last year and it's still true! Thank you to our great sponsors for making it possible!
                 <br>Interested in exploring sponsorship opportunities? Email us:
-                <a href="mailto:info@stirtrek.com?subject=[Stir%20Trek]%20Question%20ref:site">info@stirtrek.com</a>
+                <a href="mailto:sponsors@stirtrek.com?subject=[Stir%20Trek]%20Question%20ref:site">sponsors@stirtrek.com</a>
             </div>
         </div>
     </div>
 
-    <% ["platinum", "gold", "silver", "bronze"].forEach(sponsorTier => {
+    <% ["platinum", "gold", "silver", "bronze", "community"].forEach(sponsorTier => {
         if(thisYearsSponsors.hasOwnProperty(sponsorTier)) { %>
+
+            <% if(thisYearsSponsors[sponsorTier].length === 0) return; %>
+
             <section>
                 <div class="row">
+                    <h2 style="text-align: center;"><%=sponsorTier%> Sponsors</h2>
                     <% for (var sponsor of thisYearsSponsors[sponsorTier] ) {%>
     
                         <%
                             let bootstrapColumnWidth;
                             switch(sponsorTier) {
                                 case "platinum":
-                                    bootstrapColumnWidth = 6;
+                                    bootstrapColumnWidth = 12;
                                     break;
                                 case "gold":
+                                    bootstrapColumnWidth = 6;
+                                    break;
+                                case "silver":
                                     bootstrapColumnWidth = 4;
+                                    break;
+                                case "bronze":
+                                    bootstrapColumnWidth = 3;
+                                    break;
+                                case "community":
+                                    bootstrapColumnWidth = 3;
                                     break;
                                 default:
                                     bootstrapColumnWidth = 3;

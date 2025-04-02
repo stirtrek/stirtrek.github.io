@@ -10,20 +10,35 @@ if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  {
 
     <!-- Sponsors -->
     <div id="allSponsorDetail">
-        <% ["platinum", "gold", "silver", "bronze"].forEach(sponsorTier => {
+        <% ["platinum", "gold", "silver", "bronze", "community"].forEach(sponsorTier => {
             if(thisYearsSponsors.hasOwnProperty(sponsorTier)) { %>
+                
+                <% if(thisYearsSponsors[sponsorTier].length === 0) return; %>
+
                 <section>
                     <div class="row">
+                        <h2><%=sponsorTier%> Sponsors</h2>
+                        <div class="icon-hr"></div>
+                        <br>
                         <% for (var sponsor of thisYearsSponsors[sponsorTier] ) {%>
         
                             <%
                                 let bootstrapColumnWidth;
                                 switch(sponsorTier) {
                                     case "platinum":
-                                        bootstrapColumnWidth = 6;
+                                        bootstrapColumnWidth = 12;
                                         break;
                                     case "gold":
+                                        bootstrapColumnWidth = 6;
+                                        break;
+                                    case "silver":
                                         bootstrapColumnWidth = 4;
+                                        break;
+                                    case "bronze":
+                                        bootstrapColumnWidth = 3;
+                                        break;
+                                    case "community":
+                                        bootstrapColumnWidth = 3;
                                         break;
                                     default:
                                         bootstrapColumnWidth = 3;
@@ -42,13 +57,15 @@ if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  {
                                         <%= sponsor.name %>
                                         <br>
                                         <a href="<%= sponsor.link %>" aria-label="Takes you to the homepage of <%= sponsor.name %>"><%= sponsor.link %></a>
-                                        <% if(sponsor.longDescription) { %>
-                                            <div class="description longDescription">
-                                        <% } else { %>
-                                            <div class="description">
+                                        <% if(sponsorTier != "community") { %>
+                                            <% if(sponsor.longDescription) { %>
+                                                <div class="description longDescription">
+                                            <% } else { %>
+                                                <div class="description">
+                                            <% } %>
+                                                <%= sponsor.description %>
+                                            </div>
                                         <% } %>
-                                            <%= sponsor.description %>
-                                        </div>
                                     </div>
                                 </div>
                             </div>

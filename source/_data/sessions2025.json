@@ -130,6 +130,28 @@
       "isConfirmed": true
     },
     {
+      "id": "849180",
+      "title": "Strengthening Your Foundation: The Power of Architectural Testing",
+      "description": "In this talk, we will dive into the world of architectural testing in .NET. We will explore how frameworks like NetArchTest.Rules and ArchUnitNET can be used to enforce architectural rules and maintain the integrity of our codebase. We will also discuss how these tools can be integrated with popular unit testing frameworks like MSTest, NUnit, and xUnit. Join us as we uncover the importance of architectural testing and how it can lead to more robust and maintainable ",
+      "startsAt": "2025-05-02T08:30:00",
+      "endsAt": "2025-05-02T09:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "45e1aedb-bf8c-43e1-be2d-cedeff50c9bd"
+      ],
+      "categoryItems": [
+        330774
+      ],
+      "questionAnswers": [],
+      "roomId": 60359,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "839912",
       "title": "How To Use BlueSky and LinkedIn to Find a Job",
       "description": "Mass applying to jobs just does NOT work anymore. And if you don't know someone at a company you are probably on the outside looking in. After being a traditional recruiter for 10+ years and learning how to leverage social media to be seen, I want to give that same knowledge to you. I have seen countless amount of developers use my tactics and end up finding jobs on their own!",
@@ -2920,6 +2942,38 @@
         845433
       ],
       "fullName": "Matt Righter",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "45e1aedb-bf8c-43e1-be2d-cedeff50c9bd",
+      "firstName": "Michael",
+      "lastName": "Eaton",
+      "bio": "Michael Eaton is a proven technical leader and developer with almost three decades of experience focused almost exclusively on building solutions for the Microsoft ecosystem. He is currently a Principal Consultant with Improving, helping clients build amazing software and working to change the perception of the IT profession. He is a blogger and writes about leadership and technology.\r\n",
+      "tagLine": "Principal Consultant at Improving",
+      "profilePicture": "https://sessionize.com/image/d7ef-400o400o1-3zxSxHNzAU3TCzQXZyUmMn.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/mjeaton",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/mjeaton/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://samestuffdifferentday.com",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        849180
+      ],
+      "fullName": "Michael Eaton",
       "categoryItems": [],
       "questionAnswers": []
     },

@@ -112,7 +112,7 @@ Ticket sale dates:
 * ~~**2/25/2025** - $175 early bird~~
 * **3/1/2025** - $200 standard
 * **3/22/2025** - $250 late... don't be late!
-* **4/6/2025** - Ticket sales end at 11:59pm
+* **4/11/2025** - Ticket sales end at 11:59pm
 * **5/2/2025** - **Stir Trek 2025!!!!**
 {% raw %}
             </div>

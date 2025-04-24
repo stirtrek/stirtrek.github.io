@@ -703,28 +703,6 @@
       "isConfirmed": true
     },
     {
-      "id": "845996",
-      "title": "Writing software for the NES in 2025",
-      "description": "Yes, that's right, NES as in the Nintendo Entertainment System! \r\nHave you ever wondered what it was like to develop for this iconic system? Learn how to write simple NES games in C using free tools and emulators available today.\r\n\r\nJon also has a GitHub project for writing NES games in C#. He'll talk a bit how this works, and if you're interested, how to help!",
-      "startsAt": "2025-05-02T11:30:00",
-      "endsAt": "2025-05-02T12:15:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "9764e182-22d8-4941-878f-055b361a3057"
-      ],
-      "categoryItems": [
-        330777
-      ],
-      "questionAnswers": [],
-      "roomId": 60361,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
       "id": "a986d611-2943-4646-8cc2-bca2dfb8cfa6",
       "title": "Lunch",
       "description": null,
@@ -1502,7 +1480,7 @@
       "id": "5c386803-b673-4259-a6ce-d85e1fd0a016",
       "firstName": "Alex",
       "lastName": "Riviere",
-      "bio": "Alex Riviere is a Senior Frontend Developer for Nexcor Technologies and a Co-Organizer for the Atlanta Vue.js Meetup.",
+      "bio": "Alex Riviere is a Senior Front End Developer for Hygiena and a Co-Organizer for the Atlanta Vue.js Meetup.",
       "tagLine": "Co-Organizer for Atlanta Vue.js Meetup",
       "profilePicture": "https://sessionize.com/image/2a67-400o400o1-Gvb6U4BXbHxWHRApqyTe58.jpg",
       "isTopSpeaker": false,
@@ -1513,9 +1491,24 @@
           "linkType": "Twitter"
         },
         {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/fimion/",
+          "linkType": "LinkedIn"
+        },
+        {
           "title": "Blog",
           "url": "https://alex.party",
           "linkType": "Blog"
+        },
+        {
+          "title": "bsky",
+          "url": "https://bsky.app/profile/dangitalex.wtf",
+          "linkType": "Other"
+        },
+        {
+          "title": "mastodon",
+          "url": "https://notacult.social/@fimion",
+          "linkType": "Other"
         }
       ],
       "sessions": [
@@ -2629,43 +2622,6 @@
         835961
       ],
       "fullName": "Jon Fazzaro",
-      "categoryItems": [],
-      "questionAnswers": []
-    },
-    {
-      "id": "9764e182-22d8-4941-878f-055b361a3057",
-      "firstName": "Jonathan",
-      "lastName": "Peppers",
-      "bio": "I used to build apps in C#. Now I build *tools* to build apps in C#. Engineer on the .NET Android / .NET MAUI team.",
-      "tagLine": "Engineer, .NET for Android, Microsoft",
-      "profilePicture": "https://sessionize.com/image/8d89-400o400o1-82-22d8-4941-878f-055b361a3057.8e844efa-9fbd-4e48-bf6c-939af48763e9.JPG",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "X (Twitter)",
-          "url": "https://twitter.com/jonathanpeppers",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://linkedin.com/in/jonathanpeppers",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://jonathanpeppers.com",
-          "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://devblogs.microsoft.com/dotnet/",
-          "linkType": "Company_Website"
-        }
-      ],
-      "sessions": [
-        845996
-      ],
-      "fullName": "Jonathan Peppers",
       "categoryItems": [],
       "questionAnswers": []
     },

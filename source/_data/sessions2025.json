@@ -1480,7 +1480,7 @@
       "id": "5c386803-b673-4259-a6ce-d85e1fd0a016",
       "firstName": "Alex",
       "lastName": "Riviere",
-      "bio": "Alex Riviere is a Senior Frontend Developer for Nexcor Technologies and a Co-Organizer for the Atlanta Vue.js Meetup.",
+      "bio": "Alex Riviere is a Senior Front End Developer for Hygiena and a Co-Organizer for the Atlanta Vue.js Meetup.",
       "tagLine": "Co-Organizer for Atlanta Vue.js Meetup",
       "profilePicture": "https://sessionize.com/image/2a67-400o400o1-Gvb6U4BXbHxWHRApqyTe58.jpg",
       "isTopSpeaker": false,
@@ -1491,9 +1491,24 @@
           "linkType": "Twitter"
         },
         {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/fimion/",
+          "linkType": "LinkedIn"
+        },
+        {
           "title": "Blog",
           "url": "https://alex.party",
           "linkType": "Blog"
+        },
+        {
+          "title": "bsky",
+          "url": "https://bsky.app/profile/dangitalex.wtf",
+          "linkType": "Other"
+        },
+        {
+          "title": "mastodon",
+          "url": "https://notacult.social/@fimion",
+          "linkType": "Other"
         }
       ],
       "sessions": [

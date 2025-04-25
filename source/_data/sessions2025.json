@@ -703,6 +703,28 @@
       "isConfirmed": true
     },
     {
+      "id": "848928",
+      "title": "Better Estimates: No Phantom Figures or Menacing Miscommunication",
+      "description": "When estimating how long a software project will take, do you feel like you are just guessing or pulling random numbers? In this talk, I share what I've learned about how to use math to quickly generate an estimate and tools you can use to communicate clearly about what your estimate really means. ",
+      "startsAt": "2025-05-02T11:30:00",
+      "endsAt": "2025-05-02T12:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f46fcf13-76db-4850-9995-ac8d076ba1de"
+      ],
+      "categoryItems": [
+        330778
+      ],
+      "questionAnswers": [],
+      "roomId": 60361,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": false
+    },
+    {
       "id": "a986d611-2943-4646-8cc2-bca2dfb8cfa6",
       "title": "Lunch",
       "description": null,
@@ -2289,6 +2311,7 @@
         }
       ],
       "sessions": [
+        848928,
         849246
       ],
       "fullName": "Eric Potter",

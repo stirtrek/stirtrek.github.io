@@ -85,29 +85,6 @@
       "isConfirmed": true
     },
     {
-      "id": "845433",
-      "title": "DMX Channels and Water Cannons:  The Geeky Anatomy of a Modern Splash Pad",
-      "description": "At augustwenty, we pride ourselves on an insights-driven approach that prioritizes understanding what makes each project unique—from the technological underpinnings to the human aspects of working together. In our collaboration with the City of Hilliard, Ohio, we exemplified this difference by overcoming outdated systems and complex challenges. We designed and deployed a Splash Pad system using Elixir, Phoenix, and a low-power Raspberry Pi to seamlessly engage the local community and foster meaningful social experiences.\r\nThis session will explore how augustwenty’s combination of reverse engineering, stakeholder interviews, and modern software architecture resulted in a cost-effective, reliable solution with zero downtime. Attendees will learn how focusing on scalability, fault-tolerance, and minimal maintenance can drastically improve operations for municipal recreation projects and beyond. By sharing our methodology and lessons learned, we aim to inspire other teams to build vibrant, future-ready solutions that enhance community well-being while reducing long-term costs.",
-      "startsAt": "2025-05-02T08:30:00",
-      "endsAt": "2025-05-02T09:15:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "18586bf9-1ad6-4187-a789-abbdc91520cc",
-        "bb817af8-6c17-4701-aa6e-129a227f8cb0"
-      ],
-      "categoryItems": [
-        330779
-      ],
-      "questionAnswers": [],
-      "roomId": 60357,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
       "id": "837395",
       "title": "Lights, Camera, Github Actions!",
       "description": "Getting your code on stage has never been easier with Github Actions! But how do you get started? Workflows? Composite Actions? Runners? Producing a build and deployment pipeline doesn’t need to be Hollywood magic. In this talk, we’ll discuss what goes into a Github Action Workflow, how to structure your build and deployment processes, and why all of this matters. When you leave this showing, we’ll have your audience of stakeholders applauding so you won’t end up with a dud at the box-office. ",
@@ -2217,33 +2194,6 @@
       "questionAnswers": []
     },
     {
-      "id": "18586bf9-1ad6-4187-a789-abbdc91520cc",
-      "firstName": "DJ",
-      "lastName": "Daugherty",
-      "bio": "Ever since DJ decided not to pursue a career as a Jedi (age 12), he has been drawn to making things. He is not a left or a right-brain thinker — he uses the whole thing. DJ loves spending time in both the creative and technology worlds. As the CTO of augustwenty, his ability to balance between creative and analytical thinking fits him to a T. DJ's primary focus is shaping the technical direction and vision of augustwenty’s continued development, with particular attention between culture and growth. \r\n\r\nDJ has spent the last (too many to mention) years using his ability to understand a business' needs and the technology required to deliver on their opportunities. He helps narrow their focus to the most important and valuable 'thing', delivering value to the businesses he helps as well as the customers they serve. He has spent time working with a very large, yellow and green, tractor company... adding the ability to 'drive themselves'. He has also spent lots of time working on building Autonomous Drive Systems (ADS) for the automotive industry. The last couple of years building a testing platform that enables software developers unfamiliar with the process of testing the interface between hardware and software to do so, quickly and efficiently.\r\n\r\nSome notable clients include Enron, John Deere, Ford, FiniteState, Path Robotics, NuCamp, Crown, DriveOhio, Case New Holland, Fiat Chrysler, Amazon AWS, Microsoft Azure/MCVP.\r\n\r\nOutside of work, DJ can usually be found on two wheels—bicycling or motorcycling. He spends a lot of his spare time bicycling to cure cancer… Pelotonia. You can also catch him fly fishing in the great outdoors or building autonomous drones.",
-      "tagLine": "augustwenty, CTO",
-      "profilePicture": "https://sessionize.com/image/639e-400o400o1-NBzsXLvXCkVCaPPwPhhhWh.png",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/daughertydj/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://augustwenty.com",
-          "linkType": "Company_Website"
-        }
-      ],
-      "sessions": [
-        845433
-      ],
-      "fullName": "DJ Daugherty",
-      "categoryItems": [],
-      "questionAnswers": []
-    },
-    {
       "id": "dcda8749-2066-4bef-85a4-b953b7b4c8af",
       "firstName": "Elena",
       "lastName": "Marquetti-Ali",
@@ -2899,28 +2849,6 @@
         847987
       ],
       "fullName": "Matt Eland",
-      "categoryItems": [],
-      "questionAnswers": []
-    },
-    {
-      "id": "bb817af8-6c17-4701-aa6e-129a227f8cb0",
-      "firstName": "Matt",
-      "lastName": "Righter",
-      "bio": "Matt is a lifelong learner who finds inspiration in the experiences of the people using the products he creates. By immersing himself in their perspectives, he gains a deep understanding of their needs, enabling him to design and build software that delivers meaningful and effective solutions.",
-      "tagLine": "augustwenty - Solutions Consultant",
-      "profilePicture": "https://sessionize.com/image/0a7c-400o400o1-VZAPhpdSuf4UwKeqLz4y6y.png",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Company Website",
-          "url": "https://www.augustwenty.com",
-          "linkType": "Company_Website"
-        }
-      ],
-      "sessions": [
-        845433
-      ],
-      "fullName": "Matt Righter",
       "categoryItems": [],
       "questionAnswers": []
     },

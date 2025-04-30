@@ -126,7 +126,7 @@
       "recordingUrl": null,
       "status": "Accepted",
       "isInformed": true,
-      "isConfirmed": false
+      "isConfirmed": true
     },
     {
       "id": "839912",
@@ -2156,8 +2156,8 @@
       "firstName": "Dev",
       "lastName": "Agrawal",
       "bio": "I build and teach how to build awesome fullstack applications. I work as a software engineer at Smart Data, I'm a core team member of Solid.js, and I make content on YouTube and Twitch. I talk about web development, architecture, reactive programming, home brewing coffee, and heavy metal music.",
-      "tagLine": "Software Engineer, Smart Data",
-      "profilePicture": "https://sessionize.com/image/8c7d-400o400o1-YRnv4ZDkgXA5CEbRzY1NKx.jpg",
+      "tagLine": "Software Engineer, Xolvio",
+      "profilePicture": "https://sessionize.com/image/98df-400o400o1-PpNweMPMALhRT6ZiVdSh37.jpg",
       "isTopSpeaker": false,
       "links": [
         {

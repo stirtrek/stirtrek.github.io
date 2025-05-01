@@ -73,7 +73,7 @@
                 "link": "http://leadingedje.com",
                 "description": "Leading EDJE helps our partners solve their most complex business challenges by building the highest quality custom solutions….and we do it better than anyone else! Since 2007, we have created a unique culture which promotes high positive energy with an entrepreneurial spirit. Our firm is made of exceptionally talented professionals who deliver exceptional results, and our clients are made from a wide array of industries but have a common goal of choosing a partner who provides distinct, creative solutions. We choose to work and live deliberately via our uncompromising core values, of Put Team First, Is Dedicated to Growth, Does the Right Thing…Not the Right Now Thing, Is Authentic and Clear and Approaches Problem Solving Passionately.",
                 "logo": "/images/sponsors/leadingedje_350x200.png"
-            },      
+            },
             {
                 "name": "GemCity TECH",
                 "link": "https://gemcity.tech/",
@@ -85,6 +85,12 @@
                 "link": "https://flashfunpartyrentals.com/",
                 "description": "At Flash Fun Photo Booth and Party Rentals, we’re all about bringing your events to life with unforgettable memories and exciting experiences! Serving Central Ohio, we specialize in premium photo booth rentals and party essentials that elevate any celebration, from weddings and corporate events to birthdays and graduations.",
                 "logo": "/images/sponsors/flashfun_350x200.jpg"
+            },
+            {
+                "name": "Glenn Harmon Photography",
+                "link": "https://www.glennharmon.photography/stir-trek-2025",
+                "description": "Glenn Harmon Jr. is a long time Stir Trek community member and also a photographer helping with the event.",
+                "logo": "/images/sponsors/Glenn-Harmon-Photography_350x200.png"
             }
         ]
     }

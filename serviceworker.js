@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1746260199016';
+var CACHE = 'network-or-cache-1746288921791';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -25,10 +25,10 @@ self.addEventListener('fetch', function(evt) {
     return caches.open(CACHE).then(function (cache) {
         return cache.addAll([
             "/images/speakers/2022/Readme.html",
-"/manifest.json",
 "/",
 "/index.html",
 "/404.html",
+"/manifest.json",
 "/covid/",
 "/covid/index.html",
 "/recordings/",
@@ -49,9 +49,9 @@ self.addEventListener('fetch', function(evt) {
 "/speakers/",
 "/speakers/index.html",
 "/speakers/index_cfpopenversion.html",
+"/speakers/index_noncfpversion.html",
 "/sponsors/",
 "/sponsors/index.html",
-"/speakers/index_noncfpversion.html",
 "/store/",
 "/store/index.html",
 "/virtual/",
@@ -60,10 +60,10 @@ self.addEventListener('fetch', function(evt) {
 "/workshops/index.html",
 "/info/antiharassmentpolicy/",
 "/info/antiharassmentpolicy/index.html",
-"/info/commitmenttodiversity/",
-"/info/commitmenttodiversity/index.html",
 "/info/codeofconduct/",
 "/info/codeofconduct/index.html",
+"/info/commitmenttodiversity/",
+"/info/commitmenttodiversity/index.html",
 "/info/contact/",
 "/info/contact/index.html",
 "/info/history/",
@@ -79,9 +79,9 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/regular.css",
 "/styles/fontawesome-6/css/regular.min.css",
 "/styles/fontawesome-6/css/solid.min.css",
-"/styles/fontawesome-6/css/solid.css",
 "/styles/fontawesome-6/css/svg-with-js.css",
 "/styles/fontawesome-6/css/svg-with-js.min.css",
+"/styles/fontawesome-6/css/solid.css",
 "/styles/fontawesome-6/css/v4-font-face.css",
 "/styles/fontawesome-6/css/v4-font-face.min.css",
 "/styles/fontawesome-6/css/v5-font-face.css",
@@ -92,8 +92,8 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/brands.css",
 "/styles/fontawesome-6/css/v4-shims.min.css",
 "/scripts/bootstrap.min.js",
-"/styles/fontawesome.min.css",
 "/styles/fontawesome-all.min.css",
+"/styles/fontawesome.min.css",
 "/styles/fontawesome-6/css/v4-shims.css",
 "/styles/fontawesome-6/css/fontawesome.min.css",
 "/scripts/bootstrap.js",

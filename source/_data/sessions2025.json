@@ -1793,6 +1793,11 @@
       "isTopSpeaker": false,
       "links": [
         {
+          "title": "X (Twitter)",
+          "url": "https://x.com/brucehubbard",
+          "linkType": "Twitter"
+        },
+        {
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/bruce-hubbard-7b18226/",
           "linkType": "LinkedIn"

@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1747757862166';
+var CACHE = 'network-or-cache-1747789716745';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -43,13 +43,13 @@ self.addEventListener('fetch', function(evt) {
 "/speakers/2019.html",
 "/speakers/2020.html",
 "/speakers/2021.html",
-"/speakers/2022.html",
 "/speakers/2023.html",
+"/speakers/2024.html",
+"/speakers/2022.html",
+"/speakers/index_noncfpversion.html",
 "/speakers/",
 "/speakers/index.html",
 "/speakers/index_cfpopenversion.html",
-"/speakers/index_noncfpversion.html",
-"/speakers/2024.html",
 "/sponsors/",
 "/sponsors/index.html",
 "/store/",
@@ -82,8 +82,8 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/solid.min.css",
 "/styles/fontawesome-6/css/svg-with-js.css",
 "/styles/fontawesome-6/css/svg-with-js.min.css",
-"/styles/fontawesome-6/css/v4-font-face.min.css",
 "/styles/fontawesome-6/css/v4-font-face.css",
+"/styles/fontawesome-6/css/v4-font-face.min.css",
 "/styles/fontawesome-6/css/v5-font-face.css",
 "/styles/fontawesome-6/css/v5-font-face.min.css",
 "/styles/bootstrap-button-social.min.css",
@@ -107,8 +107,8 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/all.css",
 "/styles/bootstrap.min.css",
 "/styles/bootstrap.css",
-"/scripts/jquery-3.3.1.js",
 "/scripts/jquery-3.3.0.js",
+"/scripts/jquery-3.3.1.js",
 "/speakers/2018/Adam-Pasternack.html",
 "/speakers/2018/Angel-Thomas.html",
 "/speakers/2018/Anna-Heiermann.html",

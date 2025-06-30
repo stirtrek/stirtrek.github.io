@@ -1500,6 +1500,11 @@
           "linkType": "Blog"
         },
         {
+          "title": "Company Website",
+          "url": "https://hygiena.com",
+          "linkType": "Company_Website"
+        },
+        {
           "title": "bsky",
           "url": "https://bsky.app/profile/dangitalex.wtf",
           "linkType": "Other"

@@ -3107,8 +3107,13 @@
         },
         {
           "title": "Company Website",
-          "url": "https://sep.com/",
+          "url": "https://sep.com/AI",
           "linkType": "Company_Website"
+        },
+        {
+          "title": "Bluesky",
+          "url": "https://bsky.app/profile/RobertHerbig.bsky.social",
+          "linkType": "Other"
         }
       ],
       "sessions": [

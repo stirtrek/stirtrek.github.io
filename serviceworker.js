@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1755706676224';
+var CACHE = 'network-or-cache-1755738321557';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -59,17 +59,17 @@ self.addEventListener('fetch', function(evt) {
 "/virtual/index.html",
 "/workshops/",
 "/workshops/index.html",
-"/info/codeofconduct/",
-"/info/codeofconduct/index.html",
 "/info/antiharassmentpolicy/",
 "/info/antiharassmentpolicy/index.html",
+"/info/codeofconduct/",
+"/info/codeofconduct/index.html",
 "/info/commitmenttodiversity/",
 "/info/commitmenttodiversity/index.html",
 "/info/contact/",
 "/info/contact/index.html",
-"/info/press/2024-02-10.html",
 "/info/history/",
 "/info/history/index.html",
+"/info/press/2024-02-10.html",
 "/info/press/",
 "/info/press/index.html",
 "/info/privacy/",
@@ -101,15 +101,15 @@ self.addEventListener('fetch', function(evt) {
 "/scripts/luxon.min.js",
 "/styles/fontawesome-6-all.min.css",
 "/styles/fontawesome-6/css/all.min.css",
-"/scripts/jquery.js",
 "/scripts/jquery-3.3.1.min.js",
+"/scripts/jquery.js",
 "/styles/fontawesome-6/css/fontawesome.css",
 "/styles/fontawesome-6-all.css",
 "/styles/fontawesome-6/css/all.css",
 "/styles/bootstrap.min.css",
 "/styles/bootstrap.css",
-"/scripts/jquery-3.3.1.js",
 "/scripts/jquery-3.3.0.js",
+"/scripts/jquery-3.3.1.js",
 "/speakers/2018/Adam-Pasternack.html",
 "/speakers/2018/Angel-Thomas.html",
 "/speakers/2018/Anna-Heiermann.html",

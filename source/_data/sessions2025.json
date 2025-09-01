@@ -2702,6 +2702,11 @@
       "isTopSpeaker": false,
       "links": [
         {
+          "title": "X (Twitter)",
+          "url": "https://x.com/softwareriot",
+          "linkType": "Twitter"
+        },
+        {
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/kellyivymorrison/",
           "linkType": "LinkedIn"

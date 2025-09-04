@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1756947677622';
+var CACHE = 'network-or-cache-1756973887237';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -27,8 +27,8 @@ self.addEventListener('fetch', function(evt) {
             "/images/speakers/2022/Readme.html",
 "/",
 "/index.html",
-"/404.html",
 "/manifest.json",
+"/404.html",
 "/covid/",
 "/covid/index.html",
 "/recordings/",
@@ -45,10 +45,10 @@ self.addEventListener('fetch', function(evt) {
 "/speakers/2021.html",
 "/speakers/2022.html",
 "/speakers/2024.html",
-"/speakers/2025.html",
-"/speakers/2023.html",
 "/speakers/",
 "/speakers/index.html",
+"/speakers/2023.html",
+"/speakers/2025.html",
 "/speakers/index_cfpopenversion.html",
 "/speakers/index_noncfpversion.html",
 "/sponsors/",
@@ -63,13 +63,13 @@ self.addEventListener('fetch', function(evt) {
 "/info/antiharassmentpolicy/index.html",
 "/info/codeofconduct/",
 "/info/codeofconduct/index.html",
-"/info/commitmenttodiversity/",
-"/info/commitmenttodiversity/index.html",
 "/info/contact/",
 "/info/contact/index.html",
+"/info/commitmenttodiversity/",
+"/info/commitmenttodiversity/index.html",
+"/info/press/2024-02-10.html",
 "/info/history/",
 "/info/history/index.html",
-"/info/press/2024-02-10.html",
 "/info/press/",
 "/info/press/index.html",
 "/info/privacy/",
@@ -101,8 +101,8 @@ self.addEventListener('fetch', function(evt) {
 "/scripts/luxon.min.js",
 "/styles/fontawesome-6-all.min.css",
 "/styles/fontawesome-6/css/all.min.css",
-"/scripts/jquery.js",
 "/scripts/jquery-3.3.1.min.js",
+"/scripts/jquery.js",
 "/styles/fontawesome-6/css/fontawesome.css",
 "/styles/fontawesome-6-all.css",
 "/styles/fontawesome-6/css/all.css",

@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1757060275599';
+var CACHE = 'network-or-cache-1757089002945';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -49,22 +49,22 @@ self.addEventListener('fetch', function(evt) {
 "/speakers/2025.html",
 "/speakers/",
 "/speakers/index.html",
-"/speakers/index_noncfpversion.html",
 "/speakers/index_cfpopenversion.html",
+"/speakers/index_noncfpversion.html",
 "/sponsors/",
 "/sponsors/index.html",
 "/store/",
 "/store/index.html",
 "/virtual/",
 "/virtual/index.html",
-"/info/antiharassmentpolicy/",
-"/info/antiharassmentpolicy/index.html",
 "/workshops/",
 "/workshops/index.html",
-"/info/commitmenttodiversity/",
-"/info/commitmenttodiversity/index.html",
+"/info/antiharassmentpolicy/",
+"/info/antiharassmentpolicy/index.html",
 "/info/codeofconduct/",
 "/info/codeofconduct/index.html",
+"/info/commitmenttodiversity/",
+"/info/commitmenttodiversity/index.html",
 "/info/contact/",
 "/info/contact/index.html",
 "/info/history/",
@@ -108,8 +108,8 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/all.css",
 "/styles/bootstrap.min.css",
 "/styles/bootstrap.css",
-"/scripts/jquery-3.3.1.js",
 "/scripts/jquery-3.3.0.js",
+"/scripts/jquery-3.3.1.js",
 "/speakers/2018/Adam-Pasternack.html",
 "/speakers/2018/Angel-Thomas.html",
 "/speakers/2018/Anna-Heiermann.html",

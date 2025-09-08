@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1757319644935';
+var CACHE = 'network-or-cache-1757348162398';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -25,9 +25,9 @@ self.addEventListener('fetch', function(evt) {
     return caches.open(CACHE).then(function (cache) {
         return cache.addAll([
             "/images/speakers/2022/Readme.html",
+"/manifest.json",
 "/",
 "/index.html",
-"/manifest.json",
 "/404.html",
 "/covid/",
 "/covid/index.html",
@@ -37,11 +37,11 @@ self.addEventListener('fetch', function(evt) {
 "/registration/index.html",
 "/schedule/",
 "/schedule/index.html",
-"/speakers/2018.html",
 "/sessions/",
 "/sessions/index.html",
-"/speakers/2019.html",
+"/speakers/2018.html",
 "/speakers/2020.html",
+"/speakers/2019.html",
 "/speakers/2021.html",
 "/speakers/2022.html",
 "/speakers/2023.html",
@@ -49,20 +49,20 @@ self.addEventListener('fetch', function(evt) {
 "/speakers/2025.html",
 "/speakers/",
 "/speakers/index.html",
-"/speakers/index_cfpopenversion.html",
-"/speakers/index_noncfpversion.html",
 "/sponsors/",
 "/sponsors/index.html",
+"/speakers/index_cfpopenversion.html",
+"/speakers/index_noncfpversion.html",
 "/store/",
 "/store/index.html",
 "/virtual/",
 "/virtual/index.html",
 "/workshops/",
 "/workshops/index.html",
-"/info/codeofconduct/",
-"/info/codeofconduct/index.html",
 "/info/antiharassmentpolicy/",
 "/info/antiharassmentpolicy/index.html",
+"/info/codeofconduct/",
+"/info/codeofconduct/index.html",
 "/info/commitmenttodiversity/",
 "/info/commitmenttodiversity/index.html",
 "/info/contact/",
@@ -101,8 +101,8 @@ self.addEventListener('fetch', function(evt) {
 "/scripts/luxon.min.js",
 "/styles/fontawesome-6-all.min.css",
 "/styles/fontawesome-6/css/all.min.css",
-"/scripts/jquery.js",
 "/scripts/jquery-3.3.1.min.js",
+"/scripts/jquery.js",
 "/styles/fontawesome-6/css/fontawesome.css",
 "/styles/fontawesome-6-all.css",
 "/styles/fontawesome-6/css/all.css",

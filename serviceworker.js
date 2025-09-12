@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1757638884387';
+var CACHE = 'network-or-cache-1757665083647';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -33,10 +33,10 @@ self.addEventListener('fetch', function(evt) {
 "/covid/index.html",
 "/recordings/",
 "/recordings/index.html",
-"/schedule/",
-"/schedule/index.html",
 "/registration/",
 "/registration/index.html",
+"/schedule/",
+"/schedule/index.html",
 "/sessions/",
 "/sessions/index.html",
 "/speakers/2018.html",
@@ -44,8 +44,8 @@ self.addEventListener('fetch', function(evt) {
 "/speakers/2020.html",
 "/speakers/2021.html",
 "/speakers/2022.html",
-"/speakers/2024.html",
 "/speakers/2023.html",
+"/speakers/2024.html",
 "/speakers/2025.html",
 "/speakers/",
 "/speakers/index.html",
@@ -59,10 +59,10 @@ self.addEventListener('fetch', function(evt) {
 "/virtual/index.html",
 "/workshops/",
 "/workshops/index.html",
-"/info/codeofconduct/",
-"/info/codeofconduct/index.html",
 "/info/antiharassmentpolicy/",
 "/info/antiharassmentpolicy/index.html",
+"/info/codeofconduct/",
+"/info/codeofconduct/index.html",
 "/info/commitmenttodiversity/",
 "/info/commitmenttodiversity/index.html",
 "/info/contact/",
@@ -101,8 +101,8 @@ self.addEventListener('fetch', function(evt) {
 "/scripts/luxon.min.js",
 "/styles/fontawesome-6-all.min.css",
 "/styles/fontawesome-6/css/all.min.css",
-"/scripts/jquery-3.3.1.min.js",
 "/scripts/jquery.js",
+"/scripts/jquery-3.3.1.min.js",
 "/styles/fontawesome-6/css/fontawesome.css",
 "/styles/fontawesome-6-all.css",
 "/styles/fontawesome-6/css/all.css",

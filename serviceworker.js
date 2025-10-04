@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1759565746218';
+var CACHE = 'network-or-cache-1759594514297';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -33,14 +33,14 @@ self.addEventListener('fetch', function(evt) {
 "/covid/index.html",
 "/recordings/",
 "/recordings/index.html",
-"/schedule/",
-"/schedule/index.html",
 "/registration/",
 "/registration/index.html",
+"/schedule/",
+"/schedule/index.html",
 "/sessions/",
 "/sessions/index.html",
-"/speakers/2018.html",
 "/speakers/2019.html",
+"/speakers/2018.html",
 "/speakers/2020.html",
 "/speakers/2021.html",
 "/speakers/2022.html",
@@ -50,11 +50,11 @@ self.addEventListener('fetch', function(evt) {
 "/speakers/",
 "/speakers/index.html",
 "/speakers/index_cfpopenversion.html",
+"/speakers/index_noncfpversion.html",
 "/sponsors/",
 "/sponsors/index.html",
 "/store/",
 "/store/index.html",
-"/speakers/index_noncfpversion.html",
 "/virtual/",
 "/virtual/index.html",
 "/workshops/",
@@ -70,10 +70,10 @@ self.addEventListener('fetch', function(evt) {
 "/info/history/",
 "/info/history/index.html",
 "/info/press/2024-02-10.html",
-"/info/privacy/",
-"/info/privacy/index.html",
 "/info/press/",
 "/info/press/index.html",
+"/info/privacy/",
+"/info/privacy/index.html",
 "/info/travel/",
 "/info/travel/index.html",
 "/styles/fontawesome-6/css/brands.min.css",

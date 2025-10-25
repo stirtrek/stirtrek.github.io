@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1761380205497';
+var CACHE = 'network-or-cache-1761408948045';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -25,10 +25,10 @@ self.addEventListener('fetch', function(evt) {
     return caches.open(CACHE).then(function (cache) {
         return cache.addAll([
             "/images/speakers/2022/Readme.html",
-"/",
-"/index.html",
 "/manifest.json",
 "/404.html",
+"/",
+"/index.html",
 "/covid/",
 "/covid/index.html",
 "/recordings/",
@@ -42,8 +42,8 @@ self.addEventListener('fetch', function(evt) {
 "/speakers/2018.html",
 "/speakers/2019.html",
 "/speakers/2020.html",
-"/speakers/2022.html",
 "/speakers/2021.html",
+"/speakers/2022.html",
 "/speakers/2023.html",
 "/speakers/2024.html",
 "/speakers/2025.html",
@@ -70,23 +70,23 @@ self.addEventListener('fetch', function(evt) {
 "/info/history/",
 "/info/history/index.html",
 "/info/press/2024-02-10.html",
-"/info/press/",
-"/info/press/index.html",
 "/info/privacy/",
 "/info/privacy/index.html",
+"/info/press/",
+"/info/press/index.html",
 "/info/travel/",
 "/info/travel/index.html",
 "/styles/fontawesome-6/css/brands.min.css",
-"/styles/fontawesome-6/css/regular.min.css",
 "/styles/fontawesome-6/css/regular.css",
 "/styles/fontawesome-6/css/solid.css",
 "/styles/fontawesome-6/css/solid.min.css",
+"/styles/fontawesome-6/css/regular.min.css",
 "/styles/fontawesome-6/css/svg-with-js.css",
 "/styles/fontawesome-6/css/svg-with-js.min.css",
 "/styles/fontawesome-6/css/v4-font-face.css",
 "/styles/fontawesome-6/css/v4-font-face.min.css",
-"/styles/fontawesome-6/css/v5-font-face.css",
 "/styles/fontawesome-6/css/v5-font-face.min.css",
+"/styles/fontawesome-6/css/v5-font-face.css",
 "/styles/bootstrap-button-social.min.css",
 "/styles/fontawesome-4.min.css",
 "/styles/site.css",

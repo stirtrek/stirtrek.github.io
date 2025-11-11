@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1762791547884';
+var CACHE = 'network-or-cache-1762823342746';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -77,12 +77,12 @@ self.addEventListener('fetch', function(evt) {
 "/info/travel/",
 "/info/travel/index.html",
 "/styles/fontawesome-6/css/brands.min.css",
+"/styles/fontawesome-6/css/regular.css",
 "/styles/fontawesome-6/css/regular.min.css",
 "/styles/fontawesome-6/css/solid.css",
 "/styles/fontawesome-6/css/solid.min.css",
-"/styles/fontawesome-6/css/regular.css",
-"/styles/fontawesome-6/css/svg-with-js.min.css",
 "/styles/fontawesome-6/css/svg-with-js.css",
+"/styles/fontawesome-6/css/svg-with-js.min.css",
 "/styles/fontawesome-6/css/v4-font-face.css",
 "/styles/fontawesome-6/css/v4-font-face.min.css",
 "/styles/fontawesome-6/css/v5-font-face.css",
@@ -101,8 +101,8 @@ self.addEventListener('fetch', function(evt) {
 "/scripts/luxon.min.js",
 "/styles/fontawesome-6-all.min.css",
 "/styles/fontawesome-6/css/all.min.css",
-"/scripts/jquery.js",
 "/scripts/jquery-3.3.1.min.js",
+"/scripts/jquery.js",
 "/styles/fontawesome-6/css/fontawesome.css",
 "/styles/fontawesome-6-all.css",
 "/styles/fontawesome-6/css/all.css",

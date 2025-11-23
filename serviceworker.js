@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1763828187917';
+var CACHE = 'network-or-cache-1763860636434';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -29,12 +29,12 @@ self.addEventListener('fetch', function(evt) {
 "/index.html",
 "/manifest.json",
 "/404.html",
-"/recordings/",
-"/recordings/index.html",
 "/covid/",
 "/covid/index.html",
 "/registration/",
 "/registration/index.html",
+"/recordings/",
+"/recordings/index.html",
 "/schedule/",
 "/schedule/index.html",
 "/sessions/",
@@ -49,12 +49,12 @@ self.addEventListener('fetch', function(evt) {
 "/speakers/2025.html",
 "/speakers/",
 "/speakers/index.html",
-"/speakers/index_cfpopenversion.html",
 "/speakers/index_noncfpversion.html",
 "/sponsors/",
 "/sponsors/index.html",
 "/store/",
 "/store/index.html",
+"/speakers/index_cfpopenversion.html",
 "/virtual/",
 "/virtual/index.html",
 "/workshops/",
@@ -83,8 +83,8 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/solid.min.css",
 "/styles/fontawesome-6/css/svg-with-js.css",
 "/styles/fontawesome-6/css/svg-with-js.min.css",
-"/styles/fontawesome-6/css/v4-font-face.css",
 "/styles/fontawesome-6/css/v4-font-face.min.css",
+"/styles/fontawesome-6/css/v4-font-face.css",
 "/styles/fontawesome-6/css/v5-font-face.css",
 "/styles/fontawesome-6/css/v5-font-face.min.css",
 "/styles/bootstrap-button-social.min.css",

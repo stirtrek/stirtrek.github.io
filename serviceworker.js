@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1764378411295';
+var CACHE = 'network-or-cache-1764404305511';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -25,9 +25,9 @@ self.addEventListener('fetch', function(evt) {
     return caches.open(CACHE).then(function (cache) {
         return cache.addAll([
             "/images/speakers/2022/Readme.html",
-"/manifest.json",
 "/",
 "/index.html",
+"/manifest.json",
 "/404.html",
 "/covid/",
 "/covid/index.html",
@@ -44,27 +44,27 @@ self.addEventListener('fetch', function(evt) {
 "/speakers/2020.html",
 "/speakers/2021.html",
 "/speakers/2022.html",
-"/speakers/2024.html",
 "/speakers/2023.html",
-"/speakers/2025.html",
+"/speakers/2024.html",
 "/speakers/",
 "/speakers/index.html",
+"/speakers/2025.html",
 "/speakers/index_cfpopenversion.html",
 "/speakers/index_noncfpversion.html",
-"/store/",
-"/store/index.html",
 "/sponsors/",
 "/sponsors/index.html",
+"/store/",
+"/store/index.html",
 "/virtual/",
 "/virtual/index.html",
 "/workshops/",
 "/workshops/index.html",
 "/info/antiharassmentpolicy/",
 "/info/antiharassmentpolicy/index.html",
-"/info/commitmenttodiversity/",
-"/info/commitmenttodiversity/index.html",
 "/info/codeofconduct/",
 "/info/codeofconduct/index.html",
+"/info/commitmenttodiversity/",
+"/info/commitmenttodiversity/index.html",
 "/info/contact/",
 "/info/contact/index.html",
 "/info/history/",
@@ -83,8 +83,8 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/solid.min.css",
 "/styles/fontawesome-6/css/svg-with-js.css",
 "/styles/fontawesome-6/css/svg-with-js.min.css",
-"/styles/fontawesome-6/css/v4-font-face.css",
 "/styles/fontawesome-6/css/v4-font-face.min.css",
+"/styles/fontawesome-6/css/v4-font-face.css",
 "/styles/fontawesome-6/css/v5-font-face.css",
 "/styles/fontawesome-6/css/v5-font-face.min.css",
 "/styles/bootstrap-button-social.min.css",

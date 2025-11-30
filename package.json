@@ -3,11 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "7.1.1"
+    "version": "7.3.0"
   },
   "dependencies": {
     "follow-redirects": "^1.15.5",
-    "hexo": "^7.1.1",
+    "hexo": "^7.3.0",
     "hexo-deployer-git": "^4.0.0",
     "hexo-fs": "^4.1.1",
     "hexo-generator-alias": "^1.0.0",

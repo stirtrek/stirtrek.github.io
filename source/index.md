@@ -17,12 +17,12 @@ title: Tech & a Flick
         <br>
         <p><a class="registerNow" href="https://events.humanitix.com/stir-trek-2025">Register Here!</a></p>
     </div>-->
-    <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+    <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek<br/>Columbus, OH</p>
         <p class="date">TODAY</p>
         <br>
         <p><a class="registerNow" href="https://stir-trek-2025.sessionize.com/">Download Our App Here!</a></p>
-    </div>
+    </div> -->
     <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">5/3/2024</p>
@@ -71,9 +71,9 @@ title: Tech & a Flick
         <div class="comic-panel-header offset" id="whatigetheader">What Do Ya get?</div>
         <div class="comic-panel-body with-header" id="whatiget">
             <ul>
-                <li><s>48</s> 🥳 <strong>64</strong> 🎈 Sessions of critical content</li>
+                <li><strong>64</strong> Sessions of critical content</li>
                 <li>Well-known regional &amp; national Speakers</li>
-                <li>Screening of <a target="_blank" href="https://www.youtube.com/watch?v=psLPAtGaY_U">Marvel's Thunderbolts</a></li>
+                <li>Screening of a great movie that we'll announce soon</li>
                 <li>Breakfast and Lunch</li>
                 <li>Refreshments during the movie</li>
                 <li>Registration box with fun bonus swag</li>
@@ -110,25 +110,10 @@ title: Tech & a Flick
             Ticket Dates
         </div>
         <div class="comic-panel-body with-header">
-            Ticket prices go up as the event gets closer because things get more expensive and complicated.<br /><br />Register early!
-            <div>
-{% endraw %}
-Ticket sale dates:
-* ~~**2/25/2025** - $149 super early bird (first 50)~~
-* ~~**2/25/2025** - $175 early bird~~
-* **3/1/2025** - $200 standard
-* **3/22/2025** - $250 late... don't be late!
-* **4/11/2025** - Ticket sales end at 11:59pm
-* **5/2/2025** - **Stir Trek 2025!!!!**
-{% raw %}
-            </div>
-            <!--
-            <div style="text-align: center;">
-                <a class="registerNow" href="https://events.humanitix.com/stir-trek-2024">Click here to buy your ticket!</a>
-            </div> -->
+            Tickets for 2026 will be announced soon.
         </div>
     </div>  
-<div class="col-md-6">
+    <div class="col-md-6">
         <div class="comic-panel-header offset">Mega Food Drive</div>
         <div class="comic-panel-body with-header">
             Be <strong>awesome</strong>. Help those in need. Bring non-perishable food. Donate it. Maybe win something.

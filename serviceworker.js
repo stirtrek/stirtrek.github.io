@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1764490659332';
+var CACHE = 'network-or-cache-1764519411852';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -26,18 +26,18 @@ self.addEventListener('fetch', function(evt) {
         return cache.addAll([
             "/images/speakers/2022/Readme.html",
 "/images/speakers/2026/example.html",
-"/manifest.json",
 "/",
 "/index.html",
+"/manifest.json",
 "/404.html",
-"/covid/",
-"/covid/index.html",
 "/recordings/",
 "/recordings/index.html",
-"/registration/",
-"/registration/index.html",
+"/covid/",
+"/covid/index.html",
 "/schedule/",
 "/schedule/index.html",
+"/registration/",
+"/registration/index.html",
 "/sessions/",
 "/sessions/index.html",
 "/speakers/2018.html",
@@ -62,10 +62,10 @@ self.addEventListener('fetch', function(evt) {
 "/workshops/index.html",
 "/info/antiharassmentpolicy/",
 "/info/antiharassmentpolicy/index.html",
-"/info/commitmenttodiversity/",
-"/info/commitmenttodiversity/index.html",
 "/info/codeofconduct/",
 "/info/codeofconduct/index.html",
+"/info/commitmenttodiversity/",
+"/info/commitmenttodiversity/index.html",
 "/info/contact/",
 "/info/contact/index.html",
 "/info/history/",
@@ -73,10 +73,10 @@ self.addEventListener('fetch', function(evt) {
 "/info/press/2024-02-10.html",
 "/info/press/",
 "/info/press/index.html",
-"/info/privacy/",
-"/info/privacy/index.html",
 "/info/travel/",
 "/info/travel/index.html",
+"/info/privacy/",
+"/info/privacy/index.html",
 "/styles/fontawesome-6/css/brands.min.css",
 "/styles/fontawesome-6/css/regular.css",
 "/styles/fontawesome-6/css/regular.min.css",

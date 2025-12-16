@@ -5,6 +5,12 @@ title: Tech & a Flick
 
 {% raw %}
 <div class="row" id="stirTrekHeroContainer">
+     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+        <p class="date">Stir Trek - Columbus, OH</p>
+        <p class="date">5/1/2026</p>
+        <br>
+        <p>Call for speakers opens in January!</p>
+    </div>
      <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">5/2/2025</p>

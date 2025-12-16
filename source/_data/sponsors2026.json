@@ -1,1 +1,23 @@
-{"sponsors":{"platinum":[],"gold":[],"silver":[],"bronze":[]}}
+{"sponsors":
+    {
+        "platinum":[
+
+        ],
+        "gold":[
+
+        ],
+        "silver":[
+            {
+                "name": "Revel IT",
+                "link": "https://www.revelit.com",
+                "description": "Revel IT is a Dublin, OH based IT staffing and consulting firm focused on delivering exceptional tech talent and workforce solutions.",
+                "logo": "/images/sponsors/revelit_350x200.png"
+            }
+        ],
+        "bronze":[
+
+        ],
+        "community": [
+        ]
+    }
+}

@@ -21,7 +21,7 @@ const sessionizeURL = config.sessionizeApiUrl;
 const currentYear = config.currentYear;
 
 if (!sessionizeURL || !currentYear) {
-  console.error('❌ Missing required configuration: sessionizeApiUrl or currentYear.');
+  console.warn('❌ Missing required configuration: sessionizeApiUrl or currentYear.');
   process.exit(1);
 }
 

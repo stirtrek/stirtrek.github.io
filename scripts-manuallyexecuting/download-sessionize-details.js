@@ -22,7 +22,7 @@ const currentYear = config.currentYear;
 
 if (!sessionizeURL || !currentYear) {
   console.warn('❌ Missing required configuration: sessionizeApiUrl or currentYear.');
-  process.exit(1);
+  process.exit(0);
 }
 
 // Set output path

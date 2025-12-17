@@ -14,10 +14,16 @@ try {
 // Validate required configuration variables
 const currentYear = config.currentYear;
 const timeZone = config.timeZone;
+const sessionizeURL = config.sessionizeApiUrl;
 
 if (!currentYear || !timeZone) {
   console.error('❌ Missing required configuration: currentYear or timeZone.');
   process.exit(1);
+}
+
+if (!sessionizeURL) {
+  console.warn('❌ Missing required configuration: sessionizeApiUrl. Skipping this run.');
+  process.exit(0);
 }
 
 // Set the timezone

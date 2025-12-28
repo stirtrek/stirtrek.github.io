@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1766910011299';
+var CACHE = 'network-or-cache-1766938676266';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -27,8 +27,8 @@ self.addEventListener('fetch', function(evt) {
             "/images/speakers/2022/Readme.html",
 "/",
 "/index.html",
-"/404.html",
 "/manifest.json",
+"/404.html",
 "/covid/",
 "/covid/index.html",
 "/recordings/",
@@ -43,10 +43,10 @@ self.addEventListener('fetch', function(evt) {
 "/speakers/2019.html",
 "/speakers/2020.html",
 "/speakers/2021.html",
+"/speakers/2023.html",
 "/speakers/2022.html",
 "/speakers/2024.html",
 "/speakers/2025.html",
-"/speakers/2023.html",
 "/speakers/",
 "/speakers/index.html",
 "/speakers/index_cfpopenversion.html",
@@ -59,10 +59,10 @@ self.addEventListener('fetch', function(evt) {
 "/virtual/index.html",
 "/workshops/",
 "/workshops/index.html",
-"/info/codeofconduct/",
-"/info/codeofconduct/index.html",
 "/info/antiharassmentpolicy/",
 "/info/antiharassmentpolicy/index.html",
+"/info/codeofconduct/",
+"/info/codeofconduct/index.html",
 "/info/commitmenttodiversity/",
 "/info/commitmenttodiversity/index.html",
 "/info/contact/",
@@ -78,9 +78,9 @@ self.addEventListener('fetch', function(evt) {
 "/info/travel/index.html",
 "/styles/fontawesome-6/css/brands.min.css",
 "/styles/fontawesome-6/css/regular.css",
-"/styles/fontawesome-6/css/regular.min.css",
 "/styles/fontawesome-6/css/solid.css",
 "/styles/fontawesome-6/css/solid.min.css",
+"/styles/fontawesome-6/css/regular.min.css",
 "/styles/fontawesome-6/css/svg-with-js.css",
 "/styles/fontawesome-6/css/svg-with-js.min.css",
 "/styles/fontawesome-6/css/v4-font-face.css",
@@ -108,8 +108,8 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/all.css",
 "/styles/bootstrap.min.css",
 "/styles/bootstrap.css",
-"/scripts/jquery-3.3.0.js",
 "/scripts/jquery-3.3.1.js",
+"/scripts/jquery-3.3.0.js",
 "/speakers/2018/Adam-Pasternack.html",
 "/speakers/2018/Angel-Thomas.html",
 "/speakers/2018/Anna-Heiermann.html",

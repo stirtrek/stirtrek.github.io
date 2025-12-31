@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1767169330669';
+var CACHE = 'network-or-cache-1767197951896';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -27,8 +27,8 @@ self.addEventListener('fetch', function(evt) {
             "/images/speakers/2022/Readme.html",
 "/",
 "/index.html",
-"/404.html",
 "/manifest.json",
+"/404.html",
 "/covid/",
 "/covid/index.html",
 "/recordings/",
@@ -40,9 +40,9 @@ self.addEventListener('fetch', function(evt) {
 "/sessions/",
 "/sessions/index.html",
 "/speakers/2018.html",
-"/speakers/2019.html",
 "/speakers/2020.html",
 "/speakers/2021.html",
+"/speakers/2019.html",
 "/speakers/2022.html",
 "/speakers/2023.html",
 "/speakers/2024.html",
@@ -51,10 +51,10 @@ self.addEventListener('fetch', function(evt) {
 "/speakers/index.html",
 "/speakers/index_cfpopenversion.html",
 "/speakers/index_noncfpversion.html",
-"/sponsors/",
-"/sponsors/index.html",
 "/store/",
 "/store/index.html",
+"/sponsors/",
+"/sponsors/index.html",
 "/virtual/",
 "/virtual/index.html",
 "/workshops/",
@@ -70,10 +70,10 @@ self.addEventListener('fetch', function(evt) {
 "/info/history/",
 "/info/history/index.html",
 "/info/press/2024-02-10.html",
-"/info/press/",
-"/info/press/index.html",
 "/info/privacy/",
 "/info/privacy/index.html",
+"/info/press/",
+"/info/press/index.html",
 "/info/travel/",
 "/info/travel/index.html",
 "/styles/fontawesome-6/css/brands.min.css",

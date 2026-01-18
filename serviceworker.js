@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1768724404278';
+var CACHE = 'network-or-cache-1768753089428';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -25,10 +25,10 @@ self.addEventListener('fetch', function(evt) {
     return caches.open(CACHE).then(function (cache) {
         return cache.addAll([
             "/images/speakers/2022/Readme.html",
-"/manifest.json",
-"/404.html",
 "/",
 "/index.html",
+"/404.html",
+"/manifest.json",
 "/covid/",
 "/covid/index.html",
 "/recordings/",
@@ -39,12 +39,12 @@ self.addEventListener('fetch', function(evt) {
 "/schedule/index.html",
 "/sessions/",
 "/sessions/index.html",
-"/speakers/2019.html",
-"/speakers/2020.html",
 "/speakers/2018.html",
+"/speakers/2020.html",
 "/speakers/2021.html",
-"/speakers/2022.html",
+"/speakers/2019.html",
 "/speakers/2023.html",
+"/speakers/2022.html",
 "/speakers/2024.html",
 "/speakers/2025.html",
 "/speakers/",
@@ -55,12 +55,12 @@ self.addEventListener('fetch', function(evt) {
 "/sponsors/index.html",
 "/store/",
 "/store/index.html",
-"/info/antiharassmentpolicy/",
-"/info/antiharassmentpolicy/index.html",
 "/virtual/",
 "/virtual/index.html",
 "/workshops/",
 "/workshops/index.html",
+"/info/antiharassmentpolicy/",
+"/info/antiharassmentpolicy/index.html",
 "/info/codeofconduct/",
 "/info/codeofconduct/index.html",
 "/info/commitmenttodiversity/",
@@ -69,9 +69,9 @@ self.addEventListener('fetch', function(evt) {
 "/info/contact/index.html",
 "/info/history/",
 "/info/history/index.html",
+"/info/press/2024-02-10.html",
 "/info/press/",
 "/info/press/index.html",
-"/info/press/2024-02-10.html",
 "/info/privacy/",
 "/info/privacy/index.html",
 "/info/travel/",
@@ -79,8 +79,8 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/brands.min.css",
 "/styles/fontawesome-6/css/regular.css",
 "/styles/fontawesome-6/css/regular.min.css",
-"/styles/fontawesome-6/css/solid.css",
 "/styles/fontawesome-6/css/solid.min.css",
+"/styles/fontawesome-6/css/solid.css",
 "/styles/fontawesome-6/css/svg-with-js.css",
 "/styles/fontawesome-6/css/svg-with-js.min.css",
 "/styles/fontawesome-6/css/v4-font-face.css",

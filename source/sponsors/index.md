@@ -249,7 +249,7 @@ alias:
 
 <br><br>
 
-## 2025 Sponsors and Partners
+## 2026 Sponsors and Partners
 
 <div class="icon-hr"></div>
 

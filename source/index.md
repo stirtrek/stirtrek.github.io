@@ -5,12 +5,12 @@ title: Tech & a Flick
 
 {% raw %}
 <div class="row" id="stirTrekHeroContainer">
-     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+     <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">5/1/2026</p>
         <br>
         <p>Call for speakers opens in January!</p>
-    </div>
+    </div> -->
      <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">5/2/2025</p>
@@ -19,7 +19,7 @@ title: Tech & a Flick
     </div> -->
     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek<br/>Columbus, OH</p>
-        <p class="date">5/2/2025</p>
+        <p class="date">5/1/2026</p>
         <br>
         <p><a class="registerNow" href="https://sessionize.com/stir-trek-2026/">Submit Your Sessions Now!</a></p>
     </div>

@@ -133,5 +133,8 @@ Check out [Stir Trek 2024 sessions on YouTube](https://www.youtube.com/playlist?
 
 2024 was a different year because of various events including Holywood strikes. There were no new big budget films to show. Instead, we had Stir Trek Jar Jar edition!
 
+### 2025 "Thunderbolts Edition"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oH96QbNKIcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Check out [Stir Trek 2025 sessions on YouTube](https://www.youtube.com/playlist?list=PLaHMqLt8nxCwHLWI1LL3yKuAvgSj_EcUe)!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hUUszE29jS0?si=PzovUenCmJcWSPFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

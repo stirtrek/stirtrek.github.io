@@ -26,7 +26,7 @@ allYears:
   - 2026
 showSchedule: false
 showSessionList: false
-showSpeakers: false
+showSpeakers: true
 showStore: false
 showRecordings: false
 showWorkshops: false

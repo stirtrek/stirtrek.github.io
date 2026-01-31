@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1769847729106';
+var CACHE = 'network-or-cache-1769876452740';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -39,15 +39,15 @@ self.addEventListener('fetch', function(evt) {
 "/sessions/index.html",
 "/speakers/2018.html",
 "/speakers/2019.html",
-"/speakers/2020.html",
 "/speakers/2021.html",
+"/speakers/2020.html",
 "/speakers/2022.html",
-"/speakers/2025.html",
+"/speakers/2023.html",
 "/speakers/2024.html",
+"/speakers/2025.html",
 "/speakers/",
 "/speakers/index.html",
 "/speakers/index_cfpopenversion.html",
-"/speakers/2023.html",
 "/speakers/index_noncfpversion.html",
 "/sponsors/",
 "/sponsors/index.html",
@@ -65,9 +65,9 @@ self.addEventListener('fetch', function(evt) {
 "/info/codeofconduct/index.html",
 "/info/contact/",
 "/info/contact/index.html",
-"/info/press/2024-02-10.html",
 "/info/history/",
 "/info/history/index.html",
+"/info/press/2024-02-10.html",
 "/info/press/",
 "/info/press/index.html",
 "/info/privacy/",
@@ -76,8 +76,8 @@ self.addEventListener('fetch', function(evt) {
 "/info/travel/index.html",
 "/styles/fontawesome-6/css/brands.min.css",
 "/styles/fontawesome-6/css/regular.css",
-"/styles/fontawesome-6/css/solid.css",
 "/styles/fontawesome-6/css/regular.min.css",
+"/styles/fontawesome-6/css/solid.css",
 "/styles/fontawesome-6/css/solid.min.css",
 "/styles/fontawesome-6/css/svg-with-js.css",
 "/styles/fontawesome-6/css/svg-with-js.min.css",
@@ -106,8 +106,8 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/all.css",
 "/styles/bootstrap.min.css",
 "/styles/bootstrap.css",
-"/scripts/jquery-3.3.0.js",
 "/scripts/jquery-3.3.1.js",
+"/scripts/jquery-3.3.0.js",
 "/speakers/2018/Adam-Pasternack.html",
 "/speakers/2018/Angel-Thomas.html",
 "/speakers/2018/Anna-Heiermann.html",

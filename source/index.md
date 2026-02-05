@@ -5,18 +5,24 @@ title: Tech & a Flick
 
 {% raw %}
 <div class="row" id="stirTrekHeroContainer">
-     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+     <!--<div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">5/1/2026</p>
         <br>
-        <p>Ticket Dates Coming Soon!</p>
-    </div>
+        <p>Coming Soon!</p>
+    </div>-->
      <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek - Columbus, OH</p>
         <p class="date">5/2/2025</p>
         <br>
         <p>Call for speakers opens in January!</p>
     </div> -->
+    <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
+        <p class="date">Stir Trek<br/>Columbus, OH</p>
+        <p class="date">5/1/2026</p>
+        <br>
+        <p>Tickets go on sale on February 24, 2026!</p>
+    </div>
     <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek<br/>Columbus, OH</p>
         <p class="date">5/1/2026</p>
@@ -79,13 +85,15 @@ title: Tech & a Flick
             <ul>
                 <li><strong>64</strong> Sessions of critical content</li>
                 <li>Well-known regional &amp; national Speakers</li>
+                <li>Panel discussions</li>
                 <li>Screening of a great movie that we'll announce soon</li>
                 <li>Breakfast and Lunch</li>
                 <li>Refreshments during the movie</li>
                 <li>Registration box with fun bonus swag</li>
             </ul>
-            <div class="comic-panel-inset"></div>
+            <!--<div class="comic-panel-inset"></div>-->
         </div>
+        <!--
         <div class="comic-panel-body with-header hidden" id="whatigetGroot">
             <ul>
                 <li>I am Groot.</li>
@@ -105,6 +113,7 @@ title: Tech & a Flick
                 document.getElementById('whatigetGroot').classList.toggle('hidden');
             });
         </script>
+        -->
     </div>
 </div>
 
@@ -116,9 +125,24 @@ title: Tech & a Flick
             Ticket Dates
         </div>
         <div class="comic-panel-body with-header">
-            Tickets for 2026 will be announced soon.
-        </div>
-    </div>  
+            Ticket prices go up as the event gets closer because things get more expensive and complicated.<br /><br />Register early!
+            <div>
+{% endraw %}
+Ticket sale dates:
+* **2/24/2026** - $165 super early bird (first 50)
+* **2/24/2026** - $185 early bird
+* **2/28/2026** - $215 standard
+* **3/24/2026** - $255 late... don't be late!
+* **4/1/2026** - $255, but no box is included
+* **4/30/2026** - Ticket sales end at 11:59pm
+* **5/1/2026** - **Stir Trek 2026!!!!**
+  {% raw %}
+  </div>
+            <!--<div style="text-align: center;">
+                <a class="registerNow" href="#">Click here to buy your ticket!</a>
+            </div>-->
+</div>
+</div>
     <div class="col-md-6">
         <div class="comic-panel-header offset">Mega Food Drive</div>
         <div class="comic-panel-body with-header">

@@ -12,6 +12,12 @@
                 "link": "https://www.revelit.com",
                 "description": "Revel IT is a Dublin, OH based IT staffing and consulting firm focused on delivering exceptional tech talent and workforce solutions.",
                 "logo": "/images/sponsors/revelit_350x200.png"
+            },
+            {
+                "name": "BPS Technologies",
+                "link": "https://bpstechnologies.com/",
+                "description": "BPS Technologies partners with organizations to solve complex challenges through innovative IT talent, staffing, and consulting solutions —grounded in a people-first focus on quality and accountability.",
+                "logo": "/images/sponsors/bpstechnologies_350x200.png"
             }
         ],
         "bronze":[

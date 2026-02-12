@@ -5,66 +5,12 @@ title: Tech & a Flick
 
 {% raw %}
 <div class="row" id="stirTrekHeroContainer">
-     <!--<div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-        <p class="date">Stir Trek - Columbus, OH</p>
-        <p class="date">5/1/2026</p>
-        <br>
-        <p>Coming Soon!</p>
-    </div>-->
-     <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-        <p class="date">Stir Trek - Columbus, OH</p>
-        <p class="date">5/2/2025</p>
-        <br>
-        <p>Call for speakers opens in January!</p>
-    </div> -->
     <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
         <p class="date">Stir Trek<br/>Columbus, OH</p>
         <p class="date">5/1/2026</p>
         <br>
         <p>Tickets go on sale on February 24, 2026!</p>
     </div>
-    <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-        <p class="date">Stir Trek<br/>Columbus, OH</p>
-        <p class="date">5/1/2026</p>
-        <br>
-        <p><a class="registerNow" href="https://sessionize.com/stir-trek-2026/">Submit Your Sessions Now!</a></p>
-    </div> -->
-    <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-        <p class="date">Stir Trek<br/>Columbus, OH</p>
-        <p class="date">TODAY</p>
-        <br>
-        <p><a class="registerNow" href="https://stir-trek-2025.sessionize.com/">Download Our App Here!</a></p>
-    </div> -->
-    <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-        <p class="date">Stir Trek - Columbus, OH</p>
-        <p class="date">5/3/2024</p>
-        <br>
-        <a class="registerNow" href="https://events.humanitix.com/stir-trek-2024-additional-movie-pass">
-            <p>Buy Your +1 Movie Ticket Now</p>
-        </a>
-    </div> -->
-    <!-- <a href="https://sessionize.com/stir-trek-2025/" target="_blank" rel="noopener noreferrer">
-        <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-            <p class="date">CFS is Open!</p>
-            <p class="registerNow">Click here to submit your talks</p>
-        </div>
-    </a> -->
-     <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-        <p class="date">Stir Trek - Columbus, OH</p>
-        <p class="date">5/3/2024</p>
-        <br>
-        <p><a href="https://events.humanitix.com/stir-trek-2023-additional-movie-pass">Plus One tickets for the movie tonight</a></p>
-        <a class="registerNow" href="https://events.humanitix.com/stir-trek-2023">
-            <p>Tickets on sale! <br> Only $170</p>
-        </a>
-    </div> -->
-    <!-- <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-        <a href="https://stirtrek2022.eventbrite.com/" class="date" target="_blank" rel="noopener noreferrer">
-            Stir Trek 2022 is Over!
-        </a>
-        <br><br>
-        <a href="/recordings" class="registerNow" target="_blank" rel="noopener noreferrer">Watch the recorded sessions</a>
-    </div> -->
 </div>
 
 <div class="row">
@@ -93,27 +39,6 @@ title: Tech & a Flick
             </ul>
             <!--<div class="comic-panel-inset"></div>-->
         </div>
-        <!--
-        <div class="comic-panel-body with-header hidden" id="whatigetGroot">
-            <ul>
-                <li>I am Groot.</li>
-                <li>I am Groot.</li>
-                <li>I am Groot.</li>
-                <li>I am Groot.</li>
-                <li>I am Groot.</li>
-            </ul>
-            <div class="comic-panel-inset"></div>
-        </div>
-        <div class="comic-panel-footer offset">
-            <a id="translate">Translate</a>
-        </div>
-        <script>
-            document.getElementById('translate').addEventListener('click', () => {
-                document.getElementById('whatiget').classList.toggle('hidden');
-                document.getElementById('whatigetGroot').classList.toggle('hidden');
-            });
-        </script>
-        -->
     </div>
 </div>
 

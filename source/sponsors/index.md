@@ -91,7 +91,7 @@ alias:
         color: #fff;
     }
     
-    @media only screen and (max-width: 768px) {
+    @media only screen and (max-width: 1200px) {
         /* Hide table header on mobile */
         .sponsor-benefits-table thead {
             display: none;

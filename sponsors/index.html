@@ -262,13 +262,58 @@
     }
     
     @media only screen and (max-width: 768px) {
-        .sponsor-benefits-table {
-            font-size: 0.8em;
+        /* Hide table header on mobile */
+        .sponsor-benefits-table thead {
+            display: none;
         }
         
-        .sponsor-benefits-table th,
+        /* Each row becomes a card */
+        .sponsor-benefits-table,
+        .sponsor-benefits-table tbody {
+            display: block;
+        }
+        
+        .sponsor-benefits-table tr {
+            display: block;
+            margin-bottom: 20px;
+            border: 2px solid #111c2e;
+        }
+        
+        /* Each cell becomes a block row */
         .sponsor-benefits-table td {
-            padding: 8px;
+            display: block;
+            text-align: left;
+            padding: 10px 15px;
+            border: none;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        /* Show label before each value */
+        .sponsor-benefits-table td::before {
+            content: attr(data-label);
+            font-weight: bold;
+            display: inline-block;
+            width: 120px;
+            margin-right: 10px;
+        }
+        
+        /* First cell (Level) becomes card header */
+        .sponsor-benefits-table td:first-child {
+            font-size: 1.2em;
+            text-align: center;
+            border-bottom: 2px solid #111c2e;
+        }
+        
+        .sponsor-benefits-table td:first-child::before {
+            display: none;
+        }
+        
+        /* Group checkmark columns inline */
+        .sponsor-benefits-table td:nth-child(n+6) {
+            display: inline-block;
+            width: auto;
+            border-bottom: none;
+            padding: 8px 12px;
         }
     }
 </style>
@@ -315,43 +360,43 @@
                 <tbody>
                     <tr class="sponsor-level-platinum">
                         <td>Platinum</td>
-                        <td>$12,000</td>
-                        <td>1</td>
-                        <td>Best location right at the entrance</td>
-                        <td>Featured onscreen in all rooms and YouTube after!</td>
-                        <td><span class="checkmark">✓</span></td>
-                        <td><span class="checkmark">✓</span></td>
-                        <td><span class="checkmark">✓</span></td>
+                        <td data-label="Price">$12,000</td>
+                        <td data-label="# Available">1</td>
+                        <td data-label="Booth Location">Best location right at the entrance</td>
+                        <td data-label="Additional Perks">Featured onscreen in all rooms and YouTube after!</td>
+                        <td data-label="Website"><span class="checkmark">✓</span></td>
+                        <td data-label="Slides"><span class="checkmark">✓</span></td>
+                        <td data-label="Room Signs"><span class="checkmark">✓</span></td>
                     </tr>
                     <tr class="sponsor-level-gold">
                         <td>Gold</td>
-                        <td>$8,500</td>
-                        <td>4</td>
-                        <td>Premier locations close to the center</td>
-                        <td>Featured at breakfast, lunch, on popcorn, or lanyards (pick one)!</td>
-                        <td><span class="checkmark">✓</span></td>
-                        <td><span class="checkmark">✓</span></td>
-                        <td>×</td>
+                        <td data-label="Price">$8,500</td>
+                        <td data-label="# Available">4</td>
+                        <td data-label="Booth Location">Premier locations close to the center</td>
+                        <td data-label="Additional Perks">Featured at breakfast, lunch, on popcorn, or lanyards (pick one)!</td>
+                        <td data-label="Website"><span class="checkmark">✓</span></td>
+                        <td data-label="Slides"><span class="checkmark">✓</span></td>
+                        <td data-label="Room Signs">×</td>
                     </tr>
                     <tr class="sponsor-level-silver">
                         <td>Silver</td>
-                        <td>$6,000</td>
-                        <td>Unlimited</td>
-                        <td>Great spots by theaters</td>
-                        <td>—</td>
-                        <td><span class="checkmark">✓</span></td>
-                        <td><span class="checkmark">✓</span></td>
-                        <td>×</td>
+                        <td data-label="Price">$6,000</td>
+                        <td data-label="# Available">Unlimited</td>
+                        <td data-label="Booth Location">Great spots by theaters</td>
+                        <td data-label="Additional Perks">—</td>
+                        <td data-label="Website"><span class="checkmark">✓</span></td>
+                        <td data-label="Slides"><span class="checkmark">✓</span></td>
+                        <td data-label="Room Signs">×</td>
                     </tr>
                     <tr class="sponsor-level-bronze">
                         <td>Bronze<br>(No Booth)</td>
-                        <td>$3,000</td>
-                        <td>Unlimited</td>
-                        <td>×</td>
-                        <td>—</td>
-                        <td><span class="checkmark">✓</span></td>
-                        <td><span class="checkmark">✓</span></td>
-                        <td>×</td>
+                        <td data-label="Price">$3,000</td>
+                        <td data-label="# Available">Unlimited</td>
+                        <td data-label="Booth Location">×</td>
+                        <td data-label="Additional Perks">—</td>
+                        <td data-label="Website"><span class="checkmark">✓</span></td>
+                        <td data-label="Slides"><span class="checkmark">✓</span></td>
+                        <td data-label="Room Signs">×</td>
                     </tr>
                 </tbody>
             </table>

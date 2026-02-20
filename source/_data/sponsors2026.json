@@ -18,6 +18,12 @@
                 "link": "https://bpstechnologies.com/",
                 "description": "BPS Technologies partners with organizations to solve complex challenges through innovative IT talent, staffing, and consulting solutions —grounded in a people-first focus on quality and accountability.",
                 "logo": "/images/sponsors/bpstechnologies_350x200.png"
+            },
+            {
+                "name": "PowerSync",
+                "link": "https://www.powersync.com/",
+                "description": "PowerSync is a sync engine that consists of two components: a service that enables high-scalability partial data syncing and a set of client SDKs that manage client-side persistence, consistency, reactivity and syncing write operations back.",
+                "logo": "/images/sponsors/powersync_350x200.jpg"
             }
         ],
         "bronze":[

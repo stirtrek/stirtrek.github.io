@@ -1,6 +1,211 @@
 {
   "sessions": [
     {
+      "id": "1131023",
+      "title": "150K Lines, 0 Unit Tests, No Documentation: How To Work With A Software Landfill",
+      "description": "Most programmers don't start projects from scratch, but inherit them. Often, we join large, messy, years-old code bases that are poorly tested and documented, and are intimidating to work with. Working with them can feel like tap dancing through a mine field.\r\n\r\nGenerative AI also provides challenges for software developers, as it can generate huge amounts of code that need to be understood.\r\n\r\nThis talk offers practical strategies for navigating and improving legacy code. We'll see techniques like using git history with scripts to identify software hot spots, introducing software \"seams\" for safe refactoring, and isolating risky changes through \"sprouting\" and \"wrapping\" techniques. You'll see how small, strategic changes can introduce stability without requiring massive rewrites.\r\n\r\nAttendees will leave with concrete, proven techniques for understanding, modifying, and improving legacy code bases with confidence. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b765d60f-4717-4116-b9f2-002c8a10bd88"
+      ],
+      "categoryItems": [
+        431274
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1123424",
+      "title": "AI in Agile: How to Leverage AI for Smarter Sprints & Roadmaps",
+      "description": "AI isn’t just disrupting industries; it’s redefining how Agile team's work. From backlog grooming to sprint planning, modern tools like ChatGPT, Jira Assist, and GitHub Copilot are helping Agile leaders and teams move faster, think smarter, and focus more on value delivery than manual overhead.\r\n\r\nIn this forward-looking session, we’ll explore how AI is transforming the Agile lifecycle. You’ll see real-world examples and a live demo showing how AI can assist with generating user stories, refining acceptance criteria, summarizing retrospectives, and even forecasting roadmap scenarios.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8d6efde2-af82-4fb9-9d6a-1a88369657c1"
+      ],
+      "categoryItems": [
+        431276
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1119472",
+      "title": "An intro to Retrieval Augmented Generation (RAG)",
+      "description": "Learn to deliver AI search and Generative Answers on top of your unstructured data. RAG is easy to prototype but hard to run in production. In this session we'll start with retrieval augmented generation basics by building a simple proof of concept. Then, we'll compare solutions meant for scale with Agentic RAG, RAG Graph, and Entity Recognition. Throughout we'll see examples of how RAG applies to modern app development.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3fd9cade-10ef-43df-b124-944015042549"
+      ],
+      "categoryItems": [
+        431276
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1129012",
+      "title": "Application Architecture Patterns",
+      "description": "Architecting an application can be challenging.  What do you do to keep your application flexible to ever-constant requirement changes? How do you handle landscape changes (cloud, on-premises, databases)? How do you avoid over-engineering the application? How do I make sure my application plays well with other applications?\r\n\r\nIn this session, we'll take a look at some well-understood and practiced Software Architecture patterns.  We'll cover these patterns at a high level to understand how to use these patterns in different scenarios.\r\n\r\nYou'll walk away with some knowledge, tips, and tricks that you'll be able to use for new and existing applications.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "137fb55c-d120-4a6b-9e15-98123df17302"
+      ],
+      "categoryItems": [
+        431275
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "https://www.youtube.com/watch?v=MGIWrvHjww8&list=PLESGit66MnbmnDhXdTZicVFF2Pql430pJ&index=13&pp=gAQBiAQB2AYOsAgC"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1120223",
+      "title": "Blending Product Thinking with Software Modernization",
+      "description": "In the world of software, products and systems don’t just remain static, they evolve, accumulate technical debt, and sometimes become an unmanageable mess of outdated frameworks, workarounds, and fragile dependencies. \r\n\r\nWhen dealing with a 15-year-old platform, the question isn’t just how to modernize but what to modernize. Should you refactor piece by piece or completely rebuild? What about adding that new feature for the Product Owner. The answer isn’t always obvious.\r\n\r\nThis session explores how blending product thinking with software modernization leads to better outcomes. We’ll examine the lens of long-term product strategy, user needs, and business value. Using real-world lessons from a long-running SaaS product, a case study in modernizing a complex legacy platform, we’ll highlight how to balance technical constraints with customer expectations.\r\n\r\nWhether you’re leading a legacy transformation or trying to avoid one in the future, this talk will showcase some smart modernization decisions that don’t make the business take a full stop.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "13924f5b-13f0-4fd8-a0bf-06f633dad5c9"
+      ],
+      "categoryItems": [
+        431281
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Merge Conf 2025, MI Dev Fest 2025"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1127647",
+      "title": "Caffeinate Your Queries: Brew Up Faster SQL with Tuning",
+      "description": "In this session, embark on an engaging exploration as we unravel the mysteries of query tuning. From deciphering sluggish queries to unleashing their full potential, we will explore advanced techniques for optimizing SQL performance. Discover the art of indexing, rewriting queries for efficiency, leveraging execution plans, and unearthing hidden bottlenecks. Whether you're a seasoned developer or SQL enthusiast, you'll leave armed with the skills to transform your queries from coffee-break slow to lightning-fast.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c53b081c-6035-47f5-a606-91e83963556b"
+      ],
+      "categoryItems": [
+        431277
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Coodemash - \"This talk was my favorite of the conference. The visuals he provided along with his presentation were great and definitely helped demonstrate what he wanted to get across. Additionally he was a very good speaker and kept me engaged for the whole presentation\""
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1123888",
+      "title": "Configurable cloud-native applications with .NET Aspire",
+      "description": "Building apps for the cloud has always been hard. Developers are typically pulled away from writing their business logic and what matters most to deal with the complexity of the cloud.\r\n\r\nTo help simplify cloud app complexity, Microsoft has introduced .NET Aspire.  It includes a curated set of components that make sense to use in your C# projects.\r\n\r\n.NET Aspire makes it easy to discover, acquire, and configure essential dependencies for cloud-native apps from the very beginning of your project. \r\n\r\nJoin me to walk through the set-up and usage of this new, powerful tool that can make any .NET developer more efficient in delivering cloud-native applications.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "13924f5b-13f0-4fd8-a0bf-06f633dad5c9"
+      ],
+      "categoryItems": [
+        431274
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Beer City Code"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1121847",
       "title": "Dark UX Patterns",
       "description": "Congratulations! You are the 1,000,000th visitor to our website. Click here to redeem your prize! Just provide your date of birth and phone number to get started.\r\n\r\nLearn about Dark UX Patterns, how they work, how they trick you and what companies are the worst offenders. Roach Motel, Privacy Zuckering? Let’s visit Dark Patterns Hall of Shame and see who joined the dark side!\r\n\r\nThis talk will break down the most popular dark patterns using real life examples from websites and apps you use every day. If you are a designer, a developer or a product manager, you will learn what to avoid when building your product and how to integrate digital well-being and safety features into your service. If you are an end user, we will teach you how to respond to dark patterns in order to stay safe online, protect your privacy, save your money and keep your sanity.",
@@ -63,6 +268,33 @@
       "isConfirmed": true
     },
     {
+      "id": "1126334",
+      "title": "Designing Data Pipelines That Don’t Hate You Six Months Later",
+      "description": "Most data pipelines don’t fail on day one. They fail months later — when requirements change, data volume grows, or the original developer is no longer around. Much like martial arts training, pipelines built on shaky fundamentals tend to collapse under pressure.\r\n\r\nThis session focuses on practical data pipeline design patterns that emphasize durability, maintainability, and operational confidence. Drawing from experience modernizing enterprise data platforms, I’ll walk through common failure modes in batch and streaming pipelines and how disciplined upfront design decisions can prevent them.\r\n\r\nWe’ll cover topics such as schema evolution, idempotency, observability, testing strategies, and scaling — grounded in real examples of what worked, what broke, and what we had to correct after the fact. There are no silver bullets here — just repeatable patterns and lessons learned from systems that had to stay running while everything around them changed.\r\n\r\nThis talk is tool-agnostic and focused on principles that apply whether you’re using Python, Spark, Kafka, or traditional ETL platforms.\r\n\r\nWhat’s in it for the attendee\r\n- How to design pipelines that withstand change and growth\r\n- Patterns for building observability and testability into data systems\r\n- Common anti-patterns that lead to brittle pipelines\r\n- Practical guidance rooted in real production experience",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c04acb4e-f54c-41d8-881a-8ca1f27e5d98"
+      ],
+      "categoryItems": [
+        431277
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1124045",
       "title": "Ensuring Software Quality in the world of AI Developers",
       "description": "Like it or not, AI agents are now capable of turning a quickly written paragraph of requirements into a pull request that is ready to be integrated into real-world production applications and it's now our responsibility to make sure AI doesn't go rogue and take down prod - or corrupt our data by misunderstanding the requirements or our existing schemas.\r\n\r\nIn this session we'll explore strategies to protect our codebases through unit and integration testing, documentation, and code review along with additional ways of providing context and guard rails to our AI agents as they carry out the work we've assigned them to do.\r\n\r\nBy the time we're done, you'll have a firm grasp of the problem and understand some helpful options for protecting your codebase from vibe coding mishaps getting YOLOed into prod.",
@@ -80,6 +312,188 @@
         {
           "questionId": 118563,
           "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1128028",
+      "title": "From Power to Supply Chains: Sustainability is Security",
+      "description": "Technology is moving fast, and so are the environmental challenges we face. Security sits right in the middle of these pressures. It’s no longer just about defending systems—our choices around power, hardware, and supply chains also shape how secure those systems really are.\r\n\r\nIn this talk, I’ll explore why sustainability belongs in the security conversation. We’ll look at practical steps—like energy-efficient tools, leaner software, greener data centers, and responsible hardware lifecycles—that cut waste and costs while strengthening defenses. Just as importantly, we’ll examine how unstable supply chains, poor sourcing, or unreliable power can become security risks in themselves.\r\n\r\nWe’ll also connect this to risk and compliance: how building sustainability into security reduces exposure, steadies supply chains, and keeps organizations ahead of changing expectations. With real-world examples, you’ll walk away with a clear sense of how sustainability and security reinforce each other, and how to apply that thinking in your own work.\r\n",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "bb52359f-7de5-4ab4-be0c-e0fdf39b7134"
+      ],
+      "categoryItems": [
+        431280
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Codemash 2026"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1121838",
+      "title": "Java Anti-Patterns",
+      "description": "God object, spaghetti code, magic numbers? Anti-patterns are traps that developers encounter frequently due to lack of time, carelessness, inexperience, or pressure from project managers. Rushing can lead to big problems for applications in future, so you need to know how to avoid potential errors.\r\n\r\nCome learn about Java Anti-Patterns. In this session beginner Java developers can learn to identify common rookie developer mistakes. Experienced developers can cry or laugh together as we look at real-life examples of Java code. You will leave this session knowing how to avoid these anti-patterns and write elegant, maintainable, and (dare we say it?) fun to work with code. Finally, you will find better ways to implement solutions using Java.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "11fbf1c5-b0fc-42eb-a027-4fea2e54bb12"
+      ],
+      "categoryItems": [
+        431274
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "CodeMash"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1130941",
+      "title": "Microsoft Fabric for Developers",
+      "description": "Does your operational database contain staging and reporting data? Is it bloated and struggling under the load? As companies grow, its common to reach a tipping point where you can't just put everything into your shared OLTP database and keep scaling it up. That's when it's time to start thinking seriously about data and how best to manage it.\r\nTraditionally, data warehousing and ETL have required different skill sets and operated independently from application development, but with platforms like Microsoft Fabric, the skillsets aren't so different anymore, especially if you know a bit of Python.\r\nThis session will talk about some of the many services that make up Fabric, and how to use it coming from a development background.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5b65f17e-cf5a-4746-84d6-217e6445931e"
+      ],
+      "categoryItems": [
+        431277
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1120953",
+      "title": "Ship It First, Fix It Later: How a Medical Crisis Led to a Global Tool",
+      "description": "When Roxy’s son was hospitalized yet again, she noticed nurses struggling to calculate his g-tube feed rates, so she built solution with simply HTML, CSS, and JavaScript, then almost didn’t share it due to everyone’s favorite pal, imposter syndrome. This talk chronicles a very specific calculator’s evolution into a production React PWA with AI integration, now used daily by families worldwide, who even find it through organic Google searches. Through honest code comparisons, you’ll see when vanilla JavaScript hits its limits, why React’s patterns became necessary, and how AI tools can accelerate development while you continue learning. You’ll also leave with a six-step framework for iterative development that overcomes the fear of shipping imperfect solutions. Whether you’re considering a React migration, curious about AI-assisted development, or sitting on a side project, you’ll leave with technical insights and a renewed motivation to ship.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "48167b9e-8862-4e6c-9bc9-17b89e0baaf6"
+      ],
+      "categoryItems": [
+        431274
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "MagnoliaConf"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1120257",
+      "title": "The DevOops Handbook: A satirical guide to slow software delivery",
+      "description": "In the quest for rapid software delivery, DevOps principles are misapplied or skipped entirely, leading to a “DevOops culture.” In this talk we'll explore DevOps missteps through a satirical narrative where missteps and bad practices are presented as the path forward.\r\n\r\nTo start, we’ll discuss deploying code the way of the masochist. This will include a convincing argument for detail-oriented change requests and late-night deployments to prevent any witnesses to our misdeeds. Following this, we will outline our project mismanagement philosophy for maintaining constant chaos: embracing siloes and eliminating feedback loops. Finally, we'll present why quality assurance is overrated and unnecessary. Instead, we'll present the benefits of zero testing and disabling quality and security tools – they are just like that “check engine” light in the car: useless and annoying.\r\n\r\nTogether we’ll see how easy it is to establish the worst DevOps culture for modern software delivery: a DevOops culture! \r\n\r\nOr not. While this talk is tongue in cheek, we will see how to overcome these all-to-real mindsets. By the time we are done, we'll have navigated the treacherous waters of software misadventures with a wink and a smile so we can march forward, turning our ‘oopses’ into opportunities and our code catastrophes into triumphs.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "ac76d40e-1703-43ab-8b89-9402befdf3b1"
+      ],
+      "categoryItems": [
+        431281
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Momentum, MITechCon, user groups, DevOpsDays"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1127657",
+      "title": "Unlocking Quantum Computing: An Overview",
+      "description": "Quantum computing is coming, but most of the explanations out there are either too academic or too hand-wavy to be useful. This talk is a practical overview for developers who want to understand what quantum computing actually is, why it matters, and where it's headed. We'll walk through the core concepts like superposition, entanglement, and interference without the math-heavy deep dive. You'll see what quantum computers are good at, what they're not, and how they might affect the systems and security decisions you make in the future. No physics background required. You'll walk away with enough understanding to follow the conversation and recognize when quantum starts to matter for your work. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c53b081c-6035-47f5-a606-91e83963556b"
+      ],
+      "categoryItems": [
+        431282
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "I gave a workshop version of this with great feedback at CodeMash. This is the summarized version. "
         }
       ],
       "roomId": null,
@@ -118,6 +532,74 @@
     }
   ],
   "speakers": [
+    {
+      "id": "8d6efde2-af82-4fb9-9d6a-1a88369657c1",
+      "firstName": "Amanda",
+      "lastName": "Lange",
+      "bio": "Scrum master/ Product Owner with a demonstrated history of working in the computer software industry. Skilled in negotiation, enablement, communication, evangelism, autonomy, leadership, management, networking and KINDNESS! ",
+      "tagLine": "Senior Agile Delivery Lead, NetJets",
+      "profilePicture": "https://sessionize.com/image/ca60-400o400o1-h44dmwb2BVRDqg5kUfytxv.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/amanda-lange-scrummaster/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        1123424
+      ],
+      "fullName": "Amanda Lange",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Columbus"
+        }
+      ]
+    },
+    {
+      "id": "5b65f17e-cf5a-4746-84d6-217e6445931e",
+      "firstName": "Andrew",
+      "lastName": "May",
+      "bio": "Andrew has been consulting as an architect for Leading EDJE for 18  years, and has specialized in Cloud Platforms and Cloud-Native architecture for the last 10 years. He's a stickler for detail, and a fierce code reviewer. Originally from the UK, Andrew's accent has settled somewhere in the mid-Atlantic.",
+      "tagLine": "Senior Solutions Architect, Cloud/DevOps specialist at Leading EDJE",
+      "profilePicture": "https://sessionize.com/image/5963-400o400o1-BUh7aMr33kj34wAQVfdws.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/leadingedje",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/andrew-may-0554b3173",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.leadingedje.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1130941
+      ],
+      "fullName": "Andrew May",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Columbus"
+        }
+      ]
+    },
     {
       "id": "e4808bf3-8fc2-43e5-b9d0-303f77f43547",
       "firstName": "Barret",
@@ -164,6 +646,271 @@
         {
           "questionId": 119284,
           "answerValue": "Columbus"
+        }
+      ]
+    },
+    {
+      "id": "13924f5b-13f0-4fd8-a0bf-06f633dad5c9",
+      "firstName": "Brian",
+      "lastName": "McKeiver",
+      "bio": "Brian McKeiver is Co-Owner at BizStream, digital agency in Allendale, MI. At BizStream he is a solution architect, visionary, dual Microsoft Azure MVP (Azure AI and Azure PaaS), Kentico MVP, and Kontent.ai MVP. He has over 23 years of experience leading his agency of more than 40 employees, about a hundred clients spread out across North America, and one heck of an interesting story of how it all started from a two-person team. In addition to his expertise in web development, cloud, integration, and digital marketing, Brian is active with the tech community via his blog at Mcbeev.com. ",
+      "tagLine": "Microsoft Azure MVP; Co-Owner at BizStream",
+      "profilePicture": "https://sessionize.com/image/97b3-400o400o1-nSLP29cVu9YTX6vADBG9Rd.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/mcbeev",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/brianmckeiver/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.mcbeev.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.bizstream.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1120223,
+        1123888
+      ],
+      "fullName": "Brian McKeiver",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Grand Rapids, MI"
+        }
+      ]
+    },
+    {
+      "id": "c04acb4e-f54c-41d8-881a-8ca1f27e5d98",
+      "firstName": "Chris",
+      "lastName": "Birie",
+      "bio": "Chris Birie is a software/data/platform/jack of all trades engineer who believes strong systems and apps are built through repetition, fundamentals, and attention to detail. Influenced by his kung fu practice, he applies the same mindset to designing scalable architectures and delivery workflows. He is passionate about teaching, mentoring, and helping teams build software that holds up under pressure.",
+      "tagLine": "Software and Data Martial Artist",
+      "profilePicture": "https://sessionize.com/image/24a6-400o400o1-ECzGMghBfMqsDiKMxrpnee.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://x.com/biriebiriebirie",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/christopher-birie/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        1126334
+      ],
+      "fullName": "Chris Birie",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Columbus, Ohio"
+        }
+      ]
+    },
+    {
+      "id": "3fd9cade-10ef-43df-b124-944015042549",
+      "firstName": "Ed",
+      "lastName": "Charbeneau",
+      "bio": "Ed is a Microsoft MVP and an international speaker, writer, online influencer, a Developer Advocate for Progress, and expert on all things web development. Ed enjoys geeking out to cool new tech, brainstorming about future technology, and admiring great design.\r\n\r\nEd has shared his insights, experiences, and advice around collaboration, knowledge management, social computing, and training at many industry events around the United States. Highly ethical and engaging with an uncanny business acumen, he is a creative community builder and outside the box thinker. Long term business relationships throughout the world within internal communications, employee engagement and marketing as well as IT. Focusing on Financial, Healthcare, Manufacturing, Agency and Professional Services. He has defined, architected, implemented line of business solutions with a touch of style and UX best practices.",
+      "tagLine": "Ed is a Microsoft MVP and an international speaker, writer, online influencer, a Developer Advocate for Progress.",
+      "profilePicture": "https://sessionize.com/image/eaa9-400o400o1-7HuHMgWphuKbPVZHn5J1ix.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/edcharbeneau",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/edcharbeneau/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.telerik.com/blogs",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.telerik.com/",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Personal Blog",
+          "url": "https://edcharbeneau.com",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        1119472
+      ],
+      "fullName": "Ed Charbeneau",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Louisville "
+        }
+      ]
+    },
+    {
+      "id": "137fb55c-d120-4a6b-9e15-98123df17302",
+      "firstName": "Joseph",
+      "lastName": "Guadagno",
+      "bio": "Joe Guadagno has been writing software for over 30 years, has been an active member of the .NET community, formerly serving on the .NET Foundation Board of Directors, as President, and has been a Microsoft MVP in .NET for more than 15 years. He has spoken through the United States and international events on topics ranging from Microsoft .NET, Microsoft Azure, Ionic, Bootstrap, and many others. You can see the complete list at https://www.josephguadagno.net/presentations. When not sitting at a computer, Joe loves to hang out with his family and play games. When not playing games with the family, Joe is checking out the latest in Home Automation. You can connect with Joe on Bluesky at @jguadagno.com, Facebook at JosephGuadagnoNet, and on his blog at https://www.josephguadagno.net",
+      "tagLine": "Microsoft \"Developer Services\" MVP, Progress Telerik Champion, and Organizer of Desert Code Camp",
+      "profilePicture": "https://sessionize.com/image/a114-400o400o1-3tev7cMVvNUmgJZveNqbpX.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://www.twitter.com/jguadagno",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/josephguadagno/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.josephguadagno.net",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.josephguadagno.net",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Bluesky",
+          "url": "https://bsky.app/profile/jguadagno.com",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        1129012
+      ],
+      "fullName": "Joseph Guadagno",
+      "categoryItems": [
+        432500
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Phoenix, AZ"
+        }
+      ]
+    },
+    {
+      "id": "b765d60f-4717-4116-b9f2-002c8a10bd88",
+      "firstName": "Kelly",
+      "lastName": "Morrison",
+      "bio": "Kelly Morrison is a native of Georgia with a BS in mathematics and a PhD in computer engineering. He has over 30 years of software experience in various industries, including the television, education, retail, and agriculture sectors. He also wrote a monthly column for \"Digital Output\" magazine under the pen name \"Armand Tarantino\". He is currently employed as a solutions architect at CGI.",
+      "tagLine": "Solutions Architect at CGI / PhD in Computer Engineering",
+      "profilePicture": "https://sessionize.com/image/dd09-400o400o1-9tsRrS5quwEQ2sTcBph9gU.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://x.com/softwareriot",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/kellyivymorrison/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        1131023
+      ],
+      "fullName": "Kelly Morrison",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Savannah, Georgia"
+        }
+      ]
+    },
+    {
+      "id": "bb52359f-7de5-4ab4-be0c-e0fdf39b7134",
+      "firstName": "Matt \"Kelly\"",
+      "lastName": "Williams",
+      "bio": "Matt \"Kelly\" Williams is the founder of Making Software Greener, the CEO  of the Sustainable IT Manifesto Foundation, advisory board member for the Green Computing Foundation, and a speaker and mentor on IT practices including DevOps, Cloud Computing, and mental health advocacy. He has always wanted to be a Renaissance person; perhaps one day he will be. In the meantime, he explores IT Sustainability, is learning photography, designs tabletop games, reads, weaves, cooks, hacks, and explores the mountains near Loveland, Colorado.",
+      "tagLine": "Sustainable IT Innovator Championing Agile Sustainability & Green Tech | | CEO of Sustainable IT Manifesto Foundation | International Speaker | Advisory Board Member",
+      "profilePicture": "https://sessionize.com/image/dbee-400o400o1-WJ9SgktJqoE3kwVoZBtd8a.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "http://twitter.com/matt_k_williams",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/mattkwilliams/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://matthewkwilliams.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://makingsoftwaregreener.com",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Sustainable IT Manifesto",
+          "url": "https://sustainableitmanifesto.org",
+          "linkType": "Other"
+        },
+        {
+          "title": "BlueSky",
+          "url": "https://bsky.app/profile/mkellywilliams.bsky.social",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        1128028
+      ],
+      "fullName": "Matt \"Kelly\" Williams",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Loveland, CO"
         }
       ]
     },
@@ -217,6 +964,40 @@
       ]
     },
     {
+      "id": "48167b9e-8862-4e6c-9bc9-17b89e0baaf6",
+      "firstName": "Roxy",
+      "lastName": "Rodriguez-Becker",
+      "bio": "Roxy Rodriguez-Becker is a freelance web developer with a background in math education and library science. She created the Tube Feed Tracker PWA for a niche part of the medical community to help thousands of families around the world. Roxy is a Cuban American mother of 3 living in Houston, Texas. She enjoys working out, doing handstands, listening to tech podcasts, and is looking for her next role in tech. ",
+      "tagLine": "software engineer, developer advocate, and community leader",
+      "profilePicture": "https://sessionize.com/image/d60c-400o400o1-Qvkkz9i6DodvgErt4EsqXu.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/RoxanaCodes",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/roxana-rodriguez-becker",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        1120953
+      ],
+      "fullName": "Roxy Rodriguez-Becker",
+      "categoryItems": [
+        432501
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Houston, Texas"
+        }
+      ]
+    },
+    {
       "id": "9bde9de9-7bcb-4077-8087-47bf492a1344",
       "firstName": "Sarah",
       "lastName": "Dutkiewicz",
@@ -261,6 +1042,90 @@
       ]
     },
     {
+      "id": "c53b081c-6035-47f5-a606-91e83963556b",
+      "firstName": "Tristan",
+      "lastName": "Chiappisi",
+      "bio": "With over a decade and a half of programming and working with data, I have a passion for anything related to the subject. If it has something to do with technology, I'm in.\r\n\r\nBeyond my professional realm, I'm a dad to a vibrant crew of young adventurers. Together, we seek out outdoor thrills, from skiing to biking, in my perpetual quest to earn the 'cool dad' badge.",
+      "tagLine": "Principal Data Architect - Cetera",
+      "profilePicture": "https://sessionize.com/image/8aa0-400o400o1-RDgwKQFYtCrDmAPVecnwQ5.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/tristanchiappisi/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        1127647,
+        1127657
+      ],
+      "fullName": "Tristan Chiappisi",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Columbus"
+        }
+      ]
+    },
+    {
+      "id": "ac76d40e-1703-43ab-8b89-9402befdf3b1",
+      "firstName": "Victor",
+      "lastName": "Frye",
+      "bio": "Victor Frye is a developer who thrives at the intersection of technical problem-solving and creative innovation. As a Senior Software Engineer and DevOps specialist at Leading EDJE, he specializes in .NET application development, Azure cloud infrastructure, and DevOps automation, with a focus on modernization and developer productivity. The self-proclaimed number one Clippy fan, he brings a playful yet efficient approach to his work. Beyond the keyboard, Victor is an active member of the Grand Rapids developer community, always eager to share insights and explore emerging technologies. During his free time, he can be found exploring fantasy worlds—in pages or pixels—or spending quality time with his wife and two dogs. Fueled by coffee and curiosity, Victor is always ready for the next challenge.",
+      "tagLine": "Your friendly neighborhood developer",
+      "profilePicture": "https://sessionize.com/image/5b29-400o400o1-a3EA1GzQh3riPrisRHKwG5.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/victorfrye",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://victorfrye.com/blog",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://leadingedje.com/",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Portfolio",
+          "url": "https://victorfrye.com/",
+          "linkType": "Other"
+        },
+        {
+          "title": "BlueSky",
+          "url": "https://bsky.app/profile/victorfrye.com",
+          "linkType": "Other"
+        },
+        {
+          "title": "Threads",
+          "url": "https://www.threads.net/@thevictorfryeadventure",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        1120257
+      ],
+      "fullName": "Victor Frye",
+      "categoryItems": [
+        432501
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Grand Rapids MI "
+        }
+      ]
+    },
+    {
       "id": "11fbf1c5-b0fc-42eb-a027-4fea2e54bb12",
       "firstName": "Vitaliy",
       "lastName": "Matiyash",
@@ -286,7 +1151,8 @@
         }
       ],
       "sessions": [
-        1121847
+        1121847,
+        1121838
       ],
       "fullName": "Vitaliy Matiyash",
       "categoryItems": [

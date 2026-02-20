@@ -260,6 +260,37 @@
       "isConfirmed": true
     },
     {
+      "id": "1119405",
+      "title": "Claude Code in Action: Transforming Custom Software Development with Agentic AI",
+      "description": "AI is no longer just a developer productivity boost — it’s becoming a core driver of how software is designed, built, and delivered. At the forefront of this shift is Claude Code from Anthropic, a powerful, agentic AI coding partner that’s redefining what’s possible in modern development.\r\n\r\nIn this webinar, we’ll cut through the hype and show decision-makers how Claude Code can directly accelerate delivery, improve quality, and unlock new capabilities in your custom software projects. We’ll explore:\r\n\r\nAgentic development in action — how Claude Code plans, reasons, and collaborates with your team to produce production-ready code\r\n\r\nIntegration across leading IDEs and environments for seamless adoption\r\n\r\nReal-world use cases where Claude delivers transformational ROI — from rapid prototyping to complex refactoring and ongoing maintenance\r\n\r\nPricing models and considerations for scaling across teams\r\nHow we at ArchitectNow incorporate Claude into our own development process to deliver faster and smarter\r\n \r\n\r\nThrough live examples, you’ll see why Claude Code stands apart — not just as another coding assistant, but as a strategic tool for driving efficiency, innovation, and competitive advantage in custom software development.\r\n\r\nWhether you’re a CTO, CEO, development manager, or project leader, you’ll leave with a clear understanding of how Claude Code fits into your AI adoption strategy — and how to start realizing its benefits immediately.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b699d89f-f1d6-4fd5-be01-2594a950f55d"
+      ],
+      "categoryItems": [
+        431281
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Meetups and UG's around the midwest.  To customers as well."
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1123888",
       "title": "Configurable cloud-native applications with .NET Aspire",
       "description": "Building apps for the cloud has always been hard. Developers are typically pulled away from writing their business logic and what matters most to deal with the complexity of the cloud.\r\n\r\nTo help simplify cloud app complexity, Microsoft has introduced .NET Aspire.  It includes a curated set of components that make sense to use in your C# projects.\r\n\r\n.NET Aspire makes it easy to discover, acquire, and configure essential dependencies for cloud-native apps from the very beginning of your project. \r\n\r\nJoin me to walk through the set-up and usage of this new, powerful tool that can make any .NET developer more efficient in delivering cloud-native applications.",
@@ -469,6 +500,37 @@
       "isConfirmed": true
     },
     {
+      "id": "1120202",
+      "title": "How to Ruin a User Interface: Surprisingly Easy Ways to Screw Over Your Users",
+      "description": "Sure, when your boss signed the expense form for you to attend this conference, they thought you’d be bringing back new ideas about BETTER ways to do stuff – but honestly, isn’t that a little boring? What if we mixed it up a bit and instead discussed all the ways to make your UIs WORSE? \r\n\r\nFrom dark patterns to bad designs, there are tons of shockingly easy ways that you might be unknowingly making your website or app experience more difficult – or even painful – for your users. In this session, we’ll talk through some of the most common, so that you can avoid them in the future…or, you know, intentionally include them, if you’re evil. With great power comes great responsibility.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "44406a2e-5504-47d4-8fef-6d5c110704a0"
+      ],
+      "categoryItems": [
+        431278
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "VueConf, RenderATL, 200OK "
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1121838",
       "title": "Java Anti-Patterns",
       "description": "God object, spaghetti code, magic numbers? Anti-patterns are traps that developers encounter frequently due to lack of time, carelessness, inexperience, or pressure from project managers. Rushing can lead to big problems for applications in future, so you need to know how to avoid potential errors.\r\n\r\nCome learn about Java Anti-Patterns. In this session beginner Java developers can learn to identify common rookie developer mistakes. Experienced developers can cry or laugh together as we look at real-life examples of Java code. You will leave this session knowing how to avoid these anti-patterns and write elegant, maintainable, and (dare we say it?) fun to work with code. Finally, you will find better ways to implement solutions using Java.",
@@ -521,6 +583,33 @@
         {
           "questionId": 118564,
           "answerValue": "BSides Cleveland"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1126959",
+      "title": "MCP Demystified 🤖",
+      "description": "It is the age of AI, and there is a huge opportunity for developers to infuse apps with solutions powered by generative AI and large/small language models. Modern AI is big opportunity to streamline and automate developer workflows for better productivity. There are some challenges though – AI Models often lack context, and AI Agents need expertise to reliably pull off complex workflows across disparate systems.\r\n\r\nModel Context Protocol (MCP) can help. Developed as an open standard, MCP aims to provide a standardized way to connect AI models to different data sources, tools and non-public information. The point is to provide deep contextual information/APIs/data as tools to AI models/agents—MCP services also support robust authentication/authorization toward executing specific tasks on behalf of users.\r\n\r\nDevelopers can think of MCP as a common standardized language for information exchange between AI Agents/systems - MCP is growing in popularity and is showing a lot of promise as the emerging standard that bridges AI models with the tools they rely on. Beyond the hype, let’s understand the promise of MCP and explore tooling to easily create MCP Servers/Clients. With official SDKs, it is a breeze to work with MCP and boost AI Model responses or surface tools to extend AI Agents. Developers could bring their own data, APIs, services and more through MCP - and have it surfaced through Agents in GitHub Copilot/Claude Code/Cursor. MCP provides a standardized protocol for bringing contextual expertise to the AI world and light up unique workflows for integrations – upwards and onwards.\r\n",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fc1d0cd3-9675-4188-aa98-e0088069f1a4"
+      ],
+      "categoryItems": [
+        431276
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
         }
       ],
       "roomId": null,
@@ -668,6 +757,37 @@
         {
           "questionId": 118564,
           "answerValue": "Momentum, MITechCon, user groups, DevOpsDays"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1120206",
+      "title": "The Life-Changing Art of Being Wrong",
+      "description": "Even if it’s not intentional, there are a lot of assumptions we make about our users – everything from which devices they use to access our applications to what kinds of characters are included in their names. And guess what: our assumptions are usually wrong. Like…really wrong. Sometimes this creates laughable situations, but other times it causes a lot of unintentional harm. In this talk, we’ll discuss some of the most common (wrong) things that we, as developers, believe about our users and how we can shift our assumptions to create software that’s better for everyone. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "44406a2e-5504-47d4-8fef-6d5c110704a0"
+      ],
+      "categoryItems": [
+        431278
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "CodeStock, VueConf "
         }
       ],
       "roomId": null,
@@ -1274,6 +1394,51 @@
       ]
     },
     {
+      "id": "44406a2e-5504-47d4-8fef-6d5c110704a0",
+      "firstName": "Kathryn",
+      "lastName": "Grayson Nanz",
+      "bio": "In 2013, I graduated with a BFA and took my first job as a Junior Graphic Designer at a small, boutique ad agency. While there, my Creative Director warned me to never let anyone find out I could code, because if I did I'd be stuck doing it forever. I ignored his warning; it turns out he was completely right, but I've never been happier. \r\n\r\nI currently work as a developer advocate on a wonderful team where I help people build web applications in React, design and maintain their UI component libraries, and desperately attempt to stop back-end devs from writing any more CSS.",
+      "tagLine": "UI Designer & Front-end Developer",
+      "profilePicture": "https://sessionize.com/image/5c0a-400o400o1-VtRqBrXs52D45KWN5WgwxL.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/kathryngrayson",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/kathryngrayson/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://kgrayson.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.telerik.com/kendo-ui",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1120202,
+        1120206
+      ],
+      "fullName": "Kathryn Grayson Nanz",
+      "categoryItems": [
+        432500
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Asheville, NC "
+        }
+      ]
+    },
+    {
       "id": "b765d60f-4717-4116-b9f2-002c8a10bd88",
       "firstName": "Kelly",
       "lastName": "Morrison",
@@ -1343,6 +1508,50 @@
         {
           "questionId": 119284,
           "answerValue": "Nebraska"
+        }
+      ]
+    },
+    {
+      "id": "b699d89f-f1d6-4fd5-be01-2594a950f55d",
+      "firstName": "Kevin",
+      "lastName": "Grossnicklaus",
+      "bio": "Kevin started developing software in 1985 at the age of 10 when his new Apple IIgs booted to a command prompt and he didn't know what else to do with it.   He is now the president of a St. Louis, Missouri based development firm called ArchitectNow (www.architectnow.net).  At ArchitectNow, Kevin and his team specialize in a wide variety of tools and technologies while delivering applications across a variety of cloud and mobile platforms.   He is an avid Telecaster player, fly fisherman, home brewer, and gamer (including everything from retro arcade games, to board games, to role playing games).  When not spending time on any of those hobbies he waits patiently for a second season of Firefly.",
+      "tagLine": "President, ArchitectNow",
+      "profilePicture": "https://sessionize.com/image/1643-400o400o1-WfLVM1hTkar3BZNSM9rYP5.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "http://twitter.com/kvgros",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/kvgros/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://www.architectnow.net/blog",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.architectnow.net",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1119405
+      ],
+      "fullName": "Kevin Grossnicklaus",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "St. Louis, MO"
         }
       ]
     },
@@ -1519,6 +1728,50 @@
         {
           "questionId": 119284,
           "answerValue": "Houston, Texas"
+        }
+      ]
+    },
+    {
+      "id": "fc1d0cd3-9675-4188-aa98-e0088069f1a4",
+      "firstName": "Sam",
+      "lastName": "Basu",
+      "bio": "Sam Basu is a technologist, author, speaker, Microsoft MVP and Lead Developer Advocate for Uno Platform. With a long developer background, he now spends much of his time advocating modern development platforms & AI tools for cross-platform technology stacks. His spare times call for travel, fast cars, cricket and culinary adventures. You can find him on the internet.",
+      "tagLine": "Lead Developer Advocate",
+      "profilePicture": "https://sessionize.com/image/9947-400o400o1-d3-9675-4188-aa98-e0088069f1a4.0788eacd-acef-44d2-868e-cf111b1f2516.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/samidip",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/sam-basu-332247394/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://samidipbasu.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://platform.uno/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1126959
+      ],
+      "fullName": "Sam Basu",
+      "categoryItems": [
+        432500
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Erie PA"
         }
       ]
     },

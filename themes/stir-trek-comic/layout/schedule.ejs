@@ -134,3 +134,6 @@
         </table>
     <% } %>
 </section>
+<% if(site.data.lastUpdated && site.data.lastUpdated.timestamp) { %>
+    <p class="small">Last Updated: <%= site.data.lastUpdated.timestamp %></p>
+<% } %>

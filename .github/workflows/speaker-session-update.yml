@@ -54,6 +54,14 @@ jobs:
       - name: Build the schedule
         run: node ./scripts-manuallyexecuting/build-schedule-from-sessions.js
 
+      - name: Write last updated timestamp if content changed
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            node ./scripts-manuallyexecuting/write-last-updated-timestamp.js
+          else
+            echo "No content changes, skipping timestamp update"
+          fi
+
       - name: Commit and push changes
         run: |
           git add .

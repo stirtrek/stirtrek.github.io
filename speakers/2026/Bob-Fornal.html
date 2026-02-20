@@ -6,7 +6,7 @@
 
     
 
-    <title>Schedule - Stir Trek</title>
+    <title>Bob Fornal - Stir Trek</title>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
@@ -15,12 +15,12 @@
     <!-- Twitter Card data -->
     <meta name="twitter:card" value="summary">
     <meta name="twitter:site" value="@StirTrek">
-    <meta name="twitter:title" value="Schedule - Stir Trek">
+    <meta name="twitter:title" value="Bob Fornal - Stir Trek">
     <meta name="twitter:description" value="Stir Trek is a one-day conference in Columbus, Ohio focused on teaching software developers the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a private screening of a blockbuster film on its opening day.">
     <meta name="twitter:image" value="/icons/opengraph.jpg">
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Schedule - Stir Trek" />
+    <meta property="og:title" content="Bob Fornal - Stir Trek" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://stirtrek.com" />
     <meta property="og:image" content="/icons/opengraph.jpg" />
@@ -175,49 +175,230 @@
 
             <div class="container">
 
-                
-<div class="body-content" role="main">
-
+                <div class="body-content" role="main">
 
     <style>
-    #spotitQrImage {
-        width: 15%;
-        display: inline-block;
-    }
-    #spotitQrText {
-        width: 70%;
-        display: inline-block;
-        padding-left:5%;
-        vertical-align: middle;
-    }
-    @media only screen and (max-width: 992px) {
-        #spotitQrImage {
-            width: 25%;
+        .speakerAvatarBioStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "avatar     bio         bio";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            column-gap: 40px;
+
+            margin-bottom: 40px;
         }
-        #spotitQrText {
+
+        .speakerSessionStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "abstract   abstract    time"
+                "abstract   abstract    stirTrek";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            column-gap: 40px;
+            grid-row-gap: 40px;
         }
-        #spotitqrcode {
-            /*width: 50px;*/
+
+        @media only screen and (max-width:990px) {
+
+            .speakerAvatarBioStrip,
+            .speakerSessionStrip {
+                display: block;
+            }
         }
-    }
-</style>
 
-<h1 id="2026-Schedule"><a href="#2026-Schedule" class="headerlink" title="2026 Schedule"></a>2026 Schedule</h1><div class="icon-hr"></div>
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel {
+            grid-area: avatar;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+            color: black;
 
-<p>Looking for our Discord link? <a target="_blank" rel="noopener" href="https://discord.gg/vkcS8y5Wvz">https://discord.gg/vkcS8y5Wvz</a></p>
+            text-align: center;
+        }
+
+        .speakerSessionStrip .abstractPanel {
+            grid-area: abstract;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerAvatarBioStrip .bioPanel {
+            grid-area: bio;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            grid-area: stirTrek;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+        }
+
+        .speakerSessionStrip .timeAndRoomPanel {
+            grid-area: time;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel,
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%),
+                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%),
+                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                linear-gradient(40deg, #c48b2fb3 0, #f7c16ab3 30%, #dbab5bb3 50%, #dbab5bb3 70%, #c48b2fb3 100%);
+        }
+
+        .stirTrekPanelImage {
+            background-image: url('/images/StirTrek-Emblem-Gold-400x588.png');
+            width: 100%;
+            height: 100%;
+            background-position: center;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body,
+        .speakerSessionStrip .comic-panel-body {
+            position: relative;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-header,
+        .speakerSessionStrip .comic-panel-header {
+            position: absolute;
+            top: -35px;
+            left: -25px;
+        }
+
+        .speakerAvatarBioStrip .speakerImage {
+            width: 80%;
+            border-radius: 50%;
+            border: 6px solid #111c2e;
+            margin: 2em auto 0;
+        }
+
+        .speakerAvatarBioStrip .speakerTagline {
+            vertical-align: middle;
+        }
+
+        .speakerAvatarBioStrip .speakerBio {
+            margin-top: 5%;
+        }
 
 
-    
-        <section>
+        @media only screen and (max-width:990px) {
 
-    
-</section>
+            .speakerAvatarBioStrip .comic-panel-body,
+            .speakerSessionStrip .comic-panel-body {
+                border: 20px solid white;
+                padding: 30px 20px;
+                margin-bottom: 40px;
+            }
 
-    <p class="small">Last Updated: February 20, 2026 at 1:08 PM EST</p>
+            .speakerAvatarBioStrip .comic-panel-header,
+            .speakerSessionStrip .comic-panel-header {
+                top: -35px;
+                left: -45px;
+            }
 
-    
+            .speakerAvatarBioStrip .speakerImage {
+                display: block;
+                margin: 0px auto;
+                margin-top: 2em;
+            }
+
+            .speakerAvatarBioStrip .speakerTagline {
+                width: 100%;
+                display: block;
+                text-align: center;
+            }
+
+            .speakerSessionStrip .stirTrekPanel {
+                display: none;
+            }
+        }
+    </style>
+
+    <div class="speakerAvatarBioStrip">
+        <div class="avatarPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Bob Fornal!
+            </div>
+
+            <div>
+                <img src="/images/speakers/2026/Bob-Fornal.jpg" class="img-responsive speakerImage">
+            </div>
+
+            <div class="speakerTagline">
+                <h3>
+                    Microsoft MVP | Senior Developer with a passion for learning, testing, mentoring, speaking and personal growth. Blessed husband and proud father of two.
+                </h3>
+            </div>
+        </div>
+        <div class="bioPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Bio!
+            </div>
+
+            Microsoft MVP with focus is on Web Development: JavaScript, TypeScript, CSS, SVG, Angular, React, React-Native, Vue, and Ionic. I commonly speak about Cloud CI/CD, Quality Engineering, Best Practices, and Front-End Technologies.
+
+* Owner of Code Squid, LLC.
+* Senior Solutions Developer II (Front-End) at Leading EDJE, Inc.
+
+&#34;Learning from my mistakes over the decades, I feel that I have become a solid programmer.&#34; -- Me
+        </div>
+
+    </div>
+    <a id="abstract"></a>
+    <div class="speakerSessionStrip">
+        <div class="abstractPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Session!
+            </div>
+            
+                <h2>
+                    TypeScript You MIGHT Like
+                </h2>
+                <br>
+                <div>
+                    TypeScript isn’t just a stricter JavaScript, it’s a toolkit for writing clearer, safer, and more maintainable code. Many developers simply use it minimally after encountering verbose types, confusing errors, or patterns that feel academic.
+
+This talk takes a different route: dozens practical, real‑world TypeScript examples you can use today without over‑engineering, or over-hauling, your codebase. Through dozens of bite‑sized examples drawn from actual projects, we’ll cover patterns that reduce bugs, tips that keep types manageable, and features you might be overlooking.
+
+Whether you’re a JavaScript developer TypeScript‑curious, or an experienced user looking for new tricks, you’ll leave with ideas you can drop straight into your editor; and a new appreciation for TypeScript that you MIGHT actually like.
+                </div>
+                
+        </div>
+
+        <div class="timeAndRoomPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Where/When?
+            </div>
+
+            
+                
+                        <h2>Schedule TBD</h2>
+                        
+
+                            
+                                    
 
 
+        </div>
+
+        <div class="stirTrekPanel comic-panel-body">
+            <div class="stirTrekPanelImage"></div>
+        </div>
+    </div>
 </div>
             </div>
 

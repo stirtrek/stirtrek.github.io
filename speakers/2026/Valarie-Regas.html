@@ -6,7 +6,7 @@
 
     
 
-    <title>Schedule - Stir Trek</title>
+    <title>Valarie Regas - Stir Trek</title>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
@@ -15,12 +15,12 @@
     <!-- Twitter Card data -->
     <meta name="twitter:card" value="summary">
     <meta name="twitter:site" value="@StirTrek">
-    <meta name="twitter:title" value="Schedule - Stir Trek">
+    <meta name="twitter:title" value="Valarie Regas - Stir Trek">
     <meta name="twitter:description" value="Stir Trek is a one-day conference in Columbus, Ohio focused on teaching software developers the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a private screening of a blockbuster film on its opening day.">
     <meta name="twitter:image" value="/icons/opengraph.jpg">
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Schedule - Stir Trek" />
+    <meta property="og:title" content="Valarie Regas - Stir Trek" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://stirtrek.com" />
     <meta property="og:image" content="/icons/opengraph.jpg" />
@@ -175,49 +175,233 @@
 
             <div class="container">
 
-                
-<div class="body-content" role="main">
-
+                <div class="body-content" role="main">
 
     <style>
-    #spotitQrImage {
-        width: 15%;
-        display: inline-block;
-    }
-    #spotitQrText {
-        width: 70%;
-        display: inline-block;
-        padding-left:5%;
-        vertical-align: middle;
-    }
-    @media only screen and (max-width: 992px) {
-        #spotitQrImage {
-            width: 25%;
+        .speakerAvatarBioStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "avatar     bio         bio";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            column-gap: 40px;
+
+            margin-bottom: 40px;
         }
-        #spotitQrText {
+
+        .speakerSessionStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "abstract   abstract    time"
+                "abstract   abstract    stirTrek";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            column-gap: 40px;
+            grid-row-gap: 40px;
         }
-        #spotitqrcode {
-            /*width: 50px;*/
+
+        @media only screen and (max-width:990px) {
+
+            .speakerAvatarBioStrip,
+            .speakerSessionStrip {
+                display: block;
+            }
         }
-    }
-</style>
 
-<h1 id="2026-Schedule"><a href="#2026-Schedule" class="headerlink" title="2026 Schedule"></a>2026 Schedule</h1><div class="icon-hr"></div>
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel {
+            grid-area: avatar;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+            color: black;
 
-<p>Looking for our Discord link? <a target="_blank" rel="noopener" href="https://discord.gg/vkcS8y5Wvz">https://discord.gg/vkcS8y5Wvz</a></p>
+            text-align: center;
+        }
+
+        .speakerSessionStrip .abstractPanel {
+            grid-area: abstract;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerAvatarBioStrip .bioPanel {
+            grid-area: bio;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            grid-area: stirTrek;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+        }
+
+        .speakerSessionStrip .timeAndRoomPanel {
+            grid-area: time;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel,
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%),
+                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%),
+                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                linear-gradient(40deg, #c48b2fb3 0, #f7c16ab3 30%, #dbab5bb3 50%, #dbab5bb3 70%, #c48b2fb3 100%);
+        }
+
+        .stirTrekPanelImage {
+            background-image: url('/images/StirTrek-Emblem-Gold-400x588.png');
+            width: 100%;
+            height: 100%;
+            background-position: center;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body,
+        .speakerSessionStrip .comic-panel-body {
+            position: relative;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-header,
+        .speakerSessionStrip .comic-panel-header {
+            position: absolute;
+            top: -35px;
+            left: -25px;
+        }
+
+        .speakerAvatarBioStrip .speakerImage {
+            width: 80%;
+            border-radius: 50%;
+            border: 6px solid #111c2e;
+            margin: 2em auto 0;
+        }
+
+        .speakerAvatarBioStrip .speakerTagline {
+            vertical-align: middle;
+        }
+
+        .speakerAvatarBioStrip .speakerBio {
+            margin-top: 5%;
+        }
 
 
-    
-        <section>
+        @media only screen and (max-width:990px) {
 
-    
-</section>
+            .speakerAvatarBioStrip .comic-panel-body,
+            .speakerSessionStrip .comic-panel-body {
+                border: 20px solid white;
+                padding: 30px 20px;
+                margin-bottom: 40px;
+            }
 
-    <p class="small">Last Updated: February 20, 2026 at 1:08 PM EST</p>
+            .speakerAvatarBioStrip .comic-panel-header,
+            .speakerSessionStrip .comic-panel-header {
+                top: -35px;
+                left: -45px;
+            }
 
-    
+            .speakerAvatarBioStrip .speakerImage {
+                display: block;
+                margin: 0px auto;
+                margin-top: 2em;
+            }
+
+            .speakerAvatarBioStrip .speakerTagline {
+                width: 100%;
+                display: block;
+                text-align: center;
+            }
+
+            .speakerSessionStrip .stirTrekPanel {
+                display: none;
+            }
+        }
+    </style>
+
+    <div class="speakerAvatarBioStrip">
+        <div class="avatarPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Valarie Regas!
+            </div>
+
+            <div>
+                <img src="/images/speakers/2026/Valarie-Regas.jpg" class="img-responsive speakerImage">
+            </div>
+
+            <div class="speakerTagline">
+                <h3>
+                    DevOps, Advocacy, and Human Interest
+                </h3>
+            </div>
+        </div>
+        <div class="bioPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Bio!
+            </div>
+
+            Valarie Regas is a DevOps fanatic, a Georgia Tech coding bootcamp graduate, and a veteran mommy. She holds a BA in Psychology and currently works in Computer Science education. After years being a stay-at-home mom, she decided to change her life by entering tech, and has learned a lot along the way. Outside of work, she enjoys mixed martial arts fighting, table-top role playing games, public speaking, creating tiny humans, and activism of all sorts.
+        </div>
+
+    </div>
+    <a id="abstract"></a>
+    <div class="speakerSessionStrip">
+        <div class="abstractPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Session!
+            </div>
+            
+                <h2>
+                    Productivity Theater: When ‘Just Use AI’ Becomes a Management Strategy
+                </h2>
+                <br>
+                <div>
+                    We’re living through a strange era of work: leaders are told AI enables “10×” or “100×” productivity, while engineers are quietly fixing AI-introduced bugs, validating hallucinated outputs, and absorbing the mental load of tools that are powerful, but deeply imperfect.
+
+This talk is about surviving that reality.
+
+We’ll examine what actually happens when AI enters real developer workflows: where trust is partial, verification is mandatory, and speed often comes at the cost of focus and creativity. We’ll talk candidly about productivity theater, unrealistic expectations, and the quiet burnout that happens when “just use AI” becomes a substitute for good leadership and sustainable engineering practices.
+
+Drawing from real conversations with engineers and teams, this session offers practical ways to:
+• Push back (constructively) against impossible productivity narratives
+• Use AI without surrendering judgment, craft, or accountability
+• Protect mental energy in environments obsessed with output metrics
+• Re-anchor DevOps values around humans, not hype cycles
+
+This isn’t a talk about how to get more done. It’s a talk about how to keep doing good work, and maintain health and stability, in a world that thinks software engineers should be machines.
+                </div>
+                
+        </div>
+
+        <div class="timeAndRoomPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Where/When?
+            </div>
+
+            
+                
+                        <h2>Schedule TBD</h2>
+                        
+
+                            
+                                    
 
 
+        </div>
+
+        <div class="stirTrekPanel comic-panel-body">
+            <div class="stirTrekPanelImage"></div>
+        </div>
+    </div>
 </div>
             </div>
 

@@ -1,2 +1,10 @@
 {
+  "scheduledSessions": {
+    "timeSlots": [
+      {
+        "time": "Invalid date",
+        "sessions": []
+      }
+    ]
+  }
 }

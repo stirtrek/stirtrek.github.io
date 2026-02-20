@@ -1,2 +1,175 @@
 {
+  "sessions": [
+    {
+      "id": "1121847",
+      "title": "Dark UX Patterns",
+      "description": "Congratulations! You are the 1,000,000th visitor to our website. Click here to redeem your prize! Just provide your date of birth and phone number to get started.\r\n\r\nLearn about Dark UX Patterns, how they work, how they trick you and what companies are the worst offenders. Roach Motel, Privacy Zuckering? Let’s visit Dark Patterns Hall of Shame and see who joined the dark side!\r\n\r\nThis talk will break down the most popular dark patterns using real life examples from websites and apps you use every day. If you are a designer, a developer or a product manager, you will learn what to avoid when building your product and how to integrate digital well-being and safety features into your service. If you are an end user, we will teach you how to respond to dark patterns in order to stay safe online, protect your privacy, save your money and keep your sanity.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "11fbf1c5-b0fc-42eb-a027-4fea2e54bb12"
+      ],
+      "categoryItems": [
+        431278
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "CodeMash"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    }
+  ],
+  "speakers": [
+    {
+      "id": "11fbf1c5-b0fc-42eb-a027-4fea2e54bb12",
+      "firstName": "Vitaliy",
+      "lastName": "Matiyash",
+      "bio": "Vitaliy Matiyash is Software Engineer from Columbus, Ohio, working on both front end and back end technologies with focus on web accessibility, Java and microservices. In his spare time he enjoys working on various DIY projects, biking, hiking Central Ohio trails and cooking from scratch.",
+      "tagLine": "Staff Software Engineer, Builder, Problem Solver.",
+      "profilePicture": "https://sessionize.com/image/a45d-400o400o1-UQKYbsP5udCreAyU5df2CV.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/vitaliymatiyash",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/VitaliyMatiyash/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://vitaliymatiyash.com/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        1121847
+      ],
+      "fullName": "Vitaliy Matiyash",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Columbus, OH"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 118563,
+      "question": "Have you presented this talk before?",
+      "questionType": "Checkbox",
+      "sort": 1
+    },
+    {
+      "id": 118564,
+      "question": "If so, where?",
+      "questionType": "Short_Text",
+      "sort": 2
+    },
+    {
+      "id": 119284,
+      "question": "Where are you traveling from?",
+      "questionType": "Short_Text",
+      "sort": 16
+    }
+  ],
+  "categories": [
+    {
+      "id": 118560,
+      "title": "Track",
+      "items": [
+        {
+          "id": 431274,
+          "name": "Application Development",
+          "sort": 1
+        },
+        {
+          "id": 431275,
+          "name": "Architecture & Platform Engineering",
+          "sort": 2
+        },
+        {
+          "id": 431276,
+          "name": "Artificial Intelligence & Machine Learning",
+          "sort": 3
+        },
+        {
+          "id": 431277,
+          "name": "Data Engineering & Analytics",
+          "sort": 4
+        },
+        {
+          "id": 431278,
+          "name": "Product Design & User Experience",
+          "sort": 5
+        },
+        {
+          "id": 431279,
+          "name": "Professional Growth & Leadership",
+          "sort": 6
+        },
+        {
+          "id": 431280,
+          "name": "Security & Privacy Engineering",
+          "sort": 7
+        },
+        {
+          "id": 431281,
+          "name": "Software Quality & Delivery",
+          "sort": 8
+        },
+        {
+          "id": 431282,
+          "name": "Other",
+          "sort": 9
+        }
+      ],
+      "sort": 0,
+      "type": "session"
+    },
+    {
+      "id": 119611,
+      "title": "Do you require travel assistance?",
+      "items": [
+        {
+          "id": 432499,
+          "name": "No, I'm good!",
+          "sort": 1
+        },
+        {
+          "id": 432500,
+          "name": "No, but it would help",
+          "sort": 2
+        },
+        {
+          "id": 432501,
+          "name": "Yes, required for me to be at Stir Trek",
+          "sort": 3
+        }
+      ],
+      "sort": 19,
+      "type": "speaker"
+    }
+  ],
+  "rooms": []
 }

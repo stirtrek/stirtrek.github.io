@@ -469,6 +469,60 @@
       "isConfirmed": true
     },
     {
+      "id": "1127299",
+      "title": "From PRs to Performance: Using Metrics and AI to Coach Stronger Engineering Teams",
+      "description": "Velocity is useful, but it is not leadership. Most organizations either stop at team velocity and “gut feel,” or they overcorrect into individual scoreboards that erode trust and create perverse incentives. This talk shares a pragmatic middle path: how engineering leaders can use metrics to understand delivery health, code quality, and collaboration, without turning measurement into micromanagement.\r\n\r\nI built an internal metrics web application that connects to common systems like code repositories and agile/project tools (GitHub and Linear in my case, but the approach generalizes to Jira and other platforms). It tracks velocity and estimation trends over time, compares individual and team patterns, and adds pull request analysis to surface quality signals. I also integrated AI (Claude) to review commits and PR discussions and generate a quality assessment across four dimensions: code quality (DRY/SOLID), testing habits, adherence to standards, and collaboration in code review.\r\n\r\nThis session is designed for senior engineers through executive technology leaders. You will learn which metrics are actually useful, how to implement a dashboard in your environment, and how to apply guardrails so metrics drive coaching and continuous improvement rather than fear or gaming. The examples and demo are fully offline using anonymized or mock data and precomputed AI outputs, so the approach works even with limited connectivity.\r\n\r\nWhat’s in it for you: you’ll leave with a concrete dashboard blueprint and an implementation plan you can apply immediately: what to measure, how to visualize it, how to layer in AI responsibly, and how to use the signals to coach, improve standards, and raise delivery confidence.\r\n\r\nKey takeaways\r\n* A leadership-oriented metrics framework: outcomes vs system signals vs behaviors (and what not to measure)\r\n* A practical dashboard design that combines velocity, estimation reality (“hours per point”), and PR signals\r\n* How to use AI as an assistant for qualitative insights (and how to calibrate it so it does not become “truth”)\r\n* Guardrails for trust: privacy, transparency, and preventing metric gaming\r\n* A step-by-step path to build this in your org using APIs from your existing tools\r\n\r\n45-minute outline\r\n* Why most engineering metrics fail in practice (5 min)\r\n* Velocity, estimation, and forecasting that leaders can actually use (10 min) team velocity per cycle, averages, “hours per point” trends comparing individual patterns to team patterns without weaponizing it\r\n* Pull request signals that reveal quality and delivery risk (10 min)\r\nreview cycles, rework patterns, standards drift, collaboration signals\r\n* AI-assisted quality analysis, responsibly (12 min)\r\ncode quality, testing quality, standards, collaboration\r\ncalibrating with spot checks and known baselines; using confidence labels\r\n* How to apply the signals: coaching, leveling expectations, and intervention (6 min)\r\n* Build plan: how to implement this dashboard in your environment (2 min)",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b4bb31af-bcf8-4f20-af95-dd1c0d93f309"
+      ],
+      "categoryItems": [
+        431279
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1127279",
+      "title": "Ghosts in the Machine: Tampering with the JavaScript Supply Chain",
+      "description": "What if the code you’re shipping isn’t yours anymore? The scariest JavaScript bugs don’t always come from your team, they come from open-source packages that have been possessed. This talk digs deep into the dark world of supply chain tampering: what it looks like, how it happens, and what modern devs can do to protect themselves. We’ll talk tamper detection, package provenance, lockfile integrity, and even how to set up GitHub Actions to ward off malevolent merges. Come for the security, stay for the stories of cursed commits.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "730a789f-e2a8-483d-91bc-6e794f1b44d5"
+      ],
+      "categoryItems": [
+        431280
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1126556",
       "title": "Git Configuration secrets THEY don't want you to know about",
       "description": "In 2021 the Git core developers were asked to reset their config settings to see what working on Git \"Out of the Box\" was really like. They were then challenged to come up with the top settings that they really wanted to change. What came from that exercise was a list of 9 settings that the core development team mostly unanimously agreed should be the defaults.\r\n\r\nAttendees will leave this session with the following take ways:\r\n\r\n* How to configure Git so it is more ergonomic and pleasant to work with\r\n* How Git settings may change depending on our workflow\r\n* A deeper understanding of the internals of Git",
@@ -552,6 +606,37 @@
         {
           "questionId": 118564,
           "answerValue": "CodeMash"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1127280",
+      "title": "Know Your JS: SBOMs for Frontend Devs",
+      "description": "Ever wonder what’s lurking in the dark corners of your node_modules, like unidentified flying dependencies sneaking aboard your project? In an age of escalating software supply chain attacks, knowing exactly what you're shipping is as vital as tracking strange lights in the sky. This talk will shine a beam on SBOMs (Software Bills of Materials), explaining why frontend developers should care and how to generate one using tools like CycloneDX and Syft. You’ll leave with the skills to map your entire dependency galaxy. No security clearance required, just your JavaScript and an explorer’s mindset.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "730a789f-e2a8-483d-91bc-6e794f1b44d5"
+      ],
+      "categoryItems": [
+        431280
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "https://shownotes.tuxcare.com/know-your-js-sboms-for-frontend-devs-5/"
         }
       ],
       "roomId": null,
@@ -1218,6 +1303,56 @@
       ]
     },
     {
+      "id": "730a789f-e2a8-483d-91bc-6e794f1b44d5",
+      "firstName": "Chris",
+      "lastName": "DeMars",
+      "bio": "Chris DeMars is a Senior Developer Advocate with over 20 years of technical experience. He speaks all over the world on web accessibility, feature flags, A/B testing, and CSS. For his community contributions, he holds awards as a Progress Champion and former Microsoft MVP, Google Developer Expert, Cloudinary Media Developer Expert, and Auth0 Ambassador. When he is not working on making the web great and accessible you can find him fishing, on the paintball field, rating Detroit Style pizza, and looking for UFO's.",
+      "tagLine": "Senior Developer Advocate at TuxCare",
+      "profilePicture": "https://sessionize.com/image/0aff-400o400o1-DZTrRVmXSXXmBCc1HeyCNF.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "http://twitter.com/saltnburnem",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/chrisdemars/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://chrisdemars.net/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.tuxcare.com/",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Dev Advocate Profile",
+          "url": "https://bit.ly/dev-advocate-profile",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        1127279,
+        1127280
+      ],
+      "fullName": "Chris DeMars",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Detroit"
+        }
+      ]
+    },
+    {
       "id": "3fd9cade-10ef-43df-b124-944015042549",
       "firstName": "Ed",
       "lastName": "Charbeneau",
@@ -1263,6 +1398,45 @@
         {
           "questionId": 119284,
           "answerValue": "Louisville "
+        }
+      ]
+    },
+    {
+      "id": "b4bb31af-bcf8-4f20-af95-dd1c0d93f309",
+      "firstName": "Eric",
+      "lastName": "Martin",
+      "bio": "Eric is the Director of Engineering at KODE Health, bringing 25 years of expertise in software development to his role. Specializing in revenue cycle systems for healthcare, Eric has built and led teams that automate and track 1 billion communications annually.\r\n\r\nEric holds a degree in Information Systems from Ohio State University and an MBA from Keller Graduate School of Management. He is a co-patent holder for an innovative obfuscation of PII used in print and digital composition and delivery.\r\n\r\nThroughout his career, Eric has demonstrated a passion for helping engineers grow and achieve their next level of professional development. His leadership and commitment to innovation have left a lasting impact for customers and organizations.",
+      "tagLine": "KODE Health, Director of Software Engineering",
+      "profilePicture": "https://sessionize.com/image/99fa-400o400o1-G8F9EZuthi63cCskH9sH5X.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/ericemartin1/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.linkedin.com/in/ericemartin1/recent-activity/all/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.kodehealth.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1127299
+      ],
+      "fullName": "Eric Martin",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Columbus"
         }
       ]
     },

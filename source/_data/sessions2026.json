@@ -28,6 +28,37 @@
       "isConfirmed": true
     },
     {
+      "id": "1127143",
+      "title": "Agents & Arbiters - An Adventurer’s Guide to Multi-Agent Collaboration with LangGraph.js",
+      "description": "Building interactive systems with conventional coding means trying to anticipate every possible user action and writing the right response. This quickly becomes nigh impossible. You end up lost in a maze of recursion, fragility, and nested if statements. The more interactive you make your system, the more complex your code gets, until debugging feels like being eaten by a grue—you know something's wrong, but you're just fumbling around in the dark.\r\n\r\nThere's a better way. Instead of scripting every interaction, we can give some of the elements in our system their own intelligence. Multi-agent collaboration lets us create systems where entities can become autonomous agents with their own perspectives and voices. Imagine a text-based adventure game where the brass lantern, the white house, and even the mailbox have something to say when responding to the player. Or consider a help desk system where agents from billing, technical support, and account management each weigh in to determine the best solution for a customer.\r\n\r\nIn this session, we'll explore multi-agent collaboration through a live demo of a text-based adventure system. You'll meet the orchestration workflow—router, classifier, agents, arbiter, and committer—and discover how LangGraph.js coordinates the chaos when multiple agents want to respond. We'll shine our brass lantern over the code to see how it uses Redis and LangGraph.js to make it all work. Then, we'll explore how this same approach solves real-world problems beyond gaming.\r\n\r\nWhen the adventure's over, you'll understand how to coordinate agents to handle complex interactions and know when this is a good approach. You'll have a working example you can adapt for your own adventures—be they exploring the Great Underground Empire, customer service platforms, or content management systems. And, you'll never look at building interactive systems the same way again.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "520bf4ca-b2d3-47c3-8475-c25bb2b257f7"
+      ],
+      "categoryItems": [
+        431276
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "CodeMash, other places by the time Stir Trek rolls around"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1123424",
       "title": "AI in Agile: How to Leverage AI for Smarter Sprints & Roadmaps",
       "description": "AI isn’t just disrupting industries; it’s redefining how Agile team's work. From backlog grooming to sprint planning, modern tools like ChatGPT, Jira Assist, and GitHub Copilot are helping Agile leaders and teams move faster, think smarter, and focus more on value delivery than manual overhead.\r\n\r\nIn this forward-looking session, we’ll explore how AI is transforming the Agile lifecycle. You’ll see real-world examples and a live demo showing how AI can assist with generating user stories, refining acceptance criteria, summarizing retrospectives, and even forecasting roadmap scenarios.",
@@ -103,6 +134,33 @@
         {
           "questionId": 118564,
           "answerValue": "https://www.youtube.com/watch?v=MGIWrvHjww8&list=PLESGit66MnbmnDhXdTZicVFF2Pql430pJ&index=13&pp=gAQBiAQB2AYOsAgC"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1126337",
+      "title": "Better the Devil you NoSQL - A Battle of Paradigms",
+      "description": "SQL or NoSQL? We’ll build the same app on DynamoDB and on Aurora DSQL, the latest cloud native database. Then compare modeling, query patterns, cost, latency, transactions, and ops. Takeaway practical insights from this packed micro demo. \r\n\r\n## Abstract\r\nI spent years living happily in my NoSQL safe space. I avoided SQL out of intimidation, without realizing the cost. Inspired by Ghost Rider’s redemption arc, I used the Devil I know to learn about the one I don’t. We’ll build a “Soul Contract Manager” for Ghost Rider with both DynamoDB and Aurora DSQL. In the process, we’ll see:\r\n\r\n- How data modeling shapes query flexibility and agility\r\n- The realities of multi-record consistency (transactions vs. item-level ops)\r\n- Cost and latency levers under typical read/write mixes\r\n- Secure connection patterns (IAM-issued tokens vs. app-managed secrets)\r\n\r\nOur goal isn’t to pick a winner; instead, you’ll get my hard-won lessons because redemption isn’t about choosing sides; it’s about feeling confident in your choices.\r\n\r\n## What You’ll Learn\r\n\r\n- **Mental models:** Access-pattern modeling (NoSQL) vs. relational modeling (SQL), you can explain to your team.\r\n- **Modeling tradeoffs in practice:** Keys/GSIs/streams vs. schemas/joins/transactions.\r\n- **Performance & cost levers:** How workload shapes (read/write ratio, query mix) changes outcomes.\r\n- **Security patterns:** Secrets-free connections with IAM tokens; least-privilege access.\r\n\r\n## Why You Can’t Miss It\r\n\r\n- **Memorable and Entertaining Analogies:** Inspired by Ghost-Rider’s redemption story to make concepts stick.\r\n- **Hands-on realism:** The *same* workflow implemented two ways—no hand-wavy “it depends.”\r\n\r\n# Audience & Level\r\n\r\nGeneral developers, backend/full-stack, cloud/serverless engineers, Beginner–Intermediate level",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "4de5c215-2eab-4a2d-bb3b-55817c56f01a"
+      ],
+      "categoryItems": [
+        431274
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
         }
       ],
       "roomId": null,
@@ -353,6 +411,37 @@
       "isConfirmed": true
     },
     {
+      "id": "1126556",
+      "title": "Git Configuration secrets THEY don't want you to know about",
+      "description": "In 2021 the Git core developers were asked to reset their config settings to see what working on Git \"Out of the Box\" was really like. They were then challenged to come up with the top settings that they really wanted to change. What came from that exercise was a list of 9 settings that the core development team mostly unanimously agreed should be the defaults.\r\n\r\nAttendees will leave this session with the following take ways:\r\n\r\n* How to configure Git so it is more ergonomic and pleasant to work with\r\n* How Git settings may change depending on our workflow\r\n* A deeper understanding of the internals of Git",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "53ac8546-b51e-4755-8d18-67c519a981c0"
+      ],
+      "categoryItems": [
+        431274
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Codemash, Nebraska.Code, Lincoln.Code"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1121838",
       "title": "Java Anti-Patterns",
       "description": "God object, spaghetti code, magic numbers? Anti-patterns are traps that developers encounter frequently due to lack of time, carelessness, inexperience, or pressure from project managers. Rushing can lead to big problems for applications in future, so you need to know how to avoid potential errors.\r\n\r\nCome learn about Java Anti-Patterns. In this session beginner Java developers can learn to identify common rookie developer mistakes. Experienced developers can cry or laugh together as we look at real-life examples of Java code. You will leave this session knowing how to avoid these anti-patterns and write elegant, maintainable, and (dare we say it?) fun to work with code. Finally, you will find better ways to implement solutions using Java.",
@@ -384,6 +473,37 @@
       "isConfirmed": true
     },
     {
+      "id": "1126202",
+      "title": "Making and Baking an Application Security Department",
+      "description": "Houston, we have a problem: we need more application security professionals. There is a lack of talented folks that can test, document and train developers on how to fix web and mobile applications for security vulnerabilities. Verizon’s estimates of 86% of 2017 breaches are caused by an application security component. This is a problem we must solve. \r\n\r\nBill and his team have been researching and experimenting on ways to solve the application security talent shortage. During this session, Bill will explain what they learned by teaching students of different experience levels. He will answer questions like: \"Who should I start with?\" and  \"What do they need to know to be effective?\" as well as what tools are most appropriate for them to learn.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "edf87fe3-df21-4e80-8834-c0d0365dbb59"
+      ],
+      "categoryItems": [
+        431280
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "BSides Cleveland"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1130941",
       "title": "Microsoft Fabric for Developers",
       "description": "Does your operational database contain staging and reporting data? Is it bloated and struggling under the load? As companies grow, its common to reach a tipping point where you can't just put everything into your shared OLTP database and keep scaling it up. That's when it's time to start thinking seriously about data and how best to manage it.\r\nTraditionally, data warehousing and ETL have required different skill sets and operated independently from application development, but with platforms like Microsoft Fabric, the skillsets aren't so different anymore, especially if you know a bit of Python.\r\nThis session will talk about some of the many services that make up Fabric, and how to use it coming from a development background.",
@@ -396,6 +516,33 @@
       ],
       "categoryItems": [
         431277
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1120566",
+      "title": "Productivity Theater: When ‘Just Use AI’ Becomes a Management Strategy",
+      "description": "We’re living through a strange era of work: leaders are told AI enables “10×” or “100×” productivity, while engineers are quietly fixing AI-introduced bugs, validating hallucinated outputs, and absorbing the mental load of tools that are powerful, but deeply imperfect.\r\n\r\nThis talk is about surviving that reality.\r\n\r\nWe’ll examine what actually happens when AI enters real developer workflows: where trust is partial, verification is mandatory, and speed often comes at the cost of focus and creativity. We’ll talk candidly about productivity theater, unrealistic expectations, and the quiet burnout that happens when “just use AI” becomes a substitute for good leadership and sustainable engineering practices.\r\n\r\nDrawing from real conversations with engineers and teams, this session offers practical ways to:\r\n• Push back (constructively) against impossible productivity narratives\r\n• Use AI without surrendering judgment, craft, or accountability\r\n• Protect mental energy in environments obsessed with output metrics\r\n• Re-anchor DevOps values around humans, not hype cycles\r\n\r\nThis isn’t a talk about how to get more done. It’s a talk about how to keep doing good work, and maintain health and stability, in a world that thinks software engineers should be machines.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d98ac233-d319-45ab-9729-41f7c4ae2a62"
+      ],
+      "categoryItems": [
+        431279
       ],
       "questionAnswers": [
         {
@@ -442,6 +589,37 @@
       "isConfirmed": true
     },
     {
+      "id": "1127331",
+      "title": "The Dark Side of Microservices",
+      "description": "You want to solve a problem with your application, and you want to use microservices. Ok, so now you have two problems...\r\n\r\nMicroservices continue to be a huge buzzword in our industry, and in some scenarios they can offer significant benefits. But building microservice-based systems requires substantially different skills than traditional applications, and in many cases the added complexity isn't warranted.\r\n\r\nIn this session, you'll learn when NOT to use a microservice, and many ways in which you can design your microservice architecture the wrong way, eliminating the benefits your organization had hoped to reap from them. Hopefully you'll leave knowing a few pitfalls to avoid, or at least if you already have some of the scars from past implementations, you may find the session therapeutic.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
+      ],
+      "categoryItems": [
+        431275
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "DevIntersection 2025 and others; always gets good ratings/feedback. "
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1120257",
       "title": "The DevOops Handbook: A satirical guide to slow software delivery",
       "description": "In the quest for rapid software delivery, DevOps principles are misapplied or skipped entirely, leading to a “DevOops culture.” In this talk we'll explore DevOps missteps through a satirical narrative where missteps and bad practices are presented as the path forward.\r\n\r\nTo start, we’ll discuss deploying code the way of the masochist. This will include a convincing argument for detail-oriented change requests and late-night deployments to prevent any witnesses to our misdeeds. Following this, we will outline our project mismanagement philosophy for maintaining constant chaos: embracing siloes and eliminating feedback loops. Finally, we'll present why quality assurance is overrated and unnecessary. Instead, we'll present the benefits of zero testing and disabling quality and security tools – they are just like that “check engine” light in the car: useless and annoying.\r\n\r\nTogether we’ll see how easy it is to establish the worst DevOps culture for modern software delivery: a DevOops culture! \r\n\r\nOr not. While this talk is tongue in cheek, we will see how to overcome these all-to-real mindsets. By the time we are done, we'll have navigated the treacherous waters of software misadventures with a wink and a smile so we can march forward, turning our ‘oopses’ into opportunities and our code catastrophes into triumphs.",
@@ -463,6 +641,33 @@
         {
           "questionId": 118564,
           "answerValue": "Momentum, MITechCon, user groups, DevOpsDays"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1127053",
+      "title": "TypeScript You MIGHT Like",
+      "description": "TypeScript isn’t just a stricter JavaScript, it’s a toolkit for writing clearer, safer, and more maintainable code. Many developers simply use it minimally after encountering verbose types, confusing errors, or patterns that feel academic.\r\n\r\nThis talk takes a different route: dozens practical, real‑world TypeScript examples you can use today without over‑engineering, or over-hauling, your codebase. Through dozens of bite‑sized examples drawn from actual projects, we’ll cover patterns that reduce bugs, tips that keep types manageable, and features you might be overlooking.\r\n\r\nWhether you’re a JavaScript developer TypeScript‑curious, or an experienced user looking for new tricks, you’ll leave with ideas you can drop straight into your editor; and a new appreciation for TypeScript that you MIGHT actually like.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "ed4af73a-6781-4882-a8c3-12ee0c68c1a5"
+      ],
+      "categoryItems": [
+        431275
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
         }
       ],
       "roomId": null,
@@ -601,6 +806,55 @@
       ]
     },
     {
+      "id": "a5d50f4e-f021-4983-97a9-73f9415b3d5b",
+      "firstName": "Ardalis",
+      "lastName": ".",
+      "bio": "Ardalis (Steve Smith) is an entrepreneur and software developer with a passion for building quality software as effectively as possible. Ardalis has published DOZENS of courses on Pluralsight and Dometrain, covering DDD, SOLID, design patterns, and software architecture. He's a Microsoft ASP.NET MVP, a frequent speaker at developer conferences, an author, and a trainer.\r\n\r\nArdalis works with companies through NimblePros, the boutique consulting company he runs with his wife, Michelle. They help teams who want to avoid the trap of technical debt to deliver better software, faster. Ardalis and NimblePros have been described by clients as a \"force multiplier\", amplifying the value of existing development teams.\r\n\r\nFollow ardalis on BlueSky, YouTube, and ardalis.com.",
+      "tagLine": "Founder and Principal Architect at NimblePros, Microsoft MVP, Author, Speaker, Trainer",
+      "profilePicture": "https://sessionize.com/image/0307-400o400o1-L2Be7vVA9x6NNKKT2NEqox.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/ardalis",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/stevenandrewsmith",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://ardalis.com/blog",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://nimblepros.com",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "BlueSky",
+          "url": "https://bsky.app/profile/ardalis.com",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        1127331
+      ],
+      "fullName": "Ardalis .",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Kent, Ohio"
+        }
+      ]
+    },
+    {
       "id": "e4808bf3-8fc2-43e5-b9d0-303f77f43547",
       "firstName": "Barret",
       "lastName": "Blake",
@@ -646,6 +900,94 @@
         {
           "questionId": 119284,
           "answerValue": "Columbus"
+        }
+      ]
+    },
+    {
+      "id": "edf87fe3-df21-4e80-8834-c0d0365dbb59",
+      "firstName": "Bill",
+      "lastName": "Sempf",
+      "bio": "Bill Sempf is a software security architect. His breadth of experience includes business and technical analysis, software design, development, testing, server management and maintenance, and security. In his 20 years of professional experience he has participated in the creation of well over 200 applications for large and small companies, managed the software infrastructure of two Internet service providers, coded complex software happily in every environment imaginable, tested the security of all natures of applications and APs, and made mainframes talk to cell phones. He is the author of C# 5 All in One for Dummies and Windows 8 Programming with HTML5 For Dummies; a coauthor of Effective Visual Studio.NET and many other books, a frequent contributor to industry magazines; and has recently been an invited speaker for the ACM and IEEE, BlackHat, CodeMash, DerbyCon, BSides, DevEssentials, the International XML Web Services Expo and the Association of Information Technology Professionals. Bill also serves on the board of the Columbus branch of the Open Web Application Security Project, and is the Administrative Director of Locksport International.",
+      "tagLine": "Application Security Architect",
+      "profilePicture": "https://sessionize.com/image/7376-400o400o1-n9DpXHVGQEH9f9sZo1fqmj.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/billsempf/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://sempf.net/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.pointweb.net",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1126202
+      ],
+      "fullName": "Bill Sempf",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Grove City. I'll pack a snack."
+        }
+      ]
+    },
+    {
+      "id": "ed4af73a-6781-4882-a8c3-12ee0c68c1a5",
+      "firstName": "Bob",
+      "lastName": "Fornal",
+      "bio": "Microsoft MVP with focus is on Web Development: JavaScript, TypeScript, CSS, SVG, Angular, React, React-Native, Vue, and Ionic. I commonly speak about Cloud CI/CD, Quality Engineering, Best Practices, and Front-End Technologies.\r\n\r\n* Owner of Code Squid, LLC.\r\n* Senior Solutions Developer II (Front-End) at Leading EDJE, Inc.\r\n\r\n\"Learning from my mistakes over the decades, I feel that I have become a solid programmer.\" -- Me",
+      "tagLine": "Microsoft MVP | Senior Developer with a passion for learning, testing, mentoring, speaking and personal growth. Blessed husband and proud father of two.",
+      "profilePicture": "https://sessionize.com/image/5128-400o400o1-P6JDgB6iy1CVfjqvA2GQv5.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/rfornal",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/rfornal/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://dev.to/rfornal",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.leadingedje.com/home",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Business Website",
+          "url": "https://code-squid.com",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        1127053
+      ],
+      "fullName": "Bob Fornal",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Columbus, OH"
         }
       ]
     },
@@ -778,6 +1120,50 @@
       ]
     },
     {
+      "id": "520bf4ca-b2d3-47c3-8475-c25bb2b257f7",
+      "firstName": "Guy",
+      "lastName": "Royse",
+      "bio": "Guy works for Redis as a Developer Advocate. Combining his decades of experience in writing software with a passion for learning—and for sharing what he has learned—Guy explores interesting topics and spreads the knowledge he has gained around developer communities worldwide.\r\n\r\nTeaching and community have long been a focus for Guy. He ran a local JavaScript meetup in Ohio for more than a decade and has served on the selection committees of numerous conferences. He'll happily speak anywhere that will have him and has even has helped teach programming at a prison in Central Ohio.\r\n\r\nIn his personal life, Guy is a hard-boiled geek interested in role-playing games, science fiction, and technology. He also has a slightly less geeky interest in history and linguistics. He has an entire wall of role-playing games and science fiction books, speaks Spanish like a two-year old, and is a ham radio operator—callsign W8GUY.\r\n\r\nGuy lives in Ohio with his wife. His three sons are adults now and are all moved out. He is immensely proud of the men they have become.",
+      "tagLine": "Developer Advocate at Redis",
+      "profilePicture": "https://sessionize.com/image/a3ad-400o400o1-ra3ppxKk6zcw4d7WejbVhm.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/guyroyse",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/groyse",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://guyroyse.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://redis.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1127143
+      ],
+      "fullName": "Guy Royse",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Westerville"
+        }
+      ]
+    },
+    {
       "id": "137fb55c-d120-4a6b-9e15-98123df17302",
       "firstName": "Joseph",
       "lastName": "Guadagno",
@@ -857,6 +1243,45 @@
         {
           "questionId": 119284,
           "answerValue": "Savannah, Georgia"
+        }
+      ]
+    },
+    {
+      "id": "53ac8546-b51e-4755-8d18-67c519a981c0",
+      "firstName": "Ken",
+      "lastName": "Versaw",
+      "bio": "I am an Asp.Net Insider and a Software Engineering Manager with over 22 years of software development experience. I am also active in the regional software development community, organizing a monthly software development meetup (Lincoln.Code) and 3 annual software development conferences (Nebraska.Code, Prairie.Code, and Indy.Code). ",
+      "tagLine": "Software Engineering Manager - Nelnet Business Solutions",
+      "profilePicture": "https://sessionize.com/image/489e-400o400o1-T53WQjwinCfy8n7HN2k8d6.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/kversaw1",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/kversaw",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://nebraskacode.amegala.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1126556
+      ],
+      "fullName": "Ken Versaw",
+      "categoryItems": [
+        432500
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Nebraska"
         }
       ]
     },
@@ -960,6 +1385,45 @@
         {
           "questionId": 119284,
           "answerValue": "Local"
+        }
+      ]
+    },
+    {
+      "id": "4de5c215-2eab-4a2d-bb3b-55817c56f01a",
+      "firstName": "Paul",
+      "lastName": "Chin Jr.",
+      "bio": "Paul Chin Jr is a Hampton Roads native and a curious human. He is passionate about exploring technology, art, and business. He advocates for making technology accessible and growing communities to help one another. He has created new markets, guided start-up validations, and architected enterprise platforms. The future is amazing, and he can't wait to help you build it.\r\n",
+      "tagLine": "Curious Human who loves Automation, Food, & Business. ",
+      "profilePicture": "https://sessionize.com/image/44a5-400o400o1-KHrZFYiCoggBhis5uvsiSW.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/paulchinjr",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.linkedin.com/in/paulchinjr/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://serverlessguru.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1126337
+      ],
+      "fullName": "Paul Chin Jr.",
+      "categoryItems": [
+        432500
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Virginia Beach, VA"
         }
       ]
     },
@@ -1072,6 +1536,55 @@
       ]
     },
     {
+      "id": "d98ac233-d319-45ab-9729-41f7c4ae2a62",
+      "firstName": "Valarie",
+      "lastName": "Regas",
+      "bio": "Valarie Regas is a DevOps fanatic, a Georgia Tech coding bootcamp graduate, and a veteran mommy. She holds a BA in Psychology and currently works in Computer Science education. After years being a stay-at-home mom, she decided to change her life by entering tech, and has learned a lot along the way. Outside of work, she enjoys mixed martial arts fighting, table-top role playing games, public speaking, creating tiny humans, and activism of all sorts.",
+      "tagLine": "DevOps, Advocacy, and Human Interest",
+      "profilePicture": "https://sessionize.com/image/d1d3-400o400o1-swfigjHbpyg9v2JbJQKEVd.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/ValarieRegas",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/valarieregas/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/@valarieregas",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://valarieregas.com",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Speaking Profile - Notist",
+          "url": "https://noti.st/valarieregas",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        1120566
+      ],
+      "fullName": "Valarie Regas",
+      "categoryItems": [
+        432500
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Atlanta, Georgia, USA"
+        }
+      ]
+    },
+    {
       "id": "ac76d40e-1703-43ab-8b89-9402befdf3b1",
       "firstName": "Victor",
       "lastName": "Frye",
@@ -1096,11 +1609,6 @@
           "linkType": "Company_Website"
         },
         {
-          "title": "Portfolio",
-          "url": "https://victorfrye.com/",
-          "linkType": "Other"
-        },
-        {
           "title": "BlueSky",
           "url": "https://bsky.app/profile/victorfrye.com",
           "linkType": "Other"
@@ -1108,6 +1616,11 @@
         {
           "title": "Threads",
           "url": "https://www.threads.net/@thevictorfryeadventure",
+          "linkType": "Other"
+        },
+        {
+          "title": "Portfolio",
+          "url": "https://victorfrye.com/",
           "linkType": "Other"
         }
       ],

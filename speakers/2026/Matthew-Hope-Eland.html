@@ -6,7 +6,7 @@
 
     
 
-    <title>Speakers - Stir Trek</title>
+    <title>Matthew-Hope Eland - Stir Trek</title>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
@@ -15,12 +15,12 @@
     <!-- Twitter Card data -->
     <meta name="twitter:card" value="summary">
     <meta name="twitter:site" value="@StirTrek">
-    <meta name="twitter:title" value="Speakers - Stir Trek">
+    <meta name="twitter:title" value="Matthew-Hope Eland - Stir Trek">
     <meta name="twitter:description" value="Stir Trek is a one-day conference in Columbus, Ohio focused on teaching software developers the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a private screening of a blockbuster film on its opening day.">
     <meta name="twitter:image" value="/icons/opengraph.jpg">
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Speakers - Stir Trek" />
+    <meta property="og:title" content="Matthew-Hope Eland - Stir Trek" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://stirtrek.com" />
     <meta property="og:image" content="/icons/opengraph.jpg" />
@@ -175,130 +175,225 @@
 
             <div class="container">
 
+                <div class="body-content" role="main">
+
+    <style>
+        .speakerAvatarBioStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "avatar     bio         bio";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            column-gap: 40px;
+
+            margin-bottom: 40px;
+        }
+
+        .speakerSessionStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "abstract   abstract    time"
+                "abstract   abstract    stirTrek";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            column-gap: 40px;
+            grid-row-gap: 40px;
+        }
+
+        @media only screen and (max-width:990px) {
+
+            .speakerAvatarBioStrip,
+            .speakerSessionStrip {
+                display: block;
+            }
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel {
+            grid-area: avatar;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+            color: black;
+
+            text-align: center;
+        }
+
+        .speakerSessionStrip .abstractPanel {
+            grid-area: abstract;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerAvatarBioStrip .bioPanel {
+            grid-area: bio;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            grid-area: stirTrek;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+        }
+
+        .speakerSessionStrip .timeAndRoomPanel {
+            grid-area: time;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel,
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%),
+                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%),
+                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                linear-gradient(40deg, #c48b2fb3 0, #f7c16ab3 30%, #dbab5bb3 50%, #dbab5bb3 70%, #c48b2fb3 100%);
+        }
+
+        .stirTrekPanelImage {
+            background-image: url('/images/StirTrek-Emblem-Gold-400x588.png');
+            width: 100%;
+            height: 100%;
+            background-position: center;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body,
+        .speakerSessionStrip .comic-panel-body {
+            position: relative;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-header,
+        .speakerSessionStrip .comic-panel-header {
+            position: absolute;
+            top: -35px;
+            left: -25px;
+        }
+
+        .speakerAvatarBioStrip .speakerImage {
+            width: 80%;
+            border-radius: 50%;
+            border: 6px solid #111c2e;
+            margin: 2em auto 0;
+        }
+
+        .speakerAvatarBioStrip .speakerTagline {
+            vertical-align: middle;
+        }
+
+        .speakerAvatarBioStrip .speakerBio {
+            margin-top: 5%;
+        }
+
+
+        @media only screen and (max-width:990px) {
+
+            .speakerAvatarBioStrip .comic-panel-body,
+            .speakerSessionStrip .comic-panel-body {
+                border: 20px solid white;
+                padding: 30px 20px;
+                margin-bottom: 40px;
+            }
+
+            .speakerAvatarBioStrip .comic-panel-header,
+            .speakerSessionStrip .comic-panel-header {
+                top: -35px;
+                left: -45px;
+            }
+
+            .speakerAvatarBioStrip .speakerImage {
+                display: block;
+                margin: 0px auto;
+                margin-top: 2em;
+            }
+
+            .speakerAvatarBioStrip .speakerTagline {
+                width: 100%;
+                display: block;
+                text-align: center;
+            }
+
+            .speakerSessionStrip .stirTrekPanel {
+                display: none;
+            }
+        }
+    </style>
+
+    <div class="speakerAvatarBioStrip">
+        <div class="avatarPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Matthew-Hope Eland!
+            </div>
+
+            <div>
+                <img src="/images/speakers/2026/Matthew-Hope-Eland.png" class="img-responsive speakerImage">
+            </div>
+
+            <div class="speakerTagline">
+                <h3>
+                    Wizard at Leading EDJE
+                </h3>
+            </div>
+        </div>
+        <div class="bioPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Bio!
+            </div>
+
+            An AI Specialist and Wizard at Leading EDJE who is known to teach software engineering, AI, and data science concepts in the most ridiculous ways possible. Matt has used machine learning to settle debates over whether Die Hard is a Christmas movie, reinforcement learning to drive the behavior of digital squirrels, data analytics to suggest improvements to his favorite TV show, and AI agents to play board games and create an AI agent with the personality of a dog. Matt is the author of &#34;Data Science in .NET with Polyglot Notebooks&#34; and &#34;Refactoring with C#&#34; as well as several LinkedIn Learning courses. Matt helps organize the Central Ohio .NET Developer Group, runs several blogs and a YouTube channel, has a Master’s of Science in Data Analytics, and is a current Microsoft MVP in AI and .NET.
+        </div>
+
+    </div>
+    <a id="abstract"></a>
+    <div class="speakerSessionStrip">
+        <div class="abstractPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Session!
+            </div>
+            
+                <h2>
+                    Ensuring Software Quality in the world of AI Developers
+                </h2>
+                <br>
+                <div>
+                    Like it or not, AI agents are now capable of turning a quickly written paragraph of requirements into a pull request that is ready to be integrated into real-world production applications and it&#39;s now our responsibility to make sure AI doesn&#39;t go rogue and take down prod - or corrupt our data by misunderstanding the requirements or our existing schemas.
+
+In this session we&#39;ll explore strategies to protect our codebases through unit and integration testing, documentation, and code review along with additional ways of providing context and guard rails to our AI agents as they carry out the work we&#39;ve assigned them to do.
+
+By the time we&#39;re done, you&#39;ll have a firm grasp of the problem and understand some helpful options for protecting your codebase from vibe coding mishaps getting YOLOed into prod.
+                </div>
                 
-<div class="body-content" role="main">
+        </div>
 
+        <div class="timeAndRoomPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Where/When?
+            </div>
 
-    <h1 id="This-Year’s-Speakers"><a href="#This-Year’s-Speakers" class="headerlink" title="This Year’s Speakers"></a>This Year’s Speakers</h1><div class="icon-hr"></div>
-
-<p>We’re excited about this awesome group of speakers and sessions for 2026. We’ll update this with the schedule details soon!</p>
-
-
-    
-        <div class="speakersContainer">
-    <article class="row thinRow">
-
-        
-        
-            <div class="col-md-3">
-                <div>
-                    <a href="/speakers/2026/Barret-Blake.html">
-                        <div>
+            
+                
+                        <h2>Schedule TBD</h2>
+                        
 
                             
-
-                            <img class="img-responsive" src="/images/speakers/2026/Barret-Blake.png">
-                        </div>
-                    </a>
-                </div>
-                <div class="bio">
-                    <h3>
-                        <a href="/speakers/2026/Barret-Blake.html">
-                            Barret Blake
-                        </a>
-                    </h3>
-                    
-                    <strong>#MicrosoftMVP, speaker, husband, father, architect...</strong>
-                    <div class="text-muted">
-                        
-                        Microsoft MVP, husband, father, speaker, mentor, writer, architect@NimblePros, developer, former man...
-                    </div>
-                </div>
-            </div>
-        
-            <div class="col-md-3">
-                <div>
-                    <a href="/speakers/2026/Matthew-Hope-Eland.html">
-                        <div>
-
-                            
-
-                            <img class="img-responsive" src="/images/speakers/2026/Matthew-Hope-Eland.png">
-                        </div>
-                    </a>
-                </div>
-                <div class="bio">
-                    <h3>
-                        <a href="/speakers/2026/Matthew-Hope-Eland.html">
-                            Matthew-Hope Eland
-                        </a>
-                    </h3>
-                    
-                    <strong>Wizard at Leading EDJE</strong>
-                    <div class="text-muted">
-                        
-                        An AI Specialist and Wizard at Leading EDJE who is known to teach software engineering, AI, and data...
-                    </div>
-                </div>
-            </div>
-        
-            <div class="col-md-3">
-                <div>
-                    <a href="/speakers/2026/Sarah-Dutkiewicz.html">
-                        <div>
-
-                            
-
-                            <img class="img-responsive" src="/images/speakers/2026/Sarah-Dutkiewicz.jpg">
-                        </div>
-                    </a>
-                </div>
-                <div class="bio">
-                    <h3>
-                        <a href="/speakers/2026/Sarah-Dutkiewicz.html">
-                            Sarah Dutkiewicz
-                        </a>
-                    </h3>
-                    
-                    <strong>Wife, mom, techie - 100% me, unapologetically</strong>
-                    <div class="text-muted">
-                        
-                        Sadukie is a tech polyglot who brings code to life and helps others unlock their potential through t...
-                    </div>
-                </div>
-            </div>
-        
-            <div class="col-md-3">
-                <div>
-                    <a href="/speakers/2026/Vitaliy-Matiyash.html">
-                        <div>
-
-                            
-
-                            <img class="img-responsive" src="/images/speakers/2026/Vitaliy-Matiyash.jpg">
-                        </div>
-                    </a>
-                </div>
-                <div class="bio">
-                    <h3>
-                        <a href="/speakers/2026/Vitaliy-Matiyash.html">
-                            Vitaliy Matiyash
-                        </a>
-                    </h3>
-                    
-                    <strong>Staff Software Engineer, Builder, Problem Solver.</strong>
-                    <div class="text-muted">
-                        
-                        Vitaliy Matiyash is Software Engineer from Columbus, Ohio, working on both front end and back end te...
-                    </div>
-                </div>
-            </div>
-        
-    </article>
-</div>
-    
+                                    
 
 
+        </div>
+
+        <div class="stirTrekPanel comic-panel-body">
+            <div class="stirTrekPanelImage"></div>
+        </div>
+    </div>
 </div>
             </div>
 

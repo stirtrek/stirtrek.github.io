@@ -6,7 +6,7 @@
 
     
 
-    <title>Speakers - Stir Trek</title>
+    <title>Sarah Dutkiewicz - Stir Trek</title>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
@@ -15,12 +15,12 @@
     <!-- Twitter Card data -->
     <meta name="twitter:card" value="summary">
     <meta name="twitter:site" value="@StirTrek">
-    <meta name="twitter:title" value="Speakers - Stir Trek">
+    <meta name="twitter:title" value="Sarah Dutkiewicz - Stir Trek">
     <meta name="twitter:description" value="Stir Trek is a one-day conference in Columbus, Ohio focused on teaching software developers the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a private screening of a blockbuster film on its opening day.">
     <meta name="twitter:image" value="/icons/opengraph.jpg">
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Speakers - Stir Trek" />
+    <meta property="og:title" content="Sarah Dutkiewicz - Stir Trek" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://stirtrek.com" />
     <meta property="og:image" content="/icons/opengraph.jpg" />
@@ -175,130 +175,221 @@
 
             <div class="container">
 
+                <div class="body-content" role="main">
+
+    <style>
+        .speakerAvatarBioStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "avatar     bio         bio";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            column-gap: 40px;
+
+            margin-bottom: 40px;
+        }
+
+        .speakerSessionStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "abstract   abstract    time"
+                "abstract   abstract    stirTrek";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            column-gap: 40px;
+            grid-row-gap: 40px;
+        }
+
+        @media only screen and (max-width:990px) {
+
+            .speakerAvatarBioStrip,
+            .speakerSessionStrip {
+                display: block;
+            }
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel {
+            grid-area: avatar;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+            color: black;
+
+            text-align: center;
+        }
+
+        .speakerSessionStrip .abstractPanel {
+            grid-area: abstract;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerAvatarBioStrip .bioPanel {
+            grid-area: bio;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            grid-area: stirTrek;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+        }
+
+        .speakerSessionStrip .timeAndRoomPanel {
+            grid-area: time;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel,
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%),
+                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%),
+                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                linear-gradient(40deg, #c48b2fb3 0, #f7c16ab3 30%, #dbab5bb3 50%, #dbab5bb3 70%, #c48b2fb3 100%);
+        }
+
+        .stirTrekPanelImage {
+            background-image: url('/images/StirTrek-Emblem-Gold-400x588.png');
+            width: 100%;
+            height: 100%;
+            background-position: center;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body,
+        .speakerSessionStrip .comic-panel-body {
+            position: relative;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-header,
+        .speakerSessionStrip .comic-panel-header {
+            position: absolute;
+            top: -35px;
+            left: -25px;
+        }
+
+        .speakerAvatarBioStrip .speakerImage {
+            width: 80%;
+            border-radius: 50%;
+            border: 6px solid #111c2e;
+            margin: 2em auto 0;
+        }
+
+        .speakerAvatarBioStrip .speakerTagline {
+            vertical-align: middle;
+        }
+
+        .speakerAvatarBioStrip .speakerBio {
+            margin-top: 5%;
+        }
+
+
+        @media only screen and (max-width:990px) {
+
+            .speakerAvatarBioStrip .comic-panel-body,
+            .speakerSessionStrip .comic-panel-body {
+                border: 20px solid white;
+                padding: 30px 20px;
+                margin-bottom: 40px;
+            }
+
+            .speakerAvatarBioStrip .comic-panel-header,
+            .speakerSessionStrip .comic-panel-header {
+                top: -35px;
+                left: -45px;
+            }
+
+            .speakerAvatarBioStrip .speakerImage {
+                display: block;
+                margin: 0px auto;
+                margin-top: 2em;
+            }
+
+            .speakerAvatarBioStrip .speakerTagline {
+                width: 100%;
+                display: block;
+                text-align: center;
+            }
+
+            .speakerSessionStrip .stirTrekPanel {
+                display: none;
+            }
+        }
+    </style>
+
+    <div class="speakerAvatarBioStrip">
+        <div class="avatarPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Sarah Dutkiewicz!
+            </div>
+
+            <div>
+                <img src="/images/speakers/2026/Sarah-Dutkiewicz.jpg" class="img-responsive speakerImage">
+            </div>
+
+            <div class="speakerTagline">
+                <h3>
+                    Wife, mom, techie - 100% me, unapologetically
+                </h3>
+            </div>
+        </div>
+        <div class="bioPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Bio!
+            </div>
+
+            Sadukie is a tech polyglot who brings code to life and helps others unlock their potential through teaching and mentorship. As a seasoned software architect with a sharp eye for user experience, she makes it easy for developers to pick up new tools and hit the ground running. When technical roadblocks pop up, she’s the one who clears the path—breaking down complex ideas and helping teams communicate more effectively. A natural connector and strong community advocate, Sadukie loves bringing people together across the tech world. Whether she’s mentoring, speaking, or juggling life as a full-time mom, her mission stays the same: to make tech more approachable and spark confidence in every coder’s journey.
+        </div>
+
+    </div>
+    <a id="abstract"></a>
+    <div class="speakerSessionStrip">
+        <div class="abstractPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Session!
+            </div>
+            
+                <h2>
+                    Decision Records: Understanding Why Those Decisions Were Made!
+                </h2>
+                <br>
+                <div>
+                    Ever stared at a complex system and thought, &#34;Wait, why was that decision made?!” We’ve all been there – lost in a maze of logic, struggling to track down the root cause of a problem. Decision Records offer a brilliant way to finally unlock that understanding. They’re like having a detailed, searchable log of every decision in your applications – from architectural style to authentication to service discovery and containerization. By capturing these decisions, you build more maintainable, auditable, and, frankly, less frustrating systems. In this session, you will learn how decision records solve problems and will be given ideas of templates that you can implement in your projects today! Let’s ditch the guesswork and start documenting the why – because truly understanding your systems is the key to unlocking its full potential!
+                </div>
                 
-<div class="body-content" role="main">
+        </div>
 
+        <div class="timeAndRoomPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Where/When?
+            </div>
 
-    <h1 id="This-Year’s-Speakers"><a href="#This-Year’s-Speakers" class="headerlink" title="This Year’s Speakers"></a>This Year’s Speakers</h1><div class="icon-hr"></div>
-
-<p>We’re excited about this awesome group of speakers and sessions for 2026. We’ll update this with the schedule details soon!</p>
-
-
-    
-        <div class="speakersContainer">
-    <article class="row thinRow">
-
-        
-        
-            <div class="col-md-3">
-                <div>
-                    <a href="/speakers/2026/Barret-Blake.html">
-                        <div>
+            
+                
+                        <h2>Schedule TBD</h2>
+                        
 
                             
-
-                            <img class="img-responsive" src="/images/speakers/2026/Barret-Blake.png">
-                        </div>
-                    </a>
-                </div>
-                <div class="bio">
-                    <h3>
-                        <a href="/speakers/2026/Barret-Blake.html">
-                            Barret Blake
-                        </a>
-                    </h3>
-                    
-                    <strong>#MicrosoftMVP, speaker, husband, father, architect...</strong>
-                    <div class="text-muted">
-                        
-                        Microsoft MVP, husband, father, speaker, mentor, writer, architect@NimblePros, developer, former man...
-                    </div>
-                </div>
-            </div>
-        
-            <div class="col-md-3">
-                <div>
-                    <a href="/speakers/2026/Matthew-Hope-Eland.html">
-                        <div>
-
-                            
-
-                            <img class="img-responsive" src="/images/speakers/2026/Matthew-Hope-Eland.png">
-                        </div>
-                    </a>
-                </div>
-                <div class="bio">
-                    <h3>
-                        <a href="/speakers/2026/Matthew-Hope-Eland.html">
-                            Matthew-Hope Eland
-                        </a>
-                    </h3>
-                    
-                    <strong>Wizard at Leading EDJE</strong>
-                    <div class="text-muted">
-                        
-                        An AI Specialist and Wizard at Leading EDJE who is known to teach software engineering, AI, and data...
-                    </div>
-                </div>
-            </div>
-        
-            <div class="col-md-3">
-                <div>
-                    <a href="/speakers/2026/Sarah-Dutkiewicz.html">
-                        <div>
-
-                            
-
-                            <img class="img-responsive" src="/images/speakers/2026/Sarah-Dutkiewicz.jpg">
-                        </div>
-                    </a>
-                </div>
-                <div class="bio">
-                    <h3>
-                        <a href="/speakers/2026/Sarah-Dutkiewicz.html">
-                            Sarah Dutkiewicz
-                        </a>
-                    </h3>
-                    
-                    <strong>Wife, mom, techie - 100% me, unapologetically</strong>
-                    <div class="text-muted">
-                        
-                        Sadukie is a tech polyglot who brings code to life and helps others unlock their potential through t...
-                    </div>
-                </div>
-            </div>
-        
-            <div class="col-md-3">
-                <div>
-                    <a href="/speakers/2026/Vitaliy-Matiyash.html">
-                        <div>
-
-                            
-
-                            <img class="img-responsive" src="/images/speakers/2026/Vitaliy-Matiyash.jpg">
-                        </div>
-                    </a>
-                </div>
-                <div class="bio">
-                    <h3>
-                        <a href="/speakers/2026/Vitaliy-Matiyash.html">
-                            Vitaliy Matiyash
-                        </a>
-                    </h3>
-                    
-                    <strong>Staff Software Engineer, Builder, Problem Solver.</strong>
-                    <div class="text-muted">
-                        
-                        Vitaliy Matiyash is Software Engineer from Columbus, Ohio, working on both front end and back end te...
-                    </div>
-                </div>
-            </div>
-        
-    </article>
-</div>
-    
+                                    
 
 
+        </div>
+
+        <div class="stirTrekPanel comic-panel-body">
+            <div class="stirTrekPanelImage"></div>
+        </div>
+    </div>
 </div>
             </div>
 

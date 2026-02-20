@@ -6,7 +6,7 @@
 
     
 
-    <title>Speakers - Stir Trek</title>
+    <title>Barret Blake - Stir Trek</title>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
@@ -15,12 +15,12 @@
     <!-- Twitter Card data -->
     <meta name="twitter:card" value="summary">
     <meta name="twitter:site" value="@StirTrek">
-    <meta name="twitter:title" value="Speakers - Stir Trek">
+    <meta name="twitter:title" value="Barret Blake - Stir Trek">
     <meta name="twitter:description" value="Stir Trek is a one-day conference in Columbus, Ohio focused on teaching software developers the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a private screening of a blockbuster film on its opening day.">
     <meta name="twitter:image" value="/icons/opengraph.jpg">
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Speakers - Stir Trek" />
+    <meta property="og:title" content="Barret Blake - Stir Trek" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://stirtrek.com" />
     <meta property="og:image" content="/icons/opengraph.jpg" />
@@ -175,130 +175,227 @@
 
             <div class="container">
 
+                <div class="body-content" role="main">
+
+    <style>
+        .speakerAvatarBioStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "avatar     bio         bio";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            column-gap: 40px;
+
+            margin-bottom: 40px;
+        }
+
+        .speakerSessionStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "abstract   abstract    time"
+                "abstract   abstract    stirTrek";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            column-gap: 40px;
+            grid-row-gap: 40px;
+        }
+
+        @media only screen and (max-width:990px) {
+
+            .speakerAvatarBioStrip,
+            .speakerSessionStrip {
+                display: block;
+            }
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel {
+            grid-area: avatar;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+            color: black;
+
+            text-align: center;
+        }
+
+        .speakerSessionStrip .abstractPanel {
+            grid-area: abstract;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerAvatarBioStrip .bioPanel {
+            grid-area: bio;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            grid-area: stirTrek;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+        }
+
+        .speakerSessionStrip .timeAndRoomPanel {
+            grid-area: time;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel,
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%),
+                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%),
+                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                linear-gradient(40deg, #c48b2fb3 0, #f7c16ab3 30%, #dbab5bb3 50%, #dbab5bb3 70%, #c48b2fb3 100%);
+        }
+
+        .stirTrekPanelImage {
+            background-image: url('/images/StirTrek-Emblem-Gold-400x588.png');
+            width: 100%;
+            height: 100%;
+            background-position: center;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body,
+        .speakerSessionStrip .comic-panel-body {
+            position: relative;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-header,
+        .speakerSessionStrip .comic-panel-header {
+            position: absolute;
+            top: -35px;
+            left: -25px;
+        }
+
+        .speakerAvatarBioStrip .speakerImage {
+            width: 80%;
+            border-radius: 50%;
+            border: 6px solid #111c2e;
+            margin: 2em auto 0;
+        }
+
+        .speakerAvatarBioStrip .speakerTagline {
+            vertical-align: middle;
+        }
+
+        .speakerAvatarBioStrip .speakerBio {
+            margin-top: 5%;
+        }
+
+
+        @media only screen and (max-width:990px) {
+
+            .speakerAvatarBioStrip .comic-panel-body,
+            .speakerSessionStrip .comic-panel-body {
+                border: 20px solid white;
+                padding: 30px 20px;
+                margin-bottom: 40px;
+            }
+
+            .speakerAvatarBioStrip .comic-panel-header,
+            .speakerSessionStrip .comic-panel-header {
+                top: -35px;
+                left: -45px;
+            }
+
+            .speakerAvatarBioStrip .speakerImage {
+                display: block;
+                margin: 0px auto;
+                margin-top: 2em;
+            }
+
+            .speakerAvatarBioStrip .speakerTagline {
+                width: 100%;
+                display: block;
+                text-align: center;
+            }
+
+            .speakerSessionStrip .stirTrekPanel {
+                display: none;
+            }
+        }
+    </style>
+
+    <div class="speakerAvatarBioStrip">
+        <div class="avatarPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Barret Blake!
+            </div>
+
+            <div>
+                <img src="/images/speakers/2026/Barret-Blake.png" class="img-responsive speakerImage">
+            </div>
+
+            <div class="speakerTagline">
+                <h3>
+                    #MicrosoftMVP, speaker, husband, father, architect@NimblePros, developer, former manager, gamer, LEGO enthusiast, Buckeyes fan, model railroader
+                </h3>
+            </div>
+        </div>
+        <div class="bioPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Bio!
+            </div>
+
+            Microsoft MVP, husband, father, speaker, mentor, writer, architect@NimblePros, developer, former manager, gamer, LEGO enthusiast, Buckeyes fan, model railroader. When I&#39;m not doing all that other stuff I also occasionally develop applications. Find links to my previous speaking, podcasts and sessions at my website: https://barretblake.dev
+        </div>
+
+    </div>
+    <a id="abstract"></a>
+    <div class="speakerSessionStrip">
+        <div class="abstractPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Session!
+            </div>
+            
+                <h2>
+                    When Logs Tell the Whole Story: OpenTelemetry for Beginners
+                </h2>
+                <br>
+                <div>
+                    Failures in production are a certainty. When something goes wrong, the difference between a quick fix and a prolonged outage often comes down to whether your logs tell a clear, connected story.
+
+In this session, we’ll introduce OpenTelemetry as a language-agnostic, vendor-neutral approach to application observability. We&#39;ll start with the fundamentals—what logs, traces, and metrics are, why they matter, and how they work together—before focusing on how to use logging effectively rather than excessively.
+
+Attendees will learn how to structure logs for clarity and correlation, how trace context connects logs across services, and how to choose log levels that provide insight without noise. We’ll also cover common logging anti-patterns, including over-logging and unstructured messages, and how to avoid them to keep both troubleshooting effort and observability costs under control.
+
+Using practical, real-world examples, this session will show how OpenTelemetry logging improves debugging, incident response, and overall system understanding. Whether you’re new to observability or replacing a legacy logging approach, you’ll leave with a clear mental model and concrete best practices you can apply immediately.
+                </div>
                 
-<div class="body-content" role="main">
+        </div>
 
+        <div class="timeAndRoomPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Where/When?
+            </div>
 
-    <h1 id="This-Year’s-Speakers"><a href="#This-Year’s-Speakers" class="headerlink" title="This Year’s Speakers"></a>This Year’s Speakers</h1><div class="icon-hr"></div>
-
-<p>We’re excited about this awesome group of speakers and sessions for 2026. We’ll update this with the schedule details soon!</p>
-
-
-    
-        <div class="speakersContainer">
-    <article class="row thinRow">
-
-        
-        
-            <div class="col-md-3">
-                <div>
-                    <a href="/speakers/2026/Barret-Blake.html">
-                        <div>
+            
+                
+                        <h2>Schedule TBD</h2>
+                        
 
                             
-
-                            <img class="img-responsive" src="/images/speakers/2026/Barret-Blake.png">
-                        </div>
-                    </a>
-                </div>
-                <div class="bio">
-                    <h3>
-                        <a href="/speakers/2026/Barret-Blake.html">
-                            Barret Blake
-                        </a>
-                    </h3>
-                    
-                    <strong>#MicrosoftMVP, speaker, husband, father, architect...</strong>
-                    <div class="text-muted">
-                        
-                        Microsoft MVP, husband, father, speaker, mentor, writer, architect@NimblePros, developer, former man...
-                    </div>
-                </div>
-            </div>
-        
-            <div class="col-md-3">
-                <div>
-                    <a href="/speakers/2026/Matthew-Hope-Eland.html">
-                        <div>
-
-                            
-
-                            <img class="img-responsive" src="/images/speakers/2026/Matthew-Hope-Eland.png">
-                        </div>
-                    </a>
-                </div>
-                <div class="bio">
-                    <h3>
-                        <a href="/speakers/2026/Matthew-Hope-Eland.html">
-                            Matthew-Hope Eland
-                        </a>
-                    </h3>
-                    
-                    <strong>Wizard at Leading EDJE</strong>
-                    <div class="text-muted">
-                        
-                        An AI Specialist and Wizard at Leading EDJE who is known to teach software engineering, AI, and data...
-                    </div>
-                </div>
-            </div>
-        
-            <div class="col-md-3">
-                <div>
-                    <a href="/speakers/2026/Sarah-Dutkiewicz.html">
-                        <div>
-
-                            
-
-                            <img class="img-responsive" src="/images/speakers/2026/Sarah-Dutkiewicz.jpg">
-                        </div>
-                    </a>
-                </div>
-                <div class="bio">
-                    <h3>
-                        <a href="/speakers/2026/Sarah-Dutkiewicz.html">
-                            Sarah Dutkiewicz
-                        </a>
-                    </h3>
-                    
-                    <strong>Wife, mom, techie - 100% me, unapologetically</strong>
-                    <div class="text-muted">
-                        
-                        Sadukie is a tech polyglot who brings code to life and helps others unlock their potential through t...
-                    </div>
-                </div>
-            </div>
-        
-            <div class="col-md-3">
-                <div>
-                    <a href="/speakers/2026/Vitaliy-Matiyash.html">
-                        <div>
-
-                            
-
-                            <img class="img-responsive" src="/images/speakers/2026/Vitaliy-Matiyash.jpg">
-                        </div>
-                    </a>
-                </div>
-                <div class="bio">
-                    <h3>
-                        <a href="/speakers/2026/Vitaliy-Matiyash.html">
-                            Vitaliy Matiyash
-                        </a>
-                    </h3>
-                    
-                    <strong>Staff Software Engineer, Builder, Problem Solver.</strong>
-                    <div class="text-muted">
-                        
-                        Vitaliy Matiyash is Software Engineer from Columbus, Ohio, working on both front end and back end te...
-                    </div>
-                </div>
-            </div>
-        
-    </article>
-</div>
-    
+                                    
 
 
+        </div>
+
+        <div class="stirTrekPanel comic-panel-body">
+            <div class="stirTrekPanelImage"></div>
+        </div>
+    </div>
 </div>
             </div>
 

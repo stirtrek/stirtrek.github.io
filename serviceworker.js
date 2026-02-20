@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1771602581301';
+var CACHE = 'network-or-cache-1771602673578';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -37,20 +37,20 @@ self.addEventListener('fetch', function(evt) {
 "/schedule/index.html",
 "/sessions/",
 "/sessions/index.html",
-"/speakers/2019.html",
 "/speakers/2018.html",
-"/speakers/2021.html",
+"/speakers/2019.html",
 "/speakers/2020.html",
-"/speakers/2022.html",
 "/speakers/2023.html",
-"/speakers/2025.html",
+"/speakers/2022.html",
+"/speakers/2021.html",
 "/speakers/2024.html",
+"/speakers/2025.html",
+"/speakers/index_cfpopenversion.html",
 "/speakers/",
 "/speakers/index.html",
-"/speakers/index_cfpopenversion.html",
+"/speakers/index_noncfpversion.html",
 "/sponsors/",
 "/sponsors/index.html",
-"/speakers/index_noncfpversion.html",
 "/store/",
 "/store/index.html",
 "/virtual/",
@@ -469,7 +469,13 @@ self.addEventListener('fetch', function(evt) {
 "/speakers/2025/Tasha-Penwell.html",
 "/speakers/2025/Taylor-Desseyn.html",
 "/speakers/2025/Tristan-Chiappisi.html",
+"/speakers/2026/Barret-Blake.html",
+"/speakers/2026/Matthew-Hope-Eland.html",
+"/speakers/2026/Sarah-Dutkiewicz.html",
 "/speakers/2026/Vitaliy-Matiyash.html",
+"images/speakers/2026/Barret-Blake.png",
+"images/speakers/2026/Matthew-Hope-Eland.png",
+"images/speakers/2026/Sarah-Dutkiewicz.jpg",
 "images/speakers/2026/Vitaliy-Matiyash.jpg",
 "images/speakers/2026/placeholder.txt"
         ]).catch(function(error) {

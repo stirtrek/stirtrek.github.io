@@ -883,6 +883,33 @@
       "isConfirmed": true
     },
     {
+      "id": "1130802",
+      "title": "The Low Risk Entrepreneur",
+      "description": "We all love what we do and we know that if we were in charge, we could do it better!  But how do you make the leap from employee to the coveted position of \"Your Own Boss\"?  Are you ready to quit your job?  Do you HAVE to quit your job?  In this session, we'll look at the options for those who are considering making the big leap - and ways to make it less scary.  Attendees will learn about ways to be an entrepreneur while minimizing the risk, and even ways that they can \"entrepreneur in place\" at their current gig.  If you are itching to make a change, but not sure how to move forward, this session is for you.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0a6a65cd-0f7c-4490-8168-3ac1d1f0c869"
+      ],
+      "categoryItems": [
+        431279
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1127053",
       "title": "TypeScript You MIGHT Like",
       "description": "TypeScript isn’t just a stricter JavaScript, it’s a toolkit for writing clearer, safer, and more maintainable code. Many developers simply use it minimally after encountering verbose types, confusing errors, or patterns that feel academic.\r\n\r\nThis talk takes a different route: dozens practical, real‑world TypeScript examples you can use today without over‑engineering, or over-hauling, your codebase. Through dozens of bite‑sized examples drawn from actual projects, we’ll cover patterns that reduce bugs, tips that keep types manageable, and features you might be overlooking.\r\n\r\nWhether you’re a JavaScript developer TypeScript‑curious, or an experienced user looking for new tricks, you’ll leave with ideas you can drop straight into your editor; and a new appreciation for TypeScript that you MIGHT actually like.",
@@ -1829,6 +1856,45 @@
         {
           "questionId": 119284,
           "answerValue": "Local"
+        }
+      ]
+    },
+    {
+      "id": "0a6a65cd-0f7c-4490-8168-3ac1d1f0c869",
+      "firstName": "Michelle",
+      "lastName": "Smith",
+      "bio": "Dr. Michelle Smith’s unusual background gives her a fresh perspective on the tech industry and what it takes to build and keep great teams.  She is a veterinarian by education, and she still practices in the State of Ohio.  She’s also been an executive at a global software company and an active leader in her local community.  But her real passions are entrepreneurship and building successful organizations.  Along with her husband and business partner, Steve Smith, Michelle has built and sold several technology companies.  Michelle and her current team (which include several alumni from previous companies!) work with organizations to help them not only improve the quality of their code, but their overall teamwork.",
+      "tagLine": "Builder of Great Teams",
+      "profilePicture": "https://sessionize.com/image/dae0-400o400o1-VZ3TL5yxvcZKJqjVZ2yHyP.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/mickeyme",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/michellesmith6/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://nimblepros.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1130802
+      ],
+      "fullName": "Michelle Smith",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Kent, Ohio"
         }
       ]
     },

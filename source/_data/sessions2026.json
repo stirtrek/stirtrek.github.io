@@ -701,6 +701,33 @@
       "isConfirmed": true
     },
     {
+      "id": "1130963",
+      "title": "Maintenance by Smell: When Reading Every Line Becomes Obsolete",
+      "description": "Classic scenario. You get handed someone else's codebase. The original author has left for a beach somewhere, better gig, or possibly witness protection.\r\n\r\nYesterday: Read it. Line by line. Function by function. Build a mental model. Understand it deeply. Then fix it.\r\n\r\nTime required: Somewhere between \"too long\" and \"I have regrets about my career choices.\"\r\n\r\nToday: Don't read it. Ask AI what it does. Investigate what smells funny. Fix the smell. Move on with your life.\r\n\r\nThis talk is about the shift from syntax comprehension to diagnostic intuition. It's the difference between memorizing every street name in a city versus knowing the neighborhoods well enough to sense when you're heading somewhere sketchy. You don't need to parse every semicolon, you need to recognize when something's wrong.\r\n\r\nThe key skill isn't reading code faster. It's asking better questions. \"What's the happy path here?\" \"Where could this blow up?\" \"Why does this function exist?\" And critically: \"What's the thing the original author was worried about that I should also be worried about?\"\r\n\r\nYou'll walk away with practical patterns for smell-based debugging, the questions that matter more than comprehensive reading, and a significantly improved relationship with legacy code. (It's still not a good relationship. But it's faster.)",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "88b7259a-70ff-4438-a85a-16d87363f3e2"
+      ],
+      "categoryItems": [
+        431281
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1126202",
       "title": "Making and Baking an Application Security Department",
       "description": "Houston, we have a problem: we need more application security professionals. There is a lack of talented folks that can test, document and train developers on how to fix web and mobile applications for security vulnerabilities. Verizon’s estimates of 86% of 2017 breaches are caused by an application security component. This is a problem we must solve. \r\n\r\nBill and his team have been researching and experimenting on ways to solve the application security talent shortage. During this session, Bill will explain what they learned by teaching students of different experience levels. He will answer questions like: \"Who should I start with?\" and  \"What do they need to know to be effective?\" as well as what tools are most appropriate for them to learn.",
@@ -834,6 +861,37 @@
         {
           "questionId": 118564,
           "answerValue": "MagnoliaConf"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1130900",
+      "title": "The 5 Fundamentals of UX Everyone Should Know",
+      "description": "If you are building something (website, API, developer tools, presentation, email, etc.), you are creating a UX (user experience). How do you make that a good user experience?\r\n\r\nIn this session, we will discuss 5 fundamental questions you can use as a framework to put you on the path to creating products your users will love.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b642eabd-7250-4ac5-b3b0-ce01951b88aa"
+      ],
+      "categoryItems": [
+        431278
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "CodeMash"
         }
       ],
       "roomId": null,
@@ -1377,6 +1435,50 @@
         {
           "questionId": 119284,
           "answerValue": "Grand Rapids, MI"
+        }
+      ]
+    },
+    {
+      "id": "b642eabd-7250-4ac5-b3b0-ce01951b88aa",
+      "firstName": "Burton",
+      "lastName": "Smith",
+      "bio": "I am a technical lead at Microsoft working with design systems and web components.\r\n\r\nI am also the creator of various open-source projects like Kickstand UI (a design system built with web components - kickstand-ui.com) and Clarion (a style framework for managing design systems - projectclarion.com).\r\n\r\nIn my free time, I love spending time with my wife and three daughters, practicing martial arts, jamming on my ukulele, and learning new things (usually about software engineering).",
+      "tagLine": "Technical Lead at Microsoft",
+      "profilePicture": "https://sessionize.com/image/a176-400o400o1-RK53QgNQm7o2xatLDp6RRh.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/stuffbreaker",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/burton-smith-48132a34/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://dev.to/stuffbreaker",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.microsoft.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1130900
+      ],
+      "fullName": "Burton Smith",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Columbus, OH"
         }
       ]
     },
@@ -2381,6 +2483,50 @@
         1121838
       ],
       "fullName": "Vitaliy Matiyash",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Columbus, OH"
+        }
+      ]
+    },
+    {
+      "id": "88b7259a-70ff-4438-a85a-16d87363f3e2",
+      "firstName": "William",
+      "lastName": "Klos",
+      "bio": "Bill got his start building monolithic applications on monolithic hardware.  Literally.  The AS/400s of the day were tall, matte black, and had an ominous “hum” about them.  Since then, he has moved steadily towards more distributed pursuits.  Today, Bill works primarily in AI, the cloud across multiple platforms, and specializes in IoT/distributed architectures.  He also believes watching the data streams directly is more satisfying than what any UI has to offer.",
+      "tagLine": "Architect and Chief Golang Advocate for CapTech Consulting",
+      "profilePicture": "https://sessionize.com/image/80fd-400o400o1-W7X2SFpSG8rAwv3ZUmwU5T.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/williamklos",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/wjklos/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/@williamklos",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://captechconsulting.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1130963
+      ],
+      "fullName": "William Klos",
       "categoryItems": [
         432499
       ],

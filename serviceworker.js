@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1771748894015';
+var CACHE = 'network-or-cache-1771755689473';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -27,22 +27,22 @@ self.addEventListener('fetch', function(evt) {
             "/images/speakers/2022/Readme.html",
 "/",
 "/index.html",
-"/404.html",
 "/manifest.json",
-"/recordings/",
-"/recordings/index.html",
+"/404.html",
 "/registration/",
 "/registration/index.html",
+"/recordings/",
+"/recordings/index.html",
 "/schedule/",
 "/schedule/index.html",
 "/sessions/",
 "/sessions/index.html",
 "/speakers/2018.html",
 "/speakers/2019.html",
-"/speakers/2022.html",
-"/speakers/2021.html",
-"/speakers/2023.html",
 "/speakers/2020.html",
+"/speakers/2021.html",
+"/speakers/2022.html",
+"/speakers/2023.html",
 "/speakers/2024.html",
 "/speakers/2025.html",
 "/speakers/",
@@ -77,10 +77,10 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/brands.min.css",
 "/styles/fontawesome-6/css/regular.css",
 "/styles/fontawesome-6/css/regular.min.css",
-"/styles/fontawesome-6/css/solid.min.css",
 "/styles/fontawesome-6/css/solid.css",
-"/styles/fontawesome-6/css/svg-with-js.min.css",
+"/styles/fontawesome-6/css/solid.min.css",
 "/styles/fontawesome-6/css/svg-with-js.css",
+"/styles/fontawesome-6/css/svg-with-js.min.css",
 "/styles/fontawesome-6/css/v4-font-face.css",
 "/styles/fontawesome-6/css/v4-font-face.min.css",
 "/styles/fontawesome-6/css/v5-font-face.css",

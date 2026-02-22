@@ -349,6 +349,33 @@
       "isConfirmed": true
     },
     {
+      "id": "1124728",
+      "title": "Cutting Through the Hype: Building High Performing Teams",
+      "description": "Whether you’re a leader or an individual contributor, you rely on teams to get meaningful work done. We’ve been working in teams forever, yet some groups move fast and deliver consistently while others seem permanently stuck in the slow lane.\r\n\r\nIt’s not because one team has mythical “10x engineers” or the latest AI tools. Those things can amplify performance, but they don’t create it. High‑performing teams are built on a foundation of strong people practices and clear, healthy standards.\r\n\r\nDesigned for new leaders or anyone seeking a fresh perspective, this session breaks down a practical approach to building great teams by focusing on people and standards—and the way the two reinforce each other. By the end of this session, not only will you have ideas on how to improve your team, but also a concrete roadmap you can apply immediately.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "62ebafd8-8470-4415-bc16-6949e5c80f5b"
+      ],
+      "categoryItems": [
+        431279
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1121847",
       "title": "Dark UX Patterns",
       "description": "Congratulations! You are the 1,000,000th visitor to our website. Click here to redeem your prize! Just provide your date of birth and phone number to get started.\r\n\r\nLearn about Dark UX Patterns, how they work, how they trick you and what companies are the worst offenders. Roach Motel, Privacy Zuckering? Let’s visit Dark Patterns Hall of Shame and see who joined the dark side!\r\n\r\nThis talk will break down the most popular dark patterns using real life examples from websites and apps you use every day. If you are a designer, a developer or a product manager, you will learn what to avoid when building your product and how to integrate digital well-being and safety features into your service. If you are an end user, we will teach you how to respond to dark patterns in order to stay safe online, protect your privacy, save your money and keep your sanity.",
@@ -964,6 +991,33 @@
       "isConfirmed": true
     },
     {
+      "id": "1131041",
+      "title": "The Death of Data: AI, Obsolescence, and Your Digital Afterlife",
+      "description": "Our lives are increasingly lived as data—photos, chats, documents, posts, code—but most of it is quietly dying. Formats rot, platforms disappear, accounts get locked, and even our memories fade. In this talk, we’ll explore “The Death of Data” through the lens of Swedish Death Cleaning: what would it look like to intentionally curate, archive, or delete our digital lives before entropy or corporate policy does it for us?\r\n\r\nWe’ll examine how AI is accelerating both preservation and erasure: from generative models trained on our public traces, to AI-powered photo enhancement, summarization, and memorialization tools that can outlive us. Along the way, we’ll look at digital memorials, legacy videos, and time capsules, and ask: what do we actually want to survive us—and who gets to decide? You’ll leave with a new mental model for your digital afterlife and practical ideas for designing a more intentional legacy.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0dfa92b1-c9a1-4910-8e95-a31049f0665a"
+      ],
+      "categoryItems": [
+        431282
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1120257",
       "title": "The DevOops Handbook: A satirical guide to slow software delivery",
       "description": "In the quest for rapid software delivery, DevOps principles are misapplied or skipped entirely, leading to a “DevOops culture.” In this talk we'll explore DevOps missteps through a satirical narrative where missteps and bad practices are presented as the path forward.\r\n\r\nTo start, we’ll discuss deploying code the way of the masochist. This will include a convincing argument for detail-oriented change requests and late-night deployments to prevent any witnesses to our misdeeds. Following this, we will outline our project mismanagement philosophy for maintaining constant chaos: embracing siloes and eliminating feedback loops. Finally, we'll present why quality assurance is overrated and unnecessary. Instead, we'll present the benefits of zero testing and disabling quality and security tools – they are just like that “check engine” light in the car: useless and annoying.\r\n\r\nTogether we’ll see how easy it is to establish the worst DevOps culture for modern software delivery: a DevOops culture! \r\n\r\nOr not. While this talk is tongue in cheek, we will see how to overcome these all-to-real mindsets. By the time we are done, we'll have navigated the treacherous waters of software misadventures with a wink and a smile so we can march forward, turning our ‘oopses’ into opportunities and our code catastrophes into triumphs.",
@@ -1553,6 +1607,50 @@
       ]
     },
     {
+      "id": "62ebafd8-8470-4415-bc16-6949e5c80f5b",
+      "firstName": "Cameron",
+      "lastName": "Presley",
+      "bio": "Cameron Presley is owner of Small Batch Solutions (https://smallbatchsolutions.io/), a speaker, and a Microsoft MVP in Developer Technologies.\r\n\r\nBased out of Charlotte, North Carolina, Cameron has ten years of experience working with start-ups and large enterprise both publicly and privately held to architect solutions, implement solutions, and training developers to be better today than what they were yesterday!\r\n\r\nIn his spare time, Cameron can be found hanging out with his family, playing board games, jamming on the bass guitar, and reading books.",
+      "tagLine": "Owner of Small Batch Solutions - Professional Problem Solver",
+      "profilePicture": "https://sessionize.com/image/d675-400o400o1-UnSBPiUNot5D6eQ1HzDxbH.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/pcameronpresley",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/pcameronpresley",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://blog.thesoftwarementor.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://smallbatchsolutions.io",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1124728
+      ],
+      "fullName": "Cameron Presley",
+      "categoryItems": [
+        432500
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Cornelius, NC"
+        }
+      ]
+    },
+    {
       "id": "c04acb4e-f54c-41d8-881a-8ca1f27e5d98",
       "firstName": "Chris",
       "lastName": "Birie",
@@ -1822,6 +1920,45 @@
         1138947
       ],
       "fullName": "Jamie Dicken",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Columbus, OH"
+        }
+      ]
+    },
+    {
+      "id": "0dfa92b1-c9a1-4910-8e95-a31049f0665a",
+      "firstName": "Jeffrey",
+      "lastName": "Miller",
+      "bio": "Jeffrey Miller is a Senior Technologist, Trainer, Speaker, Tech Lead, DevOps-CI/CD Tools Lead, Graph Data Explorer, and Second Brain Builder.\r\n\r\nJeffrey brings over 25 years of experience helping organizations to bring value to their customers through software. He presents a variety of tech and business topics at user groups and conferences.\r\n\r\nYou can find his writing on knowledge management and tech topics at https://knowledgeplaybook.com/.\r\n\r\nJeffrey and his wife, Brandy, live near Columbus, Ohio, and celebrate their roles as adoptive parents with a fun children’s book called \"Skeeters\" with proceeds supporting adoption. Learn more about the project at https://skeeterbooks.com/adoption/.",
+      "tagLine": "Technologist, Speaker, Author",
+      "profilePicture": "https://sessionize.com/image/e283-400o400o1-wkqqor3X63ekEykbRRnw8c.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/xagronaut",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/jamiller",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://knowledgeplaybook.com/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        1131041
+      ],
+      "fullName": "Jeffrey Miller",
       "categoryItems": [
         432499
       ],

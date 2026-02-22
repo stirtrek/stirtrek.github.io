@@ -6,68 +6,71 @@ if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  {
     
 %>
 
-    <!-- Sponsors -->
-    <div class="row">
-        <div class="col-md-12">
-            <div class="comic-panel-header offset"><%= config.currentYear %> Sponsors</div>
-            <div class="comic-panel-body with-header">
-                This year isn't going to be like any other year. We said that last year and it's still true! Thank you to our great sponsors for making it possible!
-                <br><br>Interested in exploring sponsorship opportunities? Email us:
-                <a href="mailto:sponsors@stirtrek.com?subject=[Stir%20Trek]%20Question%20ref:site">sponsors@stirtrek.com</a>
+    <div class="home-section">
+        <div class="home-benefits-panel comic-panel-light">
+            <h2><%= config.currentYear %> Sponsors</h2>
+            <p class="benefits-subtitle font-ui">
+                Thank you to our sponsors who help make Stir Trek possible!
+            </p>
+
+            <% ["platinum", "gold", "silver", "bronze", "community"].forEach(sponsorTier => {
+                if(thisYearsSponsors.hasOwnProperty(sponsorTier)) { %>
+
+                    <% if(thisYearsSponsors[sponsorTier].length === 0) return; %>
+
+                    <section>
+                        <h3 style="text-align: center; text-transform: capitalize; font-family: 'Space Grotesk', sans-serif; text-shadow: none; color: var(--stir-dark);"><%=sponsorTier%> Sponsors</h3>
+                        <div class="row">
+                            <% for (var sponsor of thisYearsSponsors[sponsorTier] ) {%>
+            
+                                <%
+                                    let bootstrapColumnWidth;
+                                    switch(sponsorTier) {
+                                        case "platinum":
+                                            bootstrapColumnWidth = 12;
+                                            break;
+                                        case "gold":
+                                            bootstrapColumnWidth = 6;
+                                            break;
+                                        case "silver":
+                                            bootstrapColumnWidth = 4;
+                                            break;
+                                        case "bronze":
+                                            bootstrapColumnWidth = 3;
+                                            break;
+                                        case "community":
+                                            bootstrapColumnWidth = 3;
+                                            break;
+                                        default:
+                                            bootstrapColumnWidth = 3;
+                                            break;
+                                    }
+                                %>
+
+                                <div class="col-md-<%=bootstrapColumnWidth%> sponsor sponsor-<%=sponsorTier%>">
+                                    <div class="sponsor-grid-item">
+                                        <a href="<%= sponsor.link %>" aria-label="Takes you to the homepage of <%= sponsor.name %>">
+                                            <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>" alt="Company logo for <%= sponsor.name %>">
+                                        </a>
+                                    </div>
+                                    <div class="sponsorsAbout text-with-comic-panel">
+                                        <div class="sponsorCompany font-ui" style="color: var(--stir-dark);">
+                                            <%= sponsor.name %>
+                                        </div>
+                                    </div>
+                                </div>
+                                    
+                            <% } %> 
+                        </div>
+                    </section>                        
+                <% } %>
+            <% }) %>
+
+            <div style="text-align: right; margin-top: 24px;">
+                <a href="/sponsors/" class="become-sponsor-link font-ui">
+                    Become a sponsor <i class="fa-solid fa-arrow-right" style="margin-left:4px;"></i>
+                </a>
             </div>
         </div>
     </div>
-
-    <% ["platinum", "gold", "silver", "bronze", "community"].forEach(sponsorTier => {
-        if(thisYearsSponsors.hasOwnProperty(sponsorTier)) { %>
-
-            <% if(thisYearsSponsors[sponsorTier].length === 0) return; %>
-
-            <section>
-                <div class="row">
-                    <h2 style="text-align: center;"><%=sponsorTier%> Sponsors</h2>
-                    <% for (var sponsor of thisYearsSponsors[sponsorTier] ) {%>
-    
-                        <%
-                            let bootstrapColumnWidth;
-                            switch(sponsorTier) {
-                                case "platinum":
-                                    bootstrapColumnWidth = 12;
-                                    break;
-                                case "gold":
-                                    bootstrapColumnWidth = 6;
-                                    break;
-                                case "silver":
-                                    bootstrapColumnWidth = 4;
-                                    break;
-                                case "bronze":
-                                    bootstrapColumnWidth = 3;
-                                    break;
-                                case "community":
-                                    bootstrapColumnWidth = 3;
-                                    break;
-                                default:
-                                    bootstrapColumnWidth = 3;
-                                    break;
-                            }
-                        %>
-
-                        <div class="col-md-<%=bootstrapColumnWidth%> sponsor sponsor-<%=sponsorTier%>">
-                            <div class="comic-panel-body">
-                                <a href="<%= sponsor.link %>" aria-label="Takes you to the homepage of <%= sponsor.name %>">
-                                    <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>" alt="Company logo for <%= sponsor.name %>">
-                                </a>
-                            </div>
-                            <div class="sponsorsAbout text-with-comic-panel">
-                                <div class="sponsorCompany">
-                                    <%= sponsor.name %>
-                                </div>
-                            </div>
-                        </div>
-                            
-                    <% } %> 
-                </div>
-            </section>                        
-        <% } %>
-    <% }) %>
 <% } %>

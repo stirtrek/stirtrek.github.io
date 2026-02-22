@@ -25,20 +25,20 @@ Need to get in touch with us? Have a question you need to ask? Have an idea you 
         <h2>Social Media:</h2>
         <div>
             <div class="socialMediaLink">
-                <a href="http://www.Twitter.com/StirTrek" target="_blank" class="btn btn-social-icon btn-twitter"><i class="fa fa-twitter"></i></a>
-                <span>Twitter</span>
+                <a href="https://bsky.app/profile/stirtrek.com" target="_blank" class="btn btn-social-icon"><i class="fa-brands fa-bluesky"></i></a>
+                <span>Bluesky</span>
             </div>
         </div>
         <div>
             <div class="socialMediaLink">
-                <a href="http://www.Facebook.com/StirTrek" target="_blank" class="btn btn-social-icon btn-facebook"><i class="fa fa-facebook"></i></a>
-                <span>Facebook</span>
-            </div>
-        </div>
-        <div>
-            <div class="socialMediaLink">
-                <a href="https://www.linkedin.com/company/stir-trek-conference-inc./about/" target="_blank" class="btn btn-social-icon btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                <a href="https://www.linkedin.com/company/stir-trek-conference-inc./about/" target="_blank" class="btn btn-social-icon"><i class="fa-brands fa-linkedin"></i></a>
                 <span>LinkedIn</span>
+            </div>
+        </div>
+        <div>
+            <div class="socialMediaLink">
+                <a href="https://discord.gg/vkcS8y5Wvz" target="_blank" class="btn btn-social-icon"><i class="fa-brands fa-discord"></i></a>
+                <span>Discord</span>
             </div>
         </div>
         <hr>

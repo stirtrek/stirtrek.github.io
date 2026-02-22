@@ -14,41 +14,30 @@
             
         %>
             <div class="col-md-3">
-                <div>
+                <div class="speaker-card">
                     <a href="<%= speakerPageUrl %>">
-                        <div>
-
+                        <div class="speaker-photo">
                             <%
                                 let fileExtensionRegex = /(?:\.([^.]+))?$/;
                                 let fileExtension = fileExtensionRegex.exec(speaker.profilePicture)[1];
                                 let profilePictureUrl = `/images/speakers/${page.year}/${firstNameTrimmed}-${lastNameTrimmed}.${fileExtension}`;
                             %>
-
-                            <img class="img-responsive" src="<%= profilePictureUrl %>">
+                            <img src="<%= profilePictureUrl %>" alt="<%= speaker.firstName + ' ' + speaker.lastName %>">
                         </div>
                     </a>
-                </div>
-                <div class="bio">
-                    <h3>
-                        <a href="<%= speakerPageUrl %>">
-                            <%= speaker.firstName + " " + speaker.lastName %>
-                        </a>
-                    </h3>
-                    <% 
-                        var title = speaker.tagLine;
-                        if(title.length > 50) {
-                            title = title.slice(0,50) + "...";
-                        }
-                    %>
-                    <strong><%= title %></strong>
-                    <div class="text-muted">
-                        <%
-                            var bio = speaker.bio;
-                            if(bio.length > 100) {
-                                bio = bio.slice(0,100) + "...";
+                    <div class="speaker-info">
+                        <h3>
+                            <a href="<%= speakerPageUrl %>">
+                                <%= speaker.firstName + " " + speaker.lastName %>
+                            </a>
+                        </h3>
+                        <% 
+                            var title = speaker.tagLine;
+                            if(title.length > 50) {
+                                title = title.slice(0,50) + "...";
                             }
                         %>
-                        <%= bio %>
+                        <div class="speaker-title"><%= title %></div>
                     </div>
                 </div>
             </div>
@@ -56,5 +45,5 @@
     </article>
 </div>
 <% if(site.data.lastUpdated && site.data.lastUpdated.timestamp) { %>
-    <p class="small">Last Updated: <%= site.data.lastUpdated.timestamp %></p>
+    <p class="small font-ui" style="color: var(--stir-gray); margin-top: 24px;">Last Updated: <%= site.data.lastUpdated.timestamp %></p>
 <% } %>

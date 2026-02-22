@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 220 14% 12%;
+    --foreground: 210 20% 96%;
+    --card: 220 14% 12%;
+    --card-foreground: 210 20% 96%;
+    --popover: 220 14% 12%;
+    --popover-foreground: 210 20% 96%;
+    --primary: 0 100% 62%;
+    --primary-foreground: 210 20% 96%;
+    --secondary: 43 100% 71%;
+    --secondary-foreground: 220 14% 12%;
+    --muted: 220 10% 20%;
+    --muted-foreground: 220 10% 70%;
+    --accent: 0 100% 62%;
+    --accent-foreground: 210 20% 96%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 210 20% 96%;
+    --input: 220 10% 20%;
+    --ring: 0 100% 62%;
+    --radius: 0px;
+    
+    /* Custom colors */
+    --stir-dark: #1B1D23;
+    --stir-yellow: #FFD36E;
+    --stir-red: #FF3B3B;
+    --stir-white: #F4F6F8;
+    --stir-gray: #B8BDC7;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  
+  html {
+    scroll-behavior: auto;
+  }
+  
+  body {
+    @apply bg-[#1B1D23] text-[#F4F6F8] antialiased;
+    font-family: 'Inter', sans-serif;
+    overflow-x: hidden;
+  }
+}
+
+@layer components {
+  /* Comic Book Typography */
+  .font-comic {
+    font-family: 'Bangers', cursive;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    line-height: 0.95;
+    text-shadow: 3px 3px 0 rgba(0,0,0,0.35);
+  }
+  
+  .font-ui {
+    font-family: 'Space Grotesk', sans-serif;
+  }
+  
+  /* Comic Panel Styles */
+  .comic-panel {
+    @apply relative border-[3px] border-[#F4F6F8];
+    box-shadow: 0 18px 0 rgba(0,0,0,0.35);
+  }
+  
+  .comic-panel-red {
+    @apply relative border-[4px] border-[#FF3B3B];
+    box-shadow: 0 18px 0 rgba(0,0,0,0.35);
+  }
+  
+  .comic-panel-light {
+    @apply relative border-[3px] border-[#1B1D23];
+    box-shadow: 0 18px 0 rgba(0,0,0,0.25);
+  }
+  
+  /* Halftone overlay */
+  .halftone-overlay {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 9999;
+    opacity: 0.08;
+    background-image: radial-gradient(circle, #F4F6F8 1px, transparent 1px);
+    background-size: 8px 8px;
+    mix-blend-mode: overlay;
+  }
+  
+  /* Speed lines decoration */
+  .speed-lines {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    opacity: 0.06;
+    background: repeating-linear-gradient(
+      90deg,
+      transparent,
+      transparent 20px,
+      rgba(244,246,248,0.1) 20px,
+      rgba(244,246,248,0.1) 22px
+    );
+  }
+  
+  /* Button styles */
+  .btn-comic {
+    @apply inline-flex items-center justify-center px-6 py-3 font-ui font-semibold text-sm uppercase tracking-wider;
+    @apply bg-[#FF3B3B] text-white border-2 border-[#F4F6F8];
+    box-shadow: 4px 4px 0 rgba(0,0,0,0.35);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+  }
+  
+  .btn-comic:hover {
+    transform: translateY(-2px) scale(1.02);
+    box-shadow: 6px 6px 0 rgba(0,0,0,0.35);
+  }
+  
+  .btn-comic:active {
+    transform: translateY(0) scale(0.98);
+    box-shadow: 2px 2px 0 rgba(0,0,0,0.35);
+  }
+  
+  /* Section base */
+  .section-pinned {
+    @apply w-screen h-screen relative overflow-hidden;
+    will-change: transform;
+  }
+  
+  /* Navigation */
+  .nav-link {
+    @apply font-ui font-medium text-sm uppercase tracking-wider text-[#F4F6F8];
+    text-shadow: 2px 2px 0 rgba(0,0,0,0.5);
+    transition: color 0.2s ease;
+  }
+  
+  .nav-link:hover {
+    @apply text-[#FFD36E];
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

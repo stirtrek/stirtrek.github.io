@@ -4,81 +4,108 @@ title: Tech & a Flick
 
 
 {% raw %}
-<div class="row" id="stirTrekHeroContainer">
-    <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-        <p class="date">Stir Trek<br/>Columbus, OH</p>
-        <p class="date">5/1/2026</p>
-        <br>
-        <p>Tickets go on sale on February 24, 2026!</p>
+
+<!-- Hero Section -->
+<div id="stirTrekHeroContainer">
+    <div class="hero-grid">
+        <div class="hero-photo-panel comic-panel">
+            <img src="/images/StirTrek-Logo-Banner-906x700.png" alt="Stir Trek logo">
+        </div>
+        <div class="hero-headline-panel comic-panel">
+            <h1>Tech &amp; a Flick</h1>
+            <p class="font-ui">Columbus, OH &bull; AMC Easton 30</p>
+            <p class="hero-desc font-ui">A full day of sessions for developers, designers, and tech leaders&mdash;followed by a blockbuster screening. No fluff. No sales pitches. Just solid learning, then popcorn.</p>
+        </div>
+        <div class="hero-date-panel comic-panel-light">
+            <span class="date-big">5/1/2026</span>
+            <span class="date-detail font-ui">Doors 7:00am &bull; Sessions 8am&ndash;5pm</span>
+        </div>
+        <div class="hero-cta-panel comic-panel-light">
+            <a class="btn-comic" href="#ticketsales">
+                <i class="fa-solid fa-ticket" style="margin-right:8px;"></i>
+                See Ticket Dates
+            </a>
+            <span class="cta-note font-ui">On sale Feb 24</span>
+        </div>
     </div>
 </div>
 
-<div class="row">
-    <div class="col-md-6">
-        <div class="comic-panel-header offset comic-panel-gold">
-            What Is Stir Trek?
-        </div>
-        <div class="comic-panel-body with-header">
-            Stir Trek is a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a screening of a blockbuster film. Pretty sweet, huh?
-            <br>
-            <br>
-            <a href="https://goo.gl/maps/wVdUQNDfXd9Zxd2P8">AMC Easton 30</a>, Columbus, OH
-        </div>
-    </div>
-    <div class="col-md-6">
-        <div class="comic-panel-header offset" id="whatigetheader">What Do Ya get?</div>
-        <div class="comic-panel-body with-header" id="whatiget">
-            <ul>
-                <li><strong>64</strong> Sessions of critical content</li>
-                <li>Well-known regional &amp; national Speakers</li>
-                <li>Panel discussions</li>
-                <li>Screening of a great movie that we'll announce soon</li>
-                <li>Breakfast and Lunch</li>
-                <li>Refreshments during the movie</li>
-                <li>Registration box with fun bonus swag</li>
+<!-- What Is Stir Trek -->
+<div class="home-section">
+    <div class="home-two-panel">
+        <div class="panel-text comic-panel" style="background-color: var(--stir-red); color: #fff; text-shadow: 0 1px 2px rgba(0,0,0,0.3);">
+            <h2 style="color: #fff;">What is Stir Trek?</h2>
+            <ul class="benefits-list-inline">
+                <li><i class="fa-solid fa-chalkboard-user"></i> <span>64 Sessions of critical content</span></li>
+                <li><i class="fa-solid fa-microphone"></i> <span>Well-known regional &amp; national Speakers</span></li>
+                <li><i class="fa-solid fa-comments"></i> <span>Panel discussions</span></li>
+                <li><i class="fa-solid fa-film"></i> <span>Screening of a great movie that we'll announce soon</span></li>
+                <li><i class="fa-solid fa-mug-hot"></i> <span>Breakfast and Lunch</span></li>
+                <li><i class="fa-solid fa-cookie-bite"></i> <span>Refreshments during the movie</span></li>
+                <li><i class="fa-solid fa-box-open"></i> <span>Registration box with fun bonus swag</span></li>
             </ul>
-            <!--<div class="comic-panel-inset"></div>-->
+        </div>
+        <div class="panel-photo comic-panel">
+            <img src="/images/large-images/people-in-theater.jpg" alt="Attendees at Stir Trek">
         </div>
     </div>
 </div>
 
+<!-- Ticket Dates -->
 <a name="ticketsales"></a>
-<div class="row">
-    <div class="col-md-6">
-        <div class="comic-panel-header offset">
-            <!--Important Dates-->
-            Ticket Dates
+<div class="home-section ticket-section">
+    <h2>Ticket Dates</h2>
+    <p class="ticket-subtitle font-ui">Prices go up as the event gets closer. Register early!</p>
+
+    <div class="ticket-tiers">
+        <div class="ticket-card ticket-highlight comic-panel-light">
+            <span class="ticket-tier-name">Super Early Bird</span>
+            <div class="ticket-price">$165</div>
+            <p class="ticket-note">First 50</p>
+            <p class="ticket-date">2/24</p>
+            <button class="btn-comic btn-comic-sm" disabled>On sale 2/24</button>
         </div>
-        <div class="comic-panel-body with-header">
-            Ticket prices go up as the event gets closer because things get more expensive and complicated.<br /><br />Register early!
-            <div>
-{% endraw %}
-Ticket sale dates:
-* **2/24/2026** - $165 super early bird (first 50)
-* **2/24/2026** - $185 early bird
-* **2/28/2026** - $215 standard
-* **3/24/2026** - $255 late... don't be late!
-* **4/1/2026** - $255, but no box is included
-* **4/30/2026** - Ticket sales end at 11:59pm
-* **5/1/2026** - **Stir Trek 2026!!!!**
-  {% raw %}
-  </div>
-            <!--<div style="text-align: center;">
-                <a class="registerNow" href="#">Click here to buy your ticket!</a>
-            </div>-->
-</div>
-</div>
-    <div class="col-md-6">
-        <div class="comic-panel-header offset">Mega Food Drive</div>
-        <div class="comic-panel-body with-header">
-            Be <strong>awesome</strong>. Help those in need. Bring non-perishable food. Donate it. Maybe win something.
-            <p class="small">
-                Any non-perishable donations welcomed, emphasis on shampoo, conditioner, canned tomatoes, canned beans and cereal. Donations will go to charity, and we'll be raffling off an awesome prize.
-            </p>
+        <div class="ticket-card comic-panel-light">
+            <span class="ticket-tier-name">Early Bird</span>
+            <div class="ticket-price">$185</div>
+            <p class="ticket-note">&nbsp;</p>
+            <p class="ticket-date">2/24</p>
+        </div>
+        <div class="ticket-card comic-panel-light">
+            <span class="ticket-tier-name">Standard</span>
+            <div class="ticket-price">$215</div>
+            <p class="ticket-note">&nbsp;</p>
+            <p class="ticket-date">2/28</p>
+        </div>
+        <div class="ticket-card comic-panel-light">
+            <span class="ticket-tier-name">Late</span>
+            <div class="ticket-price">$255</div>
+            <p class="ticket-note">Don't be late!</p>
+            <p class="ticket-date">3/24</p>
+        </div>
+        <div class="ticket-card comic-panel-light">
+            <span class="ticket-tier-name">No Box</span>
+            <div class="ticket-price">$255</div>
+            <p class="ticket-note">No swag box</p>
+            <p class="ticket-date">4/1</p>
         </div>
     </div>
+    <div class="ticket-end-notice comic-panel-light">
+        All ticket sales end 4/30/2026 at 11:59pm
+    </div>
 </div>
+
+<!-- Mega Food Drive -->
+<div class="home-section">
+    <div class="food-drive-panel comic-panel">
+        <h2>Mega Food Drive</h2>
+        <p>Be awesome. Help those in need. Bring non-perishable food. Donate it. Maybe win something.</p>
+        <p class="food-drive-items font-ui">
+            Any non-perishable donations welcomed, emphasis on shampoo, conditioner, canned tomatoes, canned beans and cereal. Donations will go to charity, and we'll be raffling off an awesome prize.
+        </p>
+    </div>
+</div>
+
 {% endraw %}
 
 [//]: # (Looking for the sponsors footer? It's in /themes/layout/index.ejs)
-

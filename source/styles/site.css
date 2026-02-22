@@ -2,8 +2,8 @@
    Stir Trek 2026 — Comic-Book Redesign
    Color palette:
      --stir-dark:   #1B1D23
-     --stir-red:    #FF3B3B
-     --stir-yellow: #FFD36E
+     --stir-gold:   #d7c875
+     --stir-teal:   #63ac91
      --stir-white:  #F4F6F8
      --stir-gray:   #B8BDC7
    ========================================================================== */
@@ -14,8 +14,9 @@ html {
 
 :root {
     --stir-dark: #1B1D23;
-    --stir-red: #FF3B3B;
-    --stir-yellow: #FFD36E;
+    --stir-red: #d7c875;
+    --stir-yellow: #d7c875;
+    --stir-teal: #63ac91;
     --stir-white: #F4F6F8;
     --stir-gray: #B8BDC7;
     --stir-dark-alt: #24262d;
@@ -130,7 +131,7 @@ h3 {
 }
 
 .comic-panel-body a:hover {
-    color: var(--stir-red);
+    color: var(--stir-dark);
 }
 
 .comic-panel-inset {
@@ -156,12 +157,12 @@ h3 {
     display: inline-block;
     z-index: 11;
     background-color: var(--stir-red);
-    color: var(--stir-white);
+    color: var(--stir-dark);
     border: 3px solid #fff;
     outline: 3px solid #000;
     box-shadow: 0 0 0 6px #fff;
     letter-spacing: 0.02em;
-    text-shadow: 2px 2px 0 rgba(0,0,0,0.3);
+    text-shadow: 2px 2px 0 rgba(255,255,255,0.3);
 }
 
 @media screen and (min-width:500px) {
@@ -184,7 +185,7 @@ h3 {
 
 .comic-panel-highlighted {
     background-color: var(--stir-red);
-    color: var(--stir-white);
+    color: var(--stir-dark);
 }
 
 .comic-panel-subdued {
@@ -198,7 +199,7 @@ h3 {
 
 .comic-panel-red {
     background-color: var(--stir-red);
-    color: var(--stir-white);
+    color: var(--stir-dark);
 }
 
 .text-with-comic-panel {
@@ -208,7 +209,9 @@ h3 {
 
 /* --- Button Styles --- */
 
-.btn-comic {
+.btn-comic,
+a.btn-comic,
+a.btn-comic:visited {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -218,19 +221,20 @@ h3 {
     font-size: 0.9rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    background-color: var(--stir-red);
-    color: #fff;
-    border: 2px solid var(--stir-white);
+    background-color: var(--stir-teal);
+    color: var(--stir-dark);
+    border: 2px solid var(--stir-dark);
     box-shadow: 4px 4px 0 rgba(0,0,0,0.35);
     transition: transform 0.15s ease, box-shadow 0.15s ease;
     text-decoration: none;
     cursor: pointer;
 }
 
-.btn-comic:hover {
+.btn-comic:hover,
+a.btn-comic:hover {
     transform: translateY(-2px) scale(1.02);
     box-shadow: 6px 6px 0 rgba(0,0,0,0.35);
-    color: #fff;
+    color: var(--stir-dark);
     text-decoration: none;
 }
 
@@ -298,26 +302,26 @@ h3 {
 .hero-headline-panel h1 {
     font-family: 'Bangers', cursive;
     font-size: 4.5vw;
-    color: #fff;
+    color: var(--stir-dark);
     line-height: 0.95;
-    text-shadow: 3px 3px 0 rgba(0,0,0,0.35);
+    text-shadow: 3px 3px 0 rgba(0,0,0,0.15);
     margin: 0;
 }
 
 .hero-headline-panel p {
     font-family: 'Space Grotesk', sans-serif;
     font-size: 1.1rem;
-    color: #fff;
+    color: var(--stir-dark);
     margin-top: 12px;
-    text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    text-shadow: none;
 }
 
 .hero-headline-panel .hero-desc {
     font-size: 0.95rem;
-    color: #fff;
+    color: rgba(27,29,35,0.85);
     line-height: 1.5;
     margin-top: 10px;
-    text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    text-shadow: none;
 }
 
 .hero-date-panel {
@@ -449,12 +453,12 @@ h3 {
     font-family: 'Space Grotesk', sans-serif;
     font-size: 1.05rem;
     line-height: 1.5;
-    color: #fff;
-    text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    color: inherit;
+    text-shadow: none;
 }
 
 .benefits-list-inline li i {
-    color: #fff;
+    color: inherit;
     margin-top: 4px;
     flex-shrink: 0;
     font-size: 1rem;
@@ -602,7 +606,8 @@ h3 {
 
 .ticket-card .btn-comic-sm[disabled] {
     background-color: var(--stir-dark);
-    opacity: 0.7;
+    color: #fff;
+    opacity: 1;
     cursor: not-allowed;
     transform: none;
     box-shadow: 2px 2px 0 rgba(0,0,0,0.2);
@@ -639,30 +644,30 @@ h3 {
     background-color: var(--stir-red);
     padding: 60px 48px;
     margin-bottom: 60px;
-    color: #fff;
+    color: var(--stir-dark);
 }
 
 .food-drive-panel h2 {
     font-size: 5vw;
     margin-top: 0;
-    color: #fff;
+    color: var(--stir-dark);
 }
 
 .food-drive-panel p {
     font-family: 'Space Grotesk', sans-serif;
     font-size: 1.2rem;
-    color: #fff;
+    color: var(--stir-dark);
     max-width: 600px;
-    text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    text-shadow: none;
 }
 
 .food-drive-panel .food-drive-items {
     font-family: 'Space Grotesk', sans-serif;
     font-size: 1.05rem;
-    color: #fff;
+    color: rgba(27,29,35,0.85);
     margin-top: 16px;
     display: block;
-    text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    text-shadow: none;
 }
 
 @media only screen and (max-width:768px) {
@@ -703,7 +708,7 @@ h3 {
 }
 
 .contact-section .contact-links a:hover {
-    color: var(--stir-red);
+    color: var(--stir-dark);
 }
 
 .contact-section .contact-links .sponsor-email {
@@ -1010,12 +1015,12 @@ a:visited {
 }
 
 a:hover {
-    color: var(--stir-red);
+    color: #fff;
     cursor: pointer;
 }
 
 a:active {
-    color: var(--stir-red);
+    color: #fff;
 }
 
 hr {
@@ -1179,6 +1184,8 @@ p.answer:before {
     border-color: var(--stir-red);
 }
 
+a.become-sponsor-link,
+a.become-sponsor-link:visited,
 .become-sponsor-link {
     display: inline-flex;
     align-items: center;
@@ -1188,16 +1195,17 @@ p.answer:before {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    color: #fff;
-    background-color: var(--stir-red);
+    color: var(--stir-dark);
+    background-color: var(--stir-teal);
     border: 2px solid var(--stir-dark);
     box-shadow: 3px 3px 0 rgba(0,0,0,0.25);
     text-decoration: none;
     transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
+a.become-sponsor-link:hover,
 .become-sponsor-link:hover {
-    color: #fff;
+    color: var(--stir-dark);
     transform: translateY(-2px);
     box-shadow: 5px 5px 0 rgba(0,0,0,0.25);
     text-decoration: none;
@@ -1315,7 +1323,7 @@ p.answer:before {
 }
 
 .speaker-card .speaker-info h3 a:hover {
-    color: var(--stir-red);
+    color: var(--stir-yellow);
 }
 
 .speaker-card .speaker-info .speaker-title {
@@ -1835,7 +1843,7 @@ p.multiline {
     border: 1px solid var(--stir-red);
     border-left-width: 5px;
     border-radius: 3px;
-    background-color: rgba(255,59,59,0.1);
+    background-color: rgba(215,200,117,0.1);
     color: var(--stir-white);
 }
 
@@ -1895,7 +1903,7 @@ p.multiline {
 .btn-orange {
     border: none;
     background-color: var(--stir-red);
-    color: var(--stir-white);
+    color: var(--stir-dark);
 }
 
 .gold-btn,

@@ -33,7 +33,7 @@ title: Tech & a Flick
 <!-- What Is Stir Trek -->
 <div class="home-section">
     <div class="home-two-panel">
-        <div class="panel-text comic-panel" style="background-color: var(--stir-red); color: #fff; text-shadow: 0 1px 2px rgba(0,0,0,0.3);">
+        <div class="panel-text comic-panel" style="background-color: var(--stir-teal); color: #fff;">
             <h2 style="color: #fff;">What is Stir Trek?</h2>
             <ul class="benefits-list-inline">
                 <li><i class="fa-solid fa-chalkboard-user"></i> <span>64 Sessions of critical content</span></li>

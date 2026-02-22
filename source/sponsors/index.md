@@ -161,9 +161,9 @@ alias:
             </ol>
             <p><em>If you are interested in capitalizing on your engagement in a special way, Stir Trek is always interested in partnering to support creative ideas that benefit our community in some way.</em></p>
             <br>
-            <div style="text-align: center; padding: 20px; background-color: #d7c875; border: 4px solid #111c2e; margin-top: 20px;">
-                <h3 style="margin-top: 0; color: #000;">Have Questions?</h3>
-                <p style="font-size: 1.2em; margin-bottom: 0; color: #000;"><strong><a href="mailto:sponsors@stirtrek.com" style="color: #34344c;">sponsors@stirtrek.com</a></strong></p>
+            <div style="text-align: center; padding: 20px; background-color: #63ac91; border: 4px solid #111c2e; margin-top: 20px;">
+                <h3 style="margin-top: 0; color: #fff;">Have Questions?</h3>
+                <p style="font-size: 1.2em; margin-bottom: 0; color: #fff;"><strong><a href="mailto:sponsors@stirtrek.com" style="color: #fff;">sponsors@stirtrek.com</a></strong></p>
             </div>
         </div>
     </div>

@@ -260,6 +260,33 @@
       "isConfirmed": true
     },
     {
+      "id": "1123968",
+      "title": "Choosing an AI Coding Workflow",
+      "description": "AI is here, but deciding what to use and how is difficult. In this fast-paced session, we'll explore 15 key decisions for coding effectively in AI including IDEs, models, harnesses, instructions, permissions, agents, and more. You'll leave this session with a variety of ideas for how to rethink your AI-related tooling, patterns, and workflows.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "424f7166-a882-473f-b05e-15aed7f9ff86"
+      ],
+      "categoryItems": [
+        431276
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1119405",
       "title": "Claude Code in Action: Transforming Custom Software Development with Agentic AI",
       "description": "AI is no longer just a developer productivity boost — it’s becoming a core driver of how software is designed, built, and delivered. At the forefront of this shift is Claude Code from Anthropic, a powerful, agentic AI coding partner that’s redefining what’s possible in modern development.\r\n\r\nIn this webinar, we’ll cut through the hype and show decision-makers how Claude Code can directly accelerate delivery, improve quality, and unlock new capabilities in your custom software projects. We’ll explore:\r\n\r\nAgentic development in action — how Claude Code plans, reasons, and collaborates with your team to produce production-ready code\r\n\r\nIntegration across leading IDEs and environments for seamless adoption\r\n\r\nReal-world use cases where Claude delivers transformational ROI — from rapid prototyping to complex refactoring and ongoing maintenance\r\n\r\nPricing models and considerations for scaling across teams\r\nHow we at ArchitectNow incorporate Claude into our own development process to deliver faster and smarter\r\n \r\n\r\nThrough live examples, you’ll see why Claude Code stands apart — not just as another coding assistant, but as a strategic tool for driving efficiency, innovation, and competitive advantage in custom software development.\r\n\r\nWhether you’re a CTO, CEO, development manager, or project leader, you’ll leave with a clear understanding of how Claude Code fits into your AI adoption strategy — and how to start realizing its benefits immediately.",
@@ -312,6 +339,33 @@
         {
           "questionId": 118564,
           "answerValue": "Beer City Code"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1124728",
+      "title": "Cutting Through the Hype: Building High Performing Teams",
+      "description": "Whether you’re a leader or an individual contributor, you rely on teams to get meaningful work done. We’ve been working in teams forever, yet some groups move fast and deliver consistently while others seem permanently stuck in the slow lane.\r\n\r\nIt’s not because one team has mythical “10x engineers” or the latest AI tools. Those things can amplify performance, but they don’t create it. High‑performing teams are built on a foundation of strong people practices and clear, healthy standards.\r\n\r\nDesigned for new leaders or anyone seeking a fresh perspective, this session breaks down a practical approach to building great teams by focusing on people and standards—and the way the two reinforce each other. By the end of this session, not only will you have ideas on how to improve your team, but also a concrete roadmap you can apply immediately.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "62ebafd8-8470-4415-bc16-6949e5c80f5b"
+      ],
+      "categoryItems": [
+        431279
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
         }
       ],
       "roomId": null,
@@ -496,6 +550,33 @@
       "isConfirmed": true
     },
     {
+      "id": "1123967",
+      "title": "Generating Quality Code with AI",
+      "description": "\"AI writes slop\" is a common concern. So how can we use LLMs to not just generate good code, but to *ensure* quality? Let's explore how to create effective \"guardrails\" via generated tests, spec-driven development, instruction approaches, prompting techniques, context management, and more. After this session you'll have a list of ideas for improving your AI coding workflow.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "424f7166-a882-473f-b05e-15aed7f9ff86"
+      ],
+      "categoryItems": [
+        431276
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1127279",
       "title": "Ghosts in the Machine: Tampering with the JavaScript Supply Chain",
       "description": "What if the code you’re shipping isn’t yours anymore? The scariest JavaScript bugs don’t always come from your team, they come from open-source packages that have been possessed. This talk digs deep into the dark world of supply chain tampering: what it looks like, how it happens, and what modern devs can do to protect themselves. We’ll talk tamper detection, package provenance, lockfile integrity, and even how to set up GitHub Actions to ward off malevolent merges. Come for the security, stay for the stories of cursed commits.",
@@ -647,6 +728,33 @@
       "isConfirmed": true
     },
     {
+      "id": "1130963",
+      "title": "Maintenance by Smell: When Reading Every Line Becomes Obsolete",
+      "description": "Classic scenario. You get handed someone else's codebase. The original author has left for a beach somewhere, better gig, or possibly witness protection.\r\n\r\nYesterday: Read it. Line by line. Function by function. Build a mental model. Understand it deeply. Then fix it.\r\n\r\nTime required: Somewhere between \"too long\" and \"I have regrets about my career choices.\"\r\n\r\nToday: Don't read it. Ask AI what it does. Investigate what smells funny. Fix the smell. Move on with your life.\r\n\r\nThis talk is about the shift from syntax comprehension to diagnostic intuition. It's the difference between memorizing every street name in a city versus knowing the neighborhoods well enough to sense when you're heading somewhere sketchy. You don't need to parse every semicolon, you need to recognize when something's wrong.\r\n\r\nThe key skill isn't reading code faster. It's asking better questions. \"What's the happy path here?\" \"Where could this blow up?\" \"Why does this function exist?\" And critically: \"What's the thing the original author was worried about that I should also be worried about?\"\r\n\r\nYou'll walk away with practical patterns for smell-based debugging, the questions that matter more than comprehensive reading, and a significantly improved relationship with legacy code. (It's still not a good relationship. But it's faster.)",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "88b7259a-70ff-4438-a85a-16d87363f3e2"
+      ],
+      "categoryItems": [
+        431281
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1126202",
       "title": "Making and Baking an Application Security Department",
       "description": "Houston, we have a problem: we need more application security professionals. There is a lack of talented folks that can test, document and train developers on how to fix web and mobile applications for security vulnerabilities. Verizon’s estimates of 86% of 2017 breaches are caused by an application security component. This is a problem we must solve. \r\n\r\nBill and his team have been researching and experimenting on ways to solve the application security talent shortage. During this session, Bill will explain what they learned by teaching students of different experience levels. He will answer questions like: \"Who should I start with?\" and  \"What do they need to know to be effective?\" as well as what tools are most appropriate for them to learn.",
@@ -668,6 +776,37 @@
         {
           "questionId": 118564,
           "answerValue": "BSides Cleveland"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1125439",
+      "title": "Managing for Failure",
+      "description": "Oh no! Your team is doing a fabulous job. You never have to have difficult conversations, everyone is getting their work done to a high standard and on time. The higher ups are super happy with you. No one on your team has failed in longer than you can remember! How could you let this happen and what can you do to fix it?\r\n\r\nFailure is an important part of growing your team - both the individuals on it and the cohesiveness of the whole. Without it creative problem solving can stagnate, learning slows to a crawl, and the work you get done is less than it could have been. \r\n\r\nWe’ll dive in to strategies for helping your team (including you!) feel comfortable with failure, as well as strategies for keeping YOUR boss happy when it happens. We’ll also explore low-stakes ways to introduce failure into your team, so you’re not taking down prod to prove a point. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "645adf23-f177-4ca8-b3c5-f2217624f488"
+      ],
+      "categoryItems": [
+        431279
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "KCDC, Momentum"
         }
       ],
       "roomId": null,
@@ -790,6 +929,37 @@
       "isConfirmed": true
     },
     {
+      "id": "1130900",
+      "title": "The 5 Fundamentals of UX Everyone Should Know",
+      "description": "If you are building something (website, API, developer tools, presentation, email, etc.), you are creating a UX (user experience). How do you make that a good user experience?\r\n\r\nIn this session, we will discuss 5 fundamental questions you can use as a framework to put you on the path to creating products your users will love.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b642eabd-7250-4ac5-b3b0-ce01951b88aa"
+      ],
+      "categoryItems": [
+        431278
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "CodeMash"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1127331",
       "title": "The Dark Side of Microservices",
       "description": "You want to solve a problem with your application, and you want to use microservices. Ok, so now you have two problems...\r\n\r\nMicroservices continue to be a huge buzzword in our industry, and in some scenarios they can offer significant benefits. But building microservice-based systems requires substantially different skills than traditional applications, and in many cases the added complexity isn't warranted.\r\n\r\nIn this session, you'll learn when NOT to use a microservice, and many ways in which you can design your microservice architecture the wrong way, eliminating the benefits your organization had hoped to reap from them. Hopefully you'll leave knowing a few pitfalls to avoid, or at least if you already have some of the scars from past implementations, you may find the session therapeutic.",
@@ -811,6 +981,33 @@
         {
           "questionId": 118564,
           "answerValue": "DevIntersection 2025 and others; always gets good ratings/feedback. "
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1131041",
+      "title": "The Death of Data: AI, Obsolescence, and Your Digital Afterlife",
+      "description": "Our lives are increasingly lived as data—photos, chats, documents, posts, code—but most of it is quietly dying. Formats rot, platforms disappear, accounts get locked, and even our memories fade. In this talk, we’ll explore “The Death of Data” through the lens of Swedish Death Cleaning: what would it look like to intentionally curate, archive, or delete our digital lives before entropy or corporate policy does it for us?\r\n\r\nWe’ll examine how AI is accelerating both preservation and erasure: from generative models trained on our public traces, to AI-powered photo enhancement, summarization, and memorialization tools that can outlive us. Along the way, we’ll look at digital memorials, legacy videos, and time capsules, and ask: what do we actually want to survive us—and who gets to decide? You’ll leave with a new mental model for your digital afterlife and practical ideas for designing a more intentional legacy.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0dfa92b1-c9a1-4910-8e95-a31049f0665a"
+      ],
+      "categoryItems": [
+        431282
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
         }
       ],
       "roomId": null,
@@ -883,6 +1080,64 @@
       "isConfirmed": true
     },
     {
+      "id": "1130802",
+      "title": "The Low Risk Entrepreneur",
+      "description": "We all love what we do and we know that if we were in charge, we could do it better!  But how do you make the leap from employee to the coveted position of \"Your Own Boss\"?  Are you ready to quit your job?  Do you HAVE to quit your job?  In this session, we'll look at the options for those who are considering making the big leap - and ways to make it less scary.  Attendees will learn about ways to be an entrepreneur while minimizing the risk, and even ways that they can \"entrepreneur in place\" at their current gig.  If you are itching to make a change, but not sure how to move forward, this session is for you.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0a6a65cd-0f7c-4490-8168-3ac1d1f0c869"
+      ],
+      "categoryItems": [
+        431279
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1143160",
+      "title": "The Vibe Analyst's Guide to AI Coding: From Autocomplete to Agent Orchestration",
+      "description": "Whether you're experimenting with AI coding assistants or managing teams that use them, understanding \"vibe coding\" is essential to navigating software development in 2026. This talk decodes the shift from autocomplete to autonomous agents, examining how developers went from tab completion to directing parallel AI workers overnight. You'll gain a clear framework for the 10 key capabilities developers now demand—from background agents and persistent memory to multi-agent orchestration and rollback systems—along with practical insights into which tools deliver and which fall short based on real practitioner feedback.\r\n\r\nBeyond the hype, you'll learn to navigate the defining tension shaping the market: the battle between human-in-loop control (audit trails, permissions, safety) and vibe coding's \"trust the output, not the process\" philosophy. Through examples like Ralph Wiggum's contextual pressure cooker, Gas Town's agent orchestration, and emerging patterns in spec-driven development, you'll understand where the ecosystem is headed and how to make informed decisions about adopting, managing, or building AI-assisted development tools. Whether you're a hands-on developer, engineering leader, or product strategist, you'll leave with a pragmatic understanding of what actually matters in this rapidly evolving space—and what's just noise.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3d9afdca-043f-4a20-820c-f25ef3e85c1a"
+      ],
+      "categoryItems": [
+        431276
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Dynatrace Perform. Not recorded. Jeff Blankenburg invited me to expand it and apply to present at Stir Trek"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1127053",
       "title": "TypeScript You MIGHT Like",
       "description": "TypeScript isn’t just a stricter JavaScript, it’s a toolkit for writing clearer, safer, and more maintainable code. Many developers simply use it minimally after encountering verbose types, confusing errors, or patterns that feel academic.\r\n\r\nThis talk takes a different route: dozens practical, real‑world TypeScript examples you can use today without over‑engineering, or over-hauling, your codebase. Through dozens of bite‑sized examples drawn from actual projects, we’ll cover patterns that reduce bugs, tips that keep types manageable, and features you might be overlooking.\r\n\r\nWhether you’re a JavaScript developer TypeScript‑curious, or an experienced user looking for new tricks, you’ll leave with ideas you can drop straight into your editor; and a new appreciation for TypeScript that you MIGHT actually like.",
@@ -931,6 +1186,37 @@
         {
           "questionId": 118564,
           "answerValue": "I gave a workshop version of this with great feedback at CodeMash. This is the summarized version. "
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1128674",
+      "title": "Vector Databases and Embeddings Demystified",
+      "description": "Ever wonder how Netflix knows you'll love that obscure documentary about penguins, or how Google Photos finds every picture of your dog even though you never tagged them? The secret sauce is vector embeddings and similarity search – technologies that convert complex data (text, images, audio) into high-dimensional numerical representations that capture semantic meaning. While traditional databases excel at exact matches (\"find user ID 12345\"), vector databases revolutionize \"find similar\" queries by measuring relationships between these numerical vectors using techniques like cosine similarity. This session demystifies the math and technology behind the AI-powered search and recommendation systems you use every day.\r\n\r\nYou'll discover how companies transform words into vectors where \"king\" - \"man\" + \"woman\" actually equals \"queen\" in mathematical space, explore the architecture behind popular vector databases like Pinecone and see live demonstrations of building semantic search systems. We'll cover real-world applications from RAG-powered chatbots to fraud detection, show you how to implement document similarity search in 20 lines of Python, and discuss the practical considerations of scaling vector systems to billions of embeddings. Whether you're building recommendation engines, semantic search, or AI-powered applications, this session provides the foundational knowledge to leverage vector databases effectively in your projects.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "83dd13b2-4171-47e4-bece-ebf60502b632"
+      ],
+      "categoryItems": [
+        431276
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "CodeMash"
         }
       ],
       "roomId": null,
@@ -995,6 +1281,45 @@
         {
           "questionId": 119284,
           "answerValue": "Columbus"
+        }
+      ]
+    },
+    {
+      "id": "645adf23-f177-4ca8-b3c5-f2217624f488",
+      "firstName": "Amy",
+      "lastName": "Norris",
+      "bio": "Amy is a graphic designer turned software developer currently building weird, cool, and unconventional stuff at Dimensional Innovations. On her off time she can be found volunteering with Kansas City Women in Tech, reading or playing Dungeons and Dragons.\r\n",
+      "tagLine": "Software Development Supervisor, Dimensional Innovations",
+      "profilePicture": "https://sessionize.com/image/cb31-400o400o1-4nPNWQbLmwf81JL3XiS1n.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/norrisamy/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.dimin.com",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Bluesky",
+          "url": "https://bsky.app/profile/amynorris.bsky.social",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        1125439
+      ],
+      "fullName": "Amy Norris",
+      "categoryItems": [
+        432500
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Kansas City, MO, USA"
         }
       ]
     },
@@ -1269,6 +1594,94 @@
       ]
     },
     {
+      "id": "b642eabd-7250-4ac5-b3b0-ce01951b88aa",
+      "firstName": "Burton",
+      "lastName": "Smith",
+      "bio": "I am a technical lead at Microsoft working with design systems and web components.\r\n\r\nI am also the creator of various open-source projects like Kickstand UI (a design system built with web components - kickstand-ui.com) and Clarion (a style framework for managing design systems - projectclarion.com).\r\n\r\nIn my free time, I love spending time with my wife and three daughters, practicing martial arts, jamming on my ukulele, and learning new things (usually about software engineering).",
+      "tagLine": "Technical Lead at Microsoft",
+      "profilePicture": "https://sessionize.com/image/a176-400o400o1-RK53QgNQm7o2xatLDp6RRh.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/stuffbreaker",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/burton-smith-48132a34/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://dev.to/stuffbreaker",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.microsoft.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1130900
+      ],
+      "fullName": "Burton Smith",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Columbus, OH"
+        }
+      ]
+    },
+    {
+      "id": "62ebafd8-8470-4415-bc16-6949e5c80f5b",
+      "firstName": "Cameron",
+      "lastName": "Presley",
+      "bio": "Cameron Presley is owner of Small Batch Solutions (https://smallbatchsolutions.io/), a speaker, and a Microsoft MVP in Developer Technologies.\r\n\r\nBased out of Charlotte, North Carolina, Cameron has ten years of experience working with start-ups and large enterprise both publicly and privately held to architect solutions, implement solutions, and training developers to be better today than what they were yesterday!\r\n\r\nIn his spare time, Cameron can be found hanging out with his family, playing board games, jamming on the bass guitar, and reading books.",
+      "tagLine": "Owner of Small Batch Solutions - Professional Problem Solver",
+      "profilePicture": "https://sessionize.com/image/d675-400o400o1-UnSBPiUNot5D6eQ1HzDxbH.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/pcameronpresley",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/pcameronpresley",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://blog.thesoftwarementor.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://smallbatchsolutions.io",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1124728
+      ],
+      "fullName": "Cameron Presley",
+      "categoryItems": [
+        432500
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Cornelius, NC"
+        }
+      ]
+    },
+    {
       "id": "c04acb4e-f54c-41d8-881a-8ca1f27e5d98",
       "firstName": "Chris",
       "lastName": "Birie",
@@ -1349,6 +1762,36 @@
         {
           "questionId": 119284,
           "answerValue": "Detroit"
+        }
+      ]
+    },
+    {
+      "id": "424f7166-a882-473f-b05e-15aed7f9ff86",
+      "firstName": "Cory",
+      "lastName": "House",
+      "bio": "Cory is an author, a 12 time Microsoft MVP, and international speaker. He is founder of reactjsconsulting, where he helps companies transition to React. He has trained over 10,000 software developers at conferences and businesses worldwide. Cory has authored over a dozen courses on JavaScript, React, C#, testing, and web development on Pluralsight and Dometrain. He shares software development tips daily on X as @housecor.",
+      "tagLine": "Author / Consultant",
+      "profilePicture": "https://sessionize.com/image/059c-400o400o1-aYUBFjC32EiUaZTNmypwoN.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "http://www.twitter.com/housecor",
+          "linkType": "Twitter"
+        }
+      ],
+      "sessions": [
+        1123968,
+        1123967
+      ],
+      "fullName": "Cory House",
+      "categoryItems": [
+        432501
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Kansas City, KS"
         }
       ]
     },
@@ -1485,6 +1928,50 @@
       ]
     },
     {
+      "id": "83dd13b2-4171-47e4-bece-ebf60502b632",
+      "firstName": "Jackie",
+      "lastName": "Gleason",
+      "bio": "Jackie Gleason is an experienced principal engineer for a property management startup named PurePM. Mr. Gleason has almost 20 years of experience in the Columbus area including Chase, NetJets, PUCO, OCLC and the Columbus Foundation. Jackie has presented previously at CodeMash, M3, and other local user groups on topics such as Java, Javascript, mobile development, testing and more. In addition to development Jackie enjoys 3D printing, billiards, and traveling. For more information or to reach out go to https://jackiergleason.com.",
+      "tagLine": "THE Jackie Gleason",
+      "profilePicture": "https://sessionize.com/image/8d0f-400o400o1-WDCUTq1g2H5foSNXicToKc.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/LifeIsTooShort",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jackie-gleason-5a52114/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://jackiergleason.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://thejackiegleason.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1128674
+      ],
+      "fullName": "Jackie Gleason",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Columbus"
+        }
+      ]
+    },
+    {
       "id": "d06fd6a1-87cf-4d20-a5e0-2dd64c2039bb",
       "firstName": "Jamie",
       "lastName": "Dicken",
@@ -1508,6 +1995,45 @@
         1138947
       ],
       "fullName": "Jamie Dicken",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Columbus, OH"
+        }
+      ]
+    },
+    {
+      "id": "0dfa92b1-c9a1-4910-8e95-a31049f0665a",
+      "firstName": "Jeffrey",
+      "lastName": "Miller",
+      "bio": "Jeffrey Miller is a Senior Technologist, Trainer, Speaker, Tech Lead, DevOps-CI/CD Tools Lead, Graph Data Explorer, and Second Brain Builder.\r\n\r\nJeffrey brings over 25 years of experience helping organizations to bring value to their customers through software. He presents a variety of tech and business topics at user groups and conferences.\r\n\r\nYou can find his writing on knowledge management and tech topics at https://knowledgeplaybook.com/.\r\n\r\nJeffrey and his wife, Brandy, live near Columbus, Ohio, and celebrate their roles as adoptive parents with a fun children’s book called \"Skeeters\" with proceeds supporting adoption. Learn more about the project at https://skeeterbooks.com/adoption/.",
+      "tagLine": "Technologist, Speaker, Author",
+      "profilePicture": "https://sessionize.com/image/e283-400o400o1-wkqqor3X63ekEykbRRnw8c.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/xagronaut",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/jamiller",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://knowledgeplaybook.com/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        1131041
+      ],
+      "fullName": "Jeffrey Miller",
       "categoryItems": [
         432499
       ],
@@ -1564,6 +2090,50 @@
         {
           "questionId": 119284,
           "answerValue": "Phoenix, AZ"
+        }
+      ]
+    },
+    {
+      "id": "3d9afdca-043f-4a20-820c-f25ef3e85c1a",
+      "firstName": "Kate",
+      "lastName": "Holterhoff",
+      "bio": "Kate Holterhoff, an industry analyst with RedMonk, has a background in frontend engineering, academic research, and technical communication. Kate comes to RedMonk from the digital marketing sector and brings with her expertise in frontend engineering, QA, accessibility, and scrum best practices.\r\n\r\nBefore pursuing a career in the tech industry Kate taught writing and communication courses at several East Coast universities. She earned a PhD from Carnegie Mellon in 2016 and was awarded a postdoctoral fellowship (2016-2018) at Georgia Tech, where she is currently an affiliated researcher.",
+      "tagLine": "RedMonk",
+      "profilePicture": "https://sessionize.com/image/17cf-400o400o1-SzRZf9EesD647sn1tD3V5S.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/KateHolterhoff",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/kateholterhoff/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://redmonk.com/kholterhoff/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://redmonk.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1143160
+      ],
+      "fullName": "Kate Holterhoff",
+      "categoryItems": [
+        432501
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Atlanta, GA"
         }
       ]
     },
@@ -1829,6 +2399,45 @@
         {
           "questionId": 119284,
           "answerValue": "Local"
+        }
+      ]
+    },
+    {
+      "id": "0a6a65cd-0f7c-4490-8168-3ac1d1f0c869",
+      "firstName": "Michelle",
+      "lastName": "Smith",
+      "bio": "Dr. Michelle Smith’s unusual background gives her a fresh perspective on the tech industry and what it takes to build and keep great teams.  She is a veterinarian by education, and she still practices in the State of Ohio.  She’s also been an executive at a global software company and an active leader in her local community.  But her real passions are entrepreneurship and building successful organizations.  Along with her husband and business partner, Steve Smith, Michelle has built and sold several technology companies.  Michelle and her current team (which include several alumni from previous companies!) work with organizations to help them not only improve the quality of their code, but their overall teamwork.",
+      "tagLine": "Builder of Great Teams",
+      "profilePicture": "https://sessionize.com/image/dae0-400o400o1-VZ3TL5yxvcZKJqjVZ2yHyP.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/mickeyme",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/michellesmith6/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://nimblepros.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1130802
+      ],
+      "fullName": "Michelle Smith",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Kent, Ohio"
         }
       ]
     },
@@ -2156,6 +2765,50 @@
         1121838
       ],
       "fullName": "Vitaliy Matiyash",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Columbus, OH"
+        }
+      ]
+    },
+    {
+      "id": "88b7259a-70ff-4438-a85a-16d87363f3e2",
+      "firstName": "William",
+      "lastName": "Klos",
+      "bio": "Bill got his start building monolithic applications on monolithic hardware.  Literally.  The AS/400s of the day were tall, matte black, and had an ominous “hum” about them.  Since then, he has moved steadily towards more distributed pursuits.  Today, Bill works primarily in AI, the cloud across multiple platforms, and specializes in IoT/distributed architectures.  He also believes watching the data streams directly is more satisfying than what any UI has to offer.",
+      "tagLine": "Architect and Chief Golang Advocate for CapTech Consulting",
+      "profilePicture": "https://sessionize.com/image/80fd-400o400o1-W7X2SFpSG8rAwv3ZUmwU5T.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/williamklos",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/wjklos/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/@williamklos",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://captechconsulting.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1130963
+      ],
+      "fullName": "William Klos",
       "categoryItems": [
         432499
       ],

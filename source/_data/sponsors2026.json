@@ -24,6 +24,12 @@
                 "link": "https://www.powersync.com/",
                 "description": "PowerSync is a sync engine that consists of two components: a service that enables high-scalability partial data syncing and a set of client SDKs that manage client-side persistence, consistency, reactivity and syncing write operations back.",
                 "logo": "/images/sponsors/powersync_350x200.jpg"
+            },
+            {
+                "name": "CGI",
+                "link": "https://www.cgi.com/",
+                "description": "Founded in 1976, CGI is a leading global IT and business consulting firm. We offer insights-driven, outcomes-based services to boost your investment returns. Operating in 21 industries across 400 locations, we deliver scalable, sustainable solutions.",
+                "logo": "/images/sponsors/cgi_350x200v2.jpg"
             }
         ],
         "bronze":[

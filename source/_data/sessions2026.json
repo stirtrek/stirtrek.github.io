@@ -318,6 +318,37 @@
       "isConfirmed": true
     },
     {
+      "id": "1121367",
+      "title": "Comparing Promises, Observables, and Signals",
+      "description": "Since JavaScript is single threaded, special techniques are necessary for asynchronous and reactive programming.\r\n\r\nPromises were introduced a few years ago to enable asynchronous programming without the dreaded \"callback hell\". They are a very powerful tool, especially with the async/await syntactic sugar.\r\n\r\nBut limitations in promises opened the door to observables and their associated operator functions. They are much more powerful than promises overall, but can also be much more confusing.\r\n\r\nSignals are yet another approach, one that has gained a lot of attention since Angular adopted them in 2023, but it solves completely different problems.\r\n\r\nNow we have three different reactive primitives. Why? What's the difference between them? Why would you choose one over the other? Or will they all have complementary roles in a modern JavaScript/TypeScript application?\r\n\r\nCome to this session to get the answers to these questions, and more!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b6e26226-8a65-46e7-9538-d0924f53d895"
+      ],
+      "categoryItems": [
+        431274
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Yes, at UtahJS 2025 (recording: https://www.youtube.com/watch?v=hzyWBleh6e8) and CodeMash 2026 (slides: https://tinyurl.com/cm2026ReactivePrimitives)"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1123888",
       "title": "Configurable cloud-native applications with .NET Aspire",
       "description": "Building apps for the cloud has always been hard. Developers are typically pulled away from writing their business logic and what matters most to deal with the complexity of the cloud.\r\n\r\nTo help simplify cloud app complexity, Microsoft has introduced .NET Aspire.  It includes a curated set of components that make sense to use in your C# projects.\r\n\r\n.NET Aspire makes it easy to discover, acquire, and configure essential dependencies for cloud-native apps from the very beginning of your project. \r\n\r\nJoin me to walk through the set-up and usage of this new, powerful tool that can make any .NET developer more efficient in delivering cloud-native applications.",
@@ -2296,6 +2327,50 @@
         {
           "questionId": 119284,
           "answerValue": "St. Louis, MO"
+        }
+      ]
+    },
+    {
+      "id": "b6e26226-8a65-46e7-9538-d0924f53d895",
+      "firstName": "Lance",
+      "lastName": "Finney",
+      "bio": "After more than a decade focused on the Java desktop world, I've been in the Angular/JavaScript/TypeScript space since 2014.\r\n\r\nAs an Angular Google Developer Expert, I develop Angular projects and mentor junior Angular developers on my projects, and I used to be an instructor with Angular Boot Camp. Father of two, software developer, and world traveler (when I can sneak it in).",
+      "tagLine": "Angular Developer and Instructor",
+      "profilePicture": "https://sessionize.com/image/2e8c-400o400o1-GkU4FL6QoA2dns4fwJF7gE.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "http://twitter.com/LMFinneyCoder",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/lmfinney/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://lmfinney.wordpress.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.inficon.com/en",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1121367
+      ],
+      "fullName": "Lance Finney",
+      "categoryItems": [
+        432501
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "St. Louis, Missouri, USA (STL)"
         }
       ]
     },

@@ -1168,7 +1168,8 @@ p.answer:before {
     min-height: 30px;
 }
 
-.sponsor-grid-item {
+.sponsor-grid-item,
+.sponsor .comic-panel-body {
     border: 2px solid rgba(27,29,35,0.2);
     padding: 24px;
     display: flex;
@@ -1177,7 +1178,7 @@ p.answer:before {
     justify-content: center;
     transition: border-color 0.2s;
     min-height: 120px;
-    background-color: #fff;
+    background-color: #fff !important;
 }
 
 .sponsor-grid-item:hover {

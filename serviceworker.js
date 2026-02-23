@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1771879319290';
+var CACHE = 'network-or-cache-1771885758517';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -29,10 +29,10 @@ self.addEventListener('fetch', function(evt) {
 "/index.html",
 "/manifest.json",
 "/404.html",
-"/recordings/",
-"/recordings/index.html",
 "/registration/",
 "/registration/index.html",
+"/recordings/",
+"/recordings/index.html",
 "/schedule/",
 "/schedule/index.html",
 "/sessions/",
@@ -47,8 +47,8 @@ self.addEventListener('fetch', function(evt) {
 "/speakers/2025.html",
 "/speakers/",
 "/speakers/index.html",
-"/speakers/index_noncfpversion.html",
 "/speakers/index_cfpopenversion.html",
+"/speakers/index_noncfpversion.html",
 "/sponsors/",
 "/sponsors/index.html",
 "/store/",
@@ -63,11 +63,11 @@ self.addEventListener('fetch', function(evt) {
 "/info/codeofconduct/index.html",
 "/info/commitmenttodiversity/",
 "/info/commitmenttodiversity/index.html",
-"/info/contact/",
-"/info/contact/index.html",
 "/info/history/",
 "/info/history/index.html",
 "/info/press/2024-02-10.html",
+"/info/contact/",
+"/info/contact/index.html",
 "/info/press/",
 "/info/press/index.html",
 "/info/privacy/",
@@ -83,8 +83,8 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/svg-with-js.min.css",
 "/styles/fontawesome-6/css/v4-font-face.css",
 "/styles/fontawesome-6/css/v4-font-face.min.css",
-"/styles/fontawesome-6/css/v5-font-face.css",
 "/styles/fontawesome-6/css/v5-font-face.min.css",
+"/styles/fontawesome-6/css/v5-font-face.css",
 "/styles/bootstrap-button-social.min.css",
 "/styles/fontawesome-4.min.css",
 "/styles/fontawesome-6/css/brands.css",
@@ -106,8 +106,8 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/all.css",
 "/styles/bootstrap.min.css",
 "/styles/bootstrap.css",
-"/scripts/jquery-3.3.0.js",
 "/scripts/jquery-3.3.1.js",
+"/scripts/jquery-3.3.0.js",
 "/speakers/2018/Adam-Pasternack.html",
 "/speakers/2018/Angel-Thomas.html",
 "/speakers/2018/Anna-Heiermann.html",

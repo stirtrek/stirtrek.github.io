@@ -40,11 +40,15 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="96x96" href="/icons/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
-    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileColor" content="#1B1D23">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
+    <meta name="theme-color" content="#1B1D23">
     <link rel="manifest" href="/manifest.json">
 
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
 
     <link href="/styles/bootstrap.min.css" rel="stylesheet">
     <link href="/styles/bootstrap-button-social.min.css" rel="stylesheet">
@@ -77,6 +81,7 @@
 <meta name="generator" content="Hexo 7.3.0"></head>
     
     <body>
+        <div class="halftone-overlay"></div>
 
         
         <div class="bodyWrapper" id="home-page">
@@ -180,170 +185,201 @@
 
 
     
-<div class="row" id="stirTrekHeroContainer">
-    <div id="dateAndCostContainer" class="comic-panel-body comic-panel-subdued">
-        <p class="date">Stir Trek<br/>Columbus, OH</p>
-        <p class="date">5/1/2026</p>
-        <br>
-        <p>Tickets go on sale on February 24, 2026!</p>
+
+<!-- Hero Section -->
+<div id="stirTrekHeroContainer">
+    <div class="hero-grid">
+        <div class="hero-photo-panel comic-panel">
+            <img src="/images/StirTrek-Logo-Banner-906x700.png" alt="Stir Trek logo">
+        </div>
+        <div class="hero-headline-panel comic-panel">
+            <h1>Tech &amp; a Flick</h1>
+            <p class="font-ui">Columbus, OH &bull; AMC Easton 30</p>
+            <p class="hero-desc font-ui">A full day of sessions for developers, designers, and tech leaders&mdash;followed by a blockbuster screening. No fluff. No sales pitches. Just solid learning, then popcorn.</p>
+        </div>
+        <div class="hero-date-panel comic-panel-light">
+            <span class="date-big">5/1/2026</span>
+            <span class="date-detail font-ui">Doors 7:00am &bull; Sessions 8am&ndash;5pm</span>
+        </div>
+        <div class="hero-cta-panel comic-panel-light">
+            <a class="btn-comic" href="#ticketsales">
+                <i class="fa-solid fa-ticket" style="margin-right:8px;"></i>
+                See Ticket Dates
+            </a>
+            <span class="cta-note font-ui">On sale Feb 24</span>
+        </div>
     </div>
 </div>
 
-<div class="row">
-    <div class="col-md-6">
-        <div class="comic-panel-header offset comic-panel-gold">
-            What Is Stir Trek?
-        </div>
-        <div class="comic-panel-body with-header">
-            Stir Trek is a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a screening of a blockbuster film. Pretty sweet, huh?
-            <br>
-            <br>
-            <a target="_blank" rel="noopener" href="https://goo.gl/maps/wVdUQNDfXd9Zxd2P8">AMC Easton 30</a>, Columbus, OH
-        </div>
-    </div>
-    <div class="col-md-6">
-        <div class="comic-panel-header offset" id="whatigetheader">What Do Ya get?</div>
-        <div class="comic-panel-body with-header" id="whatiget">
-            <ul>
-                <li><strong>64</strong> Sessions of critical content</li>
-                <li>Well-known regional &amp; national Speakers</li>
-                <li>Panel discussions</li>
-                <li>Screening of a great movie that we'll announce soon</li>
-                <li>Breakfast and Lunch</li>
-                <li>Refreshments during the movie</li>
-                <li>Registration box with fun bonus swag</li>
+<!-- What Is Stir Trek -->
+<div class="home-section">
+    <div class="home-two-panel">
+        <div class="panel-text comic-panel" style="background-color: var(--stir-teal); color: #fff;">
+            <h2 style="color: #fff;">What is Stir Trek?</h2>
+            <ul class="benefits-list-inline">
+                <li><i class="fa-solid fa-chalkboard-user"></i> <span>64 Sessions of critical content</span></li>
+                <li><i class="fa-solid fa-microphone"></i> <span>Well-known regional &amp; national Speakers</span></li>
+                <li><i class="fa-solid fa-comments"></i> <span>Panel discussions</span></li>
+                <li><i class="fa-solid fa-film"></i> <span>Screening of a great movie that we'll announce soon</span></li>
+                <li><i class="fa-solid fa-mug-hot"></i> <span>Breakfast and Lunch</span></li>
+                <li><i class="fa-solid fa-cookie-bite"></i> <span>Refreshments during the movie</span></li>
+                <li><i class="fa-solid fa-box-open"></i> <span>Registration box with fun bonus swag</span></li>
             </ul>
-            <!--<div class="comic-panel-inset"></div>-->
+        </div>
+        <div class="panel-photo comic-panel">
+            <img src="/images/large-images/people-in-theater.jpg" alt="Attendees at Stir Trek">
         </div>
     </div>
 </div>
 
+<!-- Ticket Dates -->
 <a name="ticketsales"></a>
-<div class="row">
-    <div class="col-md-6">
-        <div class="comic-panel-header offset">
-            <!--Important Dates-->
-            Ticket Dates
-        </div>
-        <div class="comic-panel-body with-header">
-            Ticket prices go up as the event gets closer because things get more expensive and complicated.<br /><br />Register early!
-            <div>
+<div class="home-section ticket-section">
+    <h2>Ticket Dates</h2>
+    <p class="ticket-subtitle font-ui">Prices go up as the event gets closer. Register early!</p>
 
-<p>Ticket sale dates:</p>
-<ul>
-<li><strong>2&#x2F;24&#x2F;2026</strong> - $165 super early bird (first 50)</li>
-<li><strong>2&#x2F;24&#x2F;2026</strong> - $185 early bird</li>
-<li><strong>2&#x2F;28&#x2F;2026</strong> - $215 standard</li>
-<li><strong>3&#x2F;24&#x2F;2026</strong> - $255 late… don’t be late!</li>
-<li><strong>4&#x2F;1&#x2F;2026</strong> - $255, but no box is included</li>
-<li><strong>4&#x2F;30&#x2F;2026</strong> - Ticket sales end at 11:59pm</li>
-<li><strong>5&#x2F;1&#x2F;2026</strong> - <strong>Stir Trek 2026!!!!</strong>
-  </div>
-            <!--<div style="text-align: center;">
-                <a class="registerNow" href="#">Click here to buy your ticket!</a>
-            </div>-->
-</div>
-</div>
-    <div class="col-md-6">
-        <div class="comic-panel-header offset">Mega Food Drive</div>
-        <div class="comic-panel-body with-header">
-            Be <strong>awesome</strong>. Help those in need. Bring non-perishable food. Donate it. Maybe win something.
-            <p class="small">
-                Any non-perishable donations welcomed, emphasis on shampoo, conditioner, canned tomatoes, canned beans and cereal. Donations will go to charity, and we'll be raffling off an awesome prize.
-            </p>
+    <div class="ticket-tiers">
+        <div class="ticket-card ticket-highlight comic-panel-light">
+            <span class="ticket-tier-name">Super Early Bird</span>
+            <div class="ticket-price">$165</div>
+            <p class="ticket-note">First 50</p>
+            <p class="ticket-date">2/24</p>
+            <button class="btn-comic btn-comic-sm" disabled>On sale 2/24</button>
+        </div>
+        <div class="ticket-card comic-panel-light">
+            <span class="ticket-tier-name">Early Bird</span>
+            <div class="ticket-price">$185</div>
+            <p class="ticket-note">&nbsp;</p>
+            <p class="ticket-date">2/24</p>
+        </div>
+        <div class="ticket-card comic-panel-light">
+            <span class="ticket-tier-name">Standard</span>
+            <div class="ticket-price">$215</div>
+            <p class="ticket-note">&nbsp;</p>
+            <p class="ticket-date">2/28</p>
+        </div>
+        <div class="ticket-card comic-panel-light">
+            <span class="ticket-tier-name">Late</span>
+            <div class="ticket-price">$255</div>
+            <p class="ticket-note">Don't be late!</p>
+            <p class="ticket-date">3/24</p>
+        </div>
+        <div class="ticket-card comic-panel-light">
+            <span class="ticket-tier-name">No Box</span>
+            <div class="ticket-price">$255</div>
+            <p class="ticket-note">No swag box</p>
+            <p class="ticket-date">4/1</p>
         </div>
     </div>
+    <div class="ticket-end-notice comic-panel-light">
+        All ticket sales end 4/30/2026 at 11:59pm
+    </div>
 </div>
-</li>
-</ul>
+
+<!-- Mega Food Drive -->
+<div class="home-section">
+    <div class="food-drive-panel comic-panel">
+        <h2>Mega Food Drive</h2>
+        <p>Be awesome. Help those in need. Bring non-perishable food. Donate it. Maybe win something.</p>
+        <p class="food-drive-items font-ui">
+            Any non-perishable donations welcomed, emphasis on shampoo, conditioner, canned tomatoes, canned beans and cereal. Donations will go to charity, and we'll be raffling off an awesome prize.
+        </p>
+    </div>
+</div>
+
+
+
 
 
     
         
 
-    <!-- Sponsors -->
-    <div class="row">
-        <div class="col-md-12">
-            <div class="comic-panel-header offset">2026 Sponsors</div>
-            <div class="comic-panel-body with-header">
-                This year isn't going to be like any other year. We said that last year and it's still true! Thank you to our great sponsors for making it possible!
-                <br><br>Interested in exploring sponsorship opportunities? Email us:
-                <a href="mailto:sponsors@stirtrek.com?subject=[Stir%20Trek]%20Question%20ref:site">sponsors@stirtrek.com</a>
+    <div class="home-section">
+        <div class="home-benefits-panel comic-panel-light">
+            <h2>2026 Sponsors</h2>
+            <p class="benefits-subtitle font-ui">
+                Thank you to our sponsors who help make Stir Trek possible!
+            </p>
+
+            
+
+                    
+
+                    
+
+                    
+
+                    <section>
+                        <h3 style="text-align: center; text-transform: capitalize; font-family: 'Space Grotesk', sans-serif; text-shadow: none; color: var(--stir-dark);">silver Sponsors</h3>
+                        <div class="row">
+                            
+            
+                                
+
+                                <div class="col-md-4 sponsor sponsor-silver">
+                                    <div class="sponsor-grid-item">
+                                        <a target="_blank" rel="noopener" href="https://www.revelit.com" aria-label="Takes you to the homepage of Revel IT">
+                                            <img class="img-responsive" src="/images/sponsors/revelit_350x200.png" title="Revel IT is a Dublin, OH based IT staffing and consulting firm focused on delivering exceptional tech talent and workforce solutions." alt="Company logo for Revel IT">
+                                        </a>
+                                    </div>
+                                    <div class="sponsorsAbout text-with-comic-panel">
+                                        <div class="sponsorCompany font-ui" style="color: var(--stir-dark);">
+                                            Revel IT
+                                        </div>
+                                    </div>
+                                </div>
+                                    
+                            
+            
+                                
+
+                                <div class="col-md-4 sponsor sponsor-silver">
+                                    <div class="sponsor-grid-item">
+                                        <a target="_blank" rel="noopener" href="https://bpstechnologies.com/" aria-label="Takes you to the homepage of BPS Technologies">
+                                            <img class="img-responsive" src="/images/sponsors/bpstechnologies_350x200.png" title="BPS Technologies partners with organizations to solve complex challenges through innovative IT talent, staffing, and consulting solutions —grounded in a people-first focus on quality and accountability." alt="Company logo for BPS Technologies">
+                                        </a>
+                                    </div>
+                                    <div class="sponsorsAbout text-with-comic-panel">
+                                        <div class="sponsorCompany font-ui" style="color: var(--stir-dark);">
+                                            BPS Technologies
+                                        </div>
+                                    </div>
+                                </div>
+                                    
+                            
+            
+                                
+
+                                <div class="col-md-4 sponsor sponsor-silver">
+                                    <div class="sponsor-grid-item">
+                                        <a target="_blank" rel="noopener" href="https://www.powersync.com/" aria-label="Takes you to the homepage of PowerSync">
+                                            <img class="img-responsive" src="/images/sponsors/powersync_350x200.jpg" title="PowerSync is a sync engine that consists of two components: a service that enables high-scalability partial data syncing and a set of client SDKs that manage client-side persistence, consistency, reactivity and syncing write operations back." alt="Company logo for PowerSync">
+                                        </a>
+                                    </div>
+                                    <div class="sponsorsAbout text-with-comic-panel">
+                                        <div class="sponsorCompany font-ui" style="color: var(--stir-dark);">
+                                            PowerSync
+                                        </div>
+                                    </div>
+                                </div>
+                                    
+                             
+                        </div>
+                    </section>                        
+                
+            
+
+                    
+
+                    
+
+            <div style="text-align: right; margin-top: 24px;">
+                <a href="/sponsors/" class="become-sponsor-link font-ui">
+                    Become a sponsor <i class="fa-solid fa-arrow-right" style="margin-left:4px;"></i>
+                </a>
             </div>
         </div>
     </div>
-
-    
-
-            
-
-            
-
-            
-
-            <section>
-                <div class="row">
-                    <h2 style="text-align: center;">silver Sponsors</h2>
-                    
-    
-                        
-
-                        <div class="col-md-4 sponsor sponsor-silver">
-                            <div class="comic-panel-body">
-                                <a target="_blank" rel="noopener" href="https://www.revelit.com" aria-label="Takes you to the homepage of Revel IT">
-                                    <img class="img-responsive" src="/images/sponsors/revelit_350x200.png" title="Revel IT is a Dublin, OH based IT staffing and consulting firm focused on delivering exceptional tech talent and workforce solutions." alt="Company logo for Revel IT">
-                                </a>
-                            </div>
-                            <div class="sponsorsAbout text-with-comic-panel">
-                                <div class="sponsorCompany">
-                                    Revel IT
-                                </div>
-                            </div>
-                        </div>
-                            
-                    
-    
-                        
-
-                        <div class="col-md-4 sponsor sponsor-silver">
-                            <div class="comic-panel-body">
-                                <a target="_blank" rel="noopener" href="https://bpstechnologies.com/" aria-label="Takes you to the homepage of BPS Technologies">
-                                    <img class="img-responsive" src="/images/sponsors/bpstechnologies_350x200.png" title="BPS Technologies partners with organizations to solve complex challenges through innovative IT talent, staffing, and consulting solutions —grounded in a people-first focus on quality and accountability." alt="Company logo for BPS Technologies">
-                                </a>
-                            </div>
-                            <div class="sponsorsAbout text-with-comic-panel">
-                                <div class="sponsorCompany">
-                                    BPS Technologies
-                                </div>
-                            </div>
-                        </div>
-                            
-                    
-    
-                        
-
-                        <div class="col-md-4 sponsor sponsor-silver">
-                            <div class="comic-panel-body">
-                                <a target="_blank" rel="noopener" href="https://www.powersync.com/" aria-label="Takes you to the homepage of PowerSync">
-                                    <img class="img-responsive" src="/images/sponsors/powersync_350x200.jpg" title="PowerSync is a sync engine that consists of two components: a service that enables high-scalability partial data syncing and a set of client SDKs that manage client-side persistence, consistency, reactivity and syncing write operations back." alt="Company logo for PowerSync">
-                                </a>
-                            </div>
-                            <div class="sponsorsAbout text-with-comic-panel">
-                                <div class="sponsorCompany">
-                                    PowerSync
-                                </div>
-                            </div>
-                        </div>
-                            
-                     
-                </div>
-            </section>                        
-        
-    
-
-            
-
-            
 
     
 
@@ -354,69 +390,62 @@
             <footer class="hidden-print" id="siteFooter">
 
     <div id="footerNavContainer" class="container">
-
         <div class="footer-main-content row">
             <div class="col-md-3 footer-logo-container">
                 <img class="footer-logo img-responsive" src="/images/header-logo.png" alt="Stir Trek logo">
             </div>
-            <div class="col-xs-9 col-md-9">
+            <div class="col-xs-9 col-md-5">
                 <article class="no-margin-bottom">
-                    <div class="footer-links-container">
-                        <p>
-                            <strong>
-                                <em>LET'S GET CONNECTED.</em>
-                            </strong>
-                            <br> Email us:
-                            <a href="mailto:info@stirtrek.com?subject=[Stir%20Trek]%20Question%20ref:site"
-                                aria-label="Link to send Stir Trek an email">info@stirtrek.com</a>
+                    <div class="footer-links-container font-ui">
+                        <p style="margin-top:0;">
+                            <strong>Let's Get Connected.</strong>
+                            <br>
+                            <a href="mailto:info@stirtrek.com?subject=[Stir%20Trek]%20Question%20ref:site" aria-label="Link to send Stir Trek an email">
+                                <i class="fa-solid fa-envelope" style="margin-right:6px;"></i>info@stirtrek.com
+                            </a>
                         </p>
 
                         <div id="footerSocialMediaIcons">
-                            Social us: &nbsp;&nbsp;
                             <div class="footer-social-icon-container">
                                 <a href="https://www.linkedin.com/company/stir-trek-conference-inc./" target="_blank" aria-label="Link to Stir Trek's LinkedIn page">
                                     <i class="fa-brands fa-linkedin"></i>
                                 </a>
+                                &nbsp;
                                 <a href="https://bsky.app/profile/stirtrek.com" target="_blank" aria-label="Link to Stir Trek's Bluesky page">
                                     <i class="fa-brands fa-bluesky"></i>
                                 </a>
                             </div>
                         </div>
 
-                        <p>
+                        <p style="font-size: 0.85rem; opacity: 0.7;">
                             Thank you to <a target="_blank" rel="noopener" href="https://nate-lovett.com/">Nate Lovett</a> for our great art.
                         </p>
-
                     </div>
                 </article>
             </div>
+            <div class="col-md-4 text-right" style="padding-top: 30px;">
+                <a href="/info/codeofconduct/" class="font-ui" style="font-size: 0.9rem;">Code of Conduct</a>
+                <br>
+                <a href="/info/privacy/" class="font-ui" style="font-size: 0.9rem;">Privacy Policy</a>
+                <br>
+                <a href="mailto:sponsors@stirtrek.com" class="font-ui" style="font-size: 0.85rem; opacity: 0.7;">
+                    Sponsorships: sponsors@stirtrek.com
+                </a>
+            </div>
         </div>
     </div>
-    <div id="footerCredits">
-        <div class="container clearfix small">
-            <div class="pull-left">
-                <span>
-                    All Rights Reserved. Copyright 2026 Stir Trek Conference.
-                </span>
-            </div>
 
+    <div id="footerCredits">
+        <div class="container clearfix small" style="text-align: center;">
+            <span>
+                &copy; 2026 Stir Trek Conference.
+            </span>
+            <span style="margin-left: 8px;">
+                Made with <i class="fa-solid fa-heart footer-heart"></i> in Columbus
+            </span>
         </div>
     </div>
 </footer>
-<script type="text/javascript">
-
-    // GOOGLE analytics
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-21832077-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function () {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-
-</script>
         </div>
     </body>
 </html>

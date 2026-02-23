@@ -40,11 +40,15 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="96x96" href="/icons/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
-    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileColor" content="#1B1D23">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
+    <meta name="theme-color" content="#1B1D23">
     <link rel="manifest" href="/manifest.json">
 
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
 
     <link href="/styles/bootstrap.min.css" rel="stylesheet">
     <link href="/styles/bootstrap-button-social.min.css" rel="stylesheet">
@@ -77,6 +81,7 @@
 <meta name="generator" content="Hexo 7.3.0"></head>
     
     <body>
+        <div class="halftone-overlay"></div>
 
         
         <div class="bodyWrapper">
@@ -188,7 +193,7 @@
             grid-template-columns: 1fr 1fr 1fr;
             column-gap: 40px;
 
-            margin-bottom: 40px;
+            margin-bottom: 80px;
         }
 
         .speakerSessionStrip {
@@ -282,7 +287,7 @@
         .speakerAvatarBioStrip .speakerImage {
             width: 80%;
             border-radius: 50%;
-            border: 6px solid #111c2e;
+            border: 6px solid var(--stir-dark);
             margin: 2em auto 0;
         }
 
@@ -299,7 +304,7 @@
 
             .speakerAvatarBioStrip .comic-panel-body,
             .speakerSessionStrip .comic-panel-body {
-                border: 20px solid white;
+                border: 6px solid var(--stir-dark);
                 padding: 30px 20px;
                 margin-bottom: 40px;
             }
@@ -429,69 +434,62 @@ This talk will be a joint presentation with Cozmo on stage charming his way into
             <footer class="hidden-print" id="siteFooter">
 
     <div id="footerNavContainer" class="container">
-
         <div class="footer-main-content row">
             <div class="col-md-3 footer-logo-container">
                 <img class="footer-logo img-responsive" src="/images/header-logo.png" alt="Stir Trek logo">
             </div>
-            <div class="col-xs-9 col-md-9">
+            <div class="col-xs-9 col-md-5">
                 <article class="no-margin-bottom">
-                    <div class="footer-links-container">
-                        <p>
-                            <strong>
-                                <em>LET'S GET CONNECTED.</em>
-                            </strong>
-                            <br> Email us:
-                            <a href="mailto:info@stirtrek.com?subject=[Stir%20Trek]%20Question%20ref:site"
-                                aria-label="Link to send Stir Trek an email">info@stirtrek.com</a>
+                    <div class="footer-links-container font-ui">
+                        <p style="margin-top:0;">
+                            <strong>Let's Get Connected.</strong>
+                            <br>
+                            <a href="mailto:info@stirtrek.com?subject=[Stir%20Trek]%20Question%20ref:site" aria-label="Link to send Stir Trek an email">
+                                <i class="fa-solid fa-envelope" style="margin-right:6px;"></i>info@stirtrek.com
+                            </a>
                         </p>
 
                         <div id="footerSocialMediaIcons">
-                            Social us: &nbsp;&nbsp;
                             <div class="footer-social-icon-container">
                                 <a href="https://www.linkedin.com/company/stir-trek-conference-inc./" target="_blank" aria-label="Link to Stir Trek's LinkedIn page">
                                     <i class="fa-brands fa-linkedin"></i>
                                 </a>
+                                &nbsp;
                                 <a href="https://bsky.app/profile/stirtrek.com" target="_blank" aria-label="Link to Stir Trek's Bluesky page">
                                     <i class="fa-brands fa-bluesky"></i>
                                 </a>
                             </div>
                         </div>
 
-                        <p>
+                        <p style="font-size: 0.85rem; opacity: 0.7;">
                             Thank you to <a target="_blank" rel="noopener" href="https://nate-lovett.com/">Nate Lovett</a> for our great art.
                         </p>
-
                     </div>
                 </article>
             </div>
+            <div class="col-md-4 text-right" style="padding-top: 30px;">
+                <a href="/info/codeofconduct/" class="font-ui" style="font-size: 0.9rem;">Code of Conduct</a>
+                <br>
+                <a href="/info/privacy/" class="font-ui" style="font-size: 0.9rem;">Privacy Policy</a>
+                <br>
+                <a href="mailto:sponsors@stirtrek.com" class="font-ui" style="font-size: 0.85rem; opacity: 0.7;">
+                    Sponsorships: sponsors@stirtrek.com
+                </a>
+            </div>
         </div>
     </div>
-    <div id="footerCredits">
-        <div class="container clearfix small">
-            <div class="pull-left">
-                <span>
-                    All Rights Reserved. Copyright 2026 Stir Trek Conference.
-                </span>
-            </div>
 
+    <div id="footerCredits">
+        <div class="container clearfix small" style="text-align: center;">
+            <span>
+                &copy; 2026 Stir Trek Conference.
+            </span>
+            <span style="margin-left: 8px;">
+                Made with <i class="fa-solid fa-heart footer-heart"></i> in Columbus
+            </span>
         </div>
     </div>
 </footer>
-<script type="text/javascript">
-
-    // GOOGLE analytics
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-21832077-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function () {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-
-</script>
         </div>
     </body>
 </html>

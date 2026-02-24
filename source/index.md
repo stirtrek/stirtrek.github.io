@@ -63,7 +63,7 @@ title: Tech & a Flick
             <div class="ticket-price">$165</div>
             <p class="ticket-note">First 50</p>
             <p class="ticket-date">2/24</p>
-            <a class="btn-comic btn-comic-sm" href="https://events.humanitix.com/stir-trek-2026-edition">On Sale Now</a>
+            <p class="btn-comic btn-comic-sm">Sold Out!</p>
         </div>
         <div class="ticket-card comic-panel-light">
             <span class="ticket-tier-name">Early Bird</span>

@@ -844,6 +844,33 @@
       "isConfirmed": true
     },
     {
+      "id": "1130920",
+      "title": "LGTM is not a Strategy",
+      "description": "Pull requests are where quality is won or lost, and too many teams still treat reviews with a rushed \"LGTM\". In this talk, you'll learn a practical, repeatable approach to high-quality PR reviews that balances speed with risk management - covering how to triage changes quickly, review in layers, and write comments that lead to better outcomes without friction.  We'll also show how QA and developers bring complementary lenses to the same review, turning acceptance criteria, scenarios, and observability into shared responsibility instead of production surprises.  You'll leave with a lightweight framework and concrete habits for authors and reviewers that make reviews faster, kinder, and more effective.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "01782d24-b1aa-4645-a9f5-a15e51bf132c"
+      ],
+      "categoryItems": [
+        431281
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1130963",
       "title": "Maintenance by Smell: When Reading Every Line Becomes Obsolete",
       "description": "Classic scenario. You get handed someone else's codebase. The original author has left for a beach somewhere, better gig, or possibly witness protection.\r\n\r\nYesterday: Read it. Line by line. Function by function. Build a mental model. Understand it deeply. Then fix it.\r\n\r\nTime required: Somewhere between \"too long\" and \"I have regrets about my career choices.\"\r\n\r\nToday: Don't read it. Ask AI what it does. Investigate what smells funny. Fix the smell. Move on with your life.\r\n\r\nThis talk is about the shift from syntax comprehension to diagnostic intuition. It's the difference between memorizing every street name in a city versus knowing the neighborhoods well enough to sense when you're heading somewhere sketchy. You don't need to parse every semicolon, you need to recognize when something's wrong.\r\n\r\nThe key skill isn't reading code faster. It's asking better questions. \"What's the happy path here?\" \"Where could this blow up?\" \"Why does this function exist?\" And critically: \"What's the thing the original author was worried about that I should also be worried about?\"\r\n\r\nYou'll walk away with practical patterns for smell-based debugging, the questions that matter more than comprehensive reading, and a significantly improved relationship with legacy code. (It's still not a good relationship. But it's faster.)",
@@ -972,6 +999,33 @@
       ],
       "categoryItems": [
         431277
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1130675",
+      "title": "Mission: AI Possible – Taming your AI agent swarms",
+      "description": "As organizations implement AI systems, they often encounter tasks too complex for a single agent—making multi-agent architectures vital. For example, hospitals rely on specialized agents for medical imaging, scheduling, and insurance coordination; travel platforms use agents to book flights, find hotels, and suggest activities; retailers automate inventory, supply chain, and CRM through multiple integrated agents; and software teams decompose projects across coding, testing, and documentation agents. In these scenarios, successful orchestration ensures agents communicate, delegate, and collaborate effectively, always staying aligned with organizational goals.\r\n\r\nIn this talk, we will explore how Microsoft Agent Framework provides a robust foundation for building and orchestrating multiagent systems that are secure, extensible, and production ready. We will review the best practices and architecture patterns required to implement different orchestration workflows (for example: Sequential, concurrent and handoff) as well as the unique challenges presented by each of them.\r\n\r\nBy the end of the session, participants will understand how to apply different orchestration workflows to build scalable, collaborative AI systems that leverage multiple agents to deliver higher accuracy, resilience, and automation across different scenarios.\r\n",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "62b5c0da-ecfa-4566-8ce2-4eeb8e2d321d"
+      ],
+      "categoryItems": [
+        431276
       ],
       "questionAnswers": [
         {
@@ -2902,6 +2956,50 @@
       ]
     },
     {
+      "id": "62b5c0da-ecfa-4566-8ce2-4eeb8e2d321d",
+      "firstName": "Samuel",
+      "lastName": "Gomez",
+      "bio": "I've worked in software development for 15+ years (mostly Microsoft technologies) and love the problem solving aspect of the work. In recent years I have become very passionate about AI and machine learning technologies and how they can be applied to different aspects of our lives. When not coding I enjoy spending time with my family, soccer (watching, playing, and coaching), playing videogames and watching movies. ",
+      "tagLine": "Microsoft MVP and Head of AI at Geneca",
+      "profilePicture": "https://sessionize.com/image/b9e8-400o400o1-K6649gMDEzkWxFkUQLE8Bm.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/thesoccerdev",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/samueljgomez/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.thesoccerdev.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://geneca.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1130675
+      ],
+      "fullName": "Samuel Gomez",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Columbus, OH. United States."
+        }
+      ]
+    },
+    {
       "id": "9bde9de9-7bcb-4077-8087-47bf492a1344",
       "firstName": "Sarah",
       "lastName": "Dutkiewicz",
@@ -2910,11 +3008,6 @@
       "profilePicture": "https://sessionize.com/image/c819-400o400o1-hBX495aDgfA7dLm7BQV5pb.jpg",
       "isTopSpeaker": false,
       "links": [
-        {
-          "title": "X (Twitter)",
-          "url": "https://twitter.com/sadukie",
-          "linkType": "Twitter"
-        },
         {
           "title": "LinkedIn",
           "url": "https://linkedin.com/in/sadukie",
@@ -2942,6 +3035,35 @@
         {
           "questionId": 119284,
           "answerValue": "Stow, OH"
+        }
+      ]
+    },
+    {
+      "id": "01782d24-b1aa-4645-a9f5-a15e51bf132c",
+      "firstName": "Todd",
+      "lastName": "Nussbaum",
+      "bio": "With a career spanning two and a half decades, Todd has worn nearly every hat in the SDLC—from dev and architect to engineering leader. He is a firm believer that great software requires both a foundation of clean architecture and sensible UI design. Off the clock, Todd can be found tinkering with the newest open source library or AI app, and often trades the keyboard for the sidelines, following his sons' college journeys, timing his daughter’s laps at the pool, and acting as the primary support crew for his wife’s running goals.",
+      "tagLine": "Director, Consulting Services @ CGI",
+      "profilePicture": "https://sessionize.com/image/4c2d-400o400o1-9ZebybpFDukXXULUiSYtJX.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/tjnussbaum/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        1130920
+      ],
+      "fullName": "Todd Nussbaum",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Plain City, Ohio"
         }
       ]
     },

@@ -25,6 +25,7 @@ title: Tech & a Flick
         <div class="hero-date-panel comic-panel-light">
             <span class="date-big">5/1/2026</span>
             <span class="date-detail font-ui">Doors 7:00am &bull; Sessions 8am&ndash;5pm</span>
+            <span class="cta-note font-ui">On sale Feb 24 at noon eastern!</span>
         </div>
     </div>
 </div>

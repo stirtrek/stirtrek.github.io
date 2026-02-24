@@ -6,7 +6,7 @@
 
     
 
-    <title>2021&#39;s Speakers - Stir Trek</title>
+    <title>Christine Miao - Stir Trek</title>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
@@ -15,12 +15,12 @@
     <!-- Twitter Card data -->
     <meta name="twitter:card" value="summary">
     <meta name="twitter:site" value="@StirTrek">
-    <meta name="twitter:title" value="2021&#39;s Speakers - Stir Trek">
+    <meta name="twitter:title" value="Christine Miao - Stir Trek">
     <meta name="twitter:description" value="Stir Trek is a one-day conference in Columbus, Ohio focused on teaching software developers the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a private screening of a blockbuster film on its opening day.">
     <meta name="twitter:image" value="/icons/opengraph.jpg">
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="2021&#39;s Speakers - Stir Trek" />
+    <meta property="og:title" content="Christine Miao - Stir Trek" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://stirtrek.com" />
     <meta property="og:image" content="/icons/opengraph.jpg" />
@@ -180,247 +180,235 @@
 
             <div class="container">
 
+                <div class="body-content" role="main">
+
+    <style>
+        .speakerAvatarBioStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "avatar     bio         bio";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            column-gap: 40px;
+
+            margin-bottom: 80px;
+        }
+
+        .speakerSessionStrip {
+            display: grid;
+            width: 100%;
+
+            grid-template-areas:
+                "abstract   abstract    time"
+                "abstract   abstract    stirTrek";
+
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            column-gap: 40px;
+            grid-row-gap: 40px;
+        }
+
+        @media only screen and (max-width:990px) {
+
+            .speakerAvatarBioStrip,
+            .speakerSessionStrip {
+                display: block;
+            }
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel {
+            grid-area: avatar;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+            color: black;
+
+            text-align: center;
+        }
+
+        .speakerSessionStrip .abstractPanel {
+            grid-area: abstract;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerAvatarBioStrip .bioPanel {
+            grid-area: bio;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            grid-area: stirTrek;
+            background-size: 8px 8px, 8px 8px, 8px 8px, 8px 8px, 8px 8px, 100% 100%;
+        }
+
+        .speakerSessionStrip .timeAndRoomPanel {
+            grid-area: time;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body.avatarPanel,
+        .speakerSessionStrip .comic-panel-body.stirTrekPanel {
+            background-image: radial-gradient(ellipse farthest-corner, transparent 0%, transparent 35%, #fff 30%, #fff 40%, transparent 90%),
+                radial-gradient(ellipse farthest-corner at 0px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 8px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                radial-gradient(ellipse farthest-corner at 0px 8px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 40%),
+                radial-gradient(ellipse farthest-corner at 8px 0px, transparent 0%, transparent 20%, #fff 15%, #fff 20%, transparent 50%),
+                linear-gradient(40deg, #c48b2fb3 0, #f7c16ab3 30%, #dbab5bb3 50%, #dbab5bb3 70%, #c48b2fb3 100%);
+        }
+
+        .stirTrekPanelImage {
+            background-image: url('/images/StirTrek-Emblem-Gold-400x588.png');
+            width: 100%;
+            height: 100%;
+            background-position: center;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-body,
+        .speakerSessionStrip .comic-panel-body {
+            position: relative;
+        }
+
+        .speakerAvatarBioStrip .comic-panel-header,
+        .speakerSessionStrip .comic-panel-header {
+            position: absolute;
+            top: -35px;
+            left: -25px;
+        }
+
+        .speakerAvatarBioStrip .speakerImage {
+            width: 80%;
+            border-radius: 50%;
+            border: 6px solid var(--stir-dark);
+            margin: 2em auto 0;
+        }
+
+        .speakerAvatarBioStrip .speakerTagline {
+            vertical-align: middle;
+        }
+
+        .speakerAvatarBioStrip .speakerBio {
+            margin-top: 5%;
+        }
+
+
+        @media only screen and (max-width:990px) {
+
+            .speakerAvatarBioStrip .comic-panel-body,
+            .speakerSessionStrip .comic-panel-body {
+                border: 6px solid var(--stir-dark);
+                padding: 30px 20px;
+                margin-bottom: 40px;
+            }
+
+            .speakerAvatarBioStrip .comic-panel-header,
+            .speakerSessionStrip .comic-panel-header {
+                top: -35px;
+                left: -45px;
+            }
+
+            .speakerAvatarBioStrip .speakerImage {
+                display: block;
+                margin: 0px auto;
+                margin-top: 2em;
+            }
+
+            .speakerAvatarBioStrip .speakerTagline {
+                width: 100%;
+                display: block;
+                text-align: center;
+            }
+
+            .speakerSessionStrip .stirTrekPanel {
+                display: none;
+            }
+        }
+    </style>
+
+    <div class="speakerAvatarBioStrip">
+        <div class="avatarPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Christine Miao!
+            </div>
+
+            <div>
+                <img src="/images/speakers/2026/Christine-Miao.png" class="img-responsive speakerImage">
+            </div>
+
+            <div class="speakerTagline">
+                <h3>
+                    Creator of Technical Accounting
+                </h3>
+            </div>
+        </div>
+        <div class="bioPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Bio!
+            </div>
+
+            Christine Miao is an exited founder, product/tech leader, and creator of technical accounting. 
+
+Technical accounting is an accurate, intuitive, way to track resourcing, maintenance, and architecture. It turns massive initiatives - like breaking up monoliths, complex refactors, or cleaning up tech debt - into visual reports simple enough to explain to your grandmother.
+
+Previously, she led some of the first Agile Transformation projects at McKinsey Digital. She has worked with dozens of organizations - from idea to Fortune 50 - launch and improve their products. 
+
+She now researches technical accounting full-time while writing at Thoughtful Engineering, which aims to educate, demystify, and promote healthy engineering cultures.
+        </div>
+
+    </div>
+    <a id="abstract"></a>
+    <div class="speakerSessionStrip">
+        <div class="abstractPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Session!
+            </div>
+            
+                <h2>
+                    Why Tech Debt Never Gets Prioritized (And Why &#34;Explain the Business Impact&#34; Won&#39;t Fix It)
+                </h2>
+                <br>
+                <div>
+                    Engineering leaders see critical infrastructure problems with painful clarity, but often struggle to get buy-in to solve them. 
+
+The problem isn&#39;t engineers&#39; ability to explain &#34;business impact.&#34; It&#39;s that engineering work remains fundamentally invisible to stakeholders. 
+
+This talk reveals why traditional ROI frameworks fail for engineering, and demonstrates a practical approach that moves tech debt conversations from political negotiations into collaborative problem-solving.
+
+This is a new talk, but will be based of a prior presentation + article I&#39;ve written (links below for reference): 
+https://thoughtfuleng.substack.com/p/explain-the-business-impact-and-other
+https://docs.google.com/presentation/d/1benjYFKu0WVIndhjeOtFwwaDbSVooc7diW3BZkRdX-4/edit?usp=sharing
+                </div>
                 
-<div class="body-content" role="main">
+        </div>
+
+        <div class="timeAndRoomPanel comic-panel-body">
+            <div class="comic-panel-header comic-panel-highlighted">
+                Where/When?
+            </div>
+
+            
+                
+                        <h2>Schedule TBD</h2>
+                        
+
+                            
+                                    
 
 
-    <h1 id="2021’s-Speakers"><a href="#2021’s-Speakers" class="headerlink" title="2021’s Speakers"></a>2021’s Speakers</h1><div class="icon-hr"></div>
-<br>
+        </div>
 
-    
-        <div class="speakersContainer">
-    <article class="row thinRow">
-
-        
-        
-            <div class="col-md-3">
-                <div class="speaker-card">
-                    <a href="/speakers/2021/Adrienne-Tacke.html">
-                        <div class="speaker-photo">
-                            
-                            <img src="/images/speakers/2021/Adrienne-Tacke.jpg" alt="Adrienne Tacke">
-                        </div>
-                    </a>
-                    <div class="speaker-info">
-                        <h3>
-                            <a href="/speakers/2021/Adrienne-Tacke.html">
-                                Adrienne Tacke
-                            </a>
-                        </h3>
-                        
-                        <div class="speaker-title">Senior Developer Advocate at MongoDB</div>
-                    </div>
-                </div>
-            </div>
-        
-            <div class="col-md-3">
-                <div class="speaker-card">
-                    <a href="/speakers/2021/Bill-Sempf.html">
-                        <div class="speaker-photo">
-                            
-                            <img src="/images/speakers/2021/Bill-Sempf.jpg" alt="Bill Sempf">
-                        </div>
-                    </a>
-                    <div class="speaker-info">
-                        <h3>
-                            <a href="/speakers/2021/Bill-Sempf.html">
-                                Bill Sempf
-                            </a>
-                        </h3>
-                        
-                        <div class="speaker-title">Application Security Architect</div>
-                    </div>
-                </div>
-            </div>
-        
-            <div class="col-md-3">
-                <div class="speaker-card">
-                    <a href="/speakers/2021/Brett-Berliner.html">
-                        <div class="speaker-photo">
-                            
-                            <img src="/images/speakers/2021/Brett-Berliner.jpg" alt="Brett Berliner">
-                        </div>
-                    </a>
-                    <div class="speaker-info">
-                        <h3>
-                            <a href="/speakers/2021/Brett-Berliner.html">
-                                Brett Berliner
-                            </a>
-                        </h3>
-                        
-                        <div class="speaker-title">Architect, Insight Digital Innovation</div>
-                    </div>
-                </div>
-            </div>
-        
-            <div class="col-md-3">
-                <div class="speaker-card">
-                    <a href="/speakers/2021/Christopher-Judd.html">
-                        <div class="speaker-photo">
-                            
-                            <img src="/images/speakers/2021/Christopher-Judd.jpg" alt="Christopher Judd">
-                        </div>
-                    </a>
-                    <div class="speaker-info">
-                        <h3>
-                            <a href="/speakers/2021/Christopher-Judd.html">
-                                Christopher Judd
-                            </a>
-                        </h3>
-                        
-                        <div class="speaker-title">Trusted Technical Adviser and Talent Developer</div>
-                    </div>
-                </div>
-            </div>
-        
-            <div class="col-md-3">
-                <div class="speaker-card">
-                    <a href="/speakers/2021/Craig-Stuntz.html">
-                        <div class="speaker-photo">
-                            
-                            <img src="/images/speakers/2021/Craig-Stuntz.jpg" alt="Craig Stuntz">
-                        </div>
-                    </a>
-                    <div class="speaker-info">
-                        <h3>
-                            <a href="/speakers/2021/Craig-Stuntz.html">
-                                Craig Stuntz
-                            </a>
-                        </h3>
-                        
-                        <div class="speaker-title">Director of Consulting, Improving Columbus</div>
-                    </div>
-                </div>
-            </div>
-        
-            <div class="col-md-3">
-                <div class="speaker-card">
-                    <a href="/speakers/2021/Glenn-HarmonJr..html">
-                        <div class="speaker-photo">
-                            
-                            <img src="/images/speakers/2021/Glenn-HarmonJr..jpg" alt="Glenn Harmon Jr.">
-                        </div>
-                    </a>
-                    <div class="speaker-info">
-                        <h3>
-                            <a href="/speakers/2021/Glenn-HarmonJr..html">
-                                Glenn Harmon Jr.
-                            </a>
-                        </h3>
-                        
-                        <div class="speaker-title">CoverMyMeds, SQL and Ruby Developer</div>
-                    </div>
-                </div>
-            </div>
-        
-            <div class="col-md-3">
-                <div class="speaker-card">
-                    <a href="/speakers/2021/Jason-Dobies.html">
-                        <div class="speaker-photo">
-                            
-                            <img src="/images/speakers/2021/Jason-Dobies.jpg" alt="Jason Dobies">
-                        </div>
-                    </a>
-                    <div class="speaker-info">
-                        <h3>
-                            <a href="/speakers/2021/Jason-Dobies.html">
-                                Jason Dobies
-                            </a>
-                        </h3>
-                        
-                        <div class="speaker-title">Developer Advocate at Red Hat</div>
-                    </div>
-                </div>
-            </div>
-        
-            <div class="col-md-3">
-                <div class="speaker-card">
-                    <a href="/speakers/2021/Jenny-Bramble.html">
-                        <div class="speaker-photo">
-                            
-                            <img src="/images/speakers/2021/Jenny-Bramble.jpg" alt="Jenny Bramble">
-                        </div>
-                    </a>
-                    <div class="speaker-info">
-                        <h3>
-                            <a href="/speakers/2021/Jenny-Bramble.html">
-                                Jenny Bramble
-                            </a>
-                        </h3>
-                        
-                        <div class="speaker-title">Quality Advocate and Local Badass</div>
-                    </div>
-                </div>
-            </div>
-        
-            <div class="col-md-3">
-                <div class="speaker-card">
-                    <a href="/speakers/2021/Matt-Eland.html">
-                        <div class="speaker-photo">
-                            
-                            <img src="/images/speakers/2021/Matt-Eland.jpg" alt="Matt Eland">
-                        </div>
-                    </a>
-                    <div class="speaker-info">
-                        <h3>
-                            <a href="/speakers/2021/Matt-Eland.html">
-                                Matt Eland
-                            </a>
-                        </h3>
-                        
-                        <div class="speaker-title">Instructor at Tech Elevator</div>
-                    </div>
-                </div>
-            </div>
-        
-            <div class="col-md-3">
-                <div class="speaker-card">
-                    <a href="/speakers/2021/Sho-Fola.html">
-                        <div class="speaker-photo">
-                            
-                            <img src="/images/speakers/2021/Sho-Fola.jpg" alt="Sho Fola">
-                        </div>
-                    </a>
-                    <div class="speaker-info">
-                        <h3>
-                            <a href="/speakers/2021/Sho-Fola.html">
-                                Sho Fola
-                            </a>
-                        </h3>
-                        
-                        <div class="speaker-title">Life Learner, Technologist, Speaker &amp; Machine Lear...</div>
-                    </div>
-                </div>
-            </div>
-        
-            <div class="col-md-3">
-                <div class="speaker-card">
-                    <a href="/speakers/2021/Steve-Smith.html">
-                        <div class="speaker-photo">
-                            
-                            <img src="/images/speakers/2021/Steve-Smith.jpg" alt="Steve Smith">
-                        </div>
-                    </a>
-                    <div class="speaker-info">
-                        <h3>
-                            <a href="/speakers/2021/Steve-Smith.html">
-                                Steve Smith
-                            </a>
-                        </h3>
-                        
-                        <div class="speaker-title">I Help Teams Deliver Better Software</div>
-                    </div>
-                </div>
-            </div>
-        
-    </article>
-</div>
-
-    <p class="small font-ui" style="color: var(--stir-gray); margin-top: 24px;">Last Updated: February 24, 2026 at 5:29 PM EST</p>
-
-    
-
-
+        <div class="stirTrekPanel comic-panel-body">
+            <div class="stirTrekPanelImage"></div>
+        </div>
+    </div>
 </div>
             </div>
 

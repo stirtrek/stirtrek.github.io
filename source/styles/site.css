@@ -217,11 +217,11 @@ a.btn-comic:visited {
     justify-content: center;
     padding: 14px 28px;
     font-family: 'Space Grotesk', sans-serif;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 0.9rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    background-color: var(--stir-teal);
+    background-color: var(--stir-yellow);
     color: var(--stir-dark);
     border: 2px solid var(--stir-dark);
     box-shadow: 4px 4px 0 rgba(0,0,0,0.35);
@@ -325,7 +325,7 @@ a.btn-comic:hover {
 }
 
 .hero-date-panel {
-    grid-column: 1 / 2;
+    grid-column: 2 / 3;
     grid-row: 2 / 3;
     background-color: var(--stir-white);
     display: flex;
@@ -352,7 +352,7 @@ a.btn-comic:hover {
 }
 
 .hero-cta-panel {
-    grid-column: 2 / 3;
+    grid-column: 1 / 2;
     grid-row: 2 / 3;
     background-color: var(--stir-white);
     display: flex;
@@ -377,8 +377,8 @@ a.btn-comic:hover {
     }
     .hero-photo-panel { grid-column: 1; grid-row: 1; min-height: 250px; }
     .hero-headline-panel { grid-column: 1; grid-row: 2; }
-    .hero-date-panel { grid-column: 1; grid-row: 3; }
-    .hero-cta-panel { grid-column: 1; grid-row: 4; }
+    .hero-cta-panel { grid-column: 1; grid-row: 3; }
+    .hero-date-panel { grid-column: 1; grid-row: 4; }
     .hero-headline-panel h1 { font-size: 12vw; }
     .hero-date-panel .date-big { font-size: 10vw; }
 }
@@ -602,6 +602,12 @@ a.btn-comic:hover {
     padding: 10px 14px;
     margin-top: 10px;
     width: 100%;
+}
+
+.ticket-card.ticket-highlight .btn-comic-sm,
+.ticket-card.ticket-highlight a.btn-comic-sm,
+.ticket-card.ticket-highlight a.btn-comic-sm:visited {
+    background-color: var(--stir-teal);
 }
 
 .ticket-card .btn-comic-sm[disabled] {

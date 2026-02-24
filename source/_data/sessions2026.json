@@ -171,6 +171,33 @@
       "isConfirmed": true
     },
     {
+      "id": "1128156",
+      "title": "Automating User Interface Tests with Playwright",
+      "description": "Testing a user interface is an important part of the development life cycle. However this testing is often done manually, which is expensive, time-consuming, and often inconsistent. Automating this process can make UI testing far more effective and efficient.\r\n\r\nAzure Playwright is an open source node.js project that provides a way to automate user interface testing.\r\n\r\nBy the end of this session, you’ll know how to:\r\n- Automate repetitive coding tasks with Playwright\r\n- Record user actions and use the rich object model to automate your tests\r\n- Integrate Copilot into your CI/CD pipeline\r\n- Reduce test development time.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fe170f42-5405-4ad7-a69f-2276f081bf7e"
+      ],
+      "categoryItems": [
+        431281
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1126337",
       "title": "Better the Devil you NoSQL - A Battle of Paradigms",
       "description": "SQL or NoSQL? We’ll build the same app on DynamoDB and on Aurora DSQL, the latest cloud native database. Then compare modeling, query patterns, cost, latency, transactions, and ops. Takeaway practical insights from this packed micro demo. \r\n\r\n## Abstract\r\nI spent years living happily in my NoSQL safe space. I avoided SQL out of intimidation, without realizing the cost. Inspired by Ghost Rider’s redemption arc, I used the Devil I know to learn about the one I don’t. We’ll build a “Soul Contract Manager” for Ghost Rider with both DynamoDB and Aurora DSQL. In the process, we’ll see:\r\n\r\n- How data modeling shapes query flexibility and agility\r\n- The realities of multi-record consistency (transactions vs. item-level ops)\r\n- Cost and latency levers under typical read/write mixes\r\n- Secure connection patterns (IAM-issued tokens vs. app-managed secrets)\r\n\r\nOur goal isn’t to pick a winner; instead, you’ll get my hard-won lessons because redemption isn’t about choosing sides; it’s about feeling confident in your choices.\r\n\r\n## What You’ll Learn\r\n\r\n- **Mental models:** Access-pattern modeling (NoSQL) vs. relational modeling (SQL), you can explain to your team.\r\n- **Modeling tradeoffs in practice:** Keys/GSIs/streams vs. schemas/joins/transactions.\r\n- **Performance & cost levers:** How workload shapes (read/write ratio, query mix) changes outcomes.\r\n- **Security patterns:** Secrets-free connections with IAM tokens; least-privilege access.\r\n\r\n## Why You Can’t Miss It\r\n\r\n- **Memorable and Entertaining Analogies:** Inspired by Ghost-Rider’s redemption story to make concepts stick.\r\n- **Hands-on realism:** The *same* workflow implemented two ways—no hand-wavy “it depends.”\r\n\r\n# Audience & Level\r\n\r\nGeneral developers, backend/full-stack, cloud/serverless engineers, Beginner–Intermediate level",
@@ -339,6 +366,37 @@
         {
           "questionId": 118564,
           "answerValue": "Yes, at UtahJS 2025 (recording: https://www.youtube.com/watch?v=hzyWBleh6e8) and CodeMash 2026 (slides: https://tinyurl.com/cm2026ReactivePrimitives)"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1129837",
+      "title": "Completing the Rewrite from Hell: Five Years of Technical Debt and How We Escaped",
+      "description": "Bad architecture decisions don't just slow you down - they destroy business value. Poor coupling means you can't add the features customers are asking for. Data model mistakes mean you don't have the information to answer your questions, and a lot of your decisions can't be easily reversed. You know the problems are there. You've known for years. But there's never time to fix it properly - you're too busy keeping the lights on.\r\n\r\nThen one day, the stars align. You finally have time to tackle it. You open the codebase, ready to make things right - and realize you have no idea where to start. Everything is wrong. Every fix breaks something else. The whole thing feels impossible.\r\n\r\nI'm a business owner. I had full authority to prioritize this rewrite. No one to convince, no budget to fight for. I still couldn't make it happen for five years - even while watching money walk out the door.\r\n\r\nThis is the story of how we finally completed that rewrite. You'll learn:\r\n\r\n- Why we abandoned a full rewrite and pivoted to strategic refactoring instead\r\n- How to assess whether your legacy system is salvageable (ours barely was)\r\n- The architectural patterns - including the actor model - that would have prevented this mess\r\n- How we used AI to accelerate the work (spoiler: it wasn't vibe coding)\r\n- The management failures that let this happen, and how to avoid them\r\n\r\nThis isn't a talk about how smart we are. It's about how we recovered from one of my biggest failures as an engineering leader - and what you can learn from our five-year journey through hell.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "470ab354-5943-49aa-b10e-b22be7166e72"
+      ],
+      "categoryItems": [
+        431274
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "https://aaronstannard.com/talks/ - just like the other talk I submitted, this one is new."
         }
       ],
       "roomId": null,
@@ -687,6 +745,33 @@
         {
           "questionId": 118564,
           "answerValue": "VueConf, RenderATL, 200OK "
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1131005",
+      "title": "Increasing Productivity by Doing Nothing",
+      "description": "It is easy to mistake “busy” for “productive.” We fill every gap—messages, meetings, side tasks, even our “breaks”—and then wonder why our focus, creativity, and decision-making keep getting worse.\r\n\r\nThis talk is about doing nothing on purpose. Not as a productivity hack, but as a practical way to restore your mind, body, relationships, and clarity. You’ll leave with a simple approach you can use immediately, plus a one-week experiment to reclaim slack in your day—because the deviation from the deadline will be far worse if you run out of gas.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5698811a-4c31-4537-970d-e427009e0cca"
+      ],
+      "categoryItems": [
+        431279
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
         }
       ],
       "roomId": null,
@@ -1287,6 +1372,50 @@
   ],
   "speakers": [
     {
+      "id": "470ab354-5943-49aa-b10e-b22be7166e72",
+      "firstName": "Aaron",
+      "lastName": "Stannard",
+      "bio": "Aaron is the founder and CTO of Petabridge, and the co-founder of the Akka.NET open-source project. Prior to Petabridge, Aaron founded MarkedUp Analytics, a real-time in-app marketing and analytics service used by 1000+ developers. Prior to that he worked at Microsoft as a Startup Developer Evangelist.",
+      "tagLine": "Petabridge CEO, Akka.NET Founder, and .NET Contrarian",
+      "profilePicture": "https://sessionize.com/image/5438-400o400o1-LsP5JdSvTKTp9ABiYAcp6u.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/Aaronontheweb",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/aaronstannard/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://aaronstannard.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://petabridge.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1129837
+      ],
+      "fullName": "Aaron Stannard",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "HOuston, TX"
+        }
+      ]
+    },
+    {
       "id": "8d6efde2-af82-4fb9-9d6a-1a88369657c1",
       "firstName": "Amanda",
       "lastName": "Lange",
@@ -1827,6 +1956,50 @@
       ]
     },
     {
+      "id": "fe170f42-5405-4ad7-a69f-2276f081bf7e",
+      "firstName": "David",
+      "lastName": "Giard",
+      "bio": "David Giard is a former accountant and a former biochemist, who has been developing solutions using Microsoft technologies for over three decades.  Currently, David helps companies solve hard technical problems in his role as a Microsoft Partner Solution Architect. David has been very active in the developer community, speaking at numerous major conferences, code camps, and user groups around the world; helping to lead user groups; and helping to organize conferences and other geek events. He is the host and producer of the mildly popular online TV shows \"Technology and Friends\" and \"GCast\". He is the co-author of the Wrox book Real World .NET, C#, and Silverlight. You can read his latest thoughts at davidgiard.com.  His hobbies include video, photography, sports, and embarrassing his sons.\r\n",
+      "tagLine": "Microsoft Partner Solution Architect",
+      "profilePicture": "https://sessionize.com/image/b7ae-400o400o1-YSK1bcfJeCkfQkLugf1eYa.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/davidgiard",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/davidgiard/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://davidgiard.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://microsoft.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1128156
+      ],
+      "fullName": "David Giard",
+      "categoryItems": [
+        432501
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Chicago, IL, USA"
+        }
+      ]
+    },
+    {
       "id": "3fd9cade-10ef-43df-b124-944015042549",
       "firstName": "Ed",
       "lastName": "Charbeneau",
@@ -2033,6 +2206,45 @@
         {
           "questionId": 119284,
           "answerValue": "Columbus, OH"
+        }
+      ]
+    },
+    {
+      "id": "5698811a-4c31-4537-970d-e427009e0cca",
+      "firstName": "Jay",
+      "lastName": "Harris",
+      "bio": "Jay is a speaker, software consultant, and owner of Arana Software. He has been developing on the web since 1995, when the Blink tag lured him away from Visual Basic 3, and has been awarded as a Microsoft Regional Director, ASPInsider, and Microsoft MVP. Recognizing that the greatest application performance bottleneck is a developer’s time, Jay’s continuing quest is for frameworks, modules, tools, and practices that make developers stronger, fitter, happier, and more productive.\r\n\r\n Jay resides in Las Vegas, USA. Follow him on Twitter at @jayharris.",
+      "tagLine": "Problem Solver at Arana Software",
+      "profilePicture": "https://sessionize.com/image/04b5-400o400o1-1a-4c31-4537-970d-e427009e0cca.79063233-9eb7-48b2-b374-7101223a309c.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://www.twitter.com/jayharris",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jasonharris/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.aranasoft.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1131005
+      ],
+      "fullName": "Jay Harris",
+      "categoryItems": [
+        432500
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Las Vegas"
         }
       ]
     },

@@ -25,7 +25,7 @@ title: Tech & a Flick
                 <i class="fa-solid fa-ticket" style="margin-right:8px;"></i>
                 See Ticket Dates
             </a>
-            <span class="cta-note font-ui">On sale Feb 24</span>
+            <span class="cta-note font-ui">On sale Feb 24 at noon eastern!</span>
         </div>
     </div>
 </div>

@@ -1014,6 +1014,33 @@
       "isConfirmed": true
     },
     {
+      "id": "1120265",
+      "title": "Securing your Azure AI Workload",
+      "description": "You've been given the task of creating an AI workload that will work with your data to allow your customers to get answers.  Perhaps you even want to use some of these new \"agent\" things you've been hearing so much about.  Maybe you need to see how your regular apps can also integrate with your workload.\r\n\r\nBut AI is scary.  Just ask Samsung how they felt when their proprietary code showed up in chat GPT answers.  Just look to the Canadian Airline that had to pay a refund because their chat agent said the customer should get one.  Or how about the guy who negotiated a truck for $0?  It's challenging and scary - and that's just the implementation.  Just to be clear, learning how to ground your data properly is an entirely different session - and while we'll talk about that briefly, this session is more about the workload in Azure itself.\r\n\r\nWhat about the exposure of your data via your azure services?  How can you keep your HIPPA/GDPR/NIST certifications *and* integrate an azure AI workload?\r\n\r\nIn this session, you will learn about how you can correctly utilize Azure services to secure your AI workload from public exposure, and how you can connect securely to the AI deployments from your other secure services.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0c4f74c9-6be8-40d0-b588-674d3b783472"
+      ],
+      "categoryItems": [
+        431275
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1120953",
       "title": "Ship It First, Fix It Later: How a Medical Crisis Led to a Global Tool",
       "description": "When Roxy’s son was hospitalized yet again, she noticed nurses struggling to calculate his g-tube feed rates, so she built solution with simply HTML, CSS, and JavaScript, then almost didn’t share it due to everyone’s favorite pal, imposter syndrome. This talk chronicles a very specific calculator’s evolution into a production React PWA with AI integration, now used daily by families worldwide, who even find it through organic Google searches. Through honest code comparisons, you’ll see when vanilla JavaScript hits its limits, why React’s patterns became necessary, and how AI tools can accelerate development while you continue learning. You’ll also leave with a six-step framework for iterative development that overcomes the fear of shipping imperfect solutions. Whether you’re considering a React migration, curious about AI-assisted development, or sitting on a side project, you’ll leave with technical insights and a renewed motivation to ship.",
@@ -1705,6 +1732,35 @@
         {
           "questionId": 119284,
           "answerValue": "Columbus, OH"
+        }
+      ]
+    },
+    {
+      "id": "0c4f74c9-6be8-40d0-b588-674d3b783472",
+      "firstName": "Brian",
+      "lastName": "Gorman",
+      "bio": "Brian is a Microsoft Azure MVP, speaker, author, trainer, and .NET developer with deep expertise across cloud and application development. He holds MCSA: Web App Certification, MCSD: App Builder, and twelve Azure certifications, including Developer, Administrator, DevOps Engineer, Solutions Architect, Data Administrator, Security Engineer, AI Engineer, and Cosmos DB — along with multiple Fundamentals certifications. Since 2019, he has also been a Microsoft Certified Trainer (MCT).\r\n\r\nBrian earned a Master of Science in Computer Information Systems and a Bachelor of Science in Computer Science. He brings over 15 years of experience teaching computer science, SQL databases, object-oriented programming (C#, VB.NET, Java), and Microsoft Office in online university settings.\r\n\r\nAs an educator and creator, Brian has developed numerous online training courses available across multiple platforms and has authored several books with APress, including Practical Entity Framework and Practical Entity Framework Core 6, Developing Solutions for Microsoft Azure Certification Companion: Hands-on Preparation and Practice for Exam AZ-204, and is scheduled to publish the third edition of Practical Entity Framework in November along with .NET/EF 10",
+      "tagLine": "Microsoft Azure MVP, Speaker, Author, Trainer, and .Net Developer",
+      "profilePicture": "https://sessionize.com/image/58a6-400o400o1-PUAuyP15wFdUoBZNW88Up8.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/blgorman",
+          "linkType": "Twitter"
+        }
+      ],
+      "sessions": [
+        1120265
+      ],
+      "fullName": "Brian Gorman",
+      "categoryItems": [
+        432500
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Iowa"
         }
       ]
     },

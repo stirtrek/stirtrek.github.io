@@ -1449,6 +1449,33 @@
       "status": "Accepted",
       "isInformed": true,
       "isConfirmed": true
+    },
+    {
+      "id": "1143759",
+      "title": "Why Tech Debt Never Gets Prioritized (And Why \"Explain the Business Impact\" Won't Fix It)",
+      "description": "Engineering leaders see critical infrastructure problems with painful clarity, but often struggle to get buy-in to solve them. \r\n\r\nThe problem isn't engineers' ability to explain \"business impact.\" It's that engineering work remains fundamentally invisible to stakeholders. \r\n\r\nThis talk reveals why traditional ROI frameworks fail for engineering, and demonstrates a practical approach that moves tech debt conversations from political negotiations into collaborative problem-solving.\r\n\r\nThis is a new talk, but will be based of a prior presentation + article I've written (links below for reference): \r\nhttps://thoughtfuleng.substack.com/p/explain-the-business-impact-and-other\r\nhttps://docs.google.com/presentation/d/1benjYFKu0WVIndhjeOtFwwaDbSVooc7diW3BZkRdX-4/edit?usp=sharing",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a50719cd-3a8b-4bbc-b5ea-5085920b328d"
+      ],
+      "categoryItems": [
+        431279
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
     }
   ],
   "speakers": [
@@ -2032,6 +2059,45 @@
         {
           "questionId": 119284,
           "answerValue": "Detroit"
+        }
+      ]
+    },
+    {
+      "id": "a50719cd-3a8b-4bbc-b5ea-5085920b328d",
+      "firstName": "Christine",
+      "lastName": "Miao",
+      "bio": "Christine Miao is an exited founder, product/tech leader, and creator of technical accounting. \r\n\r\nTechnical accounting is an accurate, intuitive, way to track resourcing, maintenance, and architecture. It turns massive initiatives - like breaking up monoliths, complex refactors, or cleaning up tech debt - into visual reports simple enough to explain to your grandmother.\r\n\r\nPreviously, she led some of the first Agile Transformation projects at McKinsey Digital. She has worked with dozens of organizations - from idea to Fortune 50 - launch and improve their products. \r\n\r\nShe now researches technical accounting full-time while writing at Thoughtful Engineering, which aims to educate, demystify, and promote healthy engineering cultures.",
+      "tagLine": "Creator of Technical Accounting",
+      "profilePicture": "https://sessionize.com/image/7415-400o400o1-pQddWVDopTokW2r9E8q211.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/cmiao/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://thoughtfuleng.substack.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://technicalaccounting.net/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1143759
+      ],
+      "fullName": "Christine Miao",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "NYC"
         }
       ]
     },

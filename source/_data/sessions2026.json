@@ -256,6 +256,37 @@
       "isConfirmed": true
     },
     {
+      "id": "1129076",
+      "title": "Boiling The Frog: Implementing a Modern Message Based Architecture Without Anyone Noticing",
+      "description": "Organizations are resistant to change, but it may not be for the reasons you think. When it comes to modernizing an application, navigating corporate bureaucracy is often the largest hurdle. Coordinating across multiple departments can be cumbersome and time-consuming. Dev teams often get stuck in a cycle of “hurry up and wait”.\r\n\r\nMost talks about modernization talk about the strangler fig pattern. In this session, we will go beyond strangler fig to discuss how you can leverage technical solutions to subtly but effectively overcome bureaucratic challenges.\r\n\r\nBy empowering your team to move the ball forward, get things done, and achieve as much progress as possible independently, you will have happier developers and happier stakeholders.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "92822169-dd05-414d-b7f5-65ce48889f80"
+      ],
+      "categoryItems": [
+        431275
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "VSLive San Diego 2025, KCDC 2025"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1127647",
       "title": "Caffeinate Your Queries: Brew Up Faster SQL with Tuning",
       "description": "In this session, embark on an engaging exploration as we unravel the mysteries of query tuning. From deciphering sluggish queries to unleashing their full potential, we will explore advanced techniques for optimizing SQL performance. Discover the art of indexing, rewriting queries for efficiency, leveraging execution plans, and unearthing hidden bottlenecks. Whether you're a seasoned developer or SQL enthusiast, you'll leave armed with the skills to transform your queries from coffee-break slow to lightning-fast.",
@@ -539,6 +570,33 @@
       ],
       "categoryItems": [
         431277
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1127535",
+      "title": "Engineering for Reliability and Stability in the Azure Messaging Services",
+      "description": "Anything that can go wrong will go wrong at some point, so it is best to come prepared. Whether you are in the cloud or running your own data center, there is always a risk of power outages, hardware failures, natural disasters, or other unexpected events. These can be especially impactful for critical components in your architecture, such as your message broker. In this session, we explore capabilities that enhance the reliability and stability of Azure Messaging services, specifically Service Bus and Event Hubs.\r\n \r\nWe first look at high-availability options provided by Azure, including transient error handling and Availability Zones, which offer a solid foundation for building reliable workloads. Furthermore, we also examine advanced features that provide additional resilience in unexpected situations, such as Geo-Replication.\r\n \r\nOur recommendations are not limited to the platform itself. We also cover improvements you can implement when building and hosting applications, including retry and exception handling, and the various hosting models available for clients.\r\n \r\nBy attending this session, you will learn practical tips and guidelines directly from the Azure Messaging product group, helping you prepare for unplanned events and maintain confidence in the reliability of your systems.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "11a684d4-ace1-49e8-be4b-c4e5ff215a7c"
+      ],
+      "categoryItems": [
+        431275
       ],
       "questionAnswers": [
         {
@@ -977,6 +1035,33 @@
         {
           "questionId": 118563,
           "answerValue": "true"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1129069",
+      "title": "Microservices for Pragmatists",
+      "description": "Microservices architecture is often perceived as a pattern primarily suited for large organizations operating at web scale. However, it is equally applicable to smaller to medium-sized applications for internal use or smaller-scale public deployments. The scalability benefits of microservices are one of the compelling reasons to consider this architectural pattern.\r\n\r\nIn this presentation, we will explore the advantages and trade-offs associated with microservices. You will gain insights into the architectural patterns of microservices from a practical perspective. Real-world software development scenarios often present unique constraints; this presentation will guide you in identifying the aspects of microservices that align with your project’s requirements while ensuring compliance with the constraints.\r\n\r\n\r\nLearning objectives:\r\n\r\n* Benefits of microservices for small/medium scale deployments\r\n* Trade-offs associated with microservices\r\n* How to pragmatically apply microservice design principles for your projects",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "92822169-dd05-414d-b7f5-65ce48889f80"
+      ],
+      "categoryItems": [
+        431275
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
         }
       ],
       "roomId": null,
@@ -2225,6 +2310,50 @@
       ]
     },
     {
+      "id": "11a684d4-ace1-49e8-be4b-c4e5ff215a7c",
+      "firstName": "Eldert",
+      "lastName": "Grootenboer",
+      "bio": "Eldert is always enthusiastic about embarking on new journeys with the Cloud, and Azure in particular. He is very passionate about growing his dreams and teams, and goes above and beyond to help those with the same spark. Eldert comes from a background as a cloud solution architect and Technology Lead, was an Azure MVP for 5 consecutive years, and is now working as a Principal Product Manager at Microsoft for Azure Service Bus.\r\n\r\nAlways having a smile on his face, Eldert can be found delivering noteworthy sessions at in-person conferences, meetups, and online platforms. He values sharing and spreading knowledge while building genuine connections regardless of background and expertise. His goal is to bring people closer and work together to influence the outcome and optimize the future of Cloud technologies.",
+      "tagLine": "Principal Product Manager @Microsoft | #Azure Service Bus | Former #Azure MVP | Community Enthousiast",
+      "profilePicture": "https://sessionize.com/image/e429-400o400o1-9RPoRHnaTYMhSUahaUqUKw.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/egrootenboer",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/eldert-grootenboer",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLt1B6S57RxWFVeoLXOiYYIyUYgDyXLkCx",
+          "linkType": "Other"
+        },
+        {
+          "title": "Bluesky",
+          "url": "https://bsky.app/profile/eldert.net",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        1127535
+      ],
+      "fullName": "Eldert Grootenboer",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Seattle"
+        }
+      ]
+    },
+    {
       "id": "b4bb31af-bcf8-4f20-af95-dd1c0d93f309",
       "firstName": "Eric",
       "lastName": "Martin",
@@ -2304,6 +2433,51 @@
         {
           "questionId": 119284,
           "answerValue": "Westerville"
+        }
+      ]
+    },
+    {
+      "id": "92822169-dd05-414d-b7f5-65ce48889f80",
+      "firstName": "Hazel",
+      "lastName": "Bohon",
+      "bio": "Hazel is a software engineer and mom. When she's not debugging code, you can find her down at the lake fishing with her kids.",
+      "tagLine": "Software Engineer @ Particular",
+      "profilePicture": "https://sessionize.com/image/c422-400o400o1-wsEzpNvjhWCZTDzwEbywC2.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/hazel-bohon-b777759/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://hazel.codes",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://particular.net",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Bluesky",
+          "url": "https://bsky.app/profile/oldbooksmell.bsky.social",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        1129076,
+        1129069
+      ],
+      "fullName": "Hazel Bohon",
+      "categoryItems": [
+        432500
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Minneapolis, MN"
         }
       ]
     },

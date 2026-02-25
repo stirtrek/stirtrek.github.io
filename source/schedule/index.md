@@ -1,5 +1,6 @@
 ---
 title: Schedule
+layout: index
 alias:
 - schedule/index.html
 - schedule/

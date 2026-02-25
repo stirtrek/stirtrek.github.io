@@ -1,5 +1,6 @@
 ---
 title: Tech & a Flick
+layout: index
 ---
 
 

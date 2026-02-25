@@ -1,5 +1,6 @@
 ---
 title: Virtual Conference
+layout: index
 alias:
 - virtual/index.html
 - virtual/

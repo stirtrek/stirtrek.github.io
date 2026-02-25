@@ -1,5 +1,6 @@
 ---
 title: Speakers
+layout: index
 year: 2020
 ---
 

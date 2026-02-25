@@ -256,6 +256,37 @@
       "isConfirmed": true
     },
     {
+      "id": "1129076",
+      "title": "Boiling The Frog: Implementing a Modern Message Based Architecture Without Anyone Noticing",
+      "description": "Organizations are resistant to change, but it may not be for the reasons you think. When it comes to modernizing an application, navigating corporate bureaucracy is often the largest hurdle. Coordinating across multiple departments can be cumbersome and time-consuming. Dev teams often get stuck in a cycle of “hurry up and wait”.\r\n\r\nMost talks about modernization talk about the strangler fig pattern. In this session, we will go beyond strangler fig to discuss how you can leverage technical solutions to subtly but effectively overcome bureaucratic challenges.\r\n\r\nBy empowering your team to move the ball forward, get things done, and achieve as much progress as possible independently, you will have happier developers and happier stakeholders.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "92822169-dd05-414d-b7f5-65ce48889f80"
+      ],
+      "categoryItems": [
+        431275
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "VSLive San Diego 2025, KCDC 2025"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1127647",
       "title": "Caffeinate Your Queries: Brew Up Faster SQL with Tuning",
       "description": "In this session, embark on an engaging exploration as we unravel the mysteries of query tuning. From deciphering sluggish queries to unleashing their full potential, we will explore advanced techniques for optimizing SQL performance. Discover the art of indexing, rewriting queries for efficiency, leveraging execution plans, and unearthing hidden bottlenecks. Whether you're a seasoned developer or SQL enthusiast, you'll leave armed with the skills to transform your queries from coffee-break slow to lightning-fast.",
@@ -539,6 +570,33 @@
       ],
       "categoryItems": [
         431277
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1127535",
+      "title": "Engineering for Reliability and Stability in the Azure Messaging Services",
+      "description": "Anything that can go wrong will go wrong at some point, so it is best to come prepared. Whether you are in the cloud or running your own data center, there is always a risk of power outages, hardware failures, natural disasters, or other unexpected events. These can be especially impactful for critical components in your architecture, such as your message broker. In this session, we explore capabilities that enhance the reliability and stability of Azure Messaging services, specifically Service Bus and Event Hubs.\r\n \r\nWe first look at high-availability options provided by Azure, including transient error handling and Availability Zones, which offer a solid foundation for building reliable workloads. Furthermore, we also examine advanced features that provide additional resilience in unexpected situations, such as Geo-Replication.\r\n \r\nOur recommendations are not limited to the platform itself. We also cover improvements you can implement when building and hosting applications, including retry and exception handling, and the various hosting models available for clients.\r\n \r\nBy attending this session, you will learn practical tips and guidelines directly from the Azure Messaging product group, helping you prepare for unplanned events and maintain confidence in the reliability of your systems.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "11a684d4-ace1-49e8-be4b-c4e5ff215a7c"
+      ],
+      "categoryItems": [
+        431275
       ],
       "questionAnswers": [
         {
@@ -960,6 +1018,37 @@
       "isConfirmed": true
     },
     {
+      "id": "1120833",
+      "title": "Managing the Human Side of Technology: Leadership in Times of Change",
+      "description": "In today's rapidly evolving technological landscape, leaders face the critical challenge of managing the human side of technology. This session delves into the essential aspects of effective Human Management in the digital age.\r\n\r\nAs organizations embrace technological advancements and undergo digital transformations, leaders must navigate the complexities of change, including handling resistance to change and guiding teams through technological transitions. \r\nThis session offers insights, strategies, and practical approaches for leaders to effectively lead their teams through these pivotal moments.\r\n\r\nKey topics covered in this session include:\r\n\r\n-The \"why\" behind the what: How change impacts humans, not just code.\r\n-Turning FUD into fuel: Taming the fear of the unknown and using it to drive progress.\r\n-From \"no way\" to “oh yeah\": Strategies to win buy-in and get your team excited about the journey.\r\n-Tech's not the enemy: Building a culture of continuous learning and embracing change as a superpower.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c6834890-beee-4a69-96fe-ba6915ae9947"
+      ],
+      "categoryItems": [
+        431279
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Drupal Gov Con"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1126959",
       "title": "MCP Demystified 🤖",
       "description": "It is the age of AI, and there is a huge opportunity for developers to infuse apps with solutions powered by generative AI and large/small language models. Modern AI is big opportunity to streamline and automate developer workflows for better productivity. There are some challenges though – AI Models often lack context, and AI Agents need expertise to reliably pull off complex workflows across disparate systems.\r\n\r\nModel Context Protocol (MCP) can help. Developed as an open standard, MCP aims to provide a standardized way to connect AI models to different data sources, tools and non-public information. The point is to provide deep contextual information/APIs/data as tools to AI models/agents—MCP services also support robust authentication/authorization toward executing specific tasks on behalf of users.\r\n\r\nDevelopers can think of MCP as a common standardized language for information exchange between AI Agents/systems - MCP is growing in popularity and is showing a lot of promise as the emerging standard that bridges AI models with the tools they rely on. Beyond the hype, let’s understand the promise of MCP and explore tooling to easily create MCP Servers/Clients. With official SDKs, it is a breeze to work with MCP and boost AI Model responses or surface tools to extend AI Agents. Developers could bring their own data, APIs, services and more through MCP - and have it surfaced through Agents in GitHub Copilot/Claude Code/Cursor. MCP provides a standardized protocol for bringing contextual expertise to the AI world and light up unique workflows for integrations – upwards and onwards.\r\n",
@@ -977,6 +1066,33 @@
         {
           "questionId": 118563,
           "answerValue": "true"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1129069",
+      "title": "Microservices for Pragmatists",
+      "description": "Microservices architecture is often perceived as a pattern primarily suited for large organizations operating at web scale. However, it is equally applicable to smaller to medium-sized applications for internal use or smaller-scale public deployments. The scalability benefits of microservices are one of the compelling reasons to consider this architectural pattern.\r\n\r\nIn this presentation, we will explore the advantages and trade-offs associated with microservices. You will gain insights into the architectural patterns of microservices from a practical perspective. Real-world software development scenarios often present unique constraints; this presentation will guide you in identifying the aspects of microservices that align with your project’s requirements while ensuring compliance with the constraints.\r\n\r\n\r\nLearning objectives:\r\n\r\n* Benefits of microservices for small/medium scale deployments\r\n* Trade-offs associated with microservices\r\n* How to pragmatically apply microservice design principles for your projects",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "92822169-dd05-414d-b7f5-65ce48889f80"
+      ],
+      "categoryItems": [
+        431275
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
         }
       ],
       "roomId": null,
@@ -1436,6 +1552,33 @@
       ],
       "categoryItems": [
         431275
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1143759",
+      "title": "Why Tech Debt Never Gets Prioritized (And Why \"Explain the Business Impact\" Won't Fix It)",
+      "description": "Engineering leaders see critical infrastructure problems with painful clarity, but often struggle to get buy-in to solve them. \r\n\r\nThe problem isn't engineers' ability to explain \"business impact.\" It's that engineering work remains fundamentally invisible to stakeholders. \r\n\r\nThis talk reveals why traditional ROI frameworks fail for engineering, and demonstrates a practical approach that moves tech debt conversations from political negotiations into collaborative problem-solving.\r\n\r\nThis is a new talk, but will be based of a prior presentation + article I've written (links below for reference): \r\nhttps://thoughtfuleng.substack.com/p/explain-the-business-impact-and-other\r\nhttps://docs.google.com/presentation/d/1benjYFKu0WVIndhjeOtFwwaDbSVooc7diW3BZkRdX-4/edit?usp=sharing",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a50719cd-3a8b-4bbc-b5ea-5085920b328d"
+      ],
+      "categoryItems": [
+        431279
       ],
       "questionAnswers": [
         {
@@ -2036,6 +2179,45 @@
       ]
     },
     {
+      "id": "a50719cd-3a8b-4bbc-b5ea-5085920b328d",
+      "firstName": "Christine",
+      "lastName": "Miao",
+      "bio": "Christine Miao is an exited founder, product/tech leader, and creator of technical accounting. \r\n\r\nTechnical accounting is an accurate, intuitive, way to track resourcing, maintenance, and architecture. It turns massive initiatives - like breaking up monoliths, complex refactors, or cleaning up tech debt - into visual reports simple enough to explain to your grandmother.\r\n\r\nPreviously, she led some of the first Agile Transformation projects at McKinsey Digital. She has worked with dozens of organizations - from idea to Fortune 50 - launch and improve their products. \r\n\r\nShe now researches technical accounting full-time while writing at Thoughtful Engineering, which aims to educate, demystify, and promote healthy engineering cultures.",
+      "tagLine": "Creator of Technical Accounting",
+      "profilePicture": "https://sessionize.com/image/7415-400o400o1-pQddWVDopTokW2r9E8q211.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/cmiao/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://thoughtfuleng.substack.com/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://technicalaccounting.net/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1143759
+      ],
+      "fullName": "Christine Miao",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "NYC"
+        }
+      ]
+    },
+    {
       "id": "424f7166-a882-473f-b05e-15aed7f9ff86",
       "firstName": "Cory",
       "lastName": "House",
@@ -2159,6 +2341,50 @@
       ]
     },
     {
+      "id": "11a684d4-ace1-49e8-be4b-c4e5ff215a7c",
+      "firstName": "Eldert",
+      "lastName": "Grootenboer",
+      "bio": "Eldert is always enthusiastic about embarking on new journeys with the Cloud, and Azure in particular. He is very passionate about growing his dreams and teams, and goes above and beyond to help those with the same spark. Eldert comes from a background as a cloud solution architect and Technology Lead, was an Azure MVP for 5 consecutive years, and is now working as a Principal Product Manager at Microsoft for Azure Service Bus.\r\n\r\nAlways having a smile on his face, Eldert can be found delivering noteworthy sessions at in-person conferences, meetups, and online platforms. He values sharing and spreading knowledge while building genuine connections regardless of background and expertise. His goal is to bring people closer and work together to influence the outcome and optimize the future of Cloud technologies.",
+      "tagLine": "Principal Product Manager @Microsoft | #Azure Service Bus | Former #Azure MVP | Community Enthousiast",
+      "profilePicture": "https://sessionize.com/image/e429-400o400o1-9RPoRHnaTYMhSUahaUqUKw.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "https://twitter.com/egrootenboer",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/eldert-grootenboer",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLt1B6S57RxWFVeoLXOiYYIyUYgDyXLkCx",
+          "linkType": "Other"
+        },
+        {
+          "title": "Bluesky",
+          "url": "https://bsky.app/profile/eldert.net",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        1127535
+      ],
+      "fullName": "Eldert Grootenboer",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Seattle"
+        }
+      ]
+    },
+    {
       "id": "b4bb31af-bcf8-4f20-af95-dd1c0d93f309",
       "firstName": "Eric",
       "lastName": "Martin",
@@ -2238,6 +2464,51 @@
         {
           "questionId": 119284,
           "answerValue": "Westerville"
+        }
+      ]
+    },
+    {
+      "id": "92822169-dd05-414d-b7f5-65ce48889f80",
+      "firstName": "Hazel",
+      "lastName": "Bohon",
+      "bio": "Hazel is a software engineer and mom. When she's not debugging code, you can find her down at the lake fishing with her kids.",
+      "tagLine": "Software Engineer @ Particular",
+      "profilePicture": "https://sessionize.com/image/c422-400o400o1-wsEzpNvjhWCZTDzwEbywC2.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/hazel-bohon-b777759/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://hazel.codes",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://particular.net",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Bluesky",
+          "url": "https://bsky.app/profile/oldbooksmell.bsky.social",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        1129076,
+        1129069
+      ],
+      "fullName": "Hazel Bohon",
+      "categoryItems": [
+        432500
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Minneapolis, MN"
         }
       ]
     },
@@ -2355,6 +2626,45 @@
         {
           "questionId": 119284,
           "answerValue": "Las Vegas"
+        }
+      ]
+    },
+    {
+      "id": "c6834890-beee-4a69-96fe-ba6915ae9947",
+      "firstName": "Jeff",
+      "lastName": "McWherter",
+      "bio": "Jeff McWherter is a seasoned business leader and tenacious problem solver with over 26 years in the tech industry. He has a deep understanding of the business landscape with a keen ability to navigate complex challenges with creativity and agility. From local startup to Fortune 500, he has worked with a wide client range, always adapting to the unique needs and challenges of each project. He has developed a deep understanding of the trends and technologies shaping the future of business, and is constantly seeking out new ideas and insights to stay ahead of the curve. Jeff is a three time published author and avid speaker at technical conferences across the world. A Michigan State University graduate, Jeff has also been instrumental in improving the software development community in Michigan and beyond. He founded Gravity Works Design & Development during the 2009 recession, which has since grown into one of the country's leading digital agencies. Jeff has led more than a decade of consistent, managed growth and numerous creative accolades, including Addy, W3, Vega, Davey, and PACE awards.\r\n\r\nJeff believes strong relationships are the foundation of any successful business venture, and is committed to fostering those connections both inside and outside the office. As a father and active community member, Jeff knows success isn't just about achieving your own goals: it's about helping others reach theirs. Whether leading a project, volunteering locally, or cheering on his daughters, Jeff is always looking to make a positive impact in the world around him.\r\n\r\nJeff's commitment to helping others achieve their goals is a testament to his leadership, fresh perspectives, and innovative solutions. Join the conversation, and get information about speaking engagements and projects.",
+      "tagLine": "Chief Operating Officer at Gravity Works Design",
+      "profilePicture": "https://sessionize.com/image/7b1f-400o400o1-M2KbeEykRZkkrwUiVGomqQ.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jmcw/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.mcwherter.net",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.gravityworksdesign.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1120833
+      ],
+      "fullName": "Jeff McWherter",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Michigan"
         }
       ]
     },

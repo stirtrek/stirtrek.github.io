@@ -342,6 +342,7 @@ a.btn-comic:hover {
     color: var(--stir-dark);
     text-shadow: none;
     margin: 0;
+    line-height: 1em;
 }
 
 .hero-date-panel .date-detail {

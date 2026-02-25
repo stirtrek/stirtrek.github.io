@@ -2031,3 +2031,48 @@ article#sponsor_download_contacts div#download_contacts {
 #sponsorTaskAdminContainer .sponsorTaskAdminItems {
     font-size: 12px;
 }
+
+/* Archive list styles: compact list with optional thumbnail */
+.archive-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.archive-item {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 12px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.04);
+}
+
+.archive-thumb img {
+    width: 80px;
+    height: 60px;
+    object-fit: cover;
+    display: block;
+    border: 2px solid rgba(255,255,255,0.06);
+}
+
+.archive-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.archive-date {
+    font-size: 0.85rem;
+    color: var(--stir-gray);
+    margin-bottom: 6px;
+}
+
+.archive-title a {
+    color: var(--stir-white);
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.archive-title a:hover {
+    text-decoration: underline;
+}
+

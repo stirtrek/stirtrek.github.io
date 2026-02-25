@@ -1,5 +1,6 @@
 ---
 title: Recorded Sessions
+layout: index
 alias:
 - recordings/index.html
 - recordings/

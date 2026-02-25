@@ -1,4 +1,5 @@
 ---
+layout: index
 title: Travel Information
 alias:
 - resources/travel/index.html

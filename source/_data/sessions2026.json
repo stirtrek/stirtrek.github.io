@@ -1018,6 +1018,37 @@
       "isConfirmed": true
     },
     {
+      "id": "1120833",
+      "title": "Managing the Human Side of Technology: Leadership in Times of Change",
+      "description": "In today's rapidly evolving technological landscape, leaders face the critical challenge of managing the human side of technology. This session delves into the essential aspects of effective Human Management in the digital age.\r\n\r\nAs organizations embrace technological advancements and undergo digital transformations, leaders must navigate the complexities of change, including handling resistance to change and guiding teams through technological transitions. \r\nThis session offers insights, strategies, and practical approaches for leaders to effectively lead their teams through these pivotal moments.\r\n\r\nKey topics covered in this session include:\r\n\r\n-The \"why\" behind the what: How change impacts humans, not just code.\r\n-Turning FUD into fuel: Taming the fear of the unknown and using it to drive progress.\r\n-From \"no way\" to “oh yeah\": Strategies to win buy-in and get your team excited about the journey.\r\n-Tech's not the enemy: Building a culture of continuous learning and embracing change as a superpower.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c6834890-beee-4a69-96fe-ba6915ae9947"
+      ],
+      "categoryItems": [
+        431279
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Drupal Gov Con"
+        }
+      ],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1126959",
       "title": "MCP Demystified 🤖",
       "description": "It is the age of AI, and there is a huge opportunity for developers to infuse apps with solutions powered by generative AI and large/small language models. Modern AI is big opportunity to streamline and automate developer workflows for better productivity. There are some challenges though – AI Models often lack context, and AI Agents need expertise to reliably pull off complex workflows across disparate systems.\r\n\r\nModel Context Protocol (MCP) can help. Developed as an open standard, MCP aims to provide a standardized way to connect AI models to different data sources, tools and non-public information. The point is to provide deep contextual information/APIs/data as tools to AI models/agents—MCP services also support robust authentication/authorization toward executing specific tasks on behalf of users.\r\n\r\nDevelopers can think of MCP as a common standardized language for information exchange between AI Agents/systems - MCP is growing in popularity and is showing a lot of promise as the emerging standard that bridges AI models with the tools they rely on. Beyond the hype, let’s understand the promise of MCP and explore tooling to easily create MCP Servers/Clients. With official SDKs, it is a breeze to work with MCP and boost AI Model responses or surface tools to extend AI Agents. Developers could bring their own data, APIs, services and more through MCP - and have it surfaced through Agents in GitHub Copilot/Claude Code/Cursor. MCP provides a standardized protocol for bringing contextual expertise to the AI world and light up unique workflows for integrations – upwards and onwards.\r\n",
@@ -2595,6 +2626,45 @@
         {
           "questionId": 119284,
           "answerValue": "Las Vegas"
+        }
+      ]
+    },
+    {
+      "id": "c6834890-beee-4a69-96fe-ba6915ae9947",
+      "firstName": "Jeff",
+      "lastName": "McWherter",
+      "bio": "Jeff McWherter is a seasoned business leader and tenacious problem solver with over 26 years in the tech industry. He has a deep understanding of the business landscape with a keen ability to navigate complex challenges with creativity and agility. From local startup to Fortune 500, he has worked with a wide client range, always adapting to the unique needs and challenges of each project. He has developed a deep understanding of the trends and technologies shaping the future of business, and is constantly seeking out new ideas and insights to stay ahead of the curve. Jeff is a three time published author and avid speaker at technical conferences across the world. A Michigan State University graduate, Jeff has also been instrumental in improving the software development community in Michigan and beyond. He founded Gravity Works Design & Development during the 2009 recession, which has since grown into one of the country's leading digital agencies. Jeff has led more than a decade of consistent, managed growth and numerous creative accolades, including Addy, W3, Vega, Davey, and PACE awards.\r\n\r\nJeff believes strong relationships are the foundation of any successful business venture, and is committed to fostering those connections both inside and outside the office. As a father and active community member, Jeff knows success isn't just about achieving your own goals: it's about helping others reach theirs. Whether leading a project, volunteering locally, or cheering on his daughters, Jeff is always looking to make a positive impact in the world around him.\r\n\r\nJeff's commitment to helping others achieve their goals is a testament to his leadership, fresh perspectives, and innovative solutions. Join the conversation, and get information about speaking engagements and projects.",
+      "tagLine": "Chief Operating Officer at Gravity Works Design",
+      "profilePicture": "https://sessionize.com/image/7b1f-400o400o1-M2KbeEykRZkkrwUiVGomqQ.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jmcw/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.mcwherter.net",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.gravityworksdesign.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1120833
+      ],
+      "fullName": "Jeff McWherter",
+      "categoryItems": [
+        432499
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 119284,
+          "answerValue": "Michigan"
         }
       ]
     },

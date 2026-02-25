@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1772002703733';
+var CACHE = 'network-or-cache-1772009025101';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -25,9 +25,9 @@ self.addEventListener('fetch', function(evt) {
     return caches.open(CACHE).then(function (cache) {
         return cache.addAll([
             "/images/speakers/2022/Readme.html",
+"/manifest.json",
 "/",
 "/index.html",
-"/manifest.json",
 "/404.html",
 "/recordings/",
 "/recordings/index.html",
@@ -42,11 +42,11 @@ self.addEventListener('fetch', function(evt) {
 "/speakers/2020.html",
 "/speakers/2021.html",
 "/speakers/2022.html",
+"/speakers/2023.html",
 "/speakers/2024.html",
 "/speakers/2025.html",
 "/speakers/",
 "/speakers/index.html",
-"/speakers/2023.html",
 "/speakers/index_cfpopenversion.html",
 "/speakers/index_noncfpversion.html",
 "/sponsors/",
@@ -55,10 +55,10 @@ self.addEventListener('fetch', function(evt) {
 "/store/index.html",
 "/virtual/",
 "/virtual/index.html",
-"/workshops/",
-"/workshops/index.html",
 "/info/antiharassmentpolicy/",
 "/info/antiharassmentpolicy/index.html",
+"/workshops/",
+"/workshops/index.html",
 "/info/codeofconduct/",
 "/info/codeofconduct/index.html",
 "/info/commitmenttodiversity/",
@@ -67,11 +67,11 @@ self.addEventListener('fetch', function(evt) {
 "/info/contact/index.html",
 "/info/history/",
 "/info/history/index.html",
-"/info/privacy/",
-"/info/privacy/index.html",
 "/info/press/2024-02-10.html",
 "/info/press/",
 "/info/press/index.html",
+"/info/privacy/",
+"/info/privacy/index.html",
 "/info/travel/",
 "/info/travel/index.html",
 "/styles/fontawesome-6/css/brands.min.css",
@@ -106,8 +106,8 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/all.css",
 "/styles/bootstrap.min.css",
 "/styles/bootstrap.css",
-"/scripts/jquery-3.3.1.js",
 "/scripts/jquery-3.3.0.js",
+"/scripts/jquery-3.3.1.js",
 "/speakers/2018/Adam-Pasternack.html",
 "/speakers/2018/Angel-Thomas.html",
 "/speakers/2018/Anna-Heiermann.html",

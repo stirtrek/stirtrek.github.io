@@ -1,4 +1,5 @@
 ---
+layout: index
 title: Store Trek
 alias:
 - store/index.html

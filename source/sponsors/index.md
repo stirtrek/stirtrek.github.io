@@ -1,5 +1,6 @@
 ---
 title: Sponsors
+layout: index
 alias:
 - sponsors/index.html
 - sponsors/

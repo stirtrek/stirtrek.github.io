@@ -951,6 +951,7 @@ a.btn-comic:hover {
 
 .footer-main-content {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
 }
@@ -1008,6 +1009,61 @@ a.btn-comic:hover {
 
 .footer-heart {
     color: var(--stir-red);
+}
+
+/* Footer: below 992px the links col (col-xs-12) wraps to its own row */
+@media only screen and (max-width: 991px) {
+    .footer-links-col {
+        text-align: center;
+        padding-top: 20px;
+        border-top: 1px solid rgba(255,255,255,0.08);
+        margin-top: 8px;
+    }
+}
+
+/* Footer: below 600px stack and center everything */
+@media only screen and (max-width: 600px) {
+    #footerNavContainer {
+        padding: 32px 20px;
+    }
+
+    .footer-main-content {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 4px;
+    }
+
+    .footer-main-content [class*="col-"] {
+        width: 100% !important;
+        float: none !important;
+        padding: 0 !important;
+        text-align: center !important;
+    }
+
+    .footer-logo-container {
+        width: 100% !important;
+    }
+
+    .footer-logo {
+        margin: 0 auto;
+    }
+
+    .footer-links-container {
+        margin: 0;
+        text-align: center;
+    }
+
+    .footer-links-col {
+        border-top: 1px solid rgba(255,255,255,0.08);
+        padding-top: 20px !important;
+        margin-top: 4px;
+    }
+
+    .footer-links-col a {
+        display: inline-block;
+        margin: 3px 0;
+    }
 }
 
 /* --- Global Links --- */

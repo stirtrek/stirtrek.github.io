@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1772088991410';
+var CACHE = 'network-or-cache-1772095331660';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -24,10 +24,10 @@ self.addEventListener('fetch', function(evt) {
   function precache() {
     return caches.open(CACHE).then(function (cache) {
         return cache.addAll([
-            "/manifest.json",
-"/404.html",
-"/",
+            "/",
 "/index.html",
+"/manifest.json",
+"/404.html",
 "/blog/",
 "/blog/index.html",
 "/recordings/",
@@ -42,8 +42,8 @@ self.addEventListener('fetch', function(evt) {
 "/speakers/2019.html",
 "/speakers/2020.html",
 "/speakers/2021.html",
-"/speakers/2022.html",
 "/speakers/2023.html",
+"/speakers/2022.html",
 "/speakers/2024.html",
 "/speakers/2025.html",
 "/speakers/",
@@ -66,9 +66,9 @@ self.addEventListener('fetch', function(evt) {
 "/info/commitmenttodiversity/index.html",
 "/info/contact/",
 "/info/contact/index.html",
-"/info/press/2024-02-10.html",
 "/info/history/",
 "/info/history/index.html",
+"/info/press/2024-02-10.html",
 "/info/press/",
 "/info/press/index.html",
 "/info/privacy/",
@@ -83,8 +83,8 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/solid.min.css",
 "/styles/fontawesome-6/css/svg-with-js.css",
 "/styles/fontawesome-6/css/svg-with-js.min.css",
-"/styles/fontawesome-6/css/v4-font-face.css",
 "/styles/fontawesome-6/css/v4-font-face.min.css",
+"/styles/fontawesome-6/css/v4-font-face.css",
 "/styles/fontawesome-6/css/v5-font-face.css",
 "/styles/fontawesome-6/css/v5-font-face.min.css",
 "/styles/bootstrap-button-social.min.css",
@@ -93,8 +93,8 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/v4-shims.min.css",
 "/scripts/bootstrap.min.js",
 "/styles/fontawesome-all.min.css",
-"/styles/fontawesome.min.css",
 "/styles/site.css",
+"/styles/fontawesome.min.css",
 "/styles/fontawesome-6/css/v4-shims.css",
 "/styles/fontawesome-6/css/fontawesome.min.css",
 "/scripts/bootstrap.js",
@@ -108,8 +108,8 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/all.css",
 "/styles/bootstrap.min.css",
 "/styles/bootstrap.css",
-"/scripts/jquery-3.3.1.js",
 "/scripts/jquery-3.3.0.js",
+"/scripts/jquery-3.3.1.js",
 "/2026/02/25/2026-02-25-A-Puzzle-to-Solve/",
 "/speakers/2018/Adam-Pasternack.html",
 "/speakers/2018/Angel-Thomas.html",

@@ -28,8 +28,14 @@
             {
                 "name": "CGI",
                 "link": "https://www.cgi.com/",
-                "description": "Founded in 1976, CGI is a leading global IT and business consulting firm. We offer insights-driven, outcomes-based services to boost your investment returns. Operating in 21 industries across 400 locations, we deliver scalable, sustainable solutions.",
+                "description": "Insights you can act on. Founded in 1976, CGI is among the largest IT and business consulting services firms in the world. We are insights-driven and outcomes-focused to help accelerate returns on your investments.",
                 "logo": "/images/sponsors/cgi_350x200v2.jpg"
+            },
+            {
+                "name": "IGS",
+                "link": "https://www.igs.com/",
+                "description": "IGS Energy is a family-owned energy company serving over 1 million customers. They offer green electricity, carbon-neutral natural gas, and solar solutions emphasizing sustainability and tailored energy strategies.",
+                "logo": "/images/sponsors/IGS_350x200v2.png"
             }
         ],
         "bronze":[

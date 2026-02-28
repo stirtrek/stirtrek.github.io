@@ -1,5 +1,6 @@
 ---
 title: Sessions
+layout: index
 alias:
 - sessions/index.html
 - sessions/

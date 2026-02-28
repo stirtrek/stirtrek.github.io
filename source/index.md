@@ -1,5 +1,6 @@
 ---
 title: Tech & a Flick
+layout: index
 ---
 
 
@@ -61,7 +62,7 @@ title: Tech & a Flick
             <span class="ticket-tier-name">Super Early Bird</span>
             <div class="ticket-price">$165</div>
             <p class="ticket-note">First 50</p>
-            <p class="ticket-date">2/24</p>
+            <p class="ticket-date">&nbsp;</p>
             <p class="btn-comic btn-comic-sm">Sold Out!</p>
         </div>
         <div class="ticket-card comic-panel-light">
@@ -81,14 +82,14 @@ title: Tech & a Flick
         <div class="ticket-card comic-panel-light">
             <span class="ticket-tier-name">Late</span>
             <div class="ticket-price">$255</div>
-            <p class="ticket-note">Don't be late!</p>
-            <p class="ticket-date">3/24</p>
+            <p class="ticket-note">Price increases 3/24</p>
+            <p class="ticket-date">Don't be late!</p>
         </div>
         <div class="ticket-card comic-panel-light">
             <span class="ticket-tier-name">No Box</span>
             <div class="ticket-price">$255</div>
             <p class="ticket-note">No swag box</p>
-            <p class="ticket-date">4/1</p>
+            <p class="ticket-date">For Orders After 4/1</p>
         </div>
     </div>
     <div class="ticket-end-notice comic-panel-light">

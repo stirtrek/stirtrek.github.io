@@ -1,4 +1,5 @@
 ---
+layout: index
 title: Workshops
 year: 2024
 alias:

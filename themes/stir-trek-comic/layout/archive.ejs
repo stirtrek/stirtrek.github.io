@@ -1,0 +1,39 @@
+<%# Archive layout: show date, title, and thumbnail (uses `url_image` or `image_url`, falls back to missing image) %>
+
+<div class="body-content" role="main">
+
+<h1 id="blogposts">Latest Posts from the Team</h1><div class="icon-hr"></div>
+
+<% if (page && page.title) { %>
+  <h1><%= page.title %></h1>
+<% } %>
+
+<% if (site.posts && site.posts.length) { %>
+  <ul class="archive-list">
+    <% site.posts.each(function(post){ %>
+      <% // Choose the thumbnail source: prefer post.url_image or post.image_url, otherwise use default missing image %>
+      <% var defaultThumb = '/images/StirTrek-Logo-Banner-453x350.png'; %>
+      <% var thumb = (post.url_image || post.image_url) ? (post.url_image || post.image_url) : defaultThumb; %>
+      <% var thumbUrl = ''; %>
+      <% if (thumb) { %>
+        <% if (/^https?:\/\//.test(thumb)) { thumbUrl = thumb; } else { thumbUrl = url_for(thumb); } %>
+      <% } %>
+
+      <li class="archive-item">
+        <div class="archive-thumb">
+          <a href="<%= url_for(post.path) %>"><img src="<%= thumbUrl %>" alt="<%= post.title %> thumbnail"></a>
+        </div>
+
+        <div class="archive-info">
+          <div class="archive-date"><%= post.date.format(config.date_format || 'YYYY-MM-DD') %></div>
+          <% var displayTitle = post.title || post.slug || post.source || '(Untitled)'; %>
+          <div class="archive-title"><a href="<%= url_for(post.path) %>"><%= displayTitle %></a></div>
+        </div>
+      </li>
+    <% }) %>
+  </ul>
+<% } else { %>
+  <p>No posts found.</p>
+<% } %>
+
+</div>

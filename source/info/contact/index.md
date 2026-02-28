@@ -1,4 +1,5 @@
 ---
+layout: index
 title: Contact Us
 ---
 

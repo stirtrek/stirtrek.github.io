@@ -1,4 +1,5 @@
 ---
+layout: index
 title: Registration
 alias:
 - registration/index.html

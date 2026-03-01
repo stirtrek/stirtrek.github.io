@@ -65,6 +65,23 @@
     <!-- <script src="/scripts/bootstrap.js"></script> -->
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <link href="/styles/site.css" rel="stylesheet">
+
+    <script>
+        // Run this on page load (or early in your boot code)
+        (async () => {
+            if (!('serviceWorker' in navigator)) return;
+
+            // Unregister all service workers for this origin
+            const registrations = await navigator.serviceWorker.getRegistrations();
+            await Promise.all(registrations.map(r => r.unregister()));
+
+            // Clear SW caches
+            if ('caches' in window) {
+                const keys = await caches.keys();
+                await Promise.all(keys.map(k => caches.delete(k)));
+            }
+        })();
+    </script>
 <meta name="generator" content="Hexo 7.3.0"></head>
     
     <body>

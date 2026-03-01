@@ -2863,6 +2863,11 @@
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/kellyivymorrison/",
           "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.cgi.com/",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [

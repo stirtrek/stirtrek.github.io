@@ -53,19 +53,23 @@ showSpeakers: true
 
 Then go to the Get Code page and copy the URL for this API and paste it in the _config.yml file under `sessionizeApiUrl`.
 
-There's a helpful node script that will download this for you. From the root directory, run `node scripts-manuallyexecuting/download-sessionize-details.js`.  It'll download whatever is at the `sessionizeApiUrl` and save it for you. Commit those changes to upload the speakers.
+If you want to run this manually, there's a helpful node script that will download this for you. From the root directory, run `node scripts-manuallyexecuting/download-sessionize-details.js`.  It'll download whatever is at the `sessionizeApiUrl` and save it for you. Commit those changes to upload the speakers.
+
+This is automated via GitHub actions so you don't have to do this yourself anymore.
 
 ## How do speaker/session pages get generated?
 Files in /scripts get run during a `hexo generate`, reading the data files, creating data for each individual html, and merging them with the appriorate templates. Also, magic.
+
+This also runs via GitHub actions in an automated fashion but you can run it manually if you want.
 
 ## How does the schedule get generated
 Use the Sessionize schedule builder to layout all the sessions. Add service sessions for breakfast, lunch, the movie, etc. Each session has to be in a room so the service sessions should be in one called "Concourse" or "General".
 
 Do not add the suffix " Room" to the name since the website will do that automatically. Any room named "Virtual" will be treated slightly different on the website and will not include the " Room" suffix.
 
-Once you've downloaded the Sessionize data, you should run `node scripts-manuallyexecuting/build-schedule-from-sessions.js` and then commit the file it creates.
+The GitHub actions will generate this for you if `showSchedule: true` in _config.yml.
 
-Be sure the publish the schedule on the right side of the Accepted Sessions page.
+If you want to do this manually, download the Sessionize data and run `node scripts-manuallyexecuting/build-schedule-from-sessions.js` and then commit the file it creates. Be sure the publish the schedule on the right side of the Accepted Sessions page.
 
 ## How do I change static content?
 All of the static pages exist in /source/ as Markdown files. For example:

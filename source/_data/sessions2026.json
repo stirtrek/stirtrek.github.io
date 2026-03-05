@@ -1,328 +1,29 @@
 {
   "sessions": [
     {
-      "id": "1131023",
-      "title": "150K Lines, 0 Unit Tests, No Documentation: How To Work With A Software Landfill",
-      "description": "Most programmers don't start projects from scratch, but inherit them. Often, we join large, messy, years-old code bases that are poorly tested and documented, and are intimidating to work with. Working with them can feel like tap dancing through a mine field.\r\n\r\nGenerative AI also provides challenges for software developers, as it can generate huge amounts of code that need to be understood.\r\n\r\nThis talk offers practical strategies for navigating and improving legacy code. We'll see techniques like using git history with scripts to identify software hot spots, introducing software \"seams\" for safe refactoring, and isolating risky changes through \"sprouting\" and \"wrapping\" techniques. You'll see how small, strategic changes can introduce stability without requiring massive rewrites.\r\n\r\nAttendees will leave with concrete, proven techniques for understanding, modifying, and improving legacy code bases with confidence. ",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "b765d60f-4717-4116-b9f2-002c8a10bd88"
-      ],
-      "categoryItems": [
-        431274
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
+      "id": "c4dd162f-c4e1-420b-8b09-b07dac8aa831",
+      "title": "Breakfast",
+      "description": null,
+      "startsAt": "2026-05-01T11:30:00Z",
+      "endsAt": "2026-05-01T12:25:00Z",
+      "isServiceSession": true,
+      "isPlenumSession": true,
+      "speakers": [],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 77074,
       "liveUrl": null,
       "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1138947",
-      "title": "A developer’s guide to making security reviews suck less",
-      "description": "In many companies, security reviews suck. You’ve spent weeks or months grinding on a new feature and you’re finally ready to push to production, only to have a security review at the eleventh hour spark chaos. A security engineer raises a concern that might be valid or might be a total misunderstanding, but either way, it leads to urgent meetings, escalations, and complicated Go/No-Go decisions.\r\n\r\nIn this talk, we will dive into how to navigate these reviews without the drama. As an AppSec Director, I will help you understand exactly what security teams are looking for and why. I’ll show you anticipate their concerns and requirements so you aren’t surprised by scope creep right before code complete. We will explore how to effectively engage your security team, what specific information they need from you, and how to speak their language so you can accurately address concerns and get to the heart of their requirements.\r\n\r\nBy the end of this session, you will have a straightforward strategy to streamline your next security review and build a more collaborative relationship with your security partners. You will walk away with the tools to reduce the friction that leads to pre-launch panic, helping your team ship with significantly fewer headaches.\r\n",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "d06fd6a1-87cf-4d20-a5e0-2dd64c2039bb"
-      ],
-      "categoryItems": [
-        431280
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1127143",
-      "title": "Agents & Arbiters - An Adventurer’s Guide to Multi-Agent Collaboration with LangGraph.js",
-      "description": "Building interactive systems with conventional coding means trying to anticipate every possible user action and writing the right response. This quickly becomes nigh impossible. You end up lost in a maze of recursion, fragility, and nested if statements. The more interactive you make your system, the more complex your code gets, until debugging feels like being eaten by a grue—you know something's wrong, but you're just fumbling around in the dark.\r\n\r\nThere's a better way. Instead of scripting every interaction, we can give some of the elements in our system their own intelligence. Multi-agent collaboration lets us create systems where entities can become autonomous agents with their own perspectives and voices. Imagine a text-based adventure game where the brass lantern, the white house, and even the mailbox have something to say when responding to the player. Or consider a help desk system where agents from billing, technical support, and account management each weigh in to determine the best solution for a customer.\r\n\r\nIn this session, we'll explore multi-agent collaboration through a live demo of a text-based adventure system. You'll meet the orchestration workflow—router, classifier, agents, arbiter, and committer—and discover how LangGraph.js coordinates the chaos when multiple agents want to respond. We'll shine our brass lantern over the code to see how it uses Redis and LangGraph.js to make it all work. Then, we'll explore how this same approach solves real-world problems beyond gaming.\r\n\r\nWhen the adventure's over, you'll understand how to coordinate agents to handle complex interactions and know when this is a good approach. You'll have a working example you can adapt for your own adventures—be they exploring the Great Underground Empire, customer service platforms, or content management systems. And, you'll never look at building interactive systems the same way again.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "520bf4ca-b2d3-47c3-8475-c25bb2b257f7"
-      ],
-      "categoryItems": [
-        431276
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "CodeMash, other places by the time Stir Trek rolls around"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1123424",
-      "title": "AI in Agile: How to Leverage AI for Smarter Sprints & Roadmaps",
-      "description": "AI isn’t just disrupting industries; it’s redefining how Agile team's work. From backlog grooming to sprint planning, modern tools like ChatGPT, Jira Assist, and GitHub Copilot are helping Agile leaders and teams move faster, think smarter, and focus more on value delivery than manual overhead.\r\n\r\nIn this forward-looking session, we’ll explore how AI is transforming the Agile lifecycle. You’ll see real-world examples and a live demo showing how AI can assist with generating user stories, refining acceptance criteria, summarizing retrospectives, and even forecasting roadmap scenarios.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "8d6efde2-af82-4fb9-9d6a-1a88369657c1"
-      ],
-      "categoryItems": [
-        431276
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1119472",
-      "title": "An intro to Retrieval Augmented Generation (RAG)",
-      "description": "Learn to deliver AI search and Generative Answers on top of your unstructured data. RAG is easy to prototype but hard to run in production. In this session we'll start with retrieval augmented generation basics by building a simple proof of concept. Then, we'll compare solutions meant for scale with Agentic RAG, RAG Graph, and Entity Recognition. Throughout we'll see examples of how RAG applies to modern app development.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "3fd9cade-10ef-43df-b124-944015042549"
-      ],
-      "categoryItems": [
-        431276
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1129012",
-      "title": "Application Architecture Patterns",
-      "description": "Architecting an application can be challenging.  What do you do to keep your application flexible to ever-constant requirement changes? How do you handle landscape changes (cloud, on-premises, databases)? How do you avoid over-engineering the application? How do I make sure my application plays well with other applications?\r\n\r\nIn this session, we'll take a look at some well-understood and practiced Software Architecture patterns.  We'll cover these patterns at a high level to understand how to use these patterns in different scenarios.\r\n\r\nYou'll walk away with some knowledge, tips, and tricks that you'll be able to use for new and existing applications.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "137fb55c-d120-4a6b-9e15-98123df17302"
-      ],
-      "categoryItems": [
-        431275
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "https://www.youtube.com/watch?v=MGIWrvHjww8&list=PLESGit66MnbmnDhXdTZicVFF2Pql430pJ&index=13&pp=gAQBiAQB2AYOsAgC"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1128156",
-      "title": "Automating User Interface Tests with Playwright",
-      "description": "Testing a user interface is an important part of the development life cycle. However this testing is often done manually, which is expensive, time-consuming, and often inconsistent. Automating this process can make UI testing far more effective and efficient.\r\n\r\nAzure Playwright is an open source node.js project that provides a way to automate user interface testing.\r\n\r\nBy the end of this session, you’ll know how to:\r\n- Automate repetitive coding tasks with Playwright\r\n- Record user actions and use the rich object model to automate your tests\r\n- Integrate Copilot into your CI/CD pipeline\r\n- Reduce test development time.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "fe170f42-5405-4ad7-a69f-2276f081bf7e"
-      ],
-      "categoryItems": [
-        431281
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1126337",
-      "title": "Better the Devil you NoSQL - A Battle of Paradigms",
-      "description": "SQL or NoSQL? We’ll build the same app on DynamoDB and on Aurora DSQL, the latest cloud native database. Then compare modeling, query patterns, cost, latency, transactions, and ops. Takeaway practical insights from this packed micro demo. \r\n\r\n## Abstract\r\nI spent years living happily in my NoSQL safe space. I avoided SQL out of intimidation, without realizing the cost. Inspired by Ghost Rider’s redemption arc, I used the Devil I know to learn about the one I don’t. We’ll build a “Soul Contract Manager” for Ghost Rider with both DynamoDB and Aurora DSQL. In the process, we’ll see:\r\n\r\n- How data modeling shapes query flexibility and agility\r\n- The realities of multi-record consistency (transactions vs. item-level ops)\r\n- Cost and latency levers under typical read/write mixes\r\n- Secure connection patterns (IAM-issued tokens vs. app-managed secrets)\r\n\r\nOur goal isn’t to pick a winner; instead, you’ll get my hard-won lessons because redemption isn’t about choosing sides; it’s about feeling confident in your choices.\r\n\r\n## What You’ll Learn\r\n\r\n- **Mental models:** Access-pattern modeling (NoSQL) vs. relational modeling (SQL), you can explain to your team.\r\n- **Modeling tradeoffs in practice:** Keys/GSIs/streams vs. schemas/joins/transactions.\r\n- **Performance & cost levers:** How workload shapes (read/write ratio, query mix) changes outcomes.\r\n- **Security patterns:** Secrets-free connections with IAM tokens; least-privilege access.\r\n\r\n## Why You Can’t Miss It\r\n\r\n- **Memorable and Entertaining Analogies:** Inspired by Ghost-Rider’s redemption story to make concepts stick.\r\n- **Hands-on realism:** The *same* workflow implemented two ways—no hand-wavy “it depends.”\r\n\r\n# Audience & Level\r\n\r\nGeneral developers, backend/full-stack, cloud/serverless engineers, Beginner–Intermediate level",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "4de5c215-2eab-4a2d-bb3b-55817c56f01a"
-      ],
-      "categoryItems": [
-        431274
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1120223",
-      "title": "Blending Product Thinking with Software Modernization",
-      "description": "In the world of software, products and systems don’t just remain static, they evolve, accumulate technical debt, and sometimes become an unmanageable mess of outdated frameworks, workarounds, and fragile dependencies. \r\n\r\nWhen dealing with a 15-year-old platform, the question isn’t just how to modernize but what to modernize. Should you refactor piece by piece or completely rebuild? What about adding that new feature for the Product Owner. The answer isn’t always obvious.\r\n\r\nThis session explores how blending product thinking with software modernization leads to better outcomes. We’ll examine the lens of long-term product strategy, user needs, and business value. Using real-world lessons from a long-running SaaS product, a case study in modernizing a complex legacy platform, we’ll highlight how to balance technical constraints with customer expectations.\r\n\r\nWhether you’re leading a legacy transformation or trying to avoid one in the future, this talk will showcase some smart modernization decisions that don’t make the business take a full stop.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "13924f5b-13f0-4fd8-a0bf-06f633dad5c9"
-      ],
-      "categoryItems": [
-        431281
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "Merge Conf 2025, MI Dev Fest 2025"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1129076",
-      "title": "Boiling The Frog: Implementing a Modern Message Based Architecture Without Anyone Noticing",
-      "description": "Organizations are resistant to change, but it may not be for the reasons you think. When it comes to modernizing an application, navigating corporate bureaucracy is often the largest hurdle. Coordinating across multiple departments can be cumbersome and time-consuming. Dev teams often get stuck in a cycle of “hurry up and wait”.\r\n\r\nMost talks about modernization talk about the strangler fig pattern. In this session, we will go beyond strangler fig to discuss how you can leverage technical solutions to subtly but effectively overcome bureaucratic challenges.\r\n\r\nBy empowering your team to move the ball forward, get things done, and achieve as much progress as possible independently, you will have happier developers and happier stakeholders.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "92822169-dd05-414d-b7f5-65ce48889f80"
-      ],
-      "categoryItems": [
-        431275
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "VSLive San Diego 2025, KCDC 2025"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1127647",
-      "title": "Caffeinate Your Queries: Brew Up Faster SQL with Tuning",
-      "description": "In this session, embark on an engaging exploration as we unravel the mysteries of query tuning. From deciphering sluggish queries to unleashing their full potential, we will explore advanced techniques for optimizing SQL performance. Discover the art of indexing, rewriting queries for efficiency, leveraging execution plans, and unearthing hidden bottlenecks. Whether you're a seasoned developer or SQL enthusiast, you'll leave armed with the skills to transform your queries from coffee-break slow to lightning-fast.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "c53b081c-6035-47f5-a606-91e83963556b"
-      ],
-      "categoryItems": [
-        431277
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "Coodemash - \"This talk was my favorite of the conference. The visuals he provided along with his presentation were great and definitely helped demonstrate what he wanted to get across. Additionally he was a very good speaker and kept me engaged for the whole presentation\""
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
+      "status": null,
+      "isInformed": false,
+      "isConfirmed": false
     },
     {
       "id": "1123968",
       "title": "Choosing an AI Coding Workflow",
       "description": "AI is here, but deciding what to use and how is difficult. In this fast-paced session, we'll explore 15 key decisions for coding effectively in AI including IDEs, models, harnesses, instructions, permissions, agents, and more. You'll leave this session with a variety of ideas for how to rethink your AI-related tooling, patterns, and workflows.",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2026-05-01T12:30:00Z",
+      "endsAt": "2026-05-01T13:15:00Z",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -337,444 +38,7 @@
           "answerValue": "false"
         }
       ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1119405",
-      "title": "Claude Code in Action: Transforming Custom Software Development with Agentic AI",
-      "description": " AI is no longer just a developer productivity boost — it's becoming a core driver of how software is designed, built, and delivered. At the forefront of this shift is Claude Code from Anthropic, a powerful, agentic AI coding partner that's redefining what's possible in modern development.\r\n\r\nIn this session, we'll cut through the hype and show decision-makers how Claude Code can directly accelerate delivery, improve quality, and unlock new capabilities in your custom software projects. We'll explore:\r\n\r\nAgentic development in action — how Claude Code plans, reasons, and collaborates with your team to produce production-ready code\r\n\r\nIntegration across leading IDEs and environments for seamless adoption\r\n\r\nReal-world use cases where Claude delivers transformational ROI — from rapid prototyping to complex refactoring and ongoing maintenance\r\n\r\nPricing models and considerations for scaling across teams\r\n\r\nHow we at ArchitectNow incorporate Claude into our own development process to deliver faster and smarter\r\n\r\nThrough illustrated real-world scenarios and concrete examples drawn from production projects, you'll see why Claude Code stands apart — not just as another coding assistant, but as a strategic tool for driving efficiency, innovation, and competitive advantage in custom software development.\r\n\r\nWhether you're a CTO, CEO, development manager, or project leader, you'll leave with a clear understanding of how Claude Code fits into your AI adoption strategy — and actionable steps to start realizing its benefits immediately.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "b699d89f-f1d6-4fd5-be01-2594a950f55d"
-      ],
-      "categoryItems": [
-        431281
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "Meetups and UG's around the midwest.  To customers as well."
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1121367",
-      "title": "Comparing Promises, Observables, and Signals",
-      "description": "Since JavaScript is single threaded, special techniques are necessary for asynchronous and reactive programming.\r\n\r\nPromises were introduced a few years ago to enable asynchronous programming without the dreaded \"callback hell\". They are a very powerful tool, especially with the async/await syntactic sugar.\r\n\r\nBut limitations in promises opened the door to observables and their associated operator functions. They are much more powerful than promises overall, but can also be much more confusing.\r\n\r\nSignals are yet another approach, one that has gained a lot of attention since Angular adopted them in 2023, but it solves completely different problems.\r\n\r\nNow we have three different reactive primitives. Why? What's the difference between them? Why would you choose one over the other? Or will they all have complementary roles in a modern JavaScript/TypeScript application?\r\n\r\nCome to this session to get the answers to these questions, and more!",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "b6e26226-8a65-46e7-9538-d0924f53d895"
-      ],
-      "categoryItems": [
-        431274
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "Yes, at UtahJS 2025 (recording: https://www.youtube.com/watch?v=hzyWBleh6e8) and CodeMash 2026 (slides: https://tinyurl.com/cm2026ReactivePrimitives)"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1129837",
-      "title": "Completing the Rewrite from Hell: Five Years of Technical Debt and How We Escaped",
-      "description": "Bad architecture decisions don't just slow you down - they destroy business value. Poor coupling means you can't add the features customers are asking for. Data model mistakes mean you don't have the information to answer your questions, and a lot of your decisions can't be easily reversed. You know the problems are there. You've known for years. But there's never time to fix it properly - you're too busy keeping the lights on.\r\n\r\nThen one day, the stars align. You finally have time to tackle it. You open the codebase, ready to make things right - and realize you have no idea where to start. Everything is wrong. Every fix breaks something else. The whole thing feels impossible.\r\n\r\nI'm a business owner. I had full authority to prioritize this rewrite. No one to convince, no budget to fight for. I still couldn't make it happen for five years - even while watching money walk out the door.\r\n\r\nThis is the story of how we finally completed that rewrite. You'll learn:\r\n\r\n- Why we abandoned a full rewrite and pivoted to strategic refactoring instead\r\n- How to assess whether your legacy system is salvageable (ours barely was)\r\n- The architectural patterns - including the actor model - that would have prevented this mess\r\n- How we used AI to accelerate the work (spoiler: it wasn't vibe coding)\r\n- The management failures that let this happen, and how to avoid them\r\n\r\nThis isn't a talk about how smart we are. It's about how we recovered from one of my biggest failures as an engineering leader - and what you can learn from our five-year journey through hell.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "470ab354-5943-49aa-b10e-b22be7166e72"
-      ],
-      "categoryItems": [
-        431274
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "https://aaronstannard.com/talks/ - just like the other talk I submitted, this one is new."
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1123888",
-      "title": "Configurable cloud-native applications with .NET Aspire",
-      "description": "Building apps for the cloud has always been hard. Developers are typically pulled away from writing their business logic and what matters most to deal with the complexity of the cloud.\r\n\r\nTo help simplify cloud app complexity, Microsoft has introduced .NET Aspire.  It includes a curated set of components that make sense to use in your C# projects.\r\n\r\n.NET Aspire makes it easy to discover, acquire, and configure essential dependencies for cloud-native apps from the very beginning of your project. \r\n\r\nJoin me to walk through the set-up and usage of this new, powerful tool that can make any .NET developer more efficient in delivering cloud-native applications.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "13924f5b-13f0-4fd8-a0bf-06f633dad5c9"
-      ],
-      "categoryItems": [
-        431274
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "Beer City Code"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1124728",
-      "title": "Cutting Through the Hype: Building High Performing Teams",
-      "description": "Whether you’re a leader or an individual contributor, you rely on teams to get meaningful work done. We’ve been working in teams forever, yet some groups move fast and deliver consistently while others seem permanently stuck in the slow lane.\r\n\r\nIt’s not because one team has mythical “10x engineers” or the latest AI tools. Those things can amplify performance, but they don’t create it. High‑performing teams are built on a foundation of strong people practices and clear, healthy standards.\r\n\r\nDesigned for new leaders or anyone seeking a fresh perspective, this session breaks down a practical approach to building great teams by focusing on people and standards—and the way the two reinforce each other. By the end of this session, not only will you have ideas on how to improve your team, but also a concrete roadmap you can apply immediately.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "62ebafd8-8470-4415-bc16-6949e5c80f5b"
-      ],
-      "categoryItems": [
-        431279
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1121847",
-      "title": "Dark UX Patterns",
-      "description": "Congratulations! You are the 1,000,000th visitor to our website. Click here to redeem your prize! Just provide your date of birth and phone number to get started.\r\n\r\nLearn about Dark UX Patterns, how they work, how they trick you and what companies are the worst offenders. Roach Motel, Privacy Zuckering? Let’s visit Dark Patterns Hall of Shame and see who joined the dark side!\r\n\r\nThis talk will break down the most popular dark patterns using real life examples from websites and apps you use every day. If you are a designer, a developer or a product manager, you will learn what to avoid when building your product and how to integrate digital well-being and safety features into your service. If you are an end user, we will teach you how to respond to dark patterns in order to stay safe online, protect your privacy, save your money and keep your sanity.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "11fbf1c5-b0fc-42eb-a027-4fea2e54bb12"
-      ],
-      "categoryItems": [
-        431278
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "CodeMash"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1124736",
-      "title": "Decision Records: Understanding Why Those Decisions Were Made!",
-      "description": "Ever stared at a complex system and thought, \"Wait, why was that decision made?!” We’ve all been there – lost in a maze of logic, struggling to track down the root cause of a problem. Decision Records offer a brilliant way to finally unlock that understanding. They’re like having a detailed, searchable log of every decision in your applications – from architectural style to authentication to service discovery and containerization. By capturing these decisions, you build more maintainable, auditable, and, frankly, less frustrating systems. In this session, you will learn how decision records solve problems and will be given ideas of templates that you can implement in your projects today! Let’s ditch the guesswork and start documenting the why – because truly understanding your systems is the key to unlocking its full potential!",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "9bde9de9-7bcb-4077-8087-47bf492a1344"
-      ],
-      "categoryItems": [
-        431275
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": ".NET Conf 2025 (30-minutes) https://www.youtube.com/watch?v=eHqBZOrx6ZI, CodeMash 2026 (1-hour, not recorded) "
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1126334",
-      "title": "Designing Data Pipelines That Don’t Hate You Six Months Later",
-      "description": "Most data pipelines don’t fail on day one. They fail months later — when requirements change, data volume grows, or the original developer is no longer around. Much like martial arts training, pipelines built on shaky fundamentals tend to collapse under pressure.\r\n\r\nThis session focuses on practical data pipeline design patterns that emphasize durability, maintainability, and operational confidence. Drawing from experience modernizing enterprise data platforms, I’ll walk through common failure modes in batch and streaming pipelines and how disciplined upfront design decisions can prevent them.\r\n\r\nWe’ll cover topics such as schema evolution, idempotency, observability, testing strategies, and scaling — grounded in real examples of what worked, what broke, and what we had to correct after the fact. There are no silver bullets here — just repeatable patterns and lessons learned from systems that had to stay running while everything around them changed.\r\n\r\nThis talk is tool-agnostic and focused on principles that apply whether you’re using Python, Spark, Kafka, or traditional ETL platforms.\r\n\r\nWhat’s in it for the attendee\r\n- How to design pipelines that withstand change and growth\r\n- Patterns for building observability and testability into data systems\r\n- Common anti-patterns that lead to brittle pipelines\r\n- Practical guidance rooted in real production experience",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "c04acb4e-f54c-41d8-881a-8ca1f27e5d98"
-      ],
-      "categoryItems": [
-        431277
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1127535",
-      "title": "Engineering for Reliability and Stability in the Azure Messaging Services",
-      "description": "Anything that can go wrong will go wrong at some point, so it is best to come prepared. Whether you are in the cloud or running your own data center, there is always a risk of power outages, hardware failures, natural disasters, or other unexpected events. These can be especially impactful for critical components in your architecture, such as your message broker. In this session, we explore capabilities that enhance the reliability and stability of Azure Messaging services, specifically Service Bus and Event Hubs.\r\n \r\nWe first look at high-availability options provided by Azure, including transient error handling and Availability Zones, which offer a solid foundation for building reliable workloads. Furthermore, we also examine advanced features that provide additional resilience in unexpected situations, such as Geo-Replication.\r\n \r\nOur recommendations are not limited to the platform itself. We also cover improvements you can implement when building and hosting applications, including retry and exception handling, and the various hosting models available for clients.\r\n \r\nBy attending this session, you will learn practical tips and guidelines directly from the Azure Messaging product group, helping you prepare for unplanned events and maintain confidence in the reliability of your systems.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "11a684d4-ace1-49e8-be4b-c4e5ff215a7c"
-      ],
-      "categoryItems": [
-        431275
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1124045",
-      "title": "Ensuring Software Quality in the world of AI Developers",
-      "description": "Like it or not, AI agents are now capable of turning a quickly written paragraph of requirements into a pull request that is ready to be integrated into real-world production applications and it's now our responsibility to make sure AI doesn't go rogue and take down prod - or corrupt our data by misunderstanding the requirements or our existing schemas.\r\n\r\nIn this session we'll explore strategies to protect our codebases through unit and integration testing, documentation, and code review along with additional ways of providing context and guard rails to our AI agents as they carry out the work we've assigned them to do.\r\n\r\nBy the time we're done, you'll have a firm grasp of the problem and understand some helpful options for protecting your codebase from vibe coding mishaps getting YOLOed into prod.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "17c299ee-d9fd-4020-b499-2837b2b3a2bf"
-      ],
-      "categoryItems": [
-        431281
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1128028",
-      "title": "From Power to Supply Chains: Sustainability is Security",
-      "description": "Technology is moving fast, and so are the environmental challenges we face. Security sits right in the middle of these pressures. It’s no longer just about defending systems—our choices around power, hardware, and supply chains also shape how secure those systems really are.\r\n\r\nIn this talk, I’ll explore why sustainability belongs in the security conversation. We’ll look at practical steps—like energy-efficient tools, leaner software, greener data centers, and responsible hardware lifecycles—that cut waste and costs while strengthening defenses. Just as importantly, we’ll examine how unstable supply chains, poor sourcing, or unreliable power can become security risks in themselves.\r\n\r\nWe’ll also connect this to risk and compliance: how building sustainability into security reduces exposure, steadies supply chains, and keeps organizations ahead of changing expectations. With real-world examples, you’ll walk away with a clear sense of how sustainability and security reinforce each other, and how to apply that thinking in your own work.\r\n",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "bb52359f-7de5-4ab4-be0c-e0fdf39b7134"
-      ],
-      "categoryItems": [
-        431280
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "Codemash 2026"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1127299",
-      "title": "From PRs to Performance: Using Metrics and AI to Coach Stronger Engineering Teams",
-      "description": "Velocity is useful, but it is not leadership. Most organizations either stop at team velocity and “gut feel,” or they overcorrect into individual scoreboards that erode trust and create perverse incentives. This talk shares a pragmatic middle path: how engineering leaders can use metrics to understand delivery health, code quality, and collaboration, without turning measurement into micromanagement.\r\n\r\nI built an internal metrics web application that connects to common systems like code repositories and agile/project tools (GitHub and Linear in my case, but the approach generalizes to Jira and other platforms). It tracks velocity and estimation trends over time, compares individual and team patterns, and adds pull request analysis to surface quality signals. I also integrated AI (Claude) to review commits and PR discussions and generate a quality assessment across four dimensions: code quality (DRY/SOLID), testing habits, adherence to standards, and collaboration in code review.\r\n\r\nThis session is designed for senior engineers through executive technology leaders. You will learn which metrics are actually useful, how to implement a dashboard in your environment, and how to apply guardrails so metrics drive coaching and continuous improvement rather than fear or gaming. The examples and demo are fully offline using anonymized or mock data and precomputed AI outputs, so the approach works even with limited connectivity.\r\n\r\nWhat’s in it for you: you’ll leave with a concrete dashboard blueprint and an implementation plan you can apply immediately: what to measure, how to visualize it, how to layer in AI responsibly, and how to use the signals to coach, improve standards, and raise delivery confidence.\r\n\r\nKey takeaways\r\n* A leadership-oriented metrics framework: outcomes vs system signals vs behaviors (and what not to measure)\r\n* A practical dashboard design that combines velocity, estimation reality (“hours per point”), and PR signals\r\n* How to use AI as an assistant for qualitative insights (and how to calibrate it so it does not become “truth”)\r\n* Guardrails for trust: privacy, transparency, and preventing metric gaming\r\n* A step-by-step path to build this in your org using APIs from your existing tools\r\n\r\n45-minute outline\r\n* Why most engineering metrics fail in practice (5 min)\r\n* Velocity, estimation, and forecasting that leaders can actually use (10 min) team velocity per cycle, averages, “hours per point” trends comparing individual patterns to team patterns without weaponizing it\r\n* Pull request signals that reveal quality and delivery risk (10 min)\r\nreview cycles, rework patterns, standards drift, collaboration signals\r\n* AI-assisted quality analysis, responsibly (12 min)\r\ncode quality, testing quality, standards, collaboration\r\ncalibrating with spot checks and known baselines; using confidence labels\r\n* How to apply the signals: coaching, leveling expectations, and intervention (6 min)\r\n* Build plan: how to implement this dashboard in your environment (2 min)",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "b4bb31af-bcf8-4f20-af95-dd1c0d93f309"
-      ],
-      "categoryItems": [
-        431279
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1123967",
-      "title": "Generating Quality Code with AI",
-      "description": "\"AI writes slop\" is a common concern. So how can we use LLMs to not just generate good code, but to *ensure* quality? Let's explore how to create effective \"guardrails\" via generated tests, spec-driven development, instruction approaches, prompting techniques, context management, and more. After this session you'll have a list of ideas for improving your AI coding workflow.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "424f7166-a882-473f-b05e-15aed7f9ff86"
-      ],
-      "categoryItems": [
-        431276
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1127279",
-      "title": "Ghosts in the Machine: Tampering with the JavaScript Supply Chain",
-      "description": "What if the code you’re shipping isn’t yours anymore? The scariest JavaScript bugs don’t always come from your team, they come from open-source packages that have been possessed. This talk digs deep into the dark world of supply chain tampering: what it looks like, how it happens, and what modern devs can do to protect themselves. We’ll talk tamper detection, package provenance, lockfile integrity, and even how to set up GitHub Actions to ward off malevolent merges. Come for the security, stay for the stories of cursed commits.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "730a789f-e2a8-483d-91bc-6e794f1b44d5"
-      ],
-      "categoryItems": [
-        431280
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1126556",
-      "title": "Git Configuration secrets THEY don't want you to know about",
-      "description": "In 2021 the Git core developers were asked to reset their config settings to see what working on Git \"Out of the Box\" was really like. They were then challenged to come up with the top settings that they really wanted to change. What came from that exercise was a list of 9 settings that the core development team mostly unanimously agreed should be the defaults.\r\n\r\nAttendees will leave this session with the following take ways:\r\n\r\n* How to configure Git so it is more ergonomic and pleasant to work with\r\n* How Git settings may change depending on our workflow\r\n* A deeper understanding of the internals of Git",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "53ac8546-b51e-4755-8d18-67c519a981c0"
-      ],
-      "categoryItems": [
-        431274
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "Codemash, Nebraska.Code, Lincoln.Code"
-        }
-      ],
-      "roomId": null,
+      "roomId": 77075,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted",
@@ -785,8 +49,8 @@
       "id": "1120202",
       "title": "How to Ruin a User Interface: Surprisingly Easy Ways to Screw Over Your Users",
       "description": "Sure, when your boss signed the expense form for you to attend this conference, they thought you’d be bringing back new ideas about BETTER ways to do stuff – but honestly, isn’t that a little boring? What if we mixed it up a bit and instead discussed all the ways to make your UIs WORSE? \r\n\r\nFrom dark patterns to bad designs, there are tons of shockingly easy ways that you might be unknowingly making your website or app experience more difficult – or even painful – for your users. In this session, we’ll talk through some of the most common, so that you can avoid them in the future…or, you know, intentionally include them, if you’re evil. With great power comes great responsibility.",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2026-05-01T12:30:00Z",
+      "endsAt": "2026-05-01T13:15:00Z",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -805,270 +69,7 @@
           "answerValue": "VueConf, RenderATL, 200OK "
         }
       ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1131005",
-      "title": "Increasing Productivity by Doing Nothing",
-      "description": "It is easy to mistake “busy” for “productive.” We fill every gap—messages, meetings, side tasks, even our “breaks”—and then wonder why our focus, creativity, and decision-making keep getting worse.\r\n\r\nThis talk is about doing nothing on purpose. Not as a productivity hack, but as a practical way to restore your mind, body, relationships, and clarity. You’ll leave with a simple approach you can use immediately, plus a one-week experiment to reclaim slack in your day—because the deviation from the deadline will be far worse if you run out of gas.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "5698811a-4c31-4537-970d-e427009e0cca"
-      ],
-      "categoryItems": [
-        431279
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1121838",
-      "title": "Java Anti-Patterns",
-      "description": "God object, spaghetti code, magic numbers? Anti-patterns are traps that developers encounter frequently due to lack of time, carelessness, inexperience, or pressure from project managers. Rushing can lead to big problems for applications in future, so you need to know how to avoid potential errors.\r\n\r\nCome learn about Java Anti-Patterns. In this session beginner Java developers can learn to identify common rookie developer mistakes. Experienced developers can cry or laugh together as we look at real-life examples of Java code. You will leave this session knowing how to avoid these anti-patterns and write elegant, maintainable, and (dare we say it?) fun to work with code. Finally, you will find better ways to implement solutions using Java.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "11fbf1c5-b0fc-42eb-a027-4fea2e54bb12"
-      ],
-      "categoryItems": [
-        431274
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "CodeMash"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1127280",
-      "title": "Know Your JS: SBOMs for Frontend Devs",
-      "description": "Ever wonder what’s lurking in the dark corners of your node_modules, like unidentified flying dependencies sneaking aboard your project? In an age of escalating software supply chain attacks, knowing exactly what you're shipping is as vital as tracking strange lights in the sky. This talk will shine a beam on SBOMs (Software Bills of Materials), explaining why frontend developers should care and how to generate one using tools like CycloneDX and Syft. You’ll leave with the skills to map your entire dependency galaxy. No security clearance required, just your JavaScript and an explorer’s mindset.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "730a789f-e2a8-483d-91bc-6e794f1b44d5"
-      ],
-      "categoryItems": [
-        431280
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "https://shownotes.tuxcare.com/know-your-js-sboms-for-frontend-devs-5/"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1130920",
-      "title": "LGTM is not a Strategy",
-      "description": "Pull requests are where quality is won or lost, and too many teams still treat reviews with a rushed \"LGTM\". In this talk, you'll learn a practical, repeatable approach to high-quality PR reviews that balances speed with risk management - covering how to triage changes quickly, review in layers, and write comments that lead to better outcomes without friction.  We'll also show how QA and developers bring complementary lenses to the same review, turning acceptance criteria, scenarios, and observability into shared responsibility instead of production surprises.  You'll leave with a lightweight framework and concrete habits for authors and reviewers that make reviews faster, kinder, and more effective.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "01782d24-b1aa-4645-a9f5-a15e51bf132c"
-      ],
-      "categoryItems": [
-        431281
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1130963",
-      "title": "Maintenance by Smell: When Reading Every Line Becomes Obsolete",
-      "description": "Classic scenario. You get handed someone else's codebase. The original author has left for a beach somewhere, better gig, or possibly witness protection.\r\n\r\nYesterday: Read it. Line by line. Function by function. Build a mental model. Understand it deeply. Then fix it.\r\n\r\nTime required: Somewhere between \"too long\" and \"I have regrets about my career choices.\"\r\n\r\nToday: Don't read it. Ask AI what it does. Investigate what smells funny. Fix the smell. Move on with your life.\r\n\r\nThis talk is about the shift from syntax comprehension to diagnostic intuition. It's the difference between memorizing every street name in a city versus knowing the neighborhoods well enough to sense when you're heading somewhere sketchy. You don't need to parse every semicolon, you need to recognize when something's wrong.\r\n\r\nThe key skill isn't reading code faster. It's asking better questions. \"What's the happy path here?\" \"Where could this blow up?\" \"Why does this function exist?\" And critically: \"What's the thing the original author was worried about that I should also be worried about?\"\r\n\r\nYou'll walk away with practical patterns for smell-based debugging, the questions that matter more than comprehensive reading, and a significantly improved relationship with legacy code. (It's still not a good relationship. But it's faster.)",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "88b7259a-70ff-4438-a85a-16d87363f3e2"
-      ],
-      "categoryItems": [
-        431281
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1126202",
-      "title": "Making and Baking an Application Security Department",
-      "description": "Houston, we have a problem: we need more application security professionals. There is a lack of talented folks that can test, document and train developers on how to fix web and mobile applications for security vulnerabilities. Verizon’s estimates of 86% of 2017 breaches are caused by an application security component. This is a problem we must solve. \r\n\r\nBill and his team have been researching and experimenting on ways to solve the application security talent shortage. During this session, Bill will explain what they learned by teaching students of different experience levels. He will answer questions like: \"Who should I start with?\" and  \"What do they need to know to be effective?\" as well as what tools are most appropriate for them to learn.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "edf87fe3-df21-4e80-8834-c0d0365dbb59"
-      ],
-      "categoryItems": [
-        431280
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "BSides Cleveland"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1125439",
-      "title": "Managing for Failure",
-      "description": "Oh no! Your team is doing a fabulous job. You never have to have difficult conversations, everyone is getting their work done to a high standard and on time. The higher ups are super happy with you. No one on your team has failed in longer than you can remember! How could you let this happen and what can you do to fix it?\r\n\r\nFailure is an important part of growing your team - both the individuals on it and the cohesiveness of the whole. Without it creative problem solving can stagnate, learning slows to a crawl, and the work you get done is less than it could have been. \r\n\r\nWe’ll dive in to strategies for helping your team (including you!) feel comfortable with failure, as well as strategies for keeping YOUR boss happy when it happens. We’ll also explore low-stakes ways to introduce failure into your team, so you’re not taking down prod to prove a point. ",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "645adf23-f177-4ca8-b3c5-f2217624f488"
-      ],
-      "categoryItems": [
-        431279
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "KCDC, Momentum"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1120833",
-      "title": "Managing the Human Side of Technology: Leadership in Times of Change",
-      "description": "In today's rapidly evolving technological landscape, leaders face the critical challenge of managing the human side of technology. This session delves into the essential aspects of effective Human Management in the digital age.\r\n\r\nAs organizations embrace technological advancements and undergo digital transformations, leaders must navigate the complexities of change, including handling resistance to change and guiding teams through technological transitions. \r\nThis session offers insights, strategies, and practical approaches for leaders to effectively lead their teams through these pivotal moments.\r\n\r\nKey topics covered in this session include:\r\n\r\n-The \"why\" behind the what: How change impacts humans, not just code.\r\n-Turning FUD into fuel: Taming the fear of the unknown and using it to drive progress.\r\n-From \"no way\" to “oh yeah\": Strategies to win buy-in and get your team excited about the journey.\r\n-Tech's not the enemy: Building a culture of continuous learning and embracing change as a superpower.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "c6834890-beee-4a69-96fe-ba6915ae9947"
-      ],
-      "categoryItems": [
-        431279
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "Drupal Gov Con"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1126959",
-      "title": "MCP Demystified 🤖",
-      "description": "It is the age of AI, and there is a huge opportunity for developers to infuse apps with solutions powered by generative AI and large/small language models. Modern AI is big opportunity to streamline and automate developer workflows for better productivity. There are some challenges though – AI Models often lack context, and AI Agents need expertise to reliably pull off complex workflows across disparate systems.\r\n\r\nModel Context Protocol (MCP) can help. Developed as an open standard, MCP aims to provide a standardized way to connect AI models to different data sources, tools and non-public information. The point is to provide deep contextual information/APIs/data as tools to AI models/agents—MCP services also support robust authentication/authorization toward executing specific tasks on behalf of users.\r\n\r\nDevelopers can think of MCP as a common standardized language for information exchange between AI Agents/systems - MCP is growing in popularity and is showing a lot of promise as the emerging standard that bridges AI models with the tools they rely on. Beyond the hype, let’s understand the promise of MCP and explore tooling to easily create MCP Servers/Clients. With official SDKs, it is a breeze to work with MCP and boost AI Model responses or surface tools to extend AI Agents. Developers could bring their own data, APIs, services and more through MCP - and have it surfaced through Agents in GitHub Copilot/Claude Code/Cursor. MCP provides a standardized protocol for bringing contextual expertise to the AI world and light up unique workflows for integrations – upwards and onwards.\r\n",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "fc1d0cd3-9675-4188-aa98-e0088069f1a4"
-      ],
-      "categoryItems": [
-        431276
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        }
-      ],
-      "roomId": null,
+      "roomId": 77076,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted",
@@ -1079,8 +80,8 @@
       "id": "1129069",
       "title": "Microservices for Pragmatists",
       "description": "Microservices architecture is often perceived as a pattern primarily suited for large organizations operating at web scale. However, it is equally applicable to smaller to medium-sized applications for internal use or smaller-scale public deployments. The scalability benefits of microservices are one of the compelling reasons to consider this architectural pattern.\r\n\r\nIn this presentation, we will explore the advantages and trade-offs associated with microservices. You will gain insights into the architectural patterns of microservices from a practical perspective. Real-world software development scenarios often present unique constraints; this presentation will guide you in identifying the aspects of microservices that align with your project’s requirements while ensuring compliance with the constraints.\r\n\r\n\r\nLearning objectives:\r\n\r\n* Benefits of microservices for small/medium scale deployments\r\n* Trade-offs associated with microservices\r\n* How to pragmatically apply microservice design principles for your projects",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2026-05-01T12:30:00Z",
+      "endsAt": "2026-05-01T13:15:00Z",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1095,115 +96,7 @@
           "answerValue": "false"
         }
       ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1130941",
-      "title": "Microsoft Fabric for Developers",
-      "description": "Does your operational database contain staging and reporting data? Is it bloated and struggling under the load? As companies grow, its common to reach a tipping point where you can't just put everything into your shared OLTP database and keep scaling it up. That's when it's time to start thinking seriously about data and how best to manage it.\r\nTraditionally, data warehousing and ETL have required different skill sets and operated independently from application development, but with platforms like Microsoft Fabric, the skillsets aren't so different anymore, especially if you know a bit of Python.\r\nThis session will talk about some of the many services that make up Fabric, and how to use it coming from a development background.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "5b65f17e-cf5a-4746-84d6-217e6445931e"
-      ],
-      "categoryItems": [
-        431277
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1130675",
-      "title": "Mission: AI Possible – Taming your AI agent swarms",
-      "description": "As organizations implement AI systems, they often encounter tasks too complex for a single agent—making multi-agent architectures vital. For example, hospitals rely on specialized agents for medical imaging, scheduling, and insurance coordination; travel platforms use agents to book flights, find hotels, and suggest activities; retailers automate inventory, supply chain, and CRM through multiple integrated agents; and software teams decompose projects across coding, testing, and documentation agents. In these scenarios, successful orchestration ensures agents communicate, delegate, and collaborate effectively, always staying aligned with organizational goals.\r\n\r\nIn this talk, we will explore how Microsoft Agent Framework provides a robust foundation for building and orchestrating multiagent systems that are secure, extensible, and production ready. We will review the best practices and architecture patterns required to implement different orchestration workflows (for example: Sequential, concurrent and handoff) as well as the unique challenges presented by each of them.\r\n\r\nBy the end of the session, participants will understand how to apply different orchestration workflows to build scalable, collaborative AI systems that leverage multiple agents to deliver higher accuracy, resilience, and automation across different scenarios.\r\n",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "62b5c0da-ecfa-4566-8ce2-4eeb8e2d321d"
-      ],
-      "categoryItems": [
-        431276
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1120566",
-      "title": "Productivity Theater: When ‘Just Use AI’ Becomes a Management Strategy",
-      "description": "We’re living through a strange era of work: leaders are told AI enables “10×” or “100×” productivity, while engineers are quietly fixing AI-introduced bugs, validating hallucinated outputs, and absorbing the mental load of tools that are powerful, but deeply imperfect.\r\n\r\nThis talk is about surviving that reality.\r\n\r\nWe’ll examine what actually happens when AI enters real developer workflows: where trust is partial, verification is mandatory, and speed often comes at the cost of focus and creativity. We’ll talk candidly about productivity theater, unrealistic expectations, and the quiet burnout that happens when “just use AI” becomes a substitute for good leadership and sustainable engineering practices.\r\n\r\nDrawing from real conversations with engineers and teams, this session offers practical ways to:\r\n• Push back (constructively) against impossible productivity narratives\r\n• Use AI without surrendering judgment, craft, or accountability\r\n• Protect mental energy in environments obsessed with output metrics\r\n• Re-anchor DevOps values around humans, not hype cycles\r\n\r\nThis isn’t a talk about how to get more done. It’s a talk about how to keep doing good work, and maintain health and stability, in a world that thinks software engineers should be machines.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "d98ac233-d319-45ab-9729-41f7c4ae2a62"
-      ],
-      "categoryItems": [
-        431279
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1120265",
-      "title": "Securing your Azure AI Workload",
-      "description": "You've been given the task of creating an AI workload that will work with your data to allow your customers to get answers.  Perhaps you even want to use some of these new \"agent\" things you've been hearing so much about.  Maybe you need to see how your regular apps can also integrate with your workload.\r\n\r\nBut AI is scary.  Just ask Samsung how they felt when their proprietary code showed up in chat GPT answers.  Just look to the Canadian Airline that had to pay a refund because their chat agent said the customer should get one.  Or how about the guy who negotiated a truck for $0?  It's challenging and scary - and that's just the implementation.  Just to be clear, learning how to ground your data properly is an entirely different session - and while we'll talk about that briefly, this session is more about the workload in Azure itself.\r\n\r\nWhat about the exposure of your data via your azure services?  How can you keep your HIPPA/GDPR/NIST certifications *and* integrate an azure AI workload?\r\n\r\nIn this session, you will learn about how you can correctly utilize Azure services to secure your AI workload from public exposure, and how you can connect securely to the AI deployments from your other secure services.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "0c4f74c9-6be8-40d0-b588-674d3b783472"
-      ],
-      "categoryItems": [
-        431275
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
+      "roomId": 77077,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted",
@@ -1214,8 +107,8 @@
       "id": "1120953",
       "title": "Ship It First, Fix It Later: How a Medical Crisis Led to a Global Tool",
       "description": "When Roxy’s son was hospitalized yet again, she noticed nurses struggling to calculate his g-tube feed rates, so she built solution with simply HTML, CSS, and JavaScript, then almost didn’t share it due to everyone’s favorite pal, imposter syndrome. This talk chronicles a very specific calculator’s evolution into a production React PWA with AI integration, now used daily by families worldwide, who even find it through organic Google searches. Through honest code comparisons, you’ll see when vanilla JavaScript hits its limits, why React’s patterns became necessary, and how AI tools can accelerate development while you continue learning. You’ll also leave with a six-step framework for iterative development that overcomes the fear of shipping imperfect solutions. Whether you’re considering a React migration, curious about AI-assisted development, or sitting on a side project, you’ll leave with technical insights and a renewed motivation to ship.",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2026-05-01T12:30:00Z",
+      "endsAt": "2026-05-01T13:15:00Z",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1234,274 +127,7 @@
           "answerValue": "MagnoliaConf"
         }
       ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1130900",
-      "title": "The 5 Fundamentals of UX Everyone Should Know",
-      "description": "If you are building something (website, API, developer tools, presentation, email, etc.), you are creating a UX (user experience). How do you make that a good user experience?\r\n\r\nIn this session, we will discuss 5 fundamental questions you can use as a framework to put you on the path to creating products your users will love.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "b642eabd-7250-4ac5-b3b0-ce01951b88aa"
-      ],
-      "categoryItems": [
-        431278
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "CodeMash"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1127331",
-      "title": "The Dark Side of Microservices",
-      "description": "You want to solve a problem with your application, and you want to use microservices. Ok, so now you have two problems...\r\n\r\nMicroservices continue to be a huge buzzword in our industry, and in some scenarios they can offer significant benefits. But building microservice-based systems requires substantially different skills than traditional applications, and in many cases the added complexity isn't warranted.\r\n\r\nIn this session, you'll learn when NOT to use a microservice, and many ways in which you can design your microservice architecture the wrong way, eliminating the benefits your organization had hoped to reap from them. Hopefully you'll leave knowing a few pitfalls to avoid, or at least if you already have some of the scars from past implementations, you may find the session therapeutic.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
-      ],
-      "categoryItems": [
-        431275
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "DevIntersection 2025 and others; always gets good ratings/feedback. "
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1131041",
-      "title": "The Death of Data: AI, Obsolescence, and Your Digital Afterlife",
-      "description": "Our lives are increasingly lived as data—photos, chats, documents, posts, code—but most of it is quietly dying. Formats rot, platforms disappear, accounts get locked, and even our memories fade. In this talk, we’ll explore “The Death of Data” through the lens of Swedish Death Cleaning: what would it look like to intentionally curate, archive, or delete our digital lives before entropy or corporate policy does it for us?\r\n\r\nWe’ll examine how AI is accelerating both preservation and erasure: from generative models trained on our public traces, to AI-powered photo enhancement, summarization, and memorialization tools that can outlive us. Along the way, we’ll look at digital memorials, legacy videos, and time capsules, and ask: what do we actually want to survive us—and who gets to decide? You’ll leave with a new mental model for your digital afterlife and practical ideas for designing a more intentional legacy.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "0dfa92b1-c9a1-4910-8e95-a31049f0665a"
-      ],
-      "categoryItems": [
-        431282
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1120257",
-      "title": "The DevOops Handbook: A satirical guide to slow software delivery",
-      "description": "In the quest for rapid software delivery, DevOps principles are misapplied or skipped entirely, leading to a “DevOops culture.” In this talk we'll explore DevOps missteps through a satirical narrative where missteps and bad practices are presented as the path forward.\r\n\r\nTo start, we’ll discuss deploying code the way of the masochist. This will include a convincing argument for detail-oriented change requests and late-night deployments to prevent any witnesses to our misdeeds. Following this, we will outline our project mismanagement philosophy for maintaining constant chaos: embracing siloes and eliminating feedback loops. Finally, we'll present why quality assurance is overrated and unnecessary. Instead, we'll present the benefits of zero testing and disabling quality and security tools – they are just like that “check engine” light in the car: useless and annoying.\r\n\r\nTogether we’ll see how easy it is to establish the worst DevOps culture for modern software delivery: a DevOops culture! \r\n\r\nOr not. While this talk is tongue in cheek, we will see how to overcome these all-to-real mindsets. By the time we are done, we'll have navigated the treacherous waters of software misadventures with a wink and a smile so we can march forward, turning our ‘oopses’ into opportunities and our code catastrophes into triumphs.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "ac76d40e-1703-43ab-8b89-9402befdf3b1"
-      ],
-      "categoryItems": [
-        431281
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "Momentum, MITechCon, user groups, DevOpsDays"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1120206",
-      "title": "The Life-Changing Art of Being Wrong",
-      "description": "Even if it’s not intentional, there are a lot of assumptions we make about our users – everything from which devices they use to access our applications to what kinds of characters are included in their names. And guess what: our assumptions are usually wrong. Like…really wrong. Sometimes this creates laughable situations, but other times it causes a lot of unintentional harm. In this talk, we’ll discuss some of the most common (wrong) things that we, as developers, believe about our users and how we can shift our assumptions to create software that’s better for everyone. ",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "44406a2e-5504-47d4-8fef-6d5c110704a0"
-      ],
-      "categoryItems": [
-        431278
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "CodeStock, VueConf "
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1130802",
-      "title": "The Low Risk Entrepreneur",
-      "description": "We all love what we do and we know that if we were in charge, we could do it better!  But how do you make the leap from employee to the coveted position of \"Your Own Boss\"?  Are you ready to quit your job?  Do you HAVE to quit your job?  In this session, we'll look at the options for those who are considering making the big leap - and ways to make it less scary.  Attendees will learn about ways to be an entrepreneur while minimizing the risk, and even ways that they can \"entrepreneur in place\" at their current gig.  If you are itching to make a change, but not sure how to move forward, this session is for you.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "0a6a65cd-0f7c-4490-8168-3ac1d1f0c869"
-      ],
-      "categoryItems": [
-        431279
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1143160",
-      "title": "The Vibe Analyst's Guide to AI Coding: From Autocomplete to Agent Orchestration",
-      "description": "Whether you're experimenting with AI coding assistants or managing teams that use them, understanding \"vibe coding\" is essential to navigating software development in 2026. This talk decodes the shift from autocomplete to autonomous agents, examining how developers went from tab completion to directing parallel AI workers overnight. You'll gain a clear framework for the 10 key capabilities developers now demand—from background agents and persistent memory to multi-agent orchestration and rollback systems—along with practical insights into which tools deliver and which fall short based on real practitioner feedback.\r\n\r\nBeyond the hype, you'll learn to navigate the defining tension shaping the market: the battle between human-in-loop control (audit trails, permissions, safety) and vibe coding's \"trust the output, not the process\" philosophy. Through examples like Ralph Wiggum's contextual pressure cooker, Gas Town's agent orchestration, and emerging patterns in spec-driven development, you'll understand where the ecosystem is headed and how to make informed decisions about adopting, managing, or building AI-assisted development tools. Whether you're a hands-on developer, engineering leader, or product strategist, you'll leave with a pragmatic understanding of what actually matters in this rapidly evolving space—and what's just noise.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "3d9afdca-043f-4a20-820c-f25ef3e85c1a"
-      ],
-      "categoryItems": [
-        431276
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "Dynatrace Perform. Not recorded. Jeff Blankenburg invited me to expand it and apply to present at Stir Trek"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1127053",
-      "title": "TypeScript You MIGHT Like",
-      "description": "TypeScript isn’t just a stricter JavaScript, it’s a toolkit for writing clearer, safer, and more maintainable code. Many developers simply use it minimally after encountering verbose types, confusing errors, or patterns that feel academic.\r\n\r\nThis talk takes a different route: dozens practical, real‑world TypeScript examples you can use today without over‑engineering, or over-hauling, your codebase. Through dozens of bite‑sized examples drawn from actual projects, we’ll cover patterns that reduce bugs, tips that keep types manageable, and features you might be overlooking.\r\n\r\nWhether you’re a JavaScript developer TypeScript‑curious, or an experienced user looking for new tricks, you’ll leave with ideas you can drop straight into your editor; and a new appreciation for TypeScript that you MIGHT actually like.",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "ed4af73a-6781-4882-a8c3-12ee0c68c1a5"
-      ],
-      "categoryItems": [
-        431275
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": null,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1127657",
-      "title": "Unlocking Quantum Computing: An Overview",
-      "description": "Quantum computing is coming, but most of the explanations out there are either too academic or too hand-wavy to be useful. This talk is a practical overview for developers who want to understand what quantum computing actually is, why it matters, and where it's headed. We'll walk through the core concepts like superposition, entanglement, and interference without the math-heavy deep dive. You'll see what quantum computers are good at, what they're not, and how they might affect the systems and security decisions you make in the future. No physics background required. You'll walk away with enough understanding to follow the conversation and recognize when quantum starts to matter for your work. ",
-      "startsAt": null,
-      "endsAt": null,
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "c53b081c-6035-47f5-a606-91e83963556b"
-      ],
-      "categoryItems": [
-        431282
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "I gave a workshop version of this with great feedback at CodeMash. This is the summarized version. "
-        }
-      ],
-      "roomId": null,
+      "roomId": 77078,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted",
@@ -1512,8 +138,8 @@
       "id": "1128674",
       "title": "Vector Databases and Embeddings Demystified",
       "description": "Ever wonder how Netflix knows you'll love that obscure documentary about penguins, or how Google Photos finds every picture of your dog even though you never tagged them? The secret sauce is vector embeddings and similarity search – technologies that convert complex data (text, images, audio) into high-dimensional numerical representations that capture semantic meaning. While traditional databases excel at exact matches (\"find user ID 12345\"), vector databases revolutionize \"find similar\" queries by measuring relationships between these numerical vectors using techniques like cosine similarity. This session demystifies the math and technology behind the AI-powered search and recommendation systems you use every day.\r\n\r\nYou'll discover how companies transform words into vectors where \"king\" - \"man\" + \"woman\" actually equals \"queen\" in mathematical space, explore the architecture behind popular vector databases like Pinecone and see live demonstrations of building semantic search systems. We'll cover real-world applications from RAG-powered chatbots to fraud detection, show you how to implement document similarity search in 20 lines of Python, and discuss the practical considerations of scaling vector systems to billions of embeddings. Whether you're building recommendation engines, semantic search, or AI-powered applications, this session provides the foundational knowledge to leverage vector databases effectively in your projects.",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2026-05-01T12:30:00Z",
+      "endsAt": "2026-05-01T13:15:00Z",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1532,7 +158,7 @@
           "answerValue": "CodeMash"
         }
       ],
-      "roomId": null,
+      "roomId": 77079,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted",
@@ -1540,26 +166,30 @@
       "isConfirmed": true
     },
     {
-      "id": "1130109",
-      "title": "When Logs Tell the Whole Story: OpenTelemetry for Beginners",
-      "description": "Failures in production are a certainty. When something goes wrong, the difference between a quick fix and a prolonged outage often comes down to whether your logs tell a clear, connected story.\r\n\r\nIn this session, we’ll introduce OpenTelemetry as a language-agnostic, vendor-neutral approach to application observability. We'll start with the fundamentals—what logs, traces, and metrics are, why they matter, and how they work together—before focusing on how to use logging effectively rather than excessively.\r\n\r\nAttendees will learn how to structure logs for clarity and correlation, how trace context connects logs across services, and how to choose log levels that provide insight without noise. We’ll also cover common logging anti-patterns, including over-logging and unstructured messages, and how to avoid them to keep both troubleshooting effort and observability costs under control.\r\n\r\nUsing practical, real-world examples, this session will show how OpenTelemetry logging improves debugging, incident response, and overall system understanding. Whether you’re new to observability or replacing a legacy logging approach, you’ll leave with a clear mental model and concrete best practices you can apply immediately.",
-      "startsAt": null,
-      "endsAt": null,
+      "id": "1120223",
+      "title": "Blending Product Thinking with Software Modernization",
+      "description": "In the world of software, products and systems don’t just remain static, they evolve, accumulate technical debt, and sometimes become an unmanageable mess of outdated frameworks, workarounds, and fragile dependencies. \r\n\r\nWhen dealing with a 15-year-old platform, the question isn’t just how to modernize but what to modernize. Should you refactor piece by piece or completely rebuild? What about adding that new feature for the Product Owner. The answer isn’t always obvious.\r\n\r\nThis session explores how blending product thinking with software modernization leads to better outcomes. We’ll examine the lens of long-term product strategy, user needs, and business value. Using real-world lessons from a long-running SaaS product, a case study in modernizing a complex legacy platform, we’ll highlight how to balance technical constraints with customer expectations.\r\n\r\nWhether you’re leading a legacy transformation or trying to avoid one in the future, this talk will showcase some smart modernization decisions that don’t make the business take a full stop.",
+      "startsAt": "2026-05-01T12:30:00Z",
+      "endsAt": "2026-05-01T13:15:00Z",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "e4808bf3-8fc2-43e5-b9d0-303f77f43547"
+        "13924f5b-13f0-4fd8-a0bf-06f633dad5c9"
       ],
       "categoryItems": [
-        431275
+        431281
       ],
       "questionAnswers": [
         {
           "questionId": 118563,
-          "answerValue": "false"
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Merge Conf 2025, MI Dev Fest 2025"
         }
       ],
-      "roomId": null,
+      "roomId": 77080,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted",
@@ -1570,8 +200,8 @@
       "id": "1143759",
       "title": "Why Tech Debt Never Gets Prioritized (And Why \"Explain the Business Impact\" Won't Fix It)",
       "description": "Engineering leaders see critical infrastructure problems with painful clarity, but often struggle to get buy-in to solve them. \r\n\r\nThe problem isn't engineers' ability to explain \"business impact.\" It's that engineering work remains fundamentally invisible to stakeholders. \r\n\r\nThis talk reveals why traditional ROI frameworks fail for engineering, and demonstrates a practical approach that moves tech debt conversations from political negotiations into collaborative problem-solving.\r\n\r\nThis is a new talk, but will be based of a prior presentation + article I've written (links below for reference): \r\nhttps://thoughtfuleng.substack.com/p/explain-the-business-impact-and-other\r\nhttps://docs.google.com/presentation/d/1benjYFKu0WVIndhjeOtFwwaDbSVooc7diW3BZkRdX-4/edit?usp=sharing",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2026-05-01T12:30:00Z",
+      "endsAt": "2026-05-01T13:15:00Z",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
@@ -1586,12 +216,1454 @@
           "answerValue": "false"
         }
       ],
-      "roomId": null,
+      "roomId": 77081,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted",
       "isInformed": true,
       "isConfirmed": true
+    },
+    {
+      "id": "1127279",
+      "title": "Ghosts in the Machine: Tampering with the JavaScript Supply Chain",
+      "description": "What if the code you’re shipping isn’t yours anymore? The scariest JavaScript bugs don’t always come from your team, they come from open-source packages that have been possessed. This talk digs deep into the dark world of supply chain tampering: what it looks like, how it happens, and what modern devs can do to protect themselves. We’ll talk tamper detection, package provenance, lockfile integrity, and even how to set up GitHub Actions to ward off malevolent merges. Come for the security, stay for the stories of cursed commits.",
+      "startsAt": "2026-05-01T12:30:00Z",
+      "endsAt": "2026-05-01T13:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "730a789f-e2a8-483d-91bc-6e794f1b44d5"
+      ],
+      "categoryItems": [
+        431280
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77082,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1130675",
+      "title": "Mission: AI Possible – Taming your AI agent swarms",
+      "description": "As organizations implement AI systems, they often encounter tasks too complex for a single agent—making multi-agent architectures vital. For example, hospitals rely on specialized agents for medical imaging, scheduling, and insurance coordination; travel platforms use agents to book flights, find hotels, and suggest activities; retailers automate inventory, supply chain, and CRM through multiple integrated agents; and software teams decompose projects across coding, testing, and documentation agents. In these scenarios, successful orchestration ensures agents communicate, delegate, and collaborate effectively, always staying aligned with organizational goals.\r\n\r\nIn this talk, we will explore how Microsoft Agent Framework provides a robust foundation for building and orchestrating multiagent systems that are secure, extensible, and production ready. We will review the best practices and architecture patterns required to implement different orchestration workflows (for example: Sequential, concurrent and handoff) as well as the unique challenges presented by each of them.\r\n\r\nBy the end of the session, participants will understand how to apply different orchestration workflows to build scalable, collaborative AI systems that leverage multiple agents to deliver higher accuracy, resilience, and automation across different scenarios.\r\n",
+      "startsAt": "2026-05-01T13:30:00Z",
+      "endsAt": "2026-05-01T14:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "62b5c0da-ecfa-4566-8ce2-4eeb8e2d321d"
+      ],
+      "categoryItems": [
+        431276
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77075,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1120833",
+      "title": "Managing the Human Side of Technology: Leadership in Times of Change",
+      "description": "In today's rapidly evolving technological landscape, leaders face the critical challenge of managing the human side of technology. This session delves into the essential aspects of effective Human Management in the digital age.\r\n\r\nAs organizations embrace technological advancements and undergo digital transformations, leaders must navigate the complexities of change, including handling resistance to change and guiding teams through technological transitions. \r\nThis session offers insights, strategies, and practical approaches for leaders to effectively lead their teams through these pivotal moments.\r\n\r\nKey topics covered in this session include:\r\n\r\n-The \"why\" behind the what: How change impacts humans, not just code.\r\n-Turning FUD into fuel: Taming the fear of the unknown and using it to drive progress.\r\n-From \"no way\" to “oh yeah\": Strategies to win buy-in and get your team excited about the journey.\r\n-Tech's not the enemy: Building a culture of continuous learning and embracing change as a superpower.",
+      "startsAt": "2026-05-01T13:30:00Z",
+      "endsAt": "2026-05-01T14:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c6834890-beee-4a69-96fe-ba6915ae9947"
+      ],
+      "categoryItems": [
+        431279
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Drupal Gov Con"
+        }
+      ],
+      "roomId": 77076,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1127331",
+      "title": "The Dark Side of Microservices",
+      "description": "You want to solve a problem with your application, and you want to use microservices. Ok, so now you have two problems...\r\n\r\nMicroservices continue to be a huge buzzword in our industry, and in some scenarios they can offer significant benefits. But building microservice-based systems requires substantially different skills than traditional applications, and in many cases the added complexity isn't warranted.\r\n\r\nIn this session, you'll learn when NOT to use a microservice, and many ways in which you can design your microservice architecture the wrong way, eliminating the benefits your organization had hoped to reap from them. Hopefully you'll leave knowing a few pitfalls to avoid, or at least if you already have some of the scars from past implementations, you may find the session therapeutic.",
+      "startsAt": "2026-05-01T13:30:00Z",
+      "endsAt": "2026-05-01T14:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a5d50f4e-f021-4983-97a9-73f9415b3d5b"
+      ],
+      "categoryItems": [
+        431275
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "DevIntersection 2025 and others; always gets good ratings/feedback. "
+        }
+      ],
+      "roomId": 77077,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1119405",
+      "title": "Claude Code in Action: Transforming Custom Software Development with Agentic AI",
+      "description": " AI is no longer just a developer productivity boost — it's becoming a core driver of how software is designed, built, and delivered. At the forefront of this shift is Claude Code from Anthropic, a powerful, agentic AI coding partner that's redefining what's possible in modern development.\r\n\r\nIn this session, we'll cut through the hype and show decision-makers how Claude Code can directly accelerate delivery, improve quality, and unlock new capabilities in your custom software projects. We'll explore:\r\n\r\nAgentic development in action — how Claude Code plans, reasons, and collaborates with your team to produce production-ready code\r\n\r\nIntegration across leading IDEs and environments for seamless adoption\r\n\r\nReal-world use cases where Claude delivers transformational ROI — from rapid prototyping to complex refactoring and ongoing maintenance\r\n\r\nPricing models and considerations for scaling across teams\r\n\r\nHow we at ArchitectNow incorporate Claude into our own development process to deliver faster and smarter\r\n\r\nThrough illustrated real-world scenarios and concrete examples drawn from production projects, you'll see why Claude Code stands apart — not just as another coding assistant, but as a strategic tool for driving efficiency, innovation, and competitive advantage in custom software development.\r\n\r\nWhether you're a CTO, CEO, development manager, or project leader, you'll leave with a clear understanding of how Claude Code fits into your AI adoption strategy — and actionable steps to start realizing its benefits immediately.",
+      "startsAt": "2026-05-01T13:30:00Z",
+      "endsAt": "2026-05-01T14:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b699d89f-f1d6-4fd5-be01-2594a950f55d"
+      ],
+      "categoryItems": [
+        431281
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Meetups and UG's around the midwest.  To customers as well."
+        }
+      ],
+      "roomId": 77078,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1130109",
+      "title": "When Logs Tell the Whole Story: OpenTelemetry for Beginners",
+      "description": "Failures in production are a certainty. When something goes wrong, the difference between a quick fix and a prolonged outage often comes down to whether your logs tell a clear, connected story.\r\n\r\nIn this session, we’ll introduce OpenTelemetry as a language-agnostic, vendor-neutral approach to application observability. We'll start with the fundamentals—what logs, traces, and metrics are, why they matter, and how they work together—before focusing on how to use logging effectively rather than excessively.\r\n\r\nAttendees will learn how to structure logs for clarity and correlation, how trace context connects logs across services, and how to choose log levels that provide insight without noise. We’ll also cover common logging anti-patterns, including over-logging and unstructured messages, and how to avoid them to keep both troubleshooting effort and observability costs under control.\r\n\r\nUsing practical, real-world examples, this session will show how OpenTelemetry logging improves debugging, incident response, and overall system understanding. Whether you’re new to observability or replacing a legacy logging approach, you’ll leave with a clear mental model and concrete best practices you can apply immediately.",
+      "startsAt": "2026-05-01T13:30:00Z",
+      "endsAt": "2026-05-01T14:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e4808bf3-8fc2-43e5-b9d0-303f77f43547"
+      ],
+      "categoryItems": [
+        431275
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77079,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1127647",
+      "title": "Caffeinate Your Queries: Brew Up Faster SQL with Tuning",
+      "description": "In this session, embark on an engaging exploration as we unravel the mysteries of query tuning. From deciphering sluggish queries to unleashing their full potential, we will explore advanced techniques for optimizing SQL performance. Discover the art of indexing, rewriting queries for efficiency, leveraging execution plans, and unearthing hidden bottlenecks. Whether you're a seasoned developer or SQL enthusiast, you'll leave armed with the skills to transform your queries from coffee-break slow to lightning-fast.",
+      "startsAt": "2026-05-01T13:30:00Z",
+      "endsAt": "2026-05-01T14:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c53b081c-6035-47f5-a606-91e83963556b"
+      ],
+      "categoryItems": [
+        431277
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Coodemash - \"This talk was my favorite of the conference. The visuals he provided along with his presentation were great and definitely helped demonstrate what he wanted to get across. Additionally he was a very good speaker and kept me engaged for the whole presentation\""
+        }
+      ],
+      "roomId": 77080,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1121367",
+      "title": "Comparing Promises, Observables, and Signals",
+      "description": "Since JavaScript is single threaded, special techniques are necessary for asynchronous and reactive programming.\r\n\r\nPromises were introduced a few years ago to enable asynchronous programming without the dreaded \"callback hell\". They are a very powerful tool, especially with the async/await syntactic sugar.\r\n\r\nBut limitations in promises opened the door to observables and their associated operator functions. They are much more powerful than promises overall, but can also be much more confusing.\r\n\r\nSignals are yet another approach, one that has gained a lot of attention since Angular adopted them in 2023, but it solves completely different problems.\r\n\r\nNow we have three different reactive primitives. Why? What's the difference between them? Why would you choose one over the other? Or will they all have complementary roles in a modern JavaScript/TypeScript application?\r\n\r\nCome to this session to get the answers to these questions, and more!",
+      "startsAt": "2026-05-01T13:30:00Z",
+      "endsAt": "2026-05-01T14:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b6e26226-8a65-46e7-9538-d0924f53d895"
+      ],
+      "categoryItems": [
+        431274
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Yes, at UtahJS 2025 (recording: https://www.youtube.com/watch?v=hzyWBleh6e8) and CodeMash 2026 (slides: https://tinyurl.com/cm2026ReactivePrimitives)"
+        }
+      ],
+      "roomId": 77081,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1127280",
+      "title": "Know Your JS: SBOMs for Frontend Devs",
+      "description": "Ever wonder what’s lurking in the dark corners of your node_modules, like unidentified flying dependencies sneaking aboard your project? In an age of escalating software supply chain attacks, knowing exactly what you're shipping is as vital as tracking strange lights in the sky. This talk will shine a beam on SBOMs (Software Bills of Materials), explaining why frontend developers should care and how to generate one using tools like CycloneDX and Syft. You’ll leave with the skills to map your entire dependency galaxy. No security clearance required, just your JavaScript and an explorer’s mindset.",
+      "startsAt": "2026-05-01T13:30:00Z",
+      "endsAt": "2026-05-01T14:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "730a789f-e2a8-483d-91bc-6e794f1b44d5"
+      ],
+      "categoryItems": [
+        431280
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "https://shownotes.tuxcare.com/know-your-js-sboms-for-frontend-devs-5/"
+        }
+      ],
+      "roomId": 77082,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1143160",
+      "title": "The Vibe Analyst's Guide to AI Coding: From Autocomplete to Agent Orchestration",
+      "description": "Whether you're experimenting with AI coding assistants or managing teams that use them, understanding \"vibe coding\" is essential to navigating software development in 2026. This talk decodes the shift from autocomplete to autonomous agents, examining how developers went from tab completion to directing parallel AI workers overnight. You'll gain a clear framework for the 10 key capabilities developers now demand—from background agents and persistent memory to multi-agent orchestration and rollback systems—along with practical insights into which tools deliver and which fall short based on real practitioner feedback.\r\n\r\nBeyond the hype, you'll learn to navigate the defining tension shaping the market: the battle between human-in-loop control (audit trails, permissions, safety) and vibe coding's \"trust the output, not the process\" philosophy. Through examples like Ralph Wiggum's contextual pressure cooker, Gas Town's agent orchestration, and emerging patterns in spec-driven development, you'll understand where the ecosystem is headed and how to make informed decisions about adopting, managing, or building AI-assisted development tools. Whether you're a hands-on developer, engineering leader, or product strategist, you'll leave with a pragmatic understanding of what actually matters in this rapidly evolving space—and what's just noise.",
+      "startsAt": "2026-05-01T14:30:00Z",
+      "endsAt": "2026-05-01T15:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3d9afdca-043f-4a20-820c-f25ef3e85c1a"
+      ],
+      "categoryItems": [
+        431276
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Dynatrace Perform. Not recorded. Jeff Blankenburg invited me to expand it and apply to present at Stir Trek"
+        }
+      ],
+      "roomId": 77075,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1124045",
+      "title": "Ensuring Software Quality in the world of AI Developers",
+      "description": "Like it or not, AI agents are now capable of turning a quickly written paragraph of requirements into a pull request that is ready to be integrated into real-world production applications and it's now our responsibility to make sure AI doesn't go rogue and take down prod - or corrupt our data by misunderstanding the requirements or our existing schemas.\r\n\r\nIn this session we'll explore strategies to protect our codebases through unit and integration testing, documentation, and code review along with additional ways of providing context and guard rails to our AI agents as they carry out the work we've assigned them to do.\r\n\r\nBy the time we're done, you'll have a firm grasp of the problem and understand some helpful options for protecting your codebase from vibe coding mishaps getting YOLOed into prod.",
+      "startsAt": "2026-05-01T14:30:00Z",
+      "endsAt": "2026-05-01T15:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "17c299ee-d9fd-4020-b499-2837b2b3a2bf"
+      ],
+      "categoryItems": [
+        431281
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77076,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1130941",
+      "title": "Microsoft Fabric for Developers",
+      "description": "Does your operational database contain staging and reporting data? Is it bloated and struggling under the load? As companies grow, its common to reach a tipping point where you can't just put everything into your shared OLTP database and keep scaling it up. That's when it's time to start thinking seriously about data and how best to manage it.\r\nTraditionally, data warehousing and ETL have required different skill sets and operated independently from application development, but with platforms like Microsoft Fabric, the skillsets aren't so different anymore, especially if you know a bit of Python.\r\nThis session will talk about some of the many services that make up Fabric, and how to use it coming from a development background.",
+      "startsAt": "2026-05-01T14:30:00Z",
+      "endsAt": "2026-05-01T15:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5b65f17e-cf5a-4746-84d6-217e6445931e"
+      ],
+      "categoryItems": [
+        431277
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77078,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1127143",
+      "title": "Agents & Arbiters - An Adventurer’s Guide to Multi-Agent Collaboration with LangGraph.js",
+      "description": "Building interactive systems with conventional coding means trying to anticipate every possible user action and writing the right response. This quickly becomes nigh impossible. You end up lost in a maze of recursion, fragility, and nested if statements. The more interactive you make your system, the more complex your code gets, until debugging feels like being eaten by a grue—you know something's wrong, but you're just fumbling around in the dark.\r\n\r\nThere's a better way. Instead of scripting every interaction, we can give some of the elements in our system their own intelligence. Multi-agent collaboration lets us create systems where entities can become autonomous agents with their own perspectives and voices. Imagine a text-based adventure game where the brass lantern, the white house, and even the mailbox have something to say when responding to the player. Or consider a help desk system where agents from billing, technical support, and account management each weigh in to determine the best solution for a customer.\r\n\r\nIn this session, we'll explore multi-agent collaboration through a live demo of a text-based adventure system. You'll meet the orchestration workflow—router, classifier, agents, arbiter, and committer—and discover how LangGraph.js coordinates the chaos when multiple agents want to respond. We'll shine our brass lantern over the code to see how it uses Redis and LangGraph.js to make it all work. Then, we'll explore how this same approach solves real-world problems beyond gaming.\r\n\r\nWhen the adventure's over, you'll understand how to coordinate agents to handle complex interactions and know when this is a good approach. You'll have a working example you can adapt for your own adventures—be they exploring the Great Underground Empire, customer service platforms, or content management systems. And, you'll never look at building interactive systems the same way again.",
+      "startsAt": "2026-05-01T14:30:00Z",
+      "endsAt": "2026-05-01T15:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "520bf4ca-b2d3-47c3-8475-c25bb2b257f7"
+      ],
+      "categoryItems": [
+        431276
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "CodeMash, other places by the time Stir Trek rolls around"
+        }
+      ],
+      "roomId": 77079,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1120566",
+      "title": "Productivity Theater: When ‘Just Use AI’ Becomes a Management Strategy",
+      "description": "We’re living through a strange era of work: leaders are told AI enables “10×” or “100×” productivity, while engineers are quietly fixing AI-introduced bugs, validating hallucinated outputs, and absorbing the mental load of tools that are powerful, but deeply imperfect.\r\n\r\nThis talk is about surviving that reality.\r\n\r\nWe’ll examine what actually happens when AI enters real developer workflows: where trust is partial, verification is mandatory, and speed often comes at the cost of focus and creativity. We’ll talk candidly about productivity theater, unrealistic expectations, and the quiet burnout that happens when “just use AI” becomes a substitute for good leadership and sustainable engineering practices.\r\n\r\nDrawing from real conversations with engineers and teams, this session offers practical ways to:\r\n• Push back (constructively) against impossible productivity narratives\r\n• Use AI without surrendering judgment, craft, or accountability\r\n• Protect mental energy in environments obsessed with output metrics\r\n• Re-anchor DevOps values around humans, not hype cycles\r\n\r\nThis isn’t a talk about how to get more done. It’s a talk about how to keep doing good work, and maintain health and stability, in a world that thinks software engineers should be machines.",
+      "startsAt": "2026-05-01T14:30:00Z",
+      "endsAt": "2026-05-01T15:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d98ac233-d319-45ab-9729-41f7c4ae2a62"
+      ],
+      "categoryItems": [
+        431279
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77080,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1121847",
+      "title": "Dark UX Patterns",
+      "description": "Congratulations! You are the 1,000,000th visitor to our website. Click here to redeem your prize! Just provide your date of birth and phone number to get started.\r\n\r\nLearn about Dark UX Patterns, how they work, how they trick you and what companies are the worst offenders. Roach Motel, Privacy Zuckering? Let’s visit Dark Patterns Hall of Shame and see who joined the dark side!\r\n\r\nThis talk will break down the most popular dark patterns using real life examples from websites and apps you use every day. If you are a designer, a developer or a product manager, you will learn what to avoid when building your product and how to integrate digital well-being and safety features into your service. If you are an end user, we will teach you how to respond to dark patterns in order to stay safe online, protect your privacy, save your money and keep your sanity.",
+      "startsAt": "2026-05-01T14:30:00Z",
+      "endsAt": "2026-05-01T15:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "11fbf1c5-b0fc-42eb-a027-4fea2e54bb12"
+      ],
+      "categoryItems": [
+        431278
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "CodeMash"
+        }
+      ],
+      "roomId": 77081,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1126202",
+      "title": "Making and Baking an Application Security Department",
+      "description": "Houston, we have a problem: we need more application security professionals. There is a lack of talented folks that can test, document and train developers on how to fix web and mobile applications for security vulnerabilities. Verizon’s estimates of 86% of 2017 breaches are caused by an application security component. This is a problem we must solve. \r\n\r\nBill and his team have been researching and experimenting on ways to solve the application security talent shortage. During this session, Bill will explain what they learned by teaching students of different experience levels. He will answer questions like: \"Who should I start with?\" and  \"What do they need to know to be effective?\" as well as what tools are most appropriate for them to learn.",
+      "startsAt": "2026-05-01T14:30:00Z",
+      "endsAt": "2026-05-01T15:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "edf87fe3-df21-4e80-8834-c0d0365dbb59"
+      ],
+      "categoryItems": [
+        431280
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "BSides Cleveland"
+        }
+      ],
+      "roomId": 77082,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1119472",
+      "title": "An intro to Retrieval Augmented Generation (RAG)",
+      "description": "Learn to deliver AI search and Generative Answers on top of your unstructured data. RAG is easy to prototype but hard to run in production. In this session we'll start with retrieval augmented generation basics by building a simple proof of concept. Then, we'll compare solutions meant for scale with Agentic RAG, RAG Graph, and Entity Recognition. Throughout we'll see examples of how RAG applies to modern app development.",
+      "startsAt": "2026-05-01T15:30:00Z",
+      "endsAt": "2026-05-01T16:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3fd9cade-10ef-43df-b124-944015042549"
+      ],
+      "categoryItems": [
+        431276
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77075,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1127657",
+      "title": "Unlocking Quantum Computing: An Overview",
+      "description": "Quantum computing is coming, but most of the explanations out there are either too academic or too hand-wavy to be useful. This talk is a practical overview for developers who want to understand what quantum computing actually is, why it matters, and where it's headed. We'll walk through the core concepts like superposition, entanglement, and interference without the math-heavy deep dive. You'll see what quantum computers are good at, what they're not, and how they might affect the systems and security decisions you make in the future. No physics background required. You'll walk away with enough understanding to follow the conversation and recognize when quantum starts to matter for your work. ",
+      "startsAt": "2026-05-01T15:30:00Z",
+      "endsAt": "2026-05-01T16:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c53b081c-6035-47f5-a606-91e83963556b"
+      ],
+      "categoryItems": [
+        431282
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "I gave a workshop version of this with great feedback at CodeMash. This is the summarized version. "
+        }
+      ],
+      "roomId": 77076,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1127053",
+      "title": "TypeScript You MIGHT Like",
+      "description": "TypeScript isn’t just a stricter JavaScript, it’s a toolkit for writing clearer, safer, and more maintainable code. Many developers simply use it minimally after encountering verbose types, confusing errors, or patterns that feel academic.\r\n\r\nThis talk takes a different route: dozens practical, real‑world TypeScript examples you can use today without over‑engineering, or over-hauling, your codebase. Through dozens of bite‑sized examples drawn from actual projects, we’ll cover patterns that reduce bugs, tips that keep types manageable, and features you might be overlooking.\r\n\r\nWhether you’re a JavaScript developer TypeScript‑curious, or an experienced user looking for new tricks, you’ll leave with ideas you can drop straight into your editor; and a new appreciation for TypeScript that you MIGHT actually like.",
+      "startsAt": "2026-05-01T15:30:00Z",
+      "endsAt": "2026-05-01T16:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "ed4af73a-6781-4882-a8c3-12ee0c68c1a5"
+      ],
+      "categoryItems": [
+        431275
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77077,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1126337",
+      "title": "Better the Devil you NoSQL - A Battle of Paradigms",
+      "description": "SQL or NoSQL? We’ll build the same app on DynamoDB and on Aurora DSQL, the latest cloud native database. Then compare modeling, query patterns, cost, latency, transactions, and ops. Takeaway practical insights from this packed micro demo. \r\n\r\n## Abstract\r\nI spent years living happily in my NoSQL safe space. I avoided SQL out of intimidation, without realizing the cost. Inspired by Ghost Rider’s redemption arc, I used the Devil I know to learn about the one I don’t. We’ll build a “Soul Contract Manager” for Ghost Rider with both DynamoDB and Aurora DSQL. In the process, we’ll see:\r\n\r\n- How data modeling shapes query flexibility and agility\r\n- The realities of multi-record consistency (transactions vs. item-level ops)\r\n- Cost and latency levers under typical read/write mixes\r\n- Secure connection patterns (IAM-issued tokens vs. app-managed secrets)\r\n\r\nOur goal isn’t to pick a winner; instead, you’ll get my hard-won lessons because redemption isn’t about choosing sides; it’s about feeling confident in your choices.\r\n\r\n## What You’ll Learn\r\n\r\n- **Mental models:** Access-pattern modeling (NoSQL) vs. relational modeling (SQL), you can explain to your team.\r\n- **Modeling tradeoffs in practice:** Keys/GSIs/streams vs. schemas/joins/transactions.\r\n- **Performance & cost levers:** How workload shapes (read/write ratio, query mix) changes outcomes.\r\n- **Security patterns:** Secrets-free connections with IAM tokens; least-privilege access.\r\n\r\n## Why You Can’t Miss It\r\n\r\n- **Memorable and Entertaining Analogies:** Inspired by Ghost-Rider’s redemption story to make concepts stick.\r\n- **Hands-on realism:** The *same* workflow implemented two ways—no hand-wavy “it depends.”\r\n\r\n# Audience & Level\r\n\r\nGeneral developers, backend/full-stack, cloud/serverless engineers, Beginner–Intermediate level",
+      "startsAt": "2026-05-01T15:30:00Z",
+      "endsAt": "2026-05-01T16:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "4de5c215-2eab-4a2d-bb3b-55817c56f01a"
+      ],
+      "categoryItems": [
+        431274
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77078,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1124728",
+      "title": "Cutting Through the Hype: Building High Performing Teams",
+      "description": "Whether you’re a leader or an individual contributor, you rely on teams to get meaningful work done. We’ve been working in teams forever, yet some groups move fast and deliver consistently while others seem permanently stuck in the slow lane.\r\n\r\nIt’s not because one team has mythical “10x engineers” or the latest AI tools. Those things can amplify performance, but they don’t create it. High‑performing teams are built on a foundation of strong people practices and clear, healthy standards.\r\n\r\nDesigned for new leaders or anyone seeking a fresh perspective, this session breaks down a practical approach to building great teams by focusing on people and standards—and the way the two reinforce each other. By the end of this session, not only will you have ideas on how to improve your team, but also a concrete roadmap you can apply immediately.",
+      "startsAt": "2026-05-01T15:30:00Z",
+      "endsAt": "2026-05-01T16:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "62ebafd8-8470-4415-bc16-6949e5c80f5b"
+      ],
+      "categoryItems": [
+        431279
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77079,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1120257",
+      "title": "The DevOops Handbook: A satirical guide to slow software delivery",
+      "description": "In the quest for rapid software delivery, DevOps principles are misapplied or skipped entirely, leading to a “DevOops culture.” In this talk we'll explore DevOps missteps through a satirical narrative where missteps and bad practices are presented as the path forward.\r\n\r\nTo start, we’ll discuss deploying code the way of the masochist. This will include a convincing argument for detail-oriented change requests and late-night deployments to prevent any witnesses to our misdeeds. Following this, we will outline our project mismanagement philosophy for maintaining constant chaos: embracing siloes and eliminating feedback loops. Finally, we'll present why quality assurance is overrated and unnecessary. Instead, we'll present the benefits of zero testing and disabling quality and security tools – they are just like that “check engine” light in the car: useless and annoying.\r\n\r\nTogether we’ll see how easy it is to establish the worst DevOps culture for modern software delivery: a DevOops culture! \r\n\r\nOr not. While this talk is tongue in cheek, we will see how to overcome these all-to-real mindsets. By the time we are done, we'll have navigated the treacherous waters of software misadventures with a wink and a smile so we can march forward, turning our ‘oopses’ into opportunities and our code catastrophes into triumphs.",
+      "startsAt": "2026-05-01T15:30:00Z",
+      "endsAt": "2026-05-01T16:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "ac76d40e-1703-43ab-8b89-9402befdf3b1"
+      ],
+      "categoryItems": [
+        431281
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Momentum, MITechCon, user groups, DevOpsDays"
+        }
+      ],
+      "roomId": 77080,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1130900",
+      "title": "The 5 Fundamentals of UX Everyone Should Know",
+      "description": "If you are building something (website, API, developer tools, presentation, email, etc.), you are creating a UX (user experience). How do you make that a good user experience?\r\n\r\nIn this session, we will discuss 5 fundamental questions you can use as a framework to put you on the path to creating products your users will love.",
+      "startsAt": "2026-05-01T15:30:00Z",
+      "endsAt": "2026-05-01T16:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b642eabd-7250-4ac5-b3b0-ce01951b88aa"
+      ],
+      "categoryItems": [
+        431278
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "CodeMash"
+        }
+      ],
+      "roomId": 77081,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1128028",
+      "title": "From Power to Supply Chains: Sustainability is Security",
+      "description": "Technology is moving fast, and so are the environmental challenges we face. Security sits right in the middle of these pressures. It’s no longer just about defending systems—our choices around power, hardware, and supply chains also shape how secure those systems really are.\r\n\r\nIn this talk, I’ll explore why sustainability belongs in the security conversation. We’ll look at practical steps—like energy-efficient tools, leaner software, greener data centers, and responsible hardware lifecycles—that cut waste and costs while strengthening defenses. Just as importantly, we’ll examine how unstable supply chains, poor sourcing, or unreliable power can become security risks in themselves.\r\n\r\nWe’ll also connect this to risk and compliance: how building sustainability into security reduces exposure, steadies supply chains, and keeps organizations ahead of changing expectations. With real-world examples, you’ll walk away with a clear sense of how sustainability and security reinforce each other, and how to apply that thinking in your own work.\r\n",
+      "startsAt": "2026-05-01T15:30:00Z",
+      "endsAt": "2026-05-01T16:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "bb52359f-7de5-4ab4-be0c-e0fdf39b7134"
+      ],
+      "categoryItems": [
+        431280
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Codemash 2026"
+        }
+      ],
+      "roomId": 77082,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "eac71ef9-d8fa-41bf-b3b4-b875e6f4ba41",
+      "title": "Lunch",
+      "description": null,
+      "startsAt": "2026-05-01T16:15:00Z",
+      "endsAt": "2026-05-01T17:00:00Z",
+      "isServiceSession": true,
+      "isPlenumSession": true,
+      "speakers": [],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 77074,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": null,
+      "isInformed": false,
+      "isConfirmed": false
+    },
+    {
+      "id": "a494e5b3-f641-408b-8790-d9f9ad55e27d",
+      "title": "Pending",
+      "description": null,
+      "startsAt": "2026-05-01T17:00:00Z",
+      "endsAt": "2026-05-01T17:45:00Z",
+      "isServiceSession": true,
+      "isPlenumSession": true,
+      "speakers": [],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 77074,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": null,
+      "isInformed": false,
+      "isConfirmed": false
+    },
+    {
+      "id": "1123967",
+      "title": "Generating Quality Code with AI",
+      "description": "\"AI writes slop\" is a common concern. So how can we use LLMs to not just generate good code, but to *ensure* quality? Let's explore how to create effective \"guardrails\" via generated tests, spec-driven development, instruction approaches, prompting techniques, context management, and more. After this session you'll have a list of ideas for improving your AI coding workflow.",
+      "startsAt": "2026-05-01T18:00:00Z",
+      "endsAt": "2026-05-01T18:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "424f7166-a882-473f-b05e-15aed7f9ff86"
+      ],
+      "categoryItems": [
+        431276
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77075,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1120206",
+      "title": "The Life-Changing Art of Being Wrong",
+      "description": "Even if it’s not intentional, there are a lot of assumptions we make about our users – everything from which devices they use to access our applications to what kinds of characters are included in their names. And guess what: our assumptions are usually wrong. Like…really wrong. Sometimes this creates laughable situations, but other times it causes a lot of unintentional harm. In this talk, we’ll discuss some of the most common (wrong) things that we, as developers, believe about our users and how we can shift our assumptions to create software that’s better for everyone. ",
+      "startsAt": "2026-05-01T18:00:00Z",
+      "endsAt": "2026-05-01T18:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "44406a2e-5504-47d4-8fef-6d5c110704a0"
+      ],
+      "categoryItems": [
+        431278
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "CodeStock, VueConf "
+        }
+      ],
+      "roomId": 77076,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1129076",
+      "title": "Boiling The Frog: Implementing a Modern Message Based Architecture Without Anyone Noticing",
+      "description": "Organizations are resistant to change, but it may not be for the reasons you think. When it comes to modernizing an application, navigating corporate bureaucracy is often the largest hurdle. Coordinating across multiple departments can be cumbersome and time-consuming. Dev teams often get stuck in a cycle of “hurry up and wait”.\r\n\r\nMost talks about modernization talk about the strangler fig pattern. In this session, we will go beyond strangler fig to discuss how you can leverage technical solutions to subtly but effectively overcome bureaucratic challenges.\r\n\r\nBy empowering your team to move the ball forward, get things done, and achieve as much progress as possible independently, you will have happier developers and happier stakeholders.",
+      "startsAt": "2026-05-01T18:00:00Z",
+      "endsAt": "2026-05-01T18:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "92822169-dd05-414d-b7f5-65ce48889f80"
+      ],
+      "categoryItems": [
+        431275
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "VSLive San Diego 2025, KCDC 2025"
+        }
+      ],
+      "roomId": 77077,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1123888",
+      "title": "Configurable cloud-native applications with .NET Aspire",
+      "description": "Building apps for the cloud has always been hard. Developers are typically pulled away from writing their business logic and what matters most to deal with the complexity of the cloud.\r\n\r\nTo help simplify cloud app complexity, Microsoft has introduced .NET Aspire.  It includes a curated set of components that make sense to use in your C# projects.\r\n\r\n.NET Aspire makes it easy to discover, acquire, and configure essential dependencies for cloud-native apps from the very beginning of your project. \r\n\r\nJoin me to walk through the set-up and usage of this new, powerful tool that can make any .NET developer more efficient in delivering cloud-native applications.",
+      "startsAt": "2026-05-01T18:00:00Z",
+      "endsAt": "2026-05-01T18:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "13924f5b-13f0-4fd8-a0bf-06f633dad5c9"
+      ],
+      "categoryItems": [
+        431274
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Beer City Code"
+        }
+      ],
+      "roomId": 77078,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1128156",
+      "title": "Automating User Interface Tests with Playwright",
+      "description": "Testing a user interface is an important part of the development life cycle. However this testing is often done manually, which is expensive, time-consuming, and often inconsistent. Automating this process can make UI testing far more effective and efficient.\r\n\r\nAzure Playwright is an open source node.js project that provides a way to automate user interface testing.\r\n\r\nBy the end of this session, you’ll know how to:\r\n- Automate repetitive coding tasks with Playwright\r\n- Record user actions and use the rich object model to automate your tests\r\n- Integrate Copilot into your CI/CD pipeline\r\n- Reduce test development time.",
+      "startsAt": "2026-05-01T18:00:00Z",
+      "endsAt": "2026-05-01T18:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fe170f42-5405-4ad7-a69f-2276f081bf7e"
+      ],
+      "categoryItems": [
+        431281
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77079,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1121838",
+      "title": "Java Anti-Patterns",
+      "description": "God object, spaghetti code, magic numbers? Anti-patterns are traps that developers encounter frequently due to lack of time, carelessness, inexperience, or pressure from project managers. Rushing can lead to big problems for applications in future, so you need to know how to avoid potential errors.\r\n\r\nCome learn about Java Anti-Patterns. In this session beginner Java developers can learn to identify common rookie developer mistakes. Experienced developers can cry or laugh together as we look at real-life examples of Java code. You will leave this session knowing how to avoid these anti-patterns and write elegant, maintainable, and (dare we say it?) fun to work with code. Finally, you will find better ways to implement solutions using Java.",
+      "startsAt": "2026-05-01T18:00:00Z",
+      "endsAt": "2026-05-01T18:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "11fbf1c5-b0fc-42eb-a027-4fea2e54bb12"
+      ],
+      "categoryItems": [
+        431274
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "CodeMash"
+        }
+      ],
+      "roomId": 77080,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1131005",
+      "title": "Increasing Productivity by Doing Nothing",
+      "description": "It is easy to mistake “busy” for “productive.” We fill every gap—messages, meetings, side tasks, even our “breaks”—and then wonder why our focus, creativity, and decision-making keep getting worse.\r\n\r\nThis talk is about doing nothing on purpose. Not as a productivity hack, but as a practical way to restore your mind, body, relationships, and clarity. You’ll leave with a simple approach you can use immediately, plus a one-week experiment to reclaim slack in your day—because the deviation from the deadline will be far worse if you run out of gas.",
+      "startsAt": "2026-05-01T18:00:00Z",
+      "endsAt": "2026-05-01T18:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5698811a-4c31-4537-970d-e427009e0cca"
+      ],
+      "categoryItems": [
+        431279
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77081,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1138947",
+      "title": "A developer’s guide to making security reviews suck less",
+      "description": "In many companies, security reviews suck. You’ve spent weeks or months grinding on a new feature and you’re finally ready to push to production, only to have a security review at the eleventh hour spark chaos. A security engineer raises a concern that might be valid or might be a total misunderstanding, but either way, it leads to urgent meetings, escalations, and complicated Go/No-Go decisions.\r\n\r\nIn this talk, we will dive into how to navigate these reviews without the drama. As an AppSec Director, I will help you understand exactly what security teams are looking for and why. I’ll show you anticipate their concerns and requirements so you aren’t surprised by scope creep right before code complete. We will explore how to effectively engage your security team, what specific information they need from you, and how to speak their language so you can accurately address concerns and get to the heart of their requirements.\r\n\r\nBy the end of this session, you will have a straightforward strategy to streamline your next security review and build a more collaborative relationship with your security partners. You will walk away with the tools to reduce the friction that leads to pre-launch panic, helping your team ship with significantly fewer headaches.\r\n",
+      "startsAt": "2026-05-01T18:00:00Z",
+      "endsAt": "2026-05-01T18:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d06fd6a1-87cf-4d20-a5e0-2dd64c2039bb"
+      ],
+      "categoryItems": [
+        431280
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77082,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1123424",
+      "title": "AI in Agile: How to Leverage AI for Smarter Sprints & Roadmaps",
+      "description": "AI isn’t just disrupting industries; it’s redefining how Agile team's work. From backlog grooming to sprint planning, modern tools like ChatGPT, Jira Assist, and GitHub Copilot are helping Agile leaders and teams move faster, think smarter, and focus more on value delivery than manual overhead.\r\n\r\nIn this forward-looking session, we’ll explore how AI is transforming the Agile lifecycle. You’ll see real-world examples and a live demo showing how AI can assist with generating user stories, refining acceptance criteria, summarizing retrospectives, and even forecasting roadmap scenarios.",
+      "startsAt": "2026-05-01T19:00:00Z",
+      "endsAt": "2026-05-01T19:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8d6efde2-af82-4fb9-9d6a-1a88369657c1"
+      ],
+      "categoryItems": [
+        431276
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77075,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1129837",
+      "title": "Completing the Rewrite from Hell: Five Years of Technical Debt and How We Escaped",
+      "description": "Bad architecture decisions don't just slow you down - they destroy business value. Poor coupling means you can't add the features customers are asking for. Data model mistakes mean you don't have the information to answer your questions, and a lot of your decisions can't be easily reversed. You know the problems are there. You've known for years. But there's never time to fix it properly - you're too busy keeping the lights on.\r\n\r\nThen one day, the stars align. You finally have time to tackle it. You open the codebase, ready to make things right - and realize you have no idea where to start. Everything is wrong. Every fix breaks something else. The whole thing feels impossible.\r\n\r\nI'm a business owner. I had full authority to prioritize this rewrite. No one to convince, no budget to fight for. I still couldn't make it happen for five years - even while watching money walk out the door.\r\n\r\nThis is the story of how we finally completed that rewrite. You'll learn:\r\n\r\n- Why we abandoned a full rewrite and pivoted to strategic refactoring instead\r\n- How to assess whether your legacy system is salvageable (ours barely was)\r\n- The architectural patterns - including the actor model - that would have prevented this mess\r\n- How we used AI to accelerate the work (spoiler: it wasn't vibe coding)\r\n- The management failures that let this happen, and how to avoid them\r\n\r\nThis isn't a talk about how smart we are. It's about how we recovered from one of my biggest failures as an engineering leader - and what you can learn from our five-year journey through hell.",
+      "startsAt": "2026-05-01T19:00:00Z",
+      "endsAt": "2026-05-01T19:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "470ab354-5943-49aa-b10e-b22be7166e72"
+      ],
+      "categoryItems": [
+        431274
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "https://aaronstannard.com/talks/ - just like the other talk I submitted, this one is new."
+        }
+      ],
+      "roomId": 77076,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1127535",
+      "title": "Engineering for Reliability and Stability in the Azure Messaging Services",
+      "description": "Anything that can go wrong will go wrong at some point, so it is best to come prepared. Whether you are in the cloud or running your own data center, there is always a risk of power outages, hardware failures, natural disasters, or other unexpected events. These can be especially impactful for critical components in your architecture, such as your message broker. In this session, we explore capabilities that enhance the reliability and stability of Azure Messaging services, specifically Service Bus and Event Hubs.\r\n \r\nWe first look at high-availability options provided by Azure, including transient error handling and Availability Zones, which offer a solid foundation for building reliable workloads. Furthermore, we also examine advanced features that provide additional resilience in unexpected situations, such as Geo-Replication.\r\n \r\nOur recommendations are not limited to the platform itself. We also cover improvements you can implement when building and hosting applications, including retry and exception handling, and the various hosting models available for clients.\r\n \r\nBy attending this session, you will learn practical tips and guidelines directly from the Azure Messaging product group, helping you prepare for unplanned events and maintain confidence in the reliability of your systems.",
+      "startsAt": "2026-05-01T19:00:00Z",
+      "endsAt": "2026-05-01T19:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "11a684d4-ace1-49e8-be4b-c4e5ff215a7c"
+      ],
+      "categoryItems": [
+        431275
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77077,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1124736",
+      "title": "Decision Records: Understanding Why Those Decisions Were Made!",
+      "description": "Ever stared at a complex system and thought, \"Wait, why was that decision made?!” We’ve all been there – lost in a maze of logic, struggling to track down the root cause of a problem. Decision Records offer a brilliant way to finally unlock that understanding. They’re like having a detailed, searchable log of every decision in your applications – from architectural style to authentication to service discovery and containerization. By capturing these decisions, you build more maintainable, auditable, and, frankly, less frustrating systems. In this session, you will learn how decision records solve problems and will be given ideas of templates that you can implement in your projects today! Let’s ditch the guesswork and start documenting the why – because truly understanding your systems is the key to unlocking its full potential!",
+      "startsAt": "2026-05-01T19:00:00Z",
+      "endsAt": "2026-05-01T19:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9bde9de9-7bcb-4077-8087-47bf492a1344"
+      ],
+      "categoryItems": [
+        431275
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": ".NET Conf 2025 (30-minutes) https://www.youtube.com/watch?v=eHqBZOrx6ZI, CodeMash 2026 (1-hour, not recorded) "
+        }
+      ],
+      "roomId": 77078,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1126556",
+      "title": "Git Configuration secrets THEY don't want you to know about",
+      "description": "In 2021 the Git core developers were asked to reset their config settings to see what working on Git \"Out of the Box\" was really like. They were then challenged to come up with the top settings that they really wanted to change. What came from that exercise was a list of 9 settings that the core development team mostly unanimously agreed should be the defaults.\r\n\r\nAttendees will leave this session with the following take ways:\r\n\r\n* How to configure Git so it is more ergonomic and pleasant to work with\r\n* How Git settings may change depending on our workflow\r\n* A deeper understanding of the internals of Git",
+      "startsAt": "2026-05-01T19:00:00Z",
+      "endsAt": "2026-05-01T19:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "53ac8546-b51e-4755-8d18-67c519a981c0"
+      ],
+      "categoryItems": [
+        431274
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "Codemash, Nebraska.Code, Lincoln.Code"
+        }
+      ],
+      "roomId": 77079,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1130802",
+      "title": "The Low Risk Entrepreneur",
+      "description": "We all love what we do and we know that if we were in charge, we could do it better!  But how do you make the leap from employee to the coveted position of \"Your Own Boss\"?  Are you ready to quit your job?  Do you HAVE to quit your job?  In this session, we'll look at the options for those who are considering making the big leap - and ways to make it less scary.  Attendees will learn about ways to be an entrepreneur while minimizing the risk, and even ways that they can \"entrepreneur in place\" at their current gig.  If you are itching to make a change, but not sure how to move forward, this session is for you.",
+      "startsAt": "2026-05-01T19:00:00Z",
+      "endsAt": "2026-05-01T19:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0a6a65cd-0f7c-4490-8168-3ac1d1f0c869"
+      ],
+      "categoryItems": [
+        431279
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77080,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1130920",
+      "title": "LGTM is not a Strategy",
+      "description": "Pull requests are where quality is won or lost, and too many teams still treat reviews with a rushed \"LGTM\". In this talk, you'll learn a practical, repeatable approach to high-quality PR reviews that balances speed with risk management - covering how to triage changes quickly, review in layers, and write comments that lead to better outcomes without friction.  We'll also show how QA and developers bring complementary lenses to the same review, turning acceptance criteria, scenarios, and observability into shared responsibility instead of production surprises.  You'll leave with a lightweight framework and concrete habits for authors and reviewers that make reviews faster, kinder, and more effective.",
+      "startsAt": "2026-05-01T19:00:00Z",
+      "endsAt": "2026-05-01T19:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "01782d24-b1aa-4645-a9f5-a15e51bf132c"
+      ],
+      "categoryItems": [
+        431281
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77081,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1131041",
+      "title": "The Death of Data: AI, Obsolescence, and Your Digital Afterlife",
+      "description": "Our lives are increasingly lived as data—photos, chats, documents, posts, code—but most of it is quietly dying. Formats rot, platforms disappear, accounts get locked, and even our memories fade. In this talk, we’ll explore “The Death of Data” through the lens of Swedish Death Cleaning: what would it look like to intentionally curate, archive, or delete our digital lives before entropy or corporate policy does it for us?\r\n\r\nWe’ll examine how AI is accelerating both preservation and erasure: from generative models trained on our public traces, to AI-powered photo enhancement, summarization, and memorialization tools that can outlive us. Along the way, we’ll look at digital memorials, legacy videos, and time capsules, and ask: what do we actually want to survive us—and who gets to decide? You’ll leave with a new mental model for your digital afterlife and practical ideas for designing a more intentional legacy.",
+      "startsAt": "2026-05-01T19:00:00Z",
+      "endsAt": "2026-05-01T19:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0dfa92b1-c9a1-4910-8e95-a31049f0665a"
+      ],
+      "categoryItems": [
+        431282
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77082,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1126959",
+      "title": "MCP Demystified 🤖",
+      "description": "It is the age of AI, and there is a huge opportunity for developers to infuse apps with solutions powered by generative AI and large/small language models. Modern AI is big opportunity to streamline and automate developer workflows for better productivity. There are some challenges though – AI Models often lack context, and AI Agents need expertise to reliably pull off complex workflows across disparate systems.\r\n\r\nModel Context Protocol (MCP) can help. Developed as an open standard, MCP aims to provide a standardized way to connect AI models to different data sources, tools and non-public information. The point is to provide deep contextual information/APIs/data as tools to AI models/agents—MCP services also support robust authentication/authorization toward executing specific tasks on behalf of users.\r\n\r\nDevelopers can think of MCP as a common standardized language for information exchange between AI Agents/systems - MCP is growing in popularity and is showing a lot of promise as the emerging standard that bridges AI models with the tools they rely on. Beyond the hype, let’s understand the promise of MCP and explore tooling to easily create MCP Servers/Clients. With official SDKs, it is a breeze to work with MCP and boost AI Model responses or surface tools to extend AI Agents. Developers could bring their own data, APIs, services and more through MCP - and have it surfaced through Agents in GitHub Copilot/Claude Code/Cursor. MCP provides a standardized protocol for bringing contextual expertise to the AI world and light up unique workflows for integrations – upwards and onwards.\r\n",
+      "startsAt": "2026-05-01T20:00:00Z",
+      "endsAt": "2026-05-01T20:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fc1d0cd3-9675-4188-aa98-e0088069f1a4"
+      ],
+      "categoryItems": [
+        431276
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        }
+      ],
+      "roomId": 77075,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1120265",
+      "title": "Securing your Azure AI Workload",
+      "description": "You've been given the task of creating an AI workload that will work with your data to allow your customers to get answers.  Perhaps you even want to use some of these new \"agent\" things you've been hearing so much about.  Maybe you need to see how your regular apps can also integrate with your workload.\r\n\r\nBut AI is scary.  Just ask Samsung how they felt when their proprietary code showed up in chat GPT answers.  Just look to the Canadian Airline that had to pay a refund because their chat agent said the customer should get one.  Or how about the guy who negotiated a truck for $0?  It's challenging and scary - and that's just the implementation.  Just to be clear, learning how to ground your data properly is an entirely different session - and while we'll talk about that briefly, this session is more about the workload in Azure itself.\r\n\r\nWhat about the exposure of your data via your azure services?  How can you keep your HIPPA/GDPR/NIST certifications *and* integrate an azure AI workload?\r\n\r\nIn this session, you will learn about how you can correctly utilize Azure services to secure your AI workload from public exposure, and how you can connect securely to the AI deployments from your other secure services.",
+      "startsAt": "2026-05-01T20:00:00Z",
+      "endsAt": "2026-05-01T20:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0c4f74c9-6be8-40d0-b588-674d3b783472"
+      ],
+      "categoryItems": [
+        431275
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77076,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1129012",
+      "title": "Application Architecture Patterns",
+      "description": "Architecting an application can be challenging.  What do you do to keep your application flexible to ever-constant requirement changes? How do you handle landscape changes (cloud, on-premises, databases)? How do you avoid over-engineering the application? How do I make sure my application plays well with other applications?\r\n\r\nIn this session, we'll take a look at some well-understood and practiced Software Architecture patterns.  We'll cover these patterns at a high level to understand how to use these patterns in different scenarios.\r\n\r\nYou'll walk away with some knowledge, tips, and tricks that you'll be able to use for new and existing applications.",
+      "startsAt": "2026-05-01T20:00:00Z",
+      "endsAt": "2026-05-01T20:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "137fb55c-d120-4a6b-9e15-98123df17302"
+      ],
+      "categoryItems": [
+        431275
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "https://www.youtube.com/watch?v=MGIWrvHjww8&list=PLESGit66MnbmnDhXdTZicVFF2Pql430pJ&index=13&pp=gAQBiAQB2AYOsAgC"
+        }
+      ],
+      "roomId": 77077,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1131023",
+      "title": "150K Lines, 0 Unit Tests, No Documentation: How To Work With A Software Landfill",
+      "description": "Most programmers don't start projects from scratch, but inherit them. Often, we join large, messy, years-old code bases that are poorly tested and documented, and are intimidating to work with. Working with them can feel like tap dancing through a mine field.\r\n\r\nGenerative AI also provides challenges for software developers, as it can generate huge amounts of code that need to be understood.\r\n\r\nThis talk offers practical strategies for navigating and improving legacy code. We'll see techniques like using git history with scripts to identify software hot spots, introducing software \"seams\" for safe refactoring, and isolating risky changes through \"sprouting\" and \"wrapping\" techniques. You'll see how small, strategic changes can introduce stability without requiring massive rewrites.\r\n\r\nAttendees will leave with concrete, proven techniques for understanding, modifying, and improving legacy code bases with confidence. ",
+      "startsAt": "2026-05-01T20:00:00Z",
+      "endsAt": "2026-05-01T20:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b765d60f-4717-4116-b9f2-002c8a10bd88"
+      ],
+      "categoryItems": [
+        431274
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77078,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1126334",
+      "title": "Designing Data Pipelines That Don’t Hate You Six Months Later",
+      "description": "Most data pipelines don’t fail on day one. They fail months later — when requirements change, data volume grows, or the original developer is no longer around. Much like martial arts training, pipelines built on shaky fundamentals tend to collapse under pressure.\r\n\r\nThis session focuses on practical data pipeline design patterns that emphasize durability, maintainability, and operational confidence. Drawing from experience modernizing enterprise data platforms, I’ll walk through common failure modes in batch and streaming pipelines and how disciplined upfront design decisions can prevent them.\r\n\r\nWe’ll cover topics such as schema evolution, idempotency, observability, testing strategies, and scaling — grounded in real examples of what worked, what broke, and what we had to correct after the fact. There are no silver bullets here — just repeatable patterns and lessons learned from systems that had to stay running while everything around them changed.\r\n\r\nThis talk is tool-agnostic and focused on principles that apply whether you’re using Python, Spark, Kafka, or traditional ETL platforms.\r\n\r\nWhat’s in it for the attendee\r\n- How to design pipelines that withstand change and growth\r\n- Patterns for building observability and testability into data systems\r\n- Common anti-patterns that lead to brittle pipelines\r\n- Practical guidance rooted in real production experience",
+      "startsAt": "2026-05-01T20:00:00Z",
+      "endsAt": "2026-05-01T20:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c04acb4e-f54c-41d8-881a-8ca1f27e5d98"
+      ],
+      "categoryItems": [
+        431277
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77079,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1127299",
+      "title": "From PRs to Performance: Using Metrics and AI to Coach Stronger Engineering Teams",
+      "description": "Velocity is useful, but it is not leadership. Most organizations either stop at team velocity and “gut feel,” or they overcorrect into individual scoreboards that erode trust and create perverse incentives. This talk shares a pragmatic middle path: how engineering leaders can use metrics to understand delivery health, code quality, and collaboration, without turning measurement into micromanagement.\r\n\r\nI built an internal metrics web application that connects to common systems like code repositories and agile/project tools (GitHub and Linear in my case, but the approach generalizes to Jira and other platforms). It tracks velocity and estimation trends over time, compares individual and team patterns, and adds pull request analysis to surface quality signals. I also integrated AI (Claude) to review commits and PR discussions and generate a quality assessment across four dimensions: code quality (DRY/SOLID), testing habits, adherence to standards, and collaboration in code review.\r\n\r\nThis session is designed for senior engineers through executive technology leaders. You will learn which metrics are actually useful, how to implement a dashboard in your environment, and how to apply guardrails so metrics drive coaching and continuous improvement rather than fear or gaming. The examples and demo are fully offline using anonymized or mock data and precomputed AI outputs, so the approach works even with limited connectivity.\r\n\r\nWhat’s in it for you: you’ll leave with a concrete dashboard blueprint and an implementation plan you can apply immediately: what to measure, how to visualize it, how to layer in AI responsibly, and how to use the signals to coach, improve standards, and raise delivery confidence.\r\n\r\nKey takeaways\r\n* A leadership-oriented metrics framework: outcomes vs system signals vs behaviors (and what not to measure)\r\n* A practical dashboard design that combines velocity, estimation reality (“hours per point”), and PR signals\r\n* How to use AI as an assistant for qualitative insights (and how to calibrate it so it does not become “truth”)\r\n* Guardrails for trust: privacy, transparency, and preventing metric gaming\r\n* A step-by-step path to build this in your org using APIs from your existing tools\r\n\r\n45-minute outline\r\n* Why most engineering metrics fail in practice (5 min)\r\n* Velocity, estimation, and forecasting that leaders can actually use (10 min) team velocity per cycle, averages, “hours per point” trends comparing individual patterns to team patterns without weaponizing it\r\n* Pull request signals that reveal quality and delivery risk (10 min)\r\nreview cycles, rework patterns, standards drift, collaboration signals\r\n* AI-assisted quality analysis, responsibly (12 min)\r\ncode quality, testing quality, standards, collaboration\r\ncalibrating with spot checks and known baselines; using confidence labels\r\n* How to apply the signals: coaching, leveling expectations, and intervention (6 min)\r\n* Build plan: how to implement this dashboard in your environment (2 min)",
+      "startsAt": "2026-05-01T20:00:00Z",
+      "endsAt": "2026-05-01T20:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b4bb31af-bcf8-4f20-af95-dd1c0d93f309"
+      ],
+      "categoryItems": [
+        431279
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77080,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1125439",
+      "title": "Managing for Failure",
+      "description": "Oh no! Your team is doing a fabulous job. You never have to have difficult conversations, everyone is getting their work done to a high standard and on time. The higher ups are super happy with you. No one on your team has failed in longer than you can remember! How could you let this happen and what can you do to fix it?\r\n\r\nFailure is an important part of growing your team - both the individuals on it and the cohesiveness of the whole. Without it creative problem solving can stagnate, learning slows to a crawl, and the work you get done is less than it could have been. \r\n\r\nWe’ll dive in to strategies for helping your team (including you!) feel comfortable with failure, as well as strategies for keeping YOUR boss happy when it happens. We’ll also explore low-stakes ways to introduce failure into your team, so you’re not taking down prod to prove a point. ",
+      "startsAt": "2026-05-01T20:00:00Z",
+      "endsAt": "2026-05-01T20:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "645adf23-f177-4ca8-b3c5-f2217624f488"
+      ],
+      "categoryItems": [
+        431279
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "true"
+        },
+        {
+          "questionId": 118564,
+          "answerValue": "KCDC, Momentum"
+        }
+      ],
+      "roomId": 77081,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1130963",
+      "title": "Maintenance by Smell: When Reading Every Line Becomes Obsolete",
+      "description": "Classic scenario. You get handed someone else's codebase. The original author has left for a beach somewhere, better gig, or possibly witness protection.\r\n\r\nYesterday: Read it. Line by line. Function by function. Build a mental model. Understand it deeply. Then fix it.\r\n\r\nTime required: Somewhere between \"too long\" and \"I have regrets about my career choices.\"\r\n\r\nToday: Don't read it. Ask AI what it does. Investigate what smells funny. Fix the smell. Move on with your life.\r\n\r\nThis talk is about the shift from syntax comprehension to diagnostic intuition. It's the difference between memorizing every street name in a city versus knowing the neighborhoods well enough to sense when you're heading somewhere sketchy. You don't need to parse every semicolon, you need to recognize when something's wrong.\r\n\r\nThe key skill isn't reading code faster. It's asking better questions. \"What's the happy path here?\" \"Where could this blow up?\" \"Why does this function exist?\" And critically: \"What's the thing the original author was worried about that I should also be worried about?\"\r\n\r\nYou'll walk away with practical patterns for smell-based debugging, the questions that matter more than comprehensive reading, and a significantly improved relationship with legacy code. (It's still not a good relationship. But it's faster.)",
+      "startsAt": "2026-05-01T20:00:00Z",
+      "endsAt": "2026-05-01T20:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "88b7259a-70ff-4438-a85a-16d87363f3e2"
+      ],
+      "categoryItems": [
+        431281
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77082,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "34aadd69-ff84-40aa-97bc-332cdc97ccc7",
+      "title": "Movie Trailers",
+      "description": null,
+      "startsAt": "2026-05-01T21:00:00Z",
+      "endsAt": "2026-05-01T21:45:00Z",
+      "isServiceSession": true,
+      "isPlenumSession": true,
+      "speakers": [],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 77074,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": null,
+      "isInformed": false,
+      "isConfirmed": false
     }
   ],
   "speakers": [
@@ -2498,8 +2570,8 @@
         }
       ],
       "sessions": [
-        1129076,
-        1129069
+        1129069,
+        1129076
       ],
       "fullName": "Hazel Bohon",
       "categoryItems": [
@@ -3698,5 +3770,51 @@
       "type": "speaker"
     }
   ],
-  "rooms": []
+  "rooms": [
+    {
+      "id": 77074,
+      "name": "Concourse",
+      "sort": 0
+    },
+    {
+      "id": 77075,
+      "name": "Room 1",
+      "sort": 1
+    },
+    {
+      "id": 77076,
+      "name": "Room 2",
+      "sort": 2
+    },
+    {
+      "id": 77077,
+      "name": "Room 3",
+      "sort": 3
+    },
+    {
+      "id": 77078,
+      "name": "Room 4",
+      "sort": 4
+    },
+    {
+      "id": 77079,
+      "name": "Room 5",
+      "sort": 5
+    },
+    {
+      "id": 77080,
+      "name": "Room 6",
+      "sort": 6
+    },
+    {
+      "id": 77081,
+      "name": "Room 7",
+      "sort": 7
+    },
+    {
+      "id": 77082,
+      "name": "Room 8",
+      "sort": 8
+    }
+  ]
 }

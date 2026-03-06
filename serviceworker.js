@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1772814994196';
+var CACHE = 'network-or-cache-1772822364863';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -39,15 +39,15 @@ self.addEventListener('fetch', function(evt) {
 "/sessions/",
 "/sessions/index.html",
 "/speakers/2018.html",
-"/speakers/2019.html",
 "/speakers/2020.html",
+"/speakers/2019.html",
 "/speakers/2021.html",
 "/speakers/2022.html",
 "/speakers/2023.html",
 "/speakers/2024.html",
-"/speakers/2025.html",
 "/speakers/",
 "/speakers/index.html",
+"/speakers/2025.html",
 "/speakers/index_cfpopenversion.html",
 "/speakers/index_noncfpversion.html",
 "/store/",
@@ -71,10 +71,10 @@ self.addEventListener('fetch', function(evt) {
 "/info/press/2024-02-10.html",
 "/info/press/",
 "/info/press/index.html",
-"/info/travel/",
-"/info/travel/index.html",
 "/info/privacy/",
 "/info/privacy/index.html",
+"/info/travel/",
+"/info/travel/index.html",
 "/images/speakers/2022/Readme.html",
 "/styles/fontawesome-6/css/brands.min.css",
 "/styles/fontawesome-6/css/regular.css",
@@ -82,8 +82,8 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/solid.css",
 "/styles/fontawesome-6/css/solid.min.css",
 "/styles/fontawesome-6/css/svg-with-js.css",
-"/styles/fontawesome-6/css/svg-with-js.min.css",
 "/styles/fontawesome-6/css/v4-font-face.css",
+"/styles/fontawesome-6/css/svg-with-js.min.css",
 "/styles/fontawesome-6/css/v4-font-face.min.css",
 "/styles/fontawesome-6/css/v5-font-face.css",
 "/styles/fontawesome-6/css/v5-font-face.min.css",
@@ -108,8 +108,8 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/all.css",
 "/styles/bootstrap.min.css",
 "/styles/bootstrap.css",
-"/scripts/jquery-3.3.0.js",
 "/scripts/jquery-3.3.1.js",
+"/scripts/jquery-3.3.0.js",
 "/2026/02/25/2026-02-25-A-Puzzle-to-Solve/",
 "/speakers/2018/Adam-Pasternack.html",
 "/speakers/2018/Angel-Thomas.html",

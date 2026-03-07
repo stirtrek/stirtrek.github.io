@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1772878805530';
+var CACHE = 'network-or-cache-1772881613135';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -24,9 +24,9 @@ self.addEventListener('fetch', function(evt) {
   function precache() {
     return caches.open(CACHE).then(function (cache) {
         return cache.addAll([
-            "/manifest.json",
-"/",
+            "/",
 "/index.html",
+"/manifest.json",
 "/404.html",
 "/blog/",
 "/blog/index.html",
@@ -36,9 +36,9 @@ self.addEventListener('fetch', function(evt) {
 "/registration/index.html",
 "/schedule/",
 "/schedule/index.html",
+"/speakers/2018.html",
 "/sessions/",
 "/sessions/index.html",
-"/speakers/2018.html",
 "/speakers/2019.html",
 "/speakers/2020.html",
 "/speakers/2021.html",
@@ -85,8 +85,8 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/svg-with-js.min.css",
 "/styles/fontawesome-6/css/v4-font-face.css",
 "/styles/fontawesome-6/css/v4-font-face.min.css",
-"/styles/fontawesome-6/css/v5-font-face.css",
 "/styles/fontawesome-6/css/v5-font-face.min.css",
+"/styles/fontawesome-6/css/v5-font-face.css",
 "/styles/bootstrap-button-social.min.css",
 "/styles/fontawesome-4.min.css",
 "/styles/fontawesome-6/css/brands.css",

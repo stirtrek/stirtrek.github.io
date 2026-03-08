@@ -2,8 +2,295 @@
   "scheduledSessions": {
     "timeSlots": [
       {
-        "time": "Invalid date",
-        "sessions": []
+        "time": "7:30 AM",
+        "sessions": [
+          {
+            "id": "c4dd162f-c4e1-420b-8b09-b07dac8aa831",
+            "scheduledRoom": "Concourse"
+          }
+        ]
+      },
+      {
+        "time": "8:30 AM",
+        "sessions": [
+          {
+            "id": "1123968",
+            "scheduledRoom": "The Last Starfighter - Theatre 14 (12,13)"
+          },
+          {
+            "id": "1120202",
+            "scheduledRoom": "The Matrix - Theatre 15 (10, 11)"
+          },
+          {
+            "id": "1129069",
+            "scheduledRoom": "The Goonies - Theatre 16 (21)"
+          },
+          {
+            "id": "1120953",
+            "scheduledRoom": "Ghostbusters - Theatre 17 (20)"
+          },
+          {
+            "id": "1128674",
+            "scheduledRoom": "Interstellar - Theatre 4 (5,6,7,8,9)"
+          },
+          {
+            "id": "1120223",
+            "scheduledRoom": "Back to the Future - Theatre 3 (1,2)"
+          },
+          {
+            "id": "1143759",
+            "scheduledRoom": "Galaxy Quest - Theatre 27 (23,24,25,26)"
+          },
+          {
+            "id": "1127279",
+            "scheduledRoom": "Inception - Theatre 28 (18,19)"
+          }
+        ]
+      },
+      {
+        "time": "9:30 AM",
+        "sessions": [
+          {
+            "id": "1130675",
+            "scheduledRoom": "The Last Starfighter - Theatre 14 (12,13)"
+          },
+          {
+            "id": "1120833",
+            "scheduledRoom": "The Matrix - Theatre 15 (10, 11)"
+          },
+          {
+            "id": "1127331",
+            "scheduledRoom": "The Goonies - Theatre 16 (21)"
+          },
+          {
+            "id": "1119405",
+            "scheduledRoom": "Ghostbusters - Theatre 17 (20)"
+          },
+          {
+            "id": "1130109",
+            "scheduledRoom": "Interstellar - Theatre 4 (5,6,7,8,9)"
+          },
+          {
+            "id": "1127647",
+            "scheduledRoom": "Back to the Future - Theatre 3 (1,2)"
+          },
+          {
+            "id": "1121367",
+            "scheduledRoom": "Galaxy Quest - Theatre 27 (23,24,25,26)"
+          },
+          {
+            "id": "1127280",
+            "scheduledRoom": "Inception - Theatre 28 (18,19)"
+          }
+        ]
+      },
+      {
+        "time": "10:30 AM",
+        "sessions": [
+          {
+            "id": "1143160",
+            "scheduledRoom": "The Last Starfighter - Theatre 14 (12,13)"
+          },
+          {
+            "id": "1124045",
+            "scheduledRoom": "The Matrix - Theatre 15 (10, 11)"
+          },
+          {
+            "id": "1130941",
+            "scheduledRoom": "Ghostbusters - Theatre 17 (20)"
+          },
+          {
+            "id": "1127143",
+            "scheduledRoom": "Interstellar - Theatre 4 (5,6,7,8,9)"
+          },
+          {
+            "id": "1120566",
+            "scheduledRoom": "Back to the Future - Theatre 3 (1,2)"
+          },
+          {
+            "id": "1121847",
+            "scheduledRoom": "Galaxy Quest - Theatre 27 (23,24,25,26)"
+          },
+          {
+            "id": "1126202",
+            "scheduledRoom": "Inception - Theatre 28 (18,19)"
+          }
+        ]
+      },
+      {
+        "time": "11:30 AM",
+        "sessions": [
+          {
+            "id": "1119472",
+            "scheduledRoom": "The Last Starfighter - Theatre 14 (12,13)"
+          },
+          {
+            "id": "1127657",
+            "scheduledRoom": "The Matrix - Theatre 15 (10, 11)"
+          },
+          {
+            "id": "1127053",
+            "scheduledRoom": "The Goonies - Theatre 16 (21)"
+          },
+          {
+            "id": "1126337",
+            "scheduledRoom": "Ghostbusters - Theatre 17 (20)"
+          },
+          {
+            "id": "1124728",
+            "scheduledRoom": "Interstellar - Theatre 4 (5,6,7,8,9)"
+          },
+          {
+            "id": "1120257",
+            "scheduledRoom": "Back to the Future - Theatre 3 (1,2)"
+          },
+          {
+            "id": "1130900",
+            "scheduledRoom": "Galaxy Quest - Theatre 27 (23,24,25,26)"
+          },
+          {
+            "id": "1128028",
+            "scheduledRoom": "Inception - Theatre 28 (18,19)"
+          }
+        ]
+      },
+      {
+        "time": "12:15 PM",
+        "sessions": [
+          {
+            "id": "eac71ef9-d8fa-41bf-b3b4-b875e6f4ba41",
+            "scheduledRoom": "Concourse"
+          }
+        ]
+      },
+      {
+        "time": "1:00 PM",
+        "sessions": [
+          {
+            "id": "a494e5b3-f641-408b-8790-d9f9ad55e27d",
+            "scheduledRoom": "Concourse"
+          }
+        ]
+      },
+      {
+        "time": "2:00 PM",
+        "sessions": [
+          {
+            "id": "1123967",
+            "scheduledRoom": "The Last Starfighter - Theatre 14 (12,13)"
+          },
+          {
+            "id": "1120206",
+            "scheduledRoom": "The Matrix - Theatre 15 (10, 11)"
+          },
+          {
+            "id": "1129076",
+            "scheduledRoom": "The Goonies - Theatre 16 (21)"
+          },
+          {
+            "id": "1123888",
+            "scheduledRoom": "Ghostbusters - Theatre 17 (20)"
+          },
+          {
+            "id": "1128156",
+            "scheduledRoom": "Interstellar - Theatre 4 (5,6,7,8,9)"
+          },
+          {
+            "id": "1121838",
+            "scheduledRoom": "Back to the Future - Theatre 3 (1,2)"
+          },
+          {
+            "id": "1131005",
+            "scheduledRoom": "Galaxy Quest - Theatre 27 (23,24,25,26)"
+          },
+          {
+            "id": "1138947",
+            "scheduledRoom": "Inception - Theatre 28 (18,19)"
+          }
+        ]
+      },
+      {
+        "time": "3:00 PM",
+        "sessions": [
+          {
+            "id": "1123424",
+            "scheduledRoom": "The Last Starfighter - Theatre 14 (12,13)"
+          },
+          {
+            "id": "1129837",
+            "scheduledRoom": "The Matrix - Theatre 15 (10, 11)"
+          },
+          {
+            "id": "1127535",
+            "scheduledRoom": "The Goonies - Theatre 16 (21)"
+          },
+          {
+            "id": "1124736",
+            "scheduledRoom": "Ghostbusters - Theatre 17 (20)"
+          },
+          {
+            "id": "1126556",
+            "scheduledRoom": "Interstellar - Theatre 4 (5,6,7,8,9)"
+          },
+          {
+            "id": "1130802",
+            "scheduledRoom": "Back to the Future - Theatre 3 (1,2)"
+          },
+          {
+            "id": "1130920",
+            "scheduledRoom": "Galaxy Quest - Theatre 27 (23,24,25,26)"
+          },
+          {
+            "id": "1131041",
+            "scheduledRoom": "Inception - Theatre 28 (18,19)"
+          }
+        ]
+      },
+      {
+        "time": "4:00 PM",
+        "sessions": [
+          {
+            "id": "1126959",
+            "scheduledRoom": "The Last Starfighter - Theatre 14 (12,13)"
+          },
+          {
+            "id": "1120265",
+            "scheduledRoom": "The Matrix - Theatre 15 (10, 11)"
+          },
+          {
+            "id": "1129012",
+            "scheduledRoom": "The Goonies - Theatre 16 (21)"
+          },
+          {
+            "id": "1131023",
+            "scheduledRoom": "Ghostbusters - Theatre 17 (20)"
+          },
+          {
+            "id": "1126334",
+            "scheduledRoom": "Interstellar - Theatre 4 (5,6,7,8,9)"
+          },
+          {
+            "id": "1127299",
+            "scheduledRoom": "Back to the Future - Theatre 3 (1,2)"
+          },
+          {
+            "id": "1125439",
+            "scheduledRoom": "Galaxy Quest - Theatre 27 (23,24,25,26)"
+          },
+          {
+            "id": "1130963",
+            "scheduledRoom": "Inception - Theatre 28 (18,19)"
+          }
+        ]
+      },
+      {
+        "time": "5:00 PM",
+        "sessions": [
+          {
+            "id": "34aadd69-ff84-40aa-97bc-332cdc97ccc7",
+            "scheduledRoom": "Concourse"
+          }
+        ]
       }
     ]
   }

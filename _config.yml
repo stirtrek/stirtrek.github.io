@@ -24,8 +24,8 @@ allYears:
   - 2024
   - 2025
   - 2026
-showSchedule: false
-showSessionList: true
+showSchedule: true
+showSessionList: false
 showSpeakers: true
 showStore: false
 showRecordings: false
@@ -71,7 +71,7 @@ filename_case: 0
 render_drafts: false
 post_asset_folder: false
 relative_link: false
-future: true
+future: false
 highlight:
   enable: true
   line_number: true

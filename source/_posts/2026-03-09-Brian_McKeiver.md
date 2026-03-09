@@ -7,12 +7,12 @@ tags:
   - software-quality
   - delivery
 author: Stir Trek
-url_image: /images/speakers/2026/Brian-Gorman.jpg
+url_image: /images/speakers/2026/Brian-McKeiver.jpg
 ---
 
 🎙️ We're thrilled to welcome Brian McKeiver to Stir Trek 2026!
 
-<img src="/images/speakers/2026/Brian-Gorman.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" />
+<img src="/images/speakers/2026/Brian-McKeiver.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" />
 
 # Brian McKeiver at Stir Trek 2026
 

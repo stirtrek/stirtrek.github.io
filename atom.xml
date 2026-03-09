@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>Stir Trek Conference</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://stirtrek.com/</id>
+  <link href="https://stirtrek.com/" rel="alternate"/>
+  <link href="https://stirtrek.com/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, Stir Trek Conference</rights>
+  <subtitle>Stir Trek Conference</subtitle>
+  <title>Stir Trek</title>
+  <updated>2026-03-09T19:17:19.278Z</updated>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="software-quality" scheme="https://stirtrek.com/tags/software-quality/"/>
+    <category term="delivery" scheme="https://stirtrek.com/tags/delivery/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Brian McKeiver to Stir Trek 2026!</p><img src="/images/speakers/2026/Brian-McKeiver.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Brian-McKeiver-at-Stir-Trek-2026"><a href="#Brian-McKeiver-at-Stir-Trek-2026" class="headerlink" title="Brian McKeiver at Stir Trek 2026"></a>Brian McKeiver at Stir Trek 2026</h1><p><em>Microsoft Azure MVP; Co-Owner at BizStream</em></p><div style="clear:both;"></div><hr><h2 id="About-Brian-McKeiver"><a href="#About-Brian-McKeiver" class="headerlink" title="About Brian McKeiver"></a>About Brian McKeiver</h2><p>Brian McKeiver is Co-Owner at BizStream, digital agency in Allendale, MI. At BizStream he is a solution architect, visionary, dual Microsoft Azure MVP (Azure AI and Azure PaaS), Kentico MVP, and Kontent.ai MVP. He has over 23 years of experience leading his agency of more than 40 employees, about a hundred clients spread out across North America, and one heck of an interesting story of how it all started from a two-person team. In addition to his expertise in web development, cloud, integration, and digital marketing, Brian is active with the tech community via his blog at Mcbeev.com.</p><hr><h2 id="Session-1-Blending-Product-Thinking-with-Software-Modernization"><a href="#Session-1-Blending-Product-Thinking-with-Software-Modernization" class="headerlink" title="Session 1: Blending Product Thinking with Software Modernization"></a>Session 1: Blending Product Thinking with Software Modernization</h2><p><strong>1 May 2026 08:30 AM</strong> | Back to the Future - Theatre 3 (1,2)<br><em>Track: Software Quality &amp; Delivery</em></p><p>In the world of software, products and systems don’t just remain static, they evolve, accumulate technical debt, and sometimes become an unmanageable mess of outdated frameworks, workarounds, and fragile dependencies. </p><p>When dealing with a 15-year-old platform, the question isn’t just how to modernize but what to modernize. Should you refactor piece by piece or completely rebuild? What about adding that new feature for the Product Owner. The answer isn’t always obvious.</p><p>This session explores how blending product thinking with software modernization leads to better outcomes. We’ll examine the lens of long-term product strategy, user needs, and business value. Using real-world lessons from a long-running SaaS product, a case study in modernizing a complex legacy platform, we’ll highlight how to balance technical constraints with customer expectations.</p><p>Whether you’re leading a legacy transformation or trying to avoid one in the future, this talk will showcase some smart modernization decisions that don’t make the business take a full stop.</p><hr><h2 id="Session-2-Configurable-cloud-native-applications-with-NET-Aspire"><a href="#Session-2-Configurable-cloud-native-applications-with-NET-Aspire" class="headerlink" title="Session 2: Configurable cloud-native applications with .NET Aspire"></a>Session 2: Configurable cloud-native applications with .NET Aspire</h2><p><strong>1 May 2026 02:00 PM</strong> | Ghostbusters - Theatre 17 (20)<br><em>Track: Application Development</em></p><p>Building apps for the cloud has always been hard. Developers are typically pulled away from writing their business logic and what matters most to deal with the complexity of the cloud.</p><p>To help simplify cloud app complexity, Microsoft has introduced .NET Aspire.  It includes a curated set of components that make sense to use in your C# projects.</p><p>.NET Aspire makes it easy to discover, acquire, and configure essential dependencies for cloud-native apps from the very beginning of your project. </p><p>Join me to walk through the set-up and usage of this new, powerful tool that can make any .NET developer more efficient in delivering cloud-native applications.</p><hr><h2 id="Connect-with-Brian"><a href="#Connect-with-Brian" class="headerlink" title="Connect with Brian"></a>Connect with Brian</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/brianmckeiver/">https://www.linkedin.com/in/brianmckeiver/</a></li><li><strong>Twitter&#x2F;X:</strong> @mcbeev</li><li><strong>Website:</strong> <a href="https://www.bizstream.com/">https://www.bizstream.com</a></li><li><strong>Blog:</strong> <a href="https://www.mcbeev.com/">https://www.mcbeev.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. With 2 sessions on the schedule, Brian is bringing serious value to Stir Trek 2026 — don’t miss it!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/09/2026-03-09-Brian_McKeiver/</id>
+    <link href="https://stirtrek.com/2026/03/09/2026-03-09-Brian_McKeiver/"/>
+    <published>2026-03-09T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Brian McKeiver to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Brian-McKeiver.jpg"]]>
+    </summary>
+    <title>Brian McKeiver at Stir Trek 2026</title>
+    <updated>2026-03-09T19:17:19.278Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="product-design" scheme="https://stirtrek.com/tags/product-design/"/>
+    <category term="user-experience" scheme="https://stirtrek.com/tags/user-experience/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Kathryn Grayson Nanz to Stir Trek 2026!</p><img src="/images/speakers/2026/Kathryn-GraysonNanz.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Kathryn-Grayson-Nanz-at-Stir-Trek-2026"><a href="#Kathryn-Grayson-Nanz-at-Stir-Trek-2026" class="headerlink" title="Kathryn Grayson Nanz at Stir Trek 2026"></a>Kathryn Grayson Nanz at Stir Trek 2026</h1><p><em>UI Designer &amp; Front-end Developer</em></p><div style="clear:both;"></div><hr><h2 id="About-Kathryn-Grayson-Nanz"><a href="#About-Kathryn-Grayson-Nanz" class="headerlink" title="About Kathryn Grayson Nanz"></a>About Kathryn Grayson Nanz</h2><p>In 2013, I graduated with a BFA and took my first job as a Junior Graphic Designer at a small, boutique ad agency. While there, my Creative Director warned me to never let anyone find out I could code, because if I did I’d be stuck doing it forever. I ignored his warning; it turns out he was completely right, but I’ve never been happier. </p><p>I currently work as a developer advocate on a wonderful team where I help people build web applications in React, design and maintain their UI component libraries, and desperately attempt to stop back-end devs from writing any more CSS.</p><hr><h2 id="Session-1-How-to-Ruin-a-User-Interface-Surprisingly-Easy-Ways-to-Screw-Over-Your-Users"><a href="#Session-1-How-to-Ruin-a-User-Interface-Surprisingly-Easy-Ways-to-Screw-Over-Your-Users" class="headerlink" title="Session 1: How to Ruin a User Interface: Surprisingly Easy Ways to Screw Over Your Users"></a>Session 1: How to Ruin a User Interface: Surprisingly Easy Ways to Screw Over Your Users</h2><p><strong>1 May 2026 08:30 AM</strong> | The Matrix - Theatre 15 (10, 11)<br><em>Track: Product Design &amp; User Experience</em></p><p>Sure, when your boss signed the expense form for you to attend this conference, they thought you’d be bringing back new ideas about BETTER ways to do stuff – but honestly, isn’t that a little boring? What if we mixed it up a bit and instead discussed all the ways to make your UIs WORSE? </p><p>From dark patterns to bad designs, there are tons of shockingly easy ways that you might be unknowingly making your website or app experience more difficult – or even painful – for your users. In this session, we’ll talk through some of the most common, so that you can avoid them in the future…or, you know, intentionally include them, if you’re evil. With great power comes great responsibility.</p><hr><h2 id="Session-2-The-Life-Changing-Art-of-Being-Wrong"><a href="#Session-2-The-Life-Changing-Art-of-Being-Wrong" class="headerlink" title="Session 2: The Life-Changing Art of Being Wrong"></a>Session 2: The Life-Changing Art of Being Wrong</h2><p><strong>1 May 2026 02:00 PM</strong> | The Matrix - Theatre 15 (10, 11)<br><em>Track: Product Design &amp; User Experience</em></p><p>Even if it’s not intentional, there are a lot of assumptions we make about our users – everything from which devices they use to access our applications to what kinds of characters are included in their names. And guess what: our assumptions are usually wrong. Like…really wrong. Sometimes this creates laughable situations, but other times it causes a lot of unintentional harm. In this talk, we’ll discuss some of the most common (wrong) things that we, as developers, believe about our users and how we can shift our assumptions to create software that’s better for everyone.</p><hr><h2 id="Connect-with-Kathryn"><a href="#Connect-with-Kathryn" class="headerlink" title="Connect with Kathryn"></a>Connect with Kathryn</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kathryngrayson/">https://www.linkedin.com/in/kathryngrayson/</a></li><li><strong>Twitter&#x2F;X:</strong> @kathryngrayson</li><li><strong>Website:</strong> <a href="https://www.telerik.com/kendo-ui">https://www.telerik.com/kendo-ui</a></li><li><strong>Blog:</strong> <a href="http://kgrayson.com/">http://kgrayson.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. With 2 sessions on the schedule, Kathryn is bringing serious value to Stir Trek 2026 — don’t miss it!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/09/2026-03-09-Kathryn_Grayson_Nanz/</id>
+    <link href="https://stirtrek.com/2026/03/09/2026-03-09-Kathryn_Grayson_Nanz/"/>
+    <published>2026-03-09T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Kathryn Grayson Nanz to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Kathryn-GraysonNanz.jpg"]]>
+    </summary>
+    <title>Kathryn Grayson Nanz at Stir Trek 2026</title>
+    <updated>2026-03-09T19:17:19.278Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speakers" scheme="https://stirtrek.com/tags/speakers/"/>
+    <content>
+      <![CDATA[<p>Join the discussion in the <a href="https://discord.gg/F6eWYS5fmc">Stir Trek Discord server</a>.</p><p>This information was also posted to <a href="https://bsky.app/profile/stirtrek.com/post/3mfoy6inbbc2b">BlueSky</a>, <a href="https://www.linkedin.com/posts/stir-trek-conference-inc%2E_weve-got-a-puzzle-for-you-to-solve-there-activity-7432441061504942080-Yllo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsTLoB-t-OiurJihnYQ7dFz_KsR25ENKg">LinkedIn</a>, and <a href="https://x.com/stirtrek/status/2026675371253375150?s=20">X</a>.</p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/02/26/2026-02-26-Speakers-and-Sessions/</id>
+    <link href="https://stirtrek.com/2026/02/26/2026-02-26-Speakers-and-Sessions/"/>
+    <published>2026-02-26T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>Join the discussion in the <a href="https://discord.gg/F6eWYS5fmc">Stir Trek Discord server</a>.</p>
+<p>This information was also posted]]>
+    </summary>
+    <title>Speakers and Sessions</title>
+    <updated>2026-03-09T19:17:19.278Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="puzzle" scheme="https://stirtrek.com/tags/puzzle/"/>
+    <category term="challenge" scheme="https://stirtrek.com/tags/challenge/"/>
+    <content>
+      <![CDATA[<p>We’ve got a puzzle for you to solve.</p><p>There have been lots of questions about what movie will be shown at Stir Trek this year, and we decided to make it a<br>contest for the first person to guess correctly.</p><p>Here’s your only clue.</p><p><img src="/images/2026-puzzle-hint.png" alt="Puzzle hint"></p><p>Winner will receive a ticket to this year’s event (or next year’s, if you already have one), as well as DVD copies of<br>each film.</p><p>Join the discussion in the <a href="https://discord.gg/F6eWYS5fmc">Stir Trek Discord server</a>.</p><p>This information was also posted to <a href="https://bsky.app/profile/stirtrek.com/post/3mfoy6inbbc2b">BlueSky</a>, <a href="https://www.linkedin.com/posts/stir-trek-conference-inc%2E_weve-got-a-puzzle-for-you-to-solve-there-activity-7432441061504942080-Yllo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsTLoB-t-OiurJihnYQ7dFz_KsR25ENKg">LinkedIn</a>, and <a href="https://x.com/stirtrek/status/2026675371253375150?s=20">X</a>.</p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/02/25/2026-02-25-A-Puzzle-to-Solve/</id>
+    <link href="https://stirtrek.com/2026/02/25/2026-02-25-A-Puzzle-to-Solve/"/>
+    <published>2026-02-25T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>We’ve got a puzzle for you to solve.</p>
+<p>There have been lots of questions about what movie will be shown at Stir Trek this year, and]]>
+    </summary>
+    <title>A Puzzle to Solve!</title>
+    <updated>2026-03-09T19:17:19.276Z</updated>
+  </entry>
+</feed>

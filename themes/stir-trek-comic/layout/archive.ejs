@@ -10,7 +10,7 @@
 
 <% if (site.posts && site.posts.length) { %>
   <ul class="archive-list">
-    <% site.posts.each(function(post){ %>
+    <% site.posts.sort('date', -1).each(function(post){ %>
       <% // Choose the thumbnail source: prefer post.url_image or post.image_url, otherwise use default missing image %>
       <% var defaultThumb = '/images/StirTrek-Logo-Banner-453x350.png'; %>
       <% var thumb = (post.url_image || post.image_url) ? (post.url_image || post.image_url) : defaultThumb; %>

@@ -10,7 +10,48 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-03-09T20:26:36.157Z</updated>
+  <updated>2026-03-10T01:18:58.060Z</updated>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="artificial-intelligence" scheme="https://stirtrek.com/tags/artificial-intelligence/"/>
+    <category term="machine-learning" scheme="https://stirtrek.com/tags/machine-learning/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Cory House to Stir Trek 2026!</p><img src="/images/speakers/2026/Cory-House.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Cory-House-at-Stir-Trek-2026"><a href="#Cory-House-at-Stir-Trek-2026" class="headerlink" title="Cory House at Stir Trek 2026"></a>Cory House at Stir Trek 2026</h1><p><em>Author &#x2F; Consultant</em></p><div style="clear:both;"></div><hr><h2 id="About-Cory-House"><a href="#About-Cory-House" class="headerlink" title="About Cory House"></a>About Cory House</h2><p>Cory is an author, a 12 time Microsoft MVP, and international speaker. He is founder of reactjsconsulting, where he helps companies transition to React. He has trained over 10,000 software developers at conferences and businesses worldwide. Cory has authored over a dozen courses on JavaScript, React, C#, testing, and web development on Pluralsight and Dometrain. He shares software development tips daily on X as @housecor.</p><hr><h2 id="Session-1-Choosing-an-AI-Coding-Workflow"><a href="#Session-1-Choosing-an-AI-Coding-Workflow" class="headerlink" title="Session 1: Choosing an AI Coding Workflow"></a>Session 1: Choosing an AI Coding Workflow</h2><p><strong>1 May 2026 08:30 AM</strong> | The Last Starfighter - Theatre 14 (12,13)<br><em>Track: Artificial Intelligence &amp; Machine Learning</em></p><p>AI is here, but deciding what to use and how is difficult. In this fast-paced session, we’ll explore 15 key decisions for coding effectively in AI including IDEs, models, harnesses, instructions, permissions, agents, and more. You’ll leave this session with a variety of ideas for how to rethink your AI-related tooling, patterns, and workflows.</p><hr><h2 id="Session-2-Generating-Quality-Code-with-AI"><a href="#Session-2-Generating-Quality-Code-with-AI" class="headerlink" title="Session 2: Generating Quality Code with AI"></a>Session 2: Generating Quality Code with AI</h2><p><strong>1 May 2026 02:00 PM</strong> | The Last Starfighter - Theatre 14 (12,13)<br><em>Track: Artificial Intelligence &amp; Machine Learning</em></p><p>“AI writes slop” is a common concern. So how can we use LLMs to not just generate good code, but to <em>ensure</em> quality? Let’s explore how to create effective “guardrails” via generated tests, spec-driven development, instruction approaches, prompting techniques, context management, and more. After this session you’ll have a list of ideas for improving your AI coding workflow.</p><hr><h2 id="Connect-with-Cory"><a href="#Connect-with-Cory" class="headerlink" title="Connect with Cory"></a>Connect with Cory</h2><ul><li><strong>Twitter&#x2F;X:</strong> @housecor</li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. With 2 sessions on the schedule, Cory is bringing serious value to Stir Trek 2026 — don’t miss it!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/10/2026-03-10-Cory_House/</id>
+    <link href="https://stirtrek.com/2026/03/10/2026-03-10-Cory_House/"/>
+    <published>2026-03-10T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Cory House to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Cory-House.jpg"]]>
+    </summary>
+    <title>Cory House at Stir Trek 2026</title>
+    <updated>2026-03-10T01:18:58.060Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="application-development" scheme="https://stirtrek.com/tags/application-development/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Roxy Rodriguez-Becker to Stir Trek 2026!</p><img src="/images/speakers/2026/Roxy-Rodriguez-Becker.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Roxy-Rodriguez-Becker-at-Stir-Trek-2026"><a href="#Roxy-Rodriguez-Becker-at-Stir-Trek-2026" class="headerlink" title="Roxy Rodriguez-Becker at Stir Trek 2026"></a>Roxy Rodriguez-Becker at Stir Trek 2026</h1><p><em>software engineer, developer advocate, and community leader</em></p><div style="clear:both;"></div><hr><h2 id="About-Roxy-Rodriguez-Becker"><a href="#About-Roxy-Rodriguez-Becker" class="headerlink" title="About Roxy Rodriguez-Becker"></a>About Roxy Rodriguez-Becker</h2><p>Roxy Rodriguez-Becker is a freelance web developer with a background in math education and library science. She created the Tube Feed Tracker PWA for a niche part of the medical community to help thousands of families around the world. Roxy is a Cuban American mother of 3 living in Houston, Texas. She enjoys working out, doing handstands, listening to tech podcasts, and is looking for her next role in tech.</p><hr><h2 id="Session-Ship-It-First-Fix-It-Later-How-a-Medical-Crisis-Led-to-a-Global-Tool"><a href="#Session-Ship-It-First-Fix-It-Later-How-a-Medical-Crisis-Led-to-a-Global-Tool" class="headerlink" title="Session: Ship It First, Fix It Later: How a Medical Crisis Led to a Global Tool"></a>Session: Ship It First, Fix It Later: How a Medical Crisis Led to a Global Tool</h2><p><strong>1 May 2026 08:30 AM</strong> | Ghostbusters - Theatre 17 (20)<br><em>Track: Application Development</em></p><p>When Roxy’s son was hospitalized yet again, she noticed nurses struggling to calculate his g-tube feed rates, so she built solution with simply HTML, CSS, and JavaScript, then almost didn’t share it due to everyone’s favorite pal, imposter syndrome. This talk chronicles a very specific calculator’s evolution into a production React PWA with AI integration, now used daily by families worldwide, who even find it through organic Google searches. Through honest code comparisons, you’ll see when vanilla JavaScript hits its limits, why React’s patterns became necessary, and how AI tools can accelerate development while you continue learning. You’ll also leave with a six-step framework for iterative development that overcomes the fear of shipping imperfect solutions. Whether you’re considering a React migration, curious about AI-assisted development, or sitting on a side project, you’ll leave with technical insights and a renewed motivation to ship.</p><hr><h2 id="Connect-with-Roxy"><a href="#Connect-with-Roxy" class="headerlink" title="Connect with Roxy"></a>Connect with Roxy</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/roxana-rodriguez-becker">https://www.linkedin.com/in/roxana-rodriguez-becker</a></li><li><strong>Twitter&#x2F;X:</strong> @RoxanaCodes</li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Roxy’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/10/2026-03-10-Roxy_Rodriguez_Becker/</id>
+    <link href="https://stirtrek.com/2026/03/10/2026-03-10-Roxy_Rodriguez_Becker/"/>
+    <published>2026-03-10T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Roxy Rodriguez-Becker to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Roxy-Rodriguez-Becker.png"]]>
+    </summary>
+    <title>Roxy Rodriguez-Becker at Stir Trek 2026</title>
+    <updated>2026-03-10T01:18:58.060Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -30,7 +71,7 @@
 <img src="/images/speakers/2026/Brian-McKeiver.jpg"]]>
     </summary>
     <title>Brian McKeiver at Stir Trek 2026</title>
-    <updated>2026-03-09T20:26:36.157Z</updated>
+    <updated>2026-03-10T01:18:58.060Z</updated>
   </entry>
   <entry>
     <author>
@@ -51,7 +92,7 @@
 <img src="/images/speakers/2026/Kathryn-GraysonNanz.jpg"]]>
     </summary>
     <title>Kathryn Grayson Nanz at Stir Trek 2026</title>
-    <updated>2026-03-09T20:26:36.157Z</updated>
+    <updated>2026-03-10T01:18:58.060Z</updated>
   </entry>
   <entry>
     <author>
@@ -70,7 +111,7 @@
 <p>This information was also posted]]>
     </summary>
     <title>Speakers and Sessions</title>
-    <updated>2026-03-09T20:26:36.157Z</updated>
+    <updated>2026-03-10T01:18:58.060Z</updated>
   </entry>
   <entry>
     <author>
@@ -90,6 +131,6 @@
 <p>There have been lots of questions about what movie will be shown at Stir Trek this year, and]]>
     </summary>
     <title>A Puzzle to Solve!</title>
-    <updated>2026-03-09T20:26:36.155Z</updated>
+    <updated>2026-03-10T01:18:58.059Z</updated>
   </entry>
 </feed>

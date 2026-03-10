@@ -549,6 +549,33 @@
       "isConfirmed": true
     },
     {
+      "id": "1131009",
+      "title": "Relevance by Design: A Sustainable Learning System for Senior Devs",
+      "description": "Senior developers don’t struggle with learning. They struggle with the endless list of things they could learn, and the quiet feeling that they are always behind.\r\n\r\nThis session is a practical system for staying relevant on purpose: define what “relevant” means for your role, triage what to learn now vs. later vs. never, and run a weekly cadence that fits in 1–2 hours without leaking into nights and weekends. We’ll replace vanity metrics with a few signals that reflect real progress, and we’ll turn what you learn into skill you can use.\r\n\r\nYou’ll leave with a framework you can run for a month, a quarter, or a year without turning your spare time into homework.",
+      "startsAt": "2026-05-01T14:30:00Z",
+      "endsAt": "2026-05-01T15:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5698811a-4c31-4537-970d-e427009e0cca"
+      ],
+      "categoryItems": [
+        431279
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77077,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1130941",
       "title": "Microsoft Fabric for Developers",
       "description": "Does your operational database contain staging and reporting data? Is it bloated and struggling under the load? As companies grow, its common to reach a tipping point where you can't just put everything into your shared OLTP database and keep scaling it up. That's when it's time to start thinking seriously about data and how best to manage it.\r\nTraditionally, data warehousing and ETL have required different skill sets and operated independently from application development, but with platforms like Microsoft Fabric, the skillsets aren't so different anymore, especially if you know a bit of Python.\r\nThis session will talk about some of the many services that make up Fabric, and how to use it coming from a development background.",
@@ -2688,6 +2715,7 @@
         }
       ],
       "sessions": [
+        1131009,
         1131005
       ],
       "fullName": "Jay Harris",

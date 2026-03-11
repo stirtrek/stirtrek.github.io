@@ -7,12 +7,12 @@ tags:
   - security
   - privacy-engineering
 author: Stir Trek
-url_image: /images/speakers/2026/Chris-Birie.png
+url_image: /images/speakers/2026/Chris-DeMars.png
 ---
 
 🎙️ We're thrilled to welcome Chris DeMars to Stir Trek 2026!
 
-<img src="/images/speakers/2026/Chris-Birie.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" />
+<img src="/images/speakers/2026/Chris-DeMars.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" />
 
 # Chris DeMars at Stir Trek 2026
 

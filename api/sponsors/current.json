@@ -32,6 +32,12 @@
         "link": "https://www.igs.com/",
         "description": "IGS Energy is a family-owned energy company serving over 1 million customers. They offer green electricity, carbon-neutral natural gas, and solar solutions emphasizing sustainability and tailored energy strategies.",
         "logo": "/images/sponsors/IGS_350x200v2.png"
+      },
+      {
+        "name": "OCLC",
+        "link": "https://www.oclc.org/",
+        "description": "At OCLC, we exist because what is known must be shared. On the surface this seems simple. But dig deeper. We hold petabytes of diverse data in different languages, different scripts, and different formats.",
+        "logo": "/images/sponsors/oclc_350x200.jpg"
       }
     ],
     "bronze": [],

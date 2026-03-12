@@ -10,7 +10,7 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-03-12T12:41:23.390Z</updated>
+  <updated>2026-03-12T16:53:24.981Z</updated>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -30,7 +30,7 @@
 <img src="/images/speakers/2026/Christine-Miao.png"]]>
     </summary>
     <title>Christine Miao at Stir Trek 2026</title>
-    <updated>2026-03-12T12:41:23.390Z</updated>
+    <updated>2026-03-12T16:53:24.981Z</updated>
   </entry>
   <entry>
     <author>
@@ -51,7 +51,7 @@
 <img src="/images/speakers/2026/Hazel-Bohon.jpg"]]>
     </summary>
     <title>Hazel Bohon at Stir Trek 2026</title>
-    <updated>2026-03-12T12:41:23.390Z</updated>
+    <updated>2026-03-12T16:53:24.981Z</updated>
   </entry>
   <entry>
     <author>
@@ -72,7 +72,7 @@
 <img src="/images/speakers/2026/Chris-DeMars.jpg"]]>
     </summary>
     <title>Chris DeMars at Stir Trek 2026</title>
-    <updated>2026-03-12T12:41:23.390Z</updated>
+    <updated>2026-03-12T16:53:24.981Z</updated>
   </entry>
   <entry>
     <author>
@@ -93,7 +93,27 @@
 <img src="/images/speakers/2026/Jackie-Gleason.jpg"]]>
     </summary>
     <title>Jackie Gleason at Stir Trek 2026</title>
-    <updated>2026-03-12T12:41:23.390Z</updated>
+    <updated>2026-03-12T16:53:24.981Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="application-development" scheme="https://stirtrek.com/tags/application-development/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Roxy Rodriguez-Becker to Stir Trek 2026!</p><img src="/images/speakers/2026/Roxy-Rodriguez-Becker.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Roxy-Rodriguez-Becker-at-Stir-Trek-2026"><a href="#Roxy-Rodriguez-Becker-at-Stir-Trek-2026" class="headerlink" title="Roxy Rodriguez-Becker at Stir Trek 2026"></a>Roxy Rodriguez-Becker at Stir Trek 2026</h1><p><em>software engineer, developer advocate, and community leader</em></p><div style="clear:both;"></div><hr><h2 id="About-Roxy-Rodriguez-Becker"><a href="#About-Roxy-Rodriguez-Becker" class="headerlink" title="About Roxy Rodriguez-Becker"></a>About Roxy Rodriguez-Becker</h2><p>Roxy Rodriguez-Becker is a freelance web developer with a background in math education and library science. She created the Tube Feed Tracker PWA for a niche part of the medical community to help thousands of families around the world. Roxy is a Cuban American mother of 3 living in Houston, Texas. She enjoys working out, doing handstands, listening to tech podcasts, and is looking for her next role in tech.</p><hr><h2 id="Session-Ship-It-First-Fix-It-Later-How-a-Medical-Crisis-Led-to-a-Global-Tool"><a href="#Session-Ship-It-First-Fix-It-Later-How-a-Medical-Crisis-Led-to-a-Global-Tool" class="headerlink" title="Session: Ship It First, Fix It Later: How a Medical Crisis Led to a Global Tool"></a>Session: Ship It First, Fix It Later: How a Medical Crisis Led to a Global Tool</h2><p><strong>1 May 2026 08:30 AM</strong> | Ghostbusters - Theatre 17 (20)<br><em>Track: Application Development</em></p><p>When Roxy’s son was hospitalized yet again, she noticed nurses struggling to calculate his g-tube feed rates, so she built solution with simply HTML, CSS, and JavaScript, then almost didn’t share it due to everyone’s favorite pal, imposter syndrome. This talk chronicles a very specific calculator’s evolution into a production React PWA with AI integration, now used daily by families worldwide, who even find it through organic Google searches. Through honest code comparisons, you’ll see when vanilla JavaScript hits its limits, why React’s patterns became necessary, and how AI tools can accelerate development while you continue learning. You’ll also leave with a six-step framework for iterative development that overcomes the fear of shipping imperfect solutions. Whether you’re considering a React migration, curious about AI-assisted development, or sitting on a side project, you’ll leave with technical insights and a renewed motivation to ship.</p><hr><h2 id="Connect-with-Roxy"><a href="#Connect-with-Roxy" class="headerlink" title="Connect with Roxy"></a>Connect with Roxy</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/roxana-rodriguez-becker">https://www.linkedin.com/in/roxana-rodriguez-becker</a></li><li><strong>Twitter&#x2F;X:</strong> @RoxanaCodes</li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Roxy’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/10/2026-03-10-Roxy_Rodriguez_Becker/</id>
+    <link href="https://stirtrek.com/2026/03/10/2026-03-10-Roxy_Rodriguez_Becker/"/>
+    <published>2026-03-10T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Roxy Rodriguez-Becker to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Roxy-Rodriguez-Becker.png"]]>
+    </summary>
+    <title>Roxy Rodriguez-Becker at Stir Trek 2026</title>
+    <updated>2026-03-12T16:53:24.981Z</updated>
   </entry>
   <entry>
     <author>
@@ -114,27 +134,7 @@
 <img src="/images/speakers/2026/Cory-House.jpg"]]>
     </summary>
     <title>Cory House at Stir Trek 2026</title>
-    <updated>2026-03-12T12:41:23.390Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="application-development" scheme="https://stirtrek.com/tags/application-development/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Roxy Rodriguez-Becker to Stir Trek 2026!</p><img src="/images/speakers/2026/Roxy-Rodriguez-Becker.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Roxy-Rodriguez-Becker-at-Stir-Trek-2026"><a href="#Roxy-Rodriguez-Becker-at-Stir-Trek-2026" class="headerlink" title="Roxy Rodriguez-Becker at Stir Trek 2026"></a>Roxy Rodriguez-Becker at Stir Trek 2026</h1><p><em>software engineer, developer advocate, and community leader</em></p><div style="clear:both;"></div><hr><h2 id="About-Roxy-Rodriguez-Becker"><a href="#About-Roxy-Rodriguez-Becker" class="headerlink" title="About Roxy Rodriguez-Becker"></a>About Roxy Rodriguez-Becker</h2><p>Roxy Rodriguez-Becker is a freelance web developer with a background in math education and library science. She created the Tube Feed Tracker PWA for a niche part of the medical community to help thousands of families around the world. Roxy is a Cuban American mother of 3 living in Houston, Texas. She enjoys working out, doing handstands, listening to tech podcasts, and is looking for her next role in tech.</p><hr><h2 id="Session-Ship-It-First-Fix-It-Later-How-a-Medical-Crisis-Led-to-a-Global-Tool"><a href="#Session-Ship-It-First-Fix-It-Later-How-a-Medical-Crisis-Led-to-a-Global-Tool" class="headerlink" title="Session: Ship It First, Fix It Later: How a Medical Crisis Led to a Global Tool"></a>Session: Ship It First, Fix It Later: How a Medical Crisis Led to a Global Tool</h2><p><strong>1 May 2026 08:30 AM</strong> | Ghostbusters - Theatre 17 (20)<br><em>Track: Application Development</em></p><p>When Roxy’s son was hospitalized yet again, she noticed nurses struggling to calculate his g-tube feed rates, so she built solution with simply HTML, CSS, and JavaScript, then almost didn’t share it due to everyone’s favorite pal, imposter syndrome. This talk chronicles a very specific calculator’s evolution into a production React PWA with AI integration, now used daily by families worldwide, who even find it through organic Google searches. Through honest code comparisons, you’ll see when vanilla JavaScript hits its limits, why React’s patterns became necessary, and how AI tools can accelerate development while you continue learning. You’ll also leave with a six-step framework for iterative development that overcomes the fear of shipping imperfect solutions. Whether you’re considering a React migration, curious about AI-assisted development, or sitting on a side project, you’ll leave with technical insights and a renewed motivation to ship.</p><hr><h2 id="Connect-with-Roxy"><a href="#Connect-with-Roxy" class="headerlink" title="Connect with Roxy"></a>Connect with Roxy</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/roxana-rodriguez-becker">https://www.linkedin.com/in/roxana-rodriguez-becker</a></li><li><strong>Twitter&#x2F;X:</strong> @RoxanaCodes</li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Roxy’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/10/2026-03-10-Roxy_Rodriguez_Becker/</id>
-    <link href="https://stirtrek.com/2026/03/10/2026-03-10-Roxy_Rodriguez_Becker/"/>
-    <published>2026-03-10T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Roxy Rodriguez-Becker to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Roxy-Rodriguez-Becker.png"]]>
-    </summary>
-    <title>Roxy Rodriguez-Becker at Stir Trek 2026</title>
-    <updated>2026-03-12T12:41:23.390Z</updated>
+    <updated>2026-03-12T16:53:24.981Z</updated>
   </entry>
   <entry>
     <author>
@@ -155,7 +155,7 @@
 <img src="/images/speakers/2026/Brian-McKeiver.jpg"]]>
     </summary>
     <title>Brian McKeiver at Stir Trek 2026</title>
-    <updated>2026-03-12T12:41:23.390Z</updated>
+    <updated>2026-03-12T16:53:24.981Z</updated>
   </entry>
   <entry>
     <author>
@@ -176,7 +176,7 @@
 <img src="/images/speakers/2026/Kathryn-GraysonNanz.jpg"]]>
     </summary>
     <title>Kathryn Grayson Nanz at Stir Trek 2026</title>
-    <updated>2026-03-12T12:41:23.390Z</updated>
+    <updated>2026-03-12T16:53:24.981Z</updated>
   </entry>
   <entry>
     <author>
@@ -195,7 +195,7 @@
 <p>This information was also posted]]>
     </summary>
     <title>Speakers and Sessions</title>
-    <updated>2026-03-12T12:41:23.390Z</updated>
+    <updated>2026-03-12T16:53:24.981Z</updated>
   </entry>
   <entry>
     <author>
@@ -215,6 +215,6 @@
 <p>There have been lots of questions about what movie will be shown at Stir Trek this year, and]]>
     </summary>
     <title>A Puzzle to Solve!</title>
-    <updated>2026-03-12T12:41:23.389Z</updated>
+    <updated>2026-03-12T16:53:24.981Z</updated>
   </entry>
 </feed>

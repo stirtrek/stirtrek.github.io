@@ -10,7 +10,7 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-03-16T01:47:30.394Z</updated>
+  <updated>2026-03-16T05:46:34.272Z</updated>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -30,7 +30,7 @@
 <img src="/images/speakers/2026/Ardalis-..jpg"]]>
     </summary>
     <title>Ardalis . at Stir Trek 2026</title>
-    <updated>2026-03-16T01:47:30.394Z</updated>
+    <updated>2026-03-16T05:46:34.272Z</updated>
   </entry>
   <entry>
     <author>
@@ -50,7 +50,7 @@
 <img src="/images/speakers/2026/Lance-Finney.jpg"]]>
     </summary>
     <title>Lance Finney at Stir Trek 2026</title>
-    <updated>2026-03-16T01:47:30.394Z</updated>
+    <updated>2026-03-16T05:46:34.272Z</updated>
   </entry>
   <entry>
     <author>
@@ -71,7 +71,7 @@
 <img src="/images/speakers/2026/Jeff-McWherter.jpg"]]>
     </summary>
     <title>Jeff McWherter at Stir Trek 2026</title>
-    <updated>2026-03-16T01:47:30.394Z</updated>
+    <updated>2026-03-16T05:46:34.272Z</updated>
   </entry>
   <entry>
     <author>
@@ -92,7 +92,7 @@
 <img src="/images/speakers/2026/Kevin-Grossnicklaus.jpg"]]>
     </summary>
     <title>Kevin Grossnicklaus at Stir Trek 2026</title>
-    <updated>2026-03-16T01:47:30.394Z</updated>
+    <updated>2026-03-16T05:46:34.272Z</updated>
   </entry>
   <entry>
     <author>
@@ -113,7 +113,7 @@
 <img src="/images/speakers/2026/Christine-Miao.png"]]>
     </summary>
     <title>Christine Miao at Stir Trek 2026</title>
-    <updated>2026-03-16T01:47:30.394Z</updated>
+    <updated>2026-03-16T05:46:34.272Z</updated>
   </entry>
   <entry>
     <author>
@@ -134,7 +134,7 @@
 <img src="/images/speakers/2026/Hazel-Bohon.jpg"]]>
     </summary>
     <title>Hazel Bohon at Stir Trek 2026</title>
-    <updated>2026-03-16T01:47:30.394Z</updated>
+    <updated>2026-03-16T05:46:34.272Z</updated>
   </entry>
   <entry>
     <author>
@@ -152,28 +152,7 @@
       <![CDATA[<p>As a reminder, ticket prices increase as the event gets closer, so register early to save your spot and get the best price!]]>
     </summary>
     <title>Key Dates for Stir Trek 2026</title>
-    <updated>2026-03-16T01:47:30.394Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="security" scheme="https://stirtrek.com/tags/security/"/>
-    <category term="privacy-engineering" scheme="https://stirtrek.com/tags/privacy-engineering/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Chris DeMars to Stir Trek 2026!</p><img src="/images/speakers/2026/Chris-DeMars.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Chris-DeMars-at-Stir-Trek-2026"><a href="#Chris-DeMars-at-Stir-Trek-2026" class="headerlink" title="Chris DeMars at Stir Trek 2026"></a>Chris DeMars at Stir Trek 2026</h1><p><em>Senior Developer Advocate at TuxCare</em></p><div style="clear:both;"></div><hr><h2 id="About-Chris-DeMars"><a href="#About-Chris-DeMars" class="headerlink" title="About Chris DeMars"></a>About Chris DeMars</h2><p>Chris DeMars is a Senior Developer Advocate with over 20 years of technical experience. He speaks all over the world on web accessibility, feature flags, A&#x2F;B testing, and CSS. For his community contributions, he holds awards as a Progress Champion and former Microsoft MVP, Google Developer Expert, Cloudinary Media Developer Expert, and Auth0 Ambassador. When he is not working on making the web great and accessible you can find him fishing, on the paintball field, rating Detroit Style pizza, and looking for UFO’s.</p><hr><h2 id="Session-1-Ghosts-in-the-Machine-Tampering-with-the-JavaScript-Supply-Chain"><a href="#Session-1-Ghosts-in-the-Machine-Tampering-with-the-JavaScript-Supply-Chain" class="headerlink" title="Session 1: Ghosts in the Machine: Tampering with the JavaScript Supply Chain"></a>Session 1: Ghosts in the Machine: Tampering with the JavaScript Supply Chain</h2><p><strong>1 May 2026 08:30 AM</strong> | Inception - Theatre 28 (18,19)<br><em>Track: Security &amp; Privacy Engineering</em></p><p>What if the code you’re shipping isn’t yours anymore? The scariest JavaScript bugs don’t always come from your team, they come from open-source packages that have been possessed. This talk digs deep into the dark world of supply chain tampering: what it looks like, how it happens, and what modern devs can do to protect themselves. We’ll talk tamper detection, package provenance, lockfile integrity, and even how to set up GitHub Actions to ward off malevolent merges. Come for the security, stay for the stories of cursed commits.</p><hr><h2 id="Session-2-Know-Your-JS-SBOMs-for-Frontend-Devs"><a href="#Session-2-Know-Your-JS-SBOMs-for-Frontend-Devs" class="headerlink" title="Session 2: Know Your JS: SBOMs for Frontend Devs"></a>Session 2: Know Your JS: SBOMs for Frontend Devs</h2><p><strong>1 May 2026 09:30 AM</strong> | Inception - Theatre 28 (18,19)<br><em>Track: Security &amp; Privacy Engineering</em></p><p>Ever wonder what’s lurking in the dark corners of your node_modules, like unidentified flying dependencies sneaking aboard your project? In an age of escalating software supply chain attacks, knowing exactly what you’re shipping is as vital as tracking strange lights in the sky. This talk will shine a beam on SBOMs (Software Bills of Materials), explaining why frontend developers should care and how to generate one using tools like CycloneDX and Syft. You’ll leave with the skills to map your entire dependency galaxy. No security clearance required, just your JavaScript and an explorer’s mindset.</p><hr><h2 id="Connect-with-Chris"><a href="#Connect-with-Chris" class="headerlink" title="Connect with Chris"></a>Connect with Chris</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/chrisdemars/">https://www.linkedin.com/in/chrisdemars/</a></li><li><strong>Twitter&#x2F;X:</strong> @saltnburnem</li><li><strong>Website:</strong> <a href="https://www.tuxcare.com/">https://www.tuxcare.com/</a></li><li><strong>Blog:</strong> <a href="https://chrisdemars.net/">https://chrisdemars.net/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. With 2 sessions on the schedule, Chris is bringing serious value to Stir Trek 2026 — don’t miss it!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/11/2026-03-11-Chris_DeMars/</id>
-    <link href="https://stirtrek.com/2026/03/11/2026-03-11-Chris_DeMars/"/>
-    <published>2026-03-11T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Chris DeMars to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Chris-DeMars.jpg"]]>
-    </summary>
-    <title>Chris DeMars at Stir Trek 2026</title>
-    <updated>2026-03-16T01:47:30.394Z</updated>
+    <updated>2026-03-16T05:46:34.272Z</updated>
   </entry>
   <entry>
     <author>
@@ -194,7 +173,7 @@
 <img src="/images/speakers/2026/Jackie-Gleason.jpg"]]>
     </summary>
     <title>Jackie Gleason at Stir Trek 2026</title>
-    <updated>2026-03-16T01:47:30.394Z</updated>
+    <updated>2026-03-16T05:46:34.272Z</updated>
   </entry>
   <entry>
     <author>
@@ -202,19 +181,20 @@
     </author>
     <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
     <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="application-development" scheme="https://stirtrek.com/tags/application-development/"/>
+    <category term="security" scheme="https://stirtrek.com/tags/security/"/>
+    <category term="privacy-engineering" scheme="https://stirtrek.com/tags/privacy-engineering/"/>
     <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Roxy Rodriguez-Becker to Stir Trek 2026!</p><img src="/images/speakers/2026/Roxy-Rodriguez-Becker.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Roxy-Rodriguez-Becker-at-Stir-Trek-2026"><a href="#Roxy-Rodriguez-Becker-at-Stir-Trek-2026" class="headerlink" title="Roxy Rodriguez-Becker at Stir Trek 2026"></a>Roxy Rodriguez-Becker at Stir Trek 2026</h1><p><em>software engineer, developer advocate, and community leader</em></p><div style="clear:both;"></div><hr><h2 id="About-Roxy-Rodriguez-Becker"><a href="#About-Roxy-Rodriguez-Becker" class="headerlink" title="About Roxy Rodriguez-Becker"></a>About Roxy Rodriguez-Becker</h2><p>Roxy Rodriguez-Becker is a freelance web developer with a background in math education and library science. She created the Tube Feed Tracker PWA for a niche part of the medical community to help thousands of families around the world. Roxy is a Cuban American mother of 3 living in Houston, Texas. She enjoys working out, doing handstands, listening to tech podcasts, and is looking for her next role in tech.</p><hr><h2 id="Session-Ship-It-First-Fix-It-Later-How-a-Medical-Crisis-Led-to-a-Global-Tool"><a href="#Session-Ship-It-First-Fix-It-Later-How-a-Medical-Crisis-Led-to-a-Global-Tool" class="headerlink" title="Session: Ship It First, Fix It Later: How a Medical Crisis Led to a Global Tool"></a>Session: Ship It First, Fix It Later: How a Medical Crisis Led to a Global Tool</h2><p><strong>1 May 2026 08:30 AM</strong> | Ghostbusters - Theatre 17 (20)<br><em>Track: Application Development</em></p><p>When Roxy’s son was hospitalized yet again, she noticed nurses struggling to calculate his g-tube feed rates, so she built solution with simply HTML, CSS, and JavaScript, then almost didn’t share it due to everyone’s favorite pal, imposter syndrome. This talk chronicles a very specific calculator’s evolution into a production React PWA with AI integration, now used daily by families worldwide, who even find it through organic Google searches. Through honest code comparisons, you’ll see when vanilla JavaScript hits its limits, why React’s patterns became necessary, and how AI tools can accelerate development while you continue learning. You’ll also leave with a six-step framework for iterative development that overcomes the fear of shipping imperfect solutions. Whether you’re considering a React migration, curious about AI-assisted development, or sitting on a side project, you’ll leave with technical insights and a renewed motivation to ship.</p><hr><h2 id="Connect-with-Roxy"><a href="#Connect-with-Roxy" class="headerlink" title="Connect with Roxy"></a>Connect with Roxy</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/roxana-rodriguez-becker">https://www.linkedin.com/in/roxana-rodriguez-becker</a></li><li><strong>Twitter&#x2F;X:</strong> @RoxanaCodes</li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Roxy’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Chris DeMars to Stir Trek 2026!</p><img src="/images/speakers/2026/Chris-DeMars.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Chris-DeMars-at-Stir-Trek-2026"><a href="#Chris-DeMars-at-Stir-Trek-2026" class="headerlink" title="Chris DeMars at Stir Trek 2026"></a>Chris DeMars at Stir Trek 2026</h1><p><em>Senior Developer Advocate at TuxCare</em></p><div style="clear:both;"></div><hr><h2 id="About-Chris-DeMars"><a href="#About-Chris-DeMars" class="headerlink" title="About Chris DeMars"></a>About Chris DeMars</h2><p>Chris DeMars is a Senior Developer Advocate with over 20 years of technical experience. He speaks all over the world on web accessibility, feature flags, A&#x2F;B testing, and CSS. For his community contributions, he holds awards as a Progress Champion and former Microsoft MVP, Google Developer Expert, Cloudinary Media Developer Expert, and Auth0 Ambassador. When he is not working on making the web great and accessible you can find him fishing, on the paintball field, rating Detroit Style pizza, and looking for UFO’s.</p><hr><h2 id="Session-1-Ghosts-in-the-Machine-Tampering-with-the-JavaScript-Supply-Chain"><a href="#Session-1-Ghosts-in-the-Machine-Tampering-with-the-JavaScript-Supply-Chain" class="headerlink" title="Session 1: Ghosts in the Machine: Tampering with the JavaScript Supply Chain"></a>Session 1: Ghosts in the Machine: Tampering with the JavaScript Supply Chain</h2><p><strong>1 May 2026 08:30 AM</strong> | Inception - Theatre 28 (18,19)<br><em>Track: Security &amp; Privacy Engineering</em></p><p>What if the code you’re shipping isn’t yours anymore? The scariest JavaScript bugs don’t always come from your team, they come from open-source packages that have been possessed. This talk digs deep into the dark world of supply chain tampering: what it looks like, how it happens, and what modern devs can do to protect themselves. We’ll talk tamper detection, package provenance, lockfile integrity, and even how to set up GitHub Actions to ward off malevolent merges. Come for the security, stay for the stories of cursed commits.</p><hr><h2 id="Session-2-Know-Your-JS-SBOMs-for-Frontend-Devs"><a href="#Session-2-Know-Your-JS-SBOMs-for-Frontend-Devs" class="headerlink" title="Session 2: Know Your JS: SBOMs for Frontend Devs"></a>Session 2: Know Your JS: SBOMs for Frontend Devs</h2><p><strong>1 May 2026 09:30 AM</strong> | Inception - Theatre 28 (18,19)<br><em>Track: Security &amp; Privacy Engineering</em></p><p>Ever wonder what’s lurking in the dark corners of your node_modules, like unidentified flying dependencies sneaking aboard your project? In an age of escalating software supply chain attacks, knowing exactly what you’re shipping is as vital as tracking strange lights in the sky. This talk will shine a beam on SBOMs (Software Bills of Materials), explaining why frontend developers should care and how to generate one using tools like CycloneDX and Syft. You’ll leave with the skills to map your entire dependency galaxy. No security clearance required, just your JavaScript and an explorer’s mindset.</p><hr><h2 id="Connect-with-Chris"><a href="#Connect-with-Chris" class="headerlink" title="Connect with Chris"></a>Connect with Chris</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/chrisdemars/">https://www.linkedin.com/in/chrisdemars/</a></li><li><strong>Twitter&#x2F;X:</strong> @saltnburnem</li><li><strong>Website:</strong> <a href="https://www.tuxcare.com/">https://www.tuxcare.com/</a></li><li><strong>Blog:</strong> <a href="https://chrisdemars.net/">https://chrisdemars.net/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. With 2 sessions on the schedule, Chris is bringing serious value to Stir Trek 2026 — don’t miss it!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
     </content>
-    <id>https://stirtrek.com/2026/03/10/2026-03-10-Roxy_Rodriguez_Becker/</id>
-    <link href="https://stirtrek.com/2026/03/10/2026-03-10-Roxy_Rodriguez_Becker/"/>
-    <published>2026-03-10T00:00:00.000Z</published>
+    <id>https://stirtrek.com/2026/03/11/2026-03-11-Chris_DeMars/</id>
+    <link href="https://stirtrek.com/2026/03/11/2026-03-11-Chris_DeMars/"/>
+    <published>2026-03-11T00:00:00.000Z</published>
     <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Roxy Rodriguez-Becker to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Roxy-Rodriguez-Becker.png"]]>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Chris DeMars to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Chris-DeMars.jpg"]]>
     </summary>
-    <title>Roxy Rodriguez-Becker at Stir Trek 2026</title>
-    <updated>2026-03-16T01:47:30.394Z</updated>
+    <title>Chris DeMars at Stir Trek 2026</title>
+    <updated>2026-03-16T05:46:34.272Z</updated>
   </entry>
   <entry>
     <author>
@@ -235,7 +215,7 @@
 <img src="/images/speakers/2026/Cory-House.jpg"]]>
     </summary>
     <title>Cory House at Stir Trek 2026</title>
-    <updated>2026-03-16T01:47:30.394Z</updated>
+    <updated>2026-03-16T05:46:34.272Z</updated>
   </entry>
   <entry>
     <author>
@@ -243,20 +223,19 @@
     </author>
     <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
     <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="software-quality" scheme="https://stirtrek.com/tags/software-quality/"/>
-    <category term="delivery" scheme="https://stirtrek.com/tags/delivery/"/>
+    <category term="application-development" scheme="https://stirtrek.com/tags/application-development/"/>
     <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Brian McKeiver to Stir Trek 2026!</p><img src="/images/speakers/2026/Brian-McKeiver.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Brian-McKeiver-at-Stir-Trek-2026"><a href="#Brian-McKeiver-at-Stir-Trek-2026" class="headerlink" title="Brian McKeiver at Stir Trek 2026"></a>Brian McKeiver at Stir Trek 2026</h1><p><em>Microsoft Azure MVP; Co-Owner at BizStream</em></p><div style="clear:both;"></div><hr><h2 id="About-Brian-McKeiver"><a href="#About-Brian-McKeiver" class="headerlink" title="About Brian McKeiver"></a>About Brian McKeiver</h2><p>Brian McKeiver is Co-Owner at BizStream, digital agency in Allendale, MI. At BizStream he is a solution architect, visionary, dual Microsoft Azure MVP (Azure AI and Azure PaaS), Kentico MVP, and Kontent.ai MVP. He has over 23 years of experience leading his agency of more than 40 employees, about a hundred clients spread out across North America, and one heck of an interesting story of how it all started from a two-person team. In addition to his expertise in web development, cloud, integration, and digital marketing, Brian is active with the tech community via his blog at Mcbeev.com.</p><hr><h2 id="Session-1-Blending-Product-Thinking-with-Software-Modernization"><a href="#Session-1-Blending-Product-Thinking-with-Software-Modernization" class="headerlink" title="Session 1: Blending Product Thinking with Software Modernization"></a>Session 1: Blending Product Thinking with Software Modernization</h2><p><strong>1 May 2026 08:30 AM</strong> | Back to the Future - Theatre 3 (1,2)<br><em>Track: Software Quality &amp; Delivery</em></p><p>In the world of software, products and systems don’t just remain static, they evolve, accumulate technical debt, and sometimes become an unmanageable mess of outdated frameworks, workarounds, and fragile dependencies. </p><p>When dealing with a 15-year-old platform, the question isn’t just how to modernize but what to modernize. Should you refactor piece by piece or completely rebuild? What about adding that new feature for the Product Owner. The answer isn’t always obvious.</p><p>This session explores how blending product thinking with software modernization leads to better outcomes. We’ll examine the lens of long-term product strategy, user needs, and business value. Using real-world lessons from a long-running SaaS product, a case study in modernizing a complex legacy platform, we’ll highlight how to balance technical constraints with customer expectations.</p><p>Whether you’re leading a legacy transformation or trying to avoid one in the future, this talk will showcase some smart modernization decisions that don’t make the business take a full stop.</p><hr><h2 id="Session-2-Configurable-cloud-native-applications-with-NET-Aspire"><a href="#Session-2-Configurable-cloud-native-applications-with-NET-Aspire" class="headerlink" title="Session 2: Configurable cloud-native applications with .NET Aspire"></a>Session 2: Configurable cloud-native applications with .NET Aspire</h2><p><strong>1 May 2026 02:00 PM</strong> | Ghostbusters - Theatre 17 (20)<br><em>Track: Application Development</em></p><p>Building apps for the cloud has always been hard. Developers are typically pulled away from writing their business logic and what matters most to deal with the complexity of the cloud.</p><p>To help simplify cloud app complexity, Microsoft has introduced .NET Aspire.  It includes a curated set of components that make sense to use in your C# projects.</p><p>.NET Aspire makes it easy to discover, acquire, and configure essential dependencies for cloud-native apps from the very beginning of your project. </p><p>Join me to walk through the set-up and usage of this new, powerful tool that can make any .NET developer more efficient in delivering cloud-native applications.</p><hr><h2 id="Connect-with-Brian"><a href="#Connect-with-Brian" class="headerlink" title="Connect with Brian"></a>Connect with Brian</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/brianmckeiver/">https://www.linkedin.com/in/brianmckeiver/</a></li><li><strong>Twitter&#x2F;X:</strong> @mcbeev</li><li><strong>Website:</strong> <a href="https://www.bizstream.com/">https://www.bizstream.com</a></li><li><strong>Blog:</strong> <a href="https://www.mcbeev.com/">https://www.mcbeev.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. With 2 sessions on the schedule, Brian is bringing serious value to Stir Trek 2026 — don’t miss it!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Roxy Rodriguez-Becker to Stir Trek 2026!</p><img src="/images/speakers/2026/Roxy-Rodriguez-Becker.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Roxy-Rodriguez-Becker-at-Stir-Trek-2026"><a href="#Roxy-Rodriguez-Becker-at-Stir-Trek-2026" class="headerlink" title="Roxy Rodriguez-Becker at Stir Trek 2026"></a>Roxy Rodriguez-Becker at Stir Trek 2026</h1><p><em>software engineer, developer advocate, and community leader</em></p><div style="clear:both;"></div><hr><h2 id="About-Roxy-Rodriguez-Becker"><a href="#About-Roxy-Rodriguez-Becker" class="headerlink" title="About Roxy Rodriguez-Becker"></a>About Roxy Rodriguez-Becker</h2><p>Roxy Rodriguez-Becker is a freelance web developer with a background in math education and library science. She created the Tube Feed Tracker PWA for a niche part of the medical community to help thousands of families around the world. Roxy is a Cuban American mother of 3 living in Houston, Texas. She enjoys working out, doing handstands, listening to tech podcasts, and is looking for her next role in tech.</p><hr><h2 id="Session-Ship-It-First-Fix-It-Later-How-a-Medical-Crisis-Led-to-a-Global-Tool"><a href="#Session-Ship-It-First-Fix-It-Later-How-a-Medical-Crisis-Led-to-a-Global-Tool" class="headerlink" title="Session: Ship It First, Fix It Later: How a Medical Crisis Led to a Global Tool"></a>Session: Ship It First, Fix It Later: How a Medical Crisis Led to a Global Tool</h2><p><strong>1 May 2026 08:30 AM</strong> | Ghostbusters - Theatre 17 (20)<br><em>Track: Application Development</em></p><p>When Roxy’s son was hospitalized yet again, she noticed nurses struggling to calculate his g-tube feed rates, so she built solution with simply HTML, CSS, and JavaScript, then almost didn’t share it due to everyone’s favorite pal, imposter syndrome. This talk chronicles a very specific calculator’s evolution into a production React PWA with AI integration, now used daily by families worldwide, who even find it through organic Google searches. Through honest code comparisons, you’ll see when vanilla JavaScript hits its limits, why React’s patterns became necessary, and how AI tools can accelerate development while you continue learning. You’ll also leave with a six-step framework for iterative development that overcomes the fear of shipping imperfect solutions. Whether you’re considering a React migration, curious about AI-assisted development, or sitting on a side project, you’ll leave with technical insights and a renewed motivation to ship.</p><hr><h2 id="Connect-with-Roxy"><a href="#Connect-with-Roxy" class="headerlink" title="Connect with Roxy"></a>Connect with Roxy</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/roxana-rodriguez-becker">https://www.linkedin.com/in/roxana-rodriguez-becker</a></li><li><strong>Twitter&#x2F;X:</strong> @RoxanaCodes</li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Roxy’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
     </content>
-    <id>https://stirtrek.com/2026/03/09/2026-03-09-Brian_McKeiver/</id>
-    <link href="https://stirtrek.com/2026/03/09/2026-03-09-Brian_McKeiver/"/>
-    <published>2026-03-09T00:00:00.000Z</published>
+    <id>https://stirtrek.com/2026/03/10/2026-03-10-Roxy_Rodriguez_Becker/</id>
+    <link href="https://stirtrek.com/2026/03/10/2026-03-10-Roxy_Rodriguez_Becker/"/>
+    <published>2026-03-10T00:00:00.000Z</published>
     <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Brian McKeiver to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Brian-McKeiver.jpg"]]>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Roxy Rodriguez-Becker to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Roxy-Rodriguez-Becker.png"]]>
     </summary>
-    <title>Brian McKeiver at Stir Trek 2026</title>
-    <updated>2026-03-16T01:47:30.394Z</updated>
+    <title>Roxy Rodriguez-Becker at Stir Trek 2026</title>
+    <updated>2026-03-16T05:46:34.272Z</updated>
   </entry>
   <entry>
     <author>
@@ -277,7 +256,28 @@
 <img src="/images/speakers/2026/Kathryn-GraysonNanz.jpg"]]>
     </summary>
     <title>Kathryn Grayson Nanz at Stir Trek 2026</title>
-    <updated>2026-03-16T01:47:30.394Z</updated>
+    <updated>2026-03-16T05:46:34.272Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="software-quality" scheme="https://stirtrek.com/tags/software-quality/"/>
+    <category term="delivery" scheme="https://stirtrek.com/tags/delivery/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Brian McKeiver to Stir Trek 2026!</p><img src="/images/speakers/2026/Brian-McKeiver.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Brian-McKeiver-at-Stir-Trek-2026"><a href="#Brian-McKeiver-at-Stir-Trek-2026" class="headerlink" title="Brian McKeiver at Stir Trek 2026"></a>Brian McKeiver at Stir Trek 2026</h1><p><em>Microsoft Azure MVP; Co-Owner at BizStream</em></p><div style="clear:both;"></div><hr><h2 id="About-Brian-McKeiver"><a href="#About-Brian-McKeiver" class="headerlink" title="About Brian McKeiver"></a>About Brian McKeiver</h2><p>Brian McKeiver is Co-Owner at BizStream, digital agency in Allendale, MI. At BizStream he is a solution architect, visionary, dual Microsoft Azure MVP (Azure AI and Azure PaaS), Kentico MVP, and Kontent.ai MVP. He has over 23 years of experience leading his agency of more than 40 employees, about a hundred clients spread out across North America, and one heck of an interesting story of how it all started from a two-person team. In addition to his expertise in web development, cloud, integration, and digital marketing, Brian is active with the tech community via his blog at Mcbeev.com.</p><hr><h2 id="Session-1-Blending-Product-Thinking-with-Software-Modernization"><a href="#Session-1-Blending-Product-Thinking-with-Software-Modernization" class="headerlink" title="Session 1: Blending Product Thinking with Software Modernization"></a>Session 1: Blending Product Thinking with Software Modernization</h2><p><strong>1 May 2026 08:30 AM</strong> | Back to the Future - Theatre 3 (1,2)<br><em>Track: Software Quality &amp; Delivery</em></p><p>In the world of software, products and systems don’t just remain static, they evolve, accumulate technical debt, and sometimes become an unmanageable mess of outdated frameworks, workarounds, and fragile dependencies. </p><p>When dealing with a 15-year-old platform, the question isn’t just how to modernize but what to modernize. Should you refactor piece by piece or completely rebuild? What about adding that new feature for the Product Owner. The answer isn’t always obvious.</p><p>This session explores how blending product thinking with software modernization leads to better outcomes. We’ll examine the lens of long-term product strategy, user needs, and business value. Using real-world lessons from a long-running SaaS product, a case study in modernizing a complex legacy platform, we’ll highlight how to balance technical constraints with customer expectations.</p><p>Whether you’re leading a legacy transformation or trying to avoid one in the future, this talk will showcase some smart modernization decisions that don’t make the business take a full stop.</p><hr><h2 id="Session-2-Configurable-cloud-native-applications-with-NET-Aspire"><a href="#Session-2-Configurable-cloud-native-applications-with-NET-Aspire" class="headerlink" title="Session 2: Configurable cloud-native applications with .NET Aspire"></a>Session 2: Configurable cloud-native applications with .NET Aspire</h2><p><strong>1 May 2026 02:00 PM</strong> | Ghostbusters - Theatre 17 (20)<br><em>Track: Application Development</em></p><p>Building apps for the cloud has always been hard. Developers are typically pulled away from writing their business logic and what matters most to deal with the complexity of the cloud.</p><p>To help simplify cloud app complexity, Microsoft has introduced .NET Aspire.  It includes a curated set of components that make sense to use in your C# projects.</p><p>.NET Aspire makes it easy to discover, acquire, and configure essential dependencies for cloud-native apps from the very beginning of your project. </p><p>Join me to walk through the set-up and usage of this new, powerful tool that can make any .NET developer more efficient in delivering cloud-native applications.</p><hr><h2 id="Connect-with-Brian"><a href="#Connect-with-Brian" class="headerlink" title="Connect with Brian"></a>Connect with Brian</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/brianmckeiver/">https://www.linkedin.com/in/brianmckeiver/</a></li><li><strong>Twitter&#x2F;X:</strong> @mcbeev</li><li><strong>Website:</strong> <a href="https://www.bizstream.com/">https://www.bizstream.com</a></li><li><strong>Blog:</strong> <a href="https://www.mcbeev.com/">https://www.mcbeev.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. With 2 sessions on the schedule, Brian is bringing serious value to Stir Trek 2026 — don’t miss it!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/09/2026-03-09-Brian_McKeiver/</id>
+    <link href="https://stirtrek.com/2026/03/09/2026-03-09-Brian_McKeiver/"/>
+    <published>2026-03-09T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Brian McKeiver to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Brian-McKeiver.jpg"]]>
+    </summary>
+    <title>Brian McKeiver at Stir Trek 2026</title>
+    <updated>2026-03-16T05:46:34.272Z</updated>
   </entry>
   <entry>
     <author>
@@ -296,7 +296,7 @@
 <p>This information was also posted]]>
     </summary>
     <title>Speakers and Sessions</title>
-    <updated>2026-03-16T01:47:30.394Z</updated>
+    <updated>2026-03-16T05:46:34.272Z</updated>
   </entry>
   <entry>
     <author>
@@ -316,6 +316,6 @@
 <p>There have been lots of questions about what movie will be shown at Stir Trek this year, and]]>
     </summary>
     <title>A Puzzle to Solve!</title>
-    <updated>2026-03-16T01:47:30.393Z</updated>
+    <updated>2026-03-16T05:46:34.271Z</updated>
   </entry>
 </feed>

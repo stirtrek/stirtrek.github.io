@@ -10,7 +10,48 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-03-15T20:20:42.514Z</updated>
+  <updated>2026-03-16T01:47:30.394Z</updated>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="architecture" scheme="https://stirtrek.com/tags/architecture/"/>
+    <category term="platform-engineering" scheme="https://stirtrek.com/tags/platform-engineering/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Ardalis . to Stir Trek 2026!</p><img src="/images/speakers/2026/Ardalis-..jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Ardalis-at-Stir-Trek-2026"><a href="#Ardalis-at-Stir-Trek-2026" class="headerlink" title="Ardalis . at Stir Trek 2026"></a>Ardalis . at Stir Trek 2026</h1><p><em>Founder and Principal Architect at NimblePros, Microsoft MVP, Author, Speaker, Trainer</em></p><div style="clear:both;"></div><hr><h2 id="About-Ardalis"><a href="#About-Ardalis" class="headerlink" title="About Ardalis ."></a>About Ardalis .</h2><p>Ardalis (Steve Smith) is an entrepreneur and software developer with a passion for building quality software as effectively as possible. Ardalis has published DOZENS of courses on Pluralsight and Dometrain, covering DDD, SOLID, design patterns, and software architecture. He’s a Microsoft ASP.NET MVP, a frequent speaker at developer conferences, an author, and a trainer.</p><p>Ardalis works with companies through NimblePros, the boutique consulting company he runs with his wife, Michelle. They help teams who want to avoid the trap of technical debt to deliver better software, faster. Ardalis and NimblePros have been described by clients as a “force multiplier”, amplifying the value of existing development teams.</p><p>Follow ardalis on BlueSky, YouTube, and ardalis.com.</p><hr><h2 id="Session-The-Dark-Side-of-Microservices"><a href="#Session-The-Dark-Side-of-Microservices" class="headerlink" title="Session: The Dark Side of Microservices"></a>Session: The Dark Side of Microservices</h2><p><strong>1 May 2026 09:30 AM</strong> | The Goonies - Theatre 16 (21)<br><em>Track: Architecture &amp; Platform Engineering</em></p><p>You want to solve a problem with your application, and you want to use microservices. Ok, so now you have two problems…</p><p>Microservices continue to be a huge buzzword in our industry, and in some scenarios they can offer significant benefits. But building microservice-based systems requires substantially different skills than traditional applications, and in many cases the added complexity isn’t warranted.</p><p>In this session, you’ll learn when NOT to use a microservice, and many ways in which you can design your microservice architecture the wrong way, eliminating the benefits your organization had hoped to reap from them. Hopefully you’ll leave knowing a few pitfalls to avoid, or at least if you already have some of the scars from past implementations, you may find the session therapeutic.</p><hr><h2 id="Connect-with-Ardalis"><a href="#Connect-with-Ardalis" class="headerlink" title="Connect with Ardalis"></a>Connect with Ardalis</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/stevenandrewsmith">https://www.linkedin.com/in/stevenandrewsmith</a></li><li><strong>Twitter&#x2F;X:</strong> @ardalis</li><li><strong>Website:</strong> <a href="https://nimblepros.com/">https://nimblepros.com</a></li><li><strong>Blog:</strong> <a href="https://ardalis.com/blog">https://ardalis.com/blog</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Ardalis’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/16/2026-03-16-Ardalis/</id>
+    <link href="https://stirtrek.com/2026/03/16/2026-03-16-Ardalis/"/>
+    <published>2026-03-16T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Ardalis . to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Ardalis-..jpg"]]>
+    </summary>
+    <title>Ardalis . at Stir Trek 2026</title>
+    <updated>2026-03-16T01:47:30.394Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="application-development" scheme="https://stirtrek.com/tags/application-development/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Lance Finney to Stir Trek 2026!</p><img src="/images/speakers/2026/Lance-Finney.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Lance-Finney-at-Stir-Trek-2026"><a href="#Lance-Finney-at-Stir-Trek-2026" class="headerlink" title="Lance Finney at Stir Trek 2026"></a>Lance Finney at Stir Trek 2026</h1><p><em>Angular Developer and Instructor</em></p><div style="clear:both;"></div><hr><h2 id="About-Lance-Finney"><a href="#About-Lance-Finney" class="headerlink" title="About Lance Finney"></a>About Lance Finney</h2><p>After more than a decade focused on the Java desktop world, I’ve been in the Angular&#x2F;JavaScript&#x2F;TypeScript space since 2014.</p><p>As an Angular Google Developer Expert, I develop Angular projects and mentor junior Angular developers on my projects, and I used to be an instructor with Angular Boot Camp. Father of two, software developer, and world traveler (when I can sneak it in).</p><hr><h2 id="Session-Comparing-Promises-Observables-and-Signals"><a href="#Session-Comparing-Promises-Observables-and-Signals" class="headerlink" title="Session: Comparing Promises, Observables, and Signals"></a>Session: Comparing Promises, Observables, and Signals</h2><p><strong>1 May 2026 09:30 AM</strong> | Galaxy Quest - Theatre 27 (23,24,25,26)<br><em>Track: Application Development</em></p><p>Since JavaScript is single threaded, special techniques are necessary for asynchronous and reactive programming.</p><p>Promises were introduced a few years ago to enable asynchronous programming without the dreaded “callback hell”. They are a very powerful tool, especially with the async&#x2F;await syntactic sugar.</p><p>But limitations in promises opened the door to observables and their associated operator functions. They are much more powerful than promises overall, but can also be much more confusing.</p><p>Signals are yet another approach, one that has gained a lot of attention since Angular adopted them in 2023, but it solves completely different problems.</p><p>Now we have three different reactive primitives. Why? What’s the difference between them? Why would you choose one over the other? Or will they all have complementary roles in a modern JavaScript&#x2F;TypeScript application?</p><p>Come to this session to get the answers to these questions, and more!</p><hr><h2 id="Connect-with-Lance"><a href="#Connect-with-Lance" class="headerlink" title="Connect with Lance"></a>Connect with Lance</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lmfinney/">https://www.linkedin.com/in/lmfinney/</a></li><li><strong>Twitter&#x2F;X:</strong> @LMFinneyCoder</li><li><strong>Website:</strong> <a href="https://www.inficon.com/en">https://www.inficon.com/en</a></li><li><strong>Blog:</strong> <a href="https://lmfinney.wordpress.com/">https://lmfinney.wordpress.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Lance’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/16/2026-03-16-Lance_Finney/</id>
+    <link href="https://stirtrek.com/2026/03/16/2026-03-16-Lance_Finney/"/>
+    <published>2026-03-16T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Lance Finney to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Lance-Finney.jpg"]]>
+    </summary>
+    <title>Lance Finney at Stir Trek 2026</title>
+    <updated>2026-03-16T01:47:30.394Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -30,7 +71,7 @@
 <img src="/images/speakers/2026/Jeff-McWherter.jpg"]]>
     </summary>
     <title>Jeff McWherter at Stir Trek 2026</title>
-    <updated>2026-03-15T20:20:42.514Z</updated>
+    <updated>2026-03-16T01:47:30.394Z</updated>
   </entry>
   <entry>
     <author>
@@ -51,7 +92,7 @@
 <img src="/images/speakers/2026/Kevin-Grossnicklaus.jpg"]]>
     </summary>
     <title>Kevin Grossnicklaus at Stir Trek 2026</title>
-    <updated>2026-03-15T20:20:42.514Z</updated>
+    <updated>2026-03-16T01:47:30.394Z</updated>
   </entry>
   <entry>
     <author>
@@ -72,7 +113,7 @@
 <img src="/images/speakers/2026/Christine-Miao.png"]]>
     </summary>
     <title>Christine Miao at Stir Trek 2026</title>
-    <updated>2026-03-15T20:20:42.514Z</updated>
+    <updated>2026-03-16T01:47:30.394Z</updated>
   </entry>
   <entry>
     <author>
@@ -93,7 +134,7 @@
 <img src="/images/speakers/2026/Hazel-Bohon.jpg"]]>
     </summary>
     <title>Hazel Bohon at Stir Trek 2026</title>
-    <updated>2026-03-15T20:20:42.514Z</updated>
+    <updated>2026-03-16T01:47:30.394Z</updated>
   </entry>
   <entry>
     <author>
@@ -111,7 +152,7 @@
       <![CDATA[<p>As a reminder, ticket prices increase as the event gets closer, so register early to save your spot and get the best price!]]>
     </summary>
     <title>Key Dates for Stir Trek 2026</title>
-    <updated>2026-03-15T20:20:42.514Z</updated>
+    <updated>2026-03-16T01:47:30.394Z</updated>
   </entry>
   <entry>
     <author>
@@ -132,7 +173,7 @@
 <img src="/images/speakers/2026/Chris-DeMars.jpg"]]>
     </summary>
     <title>Chris DeMars at Stir Trek 2026</title>
-    <updated>2026-03-15T20:20:42.514Z</updated>
+    <updated>2026-03-16T01:47:30.394Z</updated>
   </entry>
   <entry>
     <author>
@@ -153,7 +194,27 @@
 <img src="/images/speakers/2026/Jackie-Gleason.jpg"]]>
     </summary>
     <title>Jackie Gleason at Stir Trek 2026</title>
-    <updated>2026-03-15T20:20:42.514Z</updated>
+    <updated>2026-03-16T01:47:30.394Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="application-development" scheme="https://stirtrek.com/tags/application-development/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Roxy Rodriguez-Becker to Stir Trek 2026!</p><img src="/images/speakers/2026/Roxy-Rodriguez-Becker.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Roxy-Rodriguez-Becker-at-Stir-Trek-2026"><a href="#Roxy-Rodriguez-Becker-at-Stir-Trek-2026" class="headerlink" title="Roxy Rodriguez-Becker at Stir Trek 2026"></a>Roxy Rodriguez-Becker at Stir Trek 2026</h1><p><em>software engineer, developer advocate, and community leader</em></p><div style="clear:both;"></div><hr><h2 id="About-Roxy-Rodriguez-Becker"><a href="#About-Roxy-Rodriguez-Becker" class="headerlink" title="About Roxy Rodriguez-Becker"></a>About Roxy Rodriguez-Becker</h2><p>Roxy Rodriguez-Becker is a freelance web developer with a background in math education and library science. She created the Tube Feed Tracker PWA for a niche part of the medical community to help thousands of families around the world. Roxy is a Cuban American mother of 3 living in Houston, Texas. She enjoys working out, doing handstands, listening to tech podcasts, and is looking for her next role in tech.</p><hr><h2 id="Session-Ship-It-First-Fix-It-Later-How-a-Medical-Crisis-Led-to-a-Global-Tool"><a href="#Session-Ship-It-First-Fix-It-Later-How-a-Medical-Crisis-Led-to-a-Global-Tool" class="headerlink" title="Session: Ship It First, Fix It Later: How a Medical Crisis Led to a Global Tool"></a>Session: Ship It First, Fix It Later: How a Medical Crisis Led to a Global Tool</h2><p><strong>1 May 2026 08:30 AM</strong> | Ghostbusters - Theatre 17 (20)<br><em>Track: Application Development</em></p><p>When Roxy’s son was hospitalized yet again, she noticed nurses struggling to calculate his g-tube feed rates, so she built solution with simply HTML, CSS, and JavaScript, then almost didn’t share it due to everyone’s favorite pal, imposter syndrome. This talk chronicles a very specific calculator’s evolution into a production React PWA with AI integration, now used daily by families worldwide, who even find it through organic Google searches. Through honest code comparisons, you’ll see when vanilla JavaScript hits its limits, why React’s patterns became necessary, and how AI tools can accelerate development while you continue learning. You’ll also leave with a six-step framework for iterative development that overcomes the fear of shipping imperfect solutions. Whether you’re considering a React migration, curious about AI-assisted development, or sitting on a side project, you’ll leave with technical insights and a renewed motivation to ship.</p><hr><h2 id="Connect-with-Roxy"><a href="#Connect-with-Roxy" class="headerlink" title="Connect with Roxy"></a>Connect with Roxy</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/roxana-rodriguez-becker">https://www.linkedin.com/in/roxana-rodriguez-becker</a></li><li><strong>Twitter&#x2F;X:</strong> @RoxanaCodes</li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Roxy’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/10/2026-03-10-Roxy_Rodriguez_Becker/</id>
+    <link href="https://stirtrek.com/2026/03/10/2026-03-10-Roxy_Rodriguez_Becker/"/>
+    <published>2026-03-10T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Roxy Rodriguez-Becker to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Roxy-Rodriguez-Becker.png"]]>
+    </summary>
+    <title>Roxy Rodriguez-Becker at Stir Trek 2026</title>
+    <updated>2026-03-16T01:47:30.394Z</updated>
   </entry>
   <entry>
     <author>
@@ -174,27 +235,7 @@
 <img src="/images/speakers/2026/Cory-House.jpg"]]>
     </summary>
     <title>Cory House at Stir Trek 2026</title>
-    <updated>2026-03-15T20:20:42.514Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="application-development" scheme="https://stirtrek.com/tags/application-development/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Roxy Rodriguez-Becker to Stir Trek 2026!</p><img src="/images/speakers/2026/Roxy-Rodriguez-Becker.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Roxy-Rodriguez-Becker-at-Stir-Trek-2026"><a href="#Roxy-Rodriguez-Becker-at-Stir-Trek-2026" class="headerlink" title="Roxy Rodriguez-Becker at Stir Trek 2026"></a>Roxy Rodriguez-Becker at Stir Trek 2026</h1><p><em>software engineer, developer advocate, and community leader</em></p><div style="clear:both;"></div><hr><h2 id="About-Roxy-Rodriguez-Becker"><a href="#About-Roxy-Rodriguez-Becker" class="headerlink" title="About Roxy Rodriguez-Becker"></a>About Roxy Rodriguez-Becker</h2><p>Roxy Rodriguez-Becker is a freelance web developer with a background in math education and library science. She created the Tube Feed Tracker PWA for a niche part of the medical community to help thousands of families around the world. Roxy is a Cuban American mother of 3 living in Houston, Texas. She enjoys working out, doing handstands, listening to tech podcasts, and is looking for her next role in tech.</p><hr><h2 id="Session-Ship-It-First-Fix-It-Later-How-a-Medical-Crisis-Led-to-a-Global-Tool"><a href="#Session-Ship-It-First-Fix-It-Later-How-a-Medical-Crisis-Led-to-a-Global-Tool" class="headerlink" title="Session: Ship It First, Fix It Later: How a Medical Crisis Led to a Global Tool"></a>Session: Ship It First, Fix It Later: How a Medical Crisis Led to a Global Tool</h2><p><strong>1 May 2026 08:30 AM</strong> | Ghostbusters - Theatre 17 (20)<br><em>Track: Application Development</em></p><p>When Roxy’s son was hospitalized yet again, she noticed nurses struggling to calculate his g-tube feed rates, so she built solution with simply HTML, CSS, and JavaScript, then almost didn’t share it due to everyone’s favorite pal, imposter syndrome. This talk chronicles a very specific calculator’s evolution into a production React PWA with AI integration, now used daily by families worldwide, who even find it through organic Google searches. Through honest code comparisons, you’ll see when vanilla JavaScript hits its limits, why React’s patterns became necessary, and how AI tools can accelerate development while you continue learning. You’ll also leave with a six-step framework for iterative development that overcomes the fear of shipping imperfect solutions. Whether you’re considering a React migration, curious about AI-assisted development, or sitting on a side project, you’ll leave with technical insights and a renewed motivation to ship.</p><hr><h2 id="Connect-with-Roxy"><a href="#Connect-with-Roxy" class="headerlink" title="Connect with Roxy"></a>Connect with Roxy</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/roxana-rodriguez-becker">https://www.linkedin.com/in/roxana-rodriguez-becker</a></li><li><strong>Twitter&#x2F;X:</strong> @RoxanaCodes</li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Roxy’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/10/2026-03-10-Roxy_Rodriguez_Becker/</id>
-    <link href="https://stirtrek.com/2026/03/10/2026-03-10-Roxy_Rodriguez_Becker/"/>
-    <published>2026-03-10T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Roxy Rodriguez-Becker to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Roxy-Rodriguez-Becker.png"]]>
-    </summary>
-    <title>Roxy Rodriguez-Becker at Stir Trek 2026</title>
-    <updated>2026-03-15T20:20:42.514Z</updated>
+    <updated>2026-03-16T01:47:30.394Z</updated>
   </entry>
   <entry>
     <author>
@@ -215,7 +256,7 @@
 <img src="/images/speakers/2026/Brian-McKeiver.jpg"]]>
     </summary>
     <title>Brian McKeiver at Stir Trek 2026</title>
-    <updated>2026-03-15T20:20:42.514Z</updated>
+    <updated>2026-03-16T01:47:30.394Z</updated>
   </entry>
   <entry>
     <author>
@@ -236,7 +277,7 @@
 <img src="/images/speakers/2026/Kathryn-GraysonNanz.jpg"]]>
     </summary>
     <title>Kathryn Grayson Nanz at Stir Trek 2026</title>
-    <updated>2026-03-15T20:20:42.514Z</updated>
+    <updated>2026-03-16T01:47:30.394Z</updated>
   </entry>
   <entry>
     <author>
@@ -255,7 +296,7 @@
 <p>This information was also posted]]>
     </summary>
     <title>Speakers and Sessions</title>
-    <updated>2026-03-15T20:20:42.514Z</updated>
+    <updated>2026-03-16T01:47:30.394Z</updated>
   </entry>
   <entry>
     <author>
@@ -275,6 +316,6 @@
 <p>There have been lots of questions about what movie will be shown at Stir Trek this year, and]]>
     </summary>
     <title>A Puzzle to Solve!</title>
-    <updated>2026-03-15T20:20:42.514Z</updated>
+    <updated>2026-03-16T01:47:30.393Z</updated>
   </entry>
 </feed>

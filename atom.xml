@@ -10,7 +10,28 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-03-22T20:18:52.856Z</updated>
+  <updated>2026-03-23T01:28:08.899Z</updated>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="artificial-intelligence" scheme="https://stirtrek.com/tags/artificial-intelligence/"/>
+    <category term="machine-learning" scheme="https://stirtrek.com/tags/machine-learning/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Guy Royse to Stir Trek 2026!</p><img src="/images/speakers/2026/Guy-Royse.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Guy-Royse-at-Stir-Trek-2026"><a href="#Guy-Royse-at-Stir-Trek-2026" class="headerlink" title="Guy Royse at Stir Trek 2026"></a>Guy Royse at Stir Trek 2026</h1><p><em>Developer Advocate at Redis</em></p><div style="clear:both;"></div><hr><h2 id="About-Guy-Royse"><a href="#About-Guy-Royse" class="headerlink" title="About Guy Royse"></a>About Guy Royse</h2><p>Guy works for Redis as a Developer Advocate. Combining his decades of experience in writing software with a passion for learning—and for sharing what he has learned—Guy explores interesting topics and spreads the knowledge he has gained around developer communities worldwide.</p><p>Teaching and community have long been a focus for Guy. He ran a local JavaScript meetup in Ohio for more than a decade and has served on the selection committees of numerous conferences. He’ll happily speak anywhere that will have him and has even has helped teach programming at a prison in Central Ohio.</p><p>In his personal life, Guy is a hard-boiled geek interested in role-playing games, science fiction, and technology. He also has a slightly less geeky interest in history and linguistics. He has an entire wall of role-playing games and science fiction books, speaks Spanish like a two-year old, and is a ham radio operator—callsign W8GUY.</p><p>Guy lives in Ohio with his wife. His three sons are adults now and are all moved out. He is immensely proud of the men they have become.</p><hr><h2 id="Session-Agents-Arbiters-An-Adventurer’s-Guide-to-Multi-Agent-Collaboration-with-LangGraph-js"><a href="#Session-Agents-Arbiters-An-Adventurer’s-Guide-to-Multi-Agent-Collaboration-with-LangGraph-js" class="headerlink" title="Session: Agents &amp; Arbiters - An Adventurer’s Guide to Multi-Agent Collaboration with LangGraph.js"></a>Session: Agents &amp; Arbiters - An Adventurer’s Guide to Multi-Agent Collaboration with LangGraph.js</h2><p><strong>1 May 2026 10:30 AM</strong> | Interstellar - Theatre 4 (5,6,7,8,9)<br><em>Track: Artificial Intelligence &amp; Machine Learning</em></p><p>Building interactive systems with conventional coding means trying to anticipate every possible user action and writing the right response. This quickly becomes nigh impossible. You end up lost in a maze of recursion, fragility, and nested if statements. The more interactive you make your system, the more complex your code gets, until debugging feels like being eaten by a grue—you know something’s wrong, but you’re just fumbling around in the dark.</p><p>There’s a better way. Instead of scripting every interaction, we can give some of the elements in our system their own intelligence. Multi-agent collaboration lets us create systems where entities can become autonomous agents with their own perspectives and voices. Imagine a text-based adventure game where the brass lantern, the white house, and even the mailbox have something to say when responding to the player. Or consider a help desk system where agents from billing, technical support, and account management each weigh in to determine the best solution for a customer.</p><p>In this session, we’ll explore multi-agent collaboration through a live demo of a text-based adventure system. You’ll meet the orchestration workflow—router, classifier, agents, arbiter, and committer—and discover how LangGraph.js coordinates the chaos when multiple agents want to respond. We’ll shine our brass lantern over the code to see how it uses Redis and LangGraph.js to make it all work. Then, we’ll explore how this same approach solves real-world problems beyond gaming.</p><p>When the adventure’s over, you’ll understand how to coordinate agents to handle complex interactions and know when this is a good approach. You’ll have a working example you can adapt for your own adventures—be they exploring the Great Underground Empire, customer service platforms, or content management systems. And, you’ll never look at building interactive systems the same way again.</p><hr><h2 id="Connect-with-Guy"><a href="#Connect-with-Guy" class="headerlink" title="Connect with Guy"></a>Connect with Guy</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/groyse">https://www.linkedin.com/in/groyse</a></li><li><strong>Twitter&#x2F;X:</strong> @guyroyse</li><li><strong>Website:</strong> <a href="https://redis.com/">https://redis.com/</a></li><li><strong>Blog:</strong> <a href="http://guyroyse.com/">http://guyroyse.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Guy’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/23/2026-03-23-Guy_Royse/</id>
+    <link href="https://stirtrek.com/2026/03/23/2026-03-23-Guy_Royse/"/>
+    <published>2026-03-23T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Guy Royse to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Guy-Royse.jpg"]]>
+    </summary>
+    <title>Guy Royse at Stir Trek 2026</title>
+    <updated>2026-03-23T01:28:08.899Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -30,28 +51,7 @@
 <img src="/images/speakers/2026/Bill-Sempf.jpg"]]>
     </summary>
     <title>Bill Sempf at Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="software-quality" scheme="https://stirtrek.com/tags/software-quality/"/>
-    <category term="delivery" scheme="https://stirtrek.com/tags/delivery/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Matthew-Hope Eland to Stir Trek 2026!</p><img src="/images/speakers/2026/Matthew-Hope-Eland.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Matthew-Hope-Eland-at-Stir-Trek-2026"><a href="#Matthew-Hope-Eland-at-Stir-Trek-2026" class="headerlink" title="Matthew-Hope Eland at Stir Trek 2026"></a>Matthew-Hope Eland at Stir Trek 2026</h1><p><em>Wizard at Leading EDJE</em></p><div style="clear:both;"></div><hr><h2 id="About-Matthew-Hope-Eland"><a href="#About-Matthew-Hope-Eland" class="headerlink" title="About Matthew-Hope Eland"></a>About Matthew-Hope Eland</h2><p>An AI Specialist and Wizard at Leading EDJE who is known to teach software engineering, AI, and data science concepts in the most ridiculous ways possible. Matt has used machine learning to settle debates over whether Die Hard is a Christmas movie, reinforcement learning to drive the behavior of digital squirrels, data analytics to suggest improvements to his favorite TV show, and AI agents to play board games and create an AI agent with the personality of a dog. Matt is the author of “Data Science in .NET with Polyglot Notebooks” and “Refactoring with C#” as well as several LinkedIn Learning courses. Matt helps organize the Central Ohio .NET Developer Group, runs several blogs and a YouTube channel, has a Master’s of Science in Data Analytics, and is a current Microsoft MVP in AI and .NET.</p><hr><h2 id="Session-Ensuring-Software-Quality-in-the-world-of-AI-Developers"><a href="#Session-Ensuring-Software-Quality-in-the-world-of-AI-Developers" class="headerlink" title="Session: Ensuring Software Quality in the world of AI Developers"></a>Session: Ensuring Software Quality in the world of AI Developers</h2><p><strong>1 May 2026 10:30 AM</strong> | The Matrix - Theatre 15 (10, 11)<br><em>Track: Software Quality &amp; Delivery</em></p><p>Like it or not, AI agents are now capable of turning a quickly written paragraph of requirements into a pull request that is ready to be integrated into real-world production applications and it’s now our responsibility to make sure AI doesn’t go rogue and take down prod - or corrupt our data by misunderstanding the requirements or our existing schemas.</p><p>In this session we’ll explore strategies to protect our codebases through unit and integration testing, documentation, and code review along with additional ways of providing context and guard rails to our AI agents as they carry out the work we’ve assigned them to do.</p><p>By the time we’re done, you’ll have a firm grasp of the problem and understand some helpful options for protecting your codebase from vibe coding mishaps getting YOLOed into prod.</p><hr><h2 id="Connect-with-Matthew-Hope"><a href="#Connect-with-Matthew-Hope" class="headerlink" title="Connect with Matthew-Hope"></a>Connect with Matthew-Hope</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/matteland/">https://www.linkedin.com/in/matteland/</a></li><li><strong>Twitter&#x2F;X:</strong> @IntegerMan</li><li><strong>Website:</strong> <a href="https://leadingedje.com/">https://LeadingEDJE.com</a></li><li><strong>Blog:</strong> <a href="https://mattonml.net/">https://MattOnML.NET</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Matthew-Hope’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/19/2026-03-19-Matthew_Hope_Eland/</id>
-    <link href="https://stirtrek.com/2026/03/19/2026-03-19-Matthew_Hope_Eland/"/>
-    <published>2026-03-19T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Matthew-Hope Eland to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Matthew-Hope-Eland.png"]]>
-    </summary>
-    <title>Matthew-Hope Eland at Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
+    <updated>2026-03-23T01:28:08.899Z</updated>
   </entry>
   <entry>
     <author>
@@ -72,7 +72,28 @@
 <img src="/images/speakers/2026/Vitaliy-Matiyash.jpg"]]>
     </summary>
     <title>Vitaliy Matiyash at Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
+    <updated>2026-03-23T01:28:08.899Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="software-quality" scheme="https://stirtrek.com/tags/software-quality/"/>
+    <category term="delivery" scheme="https://stirtrek.com/tags/delivery/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Matthew-Hope Eland to Stir Trek 2026!</p><img src="/images/speakers/2026/Matthew-Hope-Eland.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Matthew-Hope-Eland-at-Stir-Trek-2026"><a href="#Matthew-Hope-Eland-at-Stir-Trek-2026" class="headerlink" title="Matthew-Hope Eland at Stir Trek 2026"></a>Matthew-Hope Eland at Stir Trek 2026</h1><p><em>Wizard at Leading EDJE</em></p><div style="clear:both;"></div><hr><h2 id="About-Matthew-Hope-Eland"><a href="#About-Matthew-Hope-Eland" class="headerlink" title="About Matthew-Hope Eland"></a>About Matthew-Hope Eland</h2><p>An AI Specialist and Wizard at Leading EDJE who is known to teach software engineering, AI, and data science concepts in the most ridiculous ways possible. Matt has used machine learning to settle debates over whether Die Hard is a Christmas movie, reinforcement learning to drive the behavior of digital squirrels, data analytics to suggest improvements to his favorite TV show, and AI agents to play board games and create an AI agent with the personality of a dog. Matt is the author of “Data Science in .NET with Polyglot Notebooks” and “Refactoring with C#” as well as several LinkedIn Learning courses. Matt helps organize the Central Ohio .NET Developer Group, runs several blogs and a YouTube channel, has a Master’s of Science in Data Analytics, and is a current Microsoft MVP in AI and .NET.</p><hr><h2 id="Session-Ensuring-Software-Quality-in-the-world-of-AI-Developers"><a href="#Session-Ensuring-Software-Quality-in-the-world-of-AI-Developers" class="headerlink" title="Session: Ensuring Software Quality in the world of AI Developers"></a>Session: Ensuring Software Quality in the world of AI Developers</h2><p><strong>1 May 2026 10:30 AM</strong> | The Matrix - Theatre 15 (10, 11)<br><em>Track: Software Quality &amp; Delivery</em></p><p>Like it or not, AI agents are now capable of turning a quickly written paragraph of requirements into a pull request that is ready to be integrated into real-world production applications and it’s now our responsibility to make sure AI doesn’t go rogue and take down prod - or corrupt our data by misunderstanding the requirements or our existing schemas.</p><p>In this session we’ll explore strategies to protect our codebases through unit and integration testing, documentation, and code review along with additional ways of providing context and guard rails to our AI agents as they carry out the work we’ve assigned them to do.</p><p>By the time we’re done, you’ll have a firm grasp of the problem and understand some helpful options for protecting your codebase from vibe coding mishaps getting YOLOed into prod.</p><hr><h2 id="Connect-with-Matthew-Hope"><a href="#Connect-with-Matthew-Hope" class="headerlink" title="Connect with Matthew-Hope"></a>Connect with Matthew-Hope</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/matteland/">https://www.linkedin.com/in/matteland/</a></li><li><strong>Twitter&#x2F;X:</strong> @IntegerMan</li><li><strong>Website:</strong> <a href="https://leadingedje.com/">https://LeadingEDJE.com</a></li><li><strong>Blog:</strong> <a href="https://mattonml.net/">https://MattOnML.NET</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Matthew-Hope’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/19/2026-03-19-Matthew_Hope_Eland/</id>
+    <link href="https://stirtrek.com/2026/03/19/2026-03-19-Matthew_Hope_Eland/"/>
+    <published>2026-03-19T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Matthew-Hope Eland to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Matthew-Hope-Eland.png"]]>
+    </summary>
+    <title>Matthew-Hope Eland at Stir Trek 2026</title>
+    <updated>2026-03-23T01:28:08.899Z</updated>
   </entry>
   <entry>
     <author>
@@ -93,7 +114,7 @@
 <img src="/images/speakers/2026/Samuel-Gomez.jpg"]]>
     </summary>
     <title>Samuel Gomez at Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
+    <updated>2026-03-23T01:28:08.899Z</updated>
   </entry>
   <entry>
     <author>
@@ -114,28 +135,7 @@
 <img src="/images/speakers/2026/Valarie-Regas.jpg"]]>
     </summary>
     <title>Valarie Regas at Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="data-engineering" scheme="https://stirtrek.com/tags/data-engineering/"/>
-    <category term="analytics" scheme="https://stirtrek.com/tags/analytics/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Tristan Chiappisi to Stir Trek 2026!</p><img src="/images/speakers/2026/Tristan-Chiappisi.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Tristan-Chiappisi-at-Stir-Trek-2026"><a href="#Tristan-Chiappisi-at-Stir-Trek-2026" class="headerlink" title="Tristan Chiappisi at Stir Trek 2026"></a>Tristan Chiappisi at Stir Trek 2026</h1><p><em>Principal Data Architect - Cetera</em></p><div style="clear:both;"></div><hr><h2 id="About-Tristan-Chiappisi"><a href="#About-Tristan-Chiappisi" class="headerlink" title="About Tristan Chiappisi"></a>About Tristan Chiappisi</h2><p>With over a decade and a half of programming and working with data, I have a passion for anything related to the subject. If it has something to do with technology, I’m in.</p><p>Beyond my professional realm, I’m a dad to a vibrant crew of young adventurers. Together, we seek out outdoor thrills, from skiing to biking, in my perpetual quest to earn the ‘cool dad’ badge.</p><hr><h2 id="Session-1-Caffeinate-Your-Queries-Brew-Up-Faster-SQL-with-Tuning"><a href="#Session-1-Caffeinate-Your-Queries-Brew-Up-Faster-SQL-with-Tuning" class="headerlink" title="Session 1: Caffeinate Your Queries: Brew Up Faster SQL with Tuning"></a>Session 1: Caffeinate Your Queries: Brew Up Faster SQL with Tuning</h2><p><strong>1 May 2026 09:30 AM</strong> | Back to the Future - Theatre 3 (1,2)<br><em>Track: Data Engineering &amp; Analytics</em></p><p>In this session, embark on an engaging exploration as we unravel the mysteries of query tuning. From deciphering sluggish queries to unleashing their full potential, we will explore advanced techniques for optimizing SQL performance. Discover the art of indexing, rewriting queries for efficiency, leveraging execution plans, and unearthing hidden bottlenecks. Whether you’re a seasoned developer or SQL enthusiast, you’ll leave armed with the skills to transform your queries from coffee-break slow to lightning-fast.</p><hr><h2 id="Session-2-Unlocking-Quantum-Computing-An-Overview"><a href="#Session-2-Unlocking-Quantum-Computing-An-Overview" class="headerlink" title="Session 2: Unlocking Quantum Computing: An Overview"></a>Session 2: Unlocking Quantum Computing: An Overview</h2><p><strong>1 May 2026 11:30 AM</strong> | The Matrix - Theatre 15 (10, 11)<br><em>Track: Other</em></p><p>Quantum computing is coming, but most of the explanations out there are either too academic or too hand-wavy to be useful. This talk is a practical overview for developers who want to understand what quantum computing actually is, why it matters, and where it’s headed. We’ll walk through the core concepts like superposition, entanglement, and interference without the math-heavy deep dive. You’ll see what quantum computers are good at, what they’re not, and how they might affect the systems and security decisions you make in the future. No physics background required. You’ll walk away with enough understanding to follow the conversation and recognize when quantum starts to matter for your work.</p><hr><h2 id="Connect-with-Tristan"><a href="#Connect-with-Tristan" class="headerlink" title="Connect with Tristan"></a>Connect with Tristan</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/tristanchiappisi/">https://www.linkedin.com/in/tristanchiappisi/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. With 2 sessions on the schedule, Tristan is bringing serious value to Stir Trek 2026 — don’t miss it!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/17/2026-03-17-Tristan_Chiappisi/</id>
-    <link href="https://stirtrek.com/2026/03/17/2026-03-17-Tristan_Chiappisi/"/>
-    <published>2026-03-17T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Tristan Chiappisi to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Tristan-Chiappisi.jpg"]]>
-    </summary>
-    <title>Tristan Chiappisi at Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
+    <updated>2026-03-23T01:28:08.899Z</updated>
   </entry>
   <entry>
     <author>
@@ -156,7 +156,28 @@
 <img src="/images/speakers/2026/Barret-Blake.png"]]>
     </summary>
     <title>Barret Blake at Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
+    <updated>2026-03-23T01:28:08.899Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="data-engineering" scheme="https://stirtrek.com/tags/data-engineering/"/>
+    <category term="analytics" scheme="https://stirtrek.com/tags/analytics/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Tristan Chiappisi to Stir Trek 2026!</p><img src="/images/speakers/2026/Tristan-Chiappisi.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Tristan-Chiappisi-at-Stir-Trek-2026"><a href="#Tristan-Chiappisi-at-Stir-Trek-2026" class="headerlink" title="Tristan Chiappisi at Stir Trek 2026"></a>Tristan Chiappisi at Stir Trek 2026</h1><p><em>Principal Data Architect - Cetera</em></p><div style="clear:both;"></div><hr><h2 id="About-Tristan-Chiappisi"><a href="#About-Tristan-Chiappisi" class="headerlink" title="About Tristan Chiappisi"></a>About Tristan Chiappisi</h2><p>With over a decade and a half of programming and working with data, I have a passion for anything related to the subject. If it has something to do with technology, I’m in.</p><p>Beyond my professional realm, I’m a dad to a vibrant crew of young adventurers. Together, we seek out outdoor thrills, from skiing to biking, in my perpetual quest to earn the ‘cool dad’ badge.</p><hr><h2 id="Session-1-Caffeinate-Your-Queries-Brew-Up-Faster-SQL-with-Tuning"><a href="#Session-1-Caffeinate-Your-Queries-Brew-Up-Faster-SQL-with-Tuning" class="headerlink" title="Session 1: Caffeinate Your Queries: Brew Up Faster SQL with Tuning"></a>Session 1: Caffeinate Your Queries: Brew Up Faster SQL with Tuning</h2><p><strong>1 May 2026 09:30 AM</strong> | Back to the Future - Theatre 3 (1,2)<br><em>Track: Data Engineering &amp; Analytics</em></p><p>In this session, embark on an engaging exploration as we unravel the mysteries of query tuning. From deciphering sluggish queries to unleashing their full potential, we will explore advanced techniques for optimizing SQL performance. Discover the art of indexing, rewriting queries for efficiency, leveraging execution plans, and unearthing hidden bottlenecks. Whether you’re a seasoned developer or SQL enthusiast, you’ll leave armed with the skills to transform your queries from coffee-break slow to lightning-fast.</p><hr><h2 id="Session-2-Unlocking-Quantum-Computing-An-Overview"><a href="#Session-2-Unlocking-Quantum-Computing-An-Overview" class="headerlink" title="Session 2: Unlocking Quantum Computing: An Overview"></a>Session 2: Unlocking Quantum Computing: An Overview</h2><p><strong>1 May 2026 11:30 AM</strong> | The Matrix - Theatre 15 (10, 11)<br><em>Track: Other</em></p><p>Quantum computing is coming, but most of the explanations out there are either too academic or too hand-wavy to be useful. This talk is a practical overview for developers who want to understand what quantum computing actually is, why it matters, and where it’s headed. We’ll walk through the core concepts like superposition, entanglement, and interference without the math-heavy deep dive. You’ll see what quantum computers are good at, what they’re not, and how they might affect the systems and security decisions you make in the future. No physics background required. You’ll walk away with enough understanding to follow the conversation and recognize when quantum starts to matter for your work.</p><hr><h2 id="Connect-with-Tristan"><a href="#Connect-with-Tristan" class="headerlink" title="Connect with Tristan"></a>Connect with Tristan</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/tristanchiappisi/">https://www.linkedin.com/in/tristanchiappisi/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. With 2 sessions on the schedule, Tristan is bringing serious value to Stir Trek 2026 — don’t miss it!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/17/2026-03-17-Tristan_Chiappisi/</id>
+    <link href="https://stirtrek.com/2026/03/17/2026-03-17-Tristan_Chiappisi/"/>
+    <published>2026-03-17T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Tristan Chiappisi to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Tristan-Chiappisi.jpg"]]>
+    </summary>
+    <title>Tristan Chiappisi at Stir Trek 2026</title>
+    <updated>2026-03-23T01:28:08.899Z</updated>
   </entry>
   <entry>
     <author>
@@ -177,7 +198,7 @@
 <img src="/images/speakers/2026/Ardalis-..jpg"]]>
     </summary>
     <title>Ardalis . at Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
+    <updated>2026-03-23T01:28:08.899Z</updated>
   </entry>
   <entry>
     <author>
@@ -197,7 +218,7 @@
 <img src="/images/speakers/2026/Lance-Finney.jpg"]]>
     </summary>
     <title>Lance Finney at Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
+    <updated>2026-03-23T01:28:08.899Z</updated>
   </entry>
   <entry>
     <author>
@@ -218,7 +239,7 @@
 <img src="/images/speakers/2026/Jeff-McWherter.jpg"]]>
     </summary>
     <title>Jeff McWherter at Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
+    <updated>2026-03-23T01:28:08.899Z</updated>
   </entry>
   <entry>
     <author>
@@ -239,7 +260,7 @@
 <img src="/images/speakers/2026/Kevin-Grossnicklaus.jpg"]]>
     </summary>
     <title>Kevin Grossnicklaus at Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
+    <updated>2026-03-23T01:28:08.899Z</updated>
   </entry>
   <entry>
     <author>
@@ -260,7 +281,7 @@
 <img src="/images/speakers/2026/Christine-Miao.png"]]>
     </summary>
     <title>Christine Miao at Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
+    <updated>2026-03-23T01:28:08.899Z</updated>
   </entry>
   <entry>
     <author>
@@ -281,7 +302,7 @@
 <img src="/images/speakers/2026/Hazel-Bohon.jpg"]]>
     </summary>
     <title>Hazel Bohon at Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
+    <updated>2026-03-23T01:28:08.899Z</updated>
   </entry>
   <entry>
     <author>
@@ -299,7 +320,7 @@
       <![CDATA[<p>As a reminder, ticket prices increase as the event gets closer, so register early to save your spot and get the best price!]]>
     </summary>
     <title>Key Dates for Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
+    <updated>2026-03-23T01:28:08.899Z</updated>
   </entry>
   <entry>
     <author>
@@ -320,7 +341,7 @@
 <img src="/images/speakers/2026/Chris-DeMars.jpg"]]>
     </summary>
     <title>Chris DeMars at Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
+    <updated>2026-03-23T01:28:08.899Z</updated>
   </entry>
   <entry>
     <author>
@@ -341,7 +362,7 @@
 <img src="/images/speakers/2026/Jackie-Gleason.jpg"]]>
     </summary>
     <title>Jackie Gleason at Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
+    <updated>2026-03-23T01:28:08.899Z</updated>
   </entry>
   <entry>
     <author>
@@ -362,7 +383,7 @@
 <img src="/images/speakers/2026/Cory-House.jpg"]]>
     </summary>
     <title>Cory House at Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
+    <updated>2026-03-23T01:28:08.899Z</updated>
   </entry>
   <entry>
     <author>
@@ -382,7 +403,7 @@
 <img src="/images/speakers/2026/Roxy-Rodriguez-Becker.png"]]>
     </summary>
     <title>Roxy Rodriguez-Becker at Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
+    <updated>2026-03-23T01:28:08.899Z</updated>
   </entry>
   <entry>
     <author>
@@ -403,27 +424,6 @@
 <img src="/images/speakers/2026/Brian-McKeiver.jpg"]]>
     </summary>
     <title>Brian McKeiver at Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="product-design" scheme="https://stirtrek.com/tags/product-design/"/>
-    <category term="user-experience" scheme="https://stirtrek.com/tags/user-experience/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Kathryn Grayson Nanz to Stir Trek 2026!</p><img src="/images/speakers/2026/Kathryn-GraysonNanz.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Kathryn-Grayson-Nanz-at-Stir-Trek-2026"><a href="#Kathryn-Grayson-Nanz-at-Stir-Trek-2026" class="headerlink" title="Kathryn Grayson Nanz at Stir Trek 2026"></a>Kathryn Grayson Nanz at Stir Trek 2026</h1><p><em>UI Designer &amp; Front-end Developer</em></p><div style="clear:both;"></div><hr><h2 id="About-Kathryn-Grayson-Nanz"><a href="#About-Kathryn-Grayson-Nanz" class="headerlink" title="About Kathryn Grayson Nanz"></a>About Kathryn Grayson Nanz</h2><p>In 2013, I graduated with a BFA and took my first job as a Junior Graphic Designer at a small, boutique ad agency. While there, my Creative Director warned me to never let anyone find out I could code, because if I did I’d be stuck doing it forever. I ignored his warning; it turns out he was completely right, but I’ve never been happier. </p><p>I currently work as a developer advocate on a wonderful team where I help people build web applications in React, design and maintain their UI component libraries, and desperately attempt to stop back-end devs from writing any more CSS.</p><hr><h2 id="Session-1-How-to-Ruin-a-User-Interface-Surprisingly-Easy-Ways-to-Screw-Over-Your-Users"><a href="#Session-1-How-to-Ruin-a-User-Interface-Surprisingly-Easy-Ways-to-Screw-Over-Your-Users" class="headerlink" title="Session 1: How to Ruin a User Interface: Surprisingly Easy Ways to Screw Over Your Users"></a>Session 1: How to Ruin a User Interface: Surprisingly Easy Ways to Screw Over Your Users</h2><p><strong>1 May 2026 08:30 AM</strong> | The Matrix - Theatre 15 (10, 11)<br><em>Track: Product Design &amp; User Experience</em></p><p>Sure, when your boss signed the expense form for you to attend this conference, they thought you’d be bringing back new ideas about BETTER ways to do stuff – but honestly, isn’t that a little boring? What if we mixed it up a bit and instead discussed all the ways to make your UIs WORSE? </p><p>From dark patterns to bad designs, there are tons of shockingly easy ways that you might be unknowingly making your website or app experience more difficult – or even painful – for your users. In this session, we’ll talk through some of the most common, so that you can avoid them in the future…or, you know, intentionally include them, if you’re evil. With great power comes great responsibility.</p><hr><h2 id="Session-2-The-Life-Changing-Art-of-Being-Wrong"><a href="#Session-2-The-Life-Changing-Art-of-Being-Wrong" class="headerlink" title="Session 2: The Life-Changing Art of Being Wrong"></a>Session 2: The Life-Changing Art of Being Wrong</h2><p><strong>1 May 2026 02:00 PM</strong> | The Matrix - Theatre 15 (10, 11)<br><em>Track: Product Design &amp; User Experience</em></p><p>Even if it’s not intentional, there are a lot of assumptions we make about our users – everything from which devices they use to access our applications to what kinds of characters are included in their names. And guess what: our assumptions are usually wrong. Like…really wrong. Sometimes this creates laughable situations, but other times it causes a lot of unintentional harm. In this talk, we’ll discuss some of the most common (wrong) things that we, as developers, believe about our users and how we can shift our assumptions to create software that’s better for everyone.</p><hr><h2 id="Connect-with-Kathryn"><a href="#Connect-with-Kathryn" class="headerlink" title="Connect with Kathryn"></a>Connect with Kathryn</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kathryngrayson/">https://www.linkedin.com/in/kathryngrayson/</a></li><li><strong>Twitter&#x2F;X:</strong> @kathryngrayson</li><li><strong>Website:</strong> <a href="https://www.telerik.com/kendo-ui">https://www.telerik.com/kendo-ui</a></li><li><strong>Blog:</strong> <a href="http://kgrayson.com/">http://kgrayson.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. With 2 sessions on the schedule, Kathryn is bringing serious value to Stir Trek 2026 — don’t miss it!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/09/2026-03-09-Kathryn_Grayson_Nanz/</id>
-    <link href="https://stirtrek.com/2026/03/09/2026-03-09-Kathryn_Grayson_Nanz/"/>
-    <published>2026-03-09T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Kathryn Grayson Nanz to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Kathryn-GraysonNanz.jpg"]]>
-    </summary>
-    <title>Kathryn Grayson Nanz at Stir Trek 2026</title>
-    <updated>2026-03-22T20:18:52.856Z</updated>
+    <updated>2026-03-23T01:28:08.899Z</updated>
   </entry>
 </feed>

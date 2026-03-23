@@ -10,7 +10,7 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-03-23T08:46:49.640Z</updated>
+  <updated>2026-03-23T12:49:18.341Z</updated>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -30,7 +30,7 @@
 <img src="/images/speakers/2026/Guy-Royse.jpg"]]>
     </summary>
     <title>Guy Royse at Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
+    <updated>2026-03-23T12:49:18.341Z</updated>
   </entry>
   <entry>
     <author>
@@ -51,28 +51,7 @@
 <img src="/images/speakers/2026/Bill-Sempf.jpg"]]>
     </summary>
     <title>Bill Sempf at Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="software-quality" scheme="https://stirtrek.com/tags/software-quality/"/>
-    <category term="delivery" scheme="https://stirtrek.com/tags/delivery/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Matthew-Hope Eland to Stir Trek 2026!</p><img src="/images/speakers/2026/Matthew-Hope-Eland.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Matthew-Hope-Eland-at-Stir-Trek-2026"><a href="#Matthew-Hope-Eland-at-Stir-Trek-2026" class="headerlink" title="Matthew-Hope Eland at Stir Trek 2026"></a>Matthew-Hope Eland at Stir Trek 2026</h1><p><em>Wizard at Leading EDJE</em></p><div style="clear:both;"></div><hr><h2 id="About-Matthew-Hope-Eland"><a href="#About-Matthew-Hope-Eland" class="headerlink" title="About Matthew-Hope Eland"></a>About Matthew-Hope Eland</h2><p>An AI Specialist and Wizard at Leading EDJE who is known to teach software engineering, AI, and data science concepts in the most ridiculous ways possible. Matt has used machine learning to settle debates over whether Die Hard is a Christmas movie, reinforcement learning to drive the behavior of digital squirrels, data analytics to suggest improvements to his favorite TV show, and AI agents to play board games and create an AI agent with the personality of a dog. Matt is the author of “Data Science in .NET with Polyglot Notebooks” and “Refactoring with C#” as well as several LinkedIn Learning courses. Matt helps organize the Central Ohio .NET Developer Group, runs several blogs and a YouTube channel, has a Master’s of Science in Data Analytics, and is a current Microsoft MVP in AI and .NET.</p><hr><h2 id="Session-Ensuring-Software-Quality-in-the-world-of-AI-Developers"><a href="#Session-Ensuring-Software-Quality-in-the-world-of-AI-Developers" class="headerlink" title="Session: Ensuring Software Quality in the world of AI Developers"></a>Session: Ensuring Software Quality in the world of AI Developers</h2><p><strong>1 May 2026 10:30 AM</strong> | The Matrix - Theatre 15 (10, 11)<br><em>Track: Software Quality &amp; Delivery</em></p><p>Like it or not, AI agents are now capable of turning a quickly written paragraph of requirements into a pull request that is ready to be integrated into real-world production applications and it’s now our responsibility to make sure AI doesn’t go rogue and take down prod - or corrupt our data by misunderstanding the requirements or our existing schemas.</p><p>In this session we’ll explore strategies to protect our codebases through unit and integration testing, documentation, and code review along with additional ways of providing context and guard rails to our AI agents as they carry out the work we’ve assigned them to do.</p><p>By the time we’re done, you’ll have a firm grasp of the problem and understand some helpful options for protecting your codebase from vibe coding mishaps getting YOLOed into prod.</p><hr><h2 id="Connect-with-Matthew-Hope"><a href="#Connect-with-Matthew-Hope" class="headerlink" title="Connect with Matthew-Hope"></a>Connect with Matthew-Hope</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/matteland/">https://www.linkedin.com/in/matteland/</a></li><li><strong>Twitter&#x2F;X:</strong> @IntegerMan</li><li><strong>Website:</strong> <a href="https://leadingedje.com/">https://LeadingEDJE.com</a></li><li><strong>Blog:</strong> <a href="https://mattonml.net/">https://MattOnML.NET</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Matthew-Hope’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/19/2026-03-19-Matthew_Hope_Eland/</id>
-    <link href="https://stirtrek.com/2026/03/19/2026-03-19-Matthew_Hope_Eland/"/>
-    <published>2026-03-19T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Matthew-Hope Eland to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Matthew-Hope-Eland.png"]]>
-    </summary>
-    <title>Matthew-Hope Eland at Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
+    <updated>2026-03-23T12:49:18.341Z</updated>
   </entry>
   <entry>
     <author>
@@ -93,7 +72,28 @@
 <img src="/images/speakers/2026/Vitaliy-Matiyash.jpg"]]>
     </summary>
     <title>Vitaliy Matiyash at Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
+    <updated>2026-03-23T12:49:18.341Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="software-quality" scheme="https://stirtrek.com/tags/software-quality/"/>
+    <category term="delivery" scheme="https://stirtrek.com/tags/delivery/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Matthew-Hope Eland to Stir Trek 2026!</p><img src="/images/speakers/2026/Matthew-Hope-Eland.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Matthew-Hope-Eland-at-Stir-Trek-2026"><a href="#Matthew-Hope-Eland-at-Stir-Trek-2026" class="headerlink" title="Matthew-Hope Eland at Stir Trek 2026"></a>Matthew-Hope Eland at Stir Trek 2026</h1><p><em>Wizard at Leading EDJE</em></p><div style="clear:both;"></div><hr><h2 id="About-Matthew-Hope-Eland"><a href="#About-Matthew-Hope-Eland" class="headerlink" title="About Matthew-Hope Eland"></a>About Matthew-Hope Eland</h2><p>An AI Specialist and Wizard at Leading EDJE who is known to teach software engineering, AI, and data science concepts in the most ridiculous ways possible. Matt has used machine learning to settle debates over whether Die Hard is a Christmas movie, reinforcement learning to drive the behavior of digital squirrels, data analytics to suggest improvements to his favorite TV show, and AI agents to play board games and create an AI agent with the personality of a dog. Matt is the author of “Data Science in .NET with Polyglot Notebooks” and “Refactoring with C#” as well as several LinkedIn Learning courses. Matt helps organize the Central Ohio .NET Developer Group, runs several blogs and a YouTube channel, has a Master’s of Science in Data Analytics, and is a current Microsoft MVP in AI and .NET.</p><hr><h2 id="Session-Ensuring-Software-Quality-in-the-world-of-AI-Developers"><a href="#Session-Ensuring-Software-Quality-in-the-world-of-AI-Developers" class="headerlink" title="Session: Ensuring Software Quality in the world of AI Developers"></a>Session: Ensuring Software Quality in the world of AI Developers</h2><p><strong>1 May 2026 10:30 AM</strong> | The Matrix - Theatre 15 (10, 11)<br><em>Track: Software Quality &amp; Delivery</em></p><p>Like it or not, AI agents are now capable of turning a quickly written paragraph of requirements into a pull request that is ready to be integrated into real-world production applications and it’s now our responsibility to make sure AI doesn’t go rogue and take down prod - or corrupt our data by misunderstanding the requirements or our existing schemas.</p><p>In this session we’ll explore strategies to protect our codebases through unit and integration testing, documentation, and code review along with additional ways of providing context and guard rails to our AI agents as they carry out the work we’ve assigned them to do.</p><p>By the time we’re done, you’ll have a firm grasp of the problem and understand some helpful options for protecting your codebase from vibe coding mishaps getting YOLOed into prod.</p><hr><h2 id="Connect-with-Matthew-Hope"><a href="#Connect-with-Matthew-Hope" class="headerlink" title="Connect with Matthew-Hope"></a>Connect with Matthew-Hope</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/matteland/">https://www.linkedin.com/in/matteland/</a></li><li><strong>Twitter&#x2F;X:</strong> @IntegerMan</li><li><strong>Website:</strong> <a href="https://leadingedje.com/">https://LeadingEDJE.com</a></li><li><strong>Blog:</strong> <a href="https://mattonml.net/">https://MattOnML.NET</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Matthew-Hope’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/19/2026-03-19-Matthew_Hope_Eland/</id>
+    <link href="https://stirtrek.com/2026/03/19/2026-03-19-Matthew_Hope_Eland/"/>
+    <published>2026-03-19T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Matthew-Hope Eland to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Matthew-Hope-Eland.png"]]>
+    </summary>
+    <title>Matthew-Hope Eland at Stir Trek 2026</title>
+    <updated>2026-03-23T12:49:18.341Z</updated>
   </entry>
   <entry>
     <author>
@@ -114,7 +114,7 @@
 <img src="/images/speakers/2026/Samuel-Gomez.jpg"]]>
     </summary>
     <title>Samuel Gomez at Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
+    <updated>2026-03-23T12:49:18.340Z</updated>
   </entry>
   <entry>
     <author>
@@ -135,7 +135,7 @@
 <img src="/images/speakers/2026/Valarie-Regas.jpg"]]>
     </summary>
     <title>Valarie Regas at Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
+    <updated>2026-03-23T12:49:18.341Z</updated>
   </entry>
   <entry>
     <author>
@@ -156,7 +156,7 @@
 <img src="/images/speakers/2026/Barret-Blake.png"]]>
     </summary>
     <title>Barret Blake at Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
+    <updated>2026-03-23T12:49:18.340Z</updated>
   </entry>
   <entry>
     <author>
@@ -177,7 +177,7 @@
 <img src="/images/speakers/2026/Tristan-Chiappisi.jpg"]]>
     </summary>
     <title>Tristan Chiappisi at Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
+    <updated>2026-03-23T12:49:18.340Z</updated>
   </entry>
   <entry>
     <author>
@@ -198,7 +198,7 @@
 <img src="/images/speakers/2026/Ardalis-..jpg"]]>
     </summary>
     <title>Ardalis . at Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
+    <updated>2026-03-23T12:49:18.340Z</updated>
   </entry>
   <entry>
     <author>
@@ -218,7 +218,7 @@
 <img src="/images/speakers/2026/Lance-Finney.jpg"]]>
     </summary>
     <title>Lance Finney at Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
+    <updated>2026-03-23T12:49:18.340Z</updated>
   </entry>
   <entry>
     <author>
@@ -239,7 +239,7 @@
 <img src="/images/speakers/2026/Jeff-McWherter.jpg"]]>
     </summary>
     <title>Jeff McWherter at Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
+    <updated>2026-03-23T12:49:18.340Z</updated>
   </entry>
   <entry>
     <author>
@@ -260,28 +260,7 @@
 <img src="/images/speakers/2026/Kevin-Grossnicklaus.jpg"]]>
     </summary>
     <title>Kevin Grossnicklaus at Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="architecture" scheme="https://stirtrek.com/tags/architecture/"/>
-    <category term="platform-engineering" scheme="https://stirtrek.com/tags/platform-engineering/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Hazel Bohon to Stir Trek 2026!</p><img src="/images/speakers/2026/Hazel-Bohon.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Hazel-Bohon-at-Stir-Trek-2026"><a href="#Hazel-Bohon-at-Stir-Trek-2026" class="headerlink" title="Hazel Bohon at Stir Trek 2026"></a>Hazel Bohon at Stir Trek 2026</h1><p><em>Software Engineer @ Particular</em></p><div style="clear:both;"></div><hr><h2 id="About-Hazel-Bohon"><a href="#About-Hazel-Bohon" class="headerlink" title="About Hazel Bohon"></a>About Hazel Bohon</h2><p>Hazel is a software engineer and mom. When she’s not debugging code, you can find her down at the lake fishing with her kids.</p><hr><h2 id="Session-1-Microservices-for-Pragmatists"><a href="#Session-1-Microservices-for-Pragmatists" class="headerlink" title="Session 1: Microservices for Pragmatists"></a>Session 1: Microservices for Pragmatists</h2><p><strong>1 May 2026 08:30 AM</strong> | The Goonies - Theatre 16 (21)<br><em>Track: Architecture &amp; Platform Engineering</em></p><p>Microservices architecture is often perceived as a pattern primarily suited for large organizations operating at web scale. However, it is equally applicable to smaller to medium-sized applications for internal use or smaller-scale public deployments. The scalability benefits of microservices are one of the compelling reasons to consider this architectural pattern.</p><p>In this presentation, we will explore the advantages and trade-offs associated with microservices. You will gain insights into the architectural patterns of microservices from a practical perspective. Real-world software development scenarios often present unique constraints; this presentation will guide you in identifying the aspects of microservices that align with your project’s requirements while ensuring compliance with the constraints.</p><p>Learning objectives:</p><ul><li>Benefits of microservices for small&#x2F;medium scale deployments</li><li>Trade-offs associated with microservices</li><li>How to pragmatically apply microservice design principles for your projects</li></ul><hr><h2 id="Session-2-Boiling-The-Frog-Implementing-a-Modern-Message-Based-Architecture-Without-Anyone-Noticing"><a href="#Session-2-Boiling-The-Frog-Implementing-a-Modern-Message-Based-Architecture-Without-Anyone-Noticing" class="headerlink" title="Session 2: Boiling The Frog: Implementing a Modern Message Based Architecture Without Anyone Noticing"></a>Session 2: Boiling The Frog: Implementing a Modern Message Based Architecture Without Anyone Noticing</h2><p><strong>1 May 2026 02:00 PM</strong> | The Goonies - Theatre 16 (21)<br><em>Track: Architecture &amp; Platform Engineering</em></p><p>Organizations are resistant to change, but it may not be for the reasons you think. When it comes to modernizing an application, navigating corporate bureaucracy is often the largest hurdle. Coordinating across multiple departments can be cumbersome and time-consuming. Dev teams often get stuck in a cycle of “hurry up and wait”.</p><p>Most talks about modernization talk about the strangler fig pattern. In this session, we will go beyond strangler fig to discuss how you can leverage technical solutions to subtly but effectively overcome bureaucratic challenges.</p><p>By empowering your team to move the ball forward, get things done, and achieve as much progress as possible independently, you will have happier developers and happier stakeholders.</p><hr><h2 id="Connect-with-Hazel"><a href="#Connect-with-Hazel" class="headerlink" title="Connect with Hazel"></a>Connect with Hazel</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/hazel-bohon-b777759/">https://www.linkedin.com/in/hazel-bohon-b777759/</a></li><li><strong>Website:</strong> <a href="https://particular.net/">https://particular.net</a></li><li><strong>Blog:</strong> <a href="https://hazel.codes/">https://hazel.codes</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. With 2 sessions on the schedule, Hazel is bringing serious value to Stir Trek 2026 — don’t miss it!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/12/2026-03-12-Hazel_Bohon/</id>
-    <link href="https://stirtrek.com/2026/03/12/2026-03-12-Hazel_Bohon/"/>
-    <published>2026-03-12T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Hazel Bohon to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Hazel-Bohon.jpg"]]>
-    </summary>
-    <title>Hazel Bohon at Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
+    <updated>2026-03-23T12:49:18.340Z</updated>
   </entry>
   <entry>
     <author>
@@ -302,7 +281,28 @@
 <img src="/images/speakers/2026/Christine-Miao.png"]]>
     </summary>
     <title>Christine Miao at Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
+    <updated>2026-03-23T12:49:18.340Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="architecture" scheme="https://stirtrek.com/tags/architecture/"/>
+    <category term="platform-engineering" scheme="https://stirtrek.com/tags/platform-engineering/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Hazel Bohon to Stir Trek 2026!</p><img src="/images/speakers/2026/Hazel-Bohon.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Hazel-Bohon-at-Stir-Trek-2026"><a href="#Hazel-Bohon-at-Stir-Trek-2026" class="headerlink" title="Hazel Bohon at Stir Trek 2026"></a>Hazel Bohon at Stir Trek 2026</h1><p><em>Software Engineer @ Particular</em></p><div style="clear:both;"></div><hr><h2 id="About-Hazel-Bohon"><a href="#About-Hazel-Bohon" class="headerlink" title="About Hazel Bohon"></a>About Hazel Bohon</h2><p>Hazel is a software engineer and mom. When she’s not debugging code, you can find her down at the lake fishing with her kids.</p><hr><h2 id="Session-1-Microservices-for-Pragmatists"><a href="#Session-1-Microservices-for-Pragmatists" class="headerlink" title="Session 1: Microservices for Pragmatists"></a>Session 1: Microservices for Pragmatists</h2><p><strong>1 May 2026 08:30 AM</strong> | The Goonies - Theatre 16 (21)<br><em>Track: Architecture &amp; Platform Engineering</em></p><p>Microservices architecture is often perceived as a pattern primarily suited for large organizations operating at web scale. However, it is equally applicable to smaller to medium-sized applications for internal use or smaller-scale public deployments. The scalability benefits of microservices are one of the compelling reasons to consider this architectural pattern.</p><p>In this presentation, we will explore the advantages and trade-offs associated with microservices. You will gain insights into the architectural patterns of microservices from a practical perspective. Real-world software development scenarios often present unique constraints; this presentation will guide you in identifying the aspects of microservices that align with your project’s requirements while ensuring compliance with the constraints.</p><p>Learning objectives:</p><ul><li>Benefits of microservices for small&#x2F;medium scale deployments</li><li>Trade-offs associated with microservices</li><li>How to pragmatically apply microservice design principles for your projects</li></ul><hr><h2 id="Session-2-Boiling-The-Frog-Implementing-a-Modern-Message-Based-Architecture-Without-Anyone-Noticing"><a href="#Session-2-Boiling-The-Frog-Implementing-a-Modern-Message-Based-Architecture-Without-Anyone-Noticing" class="headerlink" title="Session 2: Boiling The Frog: Implementing a Modern Message Based Architecture Without Anyone Noticing"></a>Session 2: Boiling The Frog: Implementing a Modern Message Based Architecture Without Anyone Noticing</h2><p><strong>1 May 2026 02:00 PM</strong> | The Goonies - Theatre 16 (21)<br><em>Track: Architecture &amp; Platform Engineering</em></p><p>Organizations are resistant to change, but it may not be for the reasons you think. When it comes to modernizing an application, navigating corporate bureaucracy is often the largest hurdle. Coordinating across multiple departments can be cumbersome and time-consuming. Dev teams often get stuck in a cycle of “hurry up and wait”.</p><p>Most talks about modernization talk about the strangler fig pattern. In this session, we will go beyond strangler fig to discuss how you can leverage technical solutions to subtly but effectively overcome bureaucratic challenges.</p><p>By empowering your team to move the ball forward, get things done, and achieve as much progress as possible independently, you will have happier developers and happier stakeholders.</p><hr><h2 id="Connect-with-Hazel"><a href="#Connect-with-Hazel" class="headerlink" title="Connect with Hazel"></a>Connect with Hazel</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/hazel-bohon-b777759/">https://www.linkedin.com/in/hazel-bohon-b777759/</a></li><li><strong>Website:</strong> <a href="https://particular.net/">https://particular.net</a></li><li><strong>Blog:</strong> <a href="https://hazel.codes/">https://hazel.codes</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. With 2 sessions on the schedule, Hazel is bringing serious value to Stir Trek 2026 — don’t miss it!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/12/2026-03-12-Hazel_Bohon/</id>
+    <link href="https://stirtrek.com/2026/03/12/2026-03-12-Hazel_Bohon/"/>
+    <published>2026-03-12T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Hazel Bohon to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Hazel-Bohon.jpg"]]>
+    </summary>
+    <title>Hazel Bohon at Stir Trek 2026</title>
+    <updated>2026-03-23T12:49:18.340Z</updated>
   </entry>
   <entry>
     <author>
@@ -320,7 +320,7 @@
       <![CDATA[<p>As a reminder, ticket prices increase as the event gets closer, so register early to save your spot and get the best price!]]>
     </summary>
     <title>Key Dates for Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
+    <updated>2026-03-23T12:49:18.340Z</updated>
   </entry>
   <entry>
     <author>
@@ -341,7 +341,7 @@
 <img src="/images/speakers/2026/Chris-DeMars.jpg"]]>
     </summary>
     <title>Chris DeMars at Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
+    <updated>2026-03-23T12:49:18.340Z</updated>
   </entry>
   <entry>
     <author>
@@ -362,7 +362,7 @@
 <img src="/images/speakers/2026/Jackie-Gleason.jpg"]]>
     </summary>
     <title>Jackie Gleason at Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
+    <updated>2026-03-23T12:49:18.340Z</updated>
   </entry>
   <entry>
     <author>
@@ -383,7 +383,7 @@
 <img src="/images/speakers/2026/Cory-House.jpg"]]>
     </summary>
     <title>Cory House at Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
+    <updated>2026-03-23T12:49:18.340Z</updated>
   </entry>
   <entry>
     <author>
@@ -403,7 +403,7 @@
 <img src="/images/speakers/2026/Roxy-Rodriguez-Becker.png"]]>
     </summary>
     <title>Roxy Rodriguez-Becker at Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
+    <updated>2026-03-23T12:49:18.340Z</updated>
   </entry>
   <entry>
     <author>
@@ -424,6 +424,6 @@
 <img src="/images/speakers/2026/Brian-McKeiver.jpg"]]>
     </summary>
     <title>Brian McKeiver at Stir Trek 2026</title>
-    <updated>2026-03-23T08:46:49.640Z</updated>
+    <updated>2026-03-23T12:49:18.340Z</updated>
   </entry>
 </feed>

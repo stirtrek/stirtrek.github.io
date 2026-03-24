@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1774384488180';
+var CACHE = 'network-or-cache-1774386730335';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -24,9 +24,9 @@ self.addEventListener('fetch', function(evt) {
   function precache() {
     return caches.open(CACHE).then(function (cache) {
         return cache.addAll([
-            "/",
+            "/manifest.json",
+"/",
 "/index.html",
-"/manifest.json",
 "/404.html",
 "/blog/",
 "/blog/index.html",
@@ -39,16 +39,16 @@ self.addEventListener('fetch', function(evt) {
 "/scripts/bootstrap.js",
 "/scripts/bootstrap.min.js",
 "/scripts/jquery-3.3.0.js",
-"/scripts/jquery-3.3.1.js",
 "/scripts/jquery-3.3.1.min.js",
+"/scripts/jquery-3.3.1.js",
 "/scripts/jquery.js",
 "/scripts/luxon.min.js",
 "/sessions/",
 "/sessions/index.html",
 "/speakers/2018.html",
+"/speakers/2020.html",
 "/speakers/2019.html",
 "/speakers/2021.html",
-"/speakers/2020.html",
 "/speakers/2022.html",
 "/speakers/2023.html",
 "/speakers/2024.html",
@@ -76,6 +76,8 @@ self.addEventListener('fetch', function(evt) {
 "/workshops/index.html",
 "/info/codeofconduct/",
 "/info/codeofconduct/index.html",
+"/info/antiharassmentpolicy/",
+"/info/antiharassmentpolicy/index.html",
 "/info/commitmenttodiversity/",
 "/info/commitmenttodiversity/index.html",
 "/info/contact/",
@@ -89,12 +91,10 @@ self.addEventListener('fetch', function(evt) {
 "/info/privacy/index.html",
 "/info/travel/",
 "/info/travel/index.html",
-"/info/antiharassmentpolicy/",
-"/info/antiharassmentpolicy/index.html",
 "/images/speakers/2022/Readme.html",
-"/styles/fontawesome-6/css/all.css",
-"/styles/fontawesome-6/css/all.min.css",
 "/styles/fontawesome-6/css/brands.css",
+"/styles/fontawesome-6/css/all.min.css",
+"/styles/fontawesome-6/css/all.css",
 "/styles/fontawesome-6/css/brands.min.css",
 "/styles/fontawesome-6/css/fontawesome.css",
 "/styles/fontawesome-6/css/fontawesome.min.css",
@@ -103,13 +103,13 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/solid.css",
 "/styles/fontawesome-6/css/solid.min.css",
 "/styles/fontawesome-6/css/svg-with-js.min.css",
-"/styles/fontawesome-6/css/v4-font-face.css",
-"/styles/fontawesome-6/css/svg-with-js.css",
 "/styles/fontawesome-6/css/v4-font-face.min.css",
+"/styles/fontawesome-6/css/v4-font-face.css",
 "/styles/fontawesome-6/css/v4-shims.css",
-"/styles/fontawesome-6/css/v5-font-face.css",
+"/styles/fontawesome-6/css/svg-with-js.css",
 "/styles/fontawesome-6/css/v4-shims.min.css",
 "/styles/fontawesome-6/css/v5-font-face.min.css",
+"/styles/fontawesome-6/css/v5-font-face.css",
 "/2026/02/25/2026-02-25-A-Puzzle-to-Solve/",
 "/2026/02/26/2026-02-26-Speakers-and-Sessions/",
 "/2026/03/09/2026-03-09-Brian_McKeiver/",

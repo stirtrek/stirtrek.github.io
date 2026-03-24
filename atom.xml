@@ -10,7 +10,7 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-03-24T01:22:15.594Z</updated>
+  <updated>2026-03-24T05:20:46.863Z</updated>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -30,7 +30,7 @@
 <img src="/images/speakers/2026/Andrew-May.jpg"]]>
     </summary>
     <title>Andrew May at Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
+    <updated>2026-03-24T05:20:46.863Z</updated>
   </entry>
   <entry>
     <author>
@@ -51,7 +51,7 @@
 <img src="/images/speakers/2026/Guy-Royse.jpg"]]>
     </summary>
     <title>Guy Royse at Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
+    <updated>2026-03-24T05:20:46.863Z</updated>
   </entry>
   <entry>
     <author>
@@ -72,28 +72,7 @@
 <img src="/images/speakers/2026/Bill-Sempf.jpg"]]>
     </summary>
     <title>Bill Sempf at Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="software-quality" scheme="https://stirtrek.com/tags/software-quality/"/>
-    <category term="delivery" scheme="https://stirtrek.com/tags/delivery/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Matthew-Hope Eland to Stir Trek 2026!</p><img src="/images/speakers/2026/Matthew-Hope-Eland.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Matthew-Hope-Eland-at-Stir-Trek-2026"><a href="#Matthew-Hope-Eland-at-Stir-Trek-2026" class="headerlink" title="Matthew-Hope Eland at Stir Trek 2026"></a>Matthew-Hope Eland at Stir Trek 2026</h1><p><em>Wizard at Leading EDJE</em></p><div style="clear:both;"></div><hr><h2 id="About-Matthew-Hope-Eland"><a href="#About-Matthew-Hope-Eland" class="headerlink" title="About Matthew-Hope Eland"></a>About Matthew-Hope Eland</h2><p>An AI Specialist and Wizard at Leading EDJE who is known to teach software engineering, AI, and data science concepts in the most ridiculous ways possible. Matt has used machine learning to settle debates over whether Die Hard is a Christmas movie, reinforcement learning to drive the behavior of digital squirrels, data analytics to suggest improvements to his favorite TV show, and AI agents to play board games and create an AI agent with the personality of a dog. Matt is the author of “Data Science in .NET with Polyglot Notebooks” and “Refactoring with C#” as well as several LinkedIn Learning courses. Matt helps organize the Central Ohio .NET Developer Group, runs several blogs and a YouTube channel, has a Master’s of Science in Data Analytics, and is a current Microsoft MVP in AI and .NET.</p><hr><h2 id="Session-Ensuring-Software-Quality-in-the-world-of-AI-Developers"><a href="#Session-Ensuring-Software-Quality-in-the-world-of-AI-Developers" class="headerlink" title="Session: Ensuring Software Quality in the world of AI Developers"></a>Session: Ensuring Software Quality in the world of AI Developers</h2><p><strong>1 May 2026 10:30 AM</strong> | The Matrix - Theatre 15 (10, 11)<br><em>Track: Software Quality &amp; Delivery</em></p><p>Like it or not, AI agents are now capable of turning a quickly written paragraph of requirements into a pull request that is ready to be integrated into real-world production applications and it’s now our responsibility to make sure AI doesn’t go rogue and take down prod - or corrupt our data by misunderstanding the requirements or our existing schemas.</p><p>In this session we’ll explore strategies to protect our codebases through unit and integration testing, documentation, and code review along with additional ways of providing context and guard rails to our AI agents as they carry out the work we’ve assigned them to do.</p><p>By the time we’re done, you’ll have a firm grasp of the problem and understand some helpful options for protecting your codebase from vibe coding mishaps getting YOLOed into prod.</p><hr><h2 id="Connect-with-Matthew-Hope"><a href="#Connect-with-Matthew-Hope" class="headerlink" title="Connect with Matthew-Hope"></a>Connect with Matthew-Hope</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/matteland/">https://www.linkedin.com/in/matteland/</a></li><li><strong>Twitter&#x2F;X:</strong> @IntegerMan</li><li><strong>Website:</strong> <a href="https://leadingedje.com/">https://LeadingEDJE.com</a></li><li><strong>Blog:</strong> <a href="https://mattonml.net/">https://MattOnML.NET</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Matthew-Hope’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/19/2026-03-19-Matthew_Hope_Eland/</id>
-    <link href="https://stirtrek.com/2026/03/19/2026-03-19-Matthew_Hope_Eland/"/>
-    <published>2026-03-19T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Matthew-Hope Eland to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Matthew-Hope-Eland.png"]]>
-    </summary>
-    <title>Matthew-Hope Eland at Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
+    <updated>2026-03-24T05:20:46.863Z</updated>
   </entry>
   <entry>
     <author>
@@ -114,7 +93,7 @@
 <img src="/images/speakers/2026/Vitaliy-Matiyash.jpg"]]>
     </summary>
     <title>Vitaliy Matiyash at Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
+    <updated>2026-03-24T05:20:46.863Z</updated>
   </entry>
   <entry>
     <author>
@@ -122,20 +101,20 @@
     </author>
     <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
     <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="artificial-intelligence" scheme="https://stirtrek.com/tags/artificial-intelligence/"/>
-    <category term="machine-learning" scheme="https://stirtrek.com/tags/machine-learning/"/>
+    <category term="software-quality" scheme="https://stirtrek.com/tags/software-quality/"/>
+    <category term="delivery" scheme="https://stirtrek.com/tags/delivery/"/>
     <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Samuel Gomez to Stir Trek 2026!</p><img src="/images/speakers/2026/Samuel-Gomez.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Samuel-Gomez-at-Stir-Trek-2026"><a href="#Samuel-Gomez-at-Stir-Trek-2026" class="headerlink" title="Samuel Gomez at Stir Trek 2026"></a>Samuel Gomez at Stir Trek 2026</h1><p><em>Microsoft MVP and Head of AI at Geneca</em></p><div style="clear:both;"></div><hr><h2 id="About-Samuel-Gomez"><a href="#About-Samuel-Gomez" class="headerlink" title="About Samuel Gomez"></a>About Samuel Gomez</h2><p>I’ve worked in software development for 15+ years (mostly Microsoft technologies) and love the problem solving aspect of the work. In recent years I have become very passionate about AI and machine learning technologies and how they can be applied to different aspects of our lives. When not coding I enjoy spending time with my family, soccer (watching, playing, and coaching), playing videogames and watching movies.</p><hr><h2 id="Session-Mission-AI-Possible-–-Taming-your-AI-agent-swarms"><a href="#Session-Mission-AI-Possible-–-Taming-your-AI-agent-swarms" class="headerlink" title="Session: Mission: AI Possible – Taming your AI agent swarms"></a>Session: Mission: AI Possible – Taming your AI agent swarms</h2><p><strong>1 May 2026 09:30 AM</strong> | The Last Starfighter - Theatre 14 (12,13)<br><em>Track: Artificial Intelligence &amp; Machine Learning</em></p><p>As organizations implement AI systems, they often encounter tasks too complex for a single agent—making multi-agent architectures vital. For example, hospitals rely on specialized agents for medical imaging, scheduling, and insurance coordination; travel platforms use agents to book flights, find hotels, and suggest activities; retailers automate inventory, supply chain, and CRM through multiple integrated agents; and software teams decompose projects across coding, testing, and documentation agents. In these scenarios, successful orchestration ensures agents communicate, delegate, and collaborate effectively, always staying aligned with organizational goals.</p><p>In this talk, we will explore how Microsoft Agent Framework provides a robust foundation for building and orchestrating multiagent systems that are secure, extensible, and production ready. We will review the best practices and architecture patterns required to implement different orchestration workflows (for example: Sequential, concurrent and handoff) as well as the unique challenges presented by each of them.</p><p>By the end of the session, participants will understand how to apply different orchestration workflows to build scalable, collaborative AI systems that leverage multiple agents to deliver higher accuracy, resilience, and automation across different scenarios.</p><hr><h2 id="Connect-with-Samuel"><a href="#Connect-with-Samuel" class="headerlink" title="Connect with Samuel"></a>Connect with Samuel</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/samueljgomez/">https://www.linkedin.com/in/samueljgomez/</a></li><li><strong>Twitter&#x2F;X:</strong> @thesoccerdev</li><li><strong>Website:</strong> <a href="https://geneca.com/">https://geneca.com/</a></li><li><strong>Blog:</strong> <a href="https://www.thesoccerdev.com/">https://www.thesoccerdev.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Samuel’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Matthew-Hope Eland to Stir Trek 2026!</p><img src="/images/speakers/2026/Matthew-Hope-Eland.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Matthew-Hope-Eland-at-Stir-Trek-2026"><a href="#Matthew-Hope-Eland-at-Stir-Trek-2026" class="headerlink" title="Matthew-Hope Eland at Stir Trek 2026"></a>Matthew-Hope Eland at Stir Trek 2026</h1><p><em>Wizard at Leading EDJE</em></p><div style="clear:both;"></div><hr><h2 id="About-Matthew-Hope-Eland"><a href="#About-Matthew-Hope-Eland" class="headerlink" title="About Matthew-Hope Eland"></a>About Matthew-Hope Eland</h2><p>An AI Specialist and Wizard at Leading EDJE who is known to teach software engineering, AI, and data science concepts in the most ridiculous ways possible. Matt has used machine learning to settle debates over whether Die Hard is a Christmas movie, reinforcement learning to drive the behavior of digital squirrels, data analytics to suggest improvements to his favorite TV show, and AI agents to play board games and create an AI agent with the personality of a dog. Matt is the author of “Data Science in .NET with Polyglot Notebooks” and “Refactoring with C#” as well as several LinkedIn Learning courses. Matt helps organize the Central Ohio .NET Developer Group, runs several blogs and a YouTube channel, has a Master’s of Science in Data Analytics, and is a current Microsoft MVP in AI and .NET.</p><hr><h2 id="Session-Ensuring-Software-Quality-in-the-world-of-AI-Developers"><a href="#Session-Ensuring-Software-Quality-in-the-world-of-AI-Developers" class="headerlink" title="Session: Ensuring Software Quality in the world of AI Developers"></a>Session: Ensuring Software Quality in the world of AI Developers</h2><p><strong>1 May 2026 10:30 AM</strong> | The Matrix - Theatre 15 (10, 11)<br><em>Track: Software Quality &amp; Delivery</em></p><p>Like it or not, AI agents are now capable of turning a quickly written paragraph of requirements into a pull request that is ready to be integrated into real-world production applications and it’s now our responsibility to make sure AI doesn’t go rogue and take down prod - or corrupt our data by misunderstanding the requirements or our existing schemas.</p><p>In this session we’ll explore strategies to protect our codebases through unit and integration testing, documentation, and code review along with additional ways of providing context and guard rails to our AI agents as they carry out the work we’ve assigned them to do.</p><p>By the time we’re done, you’ll have a firm grasp of the problem and understand some helpful options for protecting your codebase from vibe coding mishaps getting YOLOed into prod.</p><hr><h2 id="Connect-with-Matthew-Hope"><a href="#Connect-with-Matthew-Hope" class="headerlink" title="Connect with Matthew-Hope"></a>Connect with Matthew-Hope</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/matteland/">https://www.linkedin.com/in/matteland/</a></li><li><strong>Twitter&#x2F;X:</strong> @IntegerMan</li><li><strong>Website:</strong> <a href="https://leadingedje.com/">https://LeadingEDJE.com</a></li><li><strong>Blog:</strong> <a href="https://mattonml.net/">https://MattOnML.NET</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Matthew-Hope’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
     </content>
-    <id>https://stirtrek.com/2026/03/18/2026-03-18-Samuel_Gomez/</id>
-    <link href="https://stirtrek.com/2026/03/18/2026-03-18-Samuel_Gomez/"/>
-    <published>2026-03-18T00:00:00.000Z</published>
+    <id>https://stirtrek.com/2026/03/19/2026-03-19-Matthew_Hope_Eland/</id>
+    <link href="https://stirtrek.com/2026/03/19/2026-03-19-Matthew_Hope_Eland/"/>
+    <published>2026-03-19T00:00:00.000Z</published>
     <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Samuel Gomez to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Samuel-Gomez.jpg"]]>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Matthew-Hope Eland to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Matthew-Hope-Eland.png"]]>
     </summary>
-    <title>Samuel Gomez at Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
+    <title>Matthew-Hope Eland at Stir Trek 2026</title>
+    <updated>2026-03-24T05:20:46.863Z</updated>
   </entry>
   <entry>
     <author>
@@ -156,7 +135,28 @@
 <img src="/images/speakers/2026/Valarie-Regas.jpg"]]>
     </summary>
     <title>Valarie Regas at Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
+    <updated>2026-03-24T05:20:46.863Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="artificial-intelligence" scheme="https://stirtrek.com/tags/artificial-intelligence/"/>
+    <category term="machine-learning" scheme="https://stirtrek.com/tags/machine-learning/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Samuel Gomez to Stir Trek 2026!</p><img src="/images/speakers/2026/Samuel-Gomez.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Samuel-Gomez-at-Stir-Trek-2026"><a href="#Samuel-Gomez-at-Stir-Trek-2026" class="headerlink" title="Samuel Gomez at Stir Trek 2026"></a>Samuel Gomez at Stir Trek 2026</h1><p><em>Microsoft MVP and Head of AI at Geneca</em></p><div style="clear:both;"></div><hr><h2 id="About-Samuel-Gomez"><a href="#About-Samuel-Gomez" class="headerlink" title="About Samuel Gomez"></a>About Samuel Gomez</h2><p>I’ve worked in software development for 15+ years (mostly Microsoft technologies) and love the problem solving aspect of the work. In recent years I have become very passionate about AI and machine learning technologies and how they can be applied to different aspects of our lives. When not coding I enjoy spending time with my family, soccer (watching, playing, and coaching), playing videogames and watching movies.</p><hr><h2 id="Session-Mission-AI-Possible-–-Taming-your-AI-agent-swarms"><a href="#Session-Mission-AI-Possible-–-Taming-your-AI-agent-swarms" class="headerlink" title="Session: Mission: AI Possible – Taming your AI agent swarms"></a>Session: Mission: AI Possible – Taming your AI agent swarms</h2><p><strong>1 May 2026 09:30 AM</strong> | The Last Starfighter - Theatre 14 (12,13)<br><em>Track: Artificial Intelligence &amp; Machine Learning</em></p><p>As organizations implement AI systems, they often encounter tasks too complex for a single agent—making multi-agent architectures vital. For example, hospitals rely on specialized agents for medical imaging, scheduling, and insurance coordination; travel platforms use agents to book flights, find hotels, and suggest activities; retailers automate inventory, supply chain, and CRM through multiple integrated agents; and software teams decompose projects across coding, testing, and documentation agents. In these scenarios, successful orchestration ensures agents communicate, delegate, and collaborate effectively, always staying aligned with organizational goals.</p><p>In this talk, we will explore how Microsoft Agent Framework provides a robust foundation for building and orchestrating multiagent systems that are secure, extensible, and production ready. We will review the best practices and architecture patterns required to implement different orchestration workflows (for example: Sequential, concurrent and handoff) as well as the unique challenges presented by each of them.</p><p>By the end of the session, participants will understand how to apply different orchestration workflows to build scalable, collaborative AI systems that leverage multiple agents to deliver higher accuracy, resilience, and automation across different scenarios.</p><hr><h2 id="Connect-with-Samuel"><a href="#Connect-with-Samuel" class="headerlink" title="Connect with Samuel"></a>Connect with Samuel</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/samueljgomez/">https://www.linkedin.com/in/samueljgomez/</a></li><li><strong>Twitter&#x2F;X:</strong> @thesoccerdev</li><li><strong>Website:</strong> <a href="https://geneca.com/">https://geneca.com/</a></li><li><strong>Blog:</strong> <a href="https://www.thesoccerdev.com/">https://www.thesoccerdev.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Samuel’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/18/2026-03-18-Samuel_Gomez/</id>
+    <link href="https://stirtrek.com/2026/03/18/2026-03-18-Samuel_Gomez/"/>
+    <published>2026-03-18T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Samuel Gomez to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Samuel-Gomez.jpg"]]>
+    </summary>
+    <title>Samuel Gomez at Stir Trek 2026</title>
+    <updated>2026-03-24T05:20:46.863Z</updated>
   </entry>
   <entry>
     <author>
@@ -177,7 +177,7 @@
 <img src="/images/speakers/2026/Barret-Blake.png"]]>
     </summary>
     <title>Barret Blake at Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
+    <updated>2026-03-24T05:20:46.863Z</updated>
   </entry>
   <entry>
     <author>
@@ -198,7 +198,27 @@
 <img src="/images/speakers/2026/Tristan-Chiappisi.jpg"]]>
     </summary>
     <title>Tristan Chiappisi at Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
+    <updated>2026-03-24T05:20:46.863Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="application-development" scheme="https://stirtrek.com/tags/application-development/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Lance Finney to Stir Trek 2026!</p><img src="/images/speakers/2026/Lance-Finney.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Lance-Finney-at-Stir-Trek-2026"><a href="#Lance-Finney-at-Stir-Trek-2026" class="headerlink" title="Lance Finney at Stir Trek 2026"></a>Lance Finney at Stir Trek 2026</h1><p><em>Angular Developer and Instructor</em></p><div style="clear:both;"></div><hr><h2 id="About-Lance-Finney"><a href="#About-Lance-Finney" class="headerlink" title="About Lance Finney"></a>About Lance Finney</h2><p>After more than a decade focused on the Java desktop world, I’ve been in the Angular&#x2F;JavaScript&#x2F;TypeScript space since 2014.</p><p>As an Angular Google Developer Expert, I develop Angular projects and mentor junior Angular developers on my projects, and I used to be an instructor with Angular Boot Camp. Father of two, software developer, and world traveler (when I can sneak it in).</p><hr><h2 id="Session-Comparing-Promises-Observables-and-Signals"><a href="#Session-Comparing-Promises-Observables-and-Signals" class="headerlink" title="Session: Comparing Promises, Observables, and Signals"></a>Session: Comparing Promises, Observables, and Signals</h2><p><strong>1 May 2026 09:30 AM</strong> | Galaxy Quest - Theatre 27 (23,24,25,26)<br><em>Track: Application Development</em></p><p>Since JavaScript is single threaded, special techniques are necessary for asynchronous and reactive programming.</p><p>Promises were introduced a few years ago to enable asynchronous programming without the dreaded “callback hell”. They are a very powerful tool, especially with the async&#x2F;await syntactic sugar.</p><p>But limitations in promises opened the door to observables and their associated operator functions. They are much more powerful than promises overall, but can also be much more confusing.</p><p>Signals are yet another approach, one that has gained a lot of attention since Angular adopted them in 2023, but it solves completely different problems.</p><p>Now we have three different reactive primitives. Why? What’s the difference between them? Why would you choose one over the other? Or will they all have complementary roles in a modern JavaScript&#x2F;TypeScript application?</p><p>Come to this session to get the answers to these questions, and more!</p><hr><h2 id="Connect-with-Lance"><a href="#Connect-with-Lance" class="headerlink" title="Connect with Lance"></a>Connect with Lance</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lmfinney/">https://www.linkedin.com/in/lmfinney/</a></li><li><strong>Twitter&#x2F;X:</strong> @LMFinneyCoder</li><li><strong>Website:</strong> <a href="https://www.inficon.com/en">https://www.inficon.com/en</a></li><li><strong>Blog:</strong> <a href="https://lmfinney.wordpress.com/">https://lmfinney.wordpress.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Lance’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/16/2026-03-16-Lance_Finney/</id>
+    <link href="https://stirtrek.com/2026/03/16/2026-03-16-Lance_Finney/"/>
+    <published>2026-03-16T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Lance Finney to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Lance-Finney.jpg"]]>
+    </summary>
+    <title>Lance Finney at Stir Trek 2026</title>
+    <updated>2026-03-24T05:20:46.863Z</updated>
   </entry>
   <entry>
     <author>
@@ -219,27 +239,7 @@
 <img src="/images/speakers/2026/Ardalis-..jpg"]]>
     </summary>
     <title>Ardalis . at Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="application-development" scheme="https://stirtrek.com/tags/application-development/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Lance Finney to Stir Trek 2026!</p><img src="/images/speakers/2026/Lance-Finney.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Lance-Finney-at-Stir-Trek-2026"><a href="#Lance-Finney-at-Stir-Trek-2026" class="headerlink" title="Lance Finney at Stir Trek 2026"></a>Lance Finney at Stir Trek 2026</h1><p><em>Angular Developer and Instructor</em></p><div style="clear:both;"></div><hr><h2 id="About-Lance-Finney"><a href="#About-Lance-Finney" class="headerlink" title="About Lance Finney"></a>About Lance Finney</h2><p>After more than a decade focused on the Java desktop world, I’ve been in the Angular&#x2F;JavaScript&#x2F;TypeScript space since 2014.</p><p>As an Angular Google Developer Expert, I develop Angular projects and mentor junior Angular developers on my projects, and I used to be an instructor with Angular Boot Camp. Father of two, software developer, and world traveler (when I can sneak it in).</p><hr><h2 id="Session-Comparing-Promises-Observables-and-Signals"><a href="#Session-Comparing-Promises-Observables-and-Signals" class="headerlink" title="Session: Comparing Promises, Observables, and Signals"></a>Session: Comparing Promises, Observables, and Signals</h2><p><strong>1 May 2026 09:30 AM</strong> | Galaxy Quest - Theatre 27 (23,24,25,26)<br><em>Track: Application Development</em></p><p>Since JavaScript is single threaded, special techniques are necessary for asynchronous and reactive programming.</p><p>Promises were introduced a few years ago to enable asynchronous programming without the dreaded “callback hell”. They are a very powerful tool, especially with the async&#x2F;await syntactic sugar.</p><p>But limitations in promises opened the door to observables and their associated operator functions. They are much more powerful than promises overall, but can also be much more confusing.</p><p>Signals are yet another approach, one that has gained a lot of attention since Angular adopted them in 2023, but it solves completely different problems.</p><p>Now we have three different reactive primitives. Why? What’s the difference between them? Why would you choose one over the other? Or will they all have complementary roles in a modern JavaScript&#x2F;TypeScript application?</p><p>Come to this session to get the answers to these questions, and more!</p><hr><h2 id="Connect-with-Lance"><a href="#Connect-with-Lance" class="headerlink" title="Connect with Lance"></a>Connect with Lance</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lmfinney/">https://www.linkedin.com/in/lmfinney/</a></li><li><strong>Twitter&#x2F;X:</strong> @LMFinneyCoder</li><li><strong>Website:</strong> <a href="https://www.inficon.com/en">https://www.inficon.com/en</a></li><li><strong>Blog:</strong> <a href="https://lmfinney.wordpress.com/">https://lmfinney.wordpress.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Lance’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/16/2026-03-16-Lance_Finney/</id>
-    <link href="https://stirtrek.com/2026/03/16/2026-03-16-Lance_Finney/"/>
-    <published>2026-03-16T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Lance Finney to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Lance-Finney.jpg"]]>
-    </summary>
-    <title>Lance Finney at Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
+    <updated>2026-03-24T05:20:46.863Z</updated>
   </entry>
   <entry>
     <author>
@@ -260,7 +260,7 @@
 <img src="/images/speakers/2026/Jeff-McWherter.jpg"]]>
     </summary>
     <title>Jeff McWherter at Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
+    <updated>2026-03-24T05:20:46.863Z</updated>
   </entry>
   <entry>
     <author>
@@ -281,7 +281,7 @@
 <img src="/images/speakers/2026/Kevin-Grossnicklaus.jpg"]]>
     </summary>
     <title>Kevin Grossnicklaus at Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
+    <updated>2026-03-24T05:20:46.863Z</updated>
   </entry>
   <entry>
     <author>
@@ -302,7 +302,7 @@
 <img src="/images/speakers/2026/Christine-Miao.png"]]>
     </summary>
     <title>Christine Miao at Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
+    <updated>2026-03-24T05:20:46.863Z</updated>
   </entry>
   <entry>
     <author>
@@ -323,7 +323,7 @@
 <img src="/images/speakers/2026/Hazel-Bohon.jpg"]]>
     </summary>
     <title>Hazel Bohon at Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
+    <updated>2026-03-24T05:20:46.863Z</updated>
   </entry>
   <entry>
     <author>
@@ -341,7 +341,7 @@
       <![CDATA[<p>As a reminder, ticket prices increase as the event gets closer, so register early to save your spot and get the best price!]]>
     </summary>
     <title>Key Dates for Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
+    <updated>2026-03-24T05:20:46.863Z</updated>
   </entry>
   <entry>
     <author>
@@ -362,7 +362,7 @@
 <img src="/images/speakers/2026/Chris-DeMars.jpg"]]>
     </summary>
     <title>Chris DeMars at Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
+    <updated>2026-03-24T05:20:46.863Z</updated>
   </entry>
   <entry>
     <author>
@@ -383,7 +383,7 @@
 <img src="/images/speakers/2026/Jackie-Gleason.jpg"]]>
     </summary>
     <title>Jackie Gleason at Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
+    <updated>2026-03-24T05:20:46.863Z</updated>
   </entry>
   <entry>
     <author>
@@ -404,7 +404,7 @@
 <img src="/images/speakers/2026/Cory-House.jpg"]]>
     </summary>
     <title>Cory House at Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
+    <updated>2026-03-24T05:20:46.863Z</updated>
   </entry>
   <entry>
     <author>
@@ -424,6 +424,6 @@
 <img src="/images/speakers/2026/Roxy-Rodriguez-Becker.png"]]>
     </summary>
     <title>Roxy Rodriguez-Becker at Stir Trek 2026</title>
-    <updated>2026-03-24T01:22:15.594Z</updated>
+    <updated>2026-03-24T05:20:46.863Z</updated>
   </entry>
 </feed>

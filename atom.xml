@@ -10,7 +10,7 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-03-25T12:52:20.462Z</updated>
+  <updated>2026-03-25T16:56:18.332Z</updated>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -30,7 +30,7 @@
 <img src="/images/speakers/2026/Jay-Harris.jpg"]]>
     </summary>
     <title>Jay Harris at Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
+    <updated>2026-03-25T16:56:18.332Z</updated>
   </entry>
   <entry>
     <author>
@@ -51,7 +51,7 @@
 <img src="/images/speakers/2026/Andrew-May.jpg"]]>
     </summary>
     <title>Andrew May at Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
+    <updated>2026-03-25T16:56:18.332Z</updated>
   </entry>
   <entry>
     <author>
@@ -72,7 +72,7 @@
 <img src="/images/speakers/2026/Guy-Royse.jpg"]]>
     </summary>
     <title>Guy Royse at Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
+    <updated>2026-03-25T16:56:18.332Z</updated>
   </entry>
   <entry>
     <author>
@@ -93,7 +93,7 @@
 <img src="/images/speakers/2026/Bill-Sempf.jpg"]]>
     </summary>
     <title>Bill Sempf at Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
+    <updated>2026-03-25T16:56:18.332Z</updated>
   </entry>
   <entry>
     <author>
@@ -114,7 +114,7 @@
 <img src="/images/speakers/2026/Matthew-Hope-Eland.png"]]>
     </summary>
     <title>Matthew-Hope Eland at Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
+    <updated>2026-03-25T16:56:18.332Z</updated>
   </entry>
   <entry>
     <author>
@@ -135,7 +135,7 @@
 <img src="/images/speakers/2026/Vitaliy-Matiyash.jpg"]]>
     </summary>
     <title>Vitaliy Matiyash at Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
+    <updated>2026-03-25T16:56:18.332Z</updated>
   </entry>
   <entry>
     <author>
@@ -156,7 +156,7 @@
 <img src="/images/speakers/2026/Samuel-Gomez.jpg"]]>
     </summary>
     <title>Samuel Gomez at Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
+    <updated>2026-03-25T16:56:18.332Z</updated>
   </entry>
   <entry>
     <author>
@@ -177,7 +177,7 @@
 <img src="/images/speakers/2026/Valarie-Regas.jpg"]]>
     </summary>
     <title>Valarie Regas at Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
+    <updated>2026-03-25T16:56:18.332Z</updated>
   </entry>
   <entry>
     <author>
@@ -198,7 +198,7 @@
 <img src="/images/speakers/2026/Barret-Blake.png"]]>
     </summary>
     <title>Barret Blake at Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
+    <updated>2026-03-25T16:56:18.332Z</updated>
   </entry>
   <entry>
     <author>
@@ -219,27 +219,7 @@
 <img src="/images/speakers/2026/Tristan-Chiappisi.jpg"]]>
     </summary>
     <title>Tristan Chiappisi at Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="application-development" scheme="https://stirtrek.com/tags/application-development/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Lance Finney to Stir Trek 2026!</p><img src="/images/speakers/2026/Lance-Finney.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Lance-Finney-at-Stir-Trek-2026"><a href="#Lance-Finney-at-Stir-Trek-2026" class="headerlink" title="Lance Finney at Stir Trek 2026"></a>Lance Finney at Stir Trek 2026</h1><p><em>Angular Developer and Instructor</em></p><div style="clear:both;"></div><hr><h2 id="About-Lance-Finney"><a href="#About-Lance-Finney" class="headerlink" title="About Lance Finney"></a>About Lance Finney</h2><p>After more than a decade focused on the Java desktop world, I’ve been in the Angular&#x2F;JavaScript&#x2F;TypeScript space since 2014.</p><p>As an Angular Google Developer Expert, I develop Angular projects and mentor junior Angular developers on my projects, and I used to be an instructor with Angular Boot Camp. Father of two, software developer, and world traveler (when I can sneak it in).</p><hr><h2 id="Session-Comparing-Promises-Observables-and-Signals"><a href="#Session-Comparing-Promises-Observables-and-Signals" class="headerlink" title="Session: Comparing Promises, Observables, and Signals"></a>Session: Comparing Promises, Observables, and Signals</h2><p><strong>1 May 2026 09:30 AM</strong> | Galaxy Quest - Theatre 27 (23,24,25,26)<br><em>Track: Application Development</em></p><p>Since JavaScript is single threaded, special techniques are necessary for asynchronous and reactive programming.</p><p>Promises were introduced a few years ago to enable asynchronous programming without the dreaded “callback hell”. They are a very powerful tool, especially with the async&#x2F;await syntactic sugar.</p><p>But limitations in promises opened the door to observables and their associated operator functions. They are much more powerful than promises overall, but can also be much more confusing.</p><p>Signals are yet another approach, one that has gained a lot of attention since Angular adopted them in 2023, but it solves completely different problems.</p><p>Now we have three different reactive primitives. Why? What’s the difference between them? Why would you choose one over the other? Or will they all have complementary roles in a modern JavaScript&#x2F;TypeScript application?</p><p>Come to this session to get the answers to these questions, and more!</p><hr><h2 id="Connect-with-Lance"><a href="#Connect-with-Lance" class="headerlink" title="Connect with Lance"></a>Connect with Lance</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lmfinney/">https://www.linkedin.com/in/lmfinney/</a></li><li><strong>Twitter&#x2F;X:</strong> @LMFinneyCoder</li><li><strong>Website:</strong> <a href="https://www.inficon.com/en">https://www.inficon.com/en</a></li><li><strong>Blog:</strong> <a href="https://lmfinney.wordpress.com/">https://lmfinney.wordpress.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Lance’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/16/2026-03-16-Lance_Finney/</id>
-    <link href="https://stirtrek.com/2026/03/16/2026-03-16-Lance_Finney/"/>
-    <published>2026-03-16T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Lance Finney to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Lance-Finney.jpg"]]>
-    </summary>
-    <title>Lance Finney at Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
+    <updated>2026-03-25T16:56:18.332Z</updated>
   </entry>
   <entry>
     <author>
@@ -260,7 +240,27 @@
 <img src="/images/speakers/2026/Ardalis-..jpg"]]>
     </summary>
     <title>Ardalis . at Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
+    <updated>2026-03-25T16:56:18.332Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="application-development" scheme="https://stirtrek.com/tags/application-development/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Lance Finney to Stir Trek 2026!</p><img src="/images/speakers/2026/Lance-Finney.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Lance-Finney-at-Stir-Trek-2026"><a href="#Lance-Finney-at-Stir-Trek-2026" class="headerlink" title="Lance Finney at Stir Trek 2026"></a>Lance Finney at Stir Trek 2026</h1><p><em>Angular Developer and Instructor</em></p><div style="clear:both;"></div><hr><h2 id="About-Lance-Finney"><a href="#About-Lance-Finney" class="headerlink" title="About Lance Finney"></a>About Lance Finney</h2><p>After more than a decade focused on the Java desktop world, I’ve been in the Angular&#x2F;JavaScript&#x2F;TypeScript space since 2014.</p><p>As an Angular Google Developer Expert, I develop Angular projects and mentor junior Angular developers on my projects, and I used to be an instructor with Angular Boot Camp. Father of two, software developer, and world traveler (when I can sneak it in).</p><hr><h2 id="Session-Comparing-Promises-Observables-and-Signals"><a href="#Session-Comparing-Promises-Observables-and-Signals" class="headerlink" title="Session: Comparing Promises, Observables, and Signals"></a>Session: Comparing Promises, Observables, and Signals</h2><p><strong>1 May 2026 09:30 AM</strong> | Galaxy Quest - Theatre 27 (23,24,25,26)<br><em>Track: Application Development</em></p><p>Since JavaScript is single threaded, special techniques are necessary for asynchronous and reactive programming.</p><p>Promises were introduced a few years ago to enable asynchronous programming without the dreaded “callback hell”. They are a very powerful tool, especially with the async&#x2F;await syntactic sugar.</p><p>But limitations in promises opened the door to observables and their associated operator functions. They are much more powerful than promises overall, but can also be much more confusing.</p><p>Signals are yet another approach, one that has gained a lot of attention since Angular adopted them in 2023, but it solves completely different problems.</p><p>Now we have three different reactive primitives. Why? What’s the difference between them? Why would you choose one over the other? Or will they all have complementary roles in a modern JavaScript&#x2F;TypeScript application?</p><p>Come to this session to get the answers to these questions, and more!</p><hr><h2 id="Connect-with-Lance"><a href="#Connect-with-Lance" class="headerlink" title="Connect with Lance"></a>Connect with Lance</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lmfinney/">https://www.linkedin.com/in/lmfinney/</a></li><li><strong>Twitter&#x2F;X:</strong> @LMFinneyCoder</li><li><strong>Website:</strong> <a href="https://www.inficon.com/en">https://www.inficon.com/en</a></li><li><strong>Blog:</strong> <a href="https://lmfinney.wordpress.com/">https://lmfinney.wordpress.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Lance’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/16/2026-03-16-Lance_Finney/</id>
+    <link href="https://stirtrek.com/2026/03/16/2026-03-16-Lance_Finney/"/>
+    <published>2026-03-16T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Lance Finney to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Lance-Finney.jpg"]]>
+    </summary>
+    <title>Lance Finney at Stir Trek 2026</title>
+    <updated>2026-03-25T16:56:18.332Z</updated>
   </entry>
   <entry>
     <author>
@@ -281,7 +281,7 @@
 <img src="/images/speakers/2026/Jeff-McWherter.jpg"]]>
     </summary>
     <title>Jeff McWherter at Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
+    <updated>2026-03-25T16:56:18.332Z</updated>
   </entry>
   <entry>
     <author>
@@ -302,7 +302,7 @@
 <img src="/images/speakers/2026/Kevin-Grossnicklaus.jpg"]]>
     </summary>
     <title>Kevin Grossnicklaus at Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
+    <updated>2026-03-25T16:56:18.332Z</updated>
   </entry>
   <entry>
     <author>
@@ -323,25 +323,7 @@
 <img src="/images/speakers/2026/Christine-Miao.png"]]>
     </summary>
     <title>Christine Miao at Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="Tickets" scheme="https://stirtrek.com/tags/Tickets/"/>
-    <content>
-      <![CDATA[<p>As a reminder, ticket prices increase as the event gets closer, so register early to save your spot and get the best price! </p><p>Don’t have your ticket yet? Get it <a href="https://events.humanitix.com/stir-trek-2026-edition">here</a>!</p><p>Here’s a quick rundown of the key dates for ticket sales:</p><ul><li><strong>2&#x2F;24&#x2F;2026</strong> - <del>$165 super early bird (first 50)</del></li><li><strong>2&#x2F;24&#x2F;2026</strong> - <del>$185 early bird</del></li></ul><p>Standard ticket sales are going on now! The $215 price goes away at midnight on March 23rd!</p><ul><li><strong>2&#x2F;28&#x2F;2026</strong> - $215 standard</li><li><strong>3&#x2F;24&#x2F;2026</strong> - $255 late… don’t be late!</li></ul><p>Because we have to get the swag boxes ordered and shipped, we have to set a cutoff for orders that include the box. If you order after this date, you can still attend, but the box won’t be included.</p><ul><li><strong>4&#x2F;1&#x2F;2026</strong> - $255, but no box is included</li><li><strong>4&#x2F;30&#x2F;2026</strong> - Ticket sales end at 11:59pm</li><li><strong>5&#x2F;1&#x2F;2026</strong> - <strong>Stir Trek 2026!!!!</strong></li></ul><p>Already have your ticket? Spread the word and share the excitement with your network! Use the hashtag #StirTrek2026 to connect with other attendees and share your anticipation for the event.</p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/12/2026-03-12-Key-Ticket-Dates/</id>
-    <link href="https://stirtrek.com/2026/03/12/2026-03-12-Key-Ticket-Dates/"/>
-    <published>2026-03-12T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>As a reminder, ticket prices increase as the event gets closer, so register early to save your spot and get the best price!]]>
-    </summary>
-    <title>Key Dates for Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
+    <updated>2026-03-25T16:56:18.332Z</updated>
   </entry>
   <entry>
     <author>
@@ -362,7 +344,25 @@
 <img src="/images/speakers/2026/Hazel-Bohon.jpg"]]>
     </summary>
     <title>Hazel Bohon at Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
+    <updated>2026-03-25T16:56:18.332Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="Tickets" scheme="https://stirtrek.com/tags/Tickets/"/>
+    <content>
+      <![CDATA[<p>As a reminder, ticket prices increase as the event gets closer, so register early to save your spot and get the best price! </p><p>Don’t have your ticket yet? Get it <a href="https://events.humanitix.com/stir-trek-2026-edition">here</a>!</p><p>Here’s a quick rundown of the key dates for ticket sales:</p><ul><li><strong>2&#x2F;24&#x2F;2026</strong> - <del>$165 super early bird (first 50)</del></li><li><strong>2&#x2F;24&#x2F;2026</strong> - <del>$185 early bird</del></li></ul><p>Standard ticket sales are going on now! The $215 price goes away at midnight on March 23rd!</p><ul><li><strong>2&#x2F;28&#x2F;2026</strong> - $215 standard</li><li><strong>3&#x2F;24&#x2F;2026</strong> - $255 late… don’t be late!</li></ul><p>Because we have to get the swag boxes ordered and shipped, we have to set a cutoff for orders that include the box. If you order after this date, you can still attend, but the box won’t be included.</p><ul><li><strong>4&#x2F;1&#x2F;2026</strong> - $255, but no box is included</li><li><strong>4&#x2F;30&#x2F;2026</strong> - Ticket sales end at 11:59pm</li><li><strong>5&#x2F;1&#x2F;2026</strong> - <strong>Stir Trek 2026!!!!</strong></li></ul><p>Already have your ticket? Spread the word and share the excitement with your network! Use the hashtag #StirTrek2026 to connect with other attendees and share your anticipation for the event.</p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/12/2026-03-12-Key-Ticket-Dates/</id>
+    <link href="https://stirtrek.com/2026/03/12/2026-03-12-Key-Ticket-Dates/"/>
+    <published>2026-03-12T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>As a reminder, ticket prices increase as the event gets closer, so register early to save your spot and get the best price!]]>
+    </summary>
+    <title>Key Dates for Stir Trek 2026</title>
+    <updated>2026-03-25T16:56:18.332Z</updated>
   </entry>
   <entry>
     <author>
@@ -383,7 +383,7 @@
 <img src="/images/speakers/2026/Chris-DeMars.jpg"]]>
     </summary>
     <title>Chris DeMars at Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
+    <updated>2026-03-25T16:56:18.332Z</updated>
   </entry>
   <entry>
     <author>
@@ -404,7 +404,7 @@
 <img src="/images/speakers/2026/Jackie-Gleason.jpg"]]>
     </summary>
     <title>Jackie Gleason at Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
+    <updated>2026-03-25T16:56:18.332Z</updated>
   </entry>
   <entry>
     <author>
@@ -424,6 +424,6 @@
 <img src="/images/speakers/2026/Roxy-Rodriguez-Becker.png"]]>
     </summary>
     <title>Roxy Rodriguez-Becker at Stir Trek 2026</title>
-    <updated>2026-03-25T12:52:20.462Z</updated>
+    <updated>2026-03-25T16:56:18.332Z</updated>
   </entry>
 </feed>

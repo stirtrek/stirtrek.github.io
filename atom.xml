@@ -10,7 +10,28 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-03-25T20:32:11.817Z</updated>
+  <updated>2026-03-26T01:45:51.858Z</updated>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="artificial-intelligence" scheme="https://stirtrek.com/tags/artificial-intelligence/"/>
+    <category term="machine-learning" scheme="https://stirtrek.com/tags/machine-learning/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Kate Holterhoff to Stir Trek 2026!</p><img src="/images/speakers/2026/Kate-Holterhoff.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Kate-Holterhoff-at-Stir-Trek-2026"><a href="#Kate-Holterhoff-at-Stir-Trek-2026" class="headerlink" title="Kate Holterhoff at Stir Trek 2026"></a>Kate Holterhoff at Stir Trek 2026</h1><p><em>RedMonk</em></p><div style="clear:both;"></div><hr><h2 id="About-Kate-Holterhoff"><a href="#About-Kate-Holterhoff" class="headerlink" title="About Kate Holterhoff"></a>About Kate Holterhoff</h2><p>Kate Holterhoff, an industry analyst with RedMonk, has a background in frontend engineering, academic research, and technical communication. Kate comes to RedMonk from the digital marketing sector and brings with her expertise in frontend engineering, QA, accessibility, and scrum best practices.</p><p>Before pursuing a career in the tech industry Kate taught writing and communication courses at several East Coast universities. She earned a PhD from Carnegie Mellon in 2016 and was awarded a postdoctoral fellowship (2016-2018) at Georgia Tech, where she is currently an affiliated researcher.</p><hr><h2 id="Session-The-Vibe-Analyst’s-Guide-to-AI-Coding-From-Autocomplete-to-Agent-Orchestration"><a href="#Session-The-Vibe-Analyst’s-Guide-to-AI-Coding-From-Autocomplete-to-Agent-Orchestration" class="headerlink" title="Session: The Vibe Analyst’s Guide to AI Coding: From Autocomplete to Agent Orchestration"></a>Session: The Vibe Analyst’s Guide to AI Coding: From Autocomplete to Agent Orchestration</h2><p><strong>1 May 2026 10:30 AM</strong> | The Last Starfighter - Theatre 14 (12,13)<br><em>Track: Artificial Intelligence &amp; Machine Learning</em></p><p>Whether you’re experimenting with AI coding assistants or managing teams that use them, understanding “vibe coding” is essential to navigating software development in 2026. This talk decodes the shift from autocomplete to autonomous agents, examining how developers went from tab completion to directing parallel AI workers overnight. You’ll gain a clear framework for the 10 key capabilities developers now demand—from background agents and persistent memory to multi-agent orchestration and rollback systems—along with practical insights into which tools deliver and which fall short based on real practitioner feedback.</p><p>Beyond the hype, you’ll learn to navigate the defining tension shaping the market: the battle between human-in-loop control (audit trails, permissions, safety) and vibe coding’s “trust the output, not the process” philosophy. Through examples like Ralph Wiggum’s contextual pressure cooker, Gas Town’s agent orchestration, and emerging patterns in spec-driven development, you’ll understand where the ecosystem is headed and how to make informed decisions about adopting, managing, or building AI-assisted development tools. Whether you’re a hands-on developer, engineering leader, or product strategist, you’ll leave with a pragmatic understanding of what actually matters in this rapidly evolving space—and what’s just noise.</p><hr><h2 id="Connect-with-Kate"><a href="#Connect-with-Kate" class="headerlink" title="Connect with Kate"></a>Connect with Kate</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kateholterhoff/">https://www.linkedin.com/in/kateholterhoff/</a></li><li><strong>Twitter&#x2F;X:</strong> @KateHolterhoff</li><li><strong>Website:</strong> <a href="https://redmonk.com/">https://redmonk.com/</a></li><li><strong>Blog:</strong> <a href="https://redmonk.com/kholterhoff/">https://redmonk.com/kholterhoff/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Kate’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/26/2026-03-26-Kate_Holterhoff/</id>
+    <link href="https://stirtrek.com/2026/03/26/2026-03-26-Kate_Holterhoff/"/>
+    <published>2026-03-26T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Kate Holterhoff to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Kate-Holterhoff.png"]]>
+    </summary>
+    <title>Kate Holterhoff at Stir Trek 2026</title>
+    <updated>2026-03-26T01:45:51.858Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -30,7 +51,7 @@
 <img src="/images/speakers/2026/Jay-Harris.jpg"]]>
     </summary>
     <title>Jay Harris at Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
+    <updated>2026-03-26T01:45:51.858Z</updated>
   </entry>
   <entry>
     <author>
@@ -51,7 +72,7 @@
 <img src="/images/speakers/2026/Andrew-May.jpg"]]>
     </summary>
     <title>Andrew May at Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
+    <updated>2026-03-26T01:45:51.858Z</updated>
   </entry>
   <entry>
     <author>
@@ -72,7 +93,7 @@
 <img src="/images/speakers/2026/Guy-Royse.jpg"]]>
     </summary>
     <title>Guy Royse at Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
+    <updated>2026-03-26T01:45:51.858Z</updated>
   </entry>
   <entry>
     <author>
@@ -93,7 +114,7 @@
 <img src="/images/speakers/2026/Bill-Sempf.jpg"]]>
     </summary>
     <title>Bill Sempf at Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
+    <updated>2026-03-26T01:45:51.858Z</updated>
   </entry>
   <entry>
     <author>
@@ -114,7 +135,7 @@
 <img src="/images/speakers/2026/Matthew-Hope-Eland.png"]]>
     </summary>
     <title>Matthew-Hope Eland at Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
+    <updated>2026-03-26T01:45:51.858Z</updated>
   </entry>
   <entry>
     <author>
@@ -135,7 +156,7 @@
 <img src="/images/speakers/2026/Vitaliy-Matiyash.jpg"]]>
     </summary>
     <title>Vitaliy Matiyash at Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
+    <updated>2026-03-26T01:45:51.858Z</updated>
   </entry>
   <entry>
     <author>
@@ -156,7 +177,7 @@
 <img src="/images/speakers/2026/Samuel-Gomez.jpg"]]>
     </summary>
     <title>Samuel Gomez at Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
+    <updated>2026-03-26T01:45:51.858Z</updated>
   </entry>
   <entry>
     <author>
@@ -177,7 +198,7 @@
 <img src="/images/speakers/2026/Valarie-Regas.jpg"]]>
     </summary>
     <title>Valarie Regas at Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
+    <updated>2026-03-26T01:45:51.858Z</updated>
   </entry>
   <entry>
     <author>
@@ -198,7 +219,7 @@
 <img src="/images/speakers/2026/Barret-Blake.png"]]>
     </summary>
     <title>Barret Blake at Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
+    <updated>2026-03-26T01:45:51.858Z</updated>
   </entry>
   <entry>
     <author>
@@ -219,7 +240,7 @@
 <img src="/images/speakers/2026/Tristan-Chiappisi.jpg"]]>
     </summary>
     <title>Tristan Chiappisi at Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
+    <updated>2026-03-26T01:45:51.858Z</updated>
   </entry>
   <entry>
     <author>
@@ -240,7 +261,7 @@
 <img src="/images/speakers/2026/Ardalis-..jpg"]]>
     </summary>
     <title>Ardalis . at Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
+    <updated>2026-03-26T01:45:51.858Z</updated>
   </entry>
   <entry>
     <author>
@@ -260,28 +281,7 @@
 <img src="/images/speakers/2026/Lance-Finney.jpg"]]>
     </summary>
     <title>Lance Finney at Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="professional-growth" scheme="https://stirtrek.com/tags/professional-growth/"/>
-    <category term="leadership" scheme="https://stirtrek.com/tags/leadership/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Jeff McWherter to Stir Trek 2026!</p><img src="/images/speakers/2026/Jeff-McWherter.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Jeff-McWherter-at-Stir-Trek-2026"><a href="#Jeff-McWherter-at-Stir-Trek-2026" class="headerlink" title="Jeff McWherter at Stir Trek 2026"></a>Jeff McWherter at Stir Trek 2026</h1><p><em>Chief Operating Officer at Gravity Works Design</em></p><div style="clear:both;"></div><hr><h2 id="About-Jeff-McWherter"><a href="#About-Jeff-McWherter" class="headerlink" title="About Jeff McWherter"></a>About Jeff McWherter</h2><p>Jeff McWherter is a seasoned business leader and tenacious problem solver with over 26 years in the tech industry. He has a deep understanding of the business landscape with a keen ability to navigate complex challenges with creativity and agility. From local startup to Fortune 500, he has worked with a wide client range, always adapting to the unique needs and challenges of each project. He has developed a deep understanding of the trends and technologies shaping the future of business, and is constantly seeking out new ideas and insights to stay ahead of the curve. Jeff is a three time published author and avid speaker at technical conferences across the world. A Michigan State University graduate, Jeff has also been instrumental in improving the software development community in Michigan and beyond. He founded Gravity Works Design &amp; Development during the 2009 recession, which has since grown into one of the country’s leading digital agencies. Jeff has led more than a decade of consistent, managed growth and numerous creative accolades, including Addy, W3, Vega, Davey, and PACE awards.</p><p>Jeff believes strong relationships are the foundation of any successful business venture, and is committed to fostering those connections both inside and outside the office. As a father and active community member, Jeff knows success isn’t just about achieving your own goals: it’s about helping others reach theirs. Whether leading a project, volunteering locally, or cheering on his daughters, Jeff is always looking to make a positive impact in the world around him.</p><p>Jeff’s commitment to helping others achieve their goals is a testament to his leadership, fresh perspectives, and innovative solutions. Join the conversation, and get information about speaking engagements and projects.</p><hr><h2 id="Session-Managing-the-Human-Side-of-Technology-Leadership-in-Times-of-Change"><a href="#Session-Managing-the-Human-Side-of-Technology-Leadership-in-Times-of-Change" class="headerlink" title="Session: Managing the Human Side of Technology: Leadership in Times of Change"></a>Session: Managing the Human Side of Technology: Leadership in Times of Change</h2><p><strong>1 May 2026 09:30 AM</strong> | The Matrix - Theatre 15 (10, 11)<br><em>Track: Professional Growth &amp; Leadership</em></p><p>In today’s rapidly evolving technological landscape, leaders face the critical challenge of managing the human side of technology. This session delves into the essential aspects of effective Human Management in the digital age.</p><p>As organizations embrace technological advancements and undergo digital transformations, leaders must navigate the complexities of change, including handling resistance to change and guiding teams through technological transitions.<br>This session offers insights, strategies, and practical approaches for leaders to effectively lead their teams through these pivotal moments.</p><p>Key topics covered in this session include:</p><p>-The “why” behind the what: How change impacts humans, not just code.<br>-Turning FUD into fuel: Taming the fear of the unknown and using it to drive progress.<br>-From “no way” to “oh yeah”: Strategies to win buy-in and get your team excited about the journey.<br>-Tech’s not the enemy: Building a culture of continuous learning and embracing change as a superpower.</p><hr><h2 id="Connect-with-Jeff"><a href="#Connect-with-Jeff" class="headerlink" title="Connect with Jeff"></a>Connect with Jeff</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jmcw/">https://www.linkedin.com/in/jmcw/</a></li><li><strong>Website:</strong> <a href="https://www.gravityworksdesign.com/">https://www.gravityworksdesign.com</a></li><li><strong>Blog:</strong> <a href="https://www.mcwherter.net/">https://www.mcwherter.net</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Jeff’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/13/2026-03-13-Jeff_McWherter/</id>
-    <link href="https://stirtrek.com/2026/03/13/2026-03-13-Jeff_McWherter/"/>
-    <published>2026-03-13T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Jeff McWherter to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Jeff-McWherter.jpg"]]>
-    </summary>
-    <title>Jeff McWherter at Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
+    <updated>2026-03-26T01:45:51.858Z</updated>
   </entry>
   <entry>
     <author>
@@ -302,7 +302,28 @@
 <img src="/images/speakers/2026/Kevin-Grossnicklaus.jpg"]]>
     </summary>
     <title>Kevin Grossnicklaus at Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
+    <updated>2026-03-26T01:45:51.858Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="professional-growth" scheme="https://stirtrek.com/tags/professional-growth/"/>
+    <category term="leadership" scheme="https://stirtrek.com/tags/leadership/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Jeff McWherter to Stir Trek 2026!</p><img src="/images/speakers/2026/Jeff-McWherter.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Jeff-McWherter-at-Stir-Trek-2026"><a href="#Jeff-McWherter-at-Stir-Trek-2026" class="headerlink" title="Jeff McWherter at Stir Trek 2026"></a>Jeff McWherter at Stir Trek 2026</h1><p><em>Chief Operating Officer at Gravity Works Design</em></p><div style="clear:both;"></div><hr><h2 id="About-Jeff-McWherter"><a href="#About-Jeff-McWherter" class="headerlink" title="About Jeff McWherter"></a>About Jeff McWherter</h2><p>Jeff McWherter is a seasoned business leader and tenacious problem solver with over 26 years in the tech industry. He has a deep understanding of the business landscape with a keen ability to navigate complex challenges with creativity and agility. From local startup to Fortune 500, he has worked with a wide client range, always adapting to the unique needs and challenges of each project. He has developed a deep understanding of the trends and technologies shaping the future of business, and is constantly seeking out new ideas and insights to stay ahead of the curve. Jeff is a three time published author and avid speaker at technical conferences across the world. A Michigan State University graduate, Jeff has also been instrumental in improving the software development community in Michigan and beyond. He founded Gravity Works Design &amp; Development during the 2009 recession, which has since grown into one of the country’s leading digital agencies. Jeff has led more than a decade of consistent, managed growth and numerous creative accolades, including Addy, W3, Vega, Davey, and PACE awards.</p><p>Jeff believes strong relationships are the foundation of any successful business venture, and is committed to fostering those connections both inside and outside the office. As a father and active community member, Jeff knows success isn’t just about achieving your own goals: it’s about helping others reach theirs. Whether leading a project, volunteering locally, or cheering on his daughters, Jeff is always looking to make a positive impact in the world around him.</p><p>Jeff’s commitment to helping others achieve their goals is a testament to his leadership, fresh perspectives, and innovative solutions. Join the conversation, and get information about speaking engagements and projects.</p><hr><h2 id="Session-Managing-the-Human-Side-of-Technology-Leadership-in-Times-of-Change"><a href="#Session-Managing-the-Human-Side-of-Technology-Leadership-in-Times-of-Change" class="headerlink" title="Session: Managing the Human Side of Technology: Leadership in Times of Change"></a>Session: Managing the Human Side of Technology: Leadership in Times of Change</h2><p><strong>1 May 2026 09:30 AM</strong> | The Matrix - Theatre 15 (10, 11)<br><em>Track: Professional Growth &amp; Leadership</em></p><p>In today’s rapidly evolving technological landscape, leaders face the critical challenge of managing the human side of technology. This session delves into the essential aspects of effective Human Management in the digital age.</p><p>As organizations embrace technological advancements and undergo digital transformations, leaders must navigate the complexities of change, including handling resistance to change and guiding teams through technological transitions.<br>This session offers insights, strategies, and practical approaches for leaders to effectively lead their teams through these pivotal moments.</p><p>Key topics covered in this session include:</p><p>-The “why” behind the what: How change impacts humans, not just code.<br>-Turning FUD into fuel: Taming the fear of the unknown and using it to drive progress.<br>-From “no way” to “oh yeah”: Strategies to win buy-in and get your team excited about the journey.<br>-Tech’s not the enemy: Building a culture of continuous learning and embracing change as a superpower.</p><hr><h2 id="Connect-with-Jeff"><a href="#Connect-with-Jeff" class="headerlink" title="Connect with Jeff"></a>Connect with Jeff</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jmcw/">https://www.linkedin.com/in/jmcw/</a></li><li><strong>Website:</strong> <a href="https://www.gravityworksdesign.com/">https://www.gravityworksdesign.com</a></li><li><strong>Blog:</strong> <a href="https://www.mcwherter.net/">https://www.mcwherter.net</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Jeff’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/13/2026-03-13-Jeff_McWherter/</id>
+    <link href="https://stirtrek.com/2026/03/13/2026-03-13-Jeff_McWherter/"/>
+    <published>2026-03-13T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Jeff McWherter to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Jeff-McWherter.jpg"]]>
+    </summary>
+    <title>Jeff McWherter at Stir Trek 2026</title>
+    <updated>2026-03-26T01:45:51.858Z</updated>
   </entry>
   <entry>
     <author>
@@ -323,7 +344,7 @@
 <img src="/images/speakers/2026/Christine-Miao.png"]]>
     </summary>
     <title>Christine Miao at Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
+    <updated>2026-03-26T01:45:51.858Z</updated>
   </entry>
   <entry>
     <author>
@@ -344,7 +365,7 @@
 <img src="/images/speakers/2026/Hazel-Bohon.jpg"]]>
     </summary>
     <title>Hazel Bohon at Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
+    <updated>2026-03-26T01:45:51.858Z</updated>
   </entry>
   <entry>
     <author>
@@ -362,7 +383,7 @@
       <![CDATA[<p>As a reminder, ticket prices increase as the event gets closer, so register early to save your spot and get the best price!]]>
     </summary>
     <title>Key Dates for Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
+    <updated>2026-03-26T01:45:51.858Z</updated>
   </entry>
   <entry>
     <author>
@@ -383,7 +404,7 @@
 <img src="/images/speakers/2026/Chris-DeMars.jpg"]]>
     </summary>
     <title>Chris DeMars at Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
+    <updated>2026-03-26T01:45:51.858Z</updated>
   </entry>
   <entry>
     <author>
@@ -404,27 +425,6 @@
 <img src="/images/speakers/2026/Jackie-Gleason.jpg"]]>
     </summary>
     <title>Jackie Gleason at Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="artificial-intelligence" scheme="https://stirtrek.com/tags/artificial-intelligence/"/>
-    <category term="machine-learning" scheme="https://stirtrek.com/tags/machine-learning/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Cory House to Stir Trek 2026!</p><img src="/images/speakers/2026/Cory-House.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Cory-House-at-Stir-Trek-2026"><a href="#Cory-House-at-Stir-Trek-2026" class="headerlink" title="Cory House at Stir Trek 2026"></a>Cory House at Stir Trek 2026</h1><p><em>Author &#x2F; Consultant</em></p><div style="clear:both;"></div><hr><h2 id="About-Cory-House"><a href="#About-Cory-House" class="headerlink" title="About Cory House"></a>About Cory House</h2><p>Cory is an author, a 12 time Microsoft MVP, and international speaker. He is founder of reactjsconsulting, where he helps companies transition to React. He has trained over 10,000 software developers at conferences and businesses worldwide. Cory has authored over a dozen courses on JavaScript, React, C#, testing, and web development on Pluralsight and Dometrain. He shares software development tips daily on X as @housecor.</p><hr><h2 id="Session-1-Choosing-an-AI-Coding-Workflow"><a href="#Session-1-Choosing-an-AI-Coding-Workflow" class="headerlink" title="Session 1: Choosing an AI Coding Workflow"></a>Session 1: Choosing an AI Coding Workflow</h2><p><strong>1 May 2026 08:30 AM</strong> | The Last Starfighter - Theatre 14 (12,13)<br><em>Track: Artificial Intelligence &amp; Machine Learning</em></p><p>AI is here, but deciding what to use and how is difficult. In this fast-paced session, we’ll explore 15 key decisions for coding effectively in AI including IDEs, models, harnesses, instructions, permissions, agents, and more. You’ll leave this session with a variety of ideas for how to rethink your AI-related tooling, patterns, and workflows.</p><hr><h2 id="Session-2-Generating-Quality-Code-with-AI"><a href="#Session-2-Generating-Quality-Code-with-AI" class="headerlink" title="Session 2: Generating Quality Code with AI"></a>Session 2: Generating Quality Code with AI</h2><p><strong>1 May 2026 02:00 PM</strong> | The Last Starfighter - Theatre 14 (12,13)<br><em>Track: Artificial Intelligence &amp; Machine Learning</em></p><p>“AI writes slop” is a common concern. So how can we use LLMs to not just generate good code, but to <em>ensure</em> quality? Let’s explore how to create effective “guardrails” via generated tests, spec-driven development, instruction approaches, prompting techniques, context management, and more. After this session you’ll have a list of ideas for improving your AI coding workflow.</p><hr><h2 id="Connect-with-Cory"><a href="#Connect-with-Cory" class="headerlink" title="Connect with Cory"></a>Connect with Cory</h2><ul><li><strong>Twitter&#x2F;X:</strong> @housecor</li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. With 2 sessions on the schedule, Cory is bringing serious value to Stir Trek 2026 — don’t miss it!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/10/2026-03-10-Cory_House/</id>
-    <link href="https://stirtrek.com/2026/03/10/2026-03-10-Cory_House/"/>
-    <published>2026-03-10T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Cory House to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Cory-House.jpg"]]>
-    </summary>
-    <title>Cory House at Stir Trek 2026</title>
-    <updated>2026-03-25T20:32:11.817Z</updated>
+    <updated>2026-03-26T01:45:51.858Z</updated>
   </entry>
 </feed>

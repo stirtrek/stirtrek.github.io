@@ -10,7 +10,28 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-03-26T20:29:48.413Z</updated>
+  <updated>2026-03-27T01:46:07.349Z</updated>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="artificial-intelligence" scheme="https://stirtrek.com/tags/artificial-intelligence/"/>
+    <category term="machine-learning" scheme="https://stirtrek.com/tags/machine-learning/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Ed Charbeneau to Stir Trek 2026!</p><img src="/images/speakers/2026/Ed-Charbeneau.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Ed-Charbeneau-at-Stir-Trek-2026"><a href="#Ed-Charbeneau-at-Stir-Trek-2026" class="headerlink" title="Ed Charbeneau at Stir Trek 2026"></a>Ed Charbeneau at Stir Trek 2026</h1><p><em>Ed is a Microsoft MVP and an international speaker, writer, online influencer, a Developer Advocate for Progress.</em></p><div style="clear:both;"></div><hr><h2 id="About-Ed-Charbeneau"><a href="#About-Ed-Charbeneau" class="headerlink" title="About Ed Charbeneau"></a>About Ed Charbeneau</h2><p>Ed is a Microsoft MVP and an international speaker, writer, online influencer, a Developer Advocate for Progress, and expert on all things web development. Ed enjoys geeking out to cool new tech, brainstorming about future technology, and admiring great design.</p><p>Ed has shared his insights, experiences, and advice around collaboration, knowledge management, social computing, and training at many industry events around the United States. Highly ethical and engaging with an uncanny business acumen, he is a creative community builder and outside the box thinker. Long term business relationships throughout the world within internal communications, employee engagement and marketing as well as IT. Focusing on Financial, Healthcare, Manufacturing, Agency and Professional Services. He has defined, architected, implemented line of business solutions with a touch of style and UX best practices.</p><hr><h2 id="Session-An-intro-to-Retrieval-Augmented-Generation-RAG"><a href="#Session-An-intro-to-Retrieval-Augmented-Generation-RAG" class="headerlink" title="Session: An intro to Retrieval Augmented Generation (RAG)"></a>Session: An intro to Retrieval Augmented Generation (RAG)</h2><p><strong>1 May 2026 11:30 AM</strong> | The Last Starfighter - Theatre 14 (12,13)<br><em>Track: Artificial Intelligence &amp; Machine Learning</em></p><p>Learn to deliver AI search and Generative Answers on top of your unstructured data. RAG is easy to prototype but hard to run in production. In this session we’ll start with retrieval augmented generation basics by building a simple proof of concept. Then, we’ll compare solutions meant for scale with Agentic RAG, RAG Graph, and Entity Recognition. Throughout we’ll see examples of how RAG applies to modern app development.</p><hr><h2 id="Connect-with-Ed"><a href="#Connect-with-Ed" class="headerlink" title="Connect with Ed"></a>Connect with Ed</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/edcharbeneau/">https://www.linkedin.com/in/edcharbeneau/</a></li><li><strong>Twitter&#x2F;X:</strong> @edcharbeneau</li><li><strong>Website:</strong> <a href="https://www.telerik.com/">https://www.telerik.com/</a></li><li><strong>Blog:</strong> <a href="https://www.telerik.com/blogs">https://www.telerik.com/blogs</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Ed’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/27/2026-03-27-Ed_Charbeneau/</id>
+    <link href="https://stirtrek.com/2026/03/27/2026-03-27-Ed_Charbeneau/"/>
+    <published>2026-03-27T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Ed Charbeneau to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Ed-Charbeneau.jpg"]]>
+    </summary>
+    <title>Ed Charbeneau at Stir Trek 2026</title>
+    <updated>2026-03-27T01:46:07.349Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -30,7 +51,7 @@
 <img src="/images/speakers/2026/Kate-Holterhoff.png"]]>
     </summary>
     <title>Kate Holterhoff at Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
+    <updated>2026-03-27T01:46:07.349Z</updated>
   </entry>
   <entry>
     <author>
@@ -51,7 +72,7 @@
 <img src="/images/speakers/2026/Jay-Harris.jpg"]]>
     </summary>
     <title>Jay Harris at Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
+    <updated>2026-03-27T01:46:07.349Z</updated>
   </entry>
   <entry>
     <author>
@@ -72,7 +93,7 @@
 <img src="/images/speakers/2026/Andrew-May.jpg"]]>
     </summary>
     <title>Andrew May at Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
+    <updated>2026-03-27T01:46:07.349Z</updated>
   </entry>
   <entry>
     <author>
@@ -93,7 +114,7 @@
 <img src="/images/speakers/2026/Guy-Royse.jpg"]]>
     </summary>
     <title>Guy Royse at Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
+    <updated>2026-03-27T01:46:07.349Z</updated>
   </entry>
   <entry>
     <author>
@@ -114,7 +135,7 @@
 <img src="/images/speakers/2026/Bill-Sempf.jpg"]]>
     </summary>
     <title>Bill Sempf at Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
+    <updated>2026-03-27T01:46:07.349Z</updated>
   </entry>
   <entry>
     <author>
@@ -135,7 +156,7 @@
 <img src="/images/speakers/2026/Matthew-Hope-Eland.png"]]>
     </summary>
     <title>Matthew-Hope Eland at Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
+    <updated>2026-03-27T01:46:07.349Z</updated>
   </entry>
   <entry>
     <author>
@@ -156,7 +177,7 @@
 <img src="/images/speakers/2026/Vitaliy-Matiyash.jpg"]]>
     </summary>
     <title>Vitaliy Matiyash at Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
+    <updated>2026-03-27T01:46:07.349Z</updated>
   </entry>
   <entry>
     <author>
@@ -177,7 +198,7 @@
 <img src="/images/speakers/2026/Samuel-Gomez.jpg"]]>
     </summary>
     <title>Samuel Gomez at Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
+    <updated>2026-03-27T01:46:07.349Z</updated>
   </entry>
   <entry>
     <author>
@@ -198,7 +219,7 @@
 <img src="/images/speakers/2026/Valarie-Regas.jpg"]]>
     </summary>
     <title>Valarie Regas at Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
+    <updated>2026-03-27T01:46:07.349Z</updated>
   </entry>
   <entry>
     <author>
@@ -219,7 +240,7 @@
 <img src="/images/speakers/2026/Barret-Blake.png"]]>
     </summary>
     <title>Barret Blake at Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
+    <updated>2026-03-27T01:46:07.349Z</updated>
   </entry>
   <entry>
     <author>
@@ -240,7 +261,7 @@
 <img src="/images/speakers/2026/Tristan-Chiappisi.jpg"]]>
     </summary>
     <title>Tristan Chiappisi at Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
+    <updated>2026-03-27T01:46:07.349Z</updated>
   </entry>
   <entry>
     <author>
@@ -261,7 +282,7 @@
 <img src="/images/speakers/2026/Ardalis-..jpg"]]>
     </summary>
     <title>Ardalis . at Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
+    <updated>2026-03-27T01:46:07.349Z</updated>
   </entry>
   <entry>
     <author>
@@ -281,7 +302,7 @@
 <img src="/images/speakers/2026/Lance-Finney.jpg"]]>
     </summary>
     <title>Lance Finney at Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
+    <updated>2026-03-27T01:46:07.349Z</updated>
   </entry>
   <entry>
     <author>
@@ -302,7 +323,7 @@
 <img src="/images/speakers/2026/Jeff-McWherter.jpg"]]>
     </summary>
     <title>Jeff McWherter at Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
+    <updated>2026-03-27T01:46:07.349Z</updated>
   </entry>
   <entry>
     <author>
@@ -323,7 +344,7 @@
 <img src="/images/speakers/2026/Kevin-Grossnicklaus.jpg"]]>
     </summary>
     <title>Kevin Grossnicklaus at Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
+    <updated>2026-03-27T01:46:07.349Z</updated>
   </entry>
   <entry>
     <author>
@@ -344,7 +365,7 @@
 <img src="/images/speakers/2026/Christine-Miao.png"]]>
     </summary>
     <title>Christine Miao at Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
+    <updated>2026-03-27T01:46:07.349Z</updated>
   </entry>
   <entry>
     <author>
@@ -365,7 +386,7 @@
 <img src="/images/speakers/2026/Hazel-Bohon.jpg"]]>
     </summary>
     <title>Hazel Bohon at Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
+    <updated>2026-03-27T01:46:07.349Z</updated>
   </entry>
   <entry>
     <author>
@@ -383,7 +404,7 @@
       <![CDATA[<p>As a reminder, ticket prices increase as the event gets closer, so register early to save your spot and get the best price!]]>
     </summary>
     <title>Key Dates for Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
+    <updated>2026-03-27T01:46:07.349Z</updated>
   </entry>
   <entry>
     <author>
@@ -404,27 +425,6 @@
 <img src="/images/speakers/2026/Chris-DeMars.jpg"]]>
     </summary>
     <title>Chris DeMars at Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="artificial-intelligence" scheme="https://stirtrek.com/tags/artificial-intelligence/"/>
-    <category term="machine-learning" scheme="https://stirtrek.com/tags/machine-learning/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Jackie Gleason to Stir Trek 2026!</p><img src="/images/speakers/2026/Jackie-Gleason.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Jackie-Gleason-at-Stir-Trek-2026"><a href="#Jackie-Gleason-at-Stir-Trek-2026" class="headerlink" title="Jackie Gleason at Stir Trek 2026"></a>Jackie Gleason at Stir Trek 2026</h1><p><em>THE Jackie Gleason</em></p><div style="clear:both;"></div><hr><h2 id="About-Jackie-Gleason"><a href="#About-Jackie-Gleason" class="headerlink" title="About Jackie Gleason"></a>About Jackie Gleason</h2><p>Jackie Gleason is an experienced principal engineer for a property management startup named PurePM. Mr. Gleason has almost 20 years of experience in the Columbus area including Chase, NetJets, PUCO, OCLC and the Columbus Foundation. Jackie has presented previously at CodeMash, M3, and other local user groups on topics such as Java, Javascript, mobile development, testing and more. In addition to development Jackie enjoys 3D printing, billiards, and traveling. For more information or to reach out go to <a href="https://jackiergleason.com/">https://jackiergleason.com</a>.</p><hr><h2 id="Session-Vector-Databases-and-Embeddings-Demystified"><a href="#Session-Vector-Databases-and-Embeddings-Demystified" class="headerlink" title="Session: Vector Databases and Embeddings Demystified"></a>Session: Vector Databases and Embeddings Demystified</h2><p><strong>1 May 2026 08:30 AM</strong> | Interstellar - Theatre 4 (5,6,7,8,9)<br><em>Track: Artificial Intelligence &amp; Machine Learning</em></p><p>Ever wonder how Netflix knows you’ll love that obscure documentary about penguins, or how Google Photos finds every picture of your dog even though you never tagged them? The secret sauce is vector embeddings and similarity search – technologies that convert complex data (text, images, audio) into high-dimensional numerical representations that capture semantic meaning. While traditional databases excel at exact matches (“find user ID 12345”), vector databases revolutionize “find similar” queries by measuring relationships between these numerical vectors using techniques like cosine similarity. This session demystifies the math and technology behind the AI-powered search and recommendation systems you use every day.</p><p>You’ll discover how companies transform words into vectors where “king” - “man” + “woman” actually equals “queen” in mathematical space, explore the architecture behind popular vector databases like Pinecone and see live demonstrations of building semantic search systems. We’ll cover real-world applications from RAG-powered chatbots to fraud detection, show you how to implement document similarity search in 20 lines of Python, and discuss the practical considerations of scaling vector systems to billions of embeddings. Whether you’re building recommendation engines, semantic search, or AI-powered applications, this session provides the foundational knowledge to leverage vector databases effectively in your projects.</p><hr><h2 id="Connect-with-Jackie"><a href="#Connect-with-Jackie" class="headerlink" title="Connect with Jackie"></a>Connect with Jackie</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jackie-gleason-5a52114/">https://www.linkedin.com/in/jackie-gleason-5a52114/</a></li><li><strong>Twitter&#x2F;X:</strong> @LifeIsTooShort</li><li><strong>Website:</strong> <a href="https://thejackiegleason.com/">https://thejackiegleason.com</a></li><li><strong>Blog:</strong> <a href="https://jackiergleason.com/">https://jackiergleason.com</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Jackie’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/11/2026-03-11-Jackie_Gleason/</id>
-    <link href="https://stirtrek.com/2026/03/11/2026-03-11-Jackie_Gleason/"/>
-    <published>2026-03-11T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Jackie Gleason to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Jackie-Gleason.jpg"]]>
-    </summary>
-    <title>Jackie Gleason at Stir Trek 2026</title>
-    <updated>2026-03-26T20:29:48.413Z</updated>
+    <updated>2026-03-27T01:46:07.349Z</updated>
   </entry>
 </feed>

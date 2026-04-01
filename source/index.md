@@ -90,19 +90,18 @@ layout: index
             <p class="ticket-date">2/28</p>
             <a class="btn-comic btn-comic-sm" href="https://events.humanitix.com/stir-trek-2026-edition">Too Late!</a>
         </div>
-        <div class="ticket-card comic-panel-light">
+        <div class="ticket-card comic-panel-light ticket-highlight">
             <span class="ticket-tier-name">Late</span>
             <div class="ticket-price">$255</div>
             <p class="ticket-note">&nbsp;</p>
-            <p class="ticket-date">3/24</p>
-            <a class="btn-comic btn-comic-sm" href="https://events.humanitix.com/stir-trek-2026-edition">Too Late!</a>
+            <p class="ticket-date">Ends 4/7</p>
+            <a class="btn-comic btn-comic-sm" href="https://events.humanitix.com/stir-trek-2026-edition">Not Too Late!</a>
         </div>
-        <div class="ticket-card comic-panel-light ticket-highlight">
+        <div class="ticket-card comic-panel-light">
             <span class="ticket-tier-name">No Box</span>
             <div class="ticket-price">$255</div>
             <p class="ticket-note">You still get a ticket</p>
-            <p class="ticket-date">But no swag box</p>
-            <a class="btn-comic btn-comic-sm" href="https://events.humanitix.com/stir-trek-2026-edition">Not Too Late!</a>
+            <p class="ticket-date">Starts 4/8</p>
         </div>
     </div>
     <div class="ticket-end-notice comic-panel-light">

@@ -10,7 +10,27 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-03-31T20:36:31.257Z</updated>
+  <updated>2026-04-01T01:55:06.093Z</updated>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="application-development" scheme="https://stirtrek.com/tags/application-development/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Paul Chin Jr. to Stir Trek 2026!</p><img src="/images/speakers/2026/Paul-ChinJr..jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Paul-Chin-Jr-at-Stir-Trek-2026"><a href="#Paul-Chin-Jr-at-Stir-Trek-2026" class="headerlink" title="Paul Chin Jr. at Stir Trek 2026"></a>Paul Chin Jr. at Stir Trek 2026</h1><p><em>Curious Human who loves Automation, Food, &amp; Business.</em></p><div style="clear:both;"></div><hr><h2 id="About-Paul-Chin-Jr"><a href="#About-Paul-Chin-Jr" class="headerlink" title="About Paul Chin Jr."></a>About Paul Chin Jr.</h2><p>Paul Chin Jr is a Hampton Roads native and a curious human. He is passionate about exploring technology, art, and business. He advocates for making technology accessible and growing communities to help one another. He has created new markets, guided start-up validations, and architected enterprise platforms. The future is amazing, and he can’t wait to help you build it.</p><hr><h2 id="Session-Better-the-Devil-you-NoSQL-A-Battle-of-Paradigms"><a href="#Session-Better-the-Devil-you-NoSQL-A-Battle-of-Paradigms" class="headerlink" title="Session: Better the Devil you NoSQL - A Battle of Paradigms"></a>Session: Better the Devil you NoSQL - A Battle of Paradigms</h2><p><strong>1 May 2026 11:30 AM</strong> | Ghostbusters - Theatre 17 (20)<br><em>Track: Application Development</em></p><p>SQL or NoSQL? We’ll build the same app on DynamoDB and on Aurora DSQL, the latest cloud native database. Then compare modeling, query patterns, cost, latency, transactions, and ops. Takeaway practical insights from this packed micro demo. </p><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>I spent years living happily in my NoSQL safe space. I avoided SQL out of intimidation, without realizing the cost. Inspired by Ghost Rider’s redemption arc, I used the Devil I know to learn about the one I don’t. We’ll build a “Soul Contract Manager” for Ghost Rider with both DynamoDB and Aurora DSQL. In the process, we’ll see:</p><ul><li>How data modeling shapes query flexibility and agility</li><li>The realities of multi-record consistency (transactions vs. item-level ops)</li><li>Cost and latency levers under typical read&#x2F;write mixes</li><li>Secure connection patterns (IAM-issued tokens vs. app-managed secrets)</li></ul><p>Our goal isn’t to pick a winner; instead, you’ll get my hard-won lessons because redemption isn’t about choosing sides; it’s about feeling confident in your choices.</p><h2 id="What-You’ll-Learn"><a href="#What-You’ll-Learn" class="headerlink" title="What You’ll Learn"></a>What You’ll Learn</h2><ul><li><strong>Mental models:</strong> Access-pattern modeling (NoSQL) vs. relational modeling (SQL), you can explain to your team.</li><li><strong>Modeling tradeoffs in practice:</strong> Keys&#x2F;GSIs&#x2F;streams vs. schemas&#x2F;joins&#x2F;transactions.</li><li><strong>Performance &amp; cost levers:</strong> How workload shapes (read&#x2F;write ratio, query mix) changes outcomes.</li><li><strong>Security patterns:</strong> Secrets-free connections with IAM tokens; least-privilege access.</li></ul><h2 id="Why-You-Can’t-Miss-It"><a href="#Why-You-Can’t-Miss-It" class="headerlink" title="Why You Can’t Miss It"></a>Why You Can’t Miss It</h2><ul><li><strong>Memorable and Entertaining Analogies:</strong> Inspired by Ghost-Rider’s redemption story to make concepts stick.</li><li><strong>Hands-on realism:</strong> The <em>same</em> workflow implemented two ways—no hand-wavy “it depends.”</li></ul><h1 id="Audience-Level"><a href="#Audience-Level" class="headerlink" title="Audience &amp; Level"></a>Audience &amp; Level</h1><p>General developers, backend&#x2F;full-stack, cloud&#x2F;serverless engineers, Beginner–Intermediate level</p><hr><h2 id="Connect-with-Paul"><a href="#Connect-with-Paul" class="headerlink" title="Connect with Paul"></a>Connect with Paul</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/paulchinjr">https://www.linkedin.com/in/paulchinjr</a></li><li><strong>Website:</strong> <a href="https://serverlessguru.com/">https://serverlessguru.com</a></li><li><strong>Blog:</strong> <a href="https://www.linkedin.com/in/paulchinjr/">https://www.linkedin.com/in/paulchinjr/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Paul’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/04/01/2026-04-01-Paul_Chin_Jr/</id>
+    <link href="https://stirtrek.com/2026/04/01/2026-04-01-Paul_Chin_Jr/"/>
+    <published>2026-04-01T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Paul Chin Jr. to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Paul-ChinJr..jpg"]]>
+    </summary>
+    <title>Paul Chin Jr. at Stir Trek 2026</title>
+    <updated>2026-04-01T01:55:06.093Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -30,7 +50,7 @@
 <img src="/images/speakers/2026/Cameron-Presley.jpg"]]>
     </summary>
     <title>Cameron Presley at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
+    <updated>2026-04-01T01:55:06.093Z</updated>
   </entry>
   <entry>
     <author>
@@ -51,7 +71,7 @@
 <img src="/images/speakers/2026/Victor-Frye.png"]]>
     </summary>
     <title>Victor Frye at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
+    <updated>2026-04-01T01:55:06.093Z</updated>
   </entry>
   <entry>
     <author>
@@ -72,7 +92,7 @@
 <img src="/images/speakers/2026/Ed-Charbeneau.jpg"]]>
     </summary>
     <title>Ed Charbeneau at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
+    <updated>2026-04-01T01:55:06.093Z</updated>
   </entry>
   <entry>
     <author>
@@ -93,7 +113,7 @@
 <img src="/images/speakers/2026/Kate-Holterhoff.png"]]>
     </summary>
     <title>Kate Holterhoff at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
+    <updated>2026-04-01T01:55:06.093Z</updated>
   </entry>
   <entry>
     <author>
@@ -114,7 +134,7 @@
 <img src="/images/speakers/2026/Jay-Harris.jpg"]]>
     </summary>
     <title>Jay Harris at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
+    <updated>2026-04-01T01:55:06.093Z</updated>
   </entry>
   <entry>
     <author>
@@ -135,7 +155,7 @@
 <img src="/images/speakers/2026/Andrew-May.jpg"]]>
     </summary>
     <title>Andrew May at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
+    <updated>2026-04-01T01:55:06.093Z</updated>
   </entry>
   <entry>
     <author>
@@ -156,7 +176,7 @@
 <img src="/images/speakers/2026/Guy-Royse.jpg"]]>
     </summary>
     <title>Guy Royse at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
+    <updated>2026-04-01T01:55:06.093Z</updated>
   </entry>
   <entry>
     <author>
@@ -177,28 +197,7 @@
 <img src="/images/speakers/2026/Bill-Sempf.jpg"]]>
     </summary>
     <title>Bill Sempf at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="product-design" scheme="https://stirtrek.com/tags/product-design/"/>
-    <category term="user-experience" scheme="https://stirtrek.com/tags/user-experience/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Vitaliy Matiyash to Stir Trek 2026!</p><img src="/images/speakers/2026/Vitaliy-Matiyash.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Vitaliy-Matiyash-at-Stir-Trek-2026"><a href="#Vitaliy-Matiyash-at-Stir-Trek-2026" class="headerlink" title="Vitaliy Matiyash at Stir Trek 2026"></a>Vitaliy Matiyash at Stir Trek 2026</h1><p><em>Staff Software Engineer, Builder, Problem Solver.</em></p><div style="clear:both;"></div><hr><h2 id="About-Vitaliy-Matiyash"><a href="#About-Vitaliy-Matiyash" class="headerlink" title="About Vitaliy Matiyash"></a>About Vitaliy Matiyash</h2><p>Vitaliy Matiyash is Software Engineer from Columbus, Ohio, working on both front end and back end technologies with focus on web accessibility, Java and microservices. In his spare time he enjoys working on various DIY projects, biking, hiking Central Ohio trails and cooking from scratch.</p><hr><h2 id="Session-1-Dark-UX-Patterns"><a href="#Session-1-Dark-UX-Patterns" class="headerlink" title="Session 1: Dark UX Patterns"></a>Session 1: Dark UX Patterns</h2><p><strong>1 May 2026 10:30 AM</strong> | Galaxy Quest - Theatre 27 (23,24,25,26)<br><em>Track: Product Design &amp; User Experience</em></p><p>Congratulations! You are the 1,000,000th visitor to our website. Click here to redeem your prize! Just provide your date of birth and phone number to get started.</p><p>Learn about Dark UX Patterns, how they work, how they trick you and what companies are the worst offenders. Roach Motel, Privacy Zuckering? Let’s visit Dark Patterns Hall of Shame and see who joined the dark side!</p><p>This talk will break down the most popular dark patterns using real life examples from websites and apps you use every day. If you are a designer, a developer or a product manager, you will learn what to avoid when building your product and how to integrate digital well-being and safety features into your service. If you are an end user, we will teach you how to respond to dark patterns in order to stay safe online, protect your privacy, save your money and keep your sanity.</p><hr><h2 id="Session-2-Java-Anti-Patterns"><a href="#Session-2-Java-Anti-Patterns" class="headerlink" title="Session 2: Java Anti-Patterns"></a>Session 2: Java Anti-Patterns</h2><p><strong>1 May 2026 02:00 PM</strong> | Back to the Future - Theatre 3 (1,2)<br><em>Track: Application Development</em></p><p>God object, spaghetti code, magic numbers? Anti-patterns are traps that developers encounter frequently due to lack of time, carelessness, inexperience, or pressure from project managers. Rushing can lead to big problems for applications in future, so you need to know how to avoid potential errors.</p><p>Come learn about Java Anti-Patterns. In this session beginner Java developers can learn to identify common rookie developer mistakes. Experienced developers can cry or laugh together as we look at real-life examples of Java code. You will leave this session knowing how to avoid these anti-patterns and write elegant, maintainable, and (dare we say it?) fun to work with code. Finally, you will find better ways to implement solutions using Java.</p><hr><h2 id="Connect-with-Vitaliy"><a href="#Connect-with-Vitaliy" class="headerlink" title="Connect with Vitaliy"></a>Connect with Vitaliy</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/VitaliyMatiyash/">https://www.linkedin.com/in/VitaliyMatiyash/</a></li><li><strong>Twitter&#x2F;X:</strong> @vitaliymatiyash</li><li><strong>Blog:</strong> <a href="http://vitaliymatiyash.com/">http://vitaliymatiyash.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. With 2 sessions on the schedule, Vitaliy is bringing serious value to Stir Trek 2026 — don’t miss it!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/19/2026-03-19-Vitaliy_Matiyash/</id>
-    <link href="https://stirtrek.com/2026/03/19/2026-03-19-Vitaliy_Matiyash/"/>
-    <published>2026-03-19T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Vitaliy Matiyash to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Vitaliy-Matiyash.jpg"]]>
-    </summary>
-    <title>Vitaliy Matiyash at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
+    <updated>2026-04-01T01:55:06.093Z</updated>
   </entry>
   <entry>
     <author>
@@ -219,7 +218,28 @@
 <img src="/images/speakers/2026/Matthew-Hope-Eland.png"]]>
     </summary>
     <title>Matthew-Hope Eland at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
+    <updated>2026-04-01T01:55:06.093Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="product-design" scheme="https://stirtrek.com/tags/product-design/"/>
+    <category term="user-experience" scheme="https://stirtrek.com/tags/user-experience/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Vitaliy Matiyash to Stir Trek 2026!</p><img src="/images/speakers/2026/Vitaliy-Matiyash.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Vitaliy-Matiyash-at-Stir-Trek-2026"><a href="#Vitaliy-Matiyash-at-Stir-Trek-2026" class="headerlink" title="Vitaliy Matiyash at Stir Trek 2026"></a>Vitaliy Matiyash at Stir Trek 2026</h1><p><em>Staff Software Engineer, Builder, Problem Solver.</em></p><div style="clear:both;"></div><hr><h2 id="About-Vitaliy-Matiyash"><a href="#About-Vitaliy-Matiyash" class="headerlink" title="About Vitaliy Matiyash"></a>About Vitaliy Matiyash</h2><p>Vitaliy Matiyash is Software Engineer from Columbus, Ohio, working on both front end and back end technologies with focus on web accessibility, Java and microservices. In his spare time he enjoys working on various DIY projects, biking, hiking Central Ohio trails and cooking from scratch.</p><hr><h2 id="Session-1-Dark-UX-Patterns"><a href="#Session-1-Dark-UX-Patterns" class="headerlink" title="Session 1: Dark UX Patterns"></a>Session 1: Dark UX Patterns</h2><p><strong>1 May 2026 10:30 AM</strong> | Galaxy Quest - Theatre 27 (23,24,25,26)<br><em>Track: Product Design &amp; User Experience</em></p><p>Congratulations! You are the 1,000,000th visitor to our website. Click here to redeem your prize! Just provide your date of birth and phone number to get started.</p><p>Learn about Dark UX Patterns, how they work, how they trick you and what companies are the worst offenders. Roach Motel, Privacy Zuckering? Let’s visit Dark Patterns Hall of Shame and see who joined the dark side!</p><p>This talk will break down the most popular dark patterns using real life examples from websites and apps you use every day. If you are a designer, a developer or a product manager, you will learn what to avoid when building your product and how to integrate digital well-being and safety features into your service. If you are an end user, we will teach you how to respond to dark patterns in order to stay safe online, protect your privacy, save your money and keep your sanity.</p><hr><h2 id="Session-2-Java-Anti-Patterns"><a href="#Session-2-Java-Anti-Patterns" class="headerlink" title="Session 2: Java Anti-Patterns"></a>Session 2: Java Anti-Patterns</h2><p><strong>1 May 2026 02:00 PM</strong> | Back to the Future - Theatre 3 (1,2)<br><em>Track: Application Development</em></p><p>God object, spaghetti code, magic numbers? Anti-patterns are traps that developers encounter frequently due to lack of time, carelessness, inexperience, or pressure from project managers. Rushing can lead to big problems for applications in future, so you need to know how to avoid potential errors.</p><p>Come learn about Java Anti-Patterns. In this session beginner Java developers can learn to identify common rookie developer mistakes. Experienced developers can cry or laugh together as we look at real-life examples of Java code. You will leave this session knowing how to avoid these anti-patterns and write elegant, maintainable, and (dare we say it?) fun to work with code. Finally, you will find better ways to implement solutions using Java.</p><hr><h2 id="Connect-with-Vitaliy"><a href="#Connect-with-Vitaliy" class="headerlink" title="Connect with Vitaliy"></a>Connect with Vitaliy</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/VitaliyMatiyash/">https://www.linkedin.com/in/VitaliyMatiyash/</a></li><li><strong>Twitter&#x2F;X:</strong> @vitaliymatiyash</li><li><strong>Blog:</strong> <a href="http://vitaliymatiyash.com/">http://vitaliymatiyash.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. With 2 sessions on the schedule, Vitaliy is bringing serious value to Stir Trek 2026 — don’t miss it!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/19/2026-03-19-Vitaliy_Matiyash/</id>
+    <link href="https://stirtrek.com/2026/03/19/2026-03-19-Vitaliy_Matiyash/"/>
+    <published>2026-03-19T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Vitaliy Matiyash to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Vitaliy-Matiyash.jpg"]]>
+    </summary>
+    <title>Vitaliy Matiyash at Stir Trek 2026</title>
+    <updated>2026-04-01T01:55:06.093Z</updated>
   </entry>
   <entry>
     <author>
@@ -240,7 +260,7 @@
 <img src="/images/speakers/2026/Samuel-Gomez.jpg"]]>
     </summary>
     <title>Samuel Gomez at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
+    <updated>2026-04-01T01:55:06.093Z</updated>
   </entry>
   <entry>
     <author>
@@ -261,7 +281,7 @@
 <img src="/images/speakers/2026/Valarie-Regas.jpg"]]>
     </summary>
     <title>Valarie Regas at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
+    <updated>2026-04-01T01:55:06.093Z</updated>
   </entry>
   <entry>
     <author>
@@ -282,7 +302,7 @@
 <img src="/images/speakers/2026/Barret-Blake.png"]]>
     </summary>
     <title>Barret Blake at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
+    <updated>2026-04-01T01:55:06.093Z</updated>
   </entry>
   <entry>
     <author>
@@ -303,7 +323,7 @@
 <img src="/images/speakers/2026/Tristan-Chiappisi.jpg"]]>
     </summary>
     <title>Tristan Chiappisi at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
+    <updated>2026-04-01T01:55:06.093Z</updated>
   </entry>
   <entry>
     <author>
@@ -324,7 +344,7 @@
 <img src="/images/speakers/2026/Ardalis-..jpg"]]>
     </summary>
     <title>Ardalis . at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
+    <updated>2026-04-01T01:55:06.093Z</updated>
   </entry>
   <entry>
     <author>
@@ -344,7 +364,7 @@
 <img src="/images/speakers/2026/Lance-Finney.jpg"]]>
     </summary>
     <title>Lance Finney at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
+    <updated>2026-04-01T01:55:06.093Z</updated>
   </entry>
   <entry>
     <author>
@@ -365,7 +385,7 @@
 <img src="/images/speakers/2026/Jeff-McWherter.jpg"]]>
     </summary>
     <title>Jeff McWherter at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
+    <updated>2026-04-01T01:55:06.093Z</updated>
   </entry>
   <entry>
     <author>
@@ -386,7 +406,7 @@
 <img src="/images/speakers/2026/Kevin-Grossnicklaus.jpg"]]>
     </summary>
     <title>Kevin Grossnicklaus at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
+    <updated>2026-04-01T01:55:06.093Z</updated>
   </entry>
   <entry>
     <author>
@@ -407,27 +427,6 @@
 <img src="/images/speakers/2026/Christine-Miao.png"]]>
     </summary>
     <title>Christine Miao at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="architecture" scheme="https://stirtrek.com/tags/architecture/"/>
-    <category term="platform-engineering" scheme="https://stirtrek.com/tags/platform-engineering/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Hazel Bohon to Stir Trek 2026!</p><img src="/images/speakers/2026/Hazel-Bohon.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Hazel-Bohon-at-Stir-Trek-2026"><a href="#Hazel-Bohon-at-Stir-Trek-2026" class="headerlink" title="Hazel Bohon at Stir Trek 2026"></a>Hazel Bohon at Stir Trek 2026</h1><p><em>Software Engineer @ Particular</em></p><div style="clear:both;"></div><hr><h2 id="About-Hazel-Bohon"><a href="#About-Hazel-Bohon" class="headerlink" title="About Hazel Bohon"></a>About Hazel Bohon</h2><p>Hazel is a software engineer and mom. When she’s not debugging code, you can find her down at the lake fishing with her kids.</p><hr><h2 id="Session-1-Microservices-for-Pragmatists"><a href="#Session-1-Microservices-for-Pragmatists" class="headerlink" title="Session 1: Microservices for Pragmatists"></a>Session 1: Microservices for Pragmatists</h2><p><strong>1 May 2026 08:30 AM</strong> | The Goonies - Theatre 16 (21)<br><em>Track: Architecture &amp; Platform Engineering</em></p><p>Microservices architecture is often perceived as a pattern primarily suited for large organizations operating at web scale. However, it is equally applicable to smaller to medium-sized applications for internal use or smaller-scale public deployments. The scalability benefits of microservices are one of the compelling reasons to consider this architectural pattern.</p><p>In this presentation, we will explore the advantages and trade-offs associated with microservices. You will gain insights into the architectural patterns of microservices from a practical perspective. Real-world software development scenarios often present unique constraints; this presentation will guide you in identifying the aspects of microservices that align with your project’s requirements while ensuring compliance with the constraints.</p><p>Learning objectives:</p><ul><li>Benefits of microservices for small&#x2F;medium scale deployments</li><li>Trade-offs associated with microservices</li><li>How to pragmatically apply microservice design principles for your projects</li></ul><hr><h2 id="Session-2-Boiling-The-Frog-Implementing-a-Modern-Message-Based-Architecture-Without-Anyone-Noticing"><a href="#Session-2-Boiling-The-Frog-Implementing-a-Modern-Message-Based-Architecture-Without-Anyone-Noticing" class="headerlink" title="Session 2: Boiling The Frog: Implementing a Modern Message Based Architecture Without Anyone Noticing"></a>Session 2: Boiling The Frog: Implementing a Modern Message Based Architecture Without Anyone Noticing</h2><p><strong>1 May 2026 02:00 PM</strong> | The Goonies - Theatre 16 (21)<br><em>Track: Architecture &amp; Platform Engineering</em></p><p>Organizations are resistant to change, but it may not be for the reasons you think. When it comes to modernizing an application, navigating corporate bureaucracy is often the largest hurdle. Coordinating across multiple departments can be cumbersome and time-consuming. Dev teams often get stuck in a cycle of “hurry up and wait”.</p><p>Most talks about modernization talk about the strangler fig pattern. In this session, we will go beyond strangler fig to discuss how you can leverage technical solutions to subtly but effectively overcome bureaucratic challenges.</p><p>By empowering your team to move the ball forward, get things done, and achieve as much progress as possible independently, you will have happier developers and happier stakeholders.</p><hr><h2 id="Connect-with-Hazel"><a href="#Connect-with-Hazel" class="headerlink" title="Connect with Hazel"></a>Connect with Hazel</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/hazel-bohon-b777759/">https://www.linkedin.com/in/hazel-bohon-b777759/</a></li><li><strong>Website:</strong> <a href="https://particular.net/">https://particular.net</a></li><li><strong>Blog:</strong> <a href="https://hazel.codes/">https://hazel.codes</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. With 2 sessions on the schedule, Hazel is bringing serious value to Stir Trek 2026 — don’t miss it!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/12/2026-03-12-Hazel_Bohon/</id>
-    <link href="https://stirtrek.com/2026/03/12/2026-03-12-Hazel_Bohon/"/>
-    <published>2026-03-12T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Hazel Bohon to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Hazel-Bohon.jpg"]]>
-    </summary>
-    <title>Hazel Bohon at Stir Trek 2026</title>
-    <updated>2026-03-31T20:36:31.257Z</updated>
+    <updated>2026-04-01T01:55:06.093Z</updated>
   </entry>
 </feed>

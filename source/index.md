@@ -49,14 +49,14 @@ layout: index
             <img src="/images/2026-hostage-movies.png" alt="Stir Trek logo">
             <h3>Hollywood didn't cooperate and plan around Stir Trek so this year we're showing 8 classics!!!</h3>
             <ul>
-                <li>Back to the Future</li>
                 <li>The Last Starfighter</li>
                 <li>Inception</li>
-                <li>Interstellar</li>
                 <li>The Goonies</li>
                 <li>The Matrix</li>
                 <li>Ghostbusters</li>
+                <li>Interstellar</li>
                 <li>Galaxy Quest</li>
+                <li>Back to the Future</li>
             </ul>
         </div>
     </div>

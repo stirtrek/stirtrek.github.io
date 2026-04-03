@@ -41,6 +41,13 @@
       }
     ],
     "bronze": [],
-    "community": []
+    "community": [
+      {
+        "name": "Chocolatey",
+        "link": "https://chocolatey.org/",
+        "description": "Chocolatey is software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages. Chocolatey integrates w/SCCM, Puppet, Chef, etc. Chocolatey is trusted by businesses to manage software deployments.",
+        "logo": "/images/sponsors/chocolatey_350x200.png"
+      }
+    ]
   }
 }

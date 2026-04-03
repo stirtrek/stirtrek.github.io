@@ -10,7 +10,28 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-04-02T20:28:18.951Z</updated>
+  <updated>2026-04-03T01:45:43.436Z</updated>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="security" scheme="https://stirtrek.com/tags/security/"/>
+    <category term="privacy-engineering" scheme="https://stirtrek.com/tags/privacy-engineering/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Matt “Kelly” Williams to Stir Trek 2026!</p><img src="/images/speakers/2026/MattKelly-Williams.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Matt-“Kelly”-Williams-at-Stir-Trek-2026"><a href="#Matt-“Kelly”-Williams-at-Stir-Trek-2026" class="headerlink" title="Matt “Kelly” Williams at Stir Trek 2026"></a>Matt “Kelly” Williams at Stir Trek 2026</h1><p><em>Sustainable IT Innovator Championing Agile Sustainability &amp; Green Tech | | CEO of Sustainable IT Manifesto Foundation | International Speaker | Advisory Board Member</em></p><div style="clear:both;"></div><hr><h2 id="About-Matt-“Kelly”-Williams"><a href="#About-Matt-“Kelly”-Williams" class="headerlink" title="About Matt “Kelly” Williams"></a>About Matt “Kelly” Williams</h2><p>Matt “Kelly” Williams is the founder of Making Software Greener, the CEO  of the Sustainable IT Manifesto Foundation, advisory board member for the Green Computing Foundation, and a speaker and mentor on IT practices including DevOps, Cloud Computing, and mental health advocacy. He has always wanted to be a Renaissance person; perhaps one day he will be. In the meantime, he explores IT Sustainability, is learning photography, designs tabletop games, reads, weaves, cooks, hacks, and explores the mountains near Loveland, Colorado.</p><hr><h2 id="Session-From-Power-to-Supply-Chains-Sustainability-is-Security"><a href="#Session-From-Power-to-Supply-Chains-Sustainability-is-Security" class="headerlink" title="Session: From Power to Supply Chains: Sustainability is Security"></a>Session: From Power to Supply Chains: Sustainability is Security</h2><p><strong>1 May 2026 11:30 AM</strong> | Inception - Theatre 28 (18,19)<br><em>Track: Security &amp; Privacy Engineering</em></p><p>Technology is moving fast, and so are the environmental challenges we face. Security sits right in the middle of these pressures. It’s no longer just about defending systems—our choices around power, hardware, and supply chains also shape how secure those systems really are.</p><p>In this talk, I’ll explore why sustainability belongs in the security conversation. We’ll look at practical steps—like energy-efficient tools, leaner software, greener data centers, and responsible hardware lifecycles—that cut waste and costs while strengthening defenses. Just as importantly, we’ll examine how unstable supply chains, poor sourcing, or unreliable power can become security risks in themselves.</p><p>We’ll also connect this to risk and compliance: how building sustainability into security reduces exposure, steadies supply chains, and keeps organizations ahead of changing expectations. With real-world examples, you’ll walk away with a clear sense of how sustainability and security reinforce each other, and how to apply that thinking in your own work.</p><hr><h2 id="Connect-with-Matt"><a href="#Connect-with-Matt" class="headerlink" title="Connect with Matt"></a>Connect with Matt</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mattkwilliams/">https://www.linkedin.com/in/mattkwilliams/</a></li><li><strong>Twitter&#x2F;X:</strong> @matt_k_williams</li><li><strong>Website:</strong> <a href="https://makingsoftwaregreener.com/">https://makingsoftwaregreener.com</a></li><li><strong>Blog:</strong> <a href="http://matthewkwilliams.com/">http://matthewkwilliams.com</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Matt’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/04/03/2026-04-03-Matt__Kelly__Williams/</id>
+    <link href="https://stirtrek.com/2026/04/03/2026-04-03-Matt__Kelly__Williams/"/>
+    <published>2026-04-03T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Matt “Kelly” Williams to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/MattKelly-Williams.png"]]>
+    </summary>
+    <title>Matt 'Kelly' Williams at Stir Trek 2026</title>
+    <updated>2026-04-03T01:45:43.436Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -30,7 +51,7 @@
 <img src="/images/speakers/2026/Bob-Fornal.jpg"]]>
     </summary>
     <title>Bob Fornal at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
+    <updated>2026-04-03T01:45:43.435Z</updated>
   </entry>
   <entry>
     <author>
@@ -50,7 +71,7 @@
 <img src="/images/speakers/2026/Paul-ChinJr..jpg"]]>
     </summary>
     <title>Paul Chin Jr. at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
+    <updated>2026-04-03T01:45:43.435Z</updated>
   </entry>
   <entry>
     <author>
@@ -71,7 +92,7 @@
 <img src="/images/speakers/2026/Cameron-Presley.jpg"]]>
     </summary>
     <title>Cameron Presley at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
+    <updated>2026-04-03T01:45:43.435Z</updated>
   </entry>
   <entry>
     <author>
@@ -92,7 +113,7 @@
 <img src="/images/speakers/2026/Victor-Frye.png"]]>
     </summary>
     <title>Victor Frye at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
+    <updated>2026-04-03T01:45:43.435Z</updated>
   </entry>
   <entry>
     <author>
@@ -113,7 +134,7 @@
 <img src="/images/speakers/2026/Ed-Charbeneau.jpg"]]>
     </summary>
     <title>Ed Charbeneau at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
+    <updated>2026-04-03T01:45:43.435Z</updated>
   </entry>
   <entry>
     <author>
@@ -134,7 +155,7 @@
 <img src="/images/speakers/2026/Kate-Holterhoff.png"]]>
     </summary>
     <title>Kate Holterhoff at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
+    <updated>2026-04-03T01:45:43.435Z</updated>
   </entry>
   <entry>
     <author>
@@ -155,7 +176,7 @@
 <img src="/images/speakers/2026/Jay-Harris.jpg"]]>
     </summary>
     <title>Jay Harris at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
+    <updated>2026-04-03T01:45:43.435Z</updated>
   </entry>
   <entry>
     <author>
@@ -176,7 +197,7 @@
 <img src="/images/speakers/2026/Andrew-May.jpg"]]>
     </summary>
     <title>Andrew May at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
+    <updated>2026-04-03T01:45:43.435Z</updated>
   </entry>
   <entry>
     <author>
@@ -197,7 +218,7 @@
 <img src="/images/speakers/2026/Guy-Royse.jpg"]]>
     </summary>
     <title>Guy Royse at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
+    <updated>2026-04-03T01:45:43.435Z</updated>
   </entry>
   <entry>
     <author>
@@ -218,7 +239,7 @@
 <img src="/images/speakers/2026/Bill-Sempf.jpg"]]>
     </summary>
     <title>Bill Sempf at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
+    <updated>2026-04-03T01:45:43.435Z</updated>
   </entry>
   <entry>
     <author>
@@ -239,7 +260,7 @@
 <img src="/images/speakers/2026/Matthew-Hope-Eland.png"]]>
     </summary>
     <title>Matthew-Hope Eland at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
+    <updated>2026-04-03T01:45:43.435Z</updated>
   </entry>
   <entry>
     <author>
@@ -260,7 +281,7 @@
 <img src="/images/speakers/2026/Vitaliy-Matiyash.jpg"]]>
     </summary>
     <title>Vitaliy Matiyash at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
+    <updated>2026-04-03T01:45:43.435Z</updated>
   </entry>
   <entry>
     <author>
@@ -281,7 +302,7 @@
 <img src="/images/speakers/2026/Samuel-Gomez.jpg"]]>
     </summary>
     <title>Samuel Gomez at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
+    <updated>2026-04-03T01:45:43.435Z</updated>
   </entry>
   <entry>
     <author>
@@ -302,7 +323,7 @@
 <img src="/images/speakers/2026/Valarie-Regas.jpg"]]>
     </summary>
     <title>Valarie Regas at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
+    <updated>2026-04-03T01:45:43.435Z</updated>
   </entry>
   <entry>
     <author>
@@ -323,7 +344,7 @@
 <img src="/images/speakers/2026/Barret-Blake.png"]]>
     </summary>
     <title>Barret Blake at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
+    <updated>2026-04-03T01:45:43.435Z</updated>
   </entry>
   <entry>
     <author>
@@ -344,7 +365,7 @@
 <img src="/images/speakers/2026/Tristan-Chiappisi.jpg"]]>
     </summary>
     <title>Tristan Chiappisi at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
+    <updated>2026-04-03T01:45:43.435Z</updated>
   </entry>
   <entry>
     <author>
@@ -365,7 +386,7 @@
 <img src="/images/speakers/2026/Ardalis-..jpg"]]>
     </summary>
     <title>Ardalis . at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
+    <updated>2026-04-03T01:45:43.435Z</updated>
   </entry>
   <entry>
     <author>
@@ -385,7 +406,7 @@
 <img src="/images/speakers/2026/Lance-Finney.jpg"]]>
     </summary>
     <title>Lance Finney at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
+    <updated>2026-04-03T01:45:43.435Z</updated>
   </entry>
   <entry>
     <author>
@@ -406,27 +427,6 @@
 <img src="/images/speakers/2026/Jeff-McWherter.jpg"]]>
     </summary>
     <title>Jeff McWherter at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="software-quality" scheme="https://stirtrek.com/tags/software-quality/"/>
-    <category term="delivery" scheme="https://stirtrek.com/tags/delivery/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Kevin Grossnicklaus to Stir Trek 2026!</p><img src="/images/speakers/2026/Kevin-Grossnicklaus.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Kevin-Grossnicklaus-at-Stir-Trek-2026"><a href="#Kevin-Grossnicklaus-at-Stir-Trek-2026" class="headerlink" title="Kevin Grossnicklaus at Stir Trek 2026"></a>Kevin Grossnicklaus at Stir Trek 2026</h1><p><em>President, ArchitectNow</em></p><div style="clear:both;"></div><hr><h2 id="About-Kevin-Grossnicklaus"><a href="#About-Kevin-Grossnicklaus" class="headerlink" title="About Kevin Grossnicklaus"></a>About Kevin Grossnicklaus</h2><p>Kevin started developing software in 1985 at the age of 10 when his new Apple IIgs booted to a command prompt and he didn’t know what else to do with it.   He is now the president of a St. Louis, Missouri based development firm called ArchitectNow (<a href="http://www.architectnow.net/">www.architectnow.net</a>).  At ArchitectNow, Kevin and his team specialize in a wide variety of tools and technologies while delivering applications across a variety of cloud and mobile platforms.   He is an avid Telecaster player, fly fisherman, home brewer, and gamer (including everything from retro arcade games, to board games, to role playing games).  When not spending time on any of those hobbies he waits patiently for a second season of Firefly.</p><hr><h2 id="Session-Claude-Code-in-Action-Transforming-Custom-Software-Development-with-Agentic-AI"><a href="#Session-Claude-Code-in-Action-Transforming-Custom-Software-Development-with-Agentic-AI" class="headerlink" title="Session: Claude Code in Action: Transforming Custom Software Development with Agentic AI"></a>Session: Claude Code in Action: Transforming Custom Software Development with Agentic AI</h2><p><strong>1 May 2026 09:30 AM</strong> | Ghostbusters - Theatre 17 (20)<br><em>Track: Software Quality &amp; Delivery</em></p><p>AI is no longer just a developer productivity boost — it’s becoming a core driver of how software is designed, built, and delivered. At the forefront of this shift is Claude Code from Anthropic, a powerful, agentic AI coding partner that’s redefining what’s possible in modern development.</p><p>In this session, we’ll cut through the hype and show decision-makers how Claude Code can directly accelerate delivery, improve quality, and unlock new capabilities in your custom software projects. We’ll explore:</p><p>Agentic development in action — how Claude Code plans, reasons, and collaborates with your team to produce production-ready code</p><p>Integration across leading IDEs and environments for seamless adoption</p><p>Real-world use cases where Claude delivers transformational ROI — from rapid prototyping to complex refactoring and ongoing maintenance</p><p>Pricing models and considerations for scaling across teams</p><p>How we at ArchitectNow incorporate Claude into our own development process to deliver faster and smarter</p><p>Through illustrated real-world scenarios and concrete examples drawn from production projects, you’ll see why Claude Code stands apart — not just as another coding assistant, but as a strategic tool for driving efficiency, innovation, and competitive advantage in custom software development.</p><p>Whether you’re a CTO, CEO, development manager, or project leader, you’ll leave with a clear understanding of how Claude Code fits into your AI adoption strategy — and actionable steps to start realizing its benefits immediately.</p><hr><h2 id="Connect-with-Kevin"><a href="#Connect-with-Kevin" class="headerlink" title="Connect with Kevin"></a>Connect with Kevin</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kvgros/">https://www.linkedin.com/in/kvgros/</a></li><li><strong>Twitter&#x2F;X:</strong> @kvgros</li><li><strong>Website:</strong> <a href="https://www.architectnow.net/">https://www.architectnow.net</a></li><li><strong>Blog:</strong> <a href="http://www.architectnow.net/blog">http://www.architectnow.net/blog</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Kevin’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/13/2026-03-13-Kevin_Grossnicklaus/</id>
-    <link href="https://stirtrek.com/2026/03/13/2026-03-13-Kevin_Grossnicklaus/"/>
-    <published>2026-03-13T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Kevin Grossnicklaus to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Kevin-Grossnicklaus.jpg"]]>
-    </summary>
-    <title>Kevin Grossnicklaus at Stir Trek 2026</title>
-    <updated>2026-04-02T20:28:18.951Z</updated>
+    <updated>2026-04-03T01:45:43.435Z</updated>
   </entry>
 </feed>

@@ -53,7 +53,13 @@
                 "link": "https://chocolatey.org/",
                 "description": "Chocolatey is software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages. Chocolatey integrates w/SCCM, Puppet, Chef, etc. Chocolatey is trusted by businesses to manage software deployments.",
                 "logo": "/images/sponsors/chocolatey_350x200.png"
-            }
+            },
+            {
+                "name": "Ready Set Agile",
+                "link": "https://www.readysetagile.com/",
+                "description": "Our mission is to bridge the gap between business need and necessary expertise to continuously craft high value.  We do this by empowering thrivers to obtain feedback rapidly and respond to change.",
+                "logo": "/images/sponsors/readysetagile_v2_700x400.jpg"                
+            }            
         ]
     }
 }

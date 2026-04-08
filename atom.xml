@@ -10,7 +10,28 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-04-07T20:39:26.576Z</updated>
+  <updated>2026-04-08T01:23:30.967Z</updated>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="security" scheme="https://stirtrek.com/tags/security/"/>
+    <category term="privacy-engineering" scheme="https://stirtrek.com/tags/privacy-engineering/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Jamie Dicken to Stir Trek 2026!</p><img src="/images/speakers/2026/Jamie-Dicken.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Jamie-Dicken-at-Stir-Trek-2026"><a href="#Jamie-Dicken-at-Stir-Trek-2026" class="headerlink" title="Jamie Dicken at Stir Trek 2026"></a>Jamie Dicken at Stir Trek 2026</h1><p><em>Builder and Protector</em></p><div style="clear:both;"></div><hr><h2 id="About-Jamie-Dicken"><a href="#About-Jamie-Dicken" class="headerlink" title="About Jamie Dicken"></a>About Jamie Dicken</h2><p>Jamie Dicken has worked across much of cybersecurity domain, including product security, AppSec, DevSecOps, security tooling and automation, and GRC. Prior to her transition into cybersecurity, she spent 8 years as a software engineer and technical manager at two Fortune 15 healthcare companies, where she focused on designing, building, and delivering new features to the market. Now Jamie focuses on protecting systems like the ones she used to build and transforming the ways that engineering teams and security professionals work together. Jamie is currently the Director of Security Platforms and Architecture at GitLab, leading Security Architecture, Security Research, and AppSec. She also freelances as a threat modeling instructor at Shostack + Associates.</p><p>Her professional passions include leading high-performing teams, executing on high-profile strategic initiatives, championing employee growth and development, and mentoring others. Outside of work, Jamie has lots of adventures with her two boys and husband.  She enjoys crafting and spending time outdoors.</p><hr><h2 id="Session-A-developer’s-guide-to-making-security-reviews-suck-less"><a href="#Session-A-developer’s-guide-to-making-security-reviews-suck-less" class="headerlink" title="Session: A developer’s guide to making security reviews suck less"></a>Session: A developer’s guide to making security reviews suck less</h2><p><strong>1 May 2026 02:00 PM</strong> | Inception - Theatre 28 (18,19)<br><em>Track: Security &amp; Privacy Engineering</em></p><p>In many companies, security reviews suck. You’ve spent weeks or months grinding on a new feature and you’re finally ready to push to production, only to have a security review at the eleventh hour spark chaos. A security engineer raises a concern that might be valid or might be a total misunderstanding, but either way, it leads to urgent meetings, escalations, and complicated Go&#x2F;No-Go decisions.</p><p>In this talk, we will dive into how to navigate these reviews without the drama. As an AppSec Director, I will help you understand exactly what security teams are looking for and why. I’ll show you anticipate their concerns and requirements so you aren’t surprised by scope creep right before code complete. We will explore how to effectively engage your security team, what specific information they need from you, and how to speak their language so you can accurately address concerns and get to the heart of their requirements.</p><p>By the end of this session, you will have a straightforward strategy to streamline your next security review and build a more collaborative relationship with your security partners. You will walk away with the tools to reduce the friction that leads to pre-launch panic, helping your team ship with significantly fewer headaches.</p><hr><h2 id="Connect-with-Jamie"><a href="#Connect-with-Jamie" class="headerlink" title="Connect with Jamie"></a>Connect with Jamie</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jdicken/">https://www.linkedin.com/in/jdicken/</a></li><li><strong>Blog:</strong> <a href="https://medium.com/@jamie_dicken">https://medium.com/@jamie_dicken</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Jamie’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/04/08/2026-04-08-Jamie_Dicken/</id>
+    <link href="https://stirtrek.com/2026/04/08/2026-04-08-Jamie_Dicken/"/>
+    <published>2026-04-08T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Jamie Dicken to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Jamie-Dicken.jpg"]]>
+    </summary>
+    <title>Jamie Dicken at Stir Trek 2026</title>
+    <updated>2026-04-08T01:23:30.967Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -30,7 +51,7 @@
 <img src="/images/speakers/2026/David-Giard.jpg"]]>
     </summary>
     <title>David Giard at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
+    <updated>2026-04-08T01:23:30.967Z</updated>
   </entry>
   <entry>
     <author>
@@ -51,7 +72,7 @@
 <img src="/images/speakers/2026/Burton-Smith.jpg"]]>
     </summary>
     <title>Burton Smith at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
+    <updated>2026-04-08T01:23:30.967Z</updated>
   </entry>
   <entry>
     <author>
@@ -72,7 +93,7 @@
 <img src="/images/speakers/2026/MattKelly-Williams.png"]]>
     </summary>
     <title>Matt 'Kelly' Williams at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
+    <updated>2026-04-08T01:23:30.967Z</updated>
   </entry>
   <entry>
     <author>
@@ -93,7 +114,7 @@
 <img src="/images/speakers/2026/Bob-Fornal.jpg"]]>
     </summary>
     <title>Bob Fornal at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
+    <updated>2026-04-08T01:23:30.967Z</updated>
   </entry>
   <entry>
     <author>
@@ -113,7 +134,7 @@
 <img src="/images/speakers/2026/Paul-ChinJr..jpg"]]>
     </summary>
     <title>Paul Chin Jr. at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
+    <updated>2026-04-08T01:23:30.967Z</updated>
   </entry>
   <entry>
     <author>
@@ -134,7 +155,7 @@
 <img src="/images/speakers/2026/Cameron-Presley.jpg"]]>
     </summary>
     <title>Cameron Presley at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
+    <updated>2026-04-08T01:23:30.967Z</updated>
   </entry>
   <entry>
     <author>
@@ -155,7 +176,7 @@
 <img src="/images/speakers/2026/Victor-Frye.png"]]>
     </summary>
     <title>Victor Frye at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
+    <updated>2026-04-08T01:23:30.967Z</updated>
   </entry>
   <entry>
     <author>
@@ -176,7 +197,7 @@
 <img src="/images/speakers/2026/Ed-Charbeneau.jpg"]]>
     </summary>
     <title>Ed Charbeneau at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
+    <updated>2026-04-08T01:23:30.967Z</updated>
   </entry>
   <entry>
     <author>
@@ -197,7 +218,7 @@
 <img src="/images/speakers/2026/Kate-Holterhoff.png"]]>
     </summary>
     <title>Kate Holterhoff at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
+    <updated>2026-04-08T01:23:30.967Z</updated>
   </entry>
   <entry>
     <author>
@@ -218,7 +239,7 @@
 <img src="/images/speakers/2026/Jay-Harris.jpg"]]>
     </summary>
     <title>Jay Harris at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
+    <updated>2026-04-08T01:23:30.967Z</updated>
   </entry>
   <entry>
     <author>
@@ -239,7 +260,7 @@
 <img src="/images/speakers/2026/Andrew-May.jpg"]]>
     </summary>
     <title>Andrew May at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
+    <updated>2026-04-08T01:23:30.967Z</updated>
   </entry>
   <entry>
     <author>
@@ -260,7 +281,7 @@
 <img src="/images/speakers/2026/Guy-Royse.jpg"]]>
     </summary>
     <title>Guy Royse at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
+    <updated>2026-04-08T01:23:30.967Z</updated>
   </entry>
   <entry>
     <author>
@@ -281,7 +302,7 @@
 <img src="/images/speakers/2026/Bill-Sempf.jpg"]]>
     </summary>
     <title>Bill Sempf at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
+    <updated>2026-04-08T01:23:30.967Z</updated>
   </entry>
   <entry>
     <author>
@@ -302,7 +323,7 @@
 <img src="/images/speakers/2026/Matthew-Hope-Eland.png"]]>
     </summary>
     <title>Matthew-Hope Eland at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
+    <updated>2026-04-08T01:23:30.967Z</updated>
   </entry>
   <entry>
     <author>
@@ -323,28 +344,7 @@
 <img src="/images/speakers/2026/Vitaliy-Matiyash.jpg"]]>
     </summary>
     <title>Vitaliy Matiyash at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="artificial-intelligence" scheme="https://stirtrek.com/tags/artificial-intelligence/"/>
-    <category term="machine-learning" scheme="https://stirtrek.com/tags/machine-learning/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Samuel Gomez to Stir Trek 2026!</p><img src="/images/speakers/2026/Samuel-Gomez.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Samuel-Gomez-at-Stir-Trek-2026"><a href="#Samuel-Gomez-at-Stir-Trek-2026" class="headerlink" title="Samuel Gomez at Stir Trek 2026"></a>Samuel Gomez at Stir Trek 2026</h1><p><em>Microsoft MVP and Head of AI at Geneca</em></p><div style="clear:both;"></div><hr><h2 id="About-Samuel-Gomez"><a href="#About-Samuel-Gomez" class="headerlink" title="About Samuel Gomez"></a>About Samuel Gomez</h2><p>I’ve worked in software development for 15+ years (mostly Microsoft technologies) and love the problem solving aspect of the work. In recent years I have become very passionate about AI and machine learning technologies and how they can be applied to different aspects of our lives. When not coding I enjoy spending time with my family, soccer (watching, playing, and coaching), playing videogames and watching movies.</p><hr><h2 id="Session-Mission-AI-Possible-–-Taming-your-AI-agent-swarms"><a href="#Session-Mission-AI-Possible-–-Taming-your-AI-agent-swarms" class="headerlink" title="Session: Mission: AI Possible – Taming your AI agent swarms"></a>Session: Mission: AI Possible – Taming your AI agent swarms</h2><p><strong>1 May 2026 09:30 AM</strong> | The Last Starfighter - Theatre 14 (12,13)<br><em>Track: Artificial Intelligence &amp; Machine Learning</em></p><p>As organizations implement AI systems, they often encounter tasks too complex for a single agent—making multi-agent architectures vital. For example, hospitals rely on specialized agents for medical imaging, scheduling, and insurance coordination; travel platforms use agents to book flights, find hotels, and suggest activities; retailers automate inventory, supply chain, and CRM through multiple integrated agents; and software teams decompose projects across coding, testing, and documentation agents. In these scenarios, successful orchestration ensures agents communicate, delegate, and collaborate effectively, always staying aligned with organizational goals.</p><p>In this talk, we will explore how Microsoft Agent Framework provides a robust foundation for building and orchestrating multiagent systems that are secure, extensible, and production ready. We will review the best practices and architecture patterns required to implement different orchestration workflows (for example: Sequential, concurrent and handoff) as well as the unique challenges presented by each of them.</p><p>By the end of the session, participants will understand how to apply different orchestration workflows to build scalable, collaborative AI systems that leverage multiple agents to deliver higher accuracy, resilience, and automation across different scenarios.</p><hr><h2 id="Connect-with-Samuel"><a href="#Connect-with-Samuel" class="headerlink" title="Connect with Samuel"></a>Connect with Samuel</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/samueljgomez/">https://www.linkedin.com/in/samueljgomez/</a></li><li><strong>Twitter&#x2F;X:</strong> @thesoccerdev</li><li><strong>Website:</strong> <a href="https://geneca.com/">https://geneca.com/</a></li><li><strong>Blog:</strong> <a href="https://www.thesoccerdev.com/">https://www.thesoccerdev.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Samuel’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/18/2026-03-18-Samuel_Gomez/</id>
-    <link href="https://stirtrek.com/2026/03/18/2026-03-18-Samuel_Gomez/"/>
-    <published>2026-03-18T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Samuel Gomez to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Samuel-Gomez.jpg"]]>
-    </summary>
-    <title>Samuel Gomez at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
+    <updated>2026-04-08T01:23:30.967Z</updated>
   </entry>
   <entry>
     <author>
@@ -365,7 +365,28 @@
 <img src="/images/speakers/2026/Valarie-Regas.jpg"]]>
     </summary>
     <title>Valarie Regas at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
+    <updated>2026-04-08T01:23:30.967Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="artificial-intelligence" scheme="https://stirtrek.com/tags/artificial-intelligence/"/>
+    <category term="machine-learning" scheme="https://stirtrek.com/tags/machine-learning/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Samuel Gomez to Stir Trek 2026!</p><img src="/images/speakers/2026/Samuel-Gomez.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Samuel-Gomez-at-Stir-Trek-2026"><a href="#Samuel-Gomez-at-Stir-Trek-2026" class="headerlink" title="Samuel Gomez at Stir Trek 2026"></a>Samuel Gomez at Stir Trek 2026</h1><p><em>Microsoft MVP and Head of AI at Geneca</em></p><div style="clear:both;"></div><hr><h2 id="About-Samuel-Gomez"><a href="#About-Samuel-Gomez" class="headerlink" title="About Samuel Gomez"></a>About Samuel Gomez</h2><p>I’ve worked in software development for 15+ years (mostly Microsoft technologies) and love the problem solving aspect of the work. In recent years I have become very passionate about AI and machine learning technologies and how they can be applied to different aspects of our lives. When not coding I enjoy spending time with my family, soccer (watching, playing, and coaching), playing videogames and watching movies.</p><hr><h2 id="Session-Mission-AI-Possible-–-Taming-your-AI-agent-swarms"><a href="#Session-Mission-AI-Possible-–-Taming-your-AI-agent-swarms" class="headerlink" title="Session: Mission: AI Possible – Taming your AI agent swarms"></a>Session: Mission: AI Possible – Taming your AI agent swarms</h2><p><strong>1 May 2026 09:30 AM</strong> | The Last Starfighter - Theatre 14 (12,13)<br><em>Track: Artificial Intelligence &amp; Machine Learning</em></p><p>As organizations implement AI systems, they often encounter tasks too complex for a single agent—making multi-agent architectures vital. For example, hospitals rely on specialized agents for medical imaging, scheduling, and insurance coordination; travel platforms use agents to book flights, find hotels, and suggest activities; retailers automate inventory, supply chain, and CRM through multiple integrated agents; and software teams decompose projects across coding, testing, and documentation agents. In these scenarios, successful orchestration ensures agents communicate, delegate, and collaborate effectively, always staying aligned with organizational goals.</p><p>In this talk, we will explore how Microsoft Agent Framework provides a robust foundation for building and orchestrating multiagent systems that are secure, extensible, and production ready. We will review the best practices and architecture patterns required to implement different orchestration workflows (for example: Sequential, concurrent and handoff) as well as the unique challenges presented by each of them.</p><p>By the end of the session, participants will understand how to apply different orchestration workflows to build scalable, collaborative AI systems that leverage multiple agents to deliver higher accuracy, resilience, and automation across different scenarios.</p><hr><h2 id="Connect-with-Samuel"><a href="#Connect-with-Samuel" class="headerlink" title="Connect with Samuel"></a>Connect with Samuel</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/samueljgomez/">https://www.linkedin.com/in/samueljgomez/</a></li><li><strong>Twitter&#x2F;X:</strong> @thesoccerdev</li><li><strong>Website:</strong> <a href="https://geneca.com/">https://geneca.com/</a></li><li><strong>Blog:</strong> <a href="https://www.thesoccerdev.com/">https://www.thesoccerdev.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Samuel’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/03/18/2026-03-18-Samuel_Gomez/</id>
+    <link href="https://stirtrek.com/2026/03/18/2026-03-18-Samuel_Gomez/"/>
+    <published>2026-03-18T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Samuel Gomez to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Samuel-Gomez.jpg"]]>
+    </summary>
+    <title>Samuel Gomez at Stir Trek 2026</title>
+    <updated>2026-04-08T01:23:30.967Z</updated>
   </entry>
   <entry>
     <author>
@@ -386,7 +407,7 @@
 <img src="/images/speakers/2026/Barret-Blake.png"]]>
     </summary>
     <title>Barret Blake at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
+    <updated>2026-04-08T01:23:30.967Z</updated>
   </entry>
   <entry>
     <author>
@@ -407,27 +428,6 @@
 <img src="/images/speakers/2026/Tristan-Chiappisi.jpg"]]>
     </summary>
     <title>Tristan Chiappisi at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="architecture" scheme="https://stirtrek.com/tags/architecture/"/>
-    <category term="platform-engineering" scheme="https://stirtrek.com/tags/platform-engineering/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Ardalis . to Stir Trek 2026!</p><img src="/images/speakers/2026/Ardalis-..jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Ardalis-at-Stir-Trek-2026"><a href="#Ardalis-at-Stir-Trek-2026" class="headerlink" title="Ardalis . at Stir Trek 2026"></a>Ardalis . at Stir Trek 2026</h1><p><em>Founder and Principal Architect at NimblePros, Microsoft MVP, Author, Speaker, Trainer</em></p><div style="clear:both;"></div><hr><h2 id="About-Ardalis"><a href="#About-Ardalis" class="headerlink" title="About Ardalis ."></a>About Ardalis .</h2><p>Ardalis (Steve Smith) is an entrepreneur and software developer with a passion for building quality software as effectively as possible. Ardalis has published DOZENS of courses on Pluralsight and Dometrain, covering DDD, SOLID, design patterns, and software architecture. He’s a Microsoft ASP.NET MVP, a frequent speaker at developer conferences, an author, and a trainer.</p><p>Ardalis works with companies through NimblePros, the boutique consulting company he runs with his wife, Michelle. They help teams who want to avoid the trap of technical debt to deliver better software, faster. Ardalis and NimblePros have been described by clients as a “force multiplier”, amplifying the value of existing development teams.</p><p>Follow ardalis on BlueSky, YouTube, and ardalis.com.</p><hr><h2 id="Session-The-Dark-Side-of-Microservices"><a href="#Session-The-Dark-Side-of-Microservices" class="headerlink" title="Session: The Dark Side of Microservices"></a>Session: The Dark Side of Microservices</h2><p><strong>1 May 2026 09:30 AM</strong> | The Goonies - Theatre 16 (21)<br><em>Track: Architecture &amp; Platform Engineering</em></p><p>You want to solve a problem with your application, and you want to use microservices. Ok, so now you have two problems…</p><p>Microservices continue to be a huge buzzword in our industry, and in some scenarios they can offer significant benefits. But building microservice-based systems requires substantially different skills than traditional applications, and in many cases the added complexity isn’t warranted.</p><p>In this session, you’ll learn when NOT to use a microservice, and many ways in which you can design your microservice architecture the wrong way, eliminating the benefits your organization had hoped to reap from them. Hopefully you’ll leave knowing a few pitfalls to avoid, or at least if you already have some of the scars from past implementations, you may find the session therapeutic.</p><hr><h2 id="Connect-with-Ardalis"><a href="#Connect-with-Ardalis" class="headerlink" title="Connect with Ardalis"></a>Connect with Ardalis</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/stevenandrewsmith">https://www.linkedin.com/in/stevenandrewsmith</a></li><li><strong>Twitter&#x2F;X:</strong> @ardalis</li><li><strong>Website:</strong> <a href="https://nimblepros.com/">https://nimblepros.com</a></li><li><strong>Blog:</strong> <a href="https://ardalis.com/blog">https://ardalis.com/blog</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Ardalis’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/16/2026-03-16-Ardalis/</id>
-    <link href="https://stirtrek.com/2026/03/16/2026-03-16-Ardalis/"/>
-    <published>2026-03-16T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Ardalis . to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Ardalis-..jpg"]]>
-    </summary>
-    <title>Ardalis . at Stir Trek 2026</title>
-    <updated>2026-04-07T20:39:26.576Z</updated>
+    <updated>2026-04-08T01:23:30.967Z</updated>
   </entry>
 </feed>

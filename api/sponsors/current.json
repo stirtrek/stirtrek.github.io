@@ -53,6 +53,12 @@
         "link": "https://www.readysetagile.com/",
         "description": "Our mission is to bridge the gap between business need and necessary expertise to continuously craft high value.  We do this by empowering thrivers to obtain feedback rapidly and respond to change.",
         "logo": "/images/sponsors/readysetagile_v2_700x400.jpg"
+      },
+      {
+        "name": "NimblePros",
+        "link": "https://nimblepros.com/",
+        "description": "Leading experts in software architecture, DDD, and design patterns. Enhance your skills with NimblePros.",
+        "logo": "/images/sponsors/nimblepros_350x200.jpg"
       }
     ]
   }

@@ -10,7 +10,28 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-04-13T20:45:31.240Z</updated>
+  <updated>2026-04-14T01:54:07.393Z</updated>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="architecture" scheme="https://stirtrek.com/tags/architecture/"/>
+    <category term="platform-engineering" scheme="https://stirtrek.com/tags/platform-engineering/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Eldert Grootenboer to Stir Trek 2026!</p><img src="/images/speakers/2026/Eldert-Grootenboer.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Eldert-Grootenboer-at-Stir-Trek-2026"><a href="#Eldert-Grootenboer-at-Stir-Trek-2026" class="headerlink" title="Eldert Grootenboer at Stir Trek 2026"></a>Eldert Grootenboer at Stir Trek 2026</h1><p><em>Principal Product Manager @Microsoft | #Azure Service Bus | Former #Azure MVP | Community Enthousiast</em></p><div style="clear:both;"></div><hr><h2 id="About-Eldert-Grootenboer"><a href="#About-Eldert-Grootenboer" class="headerlink" title="About Eldert Grootenboer"></a>About Eldert Grootenboer</h2><p>Eldert is always enthusiastic about embarking on new journeys with the Cloud, and Azure in particular. He is very passionate about growing his dreams and teams, and goes above and beyond to help those with the same spark. Eldert comes from a background as a cloud solution architect and Technology Lead, was an Azure MVP for 5 consecutive years, and is now working as a Principal Product Manager at Microsoft for Azure Service Bus.</p><p>Always having a smile on his face, Eldert can be found delivering noteworthy sessions at in-person conferences, meetups, and online platforms. He values sharing and spreading knowledge while building genuine connections regardless of background and expertise. His goal is to bring people closer and work together to influence the outcome and optimize the future of Cloud technologies.</p><hr><h2 id="Session-Engineering-for-Reliability-and-Stability-in-the-Azure-Messaging-Services"><a href="#Session-Engineering-for-Reliability-and-Stability-in-the-Azure-Messaging-Services" class="headerlink" title="Session: Engineering for Reliability and Stability in the Azure Messaging Services"></a>Session: Engineering for Reliability and Stability in the Azure Messaging Services</h2><p><strong>1 May 2026 03:00 PM</strong> | The Goonies - Theatre 16 (21)<br><em>Track: Architecture &amp; Platform Engineering</em></p><p>Anything that can go wrong will go wrong at some point, so it is best to come prepared. Whether you are in the cloud or running your own data center, there is always a risk of power outages, hardware failures, natural disasters, or other unexpected events. These can be especially impactful for critical components in your architecture, such as your message broker. In this session, we explore capabilities that enhance the reliability and stability of Azure Messaging services, specifically Service Bus and Event Hubs.</p><p>We first look at high-availability options provided by Azure, including transient error handling and Availability Zones, which offer a solid foundation for building reliable workloads. Furthermore, we also examine advanced features that provide additional resilience in unexpected situations, such as Geo-Replication.</p><p>Our recommendations are not limited to the platform itself. We also cover improvements you can implement when building and hosting applications, including retry and exception handling, and the various hosting models available for clients.</p><p>By attending this session, you will learn practical tips and guidelines directly from the Azure Messaging product group, helping you prepare for unplanned events and maintain confidence in the reliability of your systems.</p><hr><h2 id="Connect-with-Eldert"><a href="#Connect-with-Eldert" class="headerlink" title="Connect with Eldert"></a>Connect with Eldert</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/eldert-grootenboer">https://www.linkedin.com/in/eldert-grootenboer</a></li><li><strong>Twitter&#x2F;X:</strong> @egrootenboer</li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Eldert’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/04/14/2026-04-14-Eldert_Grootenboer/</id>
+    <link href="https://stirtrek.com/2026/04/14/2026-04-14-Eldert_Grootenboer/"/>
+    <published>2026-04-14T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Eldert Grootenboer to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Eldert-Grootenboer.png"]]>
+    </summary>
+    <title>Eldert Grootenboer at Stir Trek 2026</title>
+    <updated>2026-04-14T01:54:07.393Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -29,7 +50,7 @@
 <img src="/images/speakers/2026/Ken-Versaw.jpg"]]>
     </summary>
     <title>Ken Versaw at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.240Z</updated>
+    <updated>2026-04-14T01:54:07.393Z</updated>
   </entry>
   <entry>
     <author>
@@ -50,7 +71,7 @@
 <img src="/images/speakers/2026/Sarah-Dutkiewicz.jpg"]]>
     </summary>
     <title>Sarah Dutkiewicz at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.240Z</updated>
+    <updated>2026-04-14T01:54:07.392Z</updated>
   </entry>
   <entry>
     <author>
@@ -71,7 +92,7 @@
 <img src="/images/speakers/2026/Amanda-Lange.jpg"]]>
     </summary>
     <title>Amanda Lange at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.240Z</updated>
+    <updated>2026-04-14T01:54:07.392Z</updated>
   </entry>
   <entry>
     <author>
@@ -92,7 +113,7 @@
 <img src="/images/speakers/2026/Jamie-Dicken.jpg"]]>
     </summary>
     <title>Jamie Dicken at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.240Z</updated>
+    <updated>2026-04-14T01:54:07.392Z</updated>
   </entry>
   <entry>
     <author>
@@ -113,7 +134,7 @@
 <img src="/images/speakers/2026/David-Giard.jpg"]]>
     </summary>
     <title>David Giard at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.240Z</updated>
+    <updated>2026-04-14T01:54:07.392Z</updated>
   </entry>
   <entry>
     <author>
@@ -134,7 +155,7 @@
 <img src="/images/speakers/2026/Burton-Smith.jpg"]]>
     </summary>
     <title>Burton Smith at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.240Z</updated>
+    <updated>2026-04-14T01:54:07.392Z</updated>
   </entry>
   <entry>
     <author>
@@ -155,7 +176,7 @@
 <img src="/images/speakers/2026/MattKelly-Williams.png"]]>
     </summary>
     <title>Matt 'Kelly' Williams at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.240Z</updated>
+    <updated>2026-04-14T01:54:07.392Z</updated>
   </entry>
   <entry>
     <author>
@@ -176,7 +197,7 @@
 <img src="/images/speakers/2026/Bob-Fornal.jpg"]]>
     </summary>
     <title>Bob Fornal at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.240Z</updated>
+    <updated>2026-04-14T01:54:07.392Z</updated>
   </entry>
   <entry>
     <author>
@@ -196,7 +217,7 @@
 <img src="/images/speakers/2026/Paul-ChinJr..jpg"]]>
     </summary>
     <title>Paul Chin Jr. at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.240Z</updated>
+    <updated>2026-04-14T01:54:07.392Z</updated>
   </entry>
   <entry>
     <author>
@@ -217,7 +238,7 @@
 <img src="/images/speakers/2026/Cameron-Presley.jpg"]]>
     </summary>
     <title>Cameron Presley at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.240Z</updated>
+    <updated>2026-04-14T01:54:07.392Z</updated>
   </entry>
   <entry>
     <author>
@@ -238,7 +259,7 @@
 <img src="/images/speakers/2026/Victor-Frye.png"]]>
     </summary>
     <title>Victor Frye at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.239Z</updated>
+    <updated>2026-04-14T01:54:07.392Z</updated>
   </entry>
   <entry>
     <author>
@@ -259,7 +280,7 @@
 <img src="/images/speakers/2026/Ed-Charbeneau.jpg"]]>
     </summary>
     <title>Ed Charbeneau at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.239Z</updated>
+    <updated>2026-04-14T01:54:07.392Z</updated>
   </entry>
   <entry>
     <author>
@@ -280,7 +301,7 @@
 <img src="/images/speakers/2026/Kate-Holterhoff.png"]]>
     </summary>
     <title>Kate Holterhoff at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.239Z</updated>
+    <updated>2026-04-14T01:54:07.392Z</updated>
   </entry>
   <entry>
     <author>
@@ -301,7 +322,7 @@
 <img src="/images/speakers/2026/Jay-Harris.jpg"]]>
     </summary>
     <title>Jay Harris at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.239Z</updated>
+    <updated>2026-04-14T01:54:07.392Z</updated>
   </entry>
   <entry>
     <author>
@@ -322,7 +343,7 @@
 <img src="/images/speakers/2026/Andrew-May.jpg"]]>
     </summary>
     <title>Andrew May at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.239Z</updated>
+    <updated>2026-04-14T01:54:07.392Z</updated>
   </entry>
   <entry>
     <author>
@@ -343,7 +364,7 @@
 <img src="/images/speakers/2026/Guy-Royse.jpg"]]>
     </summary>
     <title>Guy Royse at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.239Z</updated>
+    <updated>2026-04-14T01:54:07.392Z</updated>
   </entry>
   <entry>
     <author>
@@ -364,7 +385,7 @@
 <img src="/images/speakers/2026/Bill-Sempf.jpg"]]>
     </summary>
     <title>Bill Sempf at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.239Z</updated>
+    <updated>2026-04-14T01:54:07.392Z</updated>
   </entry>
   <entry>
     <author>
@@ -385,7 +406,7 @@
 <img src="/images/speakers/2026/Matthew-Hope-Eland.png"]]>
     </summary>
     <title>Matthew-Hope Eland at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.239Z</updated>
+    <updated>2026-04-14T01:54:07.392Z</updated>
   </entry>
   <entry>
     <author>
@@ -406,27 +427,6 @@
 <img src="/images/speakers/2026/Vitaliy-Matiyash.jpg"]]>
     </summary>
     <title>Vitaliy Matiyash at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.239Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="artificial-intelligence" scheme="https://stirtrek.com/tags/artificial-intelligence/"/>
-    <category term="machine-learning" scheme="https://stirtrek.com/tags/machine-learning/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Samuel Gomez to Stir Trek 2026!</p><img src="/images/speakers/2026/Samuel-Gomez.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Samuel-Gomez-at-Stir-Trek-2026"><a href="#Samuel-Gomez-at-Stir-Trek-2026" class="headerlink" title="Samuel Gomez at Stir Trek 2026"></a>Samuel Gomez at Stir Trek 2026</h1><p><em>Microsoft MVP and Head of AI at Geneca</em></p><div style="clear:both;"></div><hr><h2 id="About-Samuel-Gomez"><a href="#About-Samuel-Gomez" class="headerlink" title="About Samuel Gomez"></a>About Samuel Gomez</h2><p>I’ve worked in software development for 15+ years (mostly Microsoft technologies) and love the problem solving aspect of the work. In recent years I have become very passionate about AI and machine learning technologies and how they can be applied to different aspects of our lives. When not coding I enjoy spending time with my family, soccer (watching, playing, and coaching), playing videogames and watching movies.</p><hr><h2 id="Session-Mission-AI-Possible-–-Taming-your-AI-agent-swarms"><a href="#Session-Mission-AI-Possible-–-Taming-your-AI-agent-swarms" class="headerlink" title="Session: Mission: AI Possible – Taming your AI agent swarms"></a>Session: Mission: AI Possible – Taming your AI agent swarms</h2><p><strong>1 May 2026 09:30 AM</strong> | The Last Starfighter - Theatre 14 (12,13)<br><em>Track: Artificial Intelligence &amp; Machine Learning</em></p><p>As organizations implement AI systems, they often encounter tasks too complex for a single agent—making multi-agent architectures vital. For example, hospitals rely on specialized agents for medical imaging, scheduling, and insurance coordination; travel platforms use agents to book flights, find hotels, and suggest activities; retailers automate inventory, supply chain, and CRM through multiple integrated agents; and software teams decompose projects across coding, testing, and documentation agents. In these scenarios, successful orchestration ensures agents communicate, delegate, and collaborate effectively, always staying aligned with organizational goals.</p><p>In this talk, we will explore how Microsoft Agent Framework provides a robust foundation for building and orchestrating multiagent systems that are secure, extensible, and production ready. We will review the best practices and architecture patterns required to implement different orchestration workflows (for example: Sequential, concurrent and handoff) as well as the unique challenges presented by each of them.</p><p>By the end of the session, participants will understand how to apply different orchestration workflows to build scalable, collaborative AI systems that leverage multiple agents to deliver higher accuracy, resilience, and automation across different scenarios.</p><hr><h2 id="Connect-with-Samuel"><a href="#Connect-with-Samuel" class="headerlink" title="Connect with Samuel"></a>Connect with Samuel</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/samueljgomez/">https://www.linkedin.com/in/samueljgomez/</a></li><li><strong>Twitter&#x2F;X:</strong> @thesoccerdev</li><li><strong>Website:</strong> <a href="https://geneca.com/">https://geneca.com/</a></li><li><strong>Blog:</strong> <a href="https://www.thesoccerdev.com/">https://www.thesoccerdev.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Samuel’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/18/2026-03-18-Samuel_Gomez/</id>
-    <link href="https://stirtrek.com/2026/03/18/2026-03-18-Samuel_Gomez/"/>
-    <published>2026-03-18T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Samuel Gomez to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Samuel-Gomez.jpg"]]>
-    </summary>
-    <title>Samuel Gomez at Stir Trek 2026</title>
-    <updated>2026-04-13T20:45:31.239Z</updated>
+    <updated>2026-04-14T01:54:07.392Z</updated>
   </entry>
 </feed>

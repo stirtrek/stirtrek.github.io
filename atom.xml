@@ -10,7 +10,28 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-04-16T20:40:55.479Z</updated>
+  <updated>2026-04-17T01:54:45.900Z</updated>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="software-quality" scheme="https://stirtrek.com/tags/software-quality/"/>
+    <category term="delivery" scheme="https://stirtrek.com/tags/delivery/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Todd Nussbaum to Stir Trek 2026!</p><img src="/images/speakers/2026/Todd-Nussbaum.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Todd-Nussbaum-at-Stir-Trek-2026"><a href="#Todd-Nussbaum-at-Stir-Trek-2026" class="headerlink" title="Todd Nussbaum at Stir Trek 2026"></a>Todd Nussbaum at Stir Trek 2026</h1><p><em>Director, Consulting Services @ CGI</em></p><div style="clear:both;"></div><hr><h2 id="About-Todd-Nussbaum"><a href="#About-Todd-Nussbaum" class="headerlink" title="About Todd Nussbaum"></a>About Todd Nussbaum</h2><p>With a career spanning two and a half decades, Todd has worn nearly every hat in the SDLC—from dev and architect to engineering leader. He is a firm believer that great software requires both a foundation of clean architecture and sensible UI design. Off the clock, Todd can be found tinkering with the newest open source library or AI app, and often trades the keyboard for the sidelines, following his sons’ college journeys, timing his daughter’s laps at the pool, and acting as the primary support crew for his wife’s running goals.</p><hr><h2 id="Session-LGTM-is-not-a-Strategy"><a href="#Session-LGTM-is-not-a-Strategy" class="headerlink" title="Session: LGTM is not a Strategy"></a>Session: LGTM is not a Strategy</h2><p><strong>1 May 2026 03:00 PM</strong> | Galaxy Quest - Theatre 27 (23,24,25,26)<br><em>Track: Software Quality &amp; Delivery</em></p><p>Pull requests are where quality is won or lost, and too many teams still treat reviews with a rushed “LGTM”. In this talk, you’ll learn a practical, repeatable approach to high-quality PR reviews that balances speed with risk management - covering how to triage changes quickly, review in layers, and write comments that lead to better outcomes without friction.  We’ll also show how QA and developers bring complementary lenses to the same review, turning acceptance criteria, scenarios, and observability into shared responsibility instead of production surprises.  You’ll leave with a lightweight framework and concrete habits for authors and reviewers that make reviews faster, kinder, and more effective.</p><hr><h2 id="Connect-with-Todd"><a href="#Connect-with-Todd" class="headerlink" title="Connect with Todd"></a>Connect with Todd</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/tjnussbaum/">https://www.linkedin.com/in/tjnussbaum/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Todd’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/04/17/2026-04-17-Todd_Nussbaum/</id>
+    <link href="https://stirtrek.com/2026/04/17/2026-04-17-Todd_Nussbaum/"/>
+    <published>2026-04-17T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Todd Nussbaum to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Todd-Nussbaum.jpg"]]>
+    </summary>
+    <title>Todd Nussbaum at Stir Trek 2026</title>
+    <updated>2026-04-17T01:54:45.900Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -30,7 +51,7 @@
 <img src="/images/speakers/2026/Michelle-Smith.jpg"]]>
     </summary>
     <title>Michelle Smith at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.479Z</updated>
+    <updated>2026-04-17T01:54:45.900Z</updated>
   </entry>
   <entry>
     <author>
@@ -50,7 +71,7 @@
 <img src="/images/speakers/2026/Aaron-Stannard.jpg"]]>
     </summary>
     <title>Aaron Stannard at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.479Z</updated>
+    <updated>2026-04-17T01:54:45.900Z</updated>
   </entry>
   <entry>
     <author>
@@ -71,7 +92,7 @@
 <img src="/images/speakers/2026/Eldert-Grootenboer.png"]]>
     </summary>
     <title>Eldert Grootenboer at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.479Z</updated>
+    <updated>2026-04-17T01:54:45.900Z</updated>
   </entry>
   <entry>
     <author>
@@ -91,7 +112,7 @@
 <img src="/images/speakers/2026/Ken-Versaw.jpg"]]>
     </summary>
     <title>Ken Versaw at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.479Z</updated>
+    <updated>2026-04-17T01:54:45.900Z</updated>
   </entry>
   <entry>
     <author>
@@ -112,7 +133,7 @@
 <img src="/images/speakers/2026/Sarah-Dutkiewicz.jpg"]]>
     </summary>
     <title>Sarah Dutkiewicz at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.479Z</updated>
+    <updated>2026-04-17T01:54:45.900Z</updated>
   </entry>
   <entry>
     <author>
@@ -133,7 +154,7 @@
 <img src="/images/speakers/2026/Amanda-Lange.jpg"]]>
     </summary>
     <title>Amanda Lange at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.479Z</updated>
+    <updated>2026-04-17T01:54:45.900Z</updated>
   </entry>
   <entry>
     <author>
@@ -154,7 +175,7 @@
 <img src="/images/speakers/2026/Jamie-Dicken.jpg"]]>
     </summary>
     <title>Jamie Dicken at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.479Z</updated>
+    <updated>2026-04-17T01:54:45.900Z</updated>
   </entry>
   <entry>
     <author>
@@ -175,7 +196,7 @@
 <img src="/images/speakers/2026/David-Giard.jpg"]]>
     </summary>
     <title>David Giard at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.479Z</updated>
+    <updated>2026-04-17T01:54:45.900Z</updated>
   </entry>
   <entry>
     <author>
@@ -196,7 +217,7 @@
 <img src="/images/speakers/2026/Burton-Smith.jpg"]]>
     </summary>
     <title>Burton Smith at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.479Z</updated>
+    <updated>2026-04-17T01:54:45.900Z</updated>
   </entry>
   <entry>
     <author>
@@ -217,7 +238,7 @@
 <img src="/images/speakers/2026/MattKelly-Williams.png"]]>
     </summary>
     <title>Matt 'Kelly' Williams at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.479Z</updated>
+    <updated>2026-04-17T01:54:45.900Z</updated>
   </entry>
   <entry>
     <author>
@@ -238,7 +259,7 @@
 <img src="/images/speakers/2026/Bob-Fornal.jpg"]]>
     </summary>
     <title>Bob Fornal at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.479Z</updated>
+    <updated>2026-04-17T01:54:45.900Z</updated>
   </entry>
   <entry>
     <author>
@@ -258,7 +279,7 @@
 <img src="/images/speakers/2026/Paul-ChinJr..jpg"]]>
     </summary>
     <title>Paul Chin Jr. at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.479Z</updated>
+    <updated>2026-04-17T01:54:45.900Z</updated>
   </entry>
   <entry>
     <author>
@@ -279,7 +300,7 @@
 <img src="/images/speakers/2026/Cameron-Presley.jpg"]]>
     </summary>
     <title>Cameron Presley at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.479Z</updated>
+    <updated>2026-04-17T01:54:45.900Z</updated>
   </entry>
   <entry>
     <author>
@@ -300,7 +321,7 @@
 <img src="/images/speakers/2026/Victor-Frye.png"]]>
     </summary>
     <title>Victor Frye at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.479Z</updated>
+    <updated>2026-04-17T01:54:45.900Z</updated>
   </entry>
   <entry>
     <author>
@@ -321,7 +342,7 @@
 <img src="/images/speakers/2026/Ed-Charbeneau.jpg"]]>
     </summary>
     <title>Ed Charbeneau at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.478Z</updated>
+    <updated>2026-04-17T01:54:45.900Z</updated>
   </entry>
   <entry>
     <author>
@@ -342,7 +363,7 @@
 <img src="/images/speakers/2026/Kate-Holterhoff.png"]]>
     </summary>
     <title>Kate Holterhoff at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.478Z</updated>
+    <updated>2026-04-17T01:54:45.900Z</updated>
   </entry>
   <entry>
     <author>
@@ -363,7 +384,7 @@
 <img src="/images/speakers/2026/Jay-Harris.jpg"]]>
     </summary>
     <title>Jay Harris at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.478Z</updated>
+    <updated>2026-04-17T01:54:45.900Z</updated>
   </entry>
   <entry>
     <author>
@@ -384,7 +405,7 @@
 <img src="/images/speakers/2026/Andrew-May.jpg"]]>
     </summary>
     <title>Andrew May at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.478Z</updated>
+    <updated>2026-04-17T01:54:45.900Z</updated>
   </entry>
   <entry>
     <author>
@@ -405,27 +426,6 @@
 <img src="/images/speakers/2026/Guy-Royse.jpg"]]>
     </summary>
     <title>Guy Royse at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.478Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="security" scheme="https://stirtrek.com/tags/security/"/>
-    <category term="privacy-engineering" scheme="https://stirtrek.com/tags/privacy-engineering/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Bill Sempf to Stir Trek 2026!</p><img src="/images/speakers/2026/Bill-Sempf.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Bill-Sempf-at-Stir-Trek-2026"><a href="#Bill-Sempf-at-Stir-Trek-2026" class="headerlink" title="Bill Sempf at Stir Trek 2026"></a>Bill Sempf at Stir Trek 2026</h1><p><em>Application Security Architect</em></p><div style="clear:both;"></div><hr><h2 id="About-Bill-Sempf"><a href="#About-Bill-Sempf" class="headerlink" title="About Bill Sempf"></a>About Bill Sempf</h2><p>Bill Sempf is a software security architect. His breadth of experience includes business and technical analysis, software design, development, testing, server management and maintenance, and security. In his 20 years of professional experience he has participated in the creation of well over 200 applications for large and small companies, managed the software infrastructure of two Internet service providers, coded complex software happily in every environment imaginable, tested the security of all natures of applications and APs, and made mainframes talk to cell phones. He is the author of C# 5 All in One for Dummies and Windows 8 Programming with HTML5 For Dummies; a coauthor of Effective Visual Studio.NET and many other books, a frequent contributor to industry magazines; and has recently been an invited speaker for the ACM and IEEE, BlackHat, CodeMash, DerbyCon, BSides, DevEssentials, the International XML Web Services Expo and the Association of Information Technology Professionals. Bill also serves on the board of the Columbus branch of the Open Web Application Security Project, and is the Administrative Director of Locksport International.</p><hr><h2 id="Session-Making-and-Baking-an-Application-Security-Department"><a href="#Session-Making-and-Baking-an-Application-Security-Department" class="headerlink" title="Session: Making and Baking an Application Security Department"></a>Session: Making and Baking an Application Security Department</h2><p><strong>1 May 2026 10:30 AM</strong> | Inception - Theatre 28 (18,19)<br><em>Track: Security &amp; Privacy Engineering</em></p><p>Houston, we have a problem: we need more application security professionals. There is a lack of talented folks that can test, document and train developers on how to fix web and mobile applications for security vulnerabilities. Verizon’s estimates of 86% of 2017 breaches are caused by an application security component. This is a problem we must solve. </p><p>Bill and his team have been researching and experimenting on ways to solve the application security talent shortage. During this session, Bill will explain what they learned by teaching students of different experience levels. He will answer questions like: “Who should I start with?” and  “What do they need to know to be effective?” as well as what tools are most appropriate for them to learn.</p><hr><h2 id="Connect-with-Bill"><a href="#Connect-with-Bill" class="headerlink" title="Connect with Bill"></a>Connect with Bill</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/billsempf/">https://www.linkedin.com/in/billsempf/</a></li><li><strong>Website:</strong> <a href="https://www.pointweb.net/">https://www.pointweb.net</a></li><li><strong>Blog:</strong> <a href="https://sempf.net/">https://sempf.net/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Bill’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/20/2026-03-20-Bill_Sempf/</id>
-    <link href="https://stirtrek.com/2026/03/20/2026-03-20-Bill_Sempf/"/>
-    <published>2026-03-20T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Bill Sempf to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Bill-Sempf.jpg"]]>
-    </summary>
-    <title>Bill Sempf at Stir Trek 2026</title>
-    <updated>2026-04-16T20:40:55.478Z</updated>
+    <updated>2026-04-17T01:54:45.900Z</updated>
   </entry>
 </feed>

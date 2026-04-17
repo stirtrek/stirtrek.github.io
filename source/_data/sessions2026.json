@@ -3586,11 +3586,6 @@
           "linkType": "Company_Website"
         },
         {
-          "title": "BlueSky",
-          "url": "https://bsky.app/profile/victorfrye.com",
-          "linkType": "Other"
-        },
-        {
           "title": "Threads",
           "url": "https://www.threads.net/@thevictorfryeadventure",
           "linkType": "Other"
@@ -3598,6 +3593,11 @@
         {
           "title": "Portfolio",
           "url": "https://victorfrye.com/",
+          "linkType": "Other"
+        },
+        {
+          "title": "BlueSky",
+          "url": "https://bsky.app/profile/victorfrye.com",
           "linkType": "Other"
         }
       ],

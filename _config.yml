@@ -122,6 +122,12 @@ feed:
   content_limit_delim: ' '
   order_by: -date
 
+sitemap:
+  path: sitemap.xml
+  rel: false
+  tags: true
+  categories: true
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 ## repo: https://__GITHUB_TOKEN__@github.com/stirtrek/stirtrek.github.io

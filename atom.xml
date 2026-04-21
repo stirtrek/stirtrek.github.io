@@ -10,7 +10,28 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-04-20T23:36:02.390Z</updated>
+  <updated>2026-04-21T01:55:35.250Z</updated>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="architecture" scheme="https://stirtrek.com/tags/architecture/"/>
+    <category term="platform-engineering" scheme="https://stirtrek.com/tags/platform-engineering/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Brian Gorman to Stir Trek 2026!</p><img src="/images/speakers/2026/Brian-Gorman.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Brian-Gorman-at-Stir-Trek-2026"><a href="#Brian-Gorman-at-Stir-Trek-2026" class="headerlink" title="Brian Gorman at Stir Trek 2026"></a>Brian Gorman at Stir Trek 2026</h1><p><em>Microsoft Azure MVP, Speaker, Author, Trainer, and .Net Developer</em></p><div style="clear:both;"></div><hr><h2 id="About-Brian-Gorman"><a href="#About-Brian-Gorman" class="headerlink" title="About Brian Gorman"></a>About Brian Gorman</h2><p>Brian is a Microsoft Azure MVP, speaker, author, trainer, and .NET developer with deep expertise across cloud and application development. He holds MCSA: Web App Certification, MCSD: App Builder, and twelve Azure certifications, including Developer, Administrator, DevOps Engineer, Solutions Architect, Data Administrator, Security Engineer, AI Engineer, and Cosmos DB — along with multiple Fundamentals certifications. Since 2019, he has also been a Microsoft Certified Trainer (MCT).</p><p>Brian earned a Master of Science in Computer Information Systems and a Bachelor of Science in Computer Science. He brings over 15 years of experience teaching computer science, SQL databases, object-oriented programming (C#, VB.NET, Java), and Microsoft Office in online university settings.</p><p>As an educator and creator, Brian has developed numerous online training courses available across multiple platforms and has authored several books with APress, including Practical Entity Framework and Practical Entity Framework Core 6, Developing Solutions for Microsoft Azure Certification Companion: Hands-on Preparation and Practice for Exam AZ-204, and is scheduled to publish the third edition of Practical Entity Framework in November along with .NET&#x2F;EF 10</p><hr><h2 id="Session-Securing-your-Azure-AI-Workload"><a href="#Session-Securing-your-Azure-AI-Workload" class="headerlink" title="Session: Securing your Azure AI Workload"></a>Session: Securing your Azure AI Workload</h2><p><strong>1 May 2026 04:00 PM</strong> | The Matrix - Theatre 15 (10, 11)<br><em>Track: Architecture &amp; Platform Engineering</em></p><p>You’ve been given the task of creating an AI workload that will work with your data to allow your customers to get answers.  Perhaps you even want to use some of these new “agent” things you’ve been hearing so much about.  Maybe you need to see how your regular apps can also integrate with your workload.</p><p>But AI is scary.  Just ask Samsung how they felt when their proprietary code showed up in chat GPT answers.  Just look to the Canadian Airline that had to pay a refund because their chat agent said the customer should get one.  Or how about the guy who negotiated a truck for $0?  It’s challenging and scary - and that’s just the implementation.  Just to be clear, learning how to ground your data properly is an entirely different session - and while we’ll talk about that briefly, this session is more about the workload in Azure itself.</p><p>What about the exposure of your data via your azure services?  How can you keep your HIPPA&#x2F;GDPR&#x2F;NIST certifications <em>and</em> integrate an azure AI workload?</p><p>In this session, you will learn about how you can correctly utilize Azure services to secure your AI workload from public exposure, and how you can connect securely to the AI deployments from your other secure services.</p><hr><h2 id="Connect-with-Brian"><a href="#Connect-with-Brian" class="headerlink" title="Connect with Brian"></a>Connect with Brian</h2><ul><li><strong>Twitter&#x2F;X:</strong> @blgorman</li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Brian’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/04/21/2026-04-21-Brian_Gorman/</id>
+    <link href="https://stirtrek.com/2026/04/21/2026-04-21-Brian_Gorman/"/>
+    <published>2026-04-21T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Brian Gorman to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Brian-Gorman.jpg"]]>
+    </summary>
+    <title>Brian Gorman at Stir Trek 2026</title>
+    <updated>2026-04-21T01:55:35.250Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -29,7 +50,7 @@
 <img src="/images/speakers/2026/Jeffrey-Miller.jpg"]]>
     </summary>
     <title>Jeffrey Miller at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.390Z</updated>
+    <updated>2026-04-21T01:55:35.250Z</updated>
   </entry>
   <entry>
     <author>
@@ -50,7 +71,7 @@
 <img src="/images/speakers/2026/Todd-Nussbaum.jpg"]]>
     </summary>
     <title>Todd Nussbaum at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.389Z</updated>
+    <updated>2026-04-21T01:55:35.250Z</updated>
   </entry>
   <entry>
     <author>
@@ -71,7 +92,7 @@
 <img src="/images/speakers/2026/Michelle-Smith.jpg"]]>
     </summary>
     <title>Michelle Smith at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.389Z</updated>
+    <updated>2026-04-21T01:55:35.250Z</updated>
   </entry>
   <entry>
     <author>
@@ -91,7 +112,7 @@
 <img src="/images/speakers/2026/Aaron-Stannard.jpg"]]>
     </summary>
     <title>Aaron Stannard at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.389Z</updated>
+    <updated>2026-04-21T01:55:35.250Z</updated>
   </entry>
   <entry>
     <author>
@@ -112,7 +133,7 @@
 <img src="/images/speakers/2026/Eldert-Grootenboer.png"]]>
     </summary>
     <title>Eldert Grootenboer at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.389Z</updated>
+    <updated>2026-04-21T01:55:35.250Z</updated>
   </entry>
   <entry>
     <author>
@@ -132,7 +153,7 @@
 <img src="/images/speakers/2026/Ken-Versaw.jpg"]]>
     </summary>
     <title>Ken Versaw at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.389Z</updated>
+    <updated>2026-04-21T01:55:35.250Z</updated>
   </entry>
   <entry>
     <author>
@@ -153,7 +174,7 @@
 <img src="/images/speakers/2026/Sarah-Dutkiewicz.jpg"]]>
     </summary>
     <title>Sarah Dutkiewicz at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.389Z</updated>
+    <updated>2026-04-21T01:55:35.250Z</updated>
   </entry>
   <entry>
     <author>
@@ -174,7 +195,7 @@
 <img src="/images/speakers/2026/Amanda-Lange.jpg"]]>
     </summary>
     <title>Amanda Lange at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.389Z</updated>
+    <updated>2026-04-21T01:55:35.250Z</updated>
   </entry>
   <entry>
     <author>
@@ -195,7 +216,7 @@
 <img src="/images/speakers/2026/Jamie-Dicken.jpg"]]>
     </summary>
     <title>Jamie Dicken at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.389Z</updated>
+    <updated>2026-04-21T01:55:35.250Z</updated>
   </entry>
   <entry>
     <author>
@@ -216,7 +237,7 @@
 <img src="/images/speakers/2026/David-Giard.jpg"]]>
     </summary>
     <title>David Giard at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.389Z</updated>
+    <updated>2026-04-21T01:55:35.250Z</updated>
   </entry>
   <entry>
     <author>
@@ -237,7 +258,7 @@
 <img src="/images/speakers/2026/Burton-Smith.jpg"]]>
     </summary>
     <title>Burton Smith at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.389Z</updated>
+    <updated>2026-04-21T01:55:35.250Z</updated>
   </entry>
   <entry>
     <author>
@@ -258,7 +279,7 @@
 <img src="/images/speakers/2026/MattKelly-Williams.png"]]>
     </summary>
     <title>Matt 'Kelly' Williams at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.389Z</updated>
+    <updated>2026-04-21T01:55:35.250Z</updated>
   </entry>
   <entry>
     <author>
@@ -279,7 +300,7 @@
 <img src="/images/speakers/2026/Bob-Fornal.jpg"]]>
     </summary>
     <title>Bob Fornal at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.389Z</updated>
+    <updated>2026-04-21T01:55:35.250Z</updated>
   </entry>
   <entry>
     <author>
@@ -299,7 +320,7 @@
 <img src="/images/speakers/2026/Paul-ChinJr..jpg"]]>
     </summary>
     <title>Paul Chin Jr. at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.389Z</updated>
+    <updated>2026-04-21T01:55:35.250Z</updated>
   </entry>
   <entry>
     <author>
@@ -320,7 +341,7 @@
 <img src="/images/speakers/2026/Cameron-Presley.jpg"]]>
     </summary>
     <title>Cameron Presley at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.389Z</updated>
+    <updated>2026-04-21T01:55:35.250Z</updated>
   </entry>
   <entry>
     <author>
@@ -341,7 +362,7 @@
 <img src="/images/speakers/2026/Victor-Frye.png"]]>
     </summary>
     <title>Victor Frye at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.389Z</updated>
+    <updated>2026-04-21T01:55:35.250Z</updated>
   </entry>
   <entry>
     <author>
@@ -362,7 +383,7 @@
 <img src="/images/speakers/2026/Ed-Charbeneau.jpg"]]>
     </summary>
     <title>Ed Charbeneau at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.389Z</updated>
+    <updated>2026-04-21T01:55:35.250Z</updated>
   </entry>
   <entry>
     <author>
@@ -383,7 +404,7 @@
 <img src="/images/speakers/2026/Kate-Holterhoff.png"]]>
     </summary>
     <title>Kate Holterhoff at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.389Z</updated>
+    <updated>2026-04-21T01:55:35.250Z</updated>
   </entry>
   <entry>
     <author>
@@ -404,27 +425,6 @@
 <img src="/images/speakers/2026/Jay-Harris.jpg"]]>
     </summary>
     <title>Jay Harris at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.389Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="data-engineering" scheme="https://stirtrek.com/tags/data-engineering/"/>
-    <category term="analytics" scheme="https://stirtrek.com/tags/analytics/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Andrew May to Stir Trek 2026!</p><img src="/images/speakers/2026/Andrew-May.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Andrew-May-at-Stir-Trek-2026"><a href="#Andrew-May-at-Stir-Trek-2026" class="headerlink" title="Andrew May at Stir Trek 2026"></a>Andrew May at Stir Trek 2026</h1><p><em>Senior Solutions Architect, Cloud&#x2F;DevOps specialist at Leading EDJE</em></p><div style="clear:both;"></div><hr><h2 id="About-Andrew-May"><a href="#About-Andrew-May" class="headerlink" title="About Andrew May"></a>About Andrew May</h2><p>Andrew has been consulting as an architect for Leading EDJE for 18  years, and has specialized in Cloud Platforms and Cloud-Native architecture for the last 10 years. He’s a stickler for detail, and a fierce code reviewer. Originally from the UK, Andrew’s accent has settled somewhere in the mid-Atlantic.</p><hr><h2 id="Session-Microsoft-Fabric-for-Developers"><a href="#Session-Microsoft-Fabric-for-Developers" class="headerlink" title="Session: Microsoft Fabric for Developers"></a>Session: Microsoft Fabric for Developers</h2><p><strong>1 May 2026 10:30 AM</strong> | Ghostbusters - Theatre 17 (20)<br><em>Track: Data Engineering &amp; Analytics</em></p><p>Does your operational database contain staging and reporting data? Is it bloated and struggling under the load? As companies grow, its common to reach a tipping point where you can’t just put everything into your shared OLTP database and keep scaling it up. That’s when it’s time to start thinking seriously about data and how best to manage it.<br>Traditionally, data warehousing and ETL have required different skill sets and operated independently from application development, but with platforms like Microsoft Fabric, the skillsets aren’t so different anymore, especially if you know a bit of Python.<br>This session will talk about some of the many services that make up Fabric, and how to use it coming from a development background.</p><hr><h2 id="Connect-with-Andrew"><a href="#Connect-with-Andrew" class="headerlink" title="Connect with Andrew"></a>Connect with Andrew</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/andrew-may-0554b3173">https://www.linkedin.com/in/andrew-may-0554b3173</a></li><li><strong>Twitter&#x2F;X:</strong> @leadingedje</li><li><strong>Website:</strong> <a href="https://www.leadingedje.com/">https://www.leadingedje.com</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Andrew’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/24/2026-03-24-Andrew_May/</id>
-    <link href="https://stirtrek.com/2026/03/24/2026-03-24-Andrew_May/"/>
-    <published>2026-03-24T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Andrew May to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Andrew-May.jpg"]]>
-    </summary>
-    <title>Andrew May at Stir Trek 2026</title>
-    <updated>2026-04-20T23:36:02.389Z</updated>
+    <updated>2026-04-21T01:55:35.250Z</updated>
   </entry>
 </feed>

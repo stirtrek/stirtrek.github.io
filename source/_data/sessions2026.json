@@ -991,6 +991,33 @@
       "isConfirmed": false
     },
     {
+      "id": "1214096",
+      "title": "How To Code Faster With Spec-Driven Development",
+      "description": "AI coding assistants are great at completing small tasks or features. But what do you do when you're working with more complex codebases and need to build in-depth features that require upfront planning?\r\n\r\nThis talk makes the case for spec-driven development. I'll show how AI coding assistants can help break down complex tasks into three phases. We'll go from requirements gathering to technical design to task implementation. Using a real-world example, we'll look at the trade-offs of this approach and how you can start using it in your own projects right away.",
+      "startsAt": "2026-05-01T17:05:00Z",
+      "endsAt": "2026-05-01T17:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6fdf3f61-3495-47ca-a20e-d5f0421cf92b"
+      ],
+      "categoryItems": [
+        431276
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77075,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1123967",
       "title": "Generating Quality Code with AI",
       "description": "\"AI writes slop\" is a common concern. So how can we use LLMs to not just generate good code, but to *ensure* quality? Let's explore how to create effective \"guardrails\" via generated tests, spec-driven development, instruction approaches, prompting techniques, context management, and more. After this session you'll have a list of ideas for improving your AI coding workflow.",
@@ -2521,6 +2548,22 @@
           "answerValue": "Columbus"
         }
       ]
+    },
+    {
+      "id": "6fdf3f61-3495-47ca-a20e-d5f0421cf92b",
+      "firstName": "Erik",
+      "lastName": "Hanchett",
+      "bio": "Hello! 👋 My name is Erik Hanchett! I've been teaching software development for over 10 years on my YouTube channel, Program With Erik, which has over 100,000 subscribers. I'm the author of two books on software development published by Manning and Packt. I've given talks on frontend development all around the world, and I currently work as a Senior Developer Advocate at AWS.",
+      "tagLine": null,
+      "profilePicture": "https://sessionize.com/image/e119-400o400o1-p3vRuRHXUPX8HNSpCYUYhN.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1214096
+      ],
+      "fullName": "Erik Hanchett",
+      "categoryItems": [],
+      "questionAnswers": []
     },
     {
       "id": "520bf4ca-b2d3-47c3-8475-c25bb2b257f7",

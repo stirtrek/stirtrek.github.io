@@ -173,15 +173,18 @@
           {
             "id": "a494e5b3-f641-408b-8790-d9f9ad55e27d",
             "scheduledRoom": "Concourse"
-          }
-        ]
-      },
-      {
-        "time": "1:05 PM",
-        "sessions": [
+          },
           {
             "id": "1214096",
             "scheduledRoom": "The Last Starfighter - Theatre 14 (12,13)"
+          },
+          {
+            "id": "1210207",
+            "scheduledRoom": "The Matrix - Theatre 15 (10, 11)"
+          },
+          {
+            "id": "1213741",
+            "scheduledRoom": "The Goonies - Theatre 16 (21)"
           }
         ]
       },

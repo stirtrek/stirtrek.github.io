@@ -1,7 +1,12 @@
 {"sponsors":
     {
         "platinum":[
-
+            {
+                "name": "AWS",
+                "link": "https://aws.amazon.com/",
+                "description": "AWS powers innovation across every industry, helping organizations build smarter, scale faster, and lead with confidence.",
+                "logo": "/images/sponsors/aws_700x400.jpg"
+            }
         ],
         "gold":[
 

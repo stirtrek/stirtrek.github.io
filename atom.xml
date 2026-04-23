@@ -10,7 +10,28 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-04-22T20:45:17.714Z</updated>
+  <updated>2026-04-23T01:58:37.833Z</updated>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="data-engineering" scheme="https://stirtrek.com/tags/data-engineering/"/>
+    <category term="analytics" scheme="https://stirtrek.com/tags/analytics/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Chris Birie to Stir Trek 2026!</p><img src="/images/speakers/2026/Chris-Birie.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Chris-Birie-at-Stir-Trek-2026"><a href="#Chris-Birie-at-Stir-Trek-2026" class="headerlink" title="Chris Birie at Stir Trek 2026"></a>Chris Birie at Stir Trek 2026</h1><p><em>Software and Data Martial Artist</em></p><div style="clear:both;"></div><hr><h2 id="About-Chris-Birie"><a href="#About-Chris-Birie" class="headerlink" title="About Chris Birie"></a>About Chris Birie</h2><p>Chris Birie is a software&#x2F;data&#x2F;platform&#x2F;jack of all trades engineer who believes strong systems and apps are built through repetition, fundamentals, and attention to detail. Influenced by his kung fu practice, he applies the same mindset to designing scalable architectures and delivery workflows. He is passionate about teaching, mentoring, and helping teams build software that holds up under pressure.</p><hr><h2 id="Session-Designing-Data-Pipelines-That-Don’t-Hate-You-Six-Months-Later"><a href="#Session-Designing-Data-Pipelines-That-Don’t-Hate-You-Six-Months-Later" class="headerlink" title="Session: Designing Data Pipelines That Don’t Hate You Six Months Later"></a>Session: Designing Data Pipelines That Don’t Hate You Six Months Later</h2><p><strong>1 May 2026 04:00 PM</strong> | Interstellar - Theatre 4 (5,6,7,8,9)<br><em>Track: Data Engineering &amp; Analytics</em></p><p>Most data pipelines don’t fail on day one. They fail months later — when requirements change, data volume grows, or the original developer is no longer around. Much like martial arts training, pipelines built on shaky fundamentals tend to collapse under pressure.</p><p>This session focuses on practical data pipeline design patterns that emphasize durability, maintainability, and operational confidence. Drawing from experience modernizing enterprise data platforms, I’ll walk through common failure modes in batch and streaming pipelines and how disciplined upfront design decisions can prevent them.</p><p>We’ll cover topics such as schema evolution, idempotency, observability, testing strategies, and scaling — grounded in real examples of what worked, what broke, and what we had to correct after the fact. There are no silver bullets here — just repeatable patterns and lessons learned from systems that had to stay running while everything around them changed.</p><p>This talk is tool-agnostic and focused on principles that apply whether you’re using Python, Spark, Kafka, or traditional ETL platforms.</p><p>What’s in it for the attendee</p><ul><li>How to design pipelines that withstand change and growth</li><li>Patterns for building observability and testability into data systems</li><li>Common anti-patterns that lead to brittle pipelines</li><li>Practical guidance rooted in real production experience</li></ul><hr><h2 id="Connect-with-Chris"><a href="#Connect-with-Chris" class="headerlink" title="Connect with Chris"></a>Connect with Chris</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/christopher-birie/">https://www.linkedin.com/in/christopher-birie/</a></li><li><strong>Twitter&#x2F;X:</strong> @biriebiriebirie</li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Chris’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/04/23/2026-04-23-Chris_Birie/</id>
+    <link href="https://stirtrek.com/2026/04/23/2026-04-23-Chris_Birie/"/>
+    <published>2026-04-23T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Chris Birie to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Chris-Birie.png"]]>
+    </summary>
+    <title>Chris Birie at Stir Trek 2026</title>
+    <updated>2026-04-23T01:58:37.833Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -30,7 +51,7 @@
 <img src="/images/speakers/2026/Amy-Norris.jpg"]]>
     </summary>
     <title>Amy Norris at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.714Z</updated>
+    <updated>2026-04-23T01:58:37.833Z</updated>
   </entry>
   <entry>
     <author>
@@ -51,7 +72,7 @@
 <img src="/images/speakers/2026/Brian-Gorman.jpg"]]>
     </summary>
     <title>Brian Gorman at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.714Z</updated>
+    <updated>2026-04-23T01:58:37.833Z</updated>
   </entry>
   <entry>
     <author>
@@ -71,7 +92,7 @@
 <img src="/images/speakers/2026/Jeffrey-Miller.jpg"]]>
     </summary>
     <title>Jeffrey Miller at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.714Z</updated>
+    <updated>2026-04-23T01:58:37.833Z</updated>
   </entry>
   <entry>
     <author>
@@ -92,7 +113,7 @@
 <img src="/images/speakers/2026/Todd-Nussbaum.jpg"]]>
     </summary>
     <title>Todd Nussbaum at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.714Z</updated>
+    <updated>2026-04-23T01:58:37.833Z</updated>
   </entry>
   <entry>
     <author>
@@ -113,7 +134,7 @@
 <img src="/images/speakers/2026/Michelle-Smith.jpg"]]>
     </summary>
     <title>Michelle Smith at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.714Z</updated>
+    <updated>2026-04-23T01:58:37.833Z</updated>
   </entry>
   <entry>
     <author>
@@ -133,7 +154,7 @@
 <img src="/images/speakers/2026/Aaron-Stannard.jpg"]]>
     </summary>
     <title>Aaron Stannard at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.714Z</updated>
+    <updated>2026-04-23T01:58:37.833Z</updated>
   </entry>
   <entry>
     <author>
@@ -154,7 +175,7 @@
 <img src="/images/speakers/2026/Eldert-Grootenboer.png"]]>
     </summary>
     <title>Eldert Grootenboer at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.714Z</updated>
+    <updated>2026-04-23T01:58:37.833Z</updated>
   </entry>
   <entry>
     <author>
@@ -174,7 +195,7 @@
 <img src="/images/speakers/2026/Ken-Versaw.jpg"]]>
     </summary>
     <title>Ken Versaw at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.714Z</updated>
+    <updated>2026-04-23T01:58:37.833Z</updated>
   </entry>
   <entry>
     <author>
@@ -195,7 +216,7 @@
 <img src="/images/speakers/2026/Sarah-Dutkiewicz.jpg"]]>
     </summary>
     <title>Sarah Dutkiewicz at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.714Z</updated>
+    <updated>2026-04-23T01:58:37.833Z</updated>
   </entry>
   <entry>
     <author>
@@ -216,7 +237,7 @@
 <img src="/images/speakers/2026/Amanda-Lange.jpg"]]>
     </summary>
     <title>Amanda Lange at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.713Z</updated>
+    <updated>2026-04-23T01:58:37.833Z</updated>
   </entry>
   <entry>
     <author>
@@ -237,7 +258,7 @@
 <img src="/images/speakers/2026/Jamie-Dicken.jpg"]]>
     </summary>
     <title>Jamie Dicken at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.713Z</updated>
+    <updated>2026-04-23T01:58:37.833Z</updated>
   </entry>
   <entry>
     <author>
@@ -258,7 +279,7 @@
 <img src="/images/speakers/2026/David-Giard.jpg"]]>
     </summary>
     <title>David Giard at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.713Z</updated>
+    <updated>2026-04-23T01:58:37.833Z</updated>
   </entry>
   <entry>
     <author>
@@ -279,7 +300,7 @@
 <img src="/images/speakers/2026/Burton-Smith.jpg"]]>
     </summary>
     <title>Burton Smith at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.713Z</updated>
+    <updated>2026-04-23T01:58:37.833Z</updated>
   </entry>
   <entry>
     <author>
@@ -300,7 +321,7 @@
 <img src="/images/speakers/2026/MattKelly-Williams.png"]]>
     </summary>
     <title>Matt 'Kelly' Williams at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.713Z</updated>
+    <updated>2026-04-23T01:58:37.833Z</updated>
   </entry>
   <entry>
     <author>
@@ -321,7 +342,7 @@
 <img src="/images/speakers/2026/Bob-Fornal.jpg"]]>
     </summary>
     <title>Bob Fornal at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.713Z</updated>
+    <updated>2026-04-23T01:58:37.833Z</updated>
   </entry>
   <entry>
     <author>
@@ -341,7 +362,7 @@
 <img src="/images/speakers/2026/Paul-ChinJr..jpg"]]>
     </summary>
     <title>Paul Chin Jr. at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.713Z</updated>
+    <updated>2026-04-23T01:58:37.833Z</updated>
   </entry>
   <entry>
     <author>
@@ -362,7 +383,7 @@
 <img src="/images/speakers/2026/Cameron-Presley.jpg"]]>
     </summary>
     <title>Cameron Presley at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.713Z</updated>
+    <updated>2026-04-23T01:58:37.833Z</updated>
   </entry>
   <entry>
     <author>
@@ -383,7 +404,7 @@
 <img src="/images/speakers/2026/Victor-Frye.png"]]>
     </summary>
     <title>Victor Frye at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.713Z</updated>
+    <updated>2026-04-23T01:58:37.833Z</updated>
   </entry>
   <entry>
     <author>
@@ -404,27 +425,6 @@
 <img src="/images/speakers/2026/Ed-Charbeneau.jpg"]]>
     </summary>
     <title>Ed Charbeneau at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.713Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="artificial-intelligence" scheme="https://stirtrek.com/tags/artificial-intelligence/"/>
-    <category term="machine-learning" scheme="https://stirtrek.com/tags/machine-learning/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Kate Holterhoff to Stir Trek 2026!</p><img src="/images/speakers/2026/Kate-Holterhoff.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Kate-Holterhoff-at-Stir-Trek-2026"><a href="#Kate-Holterhoff-at-Stir-Trek-2026" class="headerlink" title="Kate Holterhoff at Stir Trek 2026"></a>Kate Holterhoff at Stir Trek 2026</h1><p><em>RedMonk</em></p><div style="clear:both;"></div><hr><h2 id="About-Kate-Holterhoff"><a href="#About-Kate-Holterhoff" class="headerlink" title="About Kate Holterhoff"></a>About Kate Holterhoff</h2><p>Kate Holterhoff, an industry analyst with RedMonk, has a background in frontend engineering, academic research, and technical communication. Kate comes to RedMonk from the digital marketing sector and brings with her expertise in frontend engineering, QA, accessibility, and scrum best practices.</p><p>Before pursuing a career in the tech industry Kate taught writing and communication courses at several East Coast universities. She earned a PhD from Carnegie Mellon in 2016 and was awarded a postdoctoral fellowship (2016-2018) at Georgia Tech, where she is currently an affiliated researcher.</p><hr><h2 id="Session-The-Vibe-Analyst’s-Guide-to-AI-Coding-From-Autocomplete-to-Agent-Orchestration"><a href="#Session-The-Vibe-Analyst’s-Guide-to-AI-Coding-From-Autocomplete-to-Agent-Orchestration" class="headerlink" title="Session: The Vibe Analyst’s Guide to AI Coding: From Autocomplete to Agent Orchestration"></a>Session: The Vibe Analyst’s Guide to AI Coding: From Autocomplete to Agent Orchestration</h2><p><strong>1 May 2026 10:30 AM</strong> | The Last Starfighter - Theatre 14 (12,13)<br><em>Track: Artificial Intelligence &amp; Machine Learning</em></p><p>Whether you’re experimenting with AI coding assistants or managing teams that use them, understanding “vibe coding” is essential to navigating software development in 2026. This talk decodes the shift from autocomplete to autonomous agents, examining how developers went from tab completion to directing parallel AI workers overnight. You’ll gain a clear framework for the 10 key capabilities developers now demand—from background agents and persistent memory to multi-agent orchestration and rollback systems—along with practical insights into which tools deliver and which fall short based on real practitioner feedback.</p><p>Beyond the hype, you’ll learn to navigate the defining tension shaping the market: the battle between human-in-loop control (audit trails, permissions, safety) and vibe coding’s “trust the output, not the process” philosophy. Through examples like Ralph Wiggum’s contextual pressure cooker, Gas Town’s agent orchestration, and emerging patterns in spec-driven development, you’ll understand where the ecosystem is headed and how to make informed decisions about adopting, managing, or building AI-assisted development tools. Whether you’re a hands-on developer, engineering leader, or product strategist, you’ll leave with a pragmatic understanding of what actually matters in this rapidly evolving space—and what’s just noise.</p><hr><h2 id="Connect-with-Kate"><a href="#Connect-with-Kate" class="headerlink" title="Connect with Kate"></a>Connect with Kate</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kateholterhoff/">https://www.linkedin.com/in/kateholterhoff/</a></li><li><strong>Twitter&#x2F;X:</strong> @KateHolterhoff</li><li><strong>Website:</strong> <a href="https://redmonk.com/">https://redmonk.com/</a></li><li><strong>Blog:</strong> <a href="https://redmonk.com/kholterhoff/">https://redmonk.com/kholterhoff/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Kate’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/26/2026-03-26-Kate_Holterhoff/</id>
-    <link href="https://stirtrek.com/2026/03/26/2026-03-26-Kate_Holterhoff/"/>
-    <published>2026-03-26T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Kate Holterhoff to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Kate-Holterhoff.png"]]>
-    </summary>
-    <title>Kate Holterhoff at Stir Trek 2026</title>
-    <updated>2026-04-22T20:45:17.713Z</updated>
+    <updated>2026-04-23T01:58:37.833Z</updated>
   </entry>
 </feed>

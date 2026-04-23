@@ -1072,6 +1072,35 @@
       "isConfirmed": true
     },
     {
+      "id": "1215678",
+      "title": "Panel: Will AI change who gets to be a developer?",
+      "description": "The panel \"Will AI Change Who Gets to Be a Developer?\" explores the transformative impact of artificial intelligence on the developer landscape. As AI tools become increasingly integrated into software development, they have the potential to democratize access to programming by simplifying complex tasks and enabling individuals without traditional coding backgrounds to create and innovate. This discussion will analyze both the opportunities and challenges presented by AI in reducing barriers to entry, the evolving skill sets required for modern developers, and the implications for diversity within the tech industry. Join us as we delve into the future of development and the shifting paradigm of who can participate in this dynamic field.\r\n\r\nAnd yes, AI wrote this abstract.",
+      "startsAt": "2026-05-01T17:00:00Z",
+      "endsAt": "2026-05-01T17:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "424f7166-a882-473f-b05e-15aed7f9ff86",
+        "3d9afdca-043f-4a20-820c-f25ef3e85c1a",
+        "fefc8133-4649-4f70-93a1-d6d1280bc0ad"
+      ],
+      "categoryItems": [
+        431276
+      ],
+      "questionAnswers": [
+        {
+          "questionId": 118563,
+          "answerValue": "false"
+        }
+      ],
+      "roomId": 77081,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
       "id": "1123967",
       "title": "Generating Quality Code with AI",
       "description": "\"AI writes slop\" is a common concern. So how can we use LLMs to not just generate good code, but to *ensure* quality? Let's explore how to create effective \"guardrails\" via generated tests, spec-driven development, instruction approaches, prompting techniques, context management, and more. After this session you'll have a list of ideas for improving your AI coding workflow.",
@@ -2414,6 +2443,7 @@
       ],
       "sessions": [
         1123968,
+        1215678,
         1123967
       ],
       "fullName": "Cory House",
@@ -2899,6 +2929,43 @@
       ]
     },
     {
+      "id": "fefc8133-4649-4f70-93a1-d6d1280bc0ad",
+      "firstName": "Jeff",
+      "lastName": "Blankenburg",
+      "bio": "Jeff Blankenburg spent the early part of his career in digital advertising, building websites for Victoria’s Secret, Abercrombie & Fitch, and Ford Motor Company, among others.  He also spent 8 years at Microsoft, primarily as an evangelist for any new technology he could get his hands on.  For the next 7 years, he worked on the Amazon Alexa team helping developers make Alexa even smarter. Today, he's focused on artificial intelligence, cloud computing, and improving the developer experience at Dynatrace. Jeff has also spoken at conferences all over the world, including London, Munich, Sydney, Tokyo, and New York, covering topics ranging from software development technologies to soft skill techniques. He also serves as an organizer for the Stir Trek conference.",
+      "tagLine": "Principal Developer Advocate at Dynatrace",
+      "profilePicture": "https://sessionize.com/image/8054-400o400o1-353ggDF5hjHUmKyob6dD49.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "X (Twitter)",
+          "url": "http://twitter.com/jeffblankenburg",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/jeffblankenburg",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://jeffblankenburg.com",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://dynatrace.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        1215678
+      ],
+      "fullName": "Jeff Blankenburg",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
       "id": "c6834890-beee-4a69-96fe-ba6915ae9947",
       "firstName": "Jeff",
       "lastName": "McWherter",
@@ -3056,7 +3123,8 @@
         }
       ],
       "sessions": [
-        1143160
+        1143160,
+        1215678
       ],
       "fullName": "Kate Holterhoff",
       "categoryItems": [

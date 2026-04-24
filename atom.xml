@@ -10,7 +10,28 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-04-23T20:46:01.606Z</updated>
+  <updated>2026-04-24T01:58:33.578Z</updated>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="artificial-intelligence" scheme="https://stirtrek.com/tags/artificial-intelligence/"/>
+    <category term="machine-learning" scheme="https://stirtrek.com/tags/machine-learning/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Sam Basu to Stir Trek 2026!</p><img src="/images/speakers/2026/Sam-Basu.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Sam-Basu-at-Stir-Trek-2026"><a href="#Sam-Basu-at-Stir-Trek-2026" class="headerlink" title="Sam Basu at Stir Trek 2026"></a>Sam Basu at Stir Trek 2026</h1><p><em>Lead Developer Advocate</em></p><div style="clear:both;"></div><hr><h2 id="About-Sam-Basu"><a href="#About-Sam-Basu" class="headerlink" title="About Sam Basu"></a>About Sam Basu</h2><p>Sam Basu is a technologist, author, speaker, Microsoft MVP and Lead Developer Advocate for Uno Platform. With a long developer background, he now spends much of his time advocating modern development platforms &amp; AI tools for cross-platform technology stacks. His spare times call for travel, fast cars, cricket and culinary adventures. You can find him on the internet.</p><hr><h2 id="Session-MCP-Demystified-🤖"><a href="#Session-MCP-Demystified-🤖" class="headerlink" title="Session: MCP Demystified 🤖"></a>Session: MCP Demystified 🤖</h2><p><strong>1 May 2026 04:00 PM</strong> | The Last Starfighter - Theatre 14 (12,13)<br><em>Track: Artificial Intelligence &amp; Machine Learning</em></p><p>It is the age of AI, and there is a huge opportunity for developers to infuse apps with solutions powered by generative AI and large&#x2F;small language models. Modern AI is big opportunity to streamline and automate developer workflows for better productivity. There are some challenges though – AI Models often lack context, and AI Agents need expertise to reliably pull off complex workflows across disparate systems.</p><p>Model Context Protocol (MCP) can help. Developed as an open standard, MCP aims to provide a standardized way to connect AI models to different data sources, tools and non-public information. The point is to provide deep contextual information&#x2F;APIs&#x2F;data as tools to AI models&#x2F;agents—MCP services also support robust authentication&#x2F;authorization toward executing specific tasks on behalf of users.</p><p>Developers can think of MCP as a common standardized language for information exchange between AI Agents&#x2F;systems - MCP is growing in popularity and is showing a lot of promise as the emerging standard that bridges AI models with the tools they rely on. Beyond the hype, let’s understand the promise of MCP and explore tooling to easily create MCP Servers&#x2F;Clients. With official SDKs, it is a breeze to work with MCP and boost AI Model responses or surface tools to extend AI Agents. Developers could bring their own data, APIs, services and more through MCP - and have it surfaced through Agents in GitHub Copilot&#x2F;Claude Code&#x2F;Cursor. MCP provides a standardized protocol for bringing contextual expertise to the AI world and light up unique workflows for integrations – upwards and onwards.</p><hr><h2 id="Connect-with-Sam"><a href="#Connect-with-Sam" class="headerlink" title="Connect with Sam"></a>Connect with Sam</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sam-basu-332247394/">https://www.linkedin.com/in/sam-basu-332247394/</a></li><li><strong>Twitter&#x2F;X:</strong> @samidip</li><li><strong>Website:</strong> <a href="https://platform.uno/">https://platform.uno/</a></li><li><strong>Blog:</strong> <a href="https://samidipbasu.com/">https://samidipbasu.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Sam’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/04/24/2026-04-24-Sam_Basu/</id>
+    <link href="https://stirtrek.com/2026/04/24/2026-04-24-Sam_Basu/"/>
+    <published>2026-04-24T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Sam Basu to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Sam-Basu.jpg"]]>
+    </summary>
+    <title>Sam Basu at Stir Trek 2026</title>
+    <updated>2026-04-24T01:58:33.578Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -30,7 +51,7 @@
 <img src="/images/speakers/2026/Chris-Birie.png"]]>
     </summary>
     <title>Chris Birie at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.606Z</updated>
+    <updated>2026-04-24T01:58:33.578Z</updated>
   </entry>
   <entry>
     <author>
@@ -51,7 +72,7 @@
 <img src="/images/speakers/2026/Amy-Norris.jpg"]]>
     </summary>
     <title>Amy Norris at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.606Z</updated>
+    <updated>2026-04-24T01:58:33.578Z</updated>
   </entry>
   <entry>
     <author>
@@ -72,7 +93,7 @@
 <img src="/images/speakers/2026/Brian-Gorman.jpg"]]>
     </summary>
     <title>Brian Gorman at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.606Z</updated>
+    <updated>2026-04-24T01:58:33.578Z</updated>
   </entry>
   <entry>
     <author>
@@ -92,7 +113,7 @@
 <img src="/images/speakers/2026/Jeffrey-Miller.jpg"]]>
     </summary>
     <title>Jeffrey Miller at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.606Z</updated>
+    <updated>2026-04-24T01:58:33.578Z</updated>
   </entry>
   <entry>
     <author>
@@ -113,7 +134,7 @@
 <img src="/images/speakers/2026/Todd-Nussbaum.jpg"]]>
     </summary>
     <title>Todd Nussbaum at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.606Z</updated>
+    <updated>2026-04-24T01:58:33.578Z</updated>
   </entry>
   <entry>
     <author>
@@ -134,7 +155,7 @@
 <img src="/images/speakers/2026/Michelle-Smith.jpg"]]>
     </summary>
     <title>Michelle Smith at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.606Z</updated>
+    <updated>2026-04-24T01:58:33.578Z</updated>
   </entry>
   <entry>
     <author>
@@ -154,7 +175,7 @@
 <img src="/images/speakers/2026/Aaron-Stannard.jpg"]]>
     </summary>
     <title>Aaron Stannard at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.606Z</updated>
+    <updated>2026-04-24T01:58:33.578Z</updated>
   </entry>
   <entry>
     <author>
@@ -175,7 +196,7 @@
 <img src="/images/speakers/2026/Eldert-Grootenboer.png"]]>
     </summary>
     <title>Eldert Grootenboer at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.606Z</updated>
+    <updated>2026-04-24T01:58:33.578Z</updated>
   </entry>
   <entry>
     <author>
@@ -195,7 +216,7 @@
 <img src="/images/speakers/2026/Ken-Versaw.jpg"]]>
     </summary>
     <title>Ken Versaw at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.606Z</updated>
+    <updated>2026-04-24T01:58:33.578Z</updated>
   </entry>
   <entry>
     <author>
@@ -216,7 +237,7 @@
 <img src="/images/speakers/2026/Sarah-Dutkiewicz.jpg"]]>
     </summary>
     <title>Sarah Dutkiewicz at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.606Z</updated>
+    <updated>2026-04-24T01:58:33.578Z</updated>
   </entry>
   <entry>
     <author>
@@ -237,7 +258,7 @@
 <img src="/images/speakers/2026/Amanda-Lange.jpg"]]>
     </summary>
     <title>Amanda Lange at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.606Z</updated>
+    <updated>2026-04-24T01:58:33.578Z</updated>
   </entry>
   <entry>
     <author>
@@ -258,7 +279,7 @@
 <img src="/images/speakers/2026/Jamie-Dicken.jpg"]]>
     </summary>
     <title>Jamie Dicken at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.606Z</updated>
+    <updated>2026-04-24T01:58:33.577Z</updated>
   </entry>
   <entry>
     <author>
@@ -279,7 +300,7 @@
 <img src="/images/speakers/2026/David-Giard.jpg"]]>
     </summary>
     <title>David Giard at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.606Z</updated>
+    <updated>2026-04-24T01:58:33.577Z</updated>
   </entry>
   <entry>
     <author>
@@ -300,7 +321,7 @@
 <img src="/images/speakers/2026/Burton-Smith.jpg"]]>
     </summary>
     <title>Burton Smith at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.606Z</updated>
+    <updated>2026-04-24T01:58:33.577Z</updated>
   </entry>
   <entry>
     <author>
@@ -321,7 +342,7 @@
 <img src="/images/speakers/2026/MattKelly-Williams.png"]]>
     </summary>
     <title>Matt 'Kelly' Williams at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.606Z</updated>
+    <updated>2026-04-24T01:58:33.577Z</updated>
   </entry>
   <entry>
     <author>
@@ -342,7 +363,7 @@
 <img src="/images/speakers/2026/Bob-Fornal.jpg"]]>
     </summary>
     <title>Bob Fornal at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.605Z</updated>
+    <updated>2026-04-24T01:58:33.577Z</updated>
   </entry>
   <entry>
     <author>
@@ -362,7 +383,7 @@
 <img src="/images/speakers/2026/Paul-ChinJr..jpg"]]>
     </summary>
     <title>Paul Chin Jr. at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.605Z</updated>
+    <updated>2026-04-24T01:58:33.577Z</updated>
   </entry>
   <entry>
     <author>
@@ -383,7 +404,7 @@
 <img src="/images/speakers/2026/Cameron-Presley.jpg"]]>
     </summary>
     <title>Cameron Presley at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.605Z</updated>
+    <updated>2026-04-24T01:58:33.577Z</updated>
   </entry>
   <entry>
     <author>
@@ -404,27 +425,6 @@
 <img src="/images/speakers/2026/Victor-Frye.png"]]>
     </summary>
     <title>Victor Frye at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.605Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="artificial-intelligence" scheme="https://stirtrek.com/tags/artificial-intelligence/"/>
-    <category term="machine-learning" scheme="https://stirtrek.com/tags/machine-learning/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Ed Charbeneau to Stir Trek 2026!</p><img src="/images/speakers/2026/Ed-Charbeneau.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Ed-Charbeneau-at-Stir-Trek-2026"><a href="#Ed-Charbeneau-at-Stir-Trek-2026" class="headerlink" title="Ed Charbeneau at Stir Trek 2026"></a>Ed Charbeneau at Stir Trek 2026</h1><p><em>Ed is a Microsoft MVP and an international speaker, writer, online influencer, a Developer Advocate for Progress.</em></p><div style="clear:both;"></div><hr><h2 id="About-Ed-Charbeneau"><a href="#About-Ed-Charbeneau" class="headerlink" title="About Ed Charbeneau"></a>About Ed Charbeneau</h2><p>Ed is a Microsoft MVP and an international speaker, writer, online influencer, a Developer Advocate for Progress, and expert on all things web development. Ed enjoys geeking out to cool new tech, brainstorming about future technology, and admiring great design.</p><p>Ed has shared his insights, experiences, and advice around collaboration, knowledge management, social computing, and training at many industry events around the United States. Highly ethical and engaging with an uncanny business acumen, he is a creative community builder and outside the box thinker. Long term business relationships throughout the world within internal communications, employee engagement and marketing as well as IT. Focusing on Financial, Healthcare, Manufacturing, Agency and Professional Services. He has defined, architected, implemented line of business solutions with a touch of style and UX best practices.</p><hr><h2 id="Session-An-intro-to-Retrieval-Augmented-Generation-RAG"><a href="#Session-An-intro-to-Retrieval-Augmented-Generation-RAG" class="headerlink" title="Session: An intro to Retrieval Augmented Generation (RAG)"></a>Session: An intro to Retrieval Augmented Generation (RAG)</h2><p><strong>1 May 2026 11:30 AM</strong> | The Last Starfighter - Theatre 14 (12,13)<br><em>Track: Artificial Intelligence &amp; Machine Learning</em></p><p>Learn to deliver AI search and Generative Answers on top of your unstructured data. RAG is easy to prototype but hard to run in production. In this session we’ll start with retrieval augmented generation basics by building a simple proof of concept. Then, we’ll compare solutions meant for scale with Agentic RAG, RAG Graph, and Entity Recognition. Throughout we’ll see examples of how RAG applies to modern app development.</p><hr><h2 id="Connect-with-Ed"><a href="#Connect-with-Ed" class="headerlink" title="Connect with Ed"></a>Connect with Ed</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/edcharbeneau/">https://www.linkedin.com/in/edcharbeneau/</a></li><li><strong>Twitter&#x2F;X:</strong> @edcharbeneau</li><li><strong>Website:</strong> <a href="https://www.telerik.com/">https://www.telerik.com/</a></li><li><strong>Blog:</strong> <a href="https://www.telerik.com/blogs">https://www.telerik.com/blogs</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Ed’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/27/2026-03-27-Ed_Charbeneau/</id>
-    <link href="https://stirtrek.com/2026/03/27/2026-03-27-Ed_Charbeneau/"/>
-    <published>2026-03-27T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Ed Charbeneau to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Ed-Charbeneau.jpg"]]>
-    </summary>
-    <title>Ed Charbeneau at Stir Trek 2026</title>
-    <updated>2026-04-23T20:46:01.605Z</updated>
+    <updated>2026-04-24T01:58:33.577Z</updated>
   </entry>
 </feed>

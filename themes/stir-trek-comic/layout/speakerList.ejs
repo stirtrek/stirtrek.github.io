@@ -32,7 +32,7 @@
                             </a>
                         </h3>
                         <% 
-                            var title = speaker.tagLine;
+                            var title = speaker.tagLine || '';
                             if(title.length > 50) {
                                 title = title.slice(0,50) + "...";
                             }

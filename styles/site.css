@@ -1327,6 +1327,7 @@ a.become-sponsor-link:hover,
     margin-left: 0;
     display: flex;
     flex-wrap: wrap;
+    align-items: stretch;
 }
 
 .speakersContainer img {
@@ -1334,9 +1335,10 @@ a.become-sponsor-link:hover,
     width: 100%;
 }
 
-.speakersContainer .col-md-3 {
+.speakersContainer [class*="col-"] {
     margin-bottom: 24px;
     display: flex;
+    flex-direction: column;
 }
 
 .speaker-card {
@@ -1348,6 +1350,8 @@ a.become-sponsor-link:hover,
     transition: transform 0.15s ease, box-shadow 0.15s ease;
     display: flex;
     flex-direction: column;
+    flex: 1 1 auto;
+    min-height: 0;
     width: 100%;
 }
 
@@ -1365,6 +1369,24 @@ a.become-sponsor-link:hover,
     width: 100%;
     height: 100%;
     object-fit: cover;
+}
+
+/* Single-column: center a narrower card and cap photo height so the page isn’t one giant portrait per screen. */
+@media (max-width: 767px) {
+    .speakersContainer [class*="col-"] {
+        max-width: min(300px, 88vw);
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .speakersContainer .speaker-card .speaker-photo {
+        height: 220px;
+        min-height: 0;
+    }
+
+    .speakersContainer .speaker-card .speaker-info {
+        padding: 12px 14px;
+    }
 }
 
 .speaker-card .speaker-info {

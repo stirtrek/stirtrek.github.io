@@ -549,33 +549,6 @@
       "isConfirmed": true
     },
     {
-      "id": "1131009",
-      "title": "Relevance by Design: A Sustainable Learning System for Senior Devs",
-      "description": "Senior developers don’t struggle with learning. They struggle with the endless list of things they could learn, and the quiet feeling that they are always behind.\r\n\r\nThis session is a practical system for staying relevant on purpose: define what “relevant” means for your role, triage what to learn now vs. later vs. never, and run a weekly cadence that fits in 1–2 hours without leaking into nights and weekends. We’ll replace vanity metrics with a few signals that reflect real progress, and we’ll turn what you learn into skill you can use.\r\n\r\nYou’ll leave with a framework you can run for a month, a quarter, or a year without turning your spare time into homework.",
-      "startsAt": "2026-05-01T14:30:00Z",
-      "endsAt": "2026-05-01T15:15:00Z",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "5698811a-4c31-4537-970d-e427009e0cca"
-      ],
-      "categoryItems": [
-        431279
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": 77077,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
       "id": "1130941",
       "title": "Microsoft Fabric for Developers",
       "description": "Does your operational database contain staging and reporting data? Is it bloated and struggling under the load? As companies grow, its common to reach a tipping point where you can't just put everything into your shared OLTP database and keep scaling it up. That's when it's time to start thinking seriously about data and how best to manage it.\r\nTraditionally, data warehousing and ETL have required different skill sets and operated independently from application development, but with platforms like Microsoft Fabric, the skillsets aren't so different anymore, especially if you know a bit of Python.\r\nThis session will talk about some of the many services that make up Fabric, and how to use it coming from a development background.",
@@ -1272,33 +1245,6 @@
         }
       ],
       "roomId": 77080,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
-      "id": "1131005",
-      "title": "Increasing Productivity by Doing Nothing",
-      "description": "It is easy to mistake “busy” for “productive.” We fill every gap—messages, meetings, side tasks, even our “breaks”—and then wonder why our focus, creativity, and decision-making keep getting worse.\r\n\r\nThis talk is about doing nothing on purpose. Not as a productivity hack, but as a practical way to restore your mind, body, relationships, and clarity. You’ll leave with a simple approach you can use immediately, plus a one-week experiment to reclaim slack in your day—because the deviation from the deadline will be far worse if you run out of gas.",
-      "startsAt": "2026-05-01T18:00:00Z",
-      "endsAt": "2026-05-01T18:45:00Z",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "5698811a-4c31-4537-970d-e427009e0cca"
-      ],
-      "categoryItems": [
-        431279
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": 77081,
       "liveUrl": null,
       "recordingUrl": null,
       "status": "Accepted",
@@ -2885,46 +2831,6 @@
         {
           "questionId": 119284,
           "answerValue": "Columbus, OH"
-        }
-      ]
-    },
-    {
-      "id": "5698811a-4c31-4537-970d-e427009e0cca",
-      "firstName": "Jay",
-      "lastName": "Harris",
-      "bio": "Jay is a speaker, software consultant, and owner of Arana Software. He has been developing on the web since 1995, when the Blink tag lured him away from Visual Basic 3, and has been awarded as a Microsoft Regional Director, ASPInsider, and Microsoft MVP. Recognizing that the greatest application performance bottleneck is a developer’s time, Jay’s continuing quest is for frameworks, modules, tools, and practices that make developers stronger, fitter, happier, and more productive.\r\n\r\n Jay resides in Las Vegas, USA. Follow him on Twitter at @jayharris.",
-      "tagLine": "Problem Solver at Arana Software",
-      "profilePicture": "https://sessionize.com/image/04b5-400o400o1-1a-4c31-4537-970d-e427009e0cca.79063233-9eb7-48b2-b374-7101223a309c.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "X (Twitter)",
-          "url": "https://www.twitter.com/jayharris",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/jasonharris/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://www.aranasoft.com",
-          "linkType": "Company_Website"
-        }
-      ],
-      "sessions": [
-        1131009,
-        1131005
-      ],
-      "fullName": "Jay Harris",
-      "categoryItems": [
-        432500
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 119284,
-          "answerValue": "Las Vegas"
         }
       ]
     },

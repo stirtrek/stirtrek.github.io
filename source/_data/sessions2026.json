@@ -897,37 +897,6 @@
       "isConfirmed": true
     },
     {
-      "id": "1128028",
-      "title": "From Power to Supply Chains: Sustainability is Security",
-      "description": "Technology is moving fast, and so are the environmental challenges we face. Security sits right in the middle of these pressures. It’s no longer just about defending systems—our choices around power, hardware, and supply chains also shape how secure those systems really are.\r\n\r\nIn this talk, I’ll explore why sustainability belongs in the security conversation. We’ll look at practical steps—like energy-efficient tools, leaner software, greener data centers, and responsible hardware lifecycles—that cut waste and costs while strengthening defenses. Just as importantly, we’ll examine how unstable supply chains, poor sourcing, or unreliable power can become security risks in themselves.\r\n\r\nWe’ll also connect this to risk and compliance: how building sustainability into security reduces exposure, steadies supply chains, and keeps organizations ahead of changing expectations. With real-world examples, you’ll walk away with a clear sense of how sustainability and security reinforce each other, and how to apply that thinking in your own work.\r\n",
-      "startsAt": "2026-05-01T15:30:00Z",
-      "endsAt": "2026-05-01T16:15:00Z",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "bb52359f-7de5-4ab4-be0c-e0fdf39b7134"
-      ],
-      "categoryItems": [
-        431280
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "true"
-        },
-        {
-          "questionId": 118564,
-          "answerValue": "Codemash 2026"
-        }
-      ],
-      "roomId": 77082,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
       "id": "eac71ef9-d8fa-41bf-b3b4-b875e6f4ba41",
       "title": "Lunch",
       "description": null,
@@ -3251,60 +3220,6 @@
         {
           "questionId": 119284,
           "answerValue": "St. Louis, Missouri, USA (STL)"
-        }
-      ]
-    },
-    {
-      "id": "bb52359f-7de5-4ab4-be0c-e0fdf39b7134",
-      "firstName": "Matt \"Kelly\"",
-      "lastName": "Williams",
-      "bio": "Matt \"Kelly\" Williams is the founder of Making Software Greener, the CEO  of the Sustainable IT Manifesto Foundation, advisory board member for the Green Computing Foundation, and a speaker and mentor on IT practices including DevOps, Cloud Computing, and mental health advocacy. He has always wanted to be a Renaissance person; perhaps one day he will be. In the meantime, he explores IT Sustainability, is learning photography, designs tabletop games, reads, weaves, cooks, hacks, and explores the mountains near Loveland, Colorado.",
-      "tagLine": "Sustainable IT Innovator Championing Agile Sustainability & Green Tech | | CEO of Sustainable IT Manifesto Foundation | International Speaker | Advisory Board Member",
-      "profilePicture": "https://sessionize.com/image/dbee-400o400o1-WJ9SgktJqoE3kwVoZBtd8a.png",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "X (Twitter)",
-          "url": "http://twitter.com/matt_k_williams",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/mattkwilliams/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "http://matthewkwilliams.com",
-          "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://makingsoftwaregreener.com",
-          "linkType": "Company_Website"
-        },
-        {
-          "title": "Sustainable IT Manifesto",
-          "url": "https://sustainableitmanifesto.org",
-          "linkType": "Other"
-        },
-        {
-          "title": "BlueSky",
-          "url": "https://bsky.app/profile/mkellywilliams.bsky.social",
-          "linkType": "Other"
-        }
-      ],
-      "sessions": [
-        1128028
-      ],
-      "fullName": "Matt \"Kelly\" Williams",
-      "categoryItems": [
-        432499
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 119284,
-          "answerValue": "Loveland, CO"
         }
       ]
     },

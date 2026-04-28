@@ -10,7 +10,28 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-04-27T20:54:18.054Z</updated>
+  <updated>2026-04-28T02:10:50.475Z</updated>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="architecture" scheme="https://stirtrek.com/tags/architecture/"/>
+    <category term="platform-engineering" scheme="https://stirtrek.com/tags/platform-engineering/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Joseph Guadagno to Stir Trek 2026!</p><img src="/images/speakers/2026/Joseph-Guadagno.png" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Joseph-Guadagno-at-Stir-Trek-2026"><a href="#Joseph-Guadagno-at-Stir-Trek-2026" class="headerlink" title="Joseph Guadagno at Stir Trek 2026"></a>Joseph Guadagno at Stir Trek 2026</h1><p><em>Microsoft “Developer Services” MVP, Progress Telerik Champion, and Organizer of Desert Code Camp</em></p><div style="clear:both;"></div><hr><h2 id="About-Joseph-Guadagno"><a href="#About-Joseph-Guadagno" class="headerlink" title="About Joseph Guadagno"></a>About Joseph Guadagno</h2><p>Joe Guadagno has been writing software for over 30 years, has been an active member of the .NET community, formerly serving on the .NET Foundation Board of Directors, as President, and has been a Microsoft MVP in .NET for more than 15 years. He has spoken through the United States and international events on topics ranging from Microsoft .NET, Microsoft Azure, Ionic, Bootstrap, and many others. You can see the complete list at <a href="https://www.josephguadagno.net/presentations">https://www.josephguadagno.net/presentations</a>. When not sitting at a computer, Joe loves to hang out with his family and play games. When not playing games with the family, Joe is checking out the latest in Home Automation. You can connect with Joe on Bluesky at @jguadagno.com, Facebook at JosephGuadagnoNet, and on his blog at <a href="https://www.josephguadagno.net/">https://www.josephguadagno.net</a></p><hr><h2 id="Session-Application-Architecture-Patterns"><a href="#Session-Application-Architecture-Patterns" class="headerlink" title="Session: Application Architecture Patterns"></a>Session: Application Architecture Patterns</h2><p><strong>1 May 2026 04:00 PM</strong> | The Goonies - Theatre 16 (21)<br><em>Track: Architecture &amp; Platform Engineering</em></p><p>Architecting an application can be challenging.  What do you do to keep your application flexible to ever-constant requirement changes? How do you handle landscape changes (cloud, on-premises, databases)? How do you avoid over-engineering the application? How do I make sure my application plays well with other applications?</p><p>In this session, we’ll take a look at some well-understood and practiced Software Architecture patterns.  We’ll cover these patterns at a high level to understand how to use these patterns in different scenarios.</p><p>You’ll walk away with some knowledge, tips, and tricks that you’ll be able to use for new and existing applications.</p><hr><h2 id="Connect-with-Joseph"><a href="#Connect-with-Joseph" class="headerlink" title="Connect with Joseph"></a>Connect with Joseph</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/josephguadagno/">https://www.linkedin.com/in/josephguadagno/</a></li><li><strong>Twitter&#x2F;X:</strong> @jguadagno</li><li><strong>Website:</strong> <a href="https://www.josephguadagno.net/">https://www.josephguadagno.net</a></li><li><strong>Blog:</strong> <a href="https://www.josephguadagno.net/">https://www.josephguadagno.net</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Joseph’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/04/28/2026-04-28-Joseph_Guadagno/</id>
+    <link href="https://stirtrek.com/2026/04/28/2026-04-28-Joseph_Guadagno/"/>
+    <published>2026-04-28T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Joseph Guadagno to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Joseph-Guadagno.png"]]>
+    </summary>
+    <title>Joseph Guadagno at Stir Trek 2026</title>
+    <updated>2026-04-28T02:10:50.475Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -30,7 +51,7 @@
 <img src="/images/speakers/2026/Eric-Martin.jpg"]]>
     </summary>
     <title>Eric Martin at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.054Z</updated>
+    <updated>2026-04-28T02:10:50.475Z</updated>
   </entry>
   <entry>
     <author>
@@ -51,7 +72,7 @@
 <img src="/images/speakers/2026/Sam-Basu.jpg"]]>
     </summary>
     <title>Sam Basu at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.054Z</updated>
+    <updated>2026-04-28T02:10:50.475Z</updated>
   </entry>
   <entry>
     <author>
@@ -72,7 +93,7 @@
 <img src="/images/speakers/2026/Chris-Birie.png"]]>
     </summary>
     <title>Chris Birie at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.054Z</updated>
+    <updated>2026-04-28T02:10:50.475Z</updated>
   </entry>
   <entry>
     <author>
@@ -93,7 +114,7 @@
 <img src="/images/speakers/2026/Amy-Norris.jpg"]]>
     </summary>
     <title>Amy Norris at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.054Z</updated>
+    <updated>2026-04-28T02:10:50.475Z</updated>
   </entry>
   <entry>
     <author>
@@ -114,7 +135,7 @@
 <img src="/images/speakers/2026/Brian-Gorman.jpg"]]>
     </summary>
     <title>Brian Gorman at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.054Z</updated>
+    <updated>2026-04-28T02:10:50.475Z</updated>
   </entry>
   <entry>
     <author>
@@ -134,7 +155,7 @@
 <img src="/images/speakers/2026/Jeffrey-Miller.jpg"]]>
     </summary>
     <title>Jeffrey Miller at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.054Z</updated>
+    <updated>2026-04-28T02:10:50.475Z</updated>
   </entry>
   <entry>
     <author>
@@ -155,7 +176,7 @@
 <img src="/images/speakers/2026/Todd-Nussbaum.jpg"]]>
     </summary>
     <title>Todd Nussbaum at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.054Z</updated>
+    <updated>2026-04-28T02:10:50.475Z</updated>
   </entry>
   <entry>
     <author>
@@ -176,7 +197,7 @@
 <img src="/images/speakers/2026/Michelle-Smith.jpg"]]>
     </summary>
     <title>Michelle Smith at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.054Z</updated>
+    <updated>2026-04-28T02:10:50.475Z</updated>
   </entry>
   <entry>
     <author>
@@ -196,7 +217,7 @@
 <img src="/images/speakers/2026/Aaron-Stannard.jpg"]]>
     </summary>
     <title>Aaron Stannard at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.054Z</updated>
+    <updated>2026-04-28T02:10:50.475Z</updated>
   </entry>
   <entry>
     <author>
@@ -217,7 +238,7 @@
 <img src="/images/speakers/2026/Eldert-Grootenboer.png"]]>
     </summary>
     <title>Eldert Grootenboer at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.054Z</updated>
+    <updated>2026-04-28T02:10:50.475Z</updated>
   </entry>
   <entry>
     <author>
@@ -237,7 +258,7 @@
 <img src="/images/speakers/2026/Ken-Versaw.jpg"]]>
     </summary>
     <title>Ken Versaw at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.054Z</updated>
+    <updated>2026-04-28T02:10:50.475Z</updated>
   </entry>
   <entry>
     <author>
@@ -258,7 +279,7 @@
 <img src="/images/speakers/2026/Sarah-Dutkiewicz.jpg"]]>
     </summary>
     <title>Sarah Dutkiewicz at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.054Z</updated>
+    <updated>2026-04-28T02:10:50.474Z</updated>
   </entry>
   <entry>
     <author>
@@ -279,7 +300,7 @@
 <img src="/images/speakers/2026/Amanda-Lange.jpg"]]>
     </summary>
     <title>Amanda Lange at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.054Z</updated>
+    <updated>2026-04-28T02:10:50.474Z</updated>
   </entry>
   <entry>
     <author>
@@ -300,7 +321,7 @@
 <img src="/images/speakers/2026/Jamie-Dicken.jpg"]]>
     </summary>
     <title>Jamie Dicken at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.054Z</updated>
+    <updated>2026-04-28T02:10:50.474Z</updated>
   </entry>
   <entry>
     <author>
@@ -321,7 +342,7 @@
 <img src="/images/speakers/2026/David-Giard.jpg"]]>
     </summary>
     <title>David Giard at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.053Z</updated>
+    <updated>2026-04-28T02:10:50.474Z</updated>
   </entry>
   <entry>
     <author>
@@ -342,7 +363,7 @@
 <img src="/images/speakers/2026/Burton-Smith.jpg"]]>
     </summary>
     <title>Burton Smith at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.053Z</updated>
+    <updated>2026-04-28T02:10:50.474Z</updated>
   </entry>
   <entry>
     <author>
@@ -363,7 +384,7 @@
 <img src="/images/speakers/2026/MattKelly-Williams.png"]]>
     </summary>
     <title>Matt 'Kelly' Williams at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.053Z</updated>
+    <updated>2026-04-28T02:10:50.474Z</updated>
   </entry>
   <entry>
     <author>
@@ -384,7 +405,7 @@
 <img src="/images/speakers/2026/Bob-Fornal.jpg"]]>
     </summary>
     <title>Bob Fornal at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.053Z</updated>
+    <updated>2026-04-28T02:10:50.474Z</updated>
   </entry>
   <entry>
     <author>
@@ -404,27 +425,6 @@
 <img src="/images/speakers/2026/Paul-ChinJr..jpg"]]>
     </summary>
     <title>Paul Chin Jr. at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.053Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="professional-growth" scheme="https://stirtrek.com/tags/professional-growth/"/>
-    <category term="leadership" scheme="https://stirtrek.com/tags/leadership/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Cameron Presley to Stir Trek 2026!</p><img src="/images/speakers/2026/Cameron-Presley.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Cameron-Presley-at-Stir-Trek-2026"><a href="#Cameron-Presley-at-Stir-Trek-2026" class="headerlink" title="Cameron Presley at Stir Trek 2026"></a>Cameron Presley at Stir Trek 2026</h1><p><em>Owner of Small Batch Solutions - Professional Problem Solver</em></p><div style="clear:both;"></div><hr><h2 id="About-Cameron-Presley"><a href="#About-Cameron-Presley" class="headerlink" title="About Cameron Presley"></a>About Cameron Presley</h2><p>Cameron Presley is owner of Small Batch Solutions (<a href="https://smallbatchsolutions.io/">https://smallbatchsolutions.io/</a>), a speaker, and a Microsoft MVP in Developer Technologies.</p><p>Based out of Charlotte, North Carolina, Cameron has ten years of experience working with start-ups and large enterprise both publicly and privately held to architect solutions, implement solutions, and training developers to be better today than what they were yesterday!</p><p>In his spare time, Cameron can be found hanging out with his family, playing board games, jamming on the bass guitar, and reading books.</p><hr><h2 id="Session-Cutting-Through-the-Hype-Building-High-Performing-Teams"><a href="#Session-Cutting-Through-the-Hype-Building-High-Performing-Teams" class="headerlink" title="Session: Cutting Through the Hype: Building High Performing Teams"></a>Session: Cutting Through the Hype: Building High Performing Teams</h2><p><strong>1 May 2026 11:30 AM</strong> | Interstellar - Theatre 4 (5,6,7,8,9)<br><em>Track: Professional Growth &amp; Leadership</em></p><p>Whether you’re a leader or an individual contributor, you rely on teams to get meaningful work done. We’ve been working in teams forever, yet some groups move fast and deliver consistently while others seem permanently stuck in the slow lane.</p><p>It’s not because one team has mythical “10x engineers” or the latest AI tools. Those things can amplify performance, but they don’t create it. High‑performing teams are built on a foundation of strong people practices and clear, healthy standards.</p><p>Designed for new leaders or anyone seeking a fresh perspective, this session breaks down a practical approach to building great teams by focusing on people and standards—and the way the two reinforce each other. By the end of this session, not only will you have ideas on how to improve your team, but also a concrete roadmap you can apply immediately.</p><hr><h2 id="Connect-with-Cameron"><a href="#Connect-with-Cameron" class="headerlink" title="Connect with Cameron"></a>Connect with Cameron</h2><ul><li><strong>LinkedIn:</strong> <a href="https://linkedin.com/pcameronpresley">https://linkedin.com/pcameronpresley</a></li><li><strong>Twitter&#x2F;X:</strong> @pcameronpresley</li><li><strong>Website:</strong> <a href="https://smallbatchsolutions.io/">https://smallbatchsolutions.io</a></li><li><strong>Blog:</strong> <a href="https://blog.thesoftwarementor.com/">https://blog.thesoftwarementor.com</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Cameron’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/03/31/2026-03-31-Cameron_Presley/</id>
-    <link href="https://stirtrek.com/2026/03/31/2026-03-31-Cameron_Presley/"/>
-    <published>2026-03-31T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Cameron Presley to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Cameron-Presley.jpg"]]>
-    </summary>
-    <title>Cameron Presley at Stir Trek 2026</title>
-    <updated>2026-04-27T20:54:18.053Z</updated>
+    <updated>2026-04-28T02:10:50.474Z</updated>
   </entry>
 </feed>

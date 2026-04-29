@@ -808,33 +808,6 @@
       "isConfirmed": true
     },
     {
-      "id": "1124728",
-      "title": "Cutting Through the Hype: Building High Performing Teams",
-      "description": "Whether you’re a leader or an individual contributor, you rely on teams to get meaningful work done. We’ve been working in teams forever, yet some groups move fast and deliver consistently while others seem permanently stuck in the slow lane.\r\n\r\nIt’s not because one team has mythical “10x engineers” or the latest AI tools. Those things can amplify performance, but they don’t create it. High‑performing teams are built on a foundation of strong people practices and clear, healthy standards.\r\n\r\nDesigned for new leaders or anyone seeking a fresh perspective, this session breaks down a practical approach to building great teams by focusing on people and standards—and the way the two reinforce each other. By the end of this session, not only will you have ideas on how to improve your team, but also a concrete roadmap you can apply immediately.",
-      "startsAt": "2026-05-01T15:30:00Z",
-      "endsAt": "2026-05-01T16:15:00Z",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "62ebafd8-8470-4415-bc16-6949e5c80f5b"
-      ],
-      "categoryItems": [
-        431279
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": 77079,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
       "id": "1120257",
       "title": "The DevOops Handbook: A satirical guide to slow software delivery",
       "description": "In the quest for rapid software delivery, DevOps principles are misapplied or skipped entirely, leading to a “DevOops culture.” In this talk we'll explore DevOps missteps through a satirical narrative where missteps and bad practices are presented as the path forward.\r\n\r\nTo start, we’ll discuss deploying code the way of the masochist. This will include a convincing argument for detail-oriented change requests and late-night deployments to prevent any witnesses to our misdeeds. Following this, we will outline our project mismanagement philosophy for maintaining constant chaos: embracing siloes and eliminating feedback loops. Finally, we'll present why quality assurance is overrated and unnecessary. Instead, we'll present the benefits of zero testing and disabling quality and security tools – they are just like that “check engine” light in the car: useless and annoying.\r\n\r\nTogether we’ll see how easy it is to establish the worst DevOps culture for modern software delivery: a DevOops culture! \r\n\r\nOr not. While this talk is tongue in cheek, we will see how to overcome these all-to-real mindsets. By the time we are done, we'll have navigated the treacherous waters of software misadventures with a wink and a smile so we can march forward, turning our ‘oopses’ into opportunities and our code catastrophes into triumphs.",
@@ -2171,50 +2144,6 @@
         {
           "questionId": 119284,
           "answerValue": "Columbus, OH"
-        }
-      ]
-    },
-    {
-      "id": "62ebafd8-8470-4415-bc16-6949e5c80f5b",
-      "firstName": "Cameron",
-      "lastName": "Presley",
-      "bio": "Cameron Presley is owner of Small Batch Solutions (https://smallbatchsolutions.io/), a speaker, and a Microsoft MVP in Developer Technologies.\r\n\r\nBased out of Charlotte, North Carolina, Cameron has ten years of experience working with start-ups and large enterprise both publicly and privately held to architect solutions, implement solutions, and training developers to be better today than what they were yesterday!\r\n\r\nIn his spare time, Cameron can be found hanging out with his family, playing board games, jamming on the bass guitar, and reading books.",
-      "tagLine": "Owner of Small Batch Solutions - Professional Problem Solver",
-      "profilePicture": "https://sessionize.com/image/d675-400o400o1-UnSBPiUNot5D6eQ1HzDxbH.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "X (Twitter)",
-          "url": "https://twitter.com/pcameronpresley",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://linkedin.com/pcameronpresley",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://blog.thesoftwarementor.com",
-          "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://smallbatchsolutions.io",
-          "linkType": "Company_Website"
-        }
-      ],
-      "sessions": [
-        1124728
-      ],
-      "fullName": "Cameron Presley",
-      "categoryItems": [
-        432500
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 119284,
-          "answerValue": "Cornelius, NC"
         }
       ]
     },

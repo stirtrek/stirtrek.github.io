@@ -997,7 +997,8 @@
       "speakers": [
         "424f7166-a882-473f-b05e-15aed7f9ff86",
         "3d9afdca-043f-4a20-820c-f25ef3e85c1a",
-        "fefc8133-4649-4f70-93a1-d6d1280bc0ad"
+        "fefc8133-4649-4f70-93a1-d6d1280bc0ad",
+        "3061da7e-4849-4750-9688-9cd197ca2424"
       ],
       "categoryItems": [
         431276
@@ -2731,6 +2732,22 @@
           "answerValue": "Columbus, OH"
         }
       ]
+    },
+    {
+      "id": "3061da7e-4849-4750-9688-9cd197ca2424",
+      "firstName": "Jamie",
+      "lastName": "Hughes",
+      "bio": "Jamie Hughes a software developer turned educator, currently serving as a Computer Science faculty member at WVU Parkersburg. Having navigated the distinct challenges of both government and private-sector engineering, she now focuses on modernizing CS curriculum and mentoring the next generation of aspiring engineers.",
+      "tagLine": null,
+      "profilePicture": "https://sessionize.com/image/f9a1-400o400o1-7GMY1J1xaYjpDkkZbJ2ufP.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1215678
+      ],
+      "fullName": "Jamie Hughes",
+      "categoryItems": [],
+      "questionAnswers": []
     },
     {
       "id": "fefc8133-4649-4f70-93a1-d6d1280bc0ad",

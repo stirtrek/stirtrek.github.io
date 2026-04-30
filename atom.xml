@@ -10,7 +10,27 @@
   <rights>All rights reserved 2026, Stir Trek Conference</rights>
   <subtitle>Stir Trek Conference</subtitle>
   <title>Stir Trek</title>
-  <updated>2026-04-29T20:55:55.955Z</updated>
+  <updated>2026-04-30T02:12:20.727Z</updated>
+  <entry>
+    <author>
+      <name>Stir Trek Conference</name>
+    </author>
+    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
+    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
+    <category term="application-development" scheme="https://stirtrek.com/tags/application-development/"/>
+    <content>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Kelly Morrison to Stir Trek 2026!</p><img src="/images/speakers/2026/Kelly-Morrison.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Kelly-Morrison-at-Stir-Trek-2026"><a href="#Kelly-Morrison-at-Stir-Trek-2026" class="headerlink" title="Kelly Morrison at Stir Trek 2026"></a>Kelly Morrison at Stir Trek 2026</h1><p><em>Solutions Architect at CGI &#x2F; PhD in Computer Engineering</em></p><div style="clear:both;"></div><hr><h2 id="About-Kelly-Morrison"><a href="#About-Kelly-Morrison" class="headerlink" title="About Kelly Morrison"></a>About Kelly Morrison</h2><p>Kelly Morrison is a native of Georgia with a BS in mathematics and a PhD in computer engineering. He has over 30 years of software experience in various industries, including the television, education, retail, and agriculture sectors. He also wrote a monthly column for “Digital Output” magazine under the pen name “Armand Tarantino”. He is currently employed as a solutions architect at CGI.</p><hr><h2 id="Session-150K-Lines-0-Unit-Tests-No-Documentation-How-To-Work-With-A-Software-Landfill"><a href="#Session-150K-Lines-0-Unit-Tests-No-Documentation-How-To-Work-With-A-Software-Landfill" class="headerlink" title="Session: 150K Lines, 0 Unit Tests, No Documentation: How To Work With A Software Landfill"></a>Session: 150K Lines, 0 Unit Tests, No Documentation: How To Work With A Software Landfill</h2><p><strong>1 May 2026 04:00 PM</strong> | Ghostbusters - Theatre 17 (20)<br><em>Track: Application Development</em></p><p>Most programmers don’t start projects from scratch, but inherit them. Often, we join large, messy, years-old code bases that are poorly tested and documented, and are intimidating to work with. Working with them can feel like tap dancing through a mine field.</p><p>Generative AI also provides challenges for software developers, as it can generate huge amounts of code that need to be understood.</p><p>This talk offers practical strategies for navigating and improving legacy code. We’ll see techniques like using git history with scripts to identify software hot spots, introducing software “seams” for safe refactoring, and isolating risky changes through “sprouting” and “wrapping” techniques. You’ll see how small, strategic changes can introduce stability without requiring massive rewrites.</p><p>Attendees will leave with concrete, proven techniques for understanding, modifying, and improving legacy code bases with confidence.</p><hr><h2 id="Connect-with-Kelly"><a href="#Connect-with-Kelly" class="headerlink" title="Connect with Kelly"></a>Connect with Kelly</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kellyivymorrison/">https://www.linkedin.com/in/kellyivymorrison/</a></li><li><strong>Twitter&#x2F;X:</strong> @softwareriot</li><li><strong>Website:</strong> <a href="https://www.cgi.com/">https://www.cgi.com/</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Kelly’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
+    </content>
+    <id>https://stirtrek.com/2026/04/30/2026-04-30-Kelly_Morrison/</id>
+    <link href="https://stirtrek.com/2026/04/30/2026-04-30-Kelly_Morrison/"/>
+    <published>2026-04-30T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>🎙️ We’re thrilled to welcome Kelly Morrison to Stir Trek 2026!</p>
+<img src="/images/speakers/2026/Kelly-Morrison.jpg"]]>
+    </summary>
+    <title>Kelly Morrison at Stir Trek 2026</title>
+    <updated>2026-04-30T02:12:20.727Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Stir Trek Conference</name>
@@ -30,7 +50,7 @@
 <img src="/images/speakers/2026/William-Klos.png"]]>
     </summary>
     <title>William Klos at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.955Z</updated>
+    <updated>2026-04-30T02:12:20.727Z</updated>
   </entry>
   <entry>
     <author>
@@ -51,7 +71,7 @@
 <img src="/images/speakers/2026/Joseph-Guadagno.png"]]>
     </summary>
     <title>Joseph Guadagno at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.955Z</updated>
+    <updated>2026-04-30T02:12:20.727Z</updated>
   </entry>
   <entry>
     <author>
@@ -72,7 +92,7 @@
 <img src="/images/speakers/2026/Eric-Martin.jpg"]]>
     </summary>
     <title>Eric Martin at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.955Z</updated>
+    <updated>2026-04-30T02:12:20.727Z</updated>
   </entry>
   <entry>
     <author>
@@ -93,7 +113,7 @@
 <img src="/images/speakers/2026/Sam-Basu.jpg"]]>
     </summary>
     <title>Sam Basu at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.955Z</updated>
+    <updated>2026-04-30T02:12:20.727Z</updated>
   </entry>
   <entry>
     <author>
@@ -114,7 +134,7 @@
 <img src="/images/speakers/2026/Chris-Birie.png"]]>
     </summary>
     <title>Chris Birie at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.955Z</updated>
+    <updated>2026-04-30T02:12:20.727Z</updated>
   </entry>
   <entry>
     <author>
@@ -135,7 +155,7 @@
 <img src="/images/speakers/2026/Amy-Norris.jpg"]]>
     </summary>
     <title>Amy Norris at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.955Z</updated>
+    <updated>2026-04-30T02:12:20.727Z</updated>
   </entry>
   <entry>
     <author>
@@ -156,7 +176,7 @@
 <img src="/images/speakers/2026/Brian-Gorman.jpg"]]>
     </summary>
     <title>Brian Gorman at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.955Z</updated>
+    <updated>2026-04-30T02:12:20.727Z</updated>
   </entry>
   <entry>
     <author>
@@ -176,7 +196,7 @@
 <img src="/images/speakers/2026/Jeffrey-Miller.jpg"]]>
     </summary>
     <title>Jeffrey Miller at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.954Z</updated>
+    <updated>2026-04-30T02:12:20.727Z</updated>
   </entry>
   <entry>
     <author>
@@ -197,7 +217,7 @@
 <img src="/images/speakers/2026/Todd-Nussbaum.jpg"]]>
     </summary>
     <title>Todd Nussbaum at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.954Z</updated>
+    <updated>2026-04-30T02:12:20.727Z</updated>
   </entry>
   <entry>
     <author>
@@ -218,7 +238,7 @@
 <img src="/images/speakers/2026/Michelle-Smith.jpg"]]>
     </summary>
     <title>Michelle Smith at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.954Z</updated>
+    <updated>2026-04-30T02:12:20.727Z</updated>
   </entry>
   <entry>
     <author>
@@ -238,7 +258,7 @@
 <img src="/images/speakers/2026/Aaron-Stannard.jpg"]]>
     </summary>
     <title>Aaron Stannard at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.954Z</updated>
+    <updated>2026-04-30T02:12:20.727Z</updated>
   </entry>
   <entry>
     <author>
@@ -259,7 +279,7 @@
 <img src="/images/speakers/2026/Eldert-Grootenboer.png"]]>
     </summary>
     <title>Eldert Grootenboer at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.954Z</updated>
+    <updated>2026-04-30T02:12:20.727Z</updated>
   </entry>
   <entry>
     <author>
@@ -279,7 +299,7 @@
 <img src="/images/speakers/2026/Ken-Versaw.jpg"]]>
     </summary>
     <title>Ken Versaw at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.954Z</updated>
+    <updated>2026-04-30T02:12:20.726Z</updated>
   </entry>
   <entry>
     <author>
@@ -300,7 +320,7 @@
 <img src="/images/speakers/2026/Sarah-Dutkiewicz.jpg"]]>
     </summary>
     <title>Sarah Dutkiewicz at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.954Z</updated>
+    <updated>2026-04-30T02:12:20.726Z</updated>
   </entry>
   <entry>
     <author>
@@ -321,7 +341,7 @@
 <img src="/images/speakers/2026/Amanda-Lange.jpg"]]>
     </summary>
     <title>Amanda Lange at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.954Z</updated>
+    <updated>2026-04-30T02:12:20.726Z</updated>
   </entry>
   <entry>
     <author>
@@ -342,7 +362,7 @@
 <img src="/images/speakers/2026/Jamie-Dicken.jpg"]]>
     </summary>
     <title>Jamie Dicken at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.954Z</updated>
+    <updated>2026-04-30T02:12:20.726Z</updated>
   </entry>
   <entry>
     <author>
@@ -363,7 +383,7 @@
 <img src="/images/speakers/2026/David-Giard.jpg"]]>
     </summary>
     <title>David Giard at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.954Z</updated>
+    <updated>2026-04-30T02:12:20.726Z</updated>
   </entry>
   <entry>
     <author>
@@ -384,7 +404,7 @@
 <img src="/images/speakers/2026/Burton-Smith.jpg"]]>
     </summary>
     <title>Burton Smith at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.954Z</updated>
+    <updated>2026-04-30T02:12:20.726Z</updated>
   </entry>
   <entry>
     <author>
@@ -405,27 +425,6 @@
 <img src="/images/speakers/2026/MattKelly-Williams.png"]]>
     </summary>
     <title>Matt 'Kelly' Williams at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.954Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Stir Trek Conference</name>
-    </author>
-    <category term="2026" scheme="https://stirtrek.com/tags/2026/"/>
-    <category term="speaker" scheme="https://stirtrek.com/tags/speaker/"/>
-    <category term="architecture" scheme="https://stirtrek.com/tags/architecture/"/>
-    <category term="platform-engineering" scheme="https://stirtrek.com/tags/platform-engineering/"/>
-    <content>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Bob Fornal to Stir Trek 2026!</p><img src="/images/speakers/2026/Bob-Fornal.jpg" style="float:left;width:160px;height:160px;object-fit:cover;border-radius:50%;margin:0 20px 15px 0;box-shadow:0 2px 8px rgba(0,0,0,0.2);" /><h1 id="Bob-Fornal-at-Stir-Trek-2026"><a href="#Bob-Fornal-at-Stir-Trek-2026" class="headerlink" title="Bob Fornal at Stir Trek 2026"></a>Bob Fornal at Stir Trek 2026</h1><p><em>Microsoft MVP | Senior Developer with a passion for learning, testing, mentoring, speaking and personal growth. Blessed husband and proud father of two.</em></p><div style="clear:both;"></div><hr><h2 id="About-Bob-Fornal"><a href="#About-Bob-Fornal" class="headerlink" title="About Bob Fornal"></a>About Bob Fornal</h2><p>Microsoft MVP with focus is on Web Development: JavaScript, TypeScript, CSS, SVG, Angular, React, React-Native, Vue, and Ionic. I commonly speak about Cloud CI&#x2F;CD, Quality Engineering, Best Practices, and Front-End Technologies.</p><ul><li>Owner of Code Squid, LLC.</li><li>Senior Solutions Developer II (Front-End) at Leading EDJE, Inc.</li></ul><p>“Learning from my mistakes over the decades, I feel that I have become a solid programmer.” – Me</p><hr><h2 id="Session-TypeScript-You-MIGHT-Like"><a href="#Session-TypeScript-You-MIGHT-Like" class="headerlink" title="Session: TypeScript You MIGHT Like"></a>Session: TypeScript You MIGHT Like</h2><p><strong>1 May 2026 11:30 AM</strong> | The Goonies - Theatre 16 (21)<br><em>Track: Architecture &amp; Platform Engineering</em></p><p>TypeScript isn’t just a stricter JavaScript, it’s a toolkit for writing clearer, safer, and more maintainable code. Many developers simply use it minimally after encountering verbose types, confusing errors, or patterns that feel academic.</p><p>This talk takes a different route: dozens practical, real‑world TypeScript examples you can use today without over‑engineering, or over-hauling, your codebase. Through dozens of bite‑sized examples drawn from actual projects, we’ll cover patterns that reduce bugs, tips that keep types manageable, and features you might be overlooking.</p><p>Whether you’re a JavaScript developer TypeScript‑curious, or an experienced user looking for new tricks, you’ll leave with ideas you can drop straight into your editor; and a new appreciation for TypeScript that you MIGHT actually like.</p><hr><h2 id="Connect-with-Bob"><a href="#Connect-with-Bob" class="headerlink" title="Connect with Bob"></a>Connect with Bob</h2><ul><li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/rfornal/">https://www.linkedin.com/in/rfornal/</a></li><li><strong>Twitter&#x2F;X:</strong> @rfornal</li><li><strong>Website:</strong> <a href="https://www.leadingedje.com/home">https://www.leadingedje.com/home</a></li><li><strong>Blog:</strong> <a href="https://dev.to/rfornal">https://dev.to/rfornal</a></li></ul><hr><h2 id="Join-Us-at-Stir-Trek-2026"><a href="#Join-Us-at-Stir-Trek-2026" class="headerlink" title="Join Us at Stir Trek 2026"></a>Join Us at Stir Trek 2026</h2><p>Stir Trek 2026 takes place on <strong>May 1st, 2026</strong> in <strong>Columbus, OH</strong>. Don’t miss Bob’s session — grab your ticket before they’re gone!</p><p>🎟️ Register now: <a href="https://events.humanitix.com/stir-trek-2026-edition">https://events.humanitix.com/stir-trek-2026-edition</a></p>]]>
-    </content>
-    <id>https://stirtrek.com/2026/04/02/2026-04-02-Bob_Fornal/</id>
-    <link href="https://stirtrek.com/2026/04/02/2026-04-02-Bob_Fornal/"/>
-    <published>2026-04-02T00:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>🎙️ We’re thrilled to welcome Bob Fornal to Stir Trek 2026!</p>
-<img src="/images/speakers/2026/Bob-Fornal.jpg"]]>
-    </summary>
-    <title>Bob Fornal at Stir Trek 2026</title>
-    <updated>2026-04-29T20:55:55.954Z</updated>
+    <updated>2026-04-30T02:12:20.726Z</updated>
   </entry>
 </feed>

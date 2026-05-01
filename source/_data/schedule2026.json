@@ -258,10 +258,6 @@
         "time": "4:00 PM",
         "sessions": [
           {
-            "id": "1130675",
-            "scheduledRoom": "The Last Starfighter - Theatre 14 (12,13)"
-          },
-          {
             "id": "1120265",
             "scheduledRoom": "The Matrix - Theatre 15 (10, 11)"
           },

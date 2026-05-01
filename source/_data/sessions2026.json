@@ -1481,33 +1481,6 @@
       "isConfirmed": true
     },
     {
-      "id": "1130675",
-      "title": "Mission: AI Possible – Taming your AI agent swarms",
-      "description": "As organizations implement AI systems, they often encounter tasks too complex for a single agent—making multi-agent architectures vital. For example, hospitals rely on specialized agents for medical imaging, scheduling, and insurance coordination; travel platforms use agents to book flights, find hotels, and suggest activities; retailers automate inventory, supply chain, and CRM through multiple integrated agents; and software teams decompose projects across coding, testing, and documentation agents. In these scenarios, successful orchestration ensures agents communicate, delegate, and collaborate effectively, always staying aligned with organizational goals.\r\n\r\nIn this talk, we will explore how Microsoft Agent Framework provides a robust foundation for building and orchestrating multiagent systems that are secure, extensible, and production ready. We will review the best practices and architecture patterns required to implement different orchestration workflows (for example: Sequential, concurrent and handoff) as well as the unique challenges presented by each of them.\r\n\r\nBy the end of the session, participants will understand how to apply different orchestration workflows to build scalable, collaborative AI systems that leverage multiple agents to deliver higher accuracy, resilience, and automation across different scenarios.\r\n",
-      "startsAt": "2026-05-01T20:00:00Z",
-      "endsAt": "2026-05-01T20:45:00Z",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "62b5c0da-ecfa-4566-8ce2-4eeb8e2d321d"
-      ],
-      "categoryItems": [
-        431276
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 118563,
-          "answerValue": "false"
-        }
-      ],
-      "roomId": 77075,
-      "liveUrl": null,
-      "recordingUrl": null,
-      "status": "Accepted",
-      "isInformed": true,
-      "isConfirmed": true
-    },
-    {
       "id": "1120265",
       "title": "Securing your Azure AI Workload",
       "description": "You've been given the task of creating an AI workload that will work with your data to allow your customers to get answers.  Perhaps you even want to use some of these new \"agent\" things you've been hearing so much about.  Maybe you need to see how your regular apps can also integrate with your workload.\r\n\r\nBut AI is scary.  Just ask Samsung how they felt when their proprietary code showed up in chat GPT answers.  Just look to the Canadian Airline that had to pay a refund because their chat agent said the customer should get one.  Or how about the guy who negotiated a truck for $0?  It's challenging and scary - and that's just the implementation.  Just to be clear, learning how to ground your data properly is an entirely different session - and while we'll talk about that briefly, this session is more about the workload in Azure itself.\r\n\r\nWhat about the exposure of your data via your azure services?  How can you keep your HIPPA/GDPR/NIST certifications *and* integrate an azure AI workload?\r\n\r\nIn this session, you will learn about how you can correctly utilize Azure services to secure your AI workload from public exposure, and how you can connect securely to the AI deployments from your other secure services.",
@@ -3446,50 +3419,6 @@
         {
           "questionId": 119284,
           "answerValue": "Erie PA"
-        }
-      ]
-    },
-    {
-      "id": "62b5c0da-ecfa-4566-8ce2-4eeb8e2d321d",
-      "firstName": "Samuel",
-      "lastName": "Gomez",
-      "bio": "I've worked in software development for 15+ years (mostly Microsoft technologies) and love the problem solving aspect of the work. In recent years I have become very passionate about AI and machine learning technologies and how they can be applied to different aspects of our lives. When not coding I enjoy spending time with my family, soccer (watching, playing, and coaching), playing videogames and watching movies. ",
-      "tagLine": "Microsoft MVP and Head of AI at Geneca",
-      "profilePicture": "https://sessionize.com/image/b9e8-400o400o1-K6649gMDEzkWxFkUQLE8Bm.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "X (Twitter)",
-          "url": "https://twitter.com/thesoccerdev",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/samueljgomez/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "https://www.thesoccerdev.com/",
-          "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://geneca.com/",
-          "linkType": "Company_Website"
-        }
-      ],
-      "sessions": [
-        1130675
-      ],
-      "fullName": "Samuel Gomez",
-      "categoryItems": [
-        432499
-      ],
-      "questionAnswers": [
-        {
-          "questionId": 119284,
-          "answerValue": "Columbus, OH. United States."
         }
       ]
     },

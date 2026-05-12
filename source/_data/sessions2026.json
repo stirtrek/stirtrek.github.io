@@ -2546,6 +2546,11 @@
       "isTopSpeaker": false,
       "links": [
         {
+          "title": "X (Twitter)",
+          "url": "https://x.com/ericemartin",
+          "linkType": "Twitter"
+        },
+        {
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/ericemartin1/",
           "linkType": "LinkedIn"

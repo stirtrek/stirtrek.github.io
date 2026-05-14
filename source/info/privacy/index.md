@@ -23,8 +23,8 @@ Welcome to StirTrek! As part of your participation, you'll receive important upd
 - **Stopping Messages:** If you wish to stop receiving messages at any time, simply send a text message with the word "STOP". To receive messages again, you will need to opt-in by sending "START" to the designated number we will provide.
 
 ## Our Use of Personal Information
-The information collected from our attendees as part of the registration process is only used by Stir Trek. Our goal is to improve
-on the overall experience for the years ahead.
+The information collected from our attendees as part of the registration process is used by Stir Trek to
+improve the overall experience for attendees, sponsors, and speakers. It may be shared with sponsors. Attendees will be given the opportunity to opt out of informationn sharing.
 
 **Personally Identifiable Information:** We use the term "personally identifiable information" to mean any information that could reasonably be used to identify you, including your name, address, e-mail address, credit card information, or any combination of information that could be used to identify you.
 

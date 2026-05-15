@@ -6,26 +6,24 @@ title: Privacy Policy
  # Our Privacy Policy
 <div class="icon-hr"></div>
 
-# Privacy and SMS Communication Consent
-Welcome to StirTrek! As part of your participation, you'll receive important updates and can report or inquire about event details directly through text messages. Here’s how it works:
+# What we collect and why
+When you register for Stir Trek, we collect things like your name, email, and any other details you share with us during registration. We use third-party party ticketing platforms so we don't ever see or store your credit card details. We use what you give us to run the event, keep in touch with you, and make Stir Trek better every year for attendees, sponsors, and speakers.
 
-**Consent to Text Messages:** By entering your phone number, you agree to receive text messages from the StirTrek organizers regarding event updates, code of conduct issues, service outages, and more. Messages may also include responses to your feedback or inquiries.
+# Sharing with sponsors
+Sponsors cover a large portion of Stir Trek's costs. Meeting attendees is the most valuable part of the event for sponsors, so we may share your name and email with sponsors after the event so they can follow up. That's it. No phone numbers, no addresses, nothing else. You'll have a chance to opt out before we share anything.
 
-**What Your Phone Number Will Be Used For:**
-- **Event Updates:** Receive timely information about what’s happening during StirTrek.
-- **Assistance and Reporting:** Use the provided number as a hotline to report any issues or ask questions.
-- **Feedback on Talks:** Share your thoughts on sessions to help us improve future events.
+We may also share aggregated, anonymized demographic info with partners, speakers, or attendees. For example, it's often helpful to know that "X% of attendees work in front end web development" and things like that.
 
-**What Your Phone Number Will NOT Be Used For:**
-- **No Sharing:** Your phone number will not be shared with sponsors or any third parties.
-- **No Spam:** You won’t receive promotional messages or any communication unrelated to the event.
-- **No Persistent Data:** We do not store your phone numbers post-event. You will need to subscribe again for future events.
-- **Stopping Messages:** If you wish to stop receiving messages at any time, simply send a text message with the word "STOP". To receive messages again, you will need to opt-in by sending "START" to the designated number we will provide.
+# SMS communication
+If you give us your phone number, you may get text messages from Stir Trek organizers about things like:
 
-## Our Use of Personal Information
-The information collected from our attendees as part of the registration process is used by Stir Trek to
-improve the overall experience for attendees, sponsors, and speakers. It may be shared with sponsors. Attendees will be given the opportunity to opt out of informationn sharing.
+- Event updates and logistics
+- Replies when you contact us with questions or issues
+- Follow-ups on session feedback
 
-**Personally Identifiable Information:** We use the term "personally identifiable information" to mean any information that could reasonably be used to identify you, including your name, address, e-mail address, credit card information, or any combination of information that could be used to identify you.
+We won't send you promotional messages, and we won't share your number with sponsors or anyone else.
 
-**Dissemination of your Personally Identifiable Information:** We do not sell any personally identifiable information collected through our ticket registration or our website. Your personal information will remain confidential and be used only by Stir Trek. Aggregated demographic information may be made available to our partners, speakers or attendees, but at no time will that information be linked to your personal information in a public manner or sold to any third parties.
+Message frequency varies. Msg & data rates may apply. You can also reply STOP to opt out of future messages.
+
+# Questions
+If you've got questions or want your data removed, please contact us at <a href="mailto:info@stirtrek.com?subject=[Stir Trek] Question ref:site">info@stirtrek.com</a>.

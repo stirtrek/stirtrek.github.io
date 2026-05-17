@@ -79,7 +79,7 @@ All feature flags live in `_config.yml`. This table shows what should be enabled
 | Post-event / off-season              | false          | false             | false          | false                  | **true**              | false           | false       |
 
 
-Also: after the event, set `recordingsYear` to the year that just completed once recordings are posted to YouTube.
+Also: after the event, set `recordingsLink` to the YouTube playlist URL for the year that just completed once recordings are posted.
 
 `showWorkshops` and `showStore` are independent — enable them only if those features are active that year.
 
@@ -302,8 +302,7 @@ The templates in `themes/stir-trek-comic/layout/index.ejs` automatically apply t
 After the event wraps:
 
 - Post session recordings to YouTube and note the playlist URL
-- Update `source/recordings/index.md` with the YouTube playlist link for the completed year
-- Set `showRecordings: true` and `recordingsYear: YYYY` in `_config.yml` (replace `YYYY` with the year that just completed)
+- Set `showRecordings: true` and `recordingsLink` to the completed year's YouTube playlist URL in `_config.yml`
 - Update `source/info/history/index.md` with the year's details (date, movie, attendance notes, etc.)
 - Add `source/speakers/YYYY.md` archive page if not already done
 - Set `showSchedule: false`, `showSpeakers: false`, `showSessionList: false` for the off-season (or leave the schedule visible — either is fine)

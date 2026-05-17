@@ -28,7 +28,8 @@ showSchedule: true
 showSessionList: false
 showSpeakers: true
 showStore: false
-showRecordings: false
+showRecordings: true
+recordingsLink: https://www.youtube.com/playlist?list=PLaHMqLt8nxCx3TgokegypUH5_K0_kVpXA
 showWorkshops: false
 # If you'd like to show the speaker survey link in the schedule, you need to turn this on and configure it
 # Add a custom speaker question and put hte name in "surveyQuestionName"

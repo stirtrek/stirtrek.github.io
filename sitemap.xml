@@ -65,15 +65,6 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/speakers/2024.html</loc>
-    
-    <lastmod>2026-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://stirtrek.com/speakers/2025.html</loc>
     
     <lastmod>2026-07-08</lastmod>
@@ -83,16 +74,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/speakers/2026.html</loc>
-    
-    <lastmod>2026-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://stirtrek.com/speakers/index_cfpopenversion.html</loc>
+    <loc>https://stirtrek.com/speakers/2024.html</loc>
     
     <lastmod>2026-07-08</lastmod>
     
@@ -110,7 +92,25 @@
   </url>
   
   <url>
+    <loc>https://stirtrek.com/speakers/2026.html</loc>
+    
+    <lastmod>2026-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://stirtrek.com/speakers/index_noncfpversion.html</loc>
+    
+    <lastmod>2026-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/speakers/index_cfpopenversion.html</loc>
     
     <lastmod>2026-07-08</lastmod>
     
@@ -182,15 +182,6 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/info/antiharassmentpolicy/index.html</loc>
-    
-    <lastmod>2026-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://stirtrek.com/info/codeofconduct/index.html</loc>
     
     <lastmod>2026-07-08</lastmod>
@@ -218,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/info/history/index.html</loc>
+    <loc>https://stirtrek.com/info/antiharassmentpolicy/index.html</loc>
     
     <lastmod>2026-07-08</lastmod>
     
@@ -227,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/info/press/index.html</loc>
+    <loc>https://stirtrek.com/info/history/index.html</loc>
     
     <lastmod>2026-07-08</lastmod>
     
@@ -245,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/info/privacy/index.html</loc>
+    <loc>https://stirtrek.com/info/press/index.html</loc>
     
     <lastmod>2026-07-08</lastmod>
     
@@ -255,6 +246,15 @@
   
   <url>
     <loc>https://stirtrek.com/info/travel/index.html</loc>
+    
+    <lastmod>2026-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/info/privacy/index.html</loc>
     
     <lastmod>2026-07-08</lastmod>
     
@@ -273,6 +273,105 @@
   
   <url>
     <loc>https://stirtrek.com/images/speakers/2022/Readme.html</loc>
+    
+    <lastmod>2026-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/2026/04/14/2026-04-14-Eldert_Grootenboer/</loc>
+    
+    <lastmod>2026-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/2026/04/15/2026-04-15-Aaron_Stannard/</loc>
+    
+    <lastmod>2026-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/2026/04/16/2026-04-16-Michelle_Smith/</loc>
+    
+    <lastmod>2026-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/2026/04/17/2026-04-17-Todd_Nussbaum/</loc>
+    
+    <lastmod>2026-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/2026/04/20/2026-04-20-Jeffrey_Miller/</loc>
+    
+    <lastmod>2026-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/2026/04/21/2026-04-21-Brian_Gorman/</loc>
+    
+    <lastmod>2026-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/2026/04/22/2026-04-22-Amy_Norris/</loc>
+    
+    <lastmod>2026-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/2026/04/23/2026-04-23-Chris_Birie/</loc>
+    
+    <lastmod>2026-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/2026/04/24/2026-04-24-Sam_Basu/</loc>
+    
+    <lastmod>2026-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/2026/04/27/2026-04-27-Eric_Martin/</loc>
+    
+    <lastmod>2026-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/2026/04/28/2026-04-28-Joseph_Guadagno/</loc>
     
     <lastmod>2026-07-08</lastmod>
     
@@ -326,7 +425,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/2026/03/09/2026-03-09-Kathryn_Grayson_Nanz/</loc>
+    <loc>https://stirtrek.com/2026/03/10/2026-03-10-Cory_House/</loc>
     
     <lastmod>2026-07-08</lastmod>
     
@@ -335,7 +434,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/2026/03/10/2026-03-10-Cory_House/</loc>
+    <loc>https://stirtrek.com/2026/03/09/2026-03-09-Kathryn_Grayson_Nanz/</loc>
     
     <lastmod>2026-07-08</lastmod>
     
@@ -389,15 +488,6 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/2026/03/12/2026-03-12-Key-Ticket-Dates/</loc>
-    
-    <lastmod>2026-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://stirtrek.com/2026/03/13/2026-03-13-Jeff_McWherter/</loc>
     
     <lastmod>2026-07-08</lastmod>
@@ -408,6 +498,15 @@
   
   <url>
     <loc>https://stirtrek.com/2026/03/13/2026-03-13-Kevin_Grossnicklaus/</loc>
+    
+    <lastmod>2026-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/2026/03/12/2026-03-12-Key-Ticket-Dates/</loc>
     
     <lastmod>2026-07-08</lastmod>
     
@@ -506,7 +605,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/2026/03/25/2026-03-25-Jay_Harris/</loc>
+    <loc>https://stirtrek.com/2026/03/24/2026-03-24-Andrew_May/</loc>
     
     <lastmod>2026-07-08</lastmod>
     
@@ -515,7 +614,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/2026/03/24/2026-03-24-Andrew_May/</loc>
+    <loc>https://stirtrek.com/2026/03/25/2026-03-25-Jay_Harris/</loc>
     
     <lastmod>2026-07-08</lastmod>
     
@@ -533,15 +632,6 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/2026/03/30/2026-03-30-Victor_Frye/</loc>
-    
-    <lastmod>2026-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://stirtrek.com/2026/03/27/2026-03-27-Ed_Charbeneau/</loc>
     
     <lastmod>2026-07-08</lastmod>
@@ -551,7 +641,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/2026/03/31/2026-03-31-Cameron_Presley/</loc>
+    <loc>https://stirtrek.com/2026/03/30/2026-03-30-Victor_Frye/</loc>
     
     <lastmod>2026-07-08</lastmod>
     
@@ -561,6 +651,15 @@
   
   <url>
     <loc>https://stirtrek.com/2026/04/01/2026-04-01-Paul_Chin_Jr/</loc>
+    
+    <lastmod>2026-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/2026/03/31/2026-03-31-Cameron_Presley/</loc>
     
     <lastmod>2026-07-08</lastmod>
     
@@ -614,15 +713,6 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/2026/04/10/2026-04-10-Sarah_Dutkiewicz/</loc>
-    
-    <lastmod>2026-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://stirtrek.com/2026/04/09/2026-04-09-Amanda_Lange/</loc>
     
     <lastmod>2026-07-08</lastmod>
@@ -632,106 +722,16 @@
   </url>
   
   <url>
+    <loc>https://stirtrek.com/2026/04/10/2026-04-10-Sarah_Dutkiewicz/</loc>
+    
+    <lastmod>2026-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://stirtrek.com/2026/04/13/2026-04-13-Ken_Versaw/</loc>
-    
-    <lastmod>2026-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://stirtrek.com/2026/04/14/2026-04-14-Eldert_Grootenboer/</loc>
-    
-    <lastmod>2026-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://stirtrek.com/2026/04/15/2026-04-15-Aaron_Stannard/</loc>
-    
-    <lastmod>2026-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://stirtrek.com/2026/04/16/2026-04-16-Michelle_Smith/</loc>
-    
-    <lastmod>2026-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://stirtrek.com/2026/04/17/2026-04-17-Todd_Nussbaum/</loc>
-    
-    <lastmod>2026-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://stirtrek.com/2026/04/20/2026-04-20-Jeffrey_Miller/</loc>
-    
-    <lastmod>2026-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://stirtrek.com/2026/04/21/2026-04-21-Brian_Gorman/</loc>
-    
-    <lastmod>2026-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://stirtrek.com/2026/04/22/2026-04-22-Amy_Norris/</loc>
-    
-    <lastmod>2026-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://stirtrek.com/2026/04/24/2026-04-24-Sam_Basu/</loc>
-    
-    <lastmod>2026-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://stirtrek.com/2026/04/23/2026-04-23-Chris_Birie/</loc>
-    
-    <lastmod>2026-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://stirtrek.com/2026/04/27/2026-04-27-Eric_Martin/</loc>
-    
-    <lastmod>2026-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://stirtrek.com/2026/04/28/2026-04-28-Joseph_Guadagno/</loc>
     
     <lastmod>2026-07-08</lastmod>
     
@@ -816,20 +816,6 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/tags/product-design/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://stirtrek.com/tags/user-experience/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://stirtrek.com/tags/artificial-intelligence/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -838,6 +824,20 @@
   
   <url>
     <loc>https://stirtrek.com/tags/machine-learning/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/tags/product-design/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/tags/user-experience/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

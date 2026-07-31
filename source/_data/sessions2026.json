@@ -3362,6 +3362,11 @@
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/roxana-rodriguez-becker",
           "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://platform.torc.dev?utm_source=virtual%20event&utm_medium=social&utm_campaign=roxy",
+          "linkType": "Company_Website"
         }
       ],
       "sessions": [

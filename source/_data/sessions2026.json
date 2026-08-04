@@ -2617,13 +2617,28 @@
         },
         {
           "title": "Blog",
-          "url": "https://guy.dev",
+          "url": "https://guy.dev/blog",
           "linkType": "Blog"
         },
         {
           "title": "Company Website",
-          "url": "https://hardboiledgeek.com/",
+          "url": "https://guy.dev",
           "linkType": "Company_Website"
+        },
+        {
+          "title": "Bluesky",
+          "url": "https://bsky.app/profile/guy.dev",
+          "linkType": "Other"
+        },
+        {
+          "title": "YouTube",
+          "url": "https://www.youtube.com/@guyroyse",
+          "linkType": "Other"
+        },
+        {
+          "title": "GitHub",
+          "url": "https://github.com/guyroyse/",
+          "linkType": "Other"
         }
       ],
       "sessions": [

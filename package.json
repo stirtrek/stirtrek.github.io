@@ -6,7 +6,7 @@
     "version": "7.3.0"
   },
   "dependencies": {
-    "follow-redirects": "^1.15.5",
+    "follow-redirects": "^1.16.0",
     "hexo": "^7.3.0",
     "hexo-deployer-git": "^4.0.0",
     "hexo-fs": "^4.1.1",

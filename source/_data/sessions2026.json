@@ -3247,18 +3247,13 @@
       "isTopSpeaker": false,
       "links": [
         {
-          "title": "X (Twitter)",
-          "url": "https://twitter.com/IntegerMan",
-          "linkType": "Twitter"
-        },
-        {
           "title": "LinkedIn",
           "url": "https://www.linkedin.com/in/matteland/",
           "linkType": "LinkedIn"
         },
         {
           "title": "Blog",
-          "url": "https://MattOnML.NET",
+          "url": "https://MattEland.dev",
           "linkType": "Blog"
         },
         {

@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://stirtrek.com/workshops/index.html</loc>
-    
-    <lastmod>2026-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://stirtrek.com/virtual/index.html</loc>
     
     <lastmod>2026-09-13</lastmod>
@@ -20,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/speakers/2018.html</loc>
+    <loc>https://stirtrek.com/workshops/index.html</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -65,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/speakers/2023.html</loc>
+    <loc>https://stirtrek.com/speakers/2024.html</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -74,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/speakers/2024.html</loc>
+    <loc>https://stirtrek.com/speakers/2023.html</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -110,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/speakers/index_cfpopenversion.html</loc>
+    <loc>https://stirtrek.com/speakers/index_noncfpversion.html</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -119,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/speakers/index_noncfpversion.html</loc>
+    <loc>https://stirtrek.com/speakers/index_cfpopenversion.html</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -155,6 +146,15 @@
   </url>
   
   <url>
+    <loc>https://stirtrek.com/speakers/2018.html</loc>
+    
+    <lastmod>2026-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://stirtrek.com/manifest.json</loc>
     
     <lastmod>2026-09-13</lastmod>
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/schedule/index.html</loc>
+    <loc>https://stirtrek.com/registration/index.html</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -173,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/registration/index.html</loc>
+    <loc>https://stirtrek.com/schedule/index.html</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -281,6 +281,15 @@
   </url>
   
   <url>
+    <loc>https://stirtrek.com/2026/04/09/2026-04-09-Amanda_Lange/</loc>
+    
+    <lastmod>2026-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://stirtrek.com/2026/04/10/2026-04-10-Sarah_Dutkiewicz/</loc>
     
     <lastmod>2026-09-13</lastmod>
@@ -299,15 +308,6 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/2026/04/09/2026-04-09-Amanda_Lange/</loc>
-    
-    <lastmod>2026-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://stirtrek.com/2026/04/14/2026-04-14-Eldert_Grootenboer/</loc>
     
     <lastmod>2026-09-13</lastmod>
@@ -317,7 +317,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/2026/04/16/2026-04-16-Michelle_Smith/</loc>
+    <loc>https://stirtrek.com/2026/04/15/2026-04-15-Aaron_Stannard/</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -326,7 +326,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/2026/04/15/2026-04-15-Aaron_Stannard/</loc>
+    <loc>https://stirtrek.com/2026/04/16/2026-04-16-Michelle_Smith/</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -497,7 +497,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/2026/03/12/2026-03-12-Hazel_Bohon/</loc>
+    <loc>https://stirtrek.com/2026/03/12/2026-03-12-Christine_Miao/</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -506,7 +506,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/2026/03/12/2026-03-12-Christine_Miao/</loc>
+    <loc>https://stirtrek.com/2026/03/12/2026-03-12-Hazel_Bohon/</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -560,7 +560,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/2026/03/17/2026-03-17-Barret_Blake/</loc>
+    <loc>https://stirtrek.com/2026/03/17/2026-03-17-Tristan_Chiappisi/</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -569,7 +569,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/2026/03/17/2026-03-17-Tristan_Chiappisi/</loc>
+    <loc>https://stirtrek.com/2026/03/17/2026-03-17-Barret_Blake/</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -641,7 +641,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/2026/03/26/2026-03-26-Kate_Holterhoff/</loc>
+    <loc>https://stirtrek.com/2026/03/25/2026-03-25-Jay_Harris/</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -650,7 +650,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/2026/03/25/2026-03-25-Jay_Harris/</loc>
+    <loc>https://stirtrek.com/2026/03/26/2026-03-26-Kate_Holterhoff/</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -668,15 +668,6 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/2026/03/31/2026-03-31-Cameron_Presley/</loc>
-    
-    <lastmod>2026-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://stirtrek.com/2026/03/30/2026-03-30-Victor_Frye/</loc>
     
     <lastmod>2026-09-13</lastmod>
@@ -686,7 +677,7 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/2026/04/01/2026-04-01-Paul_Chin_Jr/</loc>
+    <loc>https://stirtrek.com/2026/03/31/2026-03-31-Cameron_Presley/</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -696,6 +687,15 @@
   
   <url>
     <loc>https://stirtrek.com/2026/04/02/2026-04-02-Bob_Fornal/</loc>
+    
+    <lastmod>2026-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/2026/04/01/2026-04-01-Paul_Chin_Jr/</loc>
     
     <lastmod>2026-09-13</lastmod>
     
@@ -865,20 +865,6 @@
   </url>
   
   <url>
-    <loc>https://stirtrek.com/tags/architecture/</loc>
-    <lastmod>2026-09-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://stirtrek.com/tags/platform-engineering/</loc>
-    <lastmod>2026-09-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://stirtrek.com/tags/professional-growth/</loc>
     <lastmod>2026-09-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -887,6 +873,20 @@
   
   <url>
     <loc>https://stirtrek.com/tags/leadership/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/tags/architecture/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://stirtrek.com/tags/platform-engineering/</loc>
     <lastmod>2026-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

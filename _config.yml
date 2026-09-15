@@ -12,8 +12,8 @@ language: EN-US
 timeZone: "America/New_York"
 
 # To support multiple years of archives, update the currentYear and add the old one to the allYears array
-currentYear: 2026
-recordingsYear: 2025
+currentYear: 2027
+recordingsYear: 2026
 allYears:
   - 2018
   - 2019
@@ -24,10 +24,13 @@ allYears:
   - 2024
   - 2025
   - 2026
-showSchedule: true
+  - 2027
+showSchedule: false
 showSessionList: false
-showSpeakers: true
+showSpeakers: false
 showStore: false
+# Toggles the ticket sales section on the homepage (source/index.md)
+showTickets: false
 showRecordings: true
 recordingsLink: https://www.youtube.com/playlist?list=PLaHMqLt8nxCx3TgokegypUH5_K0_kVpXA
 showWorkshops: false
@@ -51,6 +54,7 @@ socialMediaImage: /icons/opengraph.jpg
 # Sessionize API
 ## This needs updated each year as we have a separate Sessionize Instance. Directions for setting up the API are in the readme
 ## Use the All Data API
+# TODO: replace with 2027 Sessionize embed URL once the 2027 instance is created (this is still the 2026 URL)
 sessionizeApiUrl: "https://sessionize.com/api/v2/surpzh0s/view/All"
 
 # Directory

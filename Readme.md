@@ -83,6 +83,8 @@ Also: after the event, set `recordingsLink` to the YouTube playlist URL for the 
 
 `showWorkshops` and `showStore` are independent — enable them only if those features are active that year.
 
+`showTickets` toggles the ticket sales section on the homepage. The section's HTML stays in `source/index.md` (wrapped in `<!-- TICKETS:START -->` / `<!-- TICKETS:END -->` comments); `scripts/ticket-section-toggle.js` strips it at build time when the flag is off. Enable it when ticket sales open.
+
 ---
 
 ## Annual Kickoff Checklist

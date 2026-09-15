@@ -153,10 +153,10 @@ alias:
     <div class="col-md-12">
         <div class="comic-panel-header offset comic-panel-gold">Want to be a hero?</div>
         <div class="comic-panel-body with-header">
-            <strong>Interested in sponsoring Stir Trek 2026?</strong>
+            <strong>Interested in sponsoring Stir Trek 2027?</strong>
             <p>There are three steps to secure your organization's spot:</p>
             <ol>
-                <li>Review the sponsorship details below or <a href="https://drive.google.com/file/d/1jVNN_lHfzJbPi0g-g1DXJ7yY_7efcS6f/view?usp=sharing" target="_blank">download this prospectus</a> and choose your level of engagement. Spots are limited and the earliest responses get the best booth locations.</li>
+                <li>Review the sponsorship details below or <a href="https://drive.google.com/file/d/1q7fxr9fG0hWVBAIjmttzZX0VGHQ6JqPC/view?usp=sharing" target="_blank">download this prospectus</a> and choose your level of engagement. Spots are limited and the earliest responses get the best booth locations.</li>
                 <li>Go to <a href="https://stirtreksponsor.myshopify.com/" target="_blank">our sponsor portal</a> and purchase your sponsorship. If you absolutely must be invoiced instead of paying online (which is tough for us but we get it), please email <a href="mailto:sponsors@stirtrek.com" style="color: #34344c;">sponsors@stirtrek.com</a> so we can get an invoice to you.</li>
                 <li>If you want to be a Gold sponsor, let us know if you want to sponsor breakfast, lunch, the popocorn, or the lanyards.</li>
             </ol>
@@ -295,7 +295,7 @@ alias:
 
 <br><br>
 
-## 2026 Sponsors and Partners
+## 2027 Sponsors and Partners
 
 <div class="icon-hr"></div>
 

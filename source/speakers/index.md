@@ -1,7 +1,7 @@
 ---
 title: Speakers
 layout: index
-year: 2026
+year: 2027
 alias:
 - speakers/index.html
 - speakers/
@@ -11,4 +11,4 @@ alias:
 
 <div class="icon-hr"></div>
 
-We're excited about this awesome group of speakers and sessions for 2026. We'll update this with the schedule details soon!
+We're excited about this awesome group of speakers and sessions for 2027. We'll update this with the schedule details soon!

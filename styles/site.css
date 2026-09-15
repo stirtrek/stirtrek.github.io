@@ -337,7 +337,10 @@ a.btn-comic:hover {
 }
 
 .hero-date-panel .date-big {
-    font-family: 'Bangers', cursive;
+    /* Boogaloo instead of Bangers: Bangers' 7 reads as a 1 (4/30/2027 looked like 2021).
+       Boogaloo has no bold weight, so thicken with a text stroke. */
+    font-family: 'Boogaloo', 'Bangers', cursive;
+    -webkit-text-stroke: 2px currentColor;
     font-size: 3.5vw;
     color: var(--stir-dark);
     text-shadow: none;
@@ -479,6 +482,13 @@ a.btn-comic:hover {
     color: var(--stir-dark);
     text-shadow: none;
     margin-top: 0;
+}
+
+.home-benefits-panel h2 {
+    /* Boogaloo instead of Bangers: the year in "2027 Sponsors" read as 2021 in Bangers.
+       Boogaloo has no bold weight, so thicken with a text stroke. */
+    font-family: 'Boogaloo', 'Bangers', cursive;
+    -webkit-text-stroke: 2px currentColor;
 }
 
 .home-benefits-panel .benefits-subtitle {

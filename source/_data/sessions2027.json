@@ -1881,6 +1881,11 @@
           "title": "BlueSky",
           "url": "https://bsky.app/profile/ardalis.com",
           "linkType": "Other"
+        },
+        {
+          "title": "YouTube",
+          "url": "https://YouTube.com/ardalis",
+          "linkType": "Other"
         }
       ],
       "sessions": [

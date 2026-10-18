@@ -1185,7 +1185,7 @@ p.answer:before {
     margin: 0 auto;
 }
 
-.sponsor.sponsor-platinum img {
+.sponsor.sponsor-size-1 img {
     max-height: 200px;
 }
 
@@ -1193,25 +1193,30 @@ p.answer:before {
     font-size: x-small;
 }
 
-.sponsor.sponsor-platinum .sponsorCompany .description {
+.sponsor.sponsor-size-1 .sponsorCompany .description {
     height: 170px;
 }
 
-.sponsor.sponsor-gold img {
+.sponsor.sponsor-size-2 img {
     max-height: 150px;
 }
 
-.sponsor.sponsor-gold .sponsorCompany .description {
+.sponsor.sponsor-size-2 .sponsorCompany .description {
     height: 150px;
 }
 
-.sponsor.sponsor-bronze .sponsorCompany .description {
+.sponsor.sponsor-size-4 .sponsorCompany .description {
     height: 250px;
 }
 
-.sponsor.sponsor-silver img,
-.sponsor.sponsor-bronze img {
+.sponsor.sponsor-size-3 img,
+.sponsor.sponsor-size-4 img {
     max-height: 88px;
+}
+
+/* Community logos have always been left at their natural height */
+.sponsor.sponsor-community img {
+    max-height: none;
 }
 
 .sponsorsAbout {

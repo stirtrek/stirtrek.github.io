@@ -9,55 +9,73 @@ alias:
 {% raw %}
 
 <style>
-    .sponsor-benefits-table {
-        width: 100%;
-        background-color: #fff;
-        color: #000;
-        border-collapse: collapse;
+    .sponsor-tiers {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 20px;
         margin: 20px 0;
     }
     
-    .sponsor-benefits-table th,
-    .sponsor-benefits-table td {
-        padding: 15px;
-        text-align: left;
-        border: 2px solid #111c2e;
+    .sponsor-tier {
+        background-color: #fff;
+        color: #000;
+        border: 4px solid #111c2e;
+        display: flex;
+        flex-direction: column;
     }
     
-    .sponsor-benefits-table th {
-        background-color: #63ac91;
+    .sponsor-tier-header {
+        padding: 15px;
+        text-align: center;
+        border-bottom: 4px solid #111c2e;
+    }
+    
+    .sponsor-tier-name {
         font-family: 'Komika Axis', 'Comic Sans MS';
         text-transform: uppercase;
+        font-size: 1.3em;
+    }
+    
+    .sponsor-tier-price {
+        font-family: 'Komika Axis', 'Comic Sans MS';
+        font-size: 2.2em;
+        line-height: 1.2;
+    }
+    
+    .sponsor-tier-available {
         font-weight: bold;
     }
     
-    .sponsor-benefits-table tr:nth-child(even) {
-        background-color: #f5f5f5;
+    .sponsor-tier-presenting .sponsor-tier-header {
+        background-color: #d7c875;
     }
     
-    .sponsor-level-platinum {
-        background-color: #e5e4e2 !important;
-        font-weight: bold;
+    .sponsor-tier-platinum .sponsor-tier-header {
+        background-color: #e5e4e2;
     }
     
-    .sponsor-level-gold {
-        background-color: #d7c875 !important;
-        font-weight: bold;
+    .sponsor-tier-booth .sponsor-tier-header {
+        background-color: #63ac91;
     }
     
-    .sponsor-level-silver {
-        background-color: #c0c0c0 !important;
-        font-weight: bold;
+    .sponsor-tier-benefits {
+        list-style: none;
+        padding: 15px 20px;
+        margin: 0;
     }
     
-    .sponsor-level-bronze {
-        background-color:rgb(229, 164, 99) !important;
-        font-weight: bold;
+    .sponsor-tier-benefits li {
+        padding: 6px 0 6px 1.6em;
+        text-indent: -1.6em;
     }
     
-    .checkmark {
+    .sponsor-tier-benefits li::before {
+        content: "✓";
         color: #63ac91;
-        font-size: 1.2em;
+        font-weight: bold;
+        display: inline-block;
+        width: 1.6em;
+        text-indent: 0;
     }
     
     .cost-highlight {
@@ -92,61 +110,6 @@ alias:
         color: #fff;
     }
     
-    @media only screen and (max-width: 1200px) {
-        /* Hide table header on mobile */
-        .sponsor-benefits-table thead {
-            display: none;
-        }
-        
-        /* Each row becomes a card */
-        .sponsor-benefits-table,
-        .sponsor-benefits-table tbody {
-            display: block;
-        }
-        
-        .sponsor-benefits-table tr {
-            display: block;
-            margin-bottom: 20px;
-            border: 2px solid #111c2e;
-        }
-        
-        /* Each cell becomes a block row */
-        .sponsor-benefits-table td {
-            display: block;
-            text-align: left;
-            padding: 10px 15px;
-            border: none;
-            border-bottom: 1px solid #ddd;
-        }
-        
-        /* Show label before each value */
-        .sponsor-benefits-table td::before {
-            content: attr(data-label);
-            font-weight: bold;
-            display: inline-block;
-            width: 120px;
-            margin-right: 10px;
-        }
-        
-        /* First cell (Level) becomes card header */
-        .sponsor-benefits-table td:first-child {
-            font-size: 1.2em;
-            text-align: center;
-            border-bottom: 2px solid #111c2e;
-        }
-        
-        .sponsor-benefits-table td:first-child::before {
-            display: none;
-        }
-        
-        /* Group checkmark columns inline */
-        .sponsor-benefits-table td:nth-child(n+6) {
-            display: inline-block;
-            width: auto;
-            border-bottom: none;
-            padding: 8px 12px;
-        }
-    }
 </style>
 
 <div class="row">
@@ -175,68 +138,67 @@ alias:
     <div class="col-md-12">
         <div class="comic-panel-header offset">Sponsorship Levels & Benefits</div>
         <div class="comic-panel-body with-header">
-            <table class="sponsor-benefits-table">
-                <thead>
-                    <tr>
-                        <th>Level</th>
-                        <th>Price</th>
-                        <th># Available</th>
-                        <th>Booth Location</th>
-                        <th>Additional Perks</th>
-                        <th>Website</th>
-                        <th>Slides</th>
-                        <th>Room Signs</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr class="sponsor-level-platinum">
-                        <td>Platinum</td>
-                        <td data-label="Price">$12,000</td>
-                        <td data-label="# Available">1</td>
-                        <td data-label="Booth Location">Best location right at the entrance</td>
-                        <td data-label="Additional Perks">Featured onscreen in all rooms and YouTube after!</td>
-                        <td data-label="Website"><span class="checkmark">✓</span></td>
-                        <td data-label="Slides"><span class="checkmark">✓</span></td>
-                        <td data-label="Room Signs"><span class="checkmark">✓</span></td>
-                    </tr>
-                    <tr class="sponsor-level-gold">
-                        <td>Gold</td>
-                        <td data-label="Price">$8,500</td>
-                        <td data-label="# Available">4</td>
-                        <td data-label="Booth Location">Premier locations close to the center</td>
-                        <td data-label="Additional Perks">Featured at breakfast, lunch, on popcorn, or lanyards (pick one)!</td>
-                        <td data-label="Website"><span class="checkmark">✓</span></td>
-                        <td data-label="Slides"><span class="checkmark">✓</span></td>
-                        <td data-label="Room Signs">×</td>
-                    </tr>
-                    <tr class="sponsor-level-silver">
-                        <td>Silver</td>
-                        <td data-label="Price">$6,000</td>
-                        <td data-label="# Available">Unlimited</td>
-                        <td data-label="Booth Location">Great spots by theaters</td>
-                        <td data-label="Additional Perks">—</td>
-                        <td data-label="Website"><span class="checkmark">✓</span></td>
-                        <td data-label="Slides"><span class="checkmark">✓</span></td>
-                        <td data-label="Room Signs">×</td>
-                    </tr>
-                    <tr class="sponsor-level-bronze">
-                        <td>Bronze<br>(No Booth)</td>
-                        <td data-label="Price">$3,000</td>
-                        <td data-label="# Available">Unlimited</td>
-                        <td data-label="Booth Location">×</td>
-                        <td data-label="Additional Perks">—</td>
-                        <td data-label="Website"><span class="checkmark">✓</span></td>
-                        <td data-label="Slides"><span class="checkmark">✓</span></td>
-                        <td data-label="Room Signs">×</td>
-                    </tr>
-                </tbody>
-            </table>
-            <div style="margin-top: 30px;">
-                <h3>All Presenting Sponsors Receive:</h3>
-                <ul>
-                    <li><strong>Attendee Contact Information:</strong> Get the contact information for every attendee who does not opt out at registration!</li>
-                    <li><strong>Stickers/Postcards:</strong> Include a custom sticker or postcard in the attendee package. This is a great way to promote your brand, interest candidates, or provide free trials of your services.</li>
+            <div class="sponsor-tiers">
+            <div class="sponsor-tier sponsor-tier-presenting">
+                <div class="sponsor-tier-header">
+                    <div class="sponsor-tier-name">Presenting</div>
+                    <div class="sponsor-tier-price">$25,000</div>
+                    <div class="sponsor-tier-available">Only 1 available</div>
+                </div>
+                <ul class="sponsor-tier-benefits">
+                    <li>Naming rights: "Stir Trek Developer Conference, presented by Your Company"</li>
+                    <li>The best location in the house</li>
+                    <li>Top placement on the shirt</li>
+                    <li>Special callouts throughout the conference, including your own video or ad</li>
+                    <li>Premier placement of your logo on everything</li>
+                    <li>16 complimentary tickets</li>
+                    <li>The attendee list*</li>
+                    <li>Plus multiple custom options to make Stir Trek perfect for your company</li>
                 </ul>
+            </div>
+            <div class="sponsor-tier sponsor-tier-platinum">
+                <div class="sponsor-tier-header">
+                    <div class="sponsor-tier-name">Platinum</div>
+                    <div class="sponsor-tier-price">$15,000</div>
+                    <div class="sponsor-tier-available">Only 2 available</div>
+                </div>
+                <ul class="sponsor-tier-benefits">
+                    <li>A great booth location</li>
+                    <li>Premium logo placement on the shirt</li>
+                    <li>Your logo on slides throughout the event</li>
+                    <li>Logo on the website and signage</li>
+                    <li>8 complimentary tickets</li>
+                    <li>The attendee list*</li>
+                    <li>Plus one custom option to make Stir Trek perfect for your company</li>
+                </ul>
+            </div>
+            <div class="sponsor-tier sponsor-tier-booth">
+                <div class="sponsor-tier-header">
+                    <div class="sponsor-tier-name">Booth</div>
+                    <div class="sponsor-tier-price">$7,500</div>
+                    <div class="sponsor-tier-available">Unlimited</div>
+                </div>
+                <ul class="sponsor-tier-benefits">
+                    <li>Booth on the exhibitor floor</li>
+                    <li>Logo on the attendee shirt, website, signage, and slides</li>
+                    <li>4 complimentary tickets</li>
+                    <li>The attendee list*</li>
+                </ul>
+            </div>
+            </div>
+            <p><em>* The attendee contact list includes everyone who does not opt out at registration.</em></p>
+            <div style="margin-top: 30px;">
+                <h3>Make Stir Trek Perfect for You</h3>
+                <p>Presenting and Platinum sponsors get more than a booth. Tell us what you want out of the day and we'll work it in:</p>
+                <ul>
+                    <li>Host an attendee party</li>
+                    <li>Custom box inserts/swag/drawings</li>
+                    <li>Online promo leading up to the event</li>
+                    <li>Branding throughout our conference app</li>
+                    <li>Signage at the event</li>
+                    <li>Sponsor sessions</li>
+                </ul>
+                <p><em>Got another idea? We're all ears: <a href="mailto:sponsors@stirtrek.com" style="color: #34344c;">sponsors@stirtrek.com</a></em></p>
             </div>
         </div>
     </div>

@@ -226,21 +226,21 @@ The blog feed is generated automatically by `scripts/blog-feed.js` during `hexo 
 1. Add a **350x200 pixel** JPG or PNG of the sponsor logo to `/source/images/sponsors/`.
   - This size is important for consistent layout and they need to have white space around them to look right. Try to mimic existing sponsor images to make this work. 
   - If they don't have a white background, they will look weird on the site so make sure that's how they are designed.
-2. Open `source/_data/sponsorsYYYY.json` (for the current year) and copy an existing sponsor entry into the appropriate tier (`platinum`, `gold`, `silver`, `bronze`, or `community`).
+2. Open `source/_data/sponsorsYYYY.json` (for the current year) and copy an existing sponsor entry into the appropriate tier (for 2027: `presenting`, `platinum`, `booth`, or `community`).
 3. Commit to the `source` branch and it will deploy automatically.
 
 ### Sponsor tiers and long descriptions
 
-Sponsorship tiers are hardcoded in a few places if you ever need to rename them:
+Sponsor tiers aren't hardcoded. The site renders whatever tiers are in `sponsorsYYYY.json`, in the order they appear in the file, and uses the tier name as the section heading. A tier's logo size comes from its position: the first tier is the biggest (`sponsor-size-1` in `site.css`), then the second and third, and every tier from the fourth on shares the smallest size (`sponsor-size-4`). Empty tiers still count toward position, so leave them in the file to keep sizes stable.
 
-- `site.css` — custom sizing per tier (e.g., platinum logos are largest)
-- `themes/stir-trek-comic/layout/sponsors[Brief/Full].ejs` — renders the HTML per tier
-- `scripts-manuallyexecuting/add-a-new-year.js` — scaffolds the tiers in the new year's JSON
+The one name with special handling is `community`: those sponsors don't show a description, and their logos keep their natural height.
+
+To change the default tiers for a new year, edit `scripts-manuallyexecuting/add-a-new-year.js`.
 
 If a sponsor has a very long description that breaks the layout, you have two options:
 
 1. Add `"longDescription": "true"` to that sponsor's entry in `sponsorsYYYY.json` — this reduces their description font size slightly.
-2. In `site.css`, find `sponsor.sponsor-bronze .sponsorCompany .description {` (replace `bronze` with the correct tier) and increase the height value.
+2. In `site.css`, find `sponsor.sponsor-size-4 .sponsorCompany .description {` (replace `4` with the tier's size) and increase the height value.
 
 It's **very common** to break the site by including an extra trailing comma so run the site locally after you make sponsorship changes to test this.
 

@@ -13,8 +13,8 @@ if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  {
                 Thank you to our sponsors who help make Stir Trek possible!
             </p>
 
-            <% ["platinum", "gold", "silver", "bronze", "community"].forEach(sponsorTier => {
-                if(thisYearsSponsors.hasOwnProperty(sponsorTier)) { %>
+            <% Object.keys(thisYearsSponsors).forEach((sponsorTier, tierIndex) => {
+                if(Array.isArray(thisYearsSponsors[sponsorTier])) { %>
 
                     <% if(thisYearsSponsors[sponsorTier].length === 0) return; %>
 
@@ -24,30 +24,13 @@ if(typeof(thisYearsSponsors) === 'object' && thisYearsSponsors !== null)  {
                             <% for (var sponsor of thisYearsSponsors[sponsorTier] ) {%>
             
                                 <%
-                                    let bootstrapColumnWidth;
-                                    switch(sponsorTier) {
-                                        case "platinum":
-                                            bootstrapColumnWidth = 12;
-                                            break;
-                                        case "gold":
-                                            bootstrapColumnWidth = 6;
-                                            break;
-                                        case "silver":
-                                            bootstrapColumnWidth = 4;
-                                            break;
-                                        case "bronze":
-                                            bootstrapColumnWidth = 3;
-                                            break;
-                                        case "community":
-                                            bootstrapColumnWidth = 3;
-                                            break;
-                                        default:
-                                            bootstrapColumnWidth = 3;
-                                            break;
-                                    }
+                                    // Tiers are sized by their order in the sponsor data file: the first tier
+                                    // is the biggest, and every tier from the fourth on shares the smallest size
+                                    let sponsorSize = Math.min(tierIndex + 1, 4);
+                                    let bootstrapColumnWidth = [12, 6, 4, 3][sponsorSize - 1];
                                 %>
 
-                                <div class="col-md-<%=bootstrapColumnWidth%> sponsor sponsor-<%=sponsorTier%>">
+                                <div class="col-md-<%=bootstrapColumnWidth%> sponsor sponsor-size-<%=sponsorSize%> sponsor-<%=sponsorTier%>">
                                     <div class="sponsor-grid-item">
                                         <a href="<%= sponsor.link %>" aria-label="Takes you to the homepage of <%= sponsor.name %>">
                                             <img class="img-responsive" src="<%= sponsor.logo %>" title="<%= sponsor.description %>" alt="Company logo for <%= sponsor.name %>">

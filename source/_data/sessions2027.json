@@ -3379,6 +3379,11 @@
           "linkType": "LinkedIn"
         },
         {
+          "title": "Blog",
+          "url": "https://www.roxanarodriguezbecker.com",
+          "linkType": "Blog"
+        },
+        {
           "title": "Company Website",
           "url": "http://platform.torc.dev?utm_source=virtual%20event&utm_medium=social&utm_campaign=roxy",
           "linkType": "Company_Website"

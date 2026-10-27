@@ -1,5 +1,5 @@
 
-var CACHE = 'network-or-cache-1793057376045';
+var CACHE = 'network-or-cache-1793070484723';
 
 // On install, cache some resource.
 self.addEventListener('install', function(evt) {
@@ -34,8 +34,10 @@ self.addEventListener('fetch', function(evt) {
 "/registration/index.html",
 "/schedule/",
 "/schedule/index.html",
-"/scripts/bootstrap.min.js",
 "/scripts/bootstrap.js",
+"/scripts/bootstrap.min.js",
+"/scripts/jquery-3.3.0.js",
+"/scripts/jquery-3.3.1.js",
 "/scripts/jquery-3.3.1.min.js",
 "/scripts/jquery.js",
 "/scripts/luxon.min.js",
@@ -43,9 +45,7 @@ self.addEventListener('fetch', function(evt) {
 "/sessions/index.html",
 "/speakers/2018.html",
 "/speakers/2019.html",
-"/scripts/jquery-3.3.0.js",
 "/speakers/2020.html",
-"/scripts/jquery-3.3.1.js",
 "/speakers/2021.html",
 "/speakers/2022.html",
 "/speakers/2023.html",
@@ -61,9 +61,9 @@ self.addEventListener('fetch', function(evt) {
 "/store/",
 "/store/index.html",
 "/styles/bootstrap-button-social.min.css",
+"/styles/bootstrap.css",
 "/styles/bootstrap.min.css",
 "/styles/fontawesome-4.min.css",
-"/styles/bootstrap.css",
 "/styles/fontawesome-6-all.css",
 "/styles/fontawesome-6-all.min.css",
 "/styles/fontawesome-all.min.css",
@@ -95,9 +95,9 @@ self.addEventListener('fetch', function(evt) {
 "/styles/fontawesome-6/css/all.min.css",
 "/styles/fontawesome-6/css/brands.css",
 "/styles/fontawesome-6/css/brands.min.css",
-"/styles/fontawesome-6/css/fontawesome.min.css",
-"/styles/fontawesome-6/css/regular.css",
 "/styles/fontawesome-6/css/fontawesome.css",
+"/styles/fontawesome-6/css/regular.css",
+"/styles/fontawesome-6/css/fontawesome.min.css",
 "/styles/fontawesome-6/css/regular.min.css",
 "/styles/fontawesome-6/css/solid.css",
 "/styles/fontawesome-6/css/solid.min.css",
@@ -118,8 +118,8 @@ self.addEventListener('fetch', function(evt) {
 "/2026/03/11/2026-03-11-Chris_DeMars/",
 "/2026/03/11/2026-03-11-Jackie_Gleason/",
 "/2026/03/12/2026-03-12-Christine_Miao/",
-"/2026/03/12/2026-03-12-Hazel_Bohon/",
 "/2026/03/12/2026-03-12-Key-Ticket-Dates/",
+"/2026/03/12/2026-03-12-Hazel_Bohon/",
 "/2026/03/13/2026-03-13-Jeff_McWherter/",
 "/2026/03/13/2026-03-13-Kevin_Grossnicklaus/",
 "/2026/03/16/2026-03-16-Ardalis/",
